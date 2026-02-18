@@ -1,150 +1,150 @@
 {
-  "updatedAt": "2026-02-18T11:03:11.433Z",
+  "updatedAt": "2026-02-18T12:18:49.483Z",
   "topics": {
     "htn_kidney": [
       {
-        "title": "Circadian rhythm modulation and immune landscape heterogeneity in hypertensive nephropathy: A comprehensive molecular exploration.",
-        "journal": "Chronobiology international",
-        "pubDate": "2026 Jan",
-        "studyType": "Journal Article",
-        "authors": "Jiao Y, Liu L, Lin W",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
-        "abstract": "The objective of this study was to unveil the interplay between circadian rhythms (CR) and hypertensive nephropathy (HTN) by investigating genes, pathways, and molecular functions and the correlation between CR and HTN's immune landscape through bioinformatic approaches. Key genes associated with CR in HTN were screened through an integrated analysis of GEO data, employing consensus clustering and machine learning approaches (Generalized Linear Models (GLM), Random Forest (RF), and Support Vector Machine (SVM)). CIBERSORT, ESTIMATE and ssGSEA algorithm were used to assess the infiltration of immune cells between HTN and control groups and in three distinct CR phenotypes of HTN. Functional an...",
-        "pmid": "41165032",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41165032/",
-        "doiUrl": "https://doi.org/10.1080/07420528.2025.2577865",
-        "url": "https://doi.org/10.1080/07420528.2025.2577865"
-      },
-      {
-        "title": "Integrated genomics and metabolomics to identify cause-specific biomarkers for chronic kidney disease in a Korean population.",
-        "journal": "Kidney research and clinical practice",
-        "pubDate": "2026 Jan",
-        "studyType": "Journal Article",
-        "authors": "Kang MW, Kim JE, Kang J",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
-        "abstract": "The heterogeneity of chronic kidney disease (CKD) and fragmented analysis methods hinder the precise identification of novel biomarkers. We addressed this challenge using two independent cohorts to integrate genomics and metabolomics, aiming to identify cause-specific biomarkers for CKD in the Korean population. A longitudinal genome-wide association study using the Cox proportional hazards model was conducted using the Ansan and Ansung cohort. To validate these genomic biomarkers and integrate them with plasma metabolomics biomarkers, we utilized a hospital-based biopsy cohort to identify cause-specific CKD biomarkers. Within the biopsy cohort, we analyzed four disease subsets, including ty...",
-        "pmid": "40468989",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40468989/",
-        "doiUrl": "https://doi.org/10.23876/j.krcp.24.135",
-        "url": "https://doi.org/10.23876/j.krcp.24.135"
-      },
-      {
-        "title": "Targeting the PHD2/HIF-1α/HO-1 pathway: A key role of trimetazidine in hypertensive nephropathy.",
-        "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
-        "pubDate": "2025 Dec 31",
-        "studyType": "Journal Article",
-        "authors": "Gu D, Chen M, Yang Y",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 129）。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
-        "abstract": "This study seeks to unravel the effects of trimetazidine (TMZ) on hypertensive nephropathy (HN) in mice and its underlying mechanisms. Sixty male 129 mice (8-10 weeks old) were randomly categorized into six groups ( n = 10 per group): control, model, TMZ, TMZ + small interfering RNA targeting prolyl hydroxylase domain protein 2 (si-PHD2), TMZ + zinc protoporphyrin [ZnPP, a heme oxygenase-1 (HO-1) inhibitor], and TMZ + KC7F2 [a hypoxia-inducible factor-1 alpha (HIF-1α) inhibitor]. All groups except the control group received angiotensin II to induce HN models. TMZ was administered by gavage for 28 days, while the other TMZ-based groups received additional si-PHD2, ZnPP, or KC7F2. Blood pressu...",
-        "pmid": "41076558",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41076558/",
-        "doiUrl": "https://doi.org/10.1080/10641963.2025.2563033",
-        "url": "https://doi.org/10.1080/10641963.2025.2563033"
-      },
-      {
-        "title": "Targeting αvβ8 Integrin with Monoclonal Antibody MEDI8367 Prevents Fibrosis in Preclinical Models of CKD.",
-        "journal": "Kidney360",
-        "pubDate": "2025 Dec 15",
-        "studyType": "Journal Article",
-        "authors": "Marin EL, Seth A, Liang L",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
-        "abstract": "CKD is a global health issue exacerbated by the rising prevalence of diabetes and obesity. Renal fibrosis, characterized by the accumulation of extracellular matrix proteins, is a critical factor in CKD progression. Transforming growth factor β (TGF-β), a key profibrotic cytokine, plays a pivotal role in this process. However, systemic inhibition of TGF-β has been limited by associated toxicities. This study explores the role of αvβ8 integrin in renal fibrosis and its potential as a therapeutic target in CKD. We used various preclinical models of CKD, including humanized αvβ8 mice and the db/db uninephrectomy model, to investigate the role of αvβ8 integrin in renal fibrosis. Gene Set Variati...",
-        "pmid": "41385288",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41385288/",
-        "doiUrl": "https://doi.org/10.34067/KID.0000001006",
-        "url": "https://doi.org/10.34067/KID.0000001006"
-      },
-      {
-        "title": "Immunofluorescence staining profiles of glomerular diseases: a single-center retrospective study.",
-        "journal": "Biochemistry and biophysics reports",
+        "title": "Application of serum STIM1, AOPPS, and urinary NGAL, AGT in the diagnosis of hypertensive nephropathy.",
+        "journal": "Renal failure",
         "pubDate": "2025 Dec",
         "studyType": "Journal Article",
-        "authors": "Song J, Cui X, Yuan S",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 10）。核心观点：提供了可直接用于临床判断的新证据。",
-        "abstract": "Immunofluorescence (IF) staining is essential for diagnosing glomerular diseases, yet comprehensive characterization of immune deposition patterns remains limited. We retrospectively analyzed 10,489 consecutive native kidney biopsies (2011-2022) from a tertiary center. IF staining for IgA, IgG, IgM, C1q, C3, C4d, and fibronectin was semi-quantitatively graded (0-4+) and deposits classified as mesangial area only (MAO), glomerular capillary loop only (GCLO), or combined mesangial-capillary loop (MA-GCL). IgA nephropathy (IgAN) was the most frequent diagnosis (38.4 %), followed by membranous nephropathy (16.8 %) and focal segmental glomerulosclerosis (13.7 %). IgA deposition was universal in I...",
-        "pmid": "41323803",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41323803/",
-        "doiUrl": "https://doi.org/10.1016/j.bbrep.2025.102362",
-        "url": "https://doi.org/10.1016/j.bbrep.2025.102362"
+        "authors": "Li B, Wang C, Ouyang D",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 123）。核心观点：提供了可直接用于临床判断的新证据。",
+        "abstract": "We aim to explore the diagnostic value of early detection of serum stromal interaction molecule 1 (STIM1), advanced oxidation protein products (AOPPs), urinary neutrophil gelatinase-associated lipocalin (NGAL), and angiotensinogen (AGT) in hypertensive nephropathy (HN). A retrospective study was conducted on 123 patients with primary hypertension. Based on the diagnostic criteria for HN, patients were divided into the HN group ( n = 58) and simple hypertension group ( n = 65). Additionally, 60 healthy individuals undergoing routine physical examinations were selected as the control group. The concentrations of serum STIM1, AOPPs, and urinary NGAL and AGT were assessed. The HN group exhibited...",
+        "pmid": "40555252",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40555252/",
+        "doiUrl": "https://doi.org/10.1080/0886022X.2025.2515527",
+        "url": "https://doi.org/10.1080/0886022X.2025.2515527"
+      },
+      {
+        "title": "Harnessing the multi-targeted potential of rehmanniae radix natural products against renal fibrosis: a mechanistic review.",
+        "journal": "Frontiers in pharmacology",
+        "pubDate": "2025",
+        "studyType": "Journal Article / Review",
+        "authors": "Zhao K, Zhu H, Zheng L",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：总结了当前治疗路径及证据分层，强调个体化决策。",
+        "abstract": "Renal fibrosis represents the final common pathological pathway of nearly all chronic kidney disease (CKD), yet effective therapeutic options remain profoundly limited. Rehmanniae Radix , a botanical drug in Traditional Chinese Medicine (TCM), has a long history of use for its nephroprotective properties. However, a systematic, mechanism-based understanding of how its natural products combat renal fibrosis is conspicuously absent. Herein, we present a comprehensive review to dissect the multi-component, multi-target, and multi-pathway mechanisms through which the major active ingredients of Rehmanniae Radix ameliorate renal fibrosis. Our analysis reveals that these natural products, includin...",
+        "pmid": "41333019",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41333019/",
+        "doiUrl": "https://doi.org/10.3389/fphar.2025.1690036",
+        "url": "https://doi.org/10.3389/fphar.2025.1690036"
+      },
+      {
+        "title": "Global Burden and Health Inequalities of Heart Failure Attributable to Chronic Kidney Disease: A Comprehensive Analysis from 1990 to 2021.",
+        "journal": "Cardiorenal medicine",
+        "pubDate": "2025 Nov 11",
+        "studyType": "Journal Article",
+        "authors": "Tang L, Li H, Wu Q",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 1990）。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "Limited data are available regarding the global burden of heart failure attributable to chronic kidney disease (CKD-HF). The aim of this study was to estimate the disease burden and cross-national disparities in CKD-HF from 1990 to 2021. CKD-HF prevalence and years lived with disability (YLDs) were extracted from the Global Burden of Disease (GBD) database. The slope index of inequality (SII) and concentration index were adopted for analyzing absolute and relative health inequalities, and the autoregressive integrated moving average (ARIMA) model was applied to project trends in CKD-HF burden through 2040. From 1990 to 2021, the CKD-HF age-standardized prevalence rate (ASPR) globally increas...",
+        "pmid": "41229274",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41229274/",
+        "doiUrl": "https://doi.org/10.1159/000549362",
+        "url": "https://doi.org/10.1159/000549362"
+      },
+      {
+        "title": "Association of quantitative renal surface nodularity with the renal dysfunction progression in patients with arterial hypertension.",
+        "journal": "BMC medical imaging",
+        "pubDate": "2025 Nov 4",
+        "studyType": "Journal Article",
+        "authors": "Wu Q, Zhou J, Yang H",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "Hypertensive nephropathy, a major cause of end-stage renal disease, lacks reliable noninvasive biomarkers. Renal surface nodularity (RSN) on CT may reflect nephrosclerosis, but existing methods fail to quantify nodularity heterogeneity or predict renal decline. This study developed a novel CT-based RSN metric and assessed its prognostic value in hypertensive patients. This retrospective cohort study included hypertensive patients who underwent contrast-enhanced CT. Patients with bilateral renal surface irregularities were assigned to the RSN group, with age- (± 2 year) and sex-matched controls (non-RSN group) randomly selected at a 1:1 ratio. RSN was quantified using three surface roughness ...",
+        "pmid": "41188746",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41188746/",
+        "doiUrl": "https://doi.org/10.1186/s12880-025-01995-5",
+        "url": "https://doi.org/10.1186/s12880-025-01995-5"
+      },
+      {
+        "title": "Construction and validation of a hypertensive nephropathy diagnostic model based on mitochondrial-related genes using machine learning combined with WGCNA.",
+        "journal": "International urology and nephrology",
+        "pubDate": "2025 Nov 4",
+        "studyType": "Journal Article",
+        "authors": "Tang G, Ding G, Xie L",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "Hypertensive nephropathy (HTN) arises from chronic hypertension and may potentially result in severe renal failure. Due to the absence of reliable and efficient biomarkers, the diagnosis of HTN is constrained. Mitochondrial-associated genes are closely associated with the pathogenesis of HTN. Our study aims to find new reliable diagnostic and therapeutic targets for HTN. We obtained the dataset GSE37460 from the GEO database and performed Weighted Gene Co-expression Network Analysis (WGCNA) to analyze the expression modules of differentially expressed genes (DEGs) identified from GSE37460, in conjunction with mitochondrial-related genes (MRGs) for hub gene selection. We employed KEGG, GO, an...",
+        "pmid": "41184495",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41184495/",
+        "doiUrl": "https://doi.org/10.1007/s11255-025-04887-3",
+        "url": "https://doi.org/10.1007/s11255-025-04887-3"
       }
     ],
     "portal_hypertension": [
       {
-        "title": "UDV-Net: A hybrid CNN and transformer vein segmentation network with vascular prior and spatial awareness.",
-        "journal": "Medical image analysis",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Shen B, Huang X, Li Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
-        "abstract": "CNNs handling multi-scale variations and Transformers modeling long-range dependencies are crucial for vascular segmentation. The fusion of these two models effectively combines the multi-scale local features extracted by CNNs with the global information modeled by Transformers, significantly enhancing the accuracy of blood vessel segmentation. However, the powerful model faces challenges when dealing with the gradual formation of extensive collateral vessels in the upper digestive system veins of patients with cirrhotic portal hypertension, leading to numerous false negative and false positive segmentation results. To this end, the paper proposes UDV-Net, a fusion network combining CNN and ...",
-        "pmid": "41518763",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41518763/",
-        "doiUrl": "https://doi.org/10.1016/j.media.2025.103929",
-        "url": "https://doi.org/10.1016/j.media.2025.103929"
-      },
-      {
-        "title": "Percutaneous transabdominal plug-assisted antegrade and retrograde transvenous embolization for the treatment of ruptured paraumbilical varices with concurrent flood syndrome: A case report.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Rogers S, Phan Q, Krishnarao A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 30）。核心观点：强调出血控制与再出血预防仍是管理重点。",
-        "abstract": "Ruptured paraumbilical varices and Flood syndrome (umbilical hernia rupture with ascites leakage) are both life-threatening conditions, each carrying >30% mortality. Co-occurrence of the 2 requires immediate portal decompression and variceal hemostasis for a chance of survival. This report presents a case of concurrent paraumbilical variceal rupture and Flood syndrome with massive leakage of ascites and blood in a 52-year-old male with alcohol-related cirrhosis. A strategy combining transjugular intrahepatic portosystemic shunt (TIPS) with direct percutaneous transvenous paraumbilical variceal embolization enabled immediate cessation of bleeding and eventual survival. Direct percutaneous tra...",
-        "pmid": "41480632",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41480632/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2025.11.033",
-        "url": "https://doi.org/10.1016/j.radcr.2025.11.033"
-      },
-      {
-        "title": "Non-contrast CT esophageal varices grading through clinical prior-enhanced multi-organ analysis.",
-        "journal": "Medical image analysis",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Zhang X, Li C, Hao J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 60）。核心观点：强调出血控制与再出血预防仍是管理重点。",
-        "abstract": "Esophageal varices (EV) represent a critical complication of portal hypertension, affecting approximately 60% of cirrhosis patients with a significant bleeding risk of ∼ 30%. While traditionally diagnosed through invasive endoscopy, non-contrast computed tomography (NCCT) presents a potential non-invasive alternative that has yet to be fully utilized in clinical practice. We present Multi-Organ-COhesion Network++ (MOON++), a novel multimodal framework that enhances EV assessment through comprehensive analysis of NCCT scans. Inspired by clinical evidence correlating organ volumetric relationships with liver disease severity, MOON++ synthesizes imaging characteristics of the esophagus, liver, ...",
-        "pmid": "41468635",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41468635/",
-        "doiUrl": "https://doi.org/10.1016/j.media.2025.103924",
-        "url": "https://doi.org/10.1016/j.media.2025.103924"
-      },
-      {
-        "title": "Pathophysiology of cystic fibrosis-related liver disease.",
-        "journal": "Current opinion in gastroenterology",
-        "pubDate": "2026 Mar 1",
-        "studyType": "Journal Article / Review",
-        "authors": "Palmiotti A, Bertolini A, Fiorotto R",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 10）。核心观点：总结了当前治疗路径及证据分层，强调个体化决策。",
-        "abstract": "Cystic fibrosis liver disease (CFLD) is a significant nonpulmonary complication of cystic fibrosis, affecting approximately 5-10% of patients. It encompasses a spectrum of hepatic abnormalities ranging from mild, transient elevations in liver enzymes to advanced CFLD (aCFLD), which is marked by clinically relevant portal hypertension due to cirrhotic or noncirrhotic liver pathology. This review focuses on aCFLD as the clinically meaningful form of the disease and summarizes recent mechanistic insights into its pathogenesis that may inform the development of targeted therapeutic strategies. CFLD pathogenesis has been traditionally linked to defective bile secretion. Emerging evidence, however...",
-        "pmid": "41461020",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41461020/",
-        "doiUrl": "https://doi.org/10.1097/MOG.0000000000001151",
-        "url": "https://doi.org/10.1097/MOG.0000000000001151"
-      },
-      {
-        "title": "ASO Visual Abstract: Identifying the Optimal Treatment for Patients with Hepatocellular Carcinoma and Clinically Significant Portal Hypertension: a Multicenter Propensity Score-Weighted Analysis.",
+        "title": "ASO Author Reflections: Liver Resection for Hepatocellular Carcinoma with Clinically Significant Portal Hypertension: Reflections on Past Debates, Present Evidence, and Future Directions.",
         "journal": "Annals of surgical oncology",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Zhao S, Zhu J, Zhu Y",
+        "authors": "Zhao S, Liu L",
         "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：提供了可直接用于临床判断的新证据。",
         "abstract": "No abstract available from PubMed.",
-        "pmid": "41454191",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41454191/",
-        "doiUrl": "https://doi.org/10.1245/s10434-025-18917-y",
-        "url": "https://doi.org/10.1245/s10434-025-18917-y"
+        "pmid": "41307866",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41307866/",
+        "doiUrl": "https://doi.org/10.1245/s10434-025-18818-0",
+        "url": "https://doi.org/10.1245/s10434-025-18818-0"
+      },
+      {
+        "title": "Identifying the Optimal Treatment for Patients with Hepatocellular Carcinoma and Clinically Significant Portal Hypertension: A Multicenter Propensity Score-Weighted Analysis.",
+        "journal": "Annals of surgical oncology",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article / Multicenter Study",
+        "authors": "Zhao S, Zhu J, Zhu Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "Portal hypertension restricts the available therapeutic choices for hepatocellular carcinoma (HCC), adversely impacting patients' prognosis. Established guidelines regarding the treatment of patients with clinically significant portal hypertension (CSPH) are still a matter of debate. This study aimed to evaluate the therapeutic outcomes and identify the optimal treatment strategy for such a population. The Kaplan-Meier method was utilized for survival analyses. The inverse probability of treatment weighting and multivariate Cox regression models were implemented to adjust for confounding covariates. The relationships between prognostic index and observation end points were evaluated using re...",
+        "pmid": "41240198",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41240198/",
+        "doiUrl": "https://doi.org/10.1245/s10434-025-18744-1",
+        "url": "https://doi.org/10.1245/s10434-025-18744-1"
+      },
+      {
+        "title": "Biomarkers of Extracellular Matrix Remodelling Are Linked to Severity and Outcome of Advanced Chronic Liver Disease.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Simbrunner B, Villesen IF, Semmler G",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 232）。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "Extracellular matrix (ECM) remodelling in advanced chronic liver disease (ACLD) is characterised by hepatic fibrosis and (sinusoidal) basement membrane development contributing to portal hypertension (PH) and clinical complications. Patients with stable ACLD (n = 232) undergoing hepatic venous pressure gradient (HVPG) measurement were included. Blood biomarkers reflecting fibrosis formation (PRO-C3, PRO-C6, PRO-C4 and PRO-C18L) and degradation (C3M, C4M and C6Ma3), as well as the Enhanced Liver Fibrosis (ELF) score were measured. Associations with disease severity and liver-related events (LRE: decompensation, acute-on-chronic liver failure, or liver-related death) were analysed. The cohort ...",
+        "pmid": "41077886",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41077886/",
+        "doiUrl": "https://doi.org/10.1111/apt.70407",
+        "url": "https://doi.org/10.1111/apt.70407"
+      },
+      {
+        "title": "A comparative evaluation of two subharmonic-aided pressure estimation (SHAPE) analysis methods.",
+        "journal": "Ultrasonics",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Mayer H, Machado P, Vu T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 200）。核心观点：提供了可直接用于临床判断的新证据。",
+        "abstract": "Pressure measurement in clinical practice is a valuable tool for diagnostic evaluation, especially in diseases such as portal hypertension. Currently, portal pressures are measured by invasive hepatic vein catheterization, posing risks to patients, and limiting how often measurements can be obtained. Subharmonic-aided pressure estimation (SHAPE) is an ultrasound-based technique that leverages ultrasound contrast agents (UCAs) to estimate changes in hydrostatic pressure. UCAs act as nonlinear oscillators when exposed to high enough acoustic pressures (typically > 200 kPa) and produce significant energy components ranging from subharmonics to higher harmonics. Tissues do not generate significa...",
+        "pmid": "41046629",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41046629/",
+        "doiUrl": "https://doi.org/10.1016/j.ultras.2025.107840",
+        "url": "https://doi.org/10.1016/j.ultras.2025.107840"
+      },
+      {
+        "title": "Left-Sided Portal Hypertension Induced by Splenic Arteriovenous Malformation: A Case Report.",
+        "journal": "The American journal of case reports",
+        "pubDate": "2026 Feb 16",
+        "studyType": "Journal Article",
+        "authors": "Zhang S, Li H, Cao G",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 53）。核心观点：强调出血控制与再出血预防仍是管理重点。",
+        "abstract": "BACKGROUND Left-sided portal hypertension (LSPH) is a rare condition that occurs when the splenic vein pressure elevated, which can lead to gastric varices, without abnormalities of hepatic function or esophageal varices. The main causes of LSPH are splenic vein compression, stenosis, and thrombosis. However, no cases of LSPH resulting from vascular malformation have been reported. In this case report, we describe our experience of a patient with LSPH caused by a splenic vein malformation. CASE REPORT The patient was a 53-year-old man who reported having melena for 2 weeks. Gastroscopy performed at another hospital revealed gastric varices, and abdominal contrast-enhanced computed tomography...",
+        "pmid": "41693181",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41693181/",
+        "doiUrl": "https://doi.org/10.12659/AJCR.950381",
+        "url": "https://doi.org/10.12659/AJCR.950381"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国称乌克兰谈判进入第二天取得“有意义的进展”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国称乌克兰谈判进入第二天取得“有意义的进展””。核心要点：美国特使在日内瓦第一天的会谈后发表了乐观的言论，但取得突破的希望仍然很低。",
+        "titleZh": "“艰难”的俄罗斯和乌克兰和平谈判没有取得突破",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““艰难”的俄罗斯和乌克兰和平谈判没有取得突破”。核心要点：乌克兰和俄罗斯第二天的谈判仅两个小时后就结束了。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Feb 2026 07:37:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Feb 2026 11:26:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "我会在睡梦中尖叫：叙利亚阿拉维派妇女讲述绑架和强奸事件",
@@ -181,20 +181,20 @@
     ],
     "finance": [
       {
-        "titleZh": "提高青年最低工资的计划可能会推迟",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“提高青年最低工资的计划可能会推迟”。核心要点：政府消息人士告诉英国广播公司新闻，他们可能会放慢使各年龄段最低工资平等的计​​划。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 18 Feb 2026 08:59:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "titleZh": "较低的燃油价格和机票价格有助于降低通胀",
         "summaryZh": "这是一条金融市场新闻，重点围绕“较低的燃油价格和机票价格有助于降低通胀”。核心要点：价格上涨的速度正在放缓，这可能导致利率下降。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Wed, 18 Feb 2026 09:16:19 GMT",
         "url": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "提高青年最低工资的计划可能会推迟",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“提高青年最低工资的计划可能会推迟”。核心要点：政府消息人士告诉英国广播公司新闻，他们可能会放慢使各年龄段最低工资平等的计​​划。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 11:19:12 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "监管机构警告英国肉店销售非法美白霜",
@@ -213,12 +213,12 @@
         "url": "https://www.bbc.com/news/articles/cj0dq19qjp2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Reddit 的人文内容在人工智能浪潮中获胜",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Reddit 的人文内容在人工智能浪潮中获胜”。核心要点：Reddit 表示，在互联网充斥着人工智能生成的内容的情况下，其人类贡献者受到重视。",
+        "titleZh": "“我不信任他们”——顶级主播对 Discord 年龄检查感到担忧",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我不信任他们”——顶级主播对 Discord 年龄检查感到担忧”。核心要点：该平台推出全球年龄检查的计划引起了流媒体社区的担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Feb 2026 00:03:10 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Feb 2026 01:47:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
