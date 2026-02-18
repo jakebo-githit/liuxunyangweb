@@ -1,0 +1,225 @@
+{
+  "updatedAt": "2026-02-18T11:03:11.433Z",
+  "topics": {
+    "htn_kidney": [
+      {
+        "title": "Circadian rhythm modulation and immune landscape heterogeneity in hypertensive nephropathy: A comprehensive molecular exploration.",
+        "journal": "Chronobiology international",
+        "pubDate": "2026 Jan",
+        "studyType": "Journal Article",
+        "authors": "Jiao Y, Liu L, Lin W",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "The objective of this study was to unveil the interplay between circadian rhythms (CR) and hypertensive nephropathy (HTN) by investigating genes, pathways, and molecular functions and the correlation between CR and HTN's immune landscape through bioinformatic approaches. Key genes associated with CR in HTN were screened through an integrated analysis of GEO data, employing consensus clustering and machine learning approaches (Generalized Linear Models (GLM), Random Forest (RF), and Support Vector Machine (SVM)). CIBERSORT, ESTIMATE and ssGSEA algorithm were used to assess the infiltration of immune cells between HTN and control groups and in three distinct CR phenotypes of HTN. Functional an...",
+        "pmid": "41165032",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41165032/",
+        "doiUrl": "https://doi.org/10.1080/07420528.2025.2577865",
+        "url": "https://doi.org/10.1080/07420528.2025.2577865"
+      },
+      {
+        "title": "Integrated genomics and metabolomics to identify cause-specific biomarkers for chronic kidney disease in a Korean population.",
+        "journal": "Kidney research and clinical practice",
+        "pubDate": "2026 Jan",
+        "studyType": "Journal Article",
+        "authors": "Kang MW, Kim JE, Kang J",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "The heterogeneity of chronic kidney disease (CKD) and fragmented analysis methods hinder the precise identification of novel biomarkers. We addressed this challenge using two independent cohorts to integrate genomics and metabolomics, aiming to identify cause-specific biomarkers for CKD in the Korean population. A longitudinal genome-wide association study using the Cox proportional hazards model was conducted using the Ansan and Ansung cohort. To validate these genomic biomarkers and integrate them with plasma metabolomics biomarkers, we utilized a hospital-based biopsy cohort to identify cause-specific CKD biomarkers. Within the biopsy cohort, we analyzed four disease subsets, including ty...",
+        "pmid": "40468989",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40468989/",
+        "doiUrl": "https://doi.org/10.23876/j.krcp.24.135",
+        "url": "https://doi.org/10.23876/j.krcp.24.135"
+      },
+      {
+        "title": "Targeting the PHD2/HIF-1α/HO-1 pathway: A key role of trimetazidine in hypertensive nephropathy.",
+        "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+        "pubDate": "2025 Dec 31",
+        "studyType": "Journal Article",
+        "authors": "Gu D, Chen M, Yang Y",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 129）。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "This study seeks to unravel the effects of trimetazidine (TMZ) on hypertensive nephropathy (HN) in mice and its underlying mechanisms. Sixty male 129 mice (8-10 weeks old) were randomly categorized into six groups ( n = 10 per group): control, model, TMZ, TMZ + small interfering RNA targeting prolyl hydroxylase domain protein 2 (si-PHD2), TMZ + zinc protoporphyrin [ZnPP, a heme oxygenase-1 (HO-1) inhibitor], and TMZ + KC7F2 [a hypoxia-inducible factor-1 alpha (HIF-1α) inhibitor]. All groups except the control group received angiotensin II to induce HN models. TMZ was administered by gavage for 28 days, while the other TMZ-based groups received additional si-PHD2, ZnPP, or KC7F2. Blood pressu...",
+        "pmid": "41076558",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41076558/",
+        "doiUrl": "https://doi.org/10.1080/10641963.2025.2563033",
+        "url": "https://doi.org/10.1080/10641963.2025.2563033"
+      },
+      {
+        "title": "Targeting αvβ8 Integrin with Monoclonal Antibody MEDI8367 Prevents Fibrosis in Preclinical Models of CKD.",
+        "journal": "Kidney360",
+        "pubDate": "2025 Dec 15",
+        "studyType": "Journal Article",
+        "authors": "Marin EL, Seth A, Liang L",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "CKD is a global health issue exacerbated by the rising prevalence of diabetes and obesity. Renal fibrosis, characterized by the accumulation of extracellular matrix proteins, is a critical factor in CKD progression. Transforming growth factor β (TGF-β), a key profibrotic cytokine, plays a pivotal role in this process. However, systemic inhibition of TGF-β has been limited by associated toxicities. This study explores the role of αvβ8 integrin in renal fibrosis and its potential as a therapeutic target in CKD. We used various preclinical models of CKD, including humanized αvβ8 mice and the db/db uninephrectomy model, to investigate the role of αvβ8 integrin in renal fibrosis. Gene Set Variati...",
+        "pmid": "41385288",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41385288/",
+        "doiUrl": "https://doi.org/10.34067/KID.0000001006",
+        "url": "https://doi.org/10.34067/KID.0000001006"
+      },
+      {
+        "title": "Immunofluorescence staining profiles of glomerular diseases: a single-center retrospective study.",
+        "journal": "Biochemistry and biophysics reports",
+        "pubDate": "2025 Dec",
+        "studyType": "Journal Article",
+        "authors": "Song J, Cui X, Yuan S",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 10）。核心观点：提供了可直接用于临床判断的新证据。",
+        "abstract": "Immunofluorescence (IF) staining is essential for diagnosing glomerular diseases, yet comprehensive characterization of immune deposition patterns remains limited. We retrospectively analyzed 10,489 consecutive native kidney biopsies (2011-2022) from a tertiary center. IF staining for IgA, IgG, IgM, C1q, C3, C4d, and fibronectin was semi-quantitatively graded (0-4+) and deposits classified as mesangial area only (MAO), glomerular capillary loop only (GCLO), or combined mesangial-capillary loop (MA-GCL). IgA nephropathy (IgAN) was the most frequent diagnosis (38.4 %), followed by membranous nephropathy (16.8 %) and focal segmental glomerulosclerosis (13.7 %). IgA deposition was universal in I...",
+        "pmid": "41323803",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41323803/",
+        "doiUrl": "https://doi.org/10.1016/j.bbrep.2025.102362",
+        "url": "https://doi.org/10.1016/j.bbrep.2025.102362"
+      }
+    ],
+    "portal_hypertension": [
+      {
+        "title": "UDV-Net: A hybrid CNN and transformer vein segmentation network with vascular prior and spatial awareness.",
+        "journal": "Medical image analysis",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Shen B, Huang X, Li Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：提出了预测模型，有助于临床分层与治疗选择。",
+        "abstract": "CNNs handling multi-scale variations and Transformers modeling long-range dependencies are crucial for vascular segmentation. The fusion of these two models effectively combines the multi-scale local features extracted by CNNs with the global information modeled by Transformers, significantly enhancing the accuracy of blood vessel segmentation. However, the powerful model faces challenges when dealing with the gradual formation of extensive collateral vessels in the upper digestive system veins of patients with cirrhotic portal hypertension, leading to numerous false negative and false positive segmentation results. To this end, the paper proposes UDV-Net, a fusion network combining CNN and ...",
+        "pmid": "41518763",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41518763/",
+        "doiUrl": "https://doi.org/10.1016/j.media.2025.103929",
+        "url": "https://doi.org/10.1016/j.media.2025.103929"
+      },
+      {
+        "title": "Percutaneous transabdominal plug-assisted antegrade and retrograde transvenous embolization for the treatment of ruptured paraumbilical varices with concurrent flood syndrome: A case report.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Rogers S, Phan Q, Krishnarao A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 30）。核心观点：强调出血控制与再出血预防仍是管理重点。",
+        "abstract": "Ruptured paraumbilical varices and Flood syndrome (umbilical hernia rupture with ascites leakage) are both life-threatening conditions, each carrying >30% mortality. Co-occurrence of the 2 requires immediate portal decompression and variceal hemostasis for a chance of survival. This report presents a case of concurrent paraumbilical variceal rupture and Flood syndrome with massive leakage of ascites and blood in a 52-year-old male with alcohol-related cirrhosis. A strategy combining transjugular intrahepatic portosystemic shunt (TIPS) with direct percutaneous transvenous paraumbilical variceal embolization enabled immediate cessation of bleeding and eventual survival. Direct percutaneous tra...",
+        "pmid": "41480632",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41480632/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2025.11.033",
+        "url": "https://doi.org/10.1016/j.radcr.2025.11.033"
+      },
+      {
+        "title": "Non-contrast CT esophageal varices grading through clinical prior-enhanced multi-organ analysis.",
+        "journal": "Medical image analysis",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Zhang X, Li C, Hao J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 60）。核心观点：强调出血控制与再出血预防仍是管理重点。",
+        "abstract": "Esophageal varices (EV) represent a critical complication of portal hypertension, affecting approximately 60% of cirrhosis patients with a significant bleeding risk of ∼ 30%. While traditionally diagnosed through invasive endoscopy, non-contrast computed tomography (NCCT) presents a potential non-invasive alternative that has yet to be fully utilized in clinical practice. We present Multi-Organ-COhesion Network++ (MOON++), a novel multimodal framework that enhances EV assessment through comprehensive analysis of NCCT scans. Inspired by clinical evidence correlating organ volumetric relationships with liver disease severity, MOON++ synthesizes imaging characteristics of the esophagus, liver, ...",
+        "pmid": "41468635",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41468635/",
+        "doiUrl": "https://doi.org/10.1016/j.media.2025.103924",
+        "url": "https://doi.org/10.1016/j.media.2025.103924"
+      },
+      {
+        "title": "Pathophysiology of cystic fibrosis-related liver disease.",
+        "journal": "Current opinion in gastroenterology",
+        "pubDate": "2026 Mar 1",
+        "studyType": "Journal Article / Review",
+        "authors": "Palmiotti A, Bertolini A, Fiorotto R",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 10）。核心观点：总结了当前治疗路径及证据分层，强调个体化决策。",
+        "abstract": "Cystic fibrosis liver disease (CFLD) is a significant nonpulmonary complication of cystic fibrosis, affecting approximately 5-10% of patients. It encompasses a spectrum of hepatic abnormalities ranging from mild, transient elevations in liver enzymes to advanced CFLD (aCFLD), which is marked by clinically relevant portal hypertension due to cirrhotic or noncirrhotic liver pathology. This review focuses on aCFLD as the clinically meaningful form of the disease and summarizes recent mechanistic insights into its pathogenesis that may inform the development of targeted therapeutic strategies. CFLD pathogenesis has been traditionally linked to defective bile secretion. Emerging evidence, however...",
+        "pmid": "41461020",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41461020/",
+        "doiUrl": "https://doi.org/10.1097/MOG.0000000000001151",
+        "url": "https://doi.org/10.1097/MOG.0000000000001151"
+      },
+      {
+        "title": "ASO Visual Abstract: Identifying the Optimal Treatment for Patients with Hepatocellular Carcinoma and Clinically Significant Portal Hypertension: a Multicenter Propensity Score-Weighted Analysis.",
+        "journal": "Annals of surgical oncology",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Zhao S, Zhu J, Zhu Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：提供了可直接用于临床判断的新证据。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41454191",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41454191/",
+        "doiUrl": "https://doi.org/10.1245/s10434-025-18917-y",
+        "url": "https://doi.org/10.1245/s10434-025-18917-y"
+      }
+    ]
+  },
+  "news": {
+    "world": [
+      {
+        "titleZh": "美国称乌克兰谈判进入第二天取得“有意义的进展”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国称乌克兰谈判进入第二天取得“有意义的进展””。核心要点：美国特使在日内瓦第一天的会谈后发表了乐观的言论，但取得突破的希望仍然很低。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 07:37:24 GMT",
+        "url": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "我会在睡梦中尖叫：叙利亚阿拉维派妇女讲述绑架和强奸事件",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“我会在睡梦中尖叫：叙利亚阿拉维派妇女讲述绑架和强奸事件”。核心要点：英国广播公司 (BBC) 听到令人痛心的袭击事件，这些袭击似乎是针对前总统阿萨德的教派。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 00:20:03 GMT",
+        "url": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "加州雪崩后救援人员搜寻九名失踪滑雪者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加州雪崩后救援人员搜寻九名失踪滑雪者”。核心要点：救援人员正在赶赴现场，过去 24 小时内降雪量约为 30 英寸（76 厘米）。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 09:09:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "登山者因抛下女友在奥地利最高峰死去而受审",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“登山者因抛下女友在奥地利最高峰死去而受审”。核心要点：克斯汀·G (Kerstin G) 的男友被指控在暴风雪期间让她在没有保护的情况下在接近山顶时感到疲惫不堪。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 07:58:02 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "皇马比赛因维尼修斯种族主义指控而暂停",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“皇马比赛因维尼修斯种族主义指控而暂停”。核心要点：在维尼修斯举报涉嫌种族歧视后，皇家马德里队与本菲卡队的欧冠淘汰赛附加赛暂停了 10 分钟。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 17 Feb 2026 21:31:49 GMT",
+        "url": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "finance": [
+      {
+        "titleZh": "提高青年最低工资的计划可能会推迟",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“提高青年最低工资的计划可能会推迟”。核心要点：政府消息人士告诉英国广播公司新闻，他们可能会放慢使各年龄段最低工资平等的计​​划。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 08:59:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "较低的燃油价格和机票价格有助于降低通胀",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“较低的燃油价格和机票价格有助于降低通胀”。核心要点：价格上涨的速度正在放缓，这可能导致利率下降。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 09:16:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "监管机构警告英国肉店销售非法美白霜",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“监管机构警告英国肉店销售非法美白霜”。核心要点：一个贸易机构警告说，非法皮肤漂白产品正在越来越多的地方销售。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 00:00:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c3rzn1pxr3qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "多付近3000英镑税款的护士“检查你的工资单”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“多付近3000英镑税款的护士“检查你的工资单””。核心要点：杰玛·贝尔比 (Gemma Belby) 表示，在与同事交谈后，她才发现自己缴纳了“双重税”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Feb 2026 06:17:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cj0dq19qjp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "Reddit 的人文内容在人工智能浪潮中获胜",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Reddit 的人文内容在人工智能浪潮中获胜”。核心要点：Reddit 表示，在互联网充斥着人工智能生成的内容的情况下，其人类贡献者受到重视。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 17 Feb 2026 00:03:10 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  }
+}

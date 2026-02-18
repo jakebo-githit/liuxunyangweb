@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>刘浔阳教授医学资讯网站</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <h1>刘浔阳教授医学资讯网站</h1>
+      <p>聚焦高血压肾病与门静脉高压症，每日更新最新研究进展</p>
+      <p id="updatedAt" class="updated">正在加载最新更新时间...</p>
+      <div class="toolbar">
+        <button id="fontToggleBtn" class="control-btn" type="button">开启超大字模式</button>
+        <button id="readPageBtn" class="control-btn" type="button">朗读本页重点</button>
+        <button id="stopReadBtn" class="control-btn" type="button">停止朗读</button>
+      </div>
+      <p id="voiceStatus" class="voice-status" aria-live="polite"></p>
+    </header>
+
+    <main class="container">
+      <section class="card" aria-labelledby="topic-htn-kidney">
+        <div class="card-head">
+          <h2 id="topic-htn-kidney">高血压肾病</h2>
+          <button class="control-btn read-topic-btn" type="button" data-topic="htn_kidney">朗读本栏</button>
+        </div>
+        <p class="topic-desc">
+          关注高血压导致肾损伤的诊断、药物治疗、肾保护策略与长期管理。
+        </p>
+        <ul id="list-htn-kidney" class="paper-list" aria-live="polite"></ul>
+      </section>
+
+      <section class="card" aria-labelledby="topic-portal-hypertension">
+        <div class="card-head">
+          <h2 id="topic-portal-hypertension">门静脉高压症</h2>
+          <button class="control-btn read-topic-btn" type="button" data-topic="portal_hypertension">朗读本栏</button>
+        </div>
+        <p class="topic-desc">
+          聚焦门静脉压力控制、介入与手术治疗、并发症预防及临床研究新进展。
+        </p>
+        <ul id="list-portal-hypertension" class="paper-list" aria-live="polite"></ul>
+      </section>
+
+      <section class="card" aria-labelledby="topic-world-news">
+        <h2 id="topic-world-news">当今世界最新时事新闻</h2>
+        <p class="topic-desc">全部中文显示，来源限定为国外英文媒体网站。</p>
+        <ul id="list-world-news" class="paper-list" aria-live="polite"></ul>
+      </section>
+
+      <section class="card" aria-labelledby="topic-finance-news">
+        <h2 id="topic-finance-news">当今世界最新金融新闻</h2>
+        <p class="topic-desc">全部中文显示，来源限定为国外英文媒体网站。</p>
+        <ul id="list-finance-news" class="paper-list" aria-live="polite"></ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>数据来源：PubMed（美国国家医学图书馆）</p>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
