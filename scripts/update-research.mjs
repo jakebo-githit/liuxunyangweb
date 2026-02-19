@@ -140,29 +140,71 @@ function detectMethodCn(studyType = "") {
 }
 
 function extractSampleHint(text = "") {
-  const m = text.match(/\b(\d{2,4})\b/);
+  const m =
+    text.match(/\b(?:n\s*=\s*|enrolled\s+|included\s+|patients?\s*[:=]?\s*)(\d{2,5})\b/i) ||
+    text.match(/\b(\d{2,5})\s+(?:patients?|participants?|subjects?)\b/i);
   return m ? `样本量约为 ${m[1]}` : "";
 }
 
-function detectCoreFinding(title = "", abstractText = "") {
-  const content = `${title} ${abstractText}`.toLowerCase();
-  if (content.includes("risk factor")) return "提示并发症或不良结局的危险因素可被提前识别。";
-  if (content.includes("review")) return "总结了当前治疗路径及证据分层，强调个体化决策。";
-  if (content.includes("improve") || content.includes("ameliorate")) return "结果显示该策略可改善关键临床或病理指标。";
-  if (content.includes("reduce") || content.includes("decrease")) return "结果提示该干预可降低损伤负担或事件风险。";
-  if (content.includes("predict") || content.includes("model")) return "提出了预测模型，有助于临床分层与治疗选择。";
-  if (content.includes("guideline") || content.includes("consensus")) return "对临床流程形成了可执行的规范化建议。";
-  if (content.includes("surgery") || content.includes("splenectomy")) return "强调围手术期评估与并发症防控是治疗成败关键。";
-  if (content.includes("varices") || content.includes("bleeding")) return "强调出血控制与再出血预防仍是管理重点。";
-  return "提供了可直接用于临床判断的新证据。";
+function splitSentences(text = "") {
+  return text
+    .replace(/\s+/g, " ")
+    .split(/(?<=[.!?])\s+/)
+    .map((s) => s.trim())
+    .filter((s) => s.length > 30);
 }
 
-function buildZhSummary({ topicKey, title, studyType, abstractText }) {
+function pickCoreEnglishSentence(title = "", abstractText = "") {
+  const candidates = splitSentences(abstractText);
+  const keywords = [
+    "significant",
+    "improved",
+    "reduced",
+    "decreased",
+    "associated",
+    "risk",
+    "effective",
+    "conclusion",
+    "suggest",
+    "found",
+    "predict",
+  ];
+
+  for (const sentence of candidates) {
+    const lower = sentence.toLowerCase();
+    if (keywords.some((k) => lower.includes(k))) return sentence;
+  }
+
+  if (candidates.length > 0) return candidates[0];
+  return title || "No abstract conclusion available.";
+}
+
+function pickImplicationEnglishSentence(title = "", abstractText = "", coreSentence = "") {
+  const candidates = splitSentences(abstractText);
+  const signals = ["conclusion", "suggest", "indicate", "therefore", "may", "could", "associated", "predict"];
+
+  for (const sentence of candidates) {
+    if (sentence === coreSentence) continue;
+    const lower = sentence.toLowerCase();
+    if (signals.some((s) => lower.includes(s))) return sentence;
+  }
+
+  for (const sentence of candidates) {
+    if (sentence !== coreSentence) return sentence;
+  }
+
+  return title || "This study provides additional evidence for clinical evaluation.";
+}
+
+async function buildZhSummary({ topicKey, title, studyType, abstractText }) {
   const topicZh = pickTopicZh(topicKey);
   const methodCn = detectMethodCn(studyType);
   const sampleHint = extractSampleHint(abstractText);
+  const coreEn = pickCoreEnglishSentence(title, abstractText).slice(0, 260);
+  const hintEn = pickImplicationEnglishSentence(title, abstractText, coreEn).slice(0, 220);
+  const [coreZh, hintZh] = await Promise.all([translateToZh(coreEn), translateToZh(hintEn)]);
   const sentence1 = `该文聚焦${topicZh}，属于${methodCn}${sampleHint ? `（${sampleHint}）` : ""}。`;
-  const sentence2 = `核心观点：${detectCoreFinding(title, abstractText)}`;
+  const sentence2 = `核心观点：${coreZh} 临床提示：${hintZh}`;
   return `${sentence1}${sentence2}`;
 }
 
@@ -223,6 +265,12 @@ async function fetchTopicPapers(topic, seenPmids) {
     const studyType = pubtypes.slice(0, 3).join(" / ") || "Not specified";
     const abstractText = compressText(abstractMap.get(pmid));
     const doi = parseDoi(item.elocationid || "");
+    const zhSummary = await buildZhSummary({
+      topicKey: topic.key,
+      title: item.title || "",
+      studyType,
+      abstractText,
+    });
 
     result.push({
       title: item.title || "无标题",
@@ -230,12 +278,7 @@ async function fetchTopicPapers(topic, seenPmids) {
       pubDate: item.pubdate || "日期未知",
       studyType,
       authors: (item.authors || []).slice(0, 3).map((a) => a.name).join(", ") || "Unknown",
-      zhSummary: buildZhSummary({
-        topicKey: topic.key,
-        title: item.title || "",
-        studyType,
-        abstractText,
-      }),
+      zhSummary,
       abstract: abstractText,
       pmid,
       pubmedUrl: `https://pubmed.ncbi.nlm.nih.gov/${pmid}/`,
