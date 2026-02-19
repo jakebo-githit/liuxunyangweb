@@ -44,23 +44,41 @@ const LATEST_PATH = path.resolve(DATA_DIR, "latest.json");
 const HISTORY_PATH = path.resolve(DATA_DIR, "research-history.json");
 
 async function fetchJson(url) {
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "father-medical-site/1.0",
-    },
-  });
-  if (!res.ok) throw new Error(`Request failed (${res.status}): ${url}`);
-  return res.json();
+  let lastError = null;
+  for (let i = 0; i < 3; i += 1) {
+    try {
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": "father-medical-site/1.0",
+        },
+      });
+      if (!res.ok) throw new Error(`Request failed (${res.status}): ${url}`);
+      return res.json();
+    } catch (error) {
+      lastError = error;
+      await new Promise((resolve) => setTimeout(resolve, 1000 * (i + 1)));
+    }
+  }
+  throw lastError;
 }
 
 async function fetchText(url) {
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "father-medical-site/1.0",
-    },
-  });
-  if (!res.ok) throw new Error(`Request failed (${res.status}): ${url}`);
-  return res.text();
+  let lastError = null;
+  for (let i = 0; i < 3; i += 1) {
+    try {
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": "father-medical-site/1.0",
+        },
+      });
+      if (!res.ok) throw new Error(`Request failed (${res.status}): ${url}`);
+      return res.text();
+    } catch (error) {
+      lastError = error;
+      await new Promise((resolve) => setTimeout(resolve, 1000 * (i + 1)));
+    }
+  }
+  throw lastError;
 }
 
 function decodeEntities(text) {
@@ -320,21 +338,36 @@ async function fetchNewsCategory(category) {
 
 async function main() {
   const history = await loadHistory();
+  const latest = await readJsonSafe(LATEST_PATH, { topics: {}, news: { world: [], finance: [] } });
   const topics = {};
 
   for (const topic of TOPICS) {
-    const seenSet = new Set(history.topics[topic.key] || []);
-    const papers = await fetchTopicPapers(topic, seenSet);
-    topics[topic.key] = papers;
+    try {
+      const seenSet = new Set(history.topics[topic.key] || []);
+      const papers = await fetchTopicPapers(topic, seenSet);
+      topics[topic.key] = papers;
 
-    const nextSeen = [...new Set([...(history.topics[topic.key] || []), ...papers.map((p) => p.pmid)])];
-    history.topics[topic.key] = nextSeen.slice(-1000);
+      const nextSeen = [...new Set([...(history.topics[topic.key] || []), ...papers.map((p) => p.pmid)])];
+      history.topics[topic.key] = nextSeen.slice(-1000);
+    } catch (error) {
+      console.warn(`Topic fetch failed (${topic.key}), using previous data.`, error?.message || error);
+      topics[topic.key] = (latest.topics?.[topic.key] || []).slice(0, PAPER_LIMIT);
+    }
   }
 
-  const news = {
-    world: await fetchNewsCategory("world"),
-    finance: await fetchNewsCategory("finance"),
-  };
+  const news = { world: [], finance: [] };
+  try {
+    news.world = await fetchNewsCategory("world");
+  } catch (error) {
+    console.warn("World news fetch failed, using previous data.", error?.message || error);
+    news.world = latest.news?.world || [];
+  }
+  try {
+    news.finance = await fetchNewsCategory("finance");
+  } catch (error) {
+    console.warn("Finance news fetch failed, using previous data.", error?.message || error);
+    news.finance = latest.news?.finance || [];
+  }
 
   const payload = {
     updatedAt: new Date().toISOString(),
