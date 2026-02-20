@@ -1,158 +1,106 @@
 {
-  "updatedAt": "2026-02-19T13:28:35.432Z",
+  "updatedAt": "2026-02-20T03:40:35.381Z",
   "topics": {
-    "htn_kidney": [
+    "htn_kidney": [],
+    "portal_hypertension": [
       {
-        "title": "Integrated network pharmacology and experimental validation to investigate the therapeutic effects and mechanisms of SJZT on hypertensive nephropathy.",
-        "journal": "Frontiers in pharmacology",
-        "pubDate": "2025",
-        "studyType": "Journal Article",
-        "authors": "Chen B, Wang G, Zhou J",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压肾病（HN）是高血压的常见并发症。 临床提示：临床上迫切需要新的HN治疗策略。",
-        "abstract": "Hypertensive nephropathy (HN) is a common complication of hypertension. Clinically, there is an urgent need for new HN treatment strategies. Sijunzitang (SJZT) is widely used in clinical practice, but its therapeutic effects and pharmacological mechanisms in the treatment of HN remain unclear. The active components, key targets, and potential pharmacological mechanisms of SJZT in treating HN were investigated through mass spectrometry, network pharmacology, and molecular docking. Subsequently, we validated the therapeutic effects of SJZT and the potential mechanisms using an Angiotensin II (Ang II)-induced HN mouse model and primary renal fibroblasts in vitro . Network pharmacology identifie...",
-        "pmid": "41069594",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41069594/",
-        "doiUrl": "https://doi.org/10.3389/fphar.2025.1625482",
-        "url": "https://doi.org/10.3389/fphar.2025.1625482"
-      },
-      {
-        "title": "The protective role of Agrin and CAF22 in hypertensive nephropathy.",
-        "journal": "International immunopharmacology",
-        "pubDate": "2025 Sep 23",
-        "studyType": "Journal Article",
-        "authors": "Yuan C, Zhang P, Zhan Z",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：最近的研究表明，Agrin 在心脏和骨骼肌等组织中发挥着重要作用。 临床提示：其裂解产物 C 端 Agrin 片段 22 (CAF22) 已被建议作为肾功能不全的潜在新生物标志物。",
-        "abstract": "Hypertensive nephropathy (HN), a major complication of hypertension, is characterized by key pathological features such as renal inflammation and fibrosis. Recent studies have demonstrated that Agrin plays a significant role in tissues such as the heart and skeletal muscle. Its cleavage product, the C-terminal Agrin fragment 22 (CAF22), has been suggested as a potential new biomarker for renal insufficiency. However, the role of Agrin and CAF22 in the HN remains underexplored. C57BL/6 mice were implanted with micro-osmotic pumps for continuous, slow infusion of angiotensin II (Ang II) over 4 weeks to establish a model of HN. Two weeks after pump implantation, recombinant Agrin (rAgrin) was a...",
-        "pmid": "40543102",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40543102/",
-        "doiUrl": "https://doi.org/10.1016/j.intimp.2025.115107",
-        "url": "https://doi.org/10.1016/j.intimp.2025.115107"
-      },
-      {
-        "title": "Methylglyoxal induces oxidative stress and ferroptosis of renal tubular epithelial cells in acute and chronic kidney injury mice.",
-        "journal": "Frontiers in cell and developmental biology",
-        "pubDate": "2025",
-        "studyType": "Journal Article",
-        "authors": "Zhang Y, Zhang X, Ren J",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：各种肾脏疾病中 MG 水平显着升高。 临床提示：甲基乙二醛（MG）是一种高反应性二羰基化合物，因其在肾损伤发病机制中的作用而日益受到人们的认可，特别是在糖尿病肾病和高血压等疾病中",
-        "abstract": "Methylglyoxal (MG), which is a highly reactive dicarbonyl compound, has been increasingly recognized due to its role in the pathogenesis of kidney injury, particularly in diseases such as diabetic nephropathy and hypertensive nephropathy. MG promotes advanced glycation end product (AGE) formation and directly impairs cell function. MG levels are significantly increased in various renal diseases. This study aimed to investigate the relationship between MG and ferroptosis, which is a form of cell death involving iron-dependent lipid peroxidation (LPO), during kidney injury. Animal and cellular experiments were conducted to verify that ferroptosis occurred after MG treatment, and RNA sequencing...",
-        "pmid": "41049288",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41049288/",
-        "doiUrl": "https://doi.org/10.3389/fcell.2025.1604575",
-        "url": "https://doi.org/10.3389/fcell.2025.1604575"
-      },
-      {
-        "title": "The Role of Cortisol and Aldosterone in Hypertensive Nephropathy.",
-        "journal": "Cureus",
-        "pubDate": "2025 Sep",
-        "studyType": "Journal Article",
-        "authors": "Javed Q, Ali H, Mohamed A",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：本研究调查了血清皮质醇和醛固酮水平的基线和纵向变化对原发性高血压患者高血压肾病风险和进展的独立和综合影响。 临床提示：高血压肾病是慢性肾脏病的一个关键原因，醛固酮和皮质醇都可能导致其进展。",
-        "abstract": "Hypertensive nephropathy is a key cause of chronic kidney disease, with both aldosterone and cortisol potentially contributing to its progression. This study investigated the independent and combined effects of baseline and longitudinal changes in serum cortisol and aldosterone levels on the risk and progression of hypertensive nephropathy in patients with essential hypertension. A prospective cohort study was conducted at Khyber Teaching Hospital, Peshawar, from January 2022 to December 2023, enrolling 190 adults (30-70 years) with essential hypertension and preserved renal function (estimated glomerular filtration rate (eGFR) ≥60 mL/min/1.73 m², no macroproteinuria). Patients with diabetes...",
-        "pmid": "41084694",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41084694/",
-        "doiUrl": "https://doi.org/10.7759/cureus.92130",
-        "url": "https://doi.org/10.7759/cureus.92130"
-      },
-      {
-        "title": "Protein profiles and associated biological pathways among different etiologies of chronic kidney disease: new insights from DAPA-CKD.",
-        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
-        "pubDate": "2025 Sep 8",
-        "studyType": "Journal Article",
-        "authors": "André de la Rambelje M, Beldhuis IE, Heerspink HJL",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：使用线性模型鉴定与糖尿病肾病 (DKD)、肾小球肾炎 (GN) 和高血压肾病 (HTN) 相关的蛋白质，以比较每种 CKD 病因与其他病因。 临床提示：我们研究了各种慢性肾脏病 (CKD) 病因之间的循环蛋白谱和分子通路，以研究其潜在的分子异质性。",
-        "abstract": "We investigated circulating protein profiles and molecular pathways among various chronic kidney disease (CKD) etiologies to study its underlying molecular heterogeneity. We conducted a proteomic biomarker analysis in the DAPA-CKD trial recruiting adults with and without type 2 diabetes with an eGFR of 25 to 75 mL/min/1.73m2 and a UACR of 200 to 5000 mg/g. A total of 2926 proteins were analyzed by Olink Explore in plasma samples collected at baseline. Proteins associated with diabetic kidney disease (DKD), glomerulonephritis (GN), and hypertensive nephropathy (HTN) were identified using linear models to compare each CKD etiology against the others. Of 4304 randomized participants, baseline p...",
-        "pmid": "40920470",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40920470/",
-        "doiUrl": "https://doi.org/10.1093/ndt/gfaf180",
-        "url": "https://doi.org/10.1093/ndt/gfaf180"
+        "title": "Terlipressin in paediatric hepatorenal syndrome-acute kidney injury (HRS-AKI).",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "pubDate": "2026 Feb 19",
+        "studyType": "Journal Article / Review",
+        "authors": "Alexander EC, Wyness B, Moore K",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：患有慢性肝病的儿童发生急性肾损伤 (AKI) 的风险增加，这可能是非肝肾综合征 AKI (non-HRS-AKI) 或肝肾综合征 AKI (HRS-AKI)。 临床提示：HRS-AKI 可能由脓毒症或炎症引发，这可能会影响肝硬化心肌病患者的心功能。",
+        "abstract": "Children with chronic liver disease are at increased risk of acute kidney injury (AKI), which could be non-hepatorenal syndrome AKI (non-HRS-AKI) or hepatorenal syndrome AKI (HRS-AKI). Approximately 5-10% of these children develop HRS-AKI. In this cohort, portal hypertension leads to splanchnic vasodilatation, reduced mean arterial pressure, and compensatory renal arteriolar vasoconstriction. The reduction of mean arterial pressure and renal vasoconstriction reduces renal perfusion, causing functional renal failure and AKI (acute kidney injury). HRS-AKI may be precipitated by sepsis or inflammation, which may impact cardiac function in patients with cirrhotic cardiomyopathy. While liver tran...",
+        "pmid": "41711944",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41711944/",
+        "doiUrl": "https://doi.org/10.1007/s00467-026-07205-w",
+        "url": "https://doi.org/10.1007/s00467-026-07205-w"
       }
-    ],
-    "portal_hypertension": []
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "韩国前总统因戒严企图被判终身监禁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“韩国前总统因戒严企图被判终身监禁”。核心要点：一名法官告诉法庭，尹石烈 (Yoon Suk Yeol) 于 2024 年 12 月提出的戒严令从根本上损害了韩国的民主。",
+        "titleZh": "特朗普表示世界有10天的时间看看伊朗是否同意协议或“糟糕的事情发生”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示世界有10天的时间看看伊朗是否同意协议或“糟糕的事情发生””。核心要点：在与伊斯兰共和国就其核计划进行谈判期间，美国正在向中东增兵。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 09:46:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Feb 2026 19:23:55 GMT",
+        "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "联合国称苏丹暴行是“种族灭绝的标志”",
         "summaryZh": "这是一条世界时事新闻，重点围绕“联合国称苏丹暴行是“种族灭绝的标志””。核心要点：联合国实况调查团在调查快速支援部队占领法希尔后发布了这份报告。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 08:08:41 GMT",
+        "publishedAt": "Thu, 19 Feb 2026 16:38:50 GMT",
         "url": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "白宫敦促伊朗达成协议，同时加强军事存在",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“白宫敦促伊朗达成协议，同时加强军事存在”。核心要点：美国媒体报道称，特朗普已与顾问讨论了袭击方案，袭击最早可能于周六发生。",
+        "titleZh": "特朗普和平委员会成员承诺向加沙提供 70 亿美元救援",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普和平委员会成员承诺向加沙提供 70 亿美元救援”。核心要点：特朗普表示，哈马斯“看起来”将解除武装，尽管有迹象表明该组织正在重组。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 06:08:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Feb 2026 21:33:35 GMT",
+        "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尽管哈马斯在与以色列的战斗中损失惨重，但仍重新控制加沙",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尽管哈马斯在与以色列的战斗中损失惨重，但仍重新控制加沙”。核心要点：加沙人表示，哈马斯再次扩大对安全、税收和政府服务的控制。",
+        "titleZh": "女友山上冻死 奥地利登山者被判有罪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“女友山上冻死 奥地利登山者被判有罪”。核心要点：该女子于 2025 年 1 月在大格洛克纳山登山时因体温过低死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 00:04:44 GMT",
-        "url": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 01:10:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普在对查戈斯协议的新攻击中告诉英国，不要放弃迪戈加西亚岛",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在对查戈斯协议的新攻击中告诉英国，不要放弃迪戈加西亚岛”。核心要点：就在美国正式支持英国查戈斯协议的一天后，总统发表了上述言论。",
+        "titleZh": "本季死亡人数超过 90 人：我们是否会看到更多雪崩？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“本季死亡人数超过 90 人：我们是否会看到更多雪崩？”。核心要点：最近在加利福尼亚和欧洲发生的致命事件使雪崩以及如何避免雪崩成为人们关注的焦点。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 09:03:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Feb 2026 21:57:01 GMT",
+        "url": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "天气变暖影响英国天然气公司所有者的利润",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“天气变暖影响英国天然气公司所有者的利润”。核心要点：精明的账单支付者四处寻找固定关税能源交易也削弱了英国天然气公司的收益。",
+        "titleZh": "文件显示，爱泼斯坦着眼于唱片公司投资以接触女性",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“文件显示，爱泼斯坦着眼于唱片公司投资以接触女性”。核心要点：他的同事表示，音乐产业“与 P 有关”，爱泼斯坦显然经常用这种方式来称呼女性。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 10:52:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 01:07:40 GMT",
+        "url": "https://www.bbc.com/news/articles/czx41k51595o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "IFS 表示，里夫斯专注于“功能失调”的借贷规则",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“IFS 表示，里夫斯专注于“功能失调”的借贷规则”。核心要点：该智囊团建议，德国总理的财政规则需要将焦点从一个关键人物转移。",
+        "titleZh": "曼德尔森联合创立的游说公司濒临倒闭",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“曼德尔森联合创立的游说公司濒临倒闭”。核心要点：全球法律顾问表示，管理人员将于周五接管控制权，并将其归咎于曼德尔森周围的“漩涡”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 03:09:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c1kg48m937wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Feb 2026 19:49:30 GMT",
+        "url": "https://www.bbc.com/news/articles/cz9q57y9y3xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么车头灯刺眼的问题没有快速解决办法",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么车头灯刺眼的问题没有快速解决办法”。核心要点：道路使用者表示，车头灯眩光是一个问题，但专家警告说，解决方案可能并不简单。",
+        "titleZh": "美国宇航局老板表示，波音星际客机的失败是其历史上最严重的失败之一",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国宇航局老板表示，波音星际客机的失败是其历史上最严重的失败之一”。核心要点：该机构发布了一份批评报告，将“星际客机”事件与致命的哥伦比亚号和挑战者号航天飞机灾难归为同一错误级别。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 09:43:37 GMT",
-        "url": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 01:44:48 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我们仍然处于紧张状态”：关税影响利润，玩具公司向美国最高法院求助",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我们仍然处于紧张状态”：关税影响利润，玩具公司向美国最高法院求助”。核心要点：一位玩具制造商在谈到贸易政策持续存在的不确定性时表示：“你不能对这位总统心存顾虑。”",
+        "titleZh": "垄断诉讼迫在眉睫，Live Nation 门票销售强劲",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“垄断诉讼迫在眉睫，Live Nation 门票销售强劲”。核心要点：去年，这家娱乐巨头的收入激增，有 1.59 亿粉丝观看了其演唱会。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 06:08:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c87515x9p0zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 01:09:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cgqgvxz27z7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Etsy 以 12 亿美元将二手时尚应用 Depop 出售给 eBay",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Etsy 以 12 亿美元将二手时尚应用 Depop 出售给 eBay”。核心要点：这家“备受青睐”的时装公司在 Etsy 收购该公司五年后就被出售了。",
+        "titleZh": "美国和印度尼西亚敲定协议将关税削减至19%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国和印度尼西亚敲定协议将关税削减至19%”。核心要点：华盛顿将对大多数印尼商品征收19%的关税，以换取美国商品降低贸易壁垒",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 11:07:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 03:05:32 GMT",
+        "url": "https://www.bbc.com/news/articles/cgk2d7yxm2zo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
