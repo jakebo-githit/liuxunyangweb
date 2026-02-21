@@ -1,106 +1,119 @@
 {
-  "updatedAt": "2026-02-20T03:40:35.381Z",
+  "updatedAt": "2026-02-21T03:32:21.639Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Terlipressin in paediatric hepatorenal syndrome-acute kidney injury (HRS-AKI).",
-        "journal": "Pediatric nephrology (Berlin, Germany)",
-        "pubDate": "2026 Feb 19",
+        "title": "Diagnostic performance of splenic stiffness measurement for prediction of esophageal/gastric varices in pediatric portal hypertension: A systematic review and meta-analysis.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "pubDate": "2026 Feb 20",
         "studyType": "Journal Article / Review",
-        "authors": "Alexander EC, Wyness B, Moore K",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：患有慢性肝病的儿童发生急性肾损伤 (AKI) 的风险增加，这可能是非肝肾综合征 AKI (non-HRS-AKI) 或肝肾综合征 AKI (HRS-AKI)。 临床提示：HRS-AKI 可能由脓毒症或炎症引发，这可能会影响肝硬化心肌病患者的心功能。",
-        "abstract": "Children with chronic liver disease are at increased risk of acute kidney injury (AKI), which could be non-hepatorenal syndrome AKI (non-HRS-AKI) or hepatorenal syndrome AKI (HRS-AKI). Approximately 5-10% of these children develop HRS-AKI. In this cohort, portal hypertension leads to splanchnic vasodilatation, reduced mean arterial pressure, and compensatory renal arteriolar vasoconstriction. The reduction of mean arterial pressure and renal vasoconstriction reduces renal perfusion, causing functional renal failure and AKI (acute kidney injury). HRS-AKI may be precipitated by sepsis or inflammation, which may impact cardiac function in patients with cirrhotic cardiomyopathy. While liver tran...",
-        "pmid": "41711944",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41711944/",
-        "doiUrl": "https://doi.org/10.1007/s00467-026-07205-w",
-        "url": "https://doi.org/10.1007/s00467-026-07205-w"
+        "authors": "Panda K, Dash DP, Pattnaik B",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：食管/胃静脉曲张（EV），尤其是临床上显着的静脉曲张（CSV），是小儿门脉高压（PH）危及生命的并发症，需要及时检测。 临床提示：虽然食管胃十二指肠镜检查 (EGD) 仍然是黄金标准，但其侵入性和对儿童镇静的要求突出表明需要可靠的非侵入性替代方案来进行筛查和风险分层。",
+        "abstract": "Esophageal/gastric varices (EV), especially clinically significant varices (CSV), represent life-threatening complications of pediatric portal hypertension (PH), necessitating timely detection. While esophagogastroduodenoscopy (EGD) remains the gold standard, its invasive nature and requirement for sedation in children highlight the need for reliable non-invasive alternatives for screening and risk stratification. Splenic stiffness measurement (SSM) has emerged as a potential tool. This systematic review and meta-analysis aimed to evaluate diagnostic accuracy of SSM for detecting EV and CSV in pediatric PH. A comprehensive search of PubMed, Scopus and Embase was performed up to January 2025....",
+        "pmid": "41718928",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41718928/",
+        "doiUrl": "https://doi.org/10.1007/s12664-025-01915-z",
+        "url": "https://doi.org/10.1007/s12664-025-01915-z"
+      },
+      {
+        "title": "Transvenous Extrahepatic Portosystemic Shunts (TEPS): Intravascular Ultrasound-Guided Creation of Portocaval, Mesocaval, and Splenorenal Shunts.",
+        "journal": "Journal of vascular and interventional radiology : JVIR",
+        "pubDate": "2026 Feb 17",
+        "studyType": "Journal Article",
+        "authors": "Gupta AN, Louie JD, Sze DY",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 13）。核心观点：评估血管内超声（IVUS）引导下经静脉肝外门体分流术（TEPS）对不适合经颈静脉肝内门体分流术（TIPS）建立的患者的可行性以及长期安全性和有效性。 临床提示：一项单中心回顾性研究对 23 名患者（19 名成人，4 名儿童；中位年龄 55.7 岁，范围 8-75 岁；男性 N=13，57%）进行了一项单中心回顾性研究，这些患者因静脉曲张出血（N=20，83%）、难治性静脉曲张出血而接受了 24 次 TEPS 治疗。",
+        "abstract": "To evaluate the feasibility and long-term safety and effectiveness of intravascular ultrasound (IVUS)-guided transvenous extrahepatic portosystemic shunt (TEPS) creation for patients unsuitable for transjugular intrahepatic portosystemic shunt (TIPS) creation. A single-center, retrospective study was performed in 23 patients (19 adult, 4 pediatric; median 55.7 years, range 8-75 years; male N=13, 57%) who underwent 24 TEPS creations for variceal bleeding (N=20, 83%), refractory ascites (N=3, 13%), or pre-operative portal decompression (N=1, 4%). Rationale for extrahepatic shunt included chronic portal vein occlusion (N=17, 71%), chronic SMV occlusion (N=2, 8%), obstructed intrahepatic path (N...",
+        "pmid": "41713725",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41713725/",
+        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.108596",
+        "url": "https://doi.org/10.1016/j.jvir.2026.108596"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普表示世界有10天的时间看看伊朗是否同意协议或“糟糕的事情发生”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示世界有10天的时间看看伊朗是否同意协议或“糟糕的事情发生””。核心要点：在与伊斯兰共和国就其核计划进行谈判期间，美国正在向中东增兵。",
+        "titleZh": "最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税”。核心要点：最高法院决定取消特朗普一些最全面的关税，给全球贸易带来了新的不确定性。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 19:23:55 GMT",
-        "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 01:43:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "联合国称苏丹暴行是“种族灭绝的标志”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“联合国称苏丹暴行是“种族灭绝的标志””。核心要点：联合国实况调查团在调查快速支援部队占领法希尔后发布了这份报告。",
+        "titleZh": "特朗普猛烈抨击最高法院法官的关税裁决",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普猛烈抨击最高法院法官的关税裁决”。核心要点：特朗普表示，投票反对关税的六名法官对他标志性的经济政策造成了重大打击，他们应该“绝对感到羞耻”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 16:38:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 02:19:29 GMT",
+        "url": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普和平委员会成员承诺向加沙提供 70 亿美元救援",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普和平委员会成员承诺向加沙提供 70 亿美元救援”。核心要点：特朗普表示，哈马斯“看起来”将解除武装，尽管有迹象表明该组织正在重组。",
+        "titleZh": "特朗普称正在考虑对伊朗进行有限军事打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称正在考虑对伊朗进行有限军事打击”。核心要点：特朗普发出新威胁的前一天，他似乎给了伊朗大约10天的时间来同意遏制其核计划的协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 21:33:35 GMT",
-        "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 22:38:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "女友山上冻死 奥地利登山者被判有罪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“女友山上冻死 奥地利登山者被判有罪”。核心要点：该女子于 2025 年 1 月在大格洛克纳山登山时因体温过低死亡。",
+        "titleZh": "选举临近之际，民族主义学生被杀让法国深陷困境",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“选举临近之际，民族主义学生被杀让法国深陷困境”。核心要点：极左武装分子被怀疑是昆汀·德兰克之死的幕后黑手，让-吕克·梅朗雄的政党受到广泛谴责。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 01:10:28 GMT",
-        "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 00:32:16 GMT",
+        "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "本季死亡人数超过 90 人：我们是否会看到更多雪崩？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“本季死亡人数超过 90 人：我们是否会看到更多雪崩？”。核心要点：最近在加利福尼亚和欧洲发生的致命事件使雪崩以及如何避免雪崩成为人们关注的焦点。",
+        "titleZh": "美国宇航局的目标是三月初将人类送回月球",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国宇航局的目标是三月初将人类送回月球”。核心要点：美国宇航局在阿耳忒弥斯二号任务成功进行“湿装彩排”后确定了发射日期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 21:57:01 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 17:00:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "文件显示，爱泼斯坦着眼于唱片公司投资以接触女性",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“文件显示，爱泼斯坦着眼于唱片公司投资以接触女性”。核心要点：他的同事表示，音乐产业“与 P 有关”，爱泼斯坦显然经常用这种方式来称呼女性。",
+        "titleZh": "最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税”。核心要点：最高法院决定取消特朗普一些最全面的关税，给全球贸易带来了新的不确定性。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 01:07:40 GMT",
-        "url": "https://www.bbc.com/news/articles/czx41k51595o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 01:43:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "曼德尔森联合创立的游说公司濒临倒闭",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“曼德尔森联合创立的游说公司濒临倒闭”。核心要点：全球法律顾问表示，管理人员将于周五接管控制权，并将其归咎于曼德尔森周围的“漩涡”。",
+        "titleZh": "专家表示，美国关税裁决后英国公司面临不确定性",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“专家表示，美国关税裁决后英国公司面临不确定性”。核心要点：在法院推翻美国多项关税后，英国公司陷入困境，但唐纳德·特朗普表示他将重新引入这些关税",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Feb 2026 19:49:30 GMT",
-        "url": "https://www.bbc.com/news/articles/cz9q57y9y3xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 22:29:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国宇航局老板表示，波音星际客机的失败是其历史上最严重的失败之一",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国宇航局老板表示，波音星际客机的失败是其历史上最严重的失败之一”。核心要点：该机构发布了一份批评报告，将“星际客机”事件与致命的哥伦比亚号和挑战者号航天飞机灾难归为同一错误级别。",
+        "titleZh": "特朗普的关税破坏了全球贸易秩序。现在怎么办？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的关税破坏了全球贸易秩序。现在怎么办？”。核心要点：如果您认为最高法院的裁决预示着特朗普上台前的一切将恢复如常，那么请再想一想。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 01:44:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 16:25:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "垄断诉讼迫在眉睫，Live Nation 门票销售强劲",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“垄断诉讼迫在眉睫，Live Nation 门票销售强劲”。核心要点：去年，这家娱乐巨头的收入激增，有 1.59 亿粉丝观看了其演唱会。",
+        "titleZh": "肯德基、Nando's 等公司放弃鸡肉福利承诺",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“肯德基、Nando's 等公司放弃鸡肉福利承诺”。核心要点：Wingstop、汉堡王和其他公司放弃了避免使用快速生长鸡的行业承诺",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 01:09:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cgqgvxz27z7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 16:17:53 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国和印度尼西亚敲定协议将关税削减至19%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国和印度尼西亚敲定协议将关税削减至19%”。核心要点：华盛顿将对大多数印尼商品征收19%的关税，以换取美国商品降低贸易壁垒",
+        "titleZh": "更高的税收帮助英国政府达到创纪录的一月份盈余",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“更高的税收帮助英国政府达到创纪录的一月份盈余”。核心要点：官方数据显示，政府从税收收入中获得的收入超出预期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 03:05:32 GMT",
-        "url": "https://www.bbc.com/news/articles/cgk2d7yxm2zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Feb 2026 12:13:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
