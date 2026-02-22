@@ -1,87 +1,74 @@
 {
-  "updatedAt": "2026-02-21T03:32:21.639Z",
+  "updatedAt": "2026-02-22T03:43:46.710Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Diagnostic performance of splenic stiffness measurement for prediction of esophageal/gastric varices in pediatric portal hypertension: A systematic review and meta-analysis.",
-        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
-        "pubDate": "2026 Feb 20",
-        "studyType": "Journal Article / Review",
-        "authors": "Panda K, Dash DP, Pattnaik B",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：食管/胃静脉曲张（EV），尤其是临床上显着的静脉曲张（CSV），是小儿门脉高压（PH）危及生命的并发症，需要及时检测。 临床提示：虽然食管胃十二指肠镜检查 (EGD) 仍然是黄金标准，但其侵入性和对儿童镇静的要求突出表明需要可靠的非侵入性替代方案来进行筛查和风险分层。",
-        "abstract": "Esophageal/gastric varices (EV), especially clinically significant varices (CSV), represent life-threatening complications of pediatric portal hypertension (PH), necessitating timely detection. While esophagogastroduodenoscopy (EGD) remains the gold standard, its invasive nature and requirement for sedation in children highlight the need for reliable non-invasive alternatives for screening and risk stratification. Splenic stiffness measurement (SSM) has emerged as a potential tool. This systematic review and meta-analysis aimed to evaluate diagnostic accuracy of SSM for detecting EV and CSV in pediatric PH. A comprehensive search of PubMed, Scopus and Embase was performed up to January 2025....",
-        "pmid": "41718928",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41718928/",
-        "doiUrl": "https://doi.org/10.1007/s12664-025-01915-z",
-        "url": "https://doi.org/10.1007/s12664-025-01915-z"
-      },
-      {
-        "title": "Transvenous Extrahepatic Portosystemic Shunts (TEPS): Intravascular Ultrasound-Guided Creation of Portocaval, Mesocaval, and Splenorenal Shunts.",
-        "journal": "Journal of vascular and interventional radiology : JVIR",
-        "pubDate": "2026 Feb 17",
-        "studyType": "Journal Article",
-        "authors": "Gupta AN, Louie JD, Sze DY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 13）。核心观点：评估血管内超声（IVUS）引导下经静脉肝外门体分流术（TEPS）对不适合经颈静脉肝内门体分流术（TIPS）建立的患者的可行性以及长期安全性和有效性。 临床提示：一项单中心回顾性研究对 23 名患者（19 名成人，4 名儿童；中位年龄 55.7 岁，范围 8-75 岁；男性 N=13，57%）进行了一项单中心回顾性研究，这些患者因静脉曲张出血（N=20，83%）、难治性静脉曲张出血而接受了 24 次 TEPS 治疗。",
-        "abstract": "To evaluate the feasibility and long-term safety and effectiveness of intravascular ultrasound (IVUS)-guided transvenous extrahepatic portosystemic shunt (TEPS) creation for patients unsuitable for transjugular intrahepatic portosystemic shunt (TIPS) creation. A single-center, retrospective study was performed in 23 patients (19 adult, 4 pediatric; median 55.7 years, range 8-75 years; male N=13, 57%) who underwent 24 TEPS creations for variceal bleeding (N=20, 83%), refractory ascites (N=3, 13%), or pre-operative portal decompression (N=1, 4%). Rationale for extrahepatic shunt included chronic portal vein occlusion (N=17, 71%), chronic SMV occlusion (N=2, 8%), obstructed intrahepatic path (N...",
-        "pmid": "41713725",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41713725/",
-        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.108596",
-        "url": "https://doi.org/10.1016/j.jvir.2026.108596"
+        "title": "Left-sided portal hypertension with gastrointestinal bleeding in paediatric solid pseudopapillary neoplasm of pancreas.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "pubDate": "2026 Feb 21",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Chakrabarti S, Shrivastava Y, Patnaik I",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：PubMed 没有可用的摘要。 临床提示：儿童胰腺实性假乳头状肿瘤的左侧门脉高压伴胃肠道出血。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41721632",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41721632/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70383",
+        "url": "https://doi.org/10.1002/jpn3.70383"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税”。核心要点：最高法院决定取消特朗普一些最全面的关税，给全球贸易带来了新的不确定性。",
+        "titleZh": "伊朗学生举行致命镇压以来首次大规模反政府抗议活动",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗学生举行致命镇压以来首次大规模反政府抗议活动”。核心要点：学生抗议者向上个月全国大规模抗议活动被镇压时丧生的数千名遇难者致敬。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 01:43:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普猛烈抨击最高法院法官的关税裁决",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普猛烈抨击最高法院法官的关税裁决”。核心要点：特朗普表示，投票反对关税的六名法官对他标志性的经济政策造成了重大打击，他们应该“绝对感到羞耻”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 02:19:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普称正在考虑对伊朗进行有限军事打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称正在考虑对伊朗进行有限军事打击”。核心要点：特朗普发出新威胁的前一天，他似乎给了伊朗大约10天的时间来同意遏制其核计划的协议。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 22:38:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 22:09:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "选举临近之际，民族主义学生被杀让法国深陷困境",
         "summaryZh": "这是一条世界时事新闻，重点围绕“选举临近之际，民族主义学生被杀让法国深陷困境”。核心要点：极左武装分子被怀疑是昆汀·德兰克之死的幕后黑手，让-吕克·梅朗雄的政党受到广泛谴责。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 00:32:16 GMT",
+        "publishedAt": "Sat, 21 Feb 2026 18:11:22 GMT",
         "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国宇航局的目标是三月初将人类送回月球",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国宇航局的目标是三月初将人类送回月球”。核心要点：美国宇航局在阿耳忒弥斯二号任务成功进行“湿装彩排”后确定了发射日期。",
+        "titleZh": "美国宇航局宇航员登月任务因火箭问题而推迟",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国宇航局宇航员登月任务因火箭问题而推迟”。核心要点：美国宇航局一名官员表示，在发现火箭存在问题后，往返月球背面的任务将被推迟。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 17:00:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 21:05:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "潜水员从贝加尔湖底部打捞出七名中国游客的尸体",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“潜水员从贝加尔湖底部打捞出七名中国游客的尸体”。核心要点：一名俄罗斯司机也因小巴坠入西伯利亚湖底的冰层而身亡。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 21 Feb 2026 16:43:36 GMT",
+        "url": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "萨尔萨音乐先驱的长号演奏家威利·科隆去世，享年 75 岁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“萨尔萨音乐先驱的长号演奏家威利·科隆去世，享年 75 岁”。核心要点：他的职业生涯跨越 60 年，发行了数十张专辑，被评为有史以来最有影响力的拉丁裔艺术家之一。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 22 Feb 2026 01:49:42 GMT",
+        "url": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“最高法院驳回特朗普的全球进口税，特朗普征收新的 10% 关税”。核心要点：最高法院决定取消特朗普一些最全面的关税，给全球贸易带来了新的不确定性。",
+        "titleZh": "特朗普表示他将把新的全球关税提高到15%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示他将把新的全球关税提高到15%”。核心要点：在周五宣布其大部分关税为非法后，特朗普宣布新的全球关税为 10%，他表示现在已将其提高至 15%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 01:43:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 20:50:06 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "专家表示，美国关税裁决后英国公司面临不确定性",
@@ -100,20 +87,20 @@
         "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "titleZh": "安德鲁被捕后，议员们将讨论对贸易特使角色的调查",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“安德鲁被捕后，议员们将讨论对贸易特使角色的调查”。核心要点：跨党派委员会还将调查英国贸易特使的任命和责任。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 21 Feb 2026 15:45:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "titleZh": "肯德基、Nando's 等公司放弃鸡肉福利承诺",
         "summaryZh": "这是一条金融市场新闻，重点围绕“肯德基、Nando's 等公司放弃鸡肉福利承诺”。核心要点：Wingstop、汉堡王和其他公司放弃了避免使用快速生长鸡的行业承诺",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 20 Feb 2026 16:17:53 GMT",
         "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "更高的税收帮助英国政府达到创纪录的一月份盈余",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“更高的税收帮助英国政府达到创纪录的一月份盈余”。核心要点：官方数据显示，政府从税收收入中获得的收入超出预期。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 12:13:35 GMT",
-        "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
