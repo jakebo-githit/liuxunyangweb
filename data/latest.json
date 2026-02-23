@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-02-22T03:43:46.710Z",
+  "updatedAt": "2026-02-23T03:48:29.545Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Left-sided portal hypertension with gastrointestinal bleeding in paediatric solid pseudopapillary neoplasm of pancreas.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
-        "pubDate": "2026 Feb 21",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Chakrabarti S, Shrivastava Y, Patnaik I",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：PubMed 没有可用的摘要。 临床提示：儿童胰腺实性假乳头状肿瘤的左侧门脉高压伴胃肠道出血。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41721632",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41721632/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70383",
-        "url": "https://doi.org/10.1002/jpn3.70383"
+        "title": "VIPs outperforms established models for predicting post-TIPS prognosis in viral hepatitis-dominant cirrhosis.",
+        "journal": "European journal of radiology",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Gao Z, Zhang K, Li B",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术 (TIPS) 可治疗肝硬化门脉高压并发症，但预测 TIPS 后的结果仍然具有挑战性，特别是在病毒性肝炎为主的人群中。 临床提示：系统评估新型 TIPS 后病毒相关指数 (VIP) 对 TIPS 后预后的预测性能。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) manages portal hypertension complications in cirrhosis, but predicting post-TIPS outcomes remains challenging, especially in viral hepatitis-dominated populations. To systematically evaluate the predictive performance of the novel Viral-Associated Index of Post-TIPS Score (VIPs) for post-TIPS prognosis. We also comprehensively compare it with six established clinical prognostic models and one imaging-based model (the spleen volume-based model, SvBM). We retrospectively analyzed 247 cirrhotic patients undergoing TIPS (56.7 % viral hepatitis). Baseline data calculated prognostic scores (VIPs, MELD, MELD-Na, FIPS, Child-Pugh, ALBI, MOTS, and ...",
+        "pmid": "41544552",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41544552/",
+        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.112672",
+        "url": "https://doi.org/10.1016/j.ejrad.2026.112672"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗学生举行致命镇压以来首次大规模反政府抗议活动",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗学生举行致命镇压以来首次大规模反政府抗议活动”。核心要点：学生抗议者向上个月全国大规模抗议活动被镇压时丧生的数千名遇难者致敬。",
+        "titleZh": "泽连斯基告诉 BBC 普京已经发动了第三次世界大战，必须阻止",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基告诉 BBC 普京已经发动了第三次世界大战，必须阻止”。核心要点：乌克兰总统在战争四周年纪念日前几天在基辅与英国广播公司 (BBC) 的杰里米·鲍文 (Jeremy Bowen) 进行了会面。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 22:09:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Feb 2026 22:00:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "选举临近之际，民族主义学生被杀让法国深陷困境",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“选举临近之际，民族主义学生被杀让法国深陷困境”。核心要点：极左武装分子被怀疑是昆汀·德兰克之死的幕后黑手，让-吕克·梅朗雄的政党受到广泛谴责。",
+        "titleZh": "墨西哥头号通缉毒枭“El Mencho”在军事行动中被击毙",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥头号通缉毒枭“El Mencho”在军事行动中被击毙”。核心要点：内梅西奥·奥塞格拉·塞万提斯，被称为“El Mencho”，是墨西哥最强大的贩毒集团之一的头目。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 18:11:22 GMT",
-        "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 00:55:41 GMT",
+        "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国宇航局宇航员登月任务因火箭问题而推迟",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国宇航局宇航员登月任务因火箭问题而推迟”。核心要点：美国宇航局一名官员表示，在发现火箭存在问题后，往返月球背面的任务将被推迟。",
+        "titleZh": "特勤局称武装男子进入特朗普官邸安全范围后被杀",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特勤局称武装男子进入特朗普官邸安全范围后被杀”。核心要点：警方称，嫌疑人被杀时携带猎枪和燃料罐。特朗普当时在华盛顿特区。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 21:05:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Feb 2026 22:08:03 GMT",
+        "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "潜水员从贝加尔湖底部打捞出七名中国游客的尸体",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“潜水员从贝加尔湖底部打捞出七名中国游客的尸体”。核心要点：一名俄罗斯司机也因小巴坠入西伯利亚湖底的冰层而身亡。",
+        "titleZh": "巴基斯坦对阿富汗发动致命袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦对阿富汗发动致命袭击”。核心要点：巴基斯坦表示，此次袭击是对该国最近发生的自杀式爆炸事件的报复。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 16:43:36 GMT",
-        "url": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Feb 2026 11:33:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "萨尔萨音乐先驱的长号演奏家威利·科隆去世，享年 75 岁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“萨尔萨音乐先驱的长号演奏家威利·科隆去世，享年 75 岁”。核心要点：他的职业生涯跨越 60 年，发行了数十张专辑，被评为有史以来最有影响力的拉丁裔艺术家之一。",
+        "titleZh": "阿西西圣方济各的骨头在意大利公开展出",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿西西圣方济各的骨头在意大利公开展出”。核心要点：意大利守护神的遗骸此前只公开露面过一次——那是 1978 年的一天。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 01:49:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Feb 2026 17:49:01 GMT",
+        "url": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "特朗普关税调整后企业和消费者面临的不确定性",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普关税调整后企业和消费者面临的不确定性”。核心要点：企业表示，美国总统唐纳德·特朗普宣布将征收 15% 的全球关税后，问题依然存在。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 22 Feb 2026 16:55:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“这是一场灾难”——努力遏制青年失业率上升的男子",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““这是一场灾难”——努力遏制青年失业率上升的男子”。核心要点：艾伦·米尔本返回家乡纽卡斯尔，对越来越多的年轻人失业情况进行调查。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 22 Feb 2026 03:37:08 GMT",
+        "url": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "廉价快时尚如何席卷印度小镇",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“廉价快时尚如何席卷印度小镇”。核心要点：现在，越来越多的小镇印度人开始购买价格实惠的品牌商品，而不是在集市上购买无标签的商品。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 23 Feb 2026 00:40:05 GMT",
+        "url": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "特朗普表示他将把新的全球关税提高到15%",
         "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示他将把新的全球关税提高到15%”。核心要点：在周五宣布其大部分关税为非法后，特朗普宣布新的全球关税为 10%，他表示现在已将其提高至 15%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 20:50:06 GMT",
+        "publishedAt": "Sun, 22 Feb 2026 08:08:24 GMT",
         "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "专家表示，美国关税裁决后英国公司面临不确定性",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“专家表示，美国关税裁决后英国公司面临不确定性”。核心要点：在法院推翻美国多项关税后，英国公司陷入困境，但唐纳德·特朗普表示他将重新引入这些关税",
+        "titleZh": "70 英镑是否变得越来越难以证明其合理性？更便宜的大作游戏的兴起",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“70 英镑是否变得越来越难以证明其合理性？更便宜的大作游戏的兴起”。核心要点：由于《GTA 6》等顶级游戏的售价预计为 100 美元（74 英镑），因此一些开发商故意降低定价。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 22:29:22 GMT",
-        "url": "https://www.bbc.com/news/articles/cj983wrngyvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普的关税破坏了全球贸易秩序。现在怎么办？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的关税破坏了全球贸易秩序。现在怎么办？”。核心要点：如果您认为最高法院的裁决预示着特朗普上台前的一切将恢复如常，那么请再想一想。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 16:25:34 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "安德鲁被捕后，议员们将讨论对贸易特使角色的调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“安德鲁被捕后，议员们将讨论对贸易特使角色的调查”。核心要点：跨党派委员会还将调查英国贸易特使的任命和责任。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 15:45:10 GMT",
-        "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "肯德基、Nando's 等公司放弃鸡肉福利承诺",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“肯德基、Nando's 等公司放弃鸡肉福利承诺”。核心要点：Wingstop、汉堡王和其他公司放弃了避免使用快速生长鸡的行业承诺",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 20 Feb 2026 16:17:53 GMT",
-        "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Feb 2026 01:30:31 GMT",
+        "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
