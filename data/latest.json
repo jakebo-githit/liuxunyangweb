@@ -1,106 +1,132 @@
 {
-  "updatedAt": "2026-02-23T03:48:29.545Z",
+  "updatedAt": "2026-02-24T03:45:29.282Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "VIPs outperforms established models for predicting post-TIPS prognosis in viral hepatitis-dominant cirrhosis.",
-        "journal": "European journal of radiology",
+        "title": "Epidemiology of Compensated Advanced Chronic Liver Disease (cACLD) in the United States: Insights From the National Health and Nutrition Examination Survey, 2017-2020.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Gao Z, Zhang K, Li B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术 (TIPS) 可治疗肝硬化门脉高压并发症，但预测 TIPS 后的结果仍然具有挑战性，特别是在病毒性肝炎为主的人群中。 临床提示：系统评估新型 TIPS 后病毒相关指数 (VIP) 对 TIPS 后预后的预测性能。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) manages portal hypertension complications in cirrhosis, but predicting post-TIPS outcomes remains challenging, especially in viral hepatitis-dominated populations. To systematically evaluate the predictive performance of the novel Viral-Associated Index of Post-TIPS Score (VIPs) for post-TIPS prognosis. We also comprehensively compare it with six established clinical prognostic models and one imaging-based model (the spleen volume-based model, SvBM). We retrospectively analyzed 247 cirrhotic patients undergoing TIPS (56.7 % viral hepatitis). Baseline data calculated prognostic scores (VIPs, MELD, MELD-Na, FIPS, Child-Pugh, ALBI, MOTS, and ...",
-        "pmid": "41544552",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41544552/",
-        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.112672",
-        "url": "https://doi.org/10.1016/j.ejrad.2026.112672"
+        "authors": "Goyal RM, Doshi A, Rao S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：代偿性晚期慢性肝病（cACLD）包括无症状患者的晚期纤维化和肝硬化，这些患者有发生临床上显着的门静脉高压的风险。 临床提示：cACLD 患者失代偿和肝脏相关死亡的风险很高，因此需要进一步评估。",
+        "abstract": "Compensated advanced chronic liver disease (cACLD) encompasses advanced fibrosis and cirrhosis in asymptomatic patients at risk of developing clinically significant portal hypertension. Patients having cACLD are at high risk of decompensation and liver-related mortality and hence require further evaluation. Due to limited epidemiologic data on cACLD, we aimed to assess its prevalence in the United States (U.S.). We performed a cross-sectional study analyzing adults who underwent transient elastography using the National Health and Nutrition Examination Survey (NHANES) database from 2017 to March 2020. The Baveno VII's liver stiffness measurement criteria were applied: <10 kPa to rule out, 10...",
+        "pmid": "40581070",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40581070/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.06.010",
+        "url": "https://doi.org/10.1016/j.cgh.2025.06.010"
+      },
+      {
+        "title": "Platelet and Doppler ultrasound signatures of histological fibrosis in chronic liver disease: a correlation study based on Ishak staging.",
+        "journal": "Journal of ultrasound",
+        "pubDate": "2026 Feb 22",
+        "studyType": "Journal Article",
+        "authors": "Boccatonda A, Garlisi MC, Brighenti A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 120）。核心观点：肝纤维化的无创评估仍然是临床肝病学的主要挑战。 临床提示：血小板计数和多普勒超声参数已被提议作为门静脉高压和纤维化重塑的间接标志物，但它们与整个疾病的组织学纤维化严重程度之间的关系",
+        "abstract": "Non-invasive assessment of hepatic fibrosis remains a major challenge in clinical hepatology. Platelet count and Doppler ultrasound parameters have been proposed as indirect markers of portal hypertension and fibrotic remodeling, yet their relationship with histological fibrosis severity across the full disease spectrum is not fully defined. This study aimed to evaluate the associations between platelet count (PLT) and Doppler ultrasound parameters along the histological continuum of hepatic fibrosis assessed by the Ishak staging system. In this retrospective study, 120 patients with biopsy-proven hepatic fibrosis were analyzed. Doppler ultrasound examinations were performed just before the ...",
+        "pmid": "41724905",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41724905/",
+        "doiUrl": "https://doi.org/10.1007/s40477-026-01126-y",
+        "url": "https://doi.org/10.1007/s40477-026-01126-y"
+      },
+      {
+        "title": "Atypical Presentation of Downhill Esophageal Varices: A Diagnostic Enigma.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Feb",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Al Annan K, Khan H, Scranton M",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：下坡食管静脉曲张（DEV）是近端食管的罕见血管异常，通常由上腔静脉阻塞引起。 临床提示：我们报道了一名 75 岁男性，他出现间歇性吞咽困难和球状感觉，内窥镜检查显示有大的近端食管静脉曲张。",
+        "abstract": "Downhill esophageal varices (DEV) are rare vascular abnormalities of the proximal esophagus, commonly caused by superior vena cava obstruction. We report a 75-year-old man who presented with intermittent dysphagia and globus sensation, in whom endoscopy demonstrated large proximal esophageal varices. Extensive evaluation excluded portal hypertension and cross-sectional imaging, and venography showed a patent superior vena cava and inferior vena cava but demonstrated right internal jugular vein occlusion with possible azygos system compression. These findings were considered remote and insufficient to explain the extensive proximal varices, which were ultimately classified as idiopathic DEV. ...",
+        "pmid": "41728253",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41728253/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002013",
+        "url": "https://doi.org/10.14309/crj.0000000000002013"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "泽连斯基告诉 BBC 普京已经发动了第三次世界大战，必须阻止",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基告诉 BBC 普京已经发动了第三次世界大战，必须阻止”。核心要点：乌克兰总统在战争四周年纪念日前几天在基辅与英国广播公司 (BBC) 的杰里米·鲍文 (Jeremy Bowen) 进行了会面。",
+        "titleZh": "毒枭死后墨西哥派出数千名士兵制止暴力",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“毒枭死后墨西哥派出数千名士兵制止暴力”。核心要点：一名有权有势的贩毒集团老大被特种部队抓获后身亡，墨西哥各地爆发了一股暴力浪潮。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 22:00:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 21:12:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "墨西哥头号通缉毒枭“El Mencho”在军事行动中被击毙",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥头号通缉毒枭“El Mencho”在军事行动中被击毙”。核心要点：内梅西奥·奥塞格拉·塞万提斯，被称为“El Mencho”，是墨西哥最强大的贩毒集团之一的头目。",
+        "titleZh": "美国东海岸降雪破纪录 5000多个航班取消",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国东海岸降雪破纪录 5000多个航班取消”。核心要点：一场大暴风雪席卷了美国东北部，造成数百万人次航班取消。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 00:55:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 03:41:18 GMT",
+        "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特勤局称武装男子进入特朗普官邸安全范围后被杀",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特勤局称武装男子进入特朗普官邸安全范围后被杀”。核心要点：警方称，嫌疑人被杀时携带猎枪和燃料罐。特朗普当时在华盛顿特区。",
+        "titleZh": "由于伊朗紧张局势升级，美国部分撤离贝鲁特大使馆",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于伊朗紧张局势升级，美国部分撤离贝鲁特大使馆”。核心要点：经过安全审查后，国务院已下令非必要工作人员离开贝鲁特大使馆。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 22:08:03 GMT",
-        "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 19:08:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴基斯坦对阿富汗发动致命袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦对阿富汗发动致命袭击”。核心要点：巴基斯坦表示，此次袭击是对该国最近发生的自杀式爆炸事件的报复。",
+        "titleZh": "乌克兰全面战争已过去四年，俄罗斯已感受到影响",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰全面战争已过去四年，俄罗斯已感受到影响”。核心要点：史蒂夫·罗森伯格报道了俄罗斯战争的经济后果以及人们如何应对。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 11:33:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 06:01:59 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿西西圣方济各的骨头在意大利公开展出",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿西西圣方济各的骨头在意大利公开展出”。核心要点：意大利守护神的遗骸此前只公开露面过一次——那是 1978 年的一天。",
+        "titleZh": "乌克兰谈判代表告诉BBC 与俄罗斯坐在桌子对面的感觉",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰谈判代表告诉BBC 与俄罗斯坐在桌子对面的感觉”。核心要点：谢尔盖·基斯利齐亚 (Sergiy Kyslytsya) 是试图通过谈判结束冲突的人士之一，这场冲突已进入第五个年头。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 17:49:01 GMT",
-        "url": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 19:17:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普关税调整后企业和消费者面临的不确定性",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普关税调整后企业和消费者面临的不确定性”。核心要点：企业表示，美国总统唐纳德·特朗普宣布将征收 15% 的全球关税后，问题依然存在。",
+        "titleZh": "零售商警告说，巧克力可能会被盗，因此被存放在防盗盒中",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“零售商警告说，巧克力可能会被盗，因此被存放在防盗盒中”。核心要点：零售商和警方告诉英国广播公司，窃贼的目标是巧克力并进行销售。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 16:55:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c98qjl76eyro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 00:07:42 GMT",
+        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“这是一场灾难”——努力遏制青年失业率上升的男子",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““这是一场灾难”——努力遏制青年失业率上升的男子”。核心要点：艾伦·米尔本返回家乡纽卡斯尔，对越来越多的年轻人失业情况进行调查。",
+        "titleZh": "改革誓言彻底改革新地方政府工作人员的养老金计划",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“改革誓言彻底改革新地方政府工作人员的养老金计划”。核心要点：如果上任，改革计划将终止为新地方政府工作人员提供更慷慨的固定福利养老金计划",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 03:37:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cy7jxv7p2mxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 22:14:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "廉价快时尚如何席卷印度小镇",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“廉价快时尚如何席卷印度小镇”。核心要点：现在，越来越多的小镇印度人开始购买价格实惠的品牌商品，而不是在集市上购买无标签的商品。",
+        "titleZh": "联邦快递起诉特朗普退还关税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“联邦快递起诉特朗普退还关税”。核心要点：美国最高法院最近裁定特朗普总统在征收全球关税时越权，为企业寻求退款铺平了道路。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 00:40:05 GMT",
-        "url": "https://www.bbc.com/news/articles/c15xvy7k2q5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 01:18:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示他将把新的全球关税提高到15%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示他将把新的全球关税提高到15%”。核心要点：在周五宣布其大部分关税为非法后，特朗普宣布新的全球关税为 10%，他表示现在已将其提高至 15%。",
+        "titleZh": "10号称美国新关税“没有什么不可能”，因为英国可能是受打击最严重的国家之一",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“10号称美国新关税“没有什么不可能”，因为英国可能是受打击最严重的国家之一”。核心要点：唐宁街表示，在美国总统唐纳德·特朗普宣布征收 15% 的全球关税后，讨论仍在继续。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Feb 2026 08:08:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 18:34:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "70 英镑是否变得越来越难以证明其合理性？更便宜的大作游戏的兴起",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“70 英镑是否变得越来越难以证明其合理性？更便宜的大作游戏的兴起”。核心要点：由于《GTA 6》等顶级游戏的售价预计为 100 美元（74 英镑），因此一些开发商故意降低定价。",
+        "titleZh": "公司董事因700万英镑航空零部件欺诈被判入狱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“公司董事因700万英镑航空零部件欺诈被判入狱”。核心要点：法官表示，这些行为“或多或少完全破坏了”旨在确保客运航班安全的规则。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Feb 2026 01:30:31 GMT",
-        "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Feb 2026 16:43:44 GMT",
+        "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
