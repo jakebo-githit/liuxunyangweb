@@ -1,132 +1,145 @@
 {
-  "updatedAt": "2026-02-24T03:45:29.282Z",
+  "updatedAt": "2026-02-25T03:45:41.764Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Epidemiology of Compensated Advanced Chronic Liver Disease (cACLD) in the United States: Insights From the National Health and Nutrition Examination Survey, 2017-2020.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 Mar",
+        "title": "Effect of Hormone Replacement Therapy on Liver and Cardiometabolic Outcomes in Peri-Menopausal MASLD.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Apr",
         "studyType": "Journal Article",
-        "authors": "Goyal RM, Doshi A, Rao S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：代偿性晚期慢性肝病（cACLD）包括无症状患者的晚期纤维化和肝硬化，这些患者有发生临床上显着的门静脉高压的风险。 临床提示：cACLD 患者失代偿和肝脏相关死亡的风险很高，因此需要进一步评估。",
-        "abstract": "Compensated advanced chronic liver disease (cACLD) encompasses advanced fibrosis and cirrhosis in asymptomatic patients at risk of developing clinically significant portal hypertension. Patients having cACLD are at high risk of decompensation and liver-related mortality and hence require further evaluation. Due to limited epidemiologic data on cACLD, we aimed to assess its prevalence in the United States (U.S.). We performed a cross-sectional study analyzing adults who underwent transient elastography using the National Health and Nutrition Examination Survey (NHANES) database from 2017 to March 2020. The Baveno VII's liver stiffness measurement criteria were applied: <10 kPa to rule out, 10...",
-        "pmid": "40581070",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40581070/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.06.010",
-        "url": "https://doi.org/10.1016/j.cgh.2025.06.010"
+        "authors": "Henney AE, Wilson J, Riley DR",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：代谢功能障碍相关的脂肪肝病（MASLD）是全球最常见的慢性肝病。 临床提示：更年期与肝脏脂肪沉积增加有关，从而导致代谢功能障碍，导致进行性肝脏和心血管疾病的风险增加。",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most common chronic liver disease globally. Menopause is associated with increased hepatic fat deposition and thus metabolic dysfunction, contributing to heightened risk of progressive liver and cardiovascular disease. Hormone replacement therapy (HRT), supported by pre-clinical data, may be associated with a lower risk. We performed a retrospective cohort study using the TriNetX global federated research network. Eligible participants were peri-menopausal women (ICD-10 codes N95/Z78.0, AND age 40-65 years) with pre-existing MASLD (based on ICD-10 codes K76.0/K75.81 or positive modified hepatic steatosis index plus ≥ 1 m...",
+        "pmid": "41731345",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41731345/",
+        "doiUrl": "https://doi.org/10.1111/liv.70562",
+        "url": "https://doi.org/10.1111/liv.70562"
       },
       {
-        "title": "Platelet and Doppler ultrasound signatures of histological fibrosis in chronic liver disease: a correlation study based on Ishak staging.",
-        "journal": "Journal of ultrasound",
-        "pubDate": "2026 Feb 22",
+        "title": "Improved outcomes in primary hepatocellular carcinoma adjacent to large vessels: A combined approach of MRI-guided radiofrequency ablation and (125)I implantation.",
+        "journal": "Brachytherapy",
+        "pubDate": "2026 Mar-Apr",
         "studyType": "Journal Article",
-        "authors": "Boccatonda A, Garlisi MC, Brighenti A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 120）。核心观点：肝纤维化的无创评估仍然是临床肝病学的主要挑战。 临床提示：血小板计数和多普勒超声参数已被提议作为门静脉高压和纤维化重塑的间接标志物，但它们与整个疾病的组织学纤维化严重程度之间的关系",
-        "abstract": "Non-invasive assessment of hepatic fibrosis remains a major challenge in clinical hepatology. Platelet count and Doppler ultrasound parameters have been proposed as indirect markers of portal hypertension and fibrotic remodeling, yet their relationship with histological fibrosis severity across the full disease spectrum is not fully defined. This study aimed to evaluate the associations between platelet count (PLT) and Doppler ultrasound parameters along the histological continuum of hepatic fibrosis assessed by the Ishak staging system. In this retrospective study, 120 patients with biopsy-proven hepatic fibrosis were analyzed. Doppler ultrasound examinations were performed just before the ...",
-        "pmid": "41724905",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41724905/",
-        "doiUrl": "https://doi.org/10.1007/s40477-026-01126-y",
-        "url": "https://doi.org/10.1007/s40477-026-01126-y"
+        "authors": "Miao X, Guo R, Lin Q",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 84）。核心观点：评估 MRI 引导射频消融 (RFA) 与 125 I 粒子近距离放射治疗相结合治疗邻近大血管（直径≥3 mm）的肝细胞癌 (HCC) 的临床疗效和可行性。 临床提示：这项单中心、回顾性队列研究分析了 2010 年 3 月至 2017 年 3 月前瞻性收集的数据。",
+        "abstract": "To assess the clinical efficacy and feasibility of combining MRI-guided radiofrequency ablation (RFA) with 125 I seed brachytherapy for hepatocellular carcinoma (HCC) adjoining large vessels (≥3 mm diameter). This single-center, retrospective cohort study analyzed prospectively collected data from March 2010 to March 2017. Approved by the institutional ethics review board, this retrospective analysis evaluated 84 patients with HCC situated near major vasculature, treated from March 2010 to March 2017. A total of 97 tumors underwent MRI-guided RFA combined with 125 I seed implantation. Outcome measures included technical success, overall survival (OS), recurrence-free survival, local tumor pr...",
+        "pmid": "41577577",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41577577/",
+        "doiUrl": "https://doi.org/10.1016/j.brachy.2025.12.005",
+        "url": "https://doi.org/10.1016/j.brachy.2025.12.005"
       },
       {
-        "title": "Atypical Presentation of Downhill Esophageal Varices: A Diagnostic Enigma.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Feb",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Al Annan K, Khan H, Scranton M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：下坡食管静脉曲张（DEV）是近端食管的罕见血管异常，通常由上腔静脉阻塞引起。 临床提示：我们报道了一名 75 岁男性，他出现间歇性吞咽困难和球状感觉，内窥镜检查显示有大的近端食管静脉曲张。",
-        "abstract": "Downhill esophageal varices (DEV) are rare vascular abnormalities of the proximal esophagus, commonly caused by superior vena cava obstruction. We report a 75-year-old man who presented with intermittent dysphagia and globus sensation, in whom endoscopy demonstrated large proximal esophageal varices. Extensive evaluation excluded portal hypertension and cross-sectional imaging, and venography showed a patent superior vena cava and inferior vena cava but demonstrated right internal jugular vein occlusion with possible azygos system compression. These findings were considered remote and insufficient to explain the extensive proximal varices, which were ultimately classified as idiopathic DEV. ...",
-        "pmid": "41728253",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41728253/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002013",
-        "url": "https://doi.org/10.14309/crj.0000000000002013"
+        "title": "Management of Liver Cirrhosis in Percutaneous and Surgical Cardiac Interventions.",
+        "journal": "Journal of the American Heart Association",
+        "pubDate": "2026 Feb 24",
+        "studyType": "Journal Article / Review",
+        "authors": "Spadaccio C, Nenna A, Mehta K",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：众所周知，肝硬化伴随的全身损害会给心血管干预中的死亡和术后并发症带来重大负担。 临床提示：本综述分析了肝硬化对心脏手术和经皮手术后短期和长期结果的影响，为决策过程和围手术期提供循证指导",
+        "abstract": "The systemic impairment that accompanies liver cirrhosis is known to carry a significant burden on death and postoperative complications in cardiovascular interventions. This review analyzes the impact of liver cirrhosis on short- and long-term outcomes after cardiac surgery and percutaneous procedures, providing an evidence-based guidance in the decision-making process and perioperative management of these patients. Several parameters should be considered by the heart teams when assessing eligibility, indications for intervention, and perioperative management of these patients. Life expectancy, long-term procedural outcomes, Child-Pugh or the Model for End-Stage Liver Disease score, presenc...",
+        "pmid": "41732994",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41732994/",
+        "doiUrl": "https://doi.org/10.1161/JAHA.125.045147",
+        "url": "https://doi.org/10.1161/JAHA.125.045147"
+      },
+      {
+        "title": "Sotatercept for the treatment of portopulmonary hypertension: a case report.",
+        "journal": "Communications medicine",
+        "pubDate": "2026 Feb 24",
+        "studyType": "Journal Article",
+        "authors": "Jose A, Zacharias W, Fernandes S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Sotatercept 是最新批准的肺动脉高压治疗药物，是一种新型激活素信号抑制剂，已被证明在添加到肺动脉高血压的背景治疗中时可显着改善疾病严重程度并提高生存率 临床提示：门脉性肺动脉高压是肺动脉高压的一种亚型，死亡率很高。",
+        "abstract": "Portopulmonary Hypertension is a subtype of pulmonary arterial hypertension with high mortality. There are extremely few clinical trials to guide treatment in portopulmonary hypertension, which is typically based on the approach to treatment for other types of pulmonary arterial hypertension. Sotatercept, the newest pulmonary arterial hypertension approved therapeutic, is a novel activin signaling inhibitor which has been shown to significantly improve disease severity and enhance survival when added to background therapy in pulmonary arterial hypertension. Unfortunately, portopulmonary hypertension patients were excluded from the clinical trials that led to Sotatercept approval, and the eff...",
+        "pmid": "41731022",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41731022/",
+        "doiUrl": "https://doi.org/10.1038/s43856-026-01452-6",
+        "url": "https://doi.org/10.1038/s43856-026-01452-6"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "毒枭死后墨西哥派出数千名士兵制止暴力",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“毒枭死后墨西哥派出数千名士兵制止暴力”。核心要点：一名有权有势的贩毒集团老大被特种部队抓获后身亡，墨西哥各地爆发了一股暴力浪潮。",
+        "titleZh": "俄罗斯士兵告诉 BBC，他们看到战友按照指挥官的命令被处决",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯士兵告诉 BBC，他们看到战友按照指挥官的命令被处决”。核心要点：四名男子揭露了乌克兰战争中的恐怖和残酷状况，其中两人表示，他们看到士兵因拒绝命令而被枪杀。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 21:12:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 06:02:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国东海岸降雪破纪录 5000多个航班取消",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国东海岸降雪破纪录 5000多个航班取消”。核心要点：一场大暴风雪席卷了美国东北部，造成数百万人次航班取消。",
+        "titleZh": "战争进入第五个年头，乌克兰缅怀逝者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“战争进入第五个年头，乌克兰缅怀逝者”。核心要点：乌克兰各地举行活动纪念俄罗斯发动全面入侵四周年。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Feb 2026 03:41:18 GMT",
-        "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 18:13:58 GMT",
+        "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于伊朗紧张局势升级，美国部分撤离贝鲁特大使馆",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于伊朗紧张局势升级，美国部分撤离贝鲁特大使馆”。核心要点：经过安全审查后，国务院已下令非必要工作人员离开贝鲁特大使馆。",
+        "titleZh": "墨西哥追捕23名在暴力浪潮中出狱的囚犯",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥追捕23名在暴力浪潮中出狱的囚犯”。核心要点：武装人员冲进巴亚尔塔港一所监狱的一扇大门后，囚犯们逃离了监狱。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 19:08:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 13:43:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c07jpx7kkvpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰全面战争已过去四年，俄罗斯已感受到影响",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰全面战争已过去四年，俄罗斯已感受到影响”。核心要点：史蒂夫·罗森伯格报道了俄罗斯战争的经济后果以及人们如何应对。",
+        "titleZh": "巴西洪水和山体滑坡造成至少25人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴西洪水和山体滑坡造成至少25人死亡”。核心要点：数百人流离失所，数十人失踪，茹伊斯德福拉的救援行动仍在进行中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 06:01:59 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 22:25:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c70k7vjllzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰谈判代表告诉BBC 与俄罗斯坐在桌子对面的感觉",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰谈判代表告诉BBC 与俄罗斯坐在桌子对面的感觉”。核心要点：谢尔盖·基斯利齐亚 (Sergiy Kyslytsya) 是试图通过谈判结束冲突的人士之一，这场冲突已进入第五个年头。",
+        "titleZh": "冬季风暴袭击美国东北部造成两人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“冬季风暴袭击美国东北部造成两人死亡”。核心要点：在一场历史性的冬季风暴中，一棵树倒在他们的汽车上，造成两人死亡，这场风暴还导致航班延误，并导致数千人断电。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 19:17:11 GMT",
-        "url": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 15:31:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yjpx2lgdjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "零售商警告说，巧克力可能会被盗，因此被存放在防盗盒中",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“零售商警告说，巧克力可能会被盗，因此被存放在防盗盒中”。核心要点：零售商和警方告诉英国广播公司，窃贼的目标是巧克力并进行销售。",
+        "titleZh": "收费调整后 4 月份能源费用将下降",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“收费调整后 4 月份能源费用将下降”。核心要点：预算中宣布的变化意味着四月份国内能源价格将大幅下跌。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Feb 2026 00:07:42 GMT",
-        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Feb 2026 00:04:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "改革誓言彻底改革新地方政府工作人员的养老金计划",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“改革誓言彻底改革新地方政府工作人员的养老金计划”。核心要点：如果上任，改革计划将终止为新地方政府工作人员提供更慷慨的固定福利养老金计划",
+        "titleZh": "派拉蒙提高华纳兄弟的收购要约，向竞争对手 Netflix 提出收购要约",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“派拉蒙提高华纳兄弟的收购要约，向竞争对手 Netflix 提出收购要约”。核心要点：华纳兄弟表示，最新的提议可能会说服其放弃与 Netflix 达成的交易。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 22:14:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c875edj1qeno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Feb 2026 00:01:02 GMT",
+        "url": "https://www.bbc.com/news/articles/c24dz0683dyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "联邦快递起诉特朗普退还关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“联邦快递起诉特朗普退还关税”。核心要点：美国最高法院最近裁定特朗普总统在征收全球关税时越权，为企业寻求退款铺平了道路。",
+        "titleZh": "难以捉摸的谢因老板罕见地公开露面，赞扬中国血统",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“难以捉摸的谢因老板罕见地公开露面，赞扬中国血统”。核心要点：在他发表讲话之前，该公司多年来将总部迁至新加坡，将注意力从中国转移出去。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Feb 2026 01:18:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cly83r1njjro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Feb 2026 03:18:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "10号称美国新关税“没有什么不可能”，因为英国可能是受打击最严重的国家之一",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“10号称美国新关税“没有什么不可能”，因为英国可能是受打击最严重的国家之一”。核心要点：唐宁街表示，在美国总统唐纳德·特朗普宣布征收 15% 的全球关税后，讨论仍在继续。",
+        "titleZh": "英国的新旅行制度是什么？双重国籍人士有何影响？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国的新旅行制度是什么？双重国籍人士有何影响？”。核心要点：从2月25日起，新制度将生效，这将影响许多人，包括英国双重国籍者。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 18:34:22 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Feb 2026 00:05:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "公司董事因700万英镑航空零部件欺诈被判入狱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“公司董事因700万英镑航空零部件欺诈被判入狱”。核心要点：法官表示，这些行为“或多或少完全破坏了”旨在确保客运航班安全的规则。",
+        "titleZh": "美国威胁 Anthropic 就人工智能保障措施争端设定最后期限",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国威胁 Anthropic 就人工智能保障措施争端设定最后期限”。核心要点：一位消息人士称，这家人工智能开发商对其产品的军事用途设定了红线。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Feb 2026 16:43:44 GMT",
-        "url": "https://www.bbc.com/news/articles/c14mgl4ddr2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Feb 2026 22:58:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
