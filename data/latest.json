@@ -1,133 +1,119 @@
 {
-  "updatedAt": "2026-02-26T03:42:36.488Z",
+  "updatedAt": "2026-02-27T03:38:50.256Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Short-Term Exposure to Air Pollution Increases Mortality From Hypertension and its Multiorgan Complications: A Case Crossover Study of 2.1 Million Deaths in China.",
-        "journal": "Journal of the American College of Cardiology",
-        "pubDate": "2026 Feb 17",
-        "studyType": "Journal Article",
-        "authors": "Xue X, Zhou Z, Luo H",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：短期空气污染暴露是心血管事件的已知触发因素，但这种风险在高血压患者的不同进展阶段如何变化仍不清楚。 临床提示：本研究旨在量化与空气污染相关的不同进展阶段的高血压疾病造成的死亡风险和负担。",
-        "abstract": "Short-term air pollution exposure is a known trigger for cardiovascular events, yet how this risk varies across different progression stages of hypertensive patients remains unclear. This study sought to quantify the mortality risk and burden due to hypertensive diseases of different progression stages in association with air pollution. We conducted a nationwide, individual-level, time-stratified, case-crossover study including >2.1 million hypertension-related deaths across mainland China (2013-2019). Daily concentrations of fine particulate matter (PM 2.5 ), inhalable particulate (PM 10 ), NO 2 , and O 3 were estimated using high-resolution spatiotemporal models (1 × 1 km). Conditional log...",
-        "pmid": "41739011",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41739011/",
-        "doiUrl": "https://doi.org/10.1016/j.jacc.2026.01.006",
-        "url": "https://doi.org/10.1016/j.jacc.2026.01.006"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Statin Therapy Independently Reduces Mortality and Liver Complications in Patients With Cirrhosis: An Updated Systematic Review and Meta-Analysis.",
-        "journal": "Alimentary pharmacology & therapeutics",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article / Systematic Review / Meta-Analysis",
-        "authors": "Moraes BF, Leite GAPD, Silveira IB",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 25）。核心观点：他汀类药物在肝硬化中的作用仍存在争议。 临床提示：历史上由于安全问题而受到限制，新的证据强调了潜在的多效性益处，尽管对死亡率和失代偿的影响仍不确定。",
-        "abstract": "The role of statins in cirrhosis remains controversial. Historically restricted due to safety concerns, emerging evidence highlights potential pleiotropic benefits, though effects on mortality and decompensation remain uncertain. To evaluate the effects of statin therapy on all-cause mortality, hepatic decompensation, hepatic venous pressure gradient (HVPG), and hepatocellular carcinoma (HCC) in cirrhosis. We systematically searched major databases until July 2025 for randomised controlled trials (RCTs) and observational studies comparing statin therapy versus non-use in cirrhosis. Random-effects meta-analyses were performed. The meta-analysis included 25 studies (9 RCTs, 16 observational) w...",
-        "pmid": "41518144",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41518144/",
-        "doiUrl": "https://doi.org/10.1111/apt.70526",
-        "url": "https://doi.org/10.1111/apt.70526"
-      },
-      {
-        "title": "Indocyanine Green Clearance Correlates With Biomarkers Reflecting Key Disease-Driving Mechanisms in Advanced Chronic Liver Disease and Predicts Acute-on-Chronic Liver Failure and Death.",
-        "journal": "Alimentary pharmacology & therapeutics",
+        "title": "Percutaneous Radiofrequency Ablation of Perivascular versus Nonperivascular Hepatocellular Carcinomas ≤3 cm: Local Tumor Progression and Survival in an Inverse Probability of Treatment Weighting Analysis.",
+        "journal": "Journal of vascular and interventional radiology : JVIR",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Jachs M, Carvalho T, Simbrunner B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：通过静脉采样测定的吲哚菁绿 (ICG) 清除率在代偿性晚期慢性肝病 (cACLD) 的临床显着门静脉高压 (CSPH) 的诊断和失代偿性 ACLD 的预后方面显示出有希望的结果 临床提示：通过静脉采样测定的吲哚菁绿 (ICG) 清除率在代偿性晚期慢性肝病 (cACLD) 和临床显着性门脉高压 (CSPH) 的诊断中显示出有希望的结果。",
-        "abstract": "Indocyanine green (ICG) clearance, determined by venous sampling, has shown promising results in the diagnosis of clinically significant portal hypertension (CSPH) in compensated advanced chronic liver disease (cACLD) and prognostication in decompensated ACLD (decompensated cirrhosis). Data on ICG clearance measurement by pulse dye densitometry (PDD) via finger clip are comparatively scarce. To evaluate the diagnostic (CSPH) and prognostic utility of ICG clearance throughout ACLD stages. ACLD (liver stiffness ≥ 10 kPa) patients undergoing same-day hepatic venous pressure gradient (HVPG) measurement and ICG clearance assessment via PDD in 2017-2022 were recruited from the prospective Vienna C...",
-        "pmid": "41194563",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41194563/",
-        "doiUrl": "https://doi.org/10.1111/apt.70447",
-        "url": "https://doi.org/10.1111/apt.70447"
+        "authors": "Kim J, Kim JH, Lee SJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：旨在确定经皮射频消融 (RFA) 后血管周围肝细胞癌 (HCC) 是否与非血管周围肝细胞癌 (HCC) 较高的局部肿瘤进展 (LTP) 和较低的总生存期 (OS) 相关。 临床提示：这项回顾性研究纳入了 2005 年 1 月至 2020 年 12 月期间连续接受 RFA 治疗的 650 名未经治疗的单发小（≤3 cm）HCC 患者。",
+        "abstract": "To determine whether perivascular hepatocellular carcinoma (HCC) is associated with higher local tumor progression (LTP) and lower overall survival (OS) after percutaneous radiofrequency ablation (RFA) than nonperivascular HCC. This retrospective study included consecutive 650 treatment-naive patients with a single small (≤3 cm) HCC treated with RFA between January 2005 and December 2020. Tumors were categorized as perivascular if the index lesion directly contacted a first- or second-order branch of the portal or hepatic vein ≥3 mm in diameter; otherwise, they were considered nonperivascular. Inverse probability of treatment weighting (IPTW) was applied using a propensity model that include...",
+        "pmid": "41380907",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41380907/",
+        "doiUrl": "https://doi.org/10.1016/j.jvir.2025.107958",
+        "url": "https://doi.org/10.1016/j.jvir.2025.107958"
+      },
+      {
+        "title": "Cirrhotic cardiomyopathy: pathophysiology, assessment, and implications for liver transplantation.",
+        "journal": "Therapeutic advances in gastroenterology",
+        "pubDate": "2026",
+        "studyType": "Journal Article / Review",
+        "authors": "Gill M, Koshy AN, Ramachandran J",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化心肌病（CCM）是晚期慢性肝病患者心功能障碍的一种独特形式，定义为亚临床舒张功能障碍，以及在不存在原发性心脏病的情况下较少见的收缩功能障碍。 临床提示：该实体反映了肝硬化心脏的结构、功能和生化改变之间的动态相互作用，加上门静脉高压和炎症的全身影响。",
+        "abstract": "Cirrhotic cardiomyopathy (CCM) is a distinct form of cardiac dysfunction in patients with advanced chronic liver disease, defined by subclinical diastolic impairment and, less commonly, systolic dysfunction, in the absence of primary cardiac disease. The entity reflects a dynamic interplay between structural, functional, and biochemical alterations in the cirrhotic heart, compounded by the systemic effects of portal hypertension and inflammation. Recent advances in diagnostic criteria, most notably the 2020 CCM Consortium (CCC-2020) definitions, have refined diagnostics and aligned CCM with contemporary concepts of heart failure (HF). Nevertheless, conventional echocardiography provides only...",
+        "pmid": "41743375",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41743375/",
+        "doiUrl": "https://doi.org/10.1177/17562848261423358",
+        "url": "https://doi.org/10.1177/17562848261423358"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "“恐惧无处不在”：BBC报道墨西哥城因贩毒集团争斗而变成战区",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““恐惧无处不在”：BBC报道墨西哥城因贩毒集团争斗而变成战区”。核心要点：由于锡那罗亚卡特尔的敌对派系争夺控制权，墨西哥北部库利亚坎的暴力事件激增。",
+        "titleZh": "美国官员称古巴船只枪击事件遇难者中有美国公民",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国官员称古巴船只枪击事件遇难者中有美国公民”。核心要点：古巴指责船上人员策划“以恐怖主义为目的的渗透”并首先开火。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 17:00:49 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Feb 2026 23:59:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "观看：BBC 在墨西哥城市街头遭遇致命的卡特尔暴力事件",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“观看：BBC 在墨西哥城市街头遭遇致命的卡特尔暴力事件”。核心要点：BBC 国际记者昆汀·萨默维尔在暴力事件爆发后前往锡那罗亚州北部的库利亚坎。",
+        "titleZh": "调解人称美伊谈判在取得“重大进展”后结束",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“调解人称美伊谈判在取得“重大进展”后结束”。核心要点：日内瓦的间接谈判被视为最后的努力，但达成核协议的可能性尚不清楚。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 22:35:14 GMT",
-        "url": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Feb 2026 21:43:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普在国情咨文后让世界等待他对伊朗的计划",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在国情咨文后让世界等待他对伊朗的计划”。核心要点：美国和伊朗周四在日内瓦举行的下一轮会谈可能对总统的决策具有决定性作用。",
+        "titleZh": "随着跨境袭击升级，巴基斯坦袭击阿富汗城市",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着跨境袭击升级，巴基斯坦袭击阿富汗城市”。核心要点：阿富汗塔利班表示，它已对巴基斯坦的袭击作出回应，袭击目标包括喀布尔和坎大哈等阿富汗城市。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 15:16:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Feb 2026 01:13:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "基金会表示，比尔·盖茨在员工会议上对爱泼斯坦的关系“承担了责任”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“基金会表示，比尔·盖茨在员工会议上对爱泼斯坦的关系“承担了责任””。核心要点：据一家报纸报道，盖茨就自己与爱泼斯坦的联系向工作人员道歉，并表示：“我没有做任何非法行为。我没有看到任何非法行为。”",
+        "titleZh": "丹麦首相呼吁提前大选，格陵兰岛问题成为焦点",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“丹麦首相呼吁提前大选，格陵兰岛问题成为焦点”。核心要点：唐纳德·特朗普想要吞并的格陵兰岛问题可能会主导竞选活动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 13:18:17 GMT",
-        "url": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Feb 2026 13:56:39 GMT",
+        "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "古巴称，在美国注册的快艇上被枪杀的四人是古巴国民",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“古巴称，在美国注册的快艇上被枪杀的四人是古巴国民”。核心要点：古巴政府表示，这些乘客携带武器，意图“出于恐怖主义目的进行渗透”。",
+        "titleZh": "视频显示，以色列士兵开枪射杀一名巴勒斯坦男孩，并站在一旁看他失血过多身亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“视频显示，以色列士兵开枪射杀一名巴勒斯坦男孩，并站在一旁看他失血过多身亡”。核心要点：一名 14 岁的巴勒斯坦人流血至少 45 分钟，以色列军队封锁了巴勒斯坦救护车。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 03:15:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Feb 2026 06:01:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "费萨尔·伊斯兰：里夫斯说我们正在扭转局面，对吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：里夫斯说我们正在扭转局面，对吗？”。核心要点：财政大臣正试图利用这一时刻作为更广泛尝试的起点，以增强消费者和企业的信心。",
+        "titleZh": "Netflix 放弃对华纳兄弟的收购，为派拉蒙收购扫清道路",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Netflix 放弃对华纳兄弟的收购，为派拉蒙收购扫清道路”。核心要点：Netflix 退出竞购战的决定为派拉蒙赢得收购战扫清了道路。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 20:52:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Feb 2026 03:28:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿尔迪商店员工今年将两次加薪",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“阿尔迪商店员工今年将两次加薪”。核心要点：德国廉价超市是英国超市中日益强大的竞争对手",
+        "titleZh": "曼德尔森就爱泼斯坦的电子邮件向欧盟反欺诈机构提起诉讼",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“曼德尔森就爱泼斯坦的电子邮件向欧盟反欺诈机构提起诉讼”。核心要点：欧盟委员会表示，正在评估该同行在其贸易特使期间是否违反了其行为准则。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 00:02:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cwygr3p3e8go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Feb 2026 19:18:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cj98zm22327o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "芯片巨头英伟达以创纪录的 2150 亿美元收入无视人工智能担忧",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“芯片巨头英伟达以创纪录的 2150 亿美元收入无视人工智能担忧”。核心要点：尽管英伟达开始开发自己的人工智能产品，但对该公司芯片的需求仍在增长。",
+        "titleZh": "女性讲述里程碑式的审判，因为 Instagram、YouTube，“我不再参与”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“女性讲述里程碑式的审判，因为 Instagram、YouTube，“我不再参与””。核心要点：这位年轻女子一直在法庭上发言，她指责 Meta 和谷歌制造令人上瘾的社交媒体平台。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 23:22:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Feb 2026 23:02:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加拿大财长表示美国不太可能取消关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“加拿大财长表示美国不太可能取消关税”。核心要点：在此之前，美国总统唐纳德·特朗普表示，他希望全球关税取代所得税，成为美国的主要收入来源。",
+        "titleZh": "人类老板拒绝五角大楼放弃人工智能保障措施的要求",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“人类老板拒绝五角大楼放弃人工智能保障措施的要求”。核心要点：国防部长皮特·赫格斯此前曾威胁将该公司从国防部的供应链中删除。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 02:09:30 GMT",
-        "url": "https://www.bbc.com/news/articles/cq57j8nqn67o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Feb 2026 02:32:18 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么亚洲企业不支持特朗普的关税裁决",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么亚洲企业不支持特朗普的关税裁决”。核心要点：美国最高法院阻止美国贸易政策支柱的决定引发了更多不确定性。",
+        "titleZh": "Jack Dorsey 的 Block 因拥抱人工智能而裁员数千人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Jack Dorsey 的 Block 因拥抱人工智能而裁员数千人”。核心要点：这位 Twitter 联合创始人表示，他相信大多数公司将在“明年”做出类似的改变。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Feb 2026 23:03:26 GMT",
-        "url": "https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Feb 2026 00:06:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
