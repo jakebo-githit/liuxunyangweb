@@ -1,119 +1,132 @@
 {
-  "updatedAt": "2026-02-27T03:38:50.256Z",
+  "updatedAt": "2026-02-28T03:19:58.523Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Percutaneous Radiofrequency Ablation of Perivascular versus Nonperivascular Hepatocellular Carcinomas ≤3 cm: Local Tumor Progression and Survival in an Inverse Probability of Treatment Weighting Analysis.",
-        "journal": "Journal of vascular and interventional radiology : JVIR",
+        "title": "Same Session Validation of a Custom-Built 22G With the Commercial 25G System for EUS-Guided Portal Pressure Gradient Measurement.",
+        "journal": "United European gastroenterology journal",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Kim J, Kim JH, Lee SJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：旨在确定经皮射频消融 (RFA) 后血管周围肝细胞癌 (HCC) 是否与非血管周围肝细胞癌 (HCC) 较高的局部肿瘤进展 (LTP) 和较低的总生存期 (OS) 相关。 临床提示：这项回顾性研究纳入了 2005 年 1 月至 2020 年 12 月期间连续接受 RFA 治疗的 650 名未经治疗的单发小（≤3 cm）HCC 患者。",
-        "abstract": "To determine whether perivascular hepatocellular carcinoma (HCC) is associated with higher local tumor progression (LTP) and lower overall survival (OS) after percutaneous radiofrequency ablation (RFA) than nonperivascular HCC. This retrospective study included consecutive 650 treatment-naive patients with a single small (≤3 cm) HCC treated with RFA between January 2005 and December 2020. Tumors were categorized as perivascular if the index lesion directly contacted a first- or second-order branch of the portal or hepatic vein ≥3 mm in diameter; otherwise, they were considered nonperivascular. Inverse probability of treatment weighting (IPTW) was applied using a propensity model that include...",
-        "pmid": "41380907",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41380907/",
-        "doiUrl": "https://doi.org/10.1016/j.jvir.2025.107958",
-        "url": "https://doi.org/10.1016/j.jvir.2025.107958"
+        "authors": "Praktiknjo M, Farouk N, Wang Z",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 26）。核心观点：内镜超声引导门静脉压力梯度 (EUS-PPG) 测量是肝静脉压力梯度 (HVPG) 评估的一种有前途的替代方案，特别是在 HVPG 不可用或有限的情况下。 临床提示：商用 25 号 (25G) 系统与肝静脉压力梯度 (HVPG) 具有良好的相关性。",
+        "abstract": "Endoscopic ultrasound-guided portal pressure gradient (EUS-PPG) measurement is a promising alternative to hepatic venous pressure gradient (HVPG) assessment, especially in settings where HVPG is unavailable or limited. The commercial 25-gauge (25G) system showed good correlation with the hepatic venous pressure gradient (HVPG). However, the 25G has drawbacks due to its small caliber and the proprietary pressure transducer. The aim of this study was to validate a custom-built 22G conventional intravascular pressure transducer system (22G EUS-PPG). In this prospective cohort study, 26 patients underwent EUS-PPG measurement using both systems during the same session. The primary outcome was the...",
+        "pmid": "41748429",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41748429/",
+        "doiUrl": "https://doi.org/10.1002/ueg2.70194",
+        "url": "https://doi.org/10.1002/ueg2.70194"
       },
       {
-        "title": "Cirrhotic cardiomyopathy: pathophysiology, assessment, and implications for liver transplantation.",
-        "journal": "Therapeutic advances in gastroenterology",
-        "pubDate": "2026",
-        "studyType": "Journal Article / Review",
-        "authors": "Gill M, Koshy AN, Ramachandran J",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化心肌病（CCM）是晚期慢性肝病患者心功能障碍的一种独特形式，定义为亚临床舒张功能障碍，以及在不存在原发性心脏病的情况下较少见的收缩功能障碍。 临床提示：该实体反映了肝硬化心脏的结构、功能和生化改变之间的动态相互作用，加上门静脉高压和炎症的全身影响。",
-        "abstract": "Cirrhotic cardiomyopathy (CCM) is a distinct form of cardiac dysfunction in patients with advanced chronic liver disease, defined by subclinical diastolic impairment and, less commonly, systolic dysfunction, in the absence of primary cardiac disease. The entity reflects a dynamic interplay between structural, functional, and biochemical alterations in the cirrhotic heart, compounded by the systemic effects of portal hypertension and inflammation. Recent advances in diagnostic criteria, most notably the 2020 CCM Consortium (CCC-2020) definitions, have refined diagnostics and aligned CCM with contemporary concepts of heart failure (HF). Nevertheless, conventional echocardiography provides only...",
-        "pmid": "41743375",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41743375/",
-        "doiUrl": "https://doi.org/10.1177/17562848261423358",
-        "url": "https://doi.org/10.1177/17562848261423358"
+        "title": "Activation of the Integrin αV-YAP-CTGF Axis in Liver Sinusoidal Endothelial Cells Promotes Liver Fibrogenesis, Leading to Portal Hypertension and Liver Carcinogenesis in Congestive Hepatopathy.",
+        "journal": "Gastroenterology",
+        "pubDate": "2026 Feb 27",
+        "studyType": "Journal Article",
+        "authors": "Kato S, Hikita H, Tsukamoto O",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：对 Fontan 相关肝病患者的人类肝脏进行了 scRNA-seq 和空间转录组学研究。 临床提示：scRNA-seq 分析表明，整合素信号通路和 yes 相关蛋白 (YAP) 在 p...",
+        "abstract": "Chronic liver congestion progresses to liver fibrosis, eventually leading to cirrhosis and cancer. This study aimed to elucidate the mechanism of congestive hepatopathy (CH), focusing on liver sinusoidal endothelial cells (LSECs). Partial inferior vena cava ligation (pIVCL) was performed to induce hepatic congestion in mice. Single-cell RNA sequencing (scRNA-seq) was conducted on murine livers after pIVCL. Cells underwent hydrostatic pressure stimulation. scRNA-seq and spatial transcriptomics were performed on human livers from patients with Fontan-associated liver disease. The scRNA-seq analysis showed that the integrin signaling pathway and yes-associated protein (YAP) were activated in pe...",
+        "pmid": "41758081",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41758081/",
+        "doiUrl": "https://doi.org/10.1053/j.gastro.2025.11.014",
+        "url": "https://doi.org/10.1053/j.gastro.2025.11.014"
+      },
+      {
+        "title": "Methodological concerns in evaluating beta-blockers use in during pregnancy in portal hypertension.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "pubDate": "2026 Feb 27",
+        "studyType": "Journal Article",
+        "authors": "Kothalkar S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：评估妊娠期门静脉高压症中β受体阻滞剂使用的方法学问题。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41748977",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41748977/",
+        "doiUrl": "https://doi.org/10.1007/s12664-026-01982-w",
+        "url": "https://doi.org/10.1007/s12664-026-01982-w"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国官员称古巴船只枪击事件遇难者中有美国公民",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国官员称古巴船只枪击事件遇难者中有美国公民”。核心要点：古巴指责船上人员策划“以恐怖主义为目的的渗透”并首先开火。",
+        "titleZh": "在最新的核计划会谈后，特朗普对伊朗“不感兴趣”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在最新的核计划会谈后，特朗普对伊朗“不感兴趣””。核心要点：特朗普总统表示，他对伊朗的立场不满意，但尚未决定是否发动袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 23:59:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Feb 2026 22:21:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "调解人称美伊谈判在取得“重大进展”后结束",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“调解人称美伊谈判在取得“重大进展”后结束”。核心要点：日内瓦的间接谈判被视为最后的努力，但达成核协议的可能性尚不清楚。",
+        "titleZh": "比尔·克林顿询问热水浴缸照片并作证他对爱泼斯坦的罪行“一无所知”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“比尔·克林顿询问热水浴缸照片并作证他对爱泼斯坦的罪行“一无所知””。核心要点：这位前总统告诉委员会，如果他“对自己在做什么有任何了解”，他永远不会乘坐爱泼斯坦的飞机。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 21:43:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Feb 2026 01:32:28 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着跨境袭击升级，巴基斯坦袭击阿富汗城市",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着跨境袭击升级，巴基斯坦袭击阿富汗城市”。核心要点：阿富汗塔利班表示，它已对巴基斯坦的袭击作出回应，袭击目标包括喀布尔和坎大哈等阿富汗城市。",
+        "titleZh": "载有钞票的军机在玻利维亚坠毁 至少11人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“载有钞票的军机在玻利维亚坠毁 至少11人死亡”。核心要点：据报道，这架货机在埃尔阿尔托市降落时坠毁，撞上了高速公路上的车辆。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 01:13:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Feb 2026 02:21:31 GMT",
+        "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "丹麦首相呼吁提前大选，格陵兰岛问题成为焦点",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“丹麦首相呼吁提前大选，格陵兰岛问题成为焦点”。核心要点：唐纳德·特朗普想要吞并的格陵兰岛问题可能会主导竞选活动。",
+        "titleZh": "特朗普命令政府停止使用 Anthropic 来对抗人工智能的使用",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普命令政府停止使用 Anthropic 来对抗人工智能的使用”。核心要点：社交媒体上宣布的这一举措是在 Anthropic 的老板与国防部之间发生对峙之后做出的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 13:56:39 GMT",
-        "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Feb 2026 03:00:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "视频显示，以色列士兵开枪射杀一名巴勒斯坦男孩，并站在一旁看他失血过多身亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“视频显示，以色列士兵开枪射杀一名巴勒斯坦男孩，并站在一旁看他失血过多身亡”。核心要点：一名 14 岁的巴勒斯坦人流血至少 45 分钟，以色列军队封锁了巴勒斯坦救护车。",
+        "titleZh": "卡尼访问印度之际，加拿大的“微妙”平衡和莫迪的“双赢”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卡尼访问印度之际，加拿大的“微妙”平衡和莫迪的“双赢””。核心要点：两国正在修复紧张的关系，同时也寻求减少对美国的贸易依赖。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 06:01:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Feb 2026 00:03:55 GMT",
+        "url": "https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "Netflix 放弃对华纳兄弟的收购，为派拉蒙收购扫清道路",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Netflix 放弃对华纳兄弟的收购，为派拉蒙收购扫清道路”。核心要点：Netflix 退出竞购战的决定为派拉蒙赢得收购战扫清了道路。",
+        "titleZh": "特朗普命令政府停止使用 Anthropic 来对抗人工智能的使用",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普命令政府停止使用 Anthropic 来对抗人工智能的使用”。核心要点：社交媒体上宣布的这一举措是在 Anthropic 的老板与国防部之间发生对峙之后做出的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 03:28:33 GMT",
+        "publishedAt": "Sat, 28 Feb 2026 03:00:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "华纳兄弟的交易对流媒体、影院和新闻意味着什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“华纳兄弟的交易对流媒体、影院和新闻意味着什么”。核心要点：如果派拉蒙对华纳兄弟的收购继续进行，它将极大地重塑好莱坞。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 27 Feb 2026 21:46:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "政府批准价值10亿英镑的国防直升机交易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“政府批准价值10亿英镑的国防直升机交易”。核心要点：据英国广播公司了解，财政大臣已介入以保护萨默塞特直升机制造商的工作岗位。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 27 Feb 2026 16:20:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "Brewdog 预计将于下周初宣布出售",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Brewdog 预计将于下周初宣布出售”。核心要点：工作人员被告知 Brewdog 的德国分公司不包括在此次出售中，现在将被清算，但金条本周末将照常交易。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 27 Feb 2026 17:16:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "Netflix 放弃出价后，派拉蒙将以 1110 亿美元收购华纳兄弟",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Netflix 放弃出价后，派拉蒙将以 1110 亿美元收购华纳兄弟”。核心要点：Netflix 退出竞购战的决定为派拉蒙赢得收购战扫清了道路。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 27 Feb 2026 04:32:38 GMT",
         "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "曼德尔森就爱泼斯坦的电子邮件向欧盟反欺诈机构提起诉讼",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“曼德尔森就爱泼斯坦的电子邮件向欧盟反欺诈机构提起诉讼”。核心要点：欧盟委员会表示，正在评估该同行在其贸易特使期间是否违反了其行为准则。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 19:18:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cj98zm22327o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "女性讲述里程碑式的审判，因为 Instagram、YouTube，“我不再参与”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“女性讲述里程碑式的审判，因为 Instagram、YouTube，“我不再参与””。核心要点：这位年轻女子一直在法庭上发言，她指责 Meta 和谷歌制造令人上瘾的社交媒体平台。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 26 Feb 2026 23:02:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "人类老板拒绝五角大楼放弃人工智能保障措施的要求",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人类老板拒绝五角大楼放弃人工智能保障措施的要求”。核心要点：国防部长皮特·赫格斯此前曾威胁将该公司从国防部的供应链中删除。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 02:32:18 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "Jack Dorsey 的 Block 因拥抱人工智能而裁员数千人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Jack Dorsey 的 Block 因拥抱人工智能而裁员数千人”。核心要点：这位 Twitter 联合创始人表示，他相信大多数公司将在“明年”做出类似的改变。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 00:06:40 GMT",
-        "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
