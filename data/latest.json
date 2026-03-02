@@ -1,146 +1,119 @@
 {
-  "updatedAt": "2026-03-01T03:48:15.212Z",
+  "updatedAt": "2026-03-02T03:38:52.871Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Impact of Adverse Metabolic Factors on the Burden of Chronic Kidney Disease in the Chinese Population ≥ 20 Years Old, 1990-2019.",
-        "journal": "Diabetes/metabolism research and reviews",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Huang J, He Y, Yang F",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：量化 1990-2019 年间中国 20 岁以上成年人因不良代谢危险因素导致的慢性肾脏病 (CKD) 负担的时间趋势。 临床提示：我们使用 2019 年全球疾病负担研究 (GBD 2019) 对中国的估计来评估 5 种 CKD 原因（1 型糖尿病、2 型糖尿病、高血压、肾小球肾炎和其他/未明确原因引起的 CKD）和 3 种原因。",
-        "abstract": "To quantify temporal trends in chronic kidney disease (CKD) burden attributable to adverse metabolic risk factors among Chinese adults aged ≥ 20 years during 1990-2019. We used Global Burden of Disease Study 2019 (GBD 2019) estimates for China to assess five CKD causes (CKD due to type 1 diabetes, type 2 diabetes, hypertension, glomerulonephritis, and other/unspecified causes) and three metabolic risks (high systolic blood pressure (SBP), high body mass index (BMI), and high fasting plasma glucose (HFPG)). Outcomes were deaths and disability-adjusted life years (DALYs) (numbers and rates per 100,000), stratified by sex and 13 age groups. Joinpoint regression was used to estimate annual perce...",
-        "pmid": "41761622",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41761622/",
-        "doiUrl": "https://doi.org/10.1002/dmrr.70143",
-        "url": "https://doi.org/10.1002/dmrr.70143"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Paracentesis exceeding three liters increases risks of acute kidney injury even in cirrhotic patients with albumin infused refractory ascites.",
-        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "title": "Endoscopic ultrasound-guided embolization of a splenic-artery branch for portal hypertension-induced gastric fundal varices (with video).",
+        "journal": "Gastrointestinal endoscopy",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Wu PS, Lee KC, Li CY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 116）。核心观点：对于顽固性腹水进行中等量腹腔穿刺术（<5 L）相关的风险仍不清楚。 临床提示：患有难治性腹水的肝硬化患者表现出严重的门静脉高压和血流动力学紊乱。",
-        "abstract": "Cirrhotic patients with refractory ascites exhibit severe portal hypertension and hemodynamic disturbances. The risks associated modest-volume paracentesis (<5 L) for refractory ascites remains unclear. We aimed to explore the impact of modest-volume paracentesis in refractory ascites. Cirrhotic patients with refractory ascites undergoing paracentesis <5 L with albumin infusion were retrospectively enrolled. Patients were categorized into two groups based on the volume of paracentesis: ≥3 L and <3 L. Logistic regression analyses were used to determine risk factors for post-paracentesis complications, while Kaplan-Meier analysis was used to assess 28-day survival rates. Among 116 patients, 40...",
-        "pmid": "39779410",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39779410/",
-        "doiUrl": "https://doi.org/10.1016/j.jfma.2025.01.002",
-        "url": "https://doi.org/10.1016/j.jfma.2025.01.002"
-      },
-      {
-        "title": "Porto-sinusoidal Vascular Disease is Associated with Gastrointestinal Disorders in Common Variable Immunodefiency.",
-        "journal": "Journal of clinical immunology",
-        "pubDate": "2026 Feb 28",
-        "studyType": "Journal Article",
-        "authors": "Corvilain E, Gérard L, Fadlallah J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：门窦血管疾病与常见变异性免疫缺陷中的胃肠道疾病相关。",
+        "authors": "Shi D, Chen H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：超声内镜引导下脾动脉分支栓塞治疗门脉高压引起的胃底静脉曲张（附视频）。",
         "abstract": "No abstract available from PubMed.",
-        "pmid": "41762359",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41762359/",
-        "doiUrl": "https://doi.org/10.1007/s10875-026-01985-4",
-        "url": "https://doi.org/10.1007/s10875-026-01985-4"
+        "pmid": "40914467",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40914467/",
+        "doiUrl": "https://doi.org/10.1016/j.gie.2025.08.055",
+        "url": "https://doi.org/10.1016/j.gie.2025.08.055"
       },
       {
-        "title": "Transjugular Intrahepatic Portosystemic Shunt Before Extrahepatic Abdominal Surgery: A Systematic Review and Novel Application Following Source-Control Laparotomy.",
-        "journal": "The American surgeon",
+        "title": "Sinusoidal cell-derived biomarker scores predict diagnosis and prognosis in chronic liver disease.",
+        "journal": "BMC medicine",
         "pubDate": "2026 Feb 28",
         "studyType": "Journal Article",
-        "authors": "Doran ML, Scarboro DB, Nussbaum MS",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 241）。核心观点：接受肝外腹部手术的肝硬化患者面临门静脉高压的高发病率和死亡率。 临床提示：经颈静脉肝内门体分流术 (TIPS) 在优化手术结果方面的作用仍不确定，特别是在紧急情况下。",
-        "abstract": "Patients with cirrhosis undergoing extrahepatic abdominal operations face high morbidity and mortality from portal hypertension. The role of transjugular intrahepatic portosystemic shunts (TIPS) in optimizing surgical outcomes remains uncertain, particularly in emergent settings. We present a case and systematic review of studies from 2000-2025 evaluating preoperative, perioperative, and emergent TIPS in patients undergoing extrahepatic abdominal operations. Data on patient characteristics, timing, mortality, complications, and statistical methods were extracted.Fourteen studies were included, encompassing 241 patients who underwent TIPS specifically in the context of non-transplant abdomina...",
-        "pmid": "41762061",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41762061/",
-        "doiUrl": "https://doi.org/10.1177/00031348261429416",
-        "url": "https://doi.org/10.1177/00031348261429416"
+        "authors": "Guixé-Muntet S, Fernández-Iglesias A, Lopez D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 108）。核心观点：正弦细胞是慢性肝病 (CLD) 进展的主要驱动因素，但目前的生物标志物无法捕获其表型状态。 临床提示：我们的目标是开发用于 CLD 诊断和预后的正弦细胞特异性生物标志物。",
+        "abstract": "Sinusoidal cells are central drivers of chronic liver disease (CLD) progression, yet current biomarkers fail to capture their phenotypic states. We aimed to develop sinusoidal cell-specific biomarkers for the diagnosis and prognosis of CLD. Single-cell RNA sequencing data were analyzed to identify cell-type-specific signatures for liver sinusoidal endothelial cell capillarization, hepatic stellate cell activation, and macrophage polarization. These signatures were integrated into three sinusoidal scores (endothelial, mesenchymal, and macrophage) reflecting dedifferentiation of each cell type. Scores were evaluated in an internal cohort (n = 108) and validated in three independent cohorts (to...",
+        "pmid": "41764477",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41764477/",
+        "doiUrl": "https://doi.org/10.1186/s12916-026-04733-y",
+        "url": "https://doi.org/10.1186/s12916-026-04733-y"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "阿亚图拉哈梅内伊对伊朗权力的铁腕统治即将结束",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿亚图拉哈梅内伊对伊朗权力的铁腕统治即将结束”。核心要点：伊朗国家电视台证实，最高领导人在美国和以色列对该国大规模空袭的第一天被杀。",
+        "titleZh": "美国在海湾的盟友首当其冲受到伊朗袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国在海湾的盟友首当其冲受到伊朗袭击”。核心要点：伊朗对海湾阿拉伯国家的袭击表明，伊朗伊斯兰共和国不仅针对美国军队，还针对民用基础设施。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 01:47:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 22:19:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗国内因罢工而陷入恐慌，但对一些人来说这是一个解脱的时刻",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗国内因罢工而陷入恐慌，但对一些人来说这是一个解脱的时刻”。核心要点：尽管互联网几乎完全瘫痪，但伊朗人仍在谈论国内正在发生的事情。",
+        "titleZh": "伊朗称学校罢工已造成至少153人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称学校罢工已造成至少153人死亡”。核心要点：伊朗指责美国和以色列发动了这次袭击；美国正在调查有关这一事件的报道，而以色列国防军则表示“不了解”该地区的行动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Feb 2026 15:36:27 GMT",
-        "url": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 15:32:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗在整个地区发动报复性袭击，迪拜豪华酒店遭受重创",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗在整个地区发动报复性袭击，迪拜豪华酒店遭受重创”。核心要点：迪拜费尔蒙棕榈酒店冒出浓烟和火焰，民用目标以及中东各地的美国军事基地都遭到炮火袭击。",
+        "titleZh": "霍尔木兹海峡附近船只遇袭后油价上涨",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“霍尔木兹海峡附近船只遇袭后油价上涨”。核心要点：专家警告说，长期冲突可能会推高全球能源价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Feb 2026 18:15:02 GMT",
-        "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 02:12:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗的报复引发了对美国防空系统的质疑",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗的报复引发了对美国防空系统的质疑”。核心要点：伊朗对巴林美国海军基地的袭击将使华盛顿及其在该地区的盟友感到担忧。",
+        "titleZh": "伊朗袭击该地区，以色列导弹袭击造成九人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击该地区，以色列导弹袭击造成九人死亡”。核心要点：据报道，德黑兰对美国和以色列的大规模袭击进行报复，中东各地已有多人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Feb 2026 19:34:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 22:24:27 GMT",
+        "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着腐败成为选举的焦点，尼泊尔的“尼波孩子”去了哪里？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着腐败成为选举的焦点，尼泊尔的“尼波孩子”去了哪里？”。核心要点：政客子女过多是导致去年推翻政府的抗议活动的焦点和中心。",
+        "titleZh": "非洲无法无天的萨赫勒地区绑架外国人事件激增",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“非洲无法无天的萨赫勒地区绑架外国人事件激增”。核心要点：萨赫勒地区日益严重的不安全局势使 2025 年成为非洲有记录以来绑架外国人最严重的年份之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Feb 2026 23:03:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 00:02:10 GMT",
+        "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普命令政府停止使用 Anthropic 来对抗人工智能的使用",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普命令政府停止使用 Anthropic 来对抗人工智能的使用”。核心要点：社交媒体上宣布的这一举措是在 Anthropic 的老板与美国国防部之间发生僵局之后做出的。",
+        "titleZh": "霍尔木兹海峡附近船只遇袭后油价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“霍尔木兹海峡附近船只遇袭后油价上涨”。核心要点：专家警告说，长期冲突可能会推高全球能源价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Feb 2026 03:50:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 02:12:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "华纳兄弟的交易对流媒体、影院和新闻意味着什么",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“华纳兄弟的交易对流媒体、影院和新闻意味着什么”。核心要点：如果派拉蒙对华纳兄弟的收购继续进行，它将极大地重塑好莱坞。",
+        "titleZh": "伊朗袭击后航班取消并发布新的旅行警告",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗袭击后航班取消并发布新的旅行警告”。核心要点：鉴于袭击事件，英国航空和维珍航空是提供飞往中东地面服务的主要航空公司之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 21:46:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c20j5n2w4q6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 18:05:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "政府批准价值10亿英镑的国防直升机交易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“政府批准价值10亿英镑的国防直升机交易”。核心要点：据英国广播公司了解，财政大臣已介入以保护萨默塞特直升机制造商的工作岗位。",
+        "titleZh": "针对16岁以下青少年社交媒体禁令的咨询开始",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“针对16岁以下青少年社交媒体禁令的咨询开始”。核心要点：关于采取哪些措施保护儿童福祉的讨论将持续三个月。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 16:20:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c75e14k64dvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 22:35:18 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Brewdog 预计将于下周初宣布出售",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Brewdog 预计将于下周初宣布出售”。核心要点：工作人员被告知 Brewdog 的德国分公司不包括在此次出售中，现在将被清算，但金条本周末将照常交易。",
+        "titleZh": "一家雇用盲人员工的公司破产了，但它的使命依然存在",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“一家雇用盲人员工的公司破产了，但它的使命依然存在”。核心要点：这家公司在倒闭之前已经运营了 150 多年，因此一位前雇员亲自处理了此事。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 17:16:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c07jmmgyx19o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 09:56:50 GMT",
+        "url": "https://www.bbc.com/news/articles/cpd8jpn0np1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Netflix 放弃出价后，派拉蒙将以 1110 亿美元收购华纳兄弟",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Netflix 放弃出价后，派拉蒙将以 1110 亿美元收购华纳兄弟”。核心要点：Netflix 退出竞购战的决定为派拉蒙赢得收购战扫清了道路。",
+        "titleZh": "巨大的数据中心能否重振艾尔郡——或者毁掉它？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“巨大的数据中心能否重振艾尔郡——或者毁掉它？”。核心要点：能源公司 ILI 集团正在提出一项颇具争议的提议，即将 HMP Kilmarnock 附近的土地转变为技术中心。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Feb 2026 04:32:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 01 Mar 2026 09:25:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
