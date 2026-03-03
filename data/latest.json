@@ -1,119 +1,145 @@
 {
-  "updatedAt": "2026-03-02T03:38:52.871Z",
+  "updatedAt": "2026-03-03T03:41:42.116Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Endoscopic ultrasound-guided embolization of a splenic-artery branch for portal hypertension-induced gastric fundal varices (with video).",
-        "journal": "Gastrointestinal endoscopy",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Shi D, Chen H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：超声内镜引导下脾动脉分支栓塞治疗门脉高压引起的胃底静脉曲张（附视频）。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "40914467",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40914467/",
-        "doiUrl": "https://doi.org/10.1016/j.gie.2025.08.055",
-        "url": "https://doi.org/10.1016/j.gie.2025.08.055"
+        "title": "Pre-Emptive TIPS Versus Standard Care for Patients With Cirrhosis and Variceal Bleeding: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 May-Jun",
+        "studyType": "Journal Article / Review",
+        "authors": "Saleh AO, Hageen AW, Rifai M",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：最近的随机对照试验 (RCT) 表明，在入院 24-72 小时内尽早进行经颈静脉肝内门体分流术 (TIPS) (p-TIPS) 可以改善出血控制并带来潜在的生存获益。 临床提示：急性静脉曲张出血仍然是肝硬化和门静脉高压患者的严重且可能致命的并发症。",
+        "abstract": "Acute variceal bleeding remains a severe and potentially fatal complication in patients with cirrhosis and portal hypertension. Recent randomized controlled trials (RCTs) have demonstrated improved bleeding control and potential survival benefits when a transjugular intrahepatic portosystemic shunt (TIPS) is placed early, within 24-72 h of admission (p-TIPS). Hence, this meta-analysis aims to evaluate the potential of p-TIPS in achieving a better survival rate, preventing rebleeding, and reducing adverse events compared to the standard of care in the treatment of variceal bleeding in patients with cirrhosis. An extensive literature search was performed in PubMed (MEDLINE), Scopus, WOS, Clini...",
+        "pmid": "41767699",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41767699/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103491",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103491"
       },
       {
-        "title": "Sinusoidal cell-derived biomarker scores predict diagnosis and prognosis in chronic liver disease.",
-        "journal": "BMC medicine",
-        "pubDate": "2026 Feb 28",
+        "title": "Impact of Alkaline Phosphatase Normalization on Complication-Free Survival in Primary Biliary Cholangitis.",
+        "journal": "The American journal of gastroenterology",
+        "pubDate": "2026 Mar 2",
         "studyType": "Journal Article",
-        "authors": "Guixé-Muntet S, Fernández-Iglesias A, Lopez D",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 108）。核心观点：正弦细胞是慢性肝病 (CLD) 进展的主要驱动因素，但目前的生物标志物无法捕获其表型状态。 临床提示：我们的目标是开发用于 CLD 诊断和预后的正弦细胞特异性生物标志物。",
-        "abstract": "Sinusoidal cells are central drivers of chronic liver disease (CLD) progression, yet current biomarkers fail to capture their phenotypic states. We aimed to develop sinusoidal cell-specific biomarkers for the diagnosis and prognosis of CLD. Single-cell RNA sequencing data were analyzed to identify cell-type-specific signatures for liver sinusoidal endothelial cell capillarization, hepatic stellate cell activation, and macrophage polarization. These signatures were integrated into three sinusoidal scores (endothelial, mesenchymal, and macrophage) reflecting dedifferentiation of each cell type. Scores were evaluated in an internal cohort (n = 108) and validated in three independent cohorts (to...",
-        "pmid": "41764477",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41764477/",
-        "doiUrl": "https://doi.org/10.1186/s12916-026-04733-y",
-        "url": "https://doi.org/10.1186/s12916-026-04733-y"
+        "authors": "Reddy A, Martins A, Bowlus CL",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：尽管熊去氧胆酸（UDCA）广泛用于治疗原发性胆汁性胆管炎（PBC），但许多患者仍然面临病情进展的风险。 临床提示：新数据表明，与 ALP 相比，碱性磷酸酶 (ALP) 和总胆红素 (TB) 的正常化 - 特别是当 TB < 正常上限 (xULN) 的 0.6 倍时 - 与改善结果相关",
+        "abstract": "Despite the widespread use of ursodeoxycholic acid (UDCA) in primary biliary cholangitis (PBC), many patients remain at risk for progression. Emerging data suggest that normalization of alkaline phosphatase (ALP) and total bilirubin (TB) - particularly when TB <0.6 times the upper limit of normal (xULN) - is associated with improved outcomes compared to ALP reduction to <1.5 xULN. This study investigated the association between ALP normalization in response to UDCA and long-term clinical outcomes in a real-world cohort of patients with PBC. We compared complication-free survival in patients achieving an ALP >ULN and <1.5 xULN (adequate response) to those with an ALP <ULN on UDCA monotherapy....",
+        "pmid": "41769906",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41769906/",
+        "doiUrl": "https://doi.org/10.14309/ajg.0000000000003973",
+        "url": "https://doi.org/10.14309/ajg.0000000000003973"
+      },
+      {
+        "title": "Noncirrhotic Portal Hypertension in Systemic Lupus Erythematosus Complicated by Hepatic Microabscesses After Transjugular Intrahepatic Portosystemic Shunt.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Mar",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Patel D, Veeramachaneni H",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该病例强调了 TIPS 在 SLE 相关 NCPH 中的一种新型感染并发症，从而增强了我们对狼疮患者肝脏表现的了解。 临床提示：非肝硬化门脉高压（NCPH）作为系统性红斑狼疮（SLE）的并发症很少见。",
+        "abstract": "Noncirrhotic portal hypertension (NCPH) as a complication of systemic lupus erythematosus (SLE) is rare. We present the case of a young woman with SLE and refractory ascites, with biopsy-confirmed NCPH. The clinical course was complicated by the development of hepatic microabscesses and severe hepatic ischemic injury following transjugular intrahepatic portosystemic shunt (TIPS) placement. Bacterial seeding of the TIPS stent, followed by showering of the liver parenchyma, is the proposed culprit mechanism. This case highlights a novel infectious complication of TIPS in the setting of SLE-associated NCPH, thereby enhancing our understanding of hepatic manifestations in patients with lupus.",
+        "pmid": "41767338",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41767338/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002029",
+        "url": "https://doi.org/10.14309/crj.0000000000002029"
+      },
+      {
+        "title": "A Rare Presentation of Right-Sided Pleural Effusion in Decompensated Chronic Liver Disease Secondary to Hepatitis C Infection: A Case Report.",
+        "journal": "Clinical case reports",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Siddiq N, Rauf NF, Javaid MH",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝性胸水（HH）是失代偿性肝硬化的一种罕见且临床上重要的并发症。 临床提示：大约 5%-10% 的受影响人群中会出现这种情况。",
+        "abstract": "Hepatic hydrothorax (HH) is an infrequent and clinically important complication of decompensated liver cirrhosis. It occurs in around 5%-10% of affected people. Hepatic hydrothorax is basically a transudative pleural effusion, usually right-sided and commonly without evidence of primary cardiopulmonary or renal pathology. We present the case of a 73-year-old female patient with poorly monitored hepatitis C virus (HCV) infection presenting to the hospital with progressive abdominal distension, shortness of breath, and upper GI bleeding. A decade ago, she had been diagnosed with HCV infection but had never undergone posttreatment testing to confirm viral clearance. On clinical examination, she...",
+        "pmid": "41767067",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41767067/",
+        "doiUrl": "https://doi.org/10.1002/ccr3.72073",
+        "url": "https://doi.org/10.1002/ccr3.72073"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国在海湾的盟友首当其冲受到伊朗袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国在海湾的盟友首当其冲受到伊朗袭击”。核心要点：伊朗对海湾阿拉伯国家的袭击表明，伊朗伊斯兰共和国不仅针对美国军队，还针对民用基础设施。",
+        "titleZh": "伊朗冲突扩大，真主党发射火箭弹后，以色列袭击黎巴嫩",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗冲突扩大，真主党发射火箭弹后，以色列袭击黎巴嫩”。核心要点：黎巴嫩官员称，以色列的袭击造成 52 人死亡，但目前尚无以色列境内人员伤亡的报道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 22:19:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 18:53:27 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗称学校罢工已造成至少153人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称学校罢工已造成至少153人死亡”。核心要点：伊朗指责美国和以色列发动了这次袭击；美国正在调查有关这一事件的报道，而以色列国防军则表示“不了解”该地区的行动。",
+        "titleZh": "“他们的打击如此之大，房子都在摇晃”：伊朗人描述美以袭击的影响",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““他们的打击如此之大，房子都在摇晃”：伊朗人描述美以袭击的影响”。核心要点：伊朗民众告诉英国广播公司，他们日夜听到爆炸声，美国和以色列连续第三天对该国发动袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 15:32:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 13:54:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "霍尔木兹海峡附近船只遇袭后油价上涨",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“霍尔木兹海峡附近船只遇袭后油价上涨”。核心要点：专家警告说，长期冲突可能会推高全球能源价格。",
+        "titleZh": "法国将增强核武库并向欧洲盟国扩大威慑力",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国将增强核武库并向欧洲盟国扩大威慑力”。核心要点：马克龙表示，八个国家可以享受法国核保护伞的保护，但巴黎将保留唯一的决策权。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 02:12:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 18:16:14 GMT",
+        "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗袭击该地区，以色列导弹袭击造成九人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击该地区，以色列导弹袭击造成九人死亡”。核心要点：据报道，德黑兰对美国和以色列的大规模袭击进行报复，中东各地已有多人死亡。",
+        "titleZh": "印度和加拿大通过“具有里程碑意义”的核能协议重置关系",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“印度和加拿大通过“具有里程碑意义”的核能协议重置关系”。核心要点：马克·卡尼在德里会见纳伦德拉·莫迪时公布了一系列协议，其中包括向印度供应铀的协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 22:24:27 GMT",
-        "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 20:18:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "非洲无法无天的萨赫勒地区绑架外国人事件激增",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“非洲无法无天的萨赫勒地区绑架外国人事件激增”。核心要点：萨赫勒地区日益严重的不安全局势使 2025 年成为非洲有记录以来绑架外国人最严重的年份之一。",
+        "titleZh": "南苏丹“意外”袭击造成至少169人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“南苏丹“意外”袭击造成至少169人死亡”。核心要点：维和人员正在其基地附近为约 1,000 名平民提供庇护并提供紧急护理。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 00:02:10 GMT",
-        "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 16:11:52 GMT",
+        "url": "https://www.bbc.com/news/articles/c0mgkvy4wr8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "霍尔木兹海峡附近船只遇袭后油价上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“霍尔木兹海峡附近船只遇袭后油价上涨”。核心要点：专家警告说，长期冲突可能会推高全球能源价格。",
+        "titleZh": "“我已经放弃了酒店业的工作。 15,000 英镑的薪水不值得承受压力”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我已经放弃了酒店业的工作。 15,000 英镑的薪水不值得承受压力””。核心要点：在财政大臣发表春季声明之前，20 多岁和 30 多岁的人们向 BBC 讲述了他们对自己财务状况的看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 02:12:41 GMT",
+        "publishedAt": "Tue, 03 Mar 2026 00:10:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c20lz7rkqv4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "随着冲突升级石油和天然气价格上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着冲突升级石油和天然气价格上涨”。核心要点：专家警告说，长期冲突可能会推高全球能源价格。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 02 Mar 2026 21:23:55 GMT",
         "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗袭击后航班取消并发布新的旅行警告",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗袭击后航班取消并发布新的旅行警告”。核心要点：鉴于袭击事件，英国航空和维珍航空是提供飞往中东地面服务的主要航空公司之一。",
+        "titleZh": "现在汽油和柴油价格会上涨吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“现在汽油和柴油价格会上涨吗？”。核心要点：如果油价在一段时间内保持高位，连锁反应可能会影响燃料和食品的成本",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 18:05:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 13:44:51 GMT",
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "针对16岁以下青少年社交媒体禁令的咨询开始",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“针对16岁以下青少年社交媒体禁令的咨询开始”。核心要点：关于采取哪些措施保护儿童福祉的讨论将持续三个月。",
+        "titleZh": "美国公司以 3300 万英镑收购 Brewdog，酒吧关门，数百人失业",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国公司以 3300 万英镑收购 Brewdog，酒吧关门，数百人失业”。核心要点：Brewdog 进入破产管理程序后，饮料和大麻公司 Tilray 收购了该啤酒厂、该品牌和 11 家酒吧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 22:35:18 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 18:47:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c05v0p1d0peo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一家雇用盲人员工的公司破产了，但它的使命依然存在",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“一家雇用盲人员工的公司破产了，但它的使命依然存在”。核心要点：这家公司在倒闭之前已经运营了 150 多年，因此一位前雇员亲自处理了此事。",
+        "titleZh": "离开阿联酋的航班有限，但伊朗袭击造成的干扰仍在继续",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“离开阿联酋的航班有限，但伊朗袭击造成的干扰仍在继续”。核心要点：由于冲突仍在继续，周一飞往中东主要枢纽的大部分航班已被取消。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 09:56:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cpd8jpn0np1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "巨大的数据中心能否重振艾尔郡——或者毁掉它？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“巨大的数据中心能否重振艾尔郡——或者毁掉它？”。核心要点：能源公司 ILI 集团正在提出一项颇具争议的提议，即将 HMP Kilmarnock 附近的土地转变为技术中心。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 01 Mar 2026 09:25:25 GMT",
-        "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Mar 2026 22:08:49 GMT",
+        "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
