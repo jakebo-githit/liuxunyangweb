@@ -1,145 +1,132 @@
 {
-  "updatedAt": "2026-03-03T03:41:42.116Z",
+  "updatedAt": "2026-03-04T03:33:42.877Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pre-Emptive TIPS Versus Standard Care for Patients With Cirrhosis and Variceal Bleeding: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 May-Jun",
+        "title": "Preventing First and Further Decompensation in Advanced Chronic Liver Disease.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Apr",
         "studyType": "Journal Article / Review",
-        "authors": "Saleh AO, Hageen AW, Rifai M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：最近的随机对照试验 (RCT) 表明，在入院 24-72 小时内尽早进行经颈静脉肝内门体分流术 (TIPS) (p-TIPS) 可以改善出血控制并带来潜在的生存获益。 临床提示：急性静脉曲张出血仍然是肝硬化和门静脉高压患者的严重且可能致命的并发症。",
-        "abstract": "Acute variceal bleeding remains a severe and potentially fatal complication in patients with cirrhosis and portal hypertension. Recent randomized controlled trials (RCTs) have demonstrated improved bleeding control and potential survival benefits when a transjugular intrahepatic portosystemic shunt (TIPS) is placed early, within 24-72 h of admission (p-TIPS). Hence, this meta-analysis aims to evaluate the potential of p-TIPS in achieving a better survival rate, preventing rebleeding, and reducing adverse events compared to the standard of care in the treatment of variceal bleeding in patients with cirrhosis. An extensive literature search was performed in PubMed (MEDLINE), Scopus, WOS, Clini...",
-        "pmid": "41767699",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41767699/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103491",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103491"
+        "authors": "Süffert LC, de Faria Moraes B, Cançado GGL",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：从代偿期 (cACLD) 到失代偿期 (dACLD) 的转变是由临床上显着的门静脉高压 (CSPH) 和持续暴露于病因因素驱动的，并且通常是由感染、感染等全身性触发因素促成的。 临床提示：晚期慢性肝病（ACLD）仍然是全球发病率和死亡率的主要原因。",
+        "abstract": "Advanced chronic liver disease (ACLD) remains a major cause of global morbidity and mortality. Preventing hepatic decompensation-both the first event and subsequent recurrences-has become a central therapeutic goal to prolong survival. The transition from the compensated phase (cACLD) to the decompensated phase (dACLD) is driven by clinically significant portal hypertension (CSPH) and continuous exposure to etiologic factors, and is often precipitated by systemic triggers such as infections, portal vein thrombosis, and hepatocellular carcinoma. Thus, effective prevention requires a multidisciplinary strategy combining etiologic control with hemodynamic modulation, supported by vaccination, o...",
+        "pmid": "41773498",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41773498/",
+        "doiUrl": "https://doi.org/10.1111/liv.70568",
+        "url": "https://doi.org/10.1111/liv.70568"
       },
       {
-        "title": "Impact of Alkaline Phosphatase Normalization on Complication-Free Survival in Primary Biliary Cholangitis.",
-        "journal": "The American journal of gastroenterology",
-        "pubDate": "2026 Mar 2",
+        "title": "Letter to editor: Non-selective beta-blockers are well tolerated in pregnancy with portal hypertension.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "pubDate": "2026 Mar 3",
         "studyType": "Journal Article",
-        "authors": "Reddy A, Martins A, Bowlus CL",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：尽管熊去氧胆酸（UDCA）广泛用于治疗原发性胆汁性胆管炎（PBC），但许多患者仍然面临病情进展的风险。 临床提示：新数据表明，与 ALP 相比，碱性磷酸酶 (ALP) 和总胆红素 (TB) 的正常化 - 特别是当 TB < 正常上限 (xULN) 的 0.6 倍时 - 与改善结果相关",
-        "abstract": "Despite the widespread use of ursodeoxycholic acid (UDCA) in primary biliary cholangitis (PBC), many patients remain at risk for progression. Emerging data suggest that normalization of alkaline phosphatase (ALP) and total bilirubin (TB) - particularly when TB <0.6 times the upper limit of normal (xULN) - is associated with improved outcomes compared to ALP reduction to <1.5 xULN. This study investigated the association between ALP normalization in response to UDCA and long-term clinical outcomes in a real-world cohort of patients with PBC. We compared complication-free survival in patients achieving an ALP >ULN and <1.5 xULN (adequate response) to those with an ALP <ULN on UDCA monotherapy....",
-        "pmid": "41769906",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41769906/",
-        "doiUrl": "https://doi.org/10.14309/ajg.0000000000003973",
-        "url": "https://doi.org/10.14309/ajg.0000000000003973"
+        "authors": "Asari SB",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：致编辑的信：非选择性β受体阻滞剂在妊娠合并门静脉高压症中具有良好的耐受性。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41774358",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41774358/",
+        "doiUrl": "https://doi.org/10.1007/s12664-026-01983-9",
+        "url": "https://doi.org/10.1007/s12664-026-01983-9"
       },
       {
-        "title": "Noncirrhotic Portal Hypertension in Systemic Lupus Erythematosus Complicated by Hepatic Microabscesses After Transjugular Intrahepatic Portosystemic Shunt.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Mar",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Patel D, Veeramachaneni H",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该病例强调了 TIPS 在 SLE 相关 NCPH 中的一种新型感染并发症，从而增强了我们对狼疮患者肝脏表现的了解。 临床提示：非肝硬化门脉高压（NCPH）作为系统性红斑狼疮（SLE）的并发症很少见。",
-        "abstract": "Noncirrhotic portal hypertension (NCPH) as a complication of systemic lupus erythematosus (SLE) is rare. We present the case of a young woman with SLE and refractory ascites, with biopsy-confirmed NCPH. The clinical course was complicated by the development of hepatic microabscesses and severe hepatic ischemic injury following transjugular intrahepatic portosystemic shunt (TIPS) placement. Bacterial seeding of the TIPS stent, followed by showering of the liver parenchyma, is the proposed culprit mechanism. This case highlights a novel infectious complication of TIPS in the setting of SLE-associated NCPH, thereby enhancing our understanding of hepatic manifestations in patients with lupus.",
-        "pmid": "41767338",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41767338/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002029",
-        "url": "https://doi.org/10.14309/crj.0000000000002029"
-      },
-      {
-        "title": "A Rare Presentation of Right-Sided Pleural Effusion in Decompensated Chronic Liver Disease Secondary to Hepatitis C Infection: A Case Report.",
-        "journal": "Clinical case reports",
+        "title": "Abdominal vascular imaging with ferumoxytol - how we do it.",
+        "journal": "Pediatric radiology",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Siddiq N, Rauf NF, Javaid MH",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝性胸水（HH）是失代偿性肝硬化的一种罕见且临床上重要的并发症。 临床提示：大约 5%-10% 的受影响人群中会出现这种情况。",
-        "abstract": "Hepatic hydrothorax (HH) is an infrequent and clinically important complication of decompensated liver cirrhosis. It occurs in around 5%-10% of affected people. Hepatic hydrothorax is basically a transudative pleural effusion, usually right-sided and commonly without evidence of primary cardiopulmonary or renal pathology. We present the case of a 73-year-old female patient with poorly monitored hepatitis C virus (HCV) infection presenting to the hospital with progressive abdominal distension, shortness of breath, and upper GI bleeding. A decade ago, she had been diagnosed with HCV infection but had never undergone posttreatment testing to confirm viral clearance. On clinical examination, she...",
-        "pmid": "41767067",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41767067/",
-        "doiUrl": "https://doi.org/10.1002/ccr3.72073",
-        "url": "https://doi.org/10.1002/ccr3.72073"
+        "authors": "Rees MA, Salman R, Krishnamurthy R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：使用费鲁莫托进行 MR 血管造影扩大了儿科腹部血管成像的工具集。 临床提示：作为一种铁基血池造影剂，ferumoxytol 可以对腹部血管进行高分辨率成像，该成像不依赖于造影相位的精确时间，并且可用于有禁忌症的患者。",
+        "abstract": "MR angiography with ferumoxytol expands the toolset for imaging the pediatric abdominal vasculature. As an iron-based blood pool contrast agent, ferumoxytol allows for high-resolution imaging of the abdominal vessels that is not dependent on precise timing of contrast phases and can be used in patients with a contraindication to gadolinium-based contrast agents. At our institution, it has proven useful for abdominal indications including vascular mapping in the settings of portal hypertension, portosystemic shunts, and abdominal transplant evaluation, as well as for investigation of vascular malformations and vasculitis. Others have demonstrated its utility in tumor imaging, especially with ...",
+        "pmid": "41569328",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41569328/",
+        "doiUrl": "https://doi.org/10.1007/s00247-026-06515-3",
+        "url": "https://doi.org/10.1007/s00247-026-06515-3"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗冲突扩大，真主党发射火箭弹后，以色列袭击黎巴嫩",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗冲突扩大，真主党发射火箭弹后，以色列袭击黎巴嫩”。核心要点：黎巴嫩官员称，以色列的袭击造成 52 人死亡，但目前尚无以色列境内人员伤亡的报道。",
+        "titleZh": "由于担心冲突可能升级，天然气和石油价格飙升，股价下跌",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于担心冲突可能升级，天然气和石油价格飙升，股价下跌”。核心要点：随着中东冲突加剧以及人们对冲突将持续多久的担忧加剧，市场做出了反应。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 18:53:27 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 21:44:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“他们的打击如此之大，房子都在摇晃”：伊朗人描述美以袭击的影响",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““他们的打击如此之大，房子都在摇晃”：伊朗人描述美以袭击的影响”。核心要点：伊朗民众告诉英国广播公司，他们日夜听到爆炸声，美国和以色列连续第三天对该国发动袭击。",
+        "titleZh": "特朗普因军事基地使用权威胁停止与西班牙的贸易",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普因军事基地使用权威胁停止与西班牙的贸易”。核心要点：西班牙禁止美国利用其军事基地对伊朗发动袭击后，特朗普猛烈抨击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 13:54:20 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 21:25:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国将增强核武库并向欧洲盟国扩大威慑力",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国将增强核武库并向欧洲盟国扩大威慑力”。核心要点：马克龙表示，八个国家可以享受法国核保护伞的保护，但巴黎将保留唯一的决策权。",
+        "titleZh": "无人机袭击英国基地后欧洲盟友急于加强塞浦路斯防御",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“无人机袭击英国基地后欧洲盟友急于加强塞浦路斯防御”。核心要点：塞浦路斯政府怀疑伊朗支持的黎巴嫩真主党组织袭击了英国在塞浦路斯的阿克罗蒂里皇家空军基地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 18:16:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 22:10:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度和加拿大通过“具有里程碑意义”的核能协议重置关系",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印度和加拿大通过“具有里程碑意义”的核能协议重置关系”。核心要点：马克·卡尼在德里会见纳伦德拉·莫迪时公布了一系列协议，其中包括向印度供应铀的协议。",
+        "titleZh": "饱受打击和孤立的真主党将黎巴嫩拖入另一场战争",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“饱受打击和孤立的真主党将黎巴嫩拖入另一场战争”。核心要点：它为支持伊朗而对以色列发动袭击，导致新的大规模流离失所和以色列的轰炸，激怒了许多黎巴嫩人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 20:18:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cx24gl7jrgno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 15:42:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "南苏丹“意外”袭击造成至少169人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“南苏丹“意外”袭击造成至少169人死亡”。核心要点：维和人员正在其基地附近为约 1,000 名平民提供庇护并提供紧急护理。",
+        "titleZh": "伊朗袭击科威特基地 六名美国士兵丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击科威特基地 六名美国士兵丧生”。核心要点：美国国防部长证实伊朗周日袭击了美国军事基地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 16:11:52 GMT",
-        "url": "https://www.bbc.com/news/articles/c0mgkvy4wr8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 00:00:01 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“我已经放弃了酒店业的工作。 15,000 英镑的薪水不值得承受压力”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我已经放弃了酒店业的工作。 15,000 英镑的薪水不值得承受压力””。核心要点：在财政大臣发表春季声明之前，20 多岁和 30 多岁的人们向 BBC 讲述了他们对自己财务状况的看法。",
+        "titleZh": "亚洲股市连续第三天下跌，随着市场追踪伊朗战争，油价小幅上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“亚洲股市连续第三天下跌，随着市场追踪伊朗战争，油价小幅上涨”。核心要点：中东冲突扰乱金融市场，全球能源价格飙升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 00:10:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c20lz7rkqv4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 03:26:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着冲突升级石油和天然气价格上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着冲突升级石油和天然气价格上涨”。核心要点：专家警告说，长期冲突可能会推高全球能源价格。",
+        "titleZh": "特朗普表示“如有必要”美国海军将保护中东船只",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示“如有必要”美国海军将保护中东船只”。核心要点：美国总统表示，随着石油和天然气价格持续飙升，他正在采取措施保持能源供应畅通。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 21:23:55 GMT",
-        "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 22:15:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c20zg54g5vvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "现在汽油和柴油价格会上涨吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“现在汽油和柴油价格会上涨吗？”。核心要点：如果油价在一段时间内保持高位，连锁反应可能会影响燃料和食品的成本",
+        "titleZh": "使用我们的税务计算器了解春季报表对您有何影响",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“使用我们的税务计算器了解春季报表对您有何影响”。核心要点：预计未来五年工资将会上涨，但由于起征点冻结，您可能需要缴纳更多税款。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 13:44:51 GMT",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 00:01:44 GMT",
+        "url": "https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国公司以 3300 万英镑收购 Brewdog，酒吧关门，数百人失业",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国公司以 3300 万英镑收购 Brewdog，酒吧关门，数百人失业”。核心要点：Brewdog 进入破产管理程序后，饮料和大麻公司 Tilray 收购了该啤酒厂、该品牌和 11 家酒吧。",
+        "titleZh": "如果我的航班取消或延误，我有什么权利？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“如果我的航班取消或延误，我有什么权利？”。核心要点：如果您因航班取消或延误而需要退款，我们会考虑影响您的不同情况。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 18:47:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c05v0p1d0peo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 18:21:24 GMT",
+        "url": "https://www.bbc.com/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "离开阿联酋的航班有限，但伊朗袭击造成的干扰仍在继续",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“离开阿联酋的航班有限，但伊朗袭击造成的干扰仍在继续”。核心要点：由于冲突仍在继续，周一飞往中东主要枢纽的大部分航班已被取消。",
+        "titleZh": "特朗普因军事基地使用权威胁停止与西班牙的贸易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普因军事基地使用权威胁停止与西班牙的贸易”。核心要点：西班牙禁止美国利用其军事基地对伊朗发动袭击后，特朗普猛烈抨击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Mar 2026 22:08:49 GMT",
-        "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Mar 2026 21:25:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
