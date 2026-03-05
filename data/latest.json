@@ -1,132 +1,106 @@
 {
-  "updatedAt": "2026-03-04T03:33:42.877Z",
+  "updatedAt": "2026-03-05T03:37:25.902Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Preventing First and Further Decompensation in Advanced Chronic Liver Disease.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Review",
-        "authors": "Süffert LC, de Faria Moraes B, Cançado GGL",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：从代偿期 (cACLD) 到失代偿期 (dACLD) 的转变是由临床上显着的门静脉高压 (CSPH) 和持续暴露于病因因素驱动的，并且通常是由感染、感染等全身性触发因素促成的。 临床提示：晚期慢性肝病（ACLD）仍然是全球发病率和死亡率的主要原因。",
-        "abstract": "Advanced chronic liver disease (ACLD) remains a major cause of global morbidity and mortality. Preventing hepatic decompensation-both the first event and subsequent recurrences-has become a central therapeutic goal to prolong survival. The transition from the compensated phase (cACLD) to the decompensated phase (dACLD) is driven by clinically significant portal hypertension (CSPH) and continuous exposure to etiologic factors, and is often precipitated by systemic triggers such as infections, portal vein thrombosis, and hepatocellular carcinoma. Thus, effective prevention requires a multidisciplinary strategy combining etiologic control with hemodynamic modulation, supported by vaccination, o...",
-        "pmid": "41773498",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41773498/",
-        "doiUrl": "https://doi.org/10.1111/liv.70568",
-        "url": "https://doi.org/10.1111/liv.70568"
-      },
-      {
-        "title": "Letter to editor: Non-selective beta-blockers are well tolerated in pregnancy with portal hypertension.",
-        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
-        "pubDate": "2026 Mar 3",
+        "title": "Association of Hemostatic Blood Product Transfusion With Clinical Outcomes in Esophageal Variceal Bleeding.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 May-Jun",
         "studyType": "Journal Article",
-        "authors": "Asari SB",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：致编辑的信：非选择性β受体阻滞剂在妊娠合并门静脉高压症中具有良好的耐受性。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41774358",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41774358/",
-        "doiUrl": "https://doi.org/10.1007/s12664-026-01983-9",
-        "url": "https://doi.org/10.1007/s12664-026-01983-9"
-      },
-      {
-        "title": "Abdominal vascular imaging with ferumoxytol - how we do it.",
-        "journal": "Pediatric radiology",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Rees MA, Salman R, Krishnamurthy R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：使用费鲁莫托进行 MR 血管造影扩大了儿科腹部血管成像的工具集。 临床提示：作为一种铁基血池造影剂，ferumoxytol 可以对腹部血管进行高分辨率成像，该成像不依赖于造影相位的精确时间，并且可用于有禁忌症的患者。",
-        "abstract": "MR angiography with ferumoxytol expands the toolset for imaging the pediatric abdominal vasculature. As an iron-based blood pool contrast agent, ferumoxytol allows for high-resolution imaging of the abdominal vessels that is not dependent on precise timing of contrast phases and can be used in patients with a contraindication to gadolinium-based contrast agents. At our institution, it has proven useful for abdominal indications including vascular mapping in the settings of portal hypertension, portosystemic shunts, and abdominal transplant evaluation, as well as for investigation of vascular malformations and vasculitis. Others have demonstrated its utility in tumor imaging, especially with ...",
-        "pmid": "41569328",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41569328/",
-        "doiUrl": "https://doi.org/10.1007/s00247-026-06515-3",
-        "url": "https://doi.org/10.1007/s00247-026-06515-3"
+        "authors": "Butt MA, Bloom H, Aamer S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：静脉曲张出血是由于门静脉高压而不是原发性止血功能障碍引起的。 临床提示：然而，这些患者的血小板计数经常较低且国际标准化比值 (INR) 值升高，因此尽管多个肝脏协会的指导，他们仍经常在入院时接受输血",
+        "abstract": "Variceal bleeds occur due to portal hypertension and not primary hemostatic dysfunction. However, these patients frequently have low platelet counts and elevated international normalized ratio (INR) values, for which they often receive transfusions upon admission despite guidance from multiple liver societies. We performed a retrospective analysis using the TriNetX United States Collaborative Network. Cohorts were defined based on transfusion of fresh frozen plasma (FFP), platelets, or cryoprecipitate within 72 h of variceal bleeding diagnosis. Propensity score matching was used to balance demographic and clinical characteristics including variables representative of the model for end-stage ...",
+        "pmid": "41778218",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41778218/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103477",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103477"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "由于担心冲突可能升级，天然气和石油价格飙升，股价下跌",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于担心冲突可能升级，天然气和石油价格飙升，股价下跌”。核心要点：随着中东冲突加剧以及人们对冲突将持续多久的担忧加剧，市场做出了反应。",
+        "titleZh": "由于美以轰炸仍在继续，伊朗推迟了哈梅内伊的葬礼",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于美以轰炸仍在继续，伊朗推迟了哈梅内伊的葬礼”。核心要点：一名官员表示，需要为在德黑兰举行的为期三天的仪式做更多准备，最高领导人将在那里安息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 21:44:31 GMT",
-        "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 18:10:50 GMT",
+        "url": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普因军事基地使用权威胁停止与西班牙的贸易",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普因军事基地使用权威胁停止与西班牙的贸易”。核心要点：西班牙禁止美国利用其军事基地对伊朗发动袭击后，特朗普猛烈抨击。",
+        "titleZh": "赫格塞斯称，美国潜艇在印度洋击沉了伊朗军舰",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格塞斯称，美国潜艇在印度洋击沉了伊朗军舰”。核心要点：斯里兰卡海军表示，一艘军舰在其南部海岸沉没，预计约有 140 人失踪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 21:25:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 16:56:17 GMT",
+        "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "无人机袭击英国基地后欧洲盟友急于加强塞浦路斯防御",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“无人机袭击英国基地后欧洲盟友急于加强塞浦路斯防御”。核心要点：塞浦路斯政府怀疑伊朗支持的黎巴嫩真主党组织袭击了英国在塞浦路斯的阿克罗蒂里皇家空军基地。",
+        "titleZh": "中国设定1991年以来最低经济增长目标",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“中国设定1991年以来最低经济增长目标”。核心要点：这也是自2023年下调至“5%左右”以来，首次下调目标。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 22:10:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 03:10:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "饱受打击和孤立的真主党将黎巴嫩拖入另一场战争",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“饱受打击和孤立的真主党将黎巴嫩拖入另一场战争”。核心要点：它为支持伊朗而对以色列发动袭击，导致新的大规模流离失所和以色列的轰炸，激怒了许多黎巴嫩人。",
+        "titleZh": "西班牙总统佩德罗·桑切斯回击特朗普威胁切断贸易，称“不战争”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙总统佩德罗·桑切斯回击特朗普威胁切断贸易，称“不战争””。核心要点：西班牙首相对美国总统唐纳德·特朗普终止与西班牙贸易的威胁进行了强烈反驳。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 15:42:28 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 20:42:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗袭击科威特基地 六名美国士兵丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击科威特基地 六名美国士兵丧生”。核心要点：美国国防部长证实伊朗周日袭击了美国军事基地。",
+        "titleZh": "贸易法庭下令退还关税，特朗普政府遭遇挫折",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“贸易法庭下令退还关税，特朗普政府遭遇挫折”。核心要点：贸易法庭为企业获得最高法院上个月驳回的关税退款扫清了道路。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 00:00:01 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 00:13:16 GMT",
+        "url": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "亚洲股市连续第三天下跌，随着市场追踪伊朗战争，油价小幅上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“亚洲股市连续第三天下跌，随着市场追踪伊朗战争，油价小幅上涨”。核心要点：中东冲突扰乱金融市场，全球能源价格飙升。",
+        "titleZh": "中国设定1991年以来最低经济增长目标",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国设定1991年以来最低经济增长目标”。核心要点：这也是自2023年下调至“5%左右”以来，首次下调目标。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 03:26:22 GMT",
+        "publishedAt": "Thu, 05 Mar 2026 03:10:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "由于担心伊朗战争可能拖延，股市和油价仍然波动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于担心伊朗战争可能拖延，股市和油价仍然波动”。核心要点：专家警告说，如果石油和天然气价格持续走高，可能会使商品和服务变得更加昂贵。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 04 Mar 2026 19:00:39 GMT",
         "url": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示“如有必要”美国海军将保护中东船只",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示“如有必要”美国海军将保护中东船只”。核心要点：美国总统表示，随着石油和天然气价格持续飙升，他正在采取措施保持能源供应畅通。",
+        "titleZh": "英国利率仍有望很快下降吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国利率仍有望很快下降吗？”。核心要点：英格兰银行设定的利率影响数百万人的抵押贷款、贷款和储蓄利率。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 22:15:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c20zg54g5vvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 14:09:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "使用我们的税务计算器了解春季报表对您有何影响",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“使用我们的税务计算器了解春季报表对您有何影响”。核心要点：预计未来五年工资将会上涨，但由于起征点冻结，您可能需要缴纳更多税款。",
+        "titleZh": "现在汽油和柴油价格会上涨吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“现在汽油和柴油价格会上涨吗？”。核心要点：如果油价在一段时间内保持高位，连锁反应可能会影响燃料和食品的成本",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 00:01:44 GMT",
-        "url": "https://www.bbc.com/news/articles/c99k7djlklyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Mar 2026 15:36:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如果我的航班取消或延误，我有什么权利？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“如果我的航班取消或延误，我有什么权利？”。核心要点：如果您因航班取消或延误而需要退款，我们会考虑影响您的不同情况。",
+        "titleZh": "马斯克告诉陪审团“人们对他的帖子读得太多了”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“马斯克告诉陪审团“人们对他的帖子读得太多了””。核心要点：这位亿万富翁被指控在 2022 年收购 Twitter 之前误导投资者。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 18:21:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普因军事基地使用权威胁停止与西班牙的贸易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普因军事基地使用权威胁停止与西班牙的贸易”。核心要点：西班牙禁止美国利用其军事基地对伊朗发动袭击后，特朗普猛烈抨击。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 03 Mar 2026 21:25:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 02:55:34 GMT",
+        "url": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
