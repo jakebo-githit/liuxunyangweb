@@ -1,106 +1,119 @@
 {
-  "updatedAt": "2026-03-05T03:37:25.902Z",
+  "updatedAt": "2026-03-06T03:36:23.109Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Association of Hemostatic Blood Product Transfusion With Clinical Outcomes in Esophageal Variceal Bleeding.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 May-Jun",
+        "title": "EUS-guided esophagogastric variceal obliteration: real-world cohort of three generation glue embolization (with video).",
+        "journal": "Surgical endoscopy",
+        "pubDate": "2026 Mar 4",
         "studyType": "Journal Article",
-        "authors": "Butt MA, Bloom H, Aamer S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：静脉曲张出血是由于门静脉高压而不是原发性止血功能障碍引起的。 临床提示：然而，这些患者的血小板计数经常较低且国际标准化比值 (INR) 值升高，因此尽管多个肝脏协会的指导，他们仍经常在入院时接受输血",
-        "abstract": "Variceal bleeds occur due to portal hypertension and not primary hemostatic dysfunction. However, these patients frequently have low platelet counts and elevated international normalized ratio (INR) values, for which they often receive transfusions upon admission despite guidance from multiple liver societies. We performed a retrospective analysis using the TriNetX United States Collaborative Network. Cohorts were defined based on transfusion of fresh frozen plasma (FFP), platelets, or cryoprecipitate within 72 h of variceal bleeding diagnosis. Propensity score matching was used to balance demographic and clinical characteristics including variables representative of the model for end-stage ...",
-        "pmid": "41778218",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41778218/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103477",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103477"
+        "authors": "Zhang M, Hu J, Jiang Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 30）。核心观点：门静脉高压患者的食管胃静脉曲张出血（EGVB）仍然危及生命。 临床提示：该真实世界队列记录了用于 GOV 型 EGVB 二级预防的逐步 EUS 引导胶栓塞演变，比较了连续方法：传统 ESVD（内镜下选择性静脉曲张断流术）",
+        "abstract": "Esophagogastric variceal bleeding (EGVB) remains life-threatening in portal hypertension. This real-world cohort documents stepwise EUS-guided glue embolization evolution for secondary prophylaxis of GOV-type EGVB, comparing sequential approaches: conventional ESVD (Endoscopic selective variceal devascularization), EUS-PCSS-D/P (EUS-guided variceal puncture with cyanoacrylate selective seal targeting the distal segment of the source vessel or perforating branch vessels), and EUS-PCSS-T (targeting the source vascular trunk). We aimed to evaluate the impact of these technical iterations on clinical outcomes. Retrospective analysis of 89 patients undergoing secondary prophylaxis: ESVD (n = 30),...",
+        "pmid": "41781777",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41781777/",
+        "doiUrl": "https://doi.org/10.1007/s00464-026-12669-w",
+        "url": "https://doi.org/10.1007/s00464-026-12669-w"
+      },
+      {
+        "title": "Cirrhosis of the liver adversely affects the clinical outcomes in patients with acute pancreatitis: A propensity-matched nationwide analysis (2016-2020).",
+        "journal": "Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Shah MP, Ojemolon P, Dahiya DS",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化患者由于酒精中毒和胆结石等病因的患病率较高，可能会发生急性胰腺炎（AP）。 临床提示：然而，有关 AP 和潜在肝硬化患者临床结果的数据有限。",
+        "abstract": "Acute pancreatitis (AP) may develop in patients with cirrhosis of the liver due to higher prevalence of etiological factors such as alcoholism and gallstones in them. However, the data are limited regarding the clinical outcomes in patients with AP and underlying cirrhosis. National Inpatient Sample (2016-2020) was reviewed to identify adult inpatients with AP. They were divided into three groups based on presence of cirrhosis. STATA was used to compare clinical outcomes and resource utilization using multivariate and propensity score-matched analyses. 1.38 million patients were admitted with AP, with 2.2 % and 2.1 % having compensated and decompensated cirrhosis respectively. Compared to no...",
+        "pmid": "41580332",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41580332/",
+        "doiUrl": "https://doi.org/10.1016/j.pan.2026.01.005",
+        "url": "https://doi.org/10.1016/j.pan.2026.01.005"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "由于美以轰炸仍在继续，伊朗推迟了哈梅内伊的葬礼",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于美以轰炸仍在继续，伊朗推迟了哈梅内伊的葬礼”。核心要点：一名官员表示，需要为在德黑兰举行的为期三天的仪式做更多准备，最高领导人将在那里安息。",
+        "titleZh": "“游戏计划是什么？”：伊朗战争令中国及其野心感到不安",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““游戏计划是什么？”：伊朗战争令中国及其野心感到不安”。核心要点：中国尚未感受到中东战争的冲击。但它正在感受到涟漪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 18:10:50 GMT",
-        "url": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 23:13:57 GMT",
+        "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "赫格塞斯称，美国潜艇在印度洋击沉了伊朗军舰",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格塞斯称，美国潜艇在印度洋击沉了伊朗军舰”。核心要点：斯里兰卡海军表示，一艘军舰在其南部海岸沉没，预计约有 140 人失踪。",
+        "titleZh": "“我们一直在准备”：为什么伊朗地面上的靴子可能是库尔德人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““我们一直在准备”：为什么伊朗地面上的靴子可能是库尔德人”。核心要点：流亡在伊拉克北部的伊朗库尔德反对派组织告诉英国广播公司，他们有计划越过边境，但否认已经这样做。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 16:56:17 GMT",
-        "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 21:20:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国设定1991年以来最低经济增长目标",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“中国设定1991年以来最低经济增长目标”。核心要点：这也是自2023年下调至“5%左右”以来，首次下调目标。",
+        "titleZh": "泽伦斯基表示，美国请求乌克兰帮助打击伊朗无人机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基表示，美国请求乌克兰帮助打击伊朗无人机”。核心要点：乌克兰总统表示，只有在不削弱其防空能力的情况下，基辅才会提供帮助。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 03:10:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 18:19:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙总统佩德罗·桑切斯回击特朗普威胁切断贸易，称“不战争”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙总统佩德罗·桑切斯回击特朗普威胁切断贸易，称“不战争””。核心要点：西班牙首相对美国总统唐纳德·特朗普终止与西班牙贸易的威胁进行了强烈反驳。",
+        "titleZh": "阿塞拜疆称伊朗袭击了其领土，战争蔓延到边境",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿塞拜疆称伊朗袭击了其领土，战争蔓延到边境”。核心要点：总统伊利哈姆·阿利耶夫表示，无人机袭击是“恐怖行为”，他让武装部队处于高度戒备状态。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 20:42:35 GMT",
-        "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 21:33:48 GMT",
+        "url": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "贸易法庭下令退还关税，特朗普政府遭遇挫折",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“贸易法庭下令退还关税，特朗普政府遭遇挫折”。核心要点：贸易法庭为企业获得最高法院上个月驳回的关税退款扫清了道路。",
+        "titleZh": "布兰妮·斯皮尔斯因涉嫌酒后驾车在加州被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“布兰妮·斯皮尔斯因涉嫌酒后驾车在加州被捕”。核心要点：这位歌手于周三太平洋时间 21:30（格林威治标准时间 05:30）左右被加州公路巡逻队逮捕。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 00:13:16 GMT",
-        "url": "https://www.bbc.com/news/articles/c1d66k5r1x4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 00:51:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "中国设定1991年以来最低经济增长目标",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国设定1991年以来最低经济增长目标”。核心要点：这也是自2023年下调至“5%左右”以来，首次下调目标。",
+        "titleZh": "调查发现，英国七分之一的商店在过去一年中已实现无现金化",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“调查发现，英国七分之一的商店在过去一年中已实现无现金化”。核心要点：一项调查显示，去年约有 14% 的小型高街商贩只使用信用卡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 03:10:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 00:05:41 GMT",
+        "url": "https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于担心伊朗战争可能拖延，股市和油价仍然波动",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于担心伊朗战争可能拖延，股市和油价仍然波动”。核心要点：专家警告说，如果石油和天然气价格持续走高，可能会使商品和服务变得更加昂贵。",
+        "titleZh": "伊朗战争可能对你产生影响的五种方式——图表",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争可能对你产生影响的五种方式——图表”。核心要点：由于最近几天燃料和天然气价格上涨，冲突可能会通过以下一些方式影响家庭。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 19:00:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 00:05:31 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国利率仍有望很快下降吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国利率仍有望很快下降吗？”。核心要点：英格兰银行设定的利率影响数百万人的抵押贷款、贷款和储蓄利率。",
+        "titleZh": "由于伊朗战争推高价格，英国公司取消固定能源交易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争推高价格，英国公司取消固定能源交易”。核心要点：数据显示，随着批发能源价格飙升，定期交易数量减少了一半以上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 14:09:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 18:25:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "现在汽油和柴油价格会上涨吗？",
         "summaryZh": "这是一条金融市场新闻，重点围绕“现在汽油和柴油价格会上涨吗？”。核心要点：如果油价在一段时间内保持高位，连锁反应可能会影响燃料和食品的成本",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Mar 2026 15:36:40 GMT",
+        "publishedAt": "Thu, 05 Mar 2026 18:31:22 GMT",
         "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马斯克告诉陪审团“人们对他的帖子读得太多了”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“马斯克告诉陪审团“人们对他的帖子读得太多了””。核心要点：这位亿万富翁被指控在 2022 年收购 Twitter 之前误导投资者。",
+        "titleZh": "各国就新的“非法”全球关税起诉特朗普政府",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“各国就新的“非法”全球关税起诉特朗普政府”。核心要点：这 24 个州正在寻求阻止特朗普最新征收的关税，他征收这些关税是为了取代最高法院驳回的关税。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 02:55:34 GMT",
-        "url": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Mar 2026 19:56:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c3ewxjpqqqzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
