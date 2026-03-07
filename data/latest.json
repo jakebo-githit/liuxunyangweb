@@ -1,119 +1,132 @@
 {
-  "updatedAt": "2026-03-06T03:36:23.109Z",
+  "updatedAt": "2026-03-07T03:24:59.122Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "EUS-guided esophagogastric variceal obliteration: real-world cohort of three generation glue embolization (with video).",
-        "journal": "Surgical endoscopy",
-        "pubDate": "2026 Mar 4",
+        "title": "Prognostic scores for early mortality following transjugular intrahepatic portosystemic shunt insertion: external validation in a contemporary Australian cohort.",
+        "journal": "Internal medicine journal",
+        "pubDate": "2026 Mar 5",
         "studyType": "Journal Article",
-        "authors": "Zhang M, Hu J, Jiang Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 30）。核心观点：门静脉高压患者的食管胃静脉曲张出血（EGVB）仍然危及生命。 临床提示：该真实世界队列记录了用于 GOV 型 EGVB 二级预防的逐步 EUS 引导胶栓塞演变，比较了连续方法：传统 ESVD（内镜下选择性静脉曲张断流术）",
-        "abstract": "Esophagogastric variceal bleeding (EGVB) remains life-threatening in portal hypertension. This real-world cohort documents stepwise EUS-guided glue embolization evolution for secondary prophylaxis of GOV-type EGVB, comparing sequential approaches: conventional ESVD (Endoscopic selective variceal devascularization), EUS-PCSS-D/P (EUS-guided variceal puncture with cyanoacrylate selective seal targeting the distal segment of the source vessel or perforating branch vessels), and EUS-PCSS-T (targeting the source vascular trunk). We aimed to evaluate the impact of these technical iterations on clinical outcomes. Retrospective analysis of 89 patients undergoing secondary prophylaxis: ESVD (n = 30),...",
-        "pmid": "41781777",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41781777/",
-        "doiUrl": "https://doi.org/10.1007/s00464-026-12669-w",
-        "url": "https://doi.org/10.1007/s00464-026-12669-w"
+        "authors": "Walia N, Nilsen O, Cheung E",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 117）。核心观点：传统的评分系统，例如终末期肝病模型 (MELD) 和 MELD-Na，以及较新的改良 TIPS 评分 (MOTS) 和 TIPS 后弗莱堡生存指数 (FIPS)，已显示出细化风险分层的潜力。 临床提示：外部验证预测 TIPS 后 30 天和 90 天死亡率的预后评分。",
+        "abstract": "Mortality following transjugular intrahepatic portosystemic shunt (TIPS) placement remains a critical concern. Traditional scoring systems, such as the Model for End-Stage Liver Disease (MELD) and MELD-Na, as well as the newer Modified TIPS-Score (MOTS) and Freiburg Index of Post-TIPS Survival (FIPS), have shown potential for refining risk stratification. To externally validate prognostic scores for predicting 30- and 90-day mortality following TIPS. This retrospective study, conducted at Austin Health, Australia, included 117 patients who underwent TIPS with ≥90 days of follow-up between 2011 and 2024. Prognostic scores were calculated using pre-TIPS clinical and laboratory data. Discrimina...",
+        "pmid": "41787873",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41787873/",
+        "doiUrl": "https://doi.org/10.1111/imj.70373",
+        "url": "https://doi.org/10.1111/imj.70373"
       },
       {
-        "title": "Cirrhosis of the liver adversely affects the clinical outcomes in patients with acute pancreatitis: A propensity-matched nationwide analysis (2016-2020).",
-        "journal": "Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]",
+        "title": "A noninvasive model for predicting intrahepatic venovenous shunts before HVPG measurement: a multiple cohort study.",
+        "journal": "Hepatology international",
+        "pubDate": "2026 Mar 5",
+        "studyType": "Journal Article",
+        "authors": "Chen R, Ma L, Liu Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 194）。核心观点：本研究旨在构建机器学习（ML）模型，以便在肝静脉压力梯度（HVPG）测量之前无创识别中度至重度肝内静脉分流（MS-IHVS）。 临床提示：回顾性纳入 605 名接受 HVPG 测量的患者进行模型开发。",
+        "abstract": "This study aimed to construct a machine learning (ML) model to facilitate non-invasive identification of moderate-to-severe intrahepatic venovenous shunts (MS-IHVS) before hepatic venous pressure gradient (HVPG) measurement. A total of 605 patients receiving HVPG measurement were retrospectively included for model development. Two validation cohorts were used: an FN-validation cohort (n = 194; retrospectively enrolled) with both wedged hepatic venous pressure (WHVP) and fine-needle (21-22G) portal venous pressure (FN-PVP) measurements, and a TIPS-validation cohort (n = 92; prospectively enrolled with WHVP and direct PVP measurements. Nine ML and eleven stacking ensemble models were developed...",
+        "pmid": "41787000",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41787000/",
+        "doiUrl": "https://doi.org/10.1007/s12072-026-11066-8",
+        "url": "https://doi.org/10.1007/s12072-026-11066-8"
+      },
+      {
+        "title": "Clinical presentation, management, and outcomes for noncirrhotic portal hypertension in children.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Shah MP, Ojemolon P, Dahiya DS",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化患者由于酒精中毒和胆结石等病因的患病率较高，可能会发生急性胰腺炎（AP）。 临床提示：然而，有关 AP 和潜在肝硬化患者临床结果的数据有限。",
-        "abstract": "Acute pancreatitis (AP) may develop in patients with cirrhosis of the liver due to higher prevalence of etiological factors such as alcoholism and gallstones in them. However, the data are limited regarding the clinical outcomes in patients with AP and underlying cirrhosis. National Inpatient Sample (2016-2020) was reviewed to identify adult inpatients with AP. They were divided into three groups based on presence of cirrhosis. STATA was used to compare clinical outcomes and resource utilization using multivariate and propensity score-matched analyses. 1.38 million patients were admitted with AP, with 2.2 % and 2.1 % having compensated and decompensated cirrhosis respectively. Compared to no...",
-        "pmid": "41580332",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41580332/",
-        "doiUrl": "https://doi.org/10.1016/j.pan.2026.01.005",
-        "url": "https://doi.org/10.1016/j.pan.2026.01.005"
+        "authors": "Jarasvaraparn C, Ferrante-Gennaro GE, Tolliver KM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 63）。核心观点：非肝硬化门静脉高压（​​NCPH）是一种罕见疾病，其特征是在没有肝硬化的情况下门静脉压力升高，由肝内和肝外途径引起。 临床提示：本研究旨在描述儿童 NCPH 的特征、病因、临床表现和结局。",
+        "abstract": "Noncirrhotic portal hypertension (NCPH) is a rare condition marked by elevated portal venous pressure in the absence of cirrhosis and is caused by intrahepatic and extrahepatic pathways. This study aimed to describe the characteristics, etiologies, clinical manifestations, and outcomes of NCPH in children. This study was a retrospective chart review of 63 patients in a single tertiary center. Participants were children (≤18 years old) diagnosed with portal hypertension in the absence of cirrhosis. The three most common etiologies included extrahepatic portal vein obstruction (EHPVO) in 27 (42.8%), congenital hepatic fibrosis (CHF) in 17 (27%), and nodular regenerative hyperplasia (NRH) in 10...",
+        "pmid": "41432093",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41432093/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70318",
+        "url": "https://doi.org/10.1002/jpn3.70318"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "“游戏计划是什么？”：伊朗战争令中国及其野心感到不安",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““游戏计划是什么？”：伊朗战争令中国及其野心感到不安”。核心要点：中国尚未感受到中东战争的冲击。但它正在感受到涟漪。",
+        "titleZh": "普京与伊朗总统通话时，特朗普要求伊朗“无条件投降”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“普京与伊朗总统通话时，特朗普要求伊朗“无条件投降””。核心要点：总统还呼吁德黑兰在六天的战争后挑选白宫“可接受”的新领导人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 23:13:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 07 Mar 2026 02:04:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我们一直在准备”：为什么伊朗地面上的靴子可能是库尔德人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““我们一直在准备”：为什么伊朗地面上的靴子可能是库尔德人”。核心要点：流亡在伊拉克北部的伊朗库尔德反对派组织告诉英国广播公司，他们有计划越过边境，但否认已经这样做。",
+        "titleZh": "由于伊朗冲突关闭更多空域，飞行路线受到挤压",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于伊朗冲突关闭更多空域，飞行路线受到挤压”。核心要点：对阿塞拜疆的无人机袭击缩小了争先恐后应对海湾地区混乱的航空公司的选择范围。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 21:20:49 GMT",
-        "url": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 18:09:19 GMT",
+        "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泽伦斯基表示，美国请求乌克兰帮助打击伊朗无人机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基表示，美国请求乌克兰帮助打击伊朗无人机”。核心要点：乌克兰总统表示，只有在不削弱其防空能力的情况下，基辅才会提供帮助。",
+        "titleZh": "武装机器人走上乌克兰战争战场",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“武装机器人走上乌克兰战争战场”。核心要点：乌克兰已启动一项在战场上部署武装机器人对抗俄罗斯军队的计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 18:19:34 GMT",
-        "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 07 Mar 2026 00:36:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿塞拜疆称伊朗袭击了其领土，战争蔓延到边境",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿塞拜疆称伊朗袭击了其领土，战争蔓延到边境”。核心要点：总统伊利哈姆·阿利耶夫表示，无人机袭击是“恐怖行为”，他让武装部队处于高度戒备状态。",
+        "titleZh": "疏散警告引发恐慌后以色列袭击贝鲁特",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“疏散警告引发恐慌后以色列袭击贝鲁特”。核心要点：随着以色列加大对黎巴嫩的打击力度，史无前例地警告人们离开真主党据点，导致严重的交通拥堵。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 21:33:48 GMT",
-        "url": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 04:08:48 GMT",
+        "url": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "布兰妮·斯皮尔斯因涉嫌酒后驾车在加州被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“布兰妮·斯皮尔斯因涉嫌酒后驾车在加州被捕”。核心要点：这位歌手于周三太平洋时间 21:30（格林威治标准时间 05:30）左右被加州公路巡逻队逮捕。",
+        "titleZh": "参议员告诉英国广播公司，在尼日利亚最近的袭击中，“大量”人被枪手杀害",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“参议员告诉英国广播公司，在尼日利亚最近的袭击中，“大量”人被枪手杀害”。核心要点：据报道，可疑的伊斯兰武装分子控制了一个村庄两天，然后被军队和空袭驱逐。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 00:51:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 17:06:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "调查发现，英国七分之一的商店在过去一年中已实现无现金化",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“调查发现，英国七分之一的商店在过去一年中已实现无现金化”。核心要点：一项调查显示，去年约有 14% 的小型高街商贩只使用信用卡。",
+        "titleZh": "卡塔尔警告所有海湾生产可能在几天内停止 油价升至两年高位",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“卡塔尔警告所有海湾生产可能在几天内停止 油价升至两年高位”。核心要点：能源部长萨阿德·卡比表示，如果伊朗冲突在未来几周持续下去，油价可能会达到每桶 150 美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 00:05:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 23:14:33 GMT",
+        "url": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争可能对你产生影响的五种方式——图表",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争可能对你产生影响的五种方式——图表”。核心要点：由于最近几天燃料和天然气价格上涨，冲突可能会通过以下一些方式影响家庭。",
+        "titleZh": "由于伊朗冲突关闭更多空域，飞行路线受到挤压",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗冲突关闭更多空域，飞行路线受到挤压”。核心要点：对阿塞拜疆的无人机袭击缩小了争先恐后应对海湾地区混乱的航空公司的选择范围。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 00:05:31 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 18:09:19 GMT",
+        "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于伊朗战争推高价格，英国公司取消固定能源交易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争推高价格，英国公司取消固定能源交易”。核心要点：数据显示，随着批发能源价格飙升，定期交易数量减少了一半以上。",
+        "titleZh": "美国经济 2 月份意外裁员 92,000 人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国经济 2 月份意外裁员 92,000 人”。核心要点：几乎所有行业的就业人数都出现下降，这种收缩出人意料。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 18:25:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 14:50:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "现在汽油和柴油价格会上涨吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“现在汽油和柴油价格会上涨吗？”。核心要点：如果油价在一段时间内保持高位，连锁反应可能会影响燃料和食品的成本",
+        "titleZh": "阿克塞尔·施普林格 (Axel Springer) 同意以 5.75 亿英镑收购 Telegraph Media Group",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“阿克塞尔·施普林格 (Axel Springer) 同意以 5.75 亿英镑收购 Telegraph Media Group”。核心要点：去年，《每日邮报》和 General Trust 提议以 5 亿英镑的价格收购该公司。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 18:31:22 GMT",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 18:00:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "各国就新的“非法”全球关税起诉特朗普政府",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“各国就新的“非法”全球关税起诉特朗普政府”。核心要点：这 24 个州正在寻求阻止特朗普最新征收的关税，他征收这些关税是为了取代最高法院驳回的关税。",
+        "titleZh": "分析师警告称，航空燃油价格飙升可能会推高机票价格",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“分析师警告称，航空燃油价格飙升可能会推高机票价格”。核心要点：中东冲突导致海湾供应中断，导致成本上涨80%以上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Mar 2026 19:56:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c3ewxjpqqqzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 15:51:05 GMT",
+        "url": "https://www.bbc.com/news/articles/c14m57k8vgeo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
