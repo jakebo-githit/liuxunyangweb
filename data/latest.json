@@ -1,66 +1,40 @@
 {
-  "updatedAt": "2026-03-07T03:24:59.122Z",
+  "updatedAt": "2026-03-08T03:38:08.211Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Prognostic scores for early mortality following transjugular intrahepatic portosystemic shunt insertion: external validation in a contemporary Australian cohort.",
-        "journal": "Internal medicine journal",
-        "pubDate": "2026 Mar 5",
+        "title": "Management of hepatopulmonary syndrome and portopulmonary hypertension.",
+        "journal": "Current opinion in critical care",
+        "pubDate": "2026 Apr 1",
         "studyType": "Journal Article",
-        "authors": "Walia N, Nilsen O, Cheung E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 117）。核心观点：传统的评分系统，例如终末期肝病模型 (MELD) 和 MELD-Na，以及较新的改良 TIPS 评分 (MOTS) 和 TIPS 后弗莱堡生存指数 (FIPS)，已显示出细化风险分层的潜力。 临床提示：外部验证预测 TIPS 后 30 天和 90 天死亡率的预后评分。",
-        "abstract": "Mortality following transjugular intrahepatic portosystemic shunt (TIPS) placement remains a critical concern. Traditional scoring systems, such as the Model for End-Stage Liver Disease (MELD) and MELD-Na, as well as the newer Modified TIPS-Score (MOTS) and Freiburg Index of Post-TIPS Survival (FIPS), have shown potential for refining risk stratification. To externally validate prognostic scores for predicting 30- and 90-day mortality following TIPS. This retrospective study, conducted at Austin Health, Australia, included 117 patients who underwent TIPS with ≥90 days of follow-up between 2011 and 2024. Prognostic scores were calculated using pre-TIPS clinical and laboratory data. Discrimina...",
-        "pmid": "41787873",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41787873/",
-        "doiUrl": "https://doi.org/10.1111/imj.70373",
-        "url": "https://doi.org/10.1111/imj.70373"
-      },
-      {
-        "title": "A noninvasive model for predicting intrahepatic venovenous shunts before HVPG measurement: a multiple cohort study.",
-        "journal": "Hepatology international",
-        "pubDate": "2026 Mar 5",
-        "studyType": "Journal Article",
-        "authors": "Chen R, Ma L, Liu Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 194）。核心观点：本研究旨在构建机器学习（ML）模型，以便在肝静脉压力梯度（HVPG）测量之前无创识别中度至重度肝内静脉分流（MS-IHVS）。 临床提示：回顾性纳入 605 名接受 HVPG 测量的患者进行模型开发。",
-        "abstract": "This study aimed to construct a machine learning (ML) model to facilitate non-invasive identification of moderate-to-severe intrahepatic venovenous shunts (MS-IHVS) before hepatic venous pressure gradient (HVPG) measurement. A total of 605 patients receiving HVPG measurement were retrospectively included for model development. Two validation cohorts were used: an FN-validation cohort (n = 194; retrospectively enrolled) with both wedged hepatic venous pressure (WHVP) and fine-needle (21-22G) portal venous pressure (FN-PVP) measurements, and a TIPS-validation cohort (n = 92; prospectively enrolled with WHVP and direct PVP measurements. Nine ML and eleven stacking ensemble models were developed...",
-        "pmid": "41787000",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41787000/",
-        "doiUrl": "https://doi.org/10.1007/s12072-026-11066-8",
-        "url": "https://doi.org/10.1007/s12072-026-11066-8"
-      },
-      {
-        "title": "Clinical presentation, management, and outcomes for noncirrhotic portal hypertension in children.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Jarasvaraparn C, Ferrante-Gennaro GE, Tolliver KM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 63）。核心观点：非肝硬化门静脉高压（​​NCPH）是一种罕见疾病，其特征是在没有肝硬化的情况下门静脉压力升高，由肝内和肝外途径引起。 临床提示：本研究旨在描述儿童 NCPH 的特征、病因、临床表现和结局。",
-        "abstract": "Noncirrhotic portal hypertension (NCPH) is a rare condition marked by elevated portal venous pressure in the absence of cirrhosis and is caused by intrahepatic and extrahepatic pathways. This study aimed to describe the characteristics, etiologies, clinical manifestations, and outcomes of NCPH in children. This study was a retrospective chart review of 63 patients in a single tertiary center. Participants were children (≤18 years old) diagnosed with portal hypertension in the absence of cirrhosis. The three most common etiologies included extrahepatic portal vein obstruction (EHPVO) in 27 (42.8%), congenital hepatic fibrosis (CHF) in 17 (27%), and nodular regenerative hyperplasia (NRH) in 10...",
-        "pmid": "41432093",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41432093/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70318",
-        "url": "https://doi.org/10.1002/jpn3.70318"
+        "authors": "Jose A, Elwing JM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门脉肺动脉高压（PoPH）和肝肺综合征（HPS）是两种肺血管疾病，发生在肝脏疾病的背景下，发病率和死亡率很高。 临床提示：尽管 PoPH 的机制仍不清楚，但最近的工作已确定 9 型骨形态发生蛋白的缺乏是可能驱动 HPS 肺血管重塑的关键特征。",
+        "abstract": "Portopulmonary hypertension (PoPH) and hepatopulmonary syndrome (HPS) are two pulmonary vascular diseases, that occur in the context of liver disease, with high morbidity and mortality. The mechanistic link between liver and lung that drives disease pathogenesis in these conditions is not well understood, and although liver transplantation offers benefit for both PoPH and HPS, posttransplant consequences can be severe and result in critical illness. Though the mechanisms of PoPH are still obscure, recent work has identified a deficiency of bone morphogenetic protein type 9 as a key characteristic that may drive pulmonary vascular remodeling in HPS. Although it is well established that liver ...",
+        "pmid": "41581020",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41581020/",
+        "doiUrl": "https://doi.org/10.1097/MCC.0000000000001355",
+        "url": "https://doi.org/10.1097/MCC.0000000000001355"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "普京与伊朗总统通话时，特朗普要求伊朗“无条件投降”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“普京与伊朗总统通话时，特朗普要求伊朗“无条件投降””。核心要点：总统还呼吁德黑兰在六天的战争后挑选白宫“可接受”的新领导人。",
+        "titleZh": "以色列特种部队突袭黎巴嫩村庄寻找 40 岁遗骸，造成数十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列特种部队突袭黎巴嫩村庄寻找 40 岁遗骸，造成数十人死亡”。核心要点：据黎巴嫩卫生部称，一夜之间，以色列的一次行动造成至少 41 人死亡、40 人受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 07 Mar 2026 02:04:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 07 Mar 2026 19:16:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于伊朗冲突关闭更多空域，飞行路线受到挤压",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于伊朗冲突关闭更多空域，飞行路线受到挤压”。核心要点：对阿塞拜疆的无人机袭击缩小了争先恐后应对海湾地区混乱的航空公司的选择范围。",
+        "titleZh": "伊朗大使警告英国要“非常小心”进一步卷入战争",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗大使警告英国要“非常小心”进一步卷入战争”。核心要点：赛义德·阿里·穆萨维表示，如果英国直接加入美以袭击，伊朗有“自卫权”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 18:09:19 GMT",
-        "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 07 Mar 2026 16:53:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "武装机器人走上乌克兰战争战场",
@@ -71,23 +45,31 @@
         "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "疏散警告引发恐慌后以色列袭击贝鲁特",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“疏散警告引发恐慌后以色列袭击贝鲁特”。核心要点：随着以色列加大对黎巴嫩的打击力度，史无前例地警告人们离开真主党据点，导致严重的交通拥堵。",
+        "titleZh": "在一周的战争期间，我们一直在与伊朗人交谈。他们是这么说的",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在一周的战争期间，我们一直在与伊朗人交谈。他们是这么说的”。核心要点：普通伊朗人反思了为期 7 天的冲突，以及他们对国家下一步的看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 04:08:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 07 Mar 2026 06:00:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "参议员告诉英国广播公司，在尼日利亚最近的袭击中，“大量”人被枪手杀害",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“参议员告诉英国广播公司，在尼日利亚最近的袭击中，“大量”人被枪手杀害”。核心要点：据报道，可疑的伊斯兰武装分子控制了一个村庄两天，然后被军队和空袭驱逐。",
+        "titleZh": "龙卷风袭击密歇根州和俄克拉荷马州，造成 6 人死亡，其中 12 岁男孩",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“龙卷风袭击密歇根州和俄克拉荷马州，造成 6 人死亡，其中 12 岁男孩”。核心要点：暴风雨将树木连根拔起，电线倒塌，建筑物受损，一些房屋的屋顶被掀翻。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 17:06:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 08 Mar 2026 01:08:16 GMT",
+        "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "通胀浪潮即将来临——伊朗战争对英国经济意味着什么？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“通胀浪潮即将来临——伊朗战争对英国经济意味着什么？”。核心要点：BBC 经济编辑费萨尔·伊斯兰 (Faisal Islam) 写道，经济后果是伊朗冲突的一个内在方面。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 07 Mar 2026 04:02:08 GMT",
+        "url": "https://www.bbc.com/news/articles/cd9gvv5w3v8o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "卡塔尔警告所有海湾生产可能在几天内停止 油价升至两年高位",
         "summaryZh": "这是一条金融市场新闻，重点围绕“卡塔尔警告所有海湾生产可能在几天内停止 油价升至两年高位”。核心要点：能源部长萨阿德·卡比表示，如果伊朗冲突在未来几周持续下去，油价可能会达到每桶 150 美元。",
@@ -105,14 +87,6 @@
         "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国经济 2 月份意外裁员 92,000 人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国经济 2 月份意外裁员 92,000 人”。核心要点：几乎所有行业的就业人数都出现下降，这种收缩出人意料。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 14:50:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "titleZh": "阿克塞尔·施普林格 (Axel Springer) 同意以 5.75 亿英镑收购 Telegraph Media Group",
         "summaryZh": "这是一条金融市场新闻，重点围绕“阿克塞尔·施普林格 (Axel Springer) 同意以 5.75 亿英镑收购 Telegraph Media Group”。核心要点：去年，《每日邮报》和 General Trust 提议以 5 亿英镑的价格收购该公司。",
         "source": "BBC",
@@ -121,12 +95,12 @@
         "url": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "分析师警告称，航空燃油价格飙升可能会推高机票价格",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“分析师警告称，航空燃油价格飙升可能会推高机票价格”。核心要点：中东冲突导致海湾供应中断，导致成本上涨80%以上。",
+        "titleZh": "美国经济 2 月份意外裁员 92,000 人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国经济 2 月份意外裁员 92,000 人”。核心要点：几乎所有行业的就业人数都出现下降，这种收缩出人意料。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 15:51:05 GMT",
-        "url": "https://www.bbc.com/news/articles/c14m57k8vgeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 14:50:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
