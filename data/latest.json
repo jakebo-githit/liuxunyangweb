@@ -1,67 +1,75 @@
 {
-  "updatedAt": "2026-03-08T03:38:08.211Z",
+  "updatedAt": "2026-03-09T03:42:23.594Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Management of hepatopulmonary syndrome and portopulmonary hypertension.",
-        "journal": "Current opinion in critical care",
-        "pubDate": "2026 Apr 1",
+        "title": "Response to correspondence on \"Non-selective beta blockers are well tolerated in pregnancy with portal hypertension\".",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "pubDate": "2026 Mar 8",
         "studyType": "Journal Article",
-        "authors": "Jose A, Elwing JM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门脉肺动脉高压（PoPH）和肝肺综合征（HPS）是两种肺血管疾病，发生在肝脏疾病的背景下，发病率和死亡率很高。 临床提示：尽管 PoPH 的机制仍不清楚，但最近的工作已确定 9 型骨形态发生蛋白的缺乏是可能驱动 HPS 肺血管重塑的关键特征。",
-        "abstract": "Portopulmonary hypertension (PoPH) and hepatopulmonary syndrome (HPS) are two pulmonary vascular diseases, that occur in the context of liver disease, with high morbidity and mortality. The mechanistic link between liver and lung that drives disease pathogenesis in these conditions is not well understood, and although liver transplantation offers benefit for both PoPH and HPS, posttransplant consequences can be severe and result in critical illness. Though the mechanisms of PoPH are still obscure, recent work has identified a deficiency of bone morphogenetic protein type 9 as a key characteristic that may drive pulmonary vascular remodeling in HPS. Although it is well established that liver ...",
-        "pmid": "41581020",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41581020/",
-        "doiUrl": "https://doi.org/10.1097/MCC.0000000000001355",
-        "url": "https://doi.org/10.1097/MCC.0000000000001355"
+        "authors": "Alexander V, Goel A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：对“非选择性β受体阻滞剂在妊娠合并门静脉高压症中的耐受性良好”的回复。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41795749",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41795749/",
+        "doiUrl": "https://doi.org/10.1007/s12664-025-01960-8",
+        "url": "https://doi.org/10.1007/s12664-025-01960-8"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "以色列特种部队突袭黎巴嫩村庄寻找 40 岁遗骸，造成数十人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列特种部队突袭黎巴嫩村庄寻找 40 岁遗骸，造成数十人死亡”。核心要点：据黎巴嫩卫生部称，一夜之间，以色列的一次行动造成至少 41 人死亡、40 人受伤。",
+        "titleZh": "伊朗新任最高领袖莫杰塔巴·哈梅内伊是谁？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗新任最高领袖莫杰塔巴·哈梅内伊是谁？”。核心要点：许多人预计这位一直保持低调的 56 岁老人将继续其父亲的强硬政策。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 07 Mar 2026 19:16:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 08 Mar 2026 21:51:48 GMT",
+        "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗大使警告英国要“非常小心”进一步卷入战争",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗大使警告英国要“非常小心”进一步卷入战争”。核心要点：赛义德·阿里·穆萨维表示，如果英国直接加入美以袭击，伊朗有“自卫权”。",
+        "titleZh": "伊朗战争导致油价飙升至 110 美元上方，股价下滑",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争导致油价飙升至 110 美元上方，股价下滑”。核心要点：能源供应的重大中断可能会推高全球消费者和企业的价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 07 Mar 2026 16:53:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 09 Mar 2026 02:19:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "武装机器人走上乌克兰战争战场",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“武装机器人走上乌克兰战争战场”。核心要点：乌克兰已启动一项在战场上部署武装机器人对抗俄罗斯军队的计划。",
+        "titleZh": "警方称蕾哈娜位于比佛利山庄的家遭到枪击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“警方称蕾哈娜位于比佛利山庄的家遭到枪击”。核心要点：洛杉矶警方称，周日下午枪击事件后，一名嫌疑人被捕。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 07 Mar 2026 00:36:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 09 Mar 2026 03:01:00 GMT",
+        "url": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在一周的战争期间，我们一直在与伊朗人交谈。他们是这么说的",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“在一周的战争期间，我们一直在与伊朗人交谈。他们是这么说的”。核心要点：普通伊朗人反思了为期 7 天的冲突，以及他们对国家下一步的看法。",
+        "titleZh": "德国比赛蒙面球迷拔掉VAR显示器",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“德国比赛蒙面球迷拔掉VAR显示器”。核心要点：在一场德国乙级比赛中，当裁判走到场边屏幕检查点球裁决时，一名蒙面球迷拔掉了VAR显示器的插头。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 07 Mar 2026 06:00:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 09 Mar 2026 00:13:32 GMT",
+        "url": "https://www.bbc.com/sport/football/articles/c0rj2kq978qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "龙卷风袭击密歇根州和俄克拉荷马州，造成 6 人死亡，其中 12 岁男孩",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“龙卷风袭击密歇根州和俄克拉荷马州，造成 6 人死亡，其中 12 岁男孩”。核心要点：暴风雨将树木连根拔起，电线倒塌，建筑物受损，一些房屋的屋顶被掀翻。",
+        "titleZh": "西班牙移民欢迎特赦：“这将在各个方面帮助我们”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙移民欢迎特赦：“这将在各个方面帮助我们””。核心要点：马德里出于人道主义和经济原因给予无证工人合法地位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 08 Mar 2026 01:08:16 GMT",
-        "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 09 Mar 2026 00:17:54 GMT",
+        "url": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "伊朗战争导致油价飙升至 110 美元上方，股价下滑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争导致油价飙升至 110 美元上方，股价下滑”。核心要点：能源供应的重大中断可能会推高全球消费者和企业的价格。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 09 Mar 2026 02:19:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "通胀浪潮即将来临——伊朗战争对英国经济意味着什么？",
         "summaryZh": "这是一条金融市场新闻，重点围绕“通胀浪潮即将来临——伊朗战争对英国经济意味着什么？”。核心要点：BBC 经济编辑费萨尔·伊斯兰 (Faisal Islam) 写道，经济后果是伊朗冲突的一个内在方面。",
@@ -71,8 +79,8 @@
         "url": "https://www.bbc.com/news/articles/cd9gvv5w3v8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卡塔尔警告所有海湾生产可能在几天内停止 油价升至两年高位",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“卡塔尔警告所有海湾生产可能在几天内停止 油价升至两年高位”。核心要点：能源部长萨阿德·卡比表示，如果伊朗冲突在未来几周持续下去，油价可能会达到每桶 150 美元。",
+        "titleZh": "卡塔尔警告所有海湾生产可能在几天内停止后油价升至两年高位",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“卡塔尔警告所有海湾生产可能在几天内停止后油价升至两年高位”。核心要点：能源部长萨阿德·卡比表示，如果伊朗冲突在未来几周持续下去，油价可能会达到每桶 150 美元。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 06 Mar 2026 23:14:33 GMT",
@@ -80,27 +88,19 @@
       },
       {
         "titleZh": "由于伊朗冲突关闭更多空域，飞行路线受到挤压",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗冲突关闭更多空域，飞行路线受到挤压”。核心要点：对阿塞拜疆的无人机袭击缩小了争先恐后应对海湾地区混乱的航空公司的选择范围。",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗冲突关闭更多空域，飞行路线受到挤压”。核心要点：对阿塞拜疆的无人机袭击使争先恐后应对海湾混乱的航空公司的选择范围缩小。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 06 Mar 2026 18:09:19 GMT",
         "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿克塞尔·施普林格 (Axel Springer) 同意以 5.75 亿英镑收购 Telegraph Media Group",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“阿克塞尔·施普林格 (Axel Springer) 同意以 5.75 亿英镑收购 Telegraph Media Group”。核心要点：去年，《每日邮报》和 General Trust 提议以 5 亿英镑的价格收购该公司。",
+        "titleZh": "市长萨迪克·汗邀请陷入困境的人工智能公司 Anthropic 在伦敦扩张",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“市长萨迪克·汗邀请陷入困境的人工智能公司 Anthropic 在伦敦扩张”。核心要点：伦敦市长的这封信是在美国将该公司列为供应链风险之际发出的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 18:00:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国经济 2 月份意外裁员 92,000 人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国经济 2 月份意外裁员 92,000 人”。核心要点：几乎所有行业的就业人数都出现下降，这种收缩出人意料。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 06 Mar 2026 14:50:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Mar 2026 21:49:18 GMT",
+        "url": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
