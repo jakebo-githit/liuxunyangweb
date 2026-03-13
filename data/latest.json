@@ -1,145 +1,119 @@
 {
-  "updatedAt": "2026-03-12T03:39:56.668Z",
+  "updatedAt": "2026-03-13T03:37:16.339Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Development of a retinal vascular nomogram for predicting hepatitis B virus-related cirrhosis: insights into extrahepatic microcirculatory dysfunctions.",
-        "journal": "European journal of gastroenterology & hepatology",
-        "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article",
-        "authors": "Huang X, Wang H, Hu J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 328）。核心观点：多变量逻辑回归确定了 HBC 的独立视网膜预测因子，并构建了列线图。 临床提示：乙型肝炎病毒相关性肝硬化（HBC）的进展以显着的肝内和肝外微血管改变和功能障碍为特征。",
-        "abstract": "The progression of hepatitis B virus-related cirrhosis (HBC) is characterized by notable intrahepatic and extrahepatic microvascular alterations and dysfunctions. The retinal vasculature offers a noninvasive window to assess systemic microcirculation. This cross-sectional study aimed to evaluate retinal microcirculatory alterations in HBC and develop a retinal vascular nomogram for diagnosing HBC. We included 328 participants from two medical centers between March 2019 and October 2022. Multivariate logistic regression identified independent retinal predictors of HBC, and a nomogram was constructed. Associations between retinal parameters and clinical indicators of HBC were examined using un...",
-        "pmid": "40986573",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40986573/",
-        "doiUrl": "https://doi.org/10.1097/MEG.0000000000003078",
-        "url": "https://doi.org/10.1097/MEG.0000000000003078"
-      },
-      {
-        "title": "Decoding liver injury in cystic fibrosis: How to tell drug-induced liver injury from cystic fibrosis liver disease.",
-        "journal": "World journal of gastroenterology",
-        "pubDate": "2026 Mar 14",
+        "title": "Splenic Artery Embolization: Tips, Tricks, and Current Standards of Practice.",
+        "journal": "Radiographics : a review publication of the Radiological Society of North America, Inc",
+        "pubDate": "2026 Apr",
         "studyType": "Journal Article / Review",
-        "authors": "Lee J, Yekula A, Wexler A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：囊性纤维化肝病 (CFLD) 是囊性纤维化 (CF) 患者的一种重要合并症，以胆道纤维化和进行性胆汁淤积为特征。 临床提示：CF 跨膜电导调节剂 (CFTR) 调节剂的出现彻底改变了肺部疾病的护理，但其对肝脏特异性疾病和结果的影响仍不清楚。",
-        "abstract": "Cystic fibrosis liver disease (CFLD) is a significant comorbidity in individuals with cystic fibrosis (CF), marked by biliary fibrosis and progressive cholestasis. The advent of CF transmembrane conductance regulator (CFTR) modulators has revolutionized care for lung disease, but their impact on liver-specific disease and outcomes remain unclear. Additionally, the risk of comorbid cholestatic liver injury from medications and progression of CFLD complicates the diagnostic landscape. To provide a clinical framework for differentiating CFLD and drug induced liver injury (DILI), including from CFTR modulators. A comprehensive literature review was conducted using PubMed, EMBASE, and Cochrane Li...",
-        "pmid": "41809454",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41809454/",
-        "doiUrl": "https://doi.org/10.3748/wjg.v32.i10.114946",
-        "url": "https://doi.org/10.3748/wjg.v32.i10.114946"
+        "authors": "Khanolkar L, Fagel BM, Geanon D",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：脾动脉栓塞术（SAE）是脾外伤患者手术治疗的替代方法，并且由于脾切除术存在感染风险而迅速流行起来。 临床提示：脾脏是腹腔内重要的器官，在造血和免疫功能中发挥作用。",
+        "abstract": "The spleen is a vital intra-abdominal organ that provides a role in hematopoietic and immunologic functions. It is highly vascular and is the most commonly injured organ in the setting of blunt trauma, potentially leading to life-threatening hemoperitoneum. Splenic artery embolization (SAE) serves as an alternative to operative management of patients with splenic trauma and has quickly become popular given the infectious risks associated with splenectomy. Since its inception, indications for SAE have evolved beyond the management of traumatic injury. The authors discuss splenic artery anatomy and the importance of maintaining critical collateral pathways when SAE is performed to preserve spl...",
+        "pmid": "41818131",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41818131/",
+        "doiUrl": "https://doi.org/10.1148/rg.250035",
+        "url": "https://doi.org/10.1148/rg.250035"
       },
       {
-        "title": "Exploratory 4D Flow MRI Study of Portal Venous Rotational Flow for High-Risk Esophageal Varices in Cirrhosis.",
-        "journal": "Journal of magnetic resonance imaging : JMRI",
-        "pubDate": "2026 Mar 10",
+        "title": "Imaging features of porto-sinusoidal vascular disorder in a case-control study: diagnostic value for differentiation from liver cirrhosis.",
+        "journal": "Quantitative imaging in medicine and surgery",
+        "pubDate": "2026 Mar 1",
         "studyType": "Journal Article",
-        "authors": "Park S, Man Moon C, Kwon M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 48）。核心观点：食管静脉曲张（EV）的出血风险评估通常在肝硬化中进行。 临床提示：使用四维血流 MRI 作为支持临床风险评估的无创方法，研究与肝硬化患者 EV 严重程度相关的门静脉血流动力学和血管几何形状。",
-        "abstract": "Bleeding risk assessment of esophageal varices (EVs) is commonly performed in liver cirrhosis. However, existing approaches are often invasive or insufficient to fully capture bleeding risk. To investigate portal venous hemodynamics and vessel geometry associated with EVs severity in cirrhotic patients using four-dimensional flow MRI as a noninvasive approach to support clinical risk assessment. Retrospective. One-hundred and four cirrhotic patients consisting of patients without EVs (Group 1, n = 48), with low-risk EVs (Group 2, n = 37), and high-risk EVs (Group 3, n = 19). 3 T, a three-directional, velocity-encoded gradient echo sequence with Cartesian k-space sampling. Flow rate, mean vel...",
-        "pmid": "41807730",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41807730/",
-        "doiUrl": "https://doi.org/10.1002/jmri.70287",
-        "url": "https://doi.org/10.1002/jmri.70287"
-      },
-      {
-        "title": "Evaluation of a 3,5-diethoxycarbonyl-1,4-dihydrocollidine diet-induced mouse model in a comparative experimental study of portal hypertension.",
-        "journal": "World journal of gastroenterology",
-        "pubDate": "2026 Mar 7",
-        "studyType": "Journal Article / Comparative Study",
-        "authors": "Zhao JB, Wu ZH, Lin JY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门脉高压（PHT）是慢性肝病的一种危及生命的并发症，需要模拟其临床异质性的可靠动物模型。 临床提示：胆管结扎 (BDL) 等经典小鼠模型的 4 周存活率较低 (35%)，而四氯化碳 (CCl 4 ) 模型的发病机制延迟，PHT 发展需要 ≥ 8 周，限制了其效率",
-        "abstract": "Portal hypertension (PHT) is a life-threatening complication of chronic liver disease, necessitating reliable animal models that mimic its clinical heterogeneity. Classical mouse models like bile duct ligation (BDL) exhibit a low 4-week survival (35%), while carbon tetrachloride (CCl 4 ) models have delayed pathogenesis, requiring ≥ 8 weeks for PHT development, limiting their efficiency. To evaluate the 3,5-diethoxycarbonyl-1,4-dihydrocollidine (DDC) diet-induced mouse model as a biliary PHT model, comparing it to BDL and CCl 4 models. Mice were assigned to DDC diet, BDL, or CCl 4 groups. Assessments included portal pressure, histological examination of biliary fibrosis and hepatic stellate ...",
-        "pmid": "41810440",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41810440/",
-        "doiUrl": "https://doi.org/10.3748/wjg.v32.i9.114207",
-        "url": "https://doi.org/10.3748/wjg.v32.i9.114207"
+        "authors": "Song F, Zhu H, Qian L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究进行了盲法、独立的影像学审查，以识别和比较两种疾病之间的独特影像学特征，并开发和验证区分 PSVD 和肝硬化的预测模型。 临床提示：由于临床表现和影像学特征重叠，门窦血管疾病 (PSVD) 经常被误诊为肝硬化。",
+        "abstract": "Porto-sinusoidal vascular disorder (PSVD) is often misdiagnosed as liver cirrhosis due to overlapping clinical presentations and imaging features. This study conducted a blinded, independent imaging review to identify and compare the distinct imaging features between the two diseases, and to develop and validate a predictive model for differentiating PSVD from cirrhosis. Patients with histologically and clinically confirmed PSVD or cirrhosis and available contrast-enhanced computed tomography (CT) or magnetic resonance imaging (MRI) scans were retrospectively enrolled in the study. Imaging features were independently and systematically analyzed by two abdominal radiologists, who were blinded...",
+        "pmid": "41816072",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41816072/",
+        "doiUrl": "https://doi.org/10.21037/qims-2025-1775",
+        "url": "https://doi.org/10.21037/qims-2025-1775"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "尽管达成了释放创纪录数额储备的协议，但油价仍触及每桶 100 美元",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尽管达成了释放创纪录数额储备的协议，但油价仍触及每桶 100 美元”。核心要点：与此同时，伊朗在重要的霍尔木兹海峡对船只的袭击加剧。",
+        "titleZh": "任务完成了吗？ 2003 年的吹嘘至今仍困扰着今天的伊朗冲突",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“任务完成了吗？ 2003 年的吹嘘至今仍困扰着今天的伊朗冲突”。核心要点：冲突之间的呼应固然存在，但也存在深刻的差异。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Mar 2026 03:04:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 00:04:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "鲍文：特朗普号召伊朗起义，但 1991 年伊拉克的教训依然突出",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：特朗普号召伊朗起义，但 1991 年伊拉克的教训依然突出”。核心要点：英国广播公司的国际编辑写道，美国总统可能会认识到，发动战争比结束战争容易得多。",
+        "titleZh": "伊朗新任最高领导人在首次声明中誓言封锁霍尔木兹海峡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗新任最高领导人在首次声明中誓言封锁霍尔木兹海峡”。核心要点：莫杰塔巴·哈梅内伊发布的消息还称，伊朗将继续针对美国在该地区的基地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 11 Mar 2026 16:45:28 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 12 Mar 2026 20:32:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴西女性告诉 BBC，爱泼斯坦利用模特经纪人招募女孩",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴西女性告诉 BBC，爱泼斯坦利用模特经纪人招募女孩”。核心要点：巴西女性告诉 BBC，模特经纪人利用企业招募女孩，并安排美国签证去拜访杰弗里·爱泼斯坦。",
+        "titleZh": "法国投票考验两极分化的选民，右翼希望赢得巴黎的控制权",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国投票考验两极分化的选民，右翼希望赢得巴黎的控制权”。核心要点：最引人注目的竞选是巴黎市长职位的角逐，该市已被左翼控制了 25 年。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Mar 2026 00:05:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 00:15:23 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国最大的政治会议即将结束——我们学到了什么？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“中国最大的政治会议即将结束——我们学到了什么？”。核心要点：BBC 记者向我们讲述了他们从中国全国人民代表大会中获得的最大收获。",
+        "titleZh": "阿联酋部长告诉 BBC 伊朗必须停止对海湾地区的袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿联酋部长告诉 BBC 伊朗必须停止对海湾地区的袭击”。核心要点：阿联酋表示，自战争开始以来，已向该国发射了 1,800 多架无人机和导弹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 11 Mar 2026 23:03:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg80pedxeyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 12 Mar 2026 20:20:50 GMT",
+        "url": "https://www.bbc.com/news/articles/cy8lzn2ejpjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着油价飙升，各国同意创纪录地释放紧急石油储备",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着油价飙升，各国同意创纪录地释放紧急石油储备”。核心要点：七国集团欢迎释放石油以应对美以与伊朗战争爆发以来油价飙升的想法",
+        "titleZh": "说唱歌手政治家巴伦德拉·沙阿的政党赢得尼泊尔大选",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“说唱歌手政治家巴伦德拉·沙阿的政党赢得尼泊尔大选”。核心要点：斯瓦塔坦特拉党在腐败等问题主导的选举中赢得了多数席位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 11 Mar 2026 15:51:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 12 Mar 2026 15:25:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "尽管达成了释放创纪录数额储备的协议，但油价仍触及每桶 100 美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“尽管达成了释放创纪录数额储备的协议，但油价仍触及每桶 100 美元”。核心要点：与此同时，伊朗在重要的霍尔木兹海峡对船只的袭击加剧。",
+        "titleZh": "米利班德表示不会容忍石油价格暴利行为",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“米利班德表示不会容忍石油价格暴利行为”。核心要点：埃德·米利班德表示，如果企业利用油价冲击“敲诈”客户，竞争监管机构准备进行干预。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Mar 2026 03:04:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 02:54:39 GMT",
+        "url": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "社交媒体公司要求加强对 13 岁以下青少年的年龄审查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“社交媒体公司要求加强对 13 岁以下青少年的年龄审查”。核心要点：英国监管机构表示，Instagram、Snapchat、TikTok、YouTube 和 Roblox 等平台并未将儿童安全置于其产品的核心位置。",
+        "titleZh": "由于伊朗战争推高能源价格，美国放松了对俄罗斯的石油制裁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争推高能源价格，美国放松了对俄罗斯的石油制裁”。核心要点：美国财政部长斯科特·贝森特表示，这是一项临时措施，将持续到 4 月 11 日。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Mar 2026 00:01:42 GMT",
-        "url": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 02:50:52 GMT",
+        "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "网络战在伊朗发挥了什么作用？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“网络战在伊朗发挥了什么作用？”。核心要点：军队往往对其网络活动守口如瓶。但美国已经暗示了它所扮演的角色。",
+        "titleZh": "普华永道表示，年轻员工对职业“饥渴”，并计划雇用更多毕业生",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“普华永道表示，年轻员工对职业“饥渴”，并计划雇用更多毕业生”。核心要点：去年，该咨询公司削减了毕业生招收人数，但英国老板马可·阿米特拉诺 (Marco Amitrano) 表示，获得学位仍然值得。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Mar 2026 00:02:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 00:06:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c86ynz9xy72o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国对欧盟、中国和印度等贸易伙伴发起调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国对欧盟、中国和印度等贸易伙伴发起调查”。核心要点：几周前，美国最高法院否决了特朗普关税政策的关键部分。",
+        "titleZh": "“我错过了化疗，酒店账单高达 12,000 英镑”：英国度假者因伊朗战争而陷入困境",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我错过了化疗，酒店账单高达 12,000 英镑”：英国度假者因伊朗战争而陷入困境”。核心要点：由于冲突，航班受到限制，人们陷入了房间和食物账单的困境。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Mar 2026 01:14:31 GMT",
-        "url": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 00:13:49 GMT",
+        "url": "https://www.bbc.com/news/articles/czj1lr10vdko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着油价飙升，各国同意创纪录地释放紧急石油储备",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着油价飙升，各国同意创纪录地释放紧急石油储备”。核心要点：七国集团欢迎释放石油以应对美以与伊朗战争爆发以来油价飙升的想法",
+        "titleZh": "Netflix 宣布续集，韩国流行音乐《恶魔猎手》将回归",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Netflix 宣布续集，韩国流行音乐《恶魔猎手》将回归”。核心要点：续集带回了第一部电影的联合导演，这部电影在流媒体服务中引起了轰动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 11 Mar 2026 15:51:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Mar 2026 03:15:44 GMT",
+        "url": "https://www.bbc.com/news/articles/c2k8wvzgqk7o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
