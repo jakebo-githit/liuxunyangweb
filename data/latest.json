@@ -1,146 +1,159 @@
 {
-  "updatedAt": "2026-03-14T03:35:51.459Z",
+  "updatedAt": "2026-03-15T04:06:07.828Z",
   "topics": {
     "htn_kidney": [
       {
-        "title": "Deep learning-driven immunohistochemical analysis of renal lymphatics for chronic kidney disease: bioinformatic and histopathological study.",
-        "journal": "Journal of pathology and translational medicine",
+        "title": "Nationwide Trends in Chronic Haemodialysis: Factors Influencing Patient Survival and Outcomes in Thailand.",
+        "journal": "Nephrology (Carlton, Vic.)",
         "pubDate": "2026 Mar",
         "studyType": "Journal Article",
-        "authors": "Xu X, Lin Y, Pei G",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：肾淋巴管密度与肾脏疾病具有临床相关性，但仍通过缓慢、主观的视觉估计来评估。 临床提示：我们评估了一个弱监督、基于注意力的多实例学习框架，用于在 D2-40 染色的全玻片图像 (WSI) 上自动检测和量化肾淋巴管密度。",
-        "abstract": "Renal lymphatic vessel density is clinically relevant in kidney disease but is still assessed by slow, subjective visual estimation. We evaluated a weakly supervised, attention-based multiple-instance learning framework for automated detection and quantification of renal lymphatic vessel density on D2-40-stained whole-slide images (WSIs). Two independent internal datasets from Tongji Hospital were collected, including 198 cases of chronic kidney disease (CKD) and 50 cases of hypertensive nephropathy (HTN). All biopsies were immunohistochemically stained for D2-40 and digitized as WSIs. Pathologists provided only slide-level labels (D2-40 high vs. D2-40 low). Tissue regions were automatically...",
-        "pmid": "41820010",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41820010/",
-        "doiUrl": "https://doi.org/10.4132/jptm.2025.12.15",
-        "url": "https://doi.org/10.4132/jptm.2025.12.15"
+        "authors": "Satirapoj B, Tantiyavarong P, Thimachai P",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：使用 Kaplan-Meier 方法和相关因素评估生存结果...... 临床提示：终末期肾衰竭（ESKF）是全球和泰国面临的一项重大且不断扩大的公共卫生挑战，接受维持性血液透析的患者仍然面临着高发病率和死亡率。",
+        "abstract": "End-stage kidney failure (ESKF) represents a major and expanding public health challenge globally and in Thailand, where patients receiving maintenance haemodialysis continue to experience high morbidity and mortality. The Thailand Renal Replacement Therapy (TRT) Registry offers a comprehensive national database to evaluate dialysis practices, patient characteristics and long-term outcomes. We conducted a nationwide retrospective cohort study using TRT Registry data from January 2018 to December 2023. A total of 60 053 adult patients undergoing maintenance haemodialysis at 1106 dialysis centres were included. Survival outcomes were assessed using Kaplan-Meier methods, and factors associated ...",
+        "pmid": "41830341",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41830341/",
+        "doiUrl": "https://doi.org/10.1111/nep.70191",
+        "url": "https://doi.org/10.1111/nep.70191"
       }
     ],
     "portal_hypertension": [
       {
-        "title": "DOACs reduce risk for new-onset portal hypertension in patients with cirrhosis and atrial fibrillation: A retrospective cohort study.",
-        "journal": "Medicine",
-        "pubDate": "2026 Mar 13",
-        "studyType": "Journal Article / Observational Study",
-        "authors": "Su Y, Wang J, Dong Q",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：由于血栓形成和出血风险相互矛盾，肝硬化和心房颤动 (AF) 患者面临着治疗挑战。 临床提示：直接口服抗凝剂（DOAC）在这一人群中的作用仍不确定。",
-        "abstract": "Patients with liver cirrhosis and atrial fibrillation (AF) pose a therapeutic challenge due to the conflicting risks of thrombosis and bleeding. The role of direct oral anticoagulants (DOACs) in this population remains uncertain. This study aims to evaluate the impact of anticoagulation therapy on new-onset portal hypertension and related complications in cirrhotic patients with AF. A retrospective cohort study was conducted in 502 hospitalized patients with cirrhosis and AF at Beijing Ditan Hospital (2010-2019). Clinical data, risk scores, and liver severity indices (Child-Pugh, Model for End-Stage Liver Disease) were collected. Propensity score matching was applied to minimize confounding....",
-        "pmid": "41824821",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41824821/",
-        "doiUrl": "https://doi.org/10.1097/MD.0000000000047858",
-        "url": "https://doi.org/10.1097/MD.0000000000047858"
-      },
-      {
-        "title": "A nurse practitioner's guide to metabolic dysfunction‑associated steatotic liver disease: From diagnosis to management.",
-        "journal": "Journal of the American Association of Nurse Practitioners",
+        "title": "Diagnostic Value of MR Elastography and MRI-Proton Density Fat Fraction in Cirrhosis Based on Explant Liver Histology.",
+        "journal": "Journal of gastroenterology and hepatology",
         "pubDate": "2026 Mar 13",
         "studyType": "Journal Article",
-        "authors": "Thomas KH",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：代谢功能障碍相关的脂肪肝病 (MASLD) 是全世界最常见的慢性肝病，过去三十年患病率增加了 50%。 临床提示：MASLD 曾经被认为是“无辜的旁观者”，现在被理解为一种与肥胖、2 型糖尿病、血脂异常和心血管疾病相关的多系统疾病。",
-        "abstract": "Metabolic dysfunction‑associated steatotic liver disease (MASLD) is the most common chronic liver disease worldwide, as demonstrated by a 50% increase in the prevalence over the past three decades. More than one quarter of the global population and nearly 40% of adults in the United States are affected by this burdensome disease. Once thought to be an \"innocent bystander,\" MASLD is now understood as a multisystem disease associated with obesity, type 2 diabetes mellitus, dyslipidemia, and cardiovascular disease. Its rising prevalence emphasizes the critical role of primary care providers, including nurse practitioners (NP), in early identification and management. Existing on a spectrum, MASL...",
-        "pmid": "41823597",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41823597/",
-        "doiUrl": "https://doi.org/10.1097/JXX.0000000000001263",
-        "url": "https://doi.org/10.1097/JXX.0000000000001263"
+        "authors": "Min EK, Kim SS, Ahn B",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：准确评估晚期纤维化和脂肪变性对于慢性肝病的预后至关重要。 临床提示：本研究旨在评估 MRI 在评估肝移植 (LT) 患者肝纤维化和脂肪变性方面的诊断性能。",
+        "abstract": "Accurate assessment of advanced fibrosis and steatosis is essential for prognostication in chronic liver disease. This study aimed to evaluate the diagnostic performance of MRI in assessing liver fibrosis and steatosis in patients undergoing liver transplantation (LT). Patients who underwent LT between January 2019 and December 2023 with pretransplant MR elastography (MRE) and MRI-based proton density fat fraction (MRI-PDFF) examinations were included. Explanted livers were assessed for fibrosis and steatosis, with cirrhosis subclassified using the Laennec system. Diagnostic performance was evaluated using area under the receiver operating characteristic curve (AUC) analysis. Among 187 patie...",
+        "pmid": "41827091",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41827091/",
+        "doiUrl": "https://doi.org/10.1111/jgh.70316",
+        "url": "https://doi.org/10.1111/jgh.70316"
       },
       {
-        "title": "Non-cirrhotic Portal Fibrosis, Idiopathic Portal Hypertension and Porto-sinusoidal Vascular Diseases: From Debates to Future Directions.",
-        "journal": "Gastroenterology",
-        "pubDate": "2026 Mar 10",
+        "title": "Dynamic Liver Function Tests in Paediatric Liver Disease.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "pubDate": "2026 Mar 9",
         "studyType": "Journal Article",
-        "authors": "Sarin SK, Tripathti DM, Lohse AW",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：非肝硬化门静脉纤维化、特发性门静脉高压和门窦血管疾病：从争论到未来方向。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41819475",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41819475/",
-        "doiUrl": "https://doi.org/10.1053/j.gastro.2026.02.027",
-        "url": "https://doi.org/10.1053/j.gastro.2026.02.027"
+        "authors": "Helt TW, Nielsen J, Ficerai-Garland G",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们的目的是评估肝病儿童中 ICG 清除率与 HBS 之间的关联，并确定与 ICG 清除率和 HBS 测量的肝功能相关的肝病标志物。 临床提示：背景/目标：肝功能很难准确估计。",
+        "abstract": "Background/Objectives : Liver function is difficult to estimate accurately. Conventional liver function tests can be normal, even in severe diseases. Dynamic liver function tests, including indocyanine green (ICG) clearance and hepatobiliary scintigraphy (HBS), are useful in adults. We aimed to evaluate the association between ICG clearance and HBS in children with liver disease and to identify liver disease markers associated with liver function measured with ICG clearance and HBS. Methods : Children aged 0-18 years followed at Copenhagen University Hospital, Rigshospitalet between November 2015 and August 2024 were eligible for inclusion if they had acute or chronic liver disease, suspecte...",
+        "pmid": "41828081",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41828081/",
+        "doiUrl": "https://doi.org/10.3390/diagnostics16050805",
+        "url": "https://doi.org/10.3390/diagnostics16050805"
+      },
+      {
+        "title": "Rare Causes of Portal Vein Thrombosis and Occlusion: A Narrative Review.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "pubDate": "2026 Mar 8",
+        "studyType": "Journal Article / Review",
+        "authors": "Bălăceanu LA, Iacobescu CG, Burloiu T",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：门静脉血栓（PVT）特指门静脉主干或其肝内分支内存在血栓。 临床提示：相比之下，门静脉闭塞涵盖更广泛的病症，包括肿瘤侵袭、外部压迫和易形成血栓的疾病，例如血栓形成倾向或炎症状态。",
+        "abstract": "Portal vein thrombosis (PVT) refers specifically to the presence of a thrombus within the main portal vein trunk or its intrahepatic branches. In contrast, portal vein occlusion encompasses a broader spectrum of conditions, including tumor invasion, external compression and disorders that predispose to thrombosis, such as thrombophilia or inflammatory states. Advanced liver disease, particularly cirrhosis, is the most common cause of PVT, primarily due to portal hypertension, altered hemostasis and hemodynamic changes, followed by malignancies and inherited or acquired thrombophilic conditions. In contrast to these common etiologies, our clinical experience has highlighted rare causes of por...",
+        "pmid": "41828076",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41828076/",
+        "doiUrl": "https://doi.org/10.3390/diagnostics16050800",
+        "url": "https://doi.org/10.3390/diagnostics16050800"
+      },
+      {
+        "title": "Balancing Thrombosis and Bleeding: Antithrombotic Therapy in Cirrhosis-Related Thrombocytopenia.",
+        "journal": "Journal of clinical medicine",
+        "pubDate": "2026 Mar 7",
+        "studyType": "Journal Article / Review",
+        "authors": "Taylor S, Wang J, Lim HY",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：由于药物药代动力学的改变、传统凝血试验的基线异常、实验室监测的局限性、血小板减少症本身以及对出血风险的担忧，该人群的抗凝治疗仍然具有挑战性。 临床提示：血小板减少症的发生在肝硬化中很常见。",
+        "abstract": "The development of thrombocytopenia is common in cirrhosis. Further complex alterations in haemostasis also occur, resulting in a rebalanced state that predisposes patients to both thromboembolic and bleeding complications. Guidance on the management of thrombosis in patients with cirrhosis-related thrombocytopenia is limited and poses a common clinical dilemma. Anticoagulation in this population remains challenging due to altered drug pharmacokinetics, baseline abnormalities in conventional coagulation tests, limitations in laboratory monitoring, thrombocytopenia itself and concerns regarding bleeding risk. Low-molecular-weight heparin and vitamin K antagonists have traditionally been used;...",
+        "pmid": "41827452",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41827452/",
+        "doiUrl": "https://doi.org/10.3390/jcm15052036",
+        "url": "https://doi.org/10.3390/jcm15052036"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "报道称，更多美国海军陆战队和军舰将被调往中东",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“报道称，更多美国海军陆战队和军舰将被调往中东”。核心要点：一名官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司，增援部队将来自通常驻扎在日本的两栖部队。",
+        "titleZh": "BBC 探访以色列袭击黎巴嫩造成家人死亡的后果，以色列国防军瞄准真主党",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC 探访以色列袭击黎巴嫩造成家人死亡的后果，以色列国防军瞄准真主党”。核心要点：一名亲戚告诉英国广播公司，死者是平民，而不是真主党特工，但以色列国防军表示，他们的目标是“恐怖分子基础设施”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Mar 2026 00:53:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Mar 2026 22:55:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“老虎和苍蝇”：数百万官员之后，习近平的反腐行动为何仍在继续？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““老虎和苍蝇”：数百万官员之后，习近平的反腐行动为何仍在继续？”。核心要点：批评人士称，习近平的清洗行动暴露了他对军队绝对忠诚和完全控制的无情追求。",
+        "titleZh": "又有三名伊朗足球队成员因庇护而改变主意",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“又有三名伊朗足球队成员因庇护而改变主意”。核心要点：原本寻求留在澳大利亚的女足代表团七名成员中，有四人现在选择回国。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 23:08:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Mar 2026 20:48:55 GMT",
+        "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国加油机在伊拉克坠毁 六名机组人员全部遇难",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国加油机在伊拉克坠毁 六名机组人员全部遇难”。核心要点：美国中央司令部表示，一架加油机在伊拉克西部上空坠毁，六名机组人员全部遇难。",
+        "titleZh": "“可怕的”战争赌注引发了打击预测市场的呼声",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““可怕的”战争赌注引发了打击预测市场的呼声”。核心要点：预测市场已经接受了与伊朗战争相关的数百万美元的赌注。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 14:29:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Mar 2026 00:01:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "洛杉矶要求对洛杉矶28届奥运会主席就爱泼斯坦关系进行调查",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“洛杉矶要求对洛杉矶28届奥运会主席就爱泼斯坦关系进行调查”。核心要点：洛杉矶市议会一致投票赞成对 LA28 主席凯西·沃瑟曼 (Casey Wasserman) 就其与爱泼斯坦的关系展开调查。",
+        "titleZh": "哈马斯敦促主要盟友伊朗停止对海湾国家的袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“哈马斯敦促主要盟友伊朗停止对海湾国家的袭击”。核心要点：巴勒斯坦组织还确认德黑兰有权保卫自己免受美国和以色列的“侵略”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Mar 2026 02:28:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Mar 2026 13:34:17 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "官员称，密歇根犹太教堂嫌疑人家人在黎巴嫩空袭中丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，密歇根犹太教堂嫌疑人家人在黎巴嫩空袭中丧生”。核心要点：联邦调查局表示，嫌疑人周四撞毁一座犹太教堂后起火，车内装有大量烟花和汽油。",
+        "titleZh": "随着能源危机加深，古巴抗议者洗劫共产党办公室",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着能源危机加深，古巴抗议者洗劫共产党办公室”。核心要点：人们对轮流停电以及食品、燃料和药品短缺的不满情绪日益高涨，美国的封锁更是加剧了这种不满情绪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 23:36:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Mar 2026 22:07:50 GMT",
+        "url": "https://www.bbc.com/news/articles/c875zd7de5xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“我们不会靠燃料来牟取暴利。但我的员工仍然面临虐待”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我们不会靠燃料来牟取暴利。但我的员工仍然面临虐待””。核心要点：独立零售商 Goran Raven 表示，油价上涨对他和他的客户来说都是“可怕的”。",
+        "titleZh": "纸币、海狸和英国人的强烈反对",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“纸币、海狸和英国人的强烈反对”。核心要点：政客们对丘吉尔将被替换在钞票上感到愤怒。英国皇家防止虐待动物协会希望以老鼠和鸽子为主角。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 15 Mar 2026 00:51:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "特朗普敦促英国和其他国家派遣军舰前往霍尔木兹海峡",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普敦促英国和其他国家派遣军舰前往霍尔木兹海峡”。核心要点：美国总统表示，他希望中国、法国、日本和韩国也派出船只保卫这条重要的石油运输路线。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 14 Mar 2026 20:33:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“可怕的”战争赌注引发了打击预测市场的呼声",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““可怕的”战争赌注引发了打击预测市场的呼声”。核心要点：预测市场已经接受了与伊朗战争相关的数百万美元的赌注。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 15 Mar 2026 00:01:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "我们不靠燃料牟取暴利。但我的员工仍然面临虐待",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我们不靠燃料牟取暴利。但我的员工仍然面临虐待”。核心要点：独立零售商 Goran Raven 表示，油价上涨对他和他的客户来说都是“可怕的”。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 13 Mar 2026 22:42:19 GMT",
         "url": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法官称“没有证据”证明美联储调查合理",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法官称“没有证据”证明美联储调查合理”。核心要点：珍妮·皮罗 (Jeanine Pirro) 表示，她将对裁决提出上诉，该裁决阻止了她向央行发出的传票。",
+        "titleZh": "财政大臣将为取暖油成本上涨提供支持",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“财政大臣将为取暖油成本上涨提供支持”。核心要点：雷切尔·里夫斯表示，财政部还在考虑“不同的选择”，以帮助最容易受到能源费用飙升影响的家庭。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 21:28:26 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "汽油零售商因“诈骗”指控与政府发生争执",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“汽油零售商因“诈骗”指控与政府发生争执”。核心要点：他们短暂威胁要退出政府会议，指责部长们在燃油价格上涨问题上使用“煽动性语言”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 17:42:49 GMT",
-        "url": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普为何放松对俄罗斯石油的制裁——这会帮助普京吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普为何放松对俄罗斯石油的制裁——这会帮助普京吗？”。核心要点：美国表示，放松对俄罗斯石油的制裁只会给普京带来有限的财政刺激。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 16:07:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国新贸易调查针对欧盟、加拿大和英国强迫劳动",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国新贸易调查针对欧盟、加拿大和英国强迫劳动”。核心要点：美国表示将调查各国是否有效阻止使用“强迫劳动”制造的商品。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 13 Mar 2026 17:16:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Mar 2026 03:49:14 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
