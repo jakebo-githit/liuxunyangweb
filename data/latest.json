@@ -1,159 +1,106 @@
 {
-  "updatedAt": "2026-03-17T03:43:06.257Z",
+  "updatedAt": "2026-03-18T03:48:59.017Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "The role of C-C motif chemokine ligand 2 in the preservation of myogenic tone in the kidney microvasculature of Dahl Salt-Sensitive rats.",
-        "journal": "Kidney international",
-        "pubDate": "2026 Mar 13",
-        "studyType": "Journal Article",
-        "authors": "Feng W, Guan Z, Ying WZ",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：在这里，我们使用雄性 Dahl 盐敏感 (SS) 大鼠和缺乏 Ccl2 的 SS 大鼠 (SS Ccl2-/- ) 研究 C-C 基序趋化因子配体 2 (CCL2) 在肾微血管功能和高血压相关肾损伤中的作用。 临床提示：高血压肾损伤的机制尚不完全清楚。",
-        "abstract": "Mechanisms of kidney injury in hypertension are incompletely understood. Here, we investigate the role of C-C motif chemokine ligand 2 (CCL2) in kidney microvascular function and hypertension-associated kidney injury using male Dahl salt-sensitive (SS) rats and SS rats lacking Ccl2 (SS Ccl2-/- ). SS and SS Ccl2-/- rats were examined to determine changes in blood pressure and kidney function with increased sodium chloride intake. Kidney microvasculature was examined for changes in expression of key regulatory contractile proteins and autoregulatory function in vivo and effects of CCL2 on function in vitro. SS, but not SS Ccl2-/- , rats developed salt-dependent hypertension with loss of affere...",
-        "pmid": "41833640",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41833640/",
-        "doiUrl": "https://doi.org/10.1016/j.kint.2026.02.019",
-        "url": "https://doi.org/10.1016/j.kint.2026.02.019"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Development and evaluation of a predictive model based on multi-frequency magnetic resonance elastography for high-risk esophagogastric varices in patients with cirrhotic portal hypertension.",
-        "journal": "Insights into imaging",
+        "title": "Transient elastography for accurate staging of liver fibrosis and predicting complications in children with autoimmune hepatitis.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
         "pubDate": "2026 Mar 16",
         "studyType": "Journal Article",
-        "authors": "Lv W, Yu L, Wang L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在通过多频磁共振弹性成像（MRE）测量肝脏和脾脏硬度来评估肝硬化门脉高压患者食管胃静脉曲张（EGV）的严重程度，并开发食管胃静脉曲张的预测模型 临床提示：本研究旨在通过多频磁共振弹性成像（MRE）测量肝脏和脾脏硬度来评估肝硬化门脉高压患者食管胃静脉曲张（EGV）的严重程度，",
-        "abstract": "This study aimed to assess the severity of esophagogastric varices (EGV) in patients with cirrhotic portal hypertension by measuring liver and spleen stiffness with multi-frequency magnetic resonance elastography (MRE), and to develop a predictive model for identifying high-risk EGV. Fifty-four patients with cirrhosis and portal hypertension were enrolled. Clinical and imaging parameters were analyzed, and Bland-Altman analysis and intraclass correlation coefficient (ICCs) evaluated interobserver agreement. Independent-sample t-tests were used to analyze the differences in liver and spleen stiffness between high-risk and low-risk groups. The correlations between variables and the endoscopic ...",
-        "pmid": "41838355",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41838355/",
-        "doiUrl": "https://doi.org/10.1186/s13244-026-02246-z",
-        "url": "https://doi.org/10.1186/s13244-026-02246-z"
-      },
-      {
-        "title": "Association of small intestinal bacterial overgrowth with portal hypertension in HCV-related cirrhosis: a cross-sectional study.",
-        "journal": "Clinical and experimental medicine",
-        "pubDate": "2026 Mar 16",
-        "studyType": "Journal Article",
-        "authors": "Salman T, El-Azab G, Khalil F",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 90）。核心观点：小肠细菌过度生长（SIBO）是肝硬化患者常见且具有临床意义的并发症。 临床提示：旨在确定 HCV 相关肝硬化患者中 SIBO 的患病率、预测因素和临床关联，特别强调其与门静脉高压的关系。",
-        "abstract": "Small intestinal bacterial overgrowth (SIBO) is a frequent and clinically significant complication in patients with liver cirrhosis. However, its association with portal hypertension (PH) in HCV-related cirrhosis remains underexplored. To determine the prevalence, predictors, and clinical associations of SIBO in patients with HCV-related cirrhosis, with particular emphasis on its relationship to portal hypertension. In this cross-sectional study, we evaluated 90 patients with HCV-related cirrhosis and 30 control subjects without liver disease. SIBO was diagnosed using quantitative duodenal aspirate cultures. Clinical, laboratory, and endoscopic data were collected. Multivariate logistic regr...",
-        "pmid": "41838205",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41838205/",
-        "doiUrl": "https://doi.org/10.1007/s10238-025-01871-0",
-        "url": "https://doi.org/10.1007/s10238-025-01871-0"
-      },
-      {
-        "title": "Hepatic Decompensation Caused by IgG4-positive Plasma Cell Infiltration Mimicking Sclerosing Cholangitis, Who Achieved a Four-year Survival by Glucocorticoid Treatment.",
-        "journal": "Internal medicine (Tokyo, Japan)",
-        "pubDate": "2026 Mar 15",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Yamashiki N, Suwa K, Yamashina M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：一名51岁男性，因不明原因的肝胆酶水平升高，随访13年后肝功能恶化，转诊至我院。 临床提示：IgG4 (4,990 mg/dL) 水平显着升高。",
-        "abstract": "A 51-year-old man was referred to our hospital because of a worsening liver function after a follow-up of13 years for elevated hepatobiliary enzyme levels of unknown etiology. The IgG4 (4,990 mg/dL) levels were markedly elevated. Imaging revealed splenomegaly, intrahepatic bile duct dilatation, and an early enhancement area in the right lobe. A liver biopsy of the enhanced area revealed IgG4-positive plasma cell infiltration. Although glucocorticoid therapy was initiated due to a suspicion of IgG4-related sclerosing cholangitis, his liver function deteriorated after experiencing variceal bleeding. Liver transplantation for decompensation was considered, but it was not performed due to pneumo...",
-        "pmid": "40866254",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40866254/",
-        "doiUrl": "https://doi.org/10.2169/internalmedicine.5661-25",
-        "url": "https://doi.org/10.2169/internalmedicine.5661-25"
-      },
-      {
-        "title": "Non-Extremity Thrombosis Sequelae in Children: Screening, Diagnosis, and Management.",
-        "journal": "Journal of thrombosis and haemostasis : JTH",
-        "pubDate": "2026 Mar 13",
-        "studyType": "Journal Article",
-        "authors": "Kumar R, Rodriguez V, Cohen C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：非肢体血栓约占儿科静脉血栓栓塞的 40%，并且与显着的器官特异性发病率相关。 临床提示：这些事件可能导致慢性并发症，如肺栓塞后肺栓塞综合征、脑窦静脉血栓形成后神经认知障碍、门静脉血栓形成后门静脉高压等。",
-        "abstract": "Non-extremity thromboses constitute approximately 40% of pediatric venous thromboembolism and are associated with significant organ-specific morbidity. These events may lead to chronic complications such as post-pulmonary embolism syndrome after pulmonary embolism, neurocognitive impairment following cerebral sinus venous thrombosis, portal hypertension after portal vein thrombosis, and hypertension or chronic kidney disease following renal vein thrombosis. Despite their clinical relevance, the epidemiology, natural history, and optimal management of these sequelae remain incompletely defined in children, and existing recommendations, where available, rely largely on expert opinion or extrap...",
-        "pmid": "41833694",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41833694/",
-        "doiUrl": "https://doi.org/10.1016/j.jtha.2026.03.004",
-        "url": "https://doi.org/10.1016/j.jtha.2026.03.004"
+        "authors": "Jańczyk W, Grajkowska W, Kmiotek J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 86）。核心观点：自身免疫性肝炎 (AIH) 表现为肝炎、慢性或急性肝功能衰竭。 临床提示：肝纤维化可能进展为肝硬化。",
+        "abstract": "Autoimmune hepatitis (AIH) presents as hepatitis, chronic or acute liver failure. Liver fibrosis may progress to liver cirrhosis. Pharmacological treatment aims to preserve liver function and induce remission. Transient elastography (FibroScan®, TE) has already been applied in many chronic liver diseases for non-invasive liver stiffness/fibrosis assessment. We aimed to evaluate the usefulness of liver stiffness measurement (LSM) in relation to liver fibrosis on biopsy, selected clinical features and laboratory markers of liver function in the largest paediatric AIH cohort studied. We included 86 children with AIH (41 females) with a mean age of 14 years with AIH. Thirty-seven patients were n...",
+        "pmid": "41840859",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41840859/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70398",
+        "url": "https://doi.org/10.1002/jpn3.70398"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普的信心并未减弱——但伊朗的每一个选择都伴随着风险",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普的信心并未减弱——但伊朗的每一个选择都伴随着风险”。核心要点：迅速解决战争的可能性似乎与日俱增，而总统的政治利益却只增不减。",
+        "titleZh": "美国高级反恐官员因伊朗战争辞职，敦促特朗普“扭转路线”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国高级反恐官员因伊朗战争辞职，敦促特朗普“扭转路线””。核心要点：国家反恐中心主任乔·肯特表示，特朗普“由于以色列及其强大的美国游说团体的压力而发动了这场战争”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:24:01 GMT",
-        "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 02:12:16 GMT",
+        "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿富汗指责巴基斯坦在医院罢工中造成数百人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿富汗指责巴基斯坦在医院罢工中造成数百人死亡”。核心要点：伊斯兰堡否认针对任何医疗设施，并表示其袭击目标是军事设施。",
+        "titleZh": "阿里·拉里贾尼之死加深了伊朗领导层的核心危机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿里·拉里贾尼之死加深了伊朗领导层的核心危机”。核心要点：拉里贾尼长期以来一直被视为伊斯兰共和国最有经验和最有影响力的政策制定者之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 03:17:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Mar 2026 21:43:59 GMT",
+        "url": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人工智能公司 Anthropic 寻求武器专家来阻止用户“滥用”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“人工智能公司 Anthropic 寻求武器专家来阻止用户“滥用””。核心要点：这家人工智能公司表示，希望防止其系统被“灾难性地滥用”。",
+        "titleZh": "全面镇压和空袭给伊朗人带来无休无止的恐惧",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“全面镇压和空袭给伊朗人带来无休无止的恐惧”。核心要点：德黑兰居民告诉英国广播公司，他们夹在美国和以色列的轰炸和试图重申其权力的伊朗政权之间。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:08:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 00:07:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“火从天而降，烧死了他们”——南苏丹内战边缘的生活",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““火从天而降，烧死了他们”——南苏丹内战边缘的生活”。核心要点：由于军队警告琼莱州将发动大规模军事进攻，约 5 万人被告知逃离家园。",
+        "titleZh": "西班牙国王承认“虐待”，重新开启关于征服墨西哥的辩论",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙国王承认“虐待”，重新开启关于征服墨西哥的辩论”。核心要点：费利佩国王似乎帮助解冻了与墨西哥的冷淡关系，同时又恢复了对 500 年前事件的激烈辩论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:08:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Mar 2026 18:55:17 GMT",
+        "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "警惕的盟友表明特朗普的伊朗危机没有快速解决办法",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“警惕的盟友表明特朗普的伊朗危机没有快速解决办法”。核心要点：欧洲领导人对于帮助特朗普确保霍尔木兹海峡的安全犹豫不决，但他们知道对伊朗战争不采取行动并不是真正的选择。",
+        "titleZh": "幸存者告诉英国广播公司，空袭袭击了喀布尔康复中心，患者正在吃晚饭",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“幸存者告诉英国广播公司，空袭袭击了喀布尔康复中心，患者正在吃晚饭”。核心要点：周一晚上巴基斯坦袭击中丧生的确切人数仍不清楚，但恐怕有数百人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 16 Mar 2026 17:34:13 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Mar 2026 18:45:54 GMT",
+        "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "里夫斯誓言阻止英国科技“漂流到国外”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“里夫斯誓言阻止英国科技“漂流到国外””。核心要点：英国财政大臣告诉英国广播公司，她希望“结束这种模式”，同时承诺与欧盟建立更紧密的关系",
+        "titleZh": "里夫斯税收计划下市长将获得更多消费能力",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“里夫斯税收计划下市长将获得更多消费能力”。核心要点：德国总理制定了政府的经济增长计划，其中还包括与欧盟建立更密切的关系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:01:07 GMT",
+        "publishedAt": "Tue, 17 Mar 2026 18:26:30 GMT",
         "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "列车晚点赔付规则变更，让索赔更容易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“列车晚点赔付规则变更，让索赔更容易”。核心要点：在审判期间还将对铁路卡进行额外检查，以打击欺诈行为。",
+        "titleZh": "典型的新抵押贷款成本在两周内每年飙升 788 英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“典型的新抵押贷款成本在两周内每年飙升 788 英镑”。核心要点：由于战争给市场带来了不确定性，贷款机构提高了新交易的利率并撤回了产品。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:01:24 GMT",
-        "url": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Mar 2026 11:25:13 GMT",
+        "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "人工智能编辑应用程序的广告称其可以“删除任何内容”被禁止",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能编辑应用程序的广告称其可以“删除任何内容”被禁止”。核心要点：英国监管机构表示，该广告纵容“未经女性同意，以数字方式改变和暴露女性身体”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 18 Mar 2026 00:00:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "由于航班满员，复活节度假者从迪拜飞往西班牙",
         "summaryZh": "这是一条金融市场新闻，重点围绕“由于航班满员，复活节度假者从迪拜飞往西班牙”。核心要点：此前，伊朗战争导致中东和阿联酋的航班大规模中断。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:01:17 GMT",
+        "publishedAt": "Tue, 17 Mar 2026 13:33:44 GMT",
         "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人工智能公司 Anthropic 寻求武器专家来阻止用户“滥用”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能公司 Anthropic 寻求武器专家来阻止用户“滥用””。核心要点：这家人工智能公司表示，希望防止其系统被“灾难性地滥用”。",
+        "titleZh": "火车延误偿还规则发生变化，使索赔更容易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“火车延误偿还规则发生变化，使索赔更容易”。核心要点：在审判期间还将对铁路卡进行额外检查，以打击欺诈行为。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:08:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普寻求推迟与习近平在中国的会面",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普寻求推迟与习近平在中国的会面”。核心要点：伊朗战争不断升级给美国的大部分外交政策目标蒙上阴影",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 02:48:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Mar 2026 00:01:24 GMT",
+        "url": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
