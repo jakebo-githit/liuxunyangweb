@@ -1,106 +1,132 @@
 {
-  "updatedAt": "2026-03-18T03:48:59.017Z",
+  "updatedAt": "2026-03-19T03:49:01.318Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Transient elastography for accurate staging of liver fibrosis and predicting complications in children with autoimmune hepatitis.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
-        "pubDate": "2026 Mar 16",
-        "studyType": "Journal Article",
-        "authors": "Jańczyk W, Grajkowska W, Kmiotek J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 86）。核心观点：自身免疫性肝炎 (AIH) 表现为肝炎、慢性或急性肝功能衰竭。 临床提示：肝纤维化可能进展为肝硬化。",
-        "abstract": "Autoimmune hepatitis (AIH) presents as hepatitis, chronic or acute liver failure. Liver fibrosis may progress to liver cirrhosis. Pharmacological treatment aims to preserve liver function and induce remission. Transient elastography (FibroScan®, TE) has already been applied in many chronic liver diseases for non-invasive liver stiffness/fibrosis assessment. We aimed to evaluate the usefulness of liver stiffness measurement (LSM) in relation to liver fibrosis on biopsy, selected clinical features and laboratory markers of liver function in the largest paediatric AIH cohort studied. We included 86 children with AIH (41 females) with a mean age of 14 years with AIH. Thirty-seven patients were n...",
-        "pmid": "41840859",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41840859/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70398",
-        "url": "https://doi.org/10.1002/jpn3.70398"
+        "title": "Physical exercise in liver diseases.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 Apr 1",
+        "studyType": "Journal Article / Review",
+        "authors": "Zhang Y, Cao C, Li C",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：体育锻炼是维持和恢复体内平衡、有效预防和减轻肝脏疾病的一种有前景的非药物方法。 临床提示：肝脏疾病每年导致约 200 万人死亡，占全球死亡人数的 4%。",
+        "abstract": "Liver diseases contribute to ~2 million deaths each year and account for 4% of all deaths globally. Despite various treatment options, the management of liver diseases remains challenging. Physical exercise is a promising nonpharmacological approach to maintain and restore homeostasis and effectively prevent and mitigate liver diseases. In this review, we delve into the mechanisms of physical exercise in preventing and treating liver diseases, highlighting its effects on improving insulin sensitivity, regulating lipid homeostasis, and modulating immune function. In addition, we evaluate the impact of physical exercise on various liver diseases, including liver ischemia/reperfusion injury, ca...",
+        "pmid": "38836646",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/38836646/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000000941",
+        "url": "https://doi.org/10.1097/HEP.0000000000000941"
+      },
+      {
+        "title": "Clinical management of portal vein thrombosis in cirrhosis: an evidence‑based narrative review.",
+        "journal": "CVIR endovascular",
+        "pubDate": "2026 Mar 18",
+        "studyType": "Journal Article / Review",
+        "authors": "Dai K, Hansi N, See TC",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：门静脉血栓（PVT）使多达三分之一的肝硬化患者变得复杂，并与静脉曲张出血、顽固性腹水和肝移植困难相关。 临床提示：肝硬化的荟萃分析表明，抗凝治疗可增加再通并减少血栓进展，而不会增加大出血，并且可能会降低静脉曲张...",
+        "abstract": "Portal vein thrombosis (PVT) complicates up to a third of patients with cirrhosis and is associated with variceal bleeding, refractory ascites, and challenges at liver transplantation. Management has evolved from selective anticoagulation to broader use of endovascular therapies, especially transjugular intrahepatic portosystemic shunt (TIPS) and portal vein recanalisation strategies. In this narrative review, we summarise the current evidence for anticoagulation, thrombolysis, TIPS, and surgery, and compare major society guidelines. Meta-analyses in cirrhosis show that anticoagulation increases recanalisation and reduces thrombus progression without increasing major bleeding and may lower v...",
+        "pmid": "41848981",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41848981/",
+        "doiUrl": "https://doi.org/10.1186/s42155-026-00671-1",
+        "url": "https://doi.org/10.1186/s42155-026-00671-1"
+      },
+      {
+        "title": "Inflammatory Hilar Mass and Cavernous Transformation in Disseminated Histoplasmosis: A Rare Cause of Noncirrhotic Portal Hypertension.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Mar",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Tippins K, Townsend EC, Wallace F",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：播散性组织胞浆菌病是一种真菌感染，通常发生在免疫功能低下的宿主中。 临床提示：肝脏受累很常见，但尚未描述肝外淋巴结受压引起的门静脉高压。",
+        "abstract": "Disseminated histoplasmosis is a fungal infection usually encountered in immunocompromised hosts. Hepatic involvement is common, but portal hypertension due to extrahepatic lymph node compression has not been described. We present a 68-year-old man without cirrhosis who developed noncirrhotic portal hypertension by reactive, fibrosing porta hepatis lymphadenopathy after disseminated histoplasmosis treatment. Despite prior exposure to immunosuppressive therapy for presumed sarcoidosis, liver biopsy demonstrated preserved hepatic architecture and normal hepatic venous pressure gradient, supporting a presinusoidal, extrahepatic mechanism. This case highlights a novel, compressive cause of nonci...",
+        "pmid": "41847076",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41847076/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002043",
+        "url": "https://doi.org/10.14309/crj.0000000000002043"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国高级反恐官员因伊朗战争辞职，敦促特朗普“扭转路线”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国高级反恐官员因伊朗战争辞职，敦促特朗普“扭转路线””。核心要点：国家反恐中心主任乔·肯特表示，特朗普“由于以色列及其强大的美国游说团体的压力而发动了这场战争”。",
+        "titleZh": "美国情报局长称伊朗政权“完整”但“退化”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国情报局长称伊朗政权“完整”但“退化””。核心要点：议员们就伊朗战争以及伊斯兰共和国是否构成迫在眉睫的威胁向情报官员施压。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 02:12:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 22:18:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿里·拉里贾尼之死加深了伊朗领导层的核心危机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿里·拉里贾尼之死加深了伊朗领导层的核心危机”。核心要点：拉里贾尼长期以来一直被视为伊斯兰共和国最有经验和最有影响力的政策制定者之一。",
+        "titleZh": "伊朗情报部长埃斯梅尔·哈提卜在空袭中丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗情报部长埃斯梅尔·哈提卜在空袭中丧生”。核心要点：以色列称已杀死哈提卜，伊朗总统马苏德·佩泽什基安周三证实了哈提卜的死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 21:43:59 GMT",
-        "url": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 17:05:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "全面镇压和空袭给伊朗人带来无休无止的恐惧",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“全面镇压和空袭给伊朗人带来无休无止的恐惧”。核心要点：德黑兰居民告诉英国广播公司，他们夹在美国和以色列的轰炸和试图重申其权力的伊朗政权之间。",
+        "titleZh": "瑞士度假胜地滑雪缆车坠落山下，造成一人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞士度假胜地滑雪缆车坠落山下，造成一人死亡”。核心要点：戏剧性的镜头显示，缆车在雪地里翻转了好几次，然后才在英格堡停下来。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 00:07:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 18:25:33 GMT",
+        "url": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙国王承认“虐待”，重新开启关于征服墨西哥的辩论",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙国王承认“虐待”，重新开启关于征服墨西哥的辩论”。核心要点：费利佩国王似乎帮助解冻了与墨西哥的冷淡关系，同时又恢复了对 500 年前事件的激烈辩论。",
+        "titleZh": "厄瓜多尔黑帮头目因谋杀总统候选人被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“厄瓜多尔黑帮头目因谋杀总统候选人被捕”。核心要点：官员们认为，这名名叫 Lobo Menor 的男子与 2023 年费尔南多·比亚维森西奥 (Fernando Villavicencio) 被杀有关。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 18:55:17 GMT",
-        "url": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 22:20:16 GMT",
+        "url": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "幸存者告诉英国广播公司，空袭袭击了喀布尔康复中心，患者正在吃晚饭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“幸存者告诉英国广播公司，空袭袭击了喀布尔康复中心，患者正在吃晚饭”。核心要点：周一晚上巴基斯坦袭击中丧生的确切人数仍不清楚，但恐怕有数百人。",
+        "titleZh": "法国小镇选举竞赛火爆，希特勒对阵齐林斯基",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国小镇选举竞赛火爆，希特勒对阵齐林斯基”。核心要点：奥布河畔阿尔西市市长查尔斯·希特勒(Charles Hittler)一直面临着有关他名字的笑话，但现在他面临着一个有着另一个不太可能的名字的对手。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 18:45:54 GMT",
-        "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 13:57:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "里夫斯税收计划下市长将获得更多消费能力",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“里夫斯税收计划下市长将获得更多消费能力”。核心要点：德国总理制定了政府的经济增长计划，其中还包括与欧盟建立更密切的关系。",
+        "titleZh": "伊朗战争的影响预计将抑制利率",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争的影响预计将抑制利率”。核心要点：在冲突开始之前，分析师曾预计央行将在本次会议上降息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 18:26:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 00:10:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "典型的新抵押贷款成本在两周内每年飙升 788 英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“典型的新抵押贷款成本在两周内每年飙升 788 英镑”。核心要点：由于战争给市场带来了不确定性，贷款机构提高了新交易的利率并撤回了产品。",
+        "titleZh": "英国设定目标以提高钢铁产量并减少进口",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国设定目标以提高钢铁产量并减少进口”。核心要点：英国政府在宣布其钢铁战略时表示，英国使用的钢铁一半应该在当地生产。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 11:25:13 GMT",
-        "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 00:04:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人工智能编辑应用程序的广告称其可以“删除任何内容”被禁止",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能编辑应用程序的广告称其可以“删除任何内容”被禁止”。核心要点：英国监管机构表示，该广告纵容“未经女性同意，以数字方式改变和暴露女性身体”。",
+        "titleZh": "气田罢工后油价突破每桶110美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“气田罢工后油价突破每桶110美元”。核心要点：伊朗军方警告称，将采取“果断行动”应对其能源基础设施遭受的袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 00:00:09 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 01:35:37 GMT",
+        "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于航班满员，复活节度假者从迪拜飞往西班牙",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于航班满员，复活节度假者从迪拜飞往西班牙”。核心要点：此前，伊朗战争导致中东和阿联酋的航班大规模中断。",
+        "titleZh": "伊朗战争引发通胀担忧 美国维持利率不变",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争引发通胀担忧 美国维持利率不变”。核心要点：尽管面临总统降息的压力，美联储仍采取谨慎行动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 13:33:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Mar 2026 20:20:24 GMT",
+        "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "火车延误偿还规则发生变化，使索赔更容易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“火车延误偿还规则发生变化，使索赔更容易”。核心要点：在审判期间还将对铁路卡进行额外检查，以打击欺诈行为。",
+        "titleZh": "《Labubu》电影正式上映，帕丁顿熊导演掌舵",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“《Labubu》电影正式上映，帕丁顿熊导演掌舵”。核心要点：这部电影将结合真人表演和计算机生成的动画，目前正处于“早期开发”阶段。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Mar 2026 00:01:24 GMT",
-        "url": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 00:01:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
