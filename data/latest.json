@@ -1,132 +1,172 @@
 {
-  "updatedAt": "2026-03-19T03:49:01.318Z",
+  "updatedAt": "2026-03-20T03:38:57.223Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Angiotensinogen Reconsidered: Evolving Perspectives in Hypertension Research.",
+        "journal": "Hypertension (Dallas, Tex. : 1979)",
+        "pubDate": "2026 Mar 19",
+        "studyType": "Journal Article / Review",
+        "authors": "Kanbay M, Guldan M, Ozbek L",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：高血压是心血管疾病、中风、慢性肾病和过早死亡的主要可改变危险因素。 临床提示：尽管 AGT（血管紧张素原）是肾素-血管紧张素-醛固酮系统的核心组成部分，但历史上它主要被视为生化底物，而不是血压和血压的主动调节剂。",
+        "abstract": "Hypertension is the leading modifiable risk factor for cardiovascular disease, stroke, chronic kidney disease, and premature mortality. Although AGT (angiotensinogen) is a central component of the renin-angiotensin-aldosterone system, it was historically viewed primarily as a biochemical substrate rather than an active regulator of blood pressure and received less attention as a therapeutic target in hypertension compared with downstream renin-angiotensin-aldosterone system components such as angiotensin-converting enzyme and angiotensin II receptors. However, emerging evidence highlights its dynamic, tissue-specific role in blood pressure regulation and its responsiveness to metabolic, horm...",
+        "pmid": "41853854",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41853854/",
+        "doiUrl": "https://doi.org/10.1161/HYPERTENSIONAHA.125.26091",
+        "url": "https://doi.org/10.1161/HYPERTENSIONAHA.125.26091"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Physical exercise in liver diseases.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article / Review",
-        "authors": "Zhang Y, Cao C, Li C",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：体育锻炼是维持和恢复体内平衡、有效预防和减轻肝脏疾病的一种有前景的非药物方法。 临床提示：肝脏疾病每年导致约 200 万人死亡，占全球死亡人数的 4%。",
-        "abstract": "Liver diseases contribute to ~2 million deaths each year and account for 4% of all deaths globally. Despite various treatment options, the management of liver diseases remains challenging. Physical exercise is a promising nonpharmacological approach to maintain and restore homeostasis and effectively prevent and mitigate liver diseases. In this review, we delve into the mechanisms of physical exercise in preventing and treating liver diseases, highlighting its effects on improving insulin sensitivity, regulating lipid homeostasis, and modulating immune function. In addition, we evaluate the impact of physical exercise on various liver diseases, including liver ischemia/reperfusion injury, ca...",
-        "pmid": "38836646",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/38836646/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000000941",
-        "url": "https://doi.org/10.1097/HEP.0000000000000941"
+        "title": "EUS-guided Liver Biopsy and Portosystemic Pressure Gradient Assessment (Using Modified Non-proprietary Setup) in Patients With Suspected cACLD or Cirrhosis.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 May-Jun",
+        "studyType": "Journal Article",
+        "authors": "De A, Shastri A, Mitra S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：内镜超声 (EUS)-肝活检 (EUS-LB) 可能非常适合疑似代偿性晚期慢性肝病 (cACLD) 或肝硬化的患者，因为许多患者需要内镜检查进行静脉曲张筛查。 临床提示：然而，这一人群的数据很少。",
+        "abstract": "Endoscopic ultrasound (EUS)-liver biopsy (EUS-LB) may be ideally suited in patients with suspected compensated advanced chronic liver disease (cACLD) or cirrhosis as many require endoscopy for variceal screening. However, data in this population are scant. Simultaneous portosystemic pressure gradient (PPG) assessment makes EUS an alternative to transjugular liver biopsy and hepatic venous pressure gradient. Most studies have measured EUS-PPG using a proprietary manometer (unavailable in India). We describe the technical feasibility, efficacy, and safety of EUS-LB and EUS-PPG (using a modified non-proprietary setup) in suspected cACLD and cirrhosis. We also describe a method for ex vivo valid...",
+        "pmid": "41852659",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852659/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103496",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103496"
       },
       {
-        "title": "Clinical management of portal vein thrombosis in cirrhosis: an evidence‑based narrative review.",
-        "journal": "CVIR endovascular",
-        "pubDate": "2026 Mar 18",
-        "studyType": "Journal Article / Review",
-        "authors": "Dai K, Hansi N, See TC",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：门静脉血栓（PVT）使多达三分之一的肝硬化患者变得复杂，并与静脉曲张出血、顽固性腹水和肝移植困难相关。 临床提示：肝硬化的荟萃分析表明，抗凝治疗可增加再通并减少血栓进展，而不会增加大出血，并且可能会降低静脉曲张...",
-        "abstract": "Portal vein thrombosis (PVT) complicates up to a third of patients with cirrhosis and is associated with variceal bleeding, refractory ascites, and challenges at liver transplantation. Management has evolved from selective anticoagulation to broader use of endovascular therapies, especially transjugular intrahepatic portosystemic shunt (TIPS) and portal vein recanalisation strategies. In this narrative review, we summarise the current evidence for anticoagulation, thrombolysis, TIPS, and surgery, and compare major society guidelines. Meta-analyses in cirrhosis show that anticoagulation increases recanalisation and reduces thrombus progression without increasing major bleeding and may lower v...",
-        "pmid": "41848981",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41848981/",
-        "doiUrl": "https://doi.org/10.1186/s42155-026-00671-1",
-        "url": "https://doi.org/10.1186/s42155-026-00671-1"
+        "title": "Continuous Versus Bolus Terlipressin for Acute Oesophageal Variceal Bleeding and Hepatorenal Syndrome in Cirrhosis: Meta-Analysis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article / Meta-Analysis / Comparative Study",
+        "authors": "Hsieh PH, Yang TC, Kang EY",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：进行荟萃分析，以基于随机效应模型的 95% 置信区间 (CI) 估计风险比 (RR)。 临床提示：特利加压素对于治疗急性食管静脉曲张出血（AEVB）和肝肾综合征（HRS）至关重要。",
+        "abstract": "Terlipressin is crucial for treating acute oesophageal variceal bleeding (AEVB) and hepatorenal syndrome (HRS). This meta-analysis compared the continuous versus bolus terlipressin infusion for treating the above conditions in patients with cirrhosis. Three major databases were searched for randomised controlled trials (RCTs) comparing two infusion strategies. A meta-analysis was conducted to estimate the risk ratios (RR) with a 95% confidence interval (CI) based on a random-effects model. Subgroup analyses were performed to account for adverse events (AEs) in terms of severity and organ systems. Additionally, a dose-response analysis was conducted to evaluate the correlation between drug do...",
+        "pmid": "41853888",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41853888/",
+        "doiUrl": "https://doi.org/10.1111/liv.70607",
+        "url": "https://doi.org/10.1111/liv.70607"
       },
       {
-        "title": "Inflammatory Hilar Mass and Cavernous Transformation in Disseminated Histoplasmosis: A Rare Cause of Noncirrhotic Portal Hypertension.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Mar",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Tippins K, Townsend EC, Wallace F",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：播散性组织胞浆菌病是一种真菌感染，通常发生在免疫功能低下的宿主中。 临床提示：肝脏受累很常见，但尚未描述肝外淋巴结受压引起的门静脉高压。",
-        "abstract": "Disseminated histoplasmosis is a fungal infection usually encountered in immunocompromised hosts. Hepatic involvement is common, but portal hypertension due to extrahepatic lymph node compression has not been described. We present a 68-year-old man without cirrhosis who developed noncirrhotic portal hypertension by reactive, fibrosing porta hepatis lymphadenopathy after disseminated histoplasmosis treatment. Despite prior exposure to immunosuppressive therapy for presumed sarcoidosis, liver biopsy demonstrated preserved hepatic architecture and normal hepatic venous pressure gradient, supporting a presinusoidal, extrahepatic mechanism. This case highlights a novel, compressive cause of nonci...",
-        "pmid": "41847076",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41847076/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002043",
-        "url": "https://doi.org/10.14309/crj.0000000000002043"
+        "title": "Personalised Long-Term Albumin Treatment Based on Three-Month Ascites Response in Patients With Decompensated Cirrhosis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article / Multicenter Study / Observational Study",
+        "authors": "Pompili E, Iannone G, Piano S",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：长期白蛋白（LTA）可有效治疗失代偿性肝硬化腹水。 临床提示：本研究旨在分析接受 LTA 的患者的临床病程，并提供 3 个月的分层，以将 LTA 与其他选择结合起来进行个性化管理。",
+        "abstract": "Long-term albumin (LTA) is effective for treating ascites in decompensated cirrhosis. This study aims to analyse the clinical courses of patients receiving LTA and provide a 3 month stratification to personalise management integrating LTA with other options. Patients receiving LTA included in the multicentre, retrospective, observational Real-ANSWER study were stratified into three categories according to the response of ascites after 3 months of treatment: 'responders' (grade 0-1 ascites), 'partial responders' (at least grade 2 ascites not receiving therapeutic paracentesis) and 'non-responders' (at least grade 2 ascites receiving therapeutic paracentesis). Clinical trajectories and outcome...",
+        "pmid": "41851602",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41851602/",
+        "doiUrl": "https://doi.org/10.1111/liv.70598",
+        "url": "https://doi.org/10.1111/liv.70598"
+      },
+      {
+        "title": "Predicting hepatic decompensation using non-invasive tests in a contemporary multicentre cohort of patients with cACLD.",
+        "journal": "Journal of hepatology",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article / Multicenter Study",
+        "authors": "Jachs M, Thöne P, Odriozola A",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：NICER（通过振动控制瞬时弹性成像、血小板计数和 BMI 检测肝脏和脾脏硬度）和 ANTICIPATE±NASH 模型可预测代偿性晚期慢性肝病 (cACLD) 中具有临床意义的门脉高压 (CSPH)。 临床提示：本研究报告了 NICER 队列的后续数据，比较了 CSPH (CSPH-NITs) 和肝静脉压力梯度 (HVPG) 无创检测的预后效用。",
+        "abstract": "The NICER (liver and spleen stiffness by vibration-controlled transient elastography, platelet count, and BMI) and the ANTICIPATE±NASH models predict clinically significant portal hypertension (CSPH) in compensated advanced chronic liver disease (cACLD). This study reports follow-up data from the NICER cohort, comparing the prognostic utility of non-invasive tests for CSPH (CSPH-NITs) and hepatic venous pressure gradient (HVPG). Patients with Child-Turcotte-Pugh A cACLD (liver stiffness ≥10 kPa and/or F3/4) from 16 European centres undergoing paired HVPG and CSPH-NIT assessment between 2020-2023 were included and followed until incident hepatic decompensation, hepatocellular carcinoma, death...",
+        "pmid": "41192692",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41192692/",
+        "doiUrl": "https://doi.org/10.1016/j.jhep.2025.10.019",
+        "url": "https://doi.org/10.1016/j.jhep.2025.10.019"
+      },
+      {
+        "title": "Hepatic Outcomes in Lean Versus Nonlean Metabolic Dysfunction-Associated Steatotic Liver Disease: Propensity-Matched Cohort Study.",
+        "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
+        "pubDate": "2026 Mar 19",
+        "studyType": "Journal Article",
+        "authors": "Chowdhary R, Goyal MK, Vuthaluru AR",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：瘦代谢功能障碍相关的脂肪肝病 (MASLD) 越来越受到人们的重视；然而，其相对于肥胖 MASLD 的长期肝脏风险仍然难以捉摸。 临床提示：这项研究评估了进展性肝脏结果的不同风险，并确定了瘦表型内不良结果的预测因素。",
+        "abstract": "Lean metabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly recognized; however, its long-term hepatic risk relative to obese MASLD remains elusive. This study evaluated differential risk of progressive hepatic outcomes and identified predictors of adverse outcomes within the lean phenotype. A large, multicenter retrospective cohort study was conducted using the TriNetX Global Health Research Network, including adults with noncirrhotic MASLD between 2010 and 2024. Lean MASLD was defined as the body mass index (BMI) < 25 kg/m 2 . Primary analyses compared lean versus nonlean MASLD (BMI ≥ 25 kg/m 2 ), with a prespecified secondary analysis comparing lean versus obese ...",
+        "pmid": "41855102",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41855102/",
+        "doiUrl": "https://doi.org/10.1111/hepr.70158",
+        "url": "https://doi.org/10.1111/hepr.70158"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国情报局长称伊朗政权“完整”但“退化”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国情报局长称伊朗政权“完整”但“退化””。核心要点：议员们就伊朗战争以及伊斯兰共和国是否构成迫在眉睫的威胁向情报官员施压。",
+        "titleZh": "内塔尼亚胡称以色列“单独行动”袭击伊朗天然气田",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡称以色列“单独行动”袭击伊朗天然气田”。核心要点：这位以色列领导人在新闻发布会上表示，特朗普已要求不再发生此类袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 22:18:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 22:41:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗情报部长埃斯梅尔·哈提卜在空袭中丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗情报部长埃斯梅尔·哈提卜在空袭中丧生”。核心要点：以色列称已杀死哈提卜，伊朗总统马苏德·佩泽什基安周三证实了哈提卜的死亡。",
+        "titleZh": "近100艘船只通过霍尔木兹海峡——谁通过了？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“近100艘船只通过霍尔木兹海峡——谁通过了？”。核心要点：根据 BBC verify 分析的数据，自 3 月初以来，已有不到 100 艘船只通过霍尔木兹海峡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 17:05:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 00:04:57 GMT",
+        "url": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "瑞士度假胜地滑雪缆车坠落山下，造成一人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞士度假胜地滑雪缆车坠落山下，造成一人死亡”。核心要点：戏剧性的镜头显示，缆车在雪地里翻转了好几次，然后才在英格堡停下来。",
+        "titleZh": "美国考虑解除对部分伊朗石油的制裁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国考虑解除对部分伊朗石油的制裁”。核心要点：财政部长斯科特·贝森特提议放弃对海上石油的制裁，这将是对美国长期政策的惊人逆转。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 18:25:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 19:55:51 GMT",
+        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "厄瓜多尔黑帮头目因谋杀总统候选人被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“厄瓜多尔黑帮头目因谋杀总统候选人被捕”。核心要点：官员们认为，这名名叫 Lobo Menor 的男子与 2023 年费尔南多·比亚维森西奥 (Fernando Villavicencio) 被杀有关。",
+        "titleZh": "报道称，如果美国入侵，丹麦计划炸毁格陵兰岛跑道",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“报道称，如果美国入侵，丹麦计划炸毁格陵兰岛跑道”。核心要点：丹麦公共广播公司报道称，美国抓捕委内瑞拉领导人的行动引发了人们对美国将对格陵兰岛采取行动的担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 22:20:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 21:52:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国小镇选举竞赛火爆，希特勒对阵齐林斯基",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国小镇选举竞赛火爆，希特勒对阵齐林斯基”。核心要点：奥布河畔阿尔西市市长查尔斯·希特勒(Charles Hittler)一直面临着有关他名字的笑话，但现在他面临着一个有着另一个不太可能的名字的对手。",
+        "titleZh": "因伊朗反政府抗议活动首批被处决的青少年之一",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“因伊朗反政府抗议活动首批被处决的青少年之一”。核心要点：官方媒体称，伊朗国家摔跤队成员萨利赫·穆罕默迪因与另外两名男子一起杀害警察而被判有罪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 13:57:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c2d1drzgxzyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 22:07:17 GMT",
+        "url": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "伊朗战争的影响预计将抑制利率",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争的影响预计将抑制利率”。核心要点：在冲突开始之前，分析师曾预计央行将在本次会议上降息。",
+        "titleZh": "伊朗战争的全球赢家和输家",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争的全球赢家和输家”。核心要点：由于冲突引发经济混乱，一些人可能会受到严重打击，而另一些人则可能受益。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 00:10:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 00:08:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国设定目标以提高钢铁产量并减少进口",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国设定目标以提高钢铁产量并减少进口”。核心要点：英国政府在宣布其钢铁战略时表示，英国使用的钢铁一半应该在当地生产。",
+        "titleZh": "费萨尔·伊斯兰：伊朗战争对英国经济产生巨大影响",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：伊朗战争对英国经济产生巨大影响”。核心要点：海湾战争的连锁反应超出了利率的控制范围，并将产生数月的影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 00:04:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 16:21:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "气田罢工后油价突破每桶110美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“气田罢工后油价突破每桶110美元”。核心要点：伊朗军方警告称，将采取“果断行动”应对其能源基础设施遭受的袭击。",
+        "titleZh": "卡塔尔天然气中心遭受袭击后股市动荡，能源价格飙升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“卡塔尔天然气中心遭受袭击后股市动荡，能源价格飙升”。核心要点：在中东关键基础设施遭受新一轮罢工后，石油和天然气价格再次上涨。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 01:35:37 GMT",
+        "publishedAt": "Thu, 19 Mar 2026 23:29:05 GMT",
         "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争引发通胀担忧 美国维持利率不变",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争引发通胀担忧 美国维持利率不变”。核心要点：尽管面临总统降息的压力，美联储仍采取谨慎行动。",
+        "titleZh": "如果伊朗战争价格“冲击”持续存在，银行准备加息",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“如果伊朗战争价格“冲击”持续存在，银行准备加息”。核心要点：伊朗战争促使借贷成本争论发生逆转后，政策制定者一致投票将利率维持在 3.75%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Mar 2026 20:20:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 15:44:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "《Labubu》电影正式上映，帕丁顿熊导演掌舵",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“《Labubu》电影正式上映，帕丁顿熊导演掌舵”。核心要点：这部电影将结合真人表演和计算机生成的动画，目前正处于“早期开发”阶段。",
+        "titleZh": "美国考虑解除对部分伊朗石油的制裁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国考虑解除对部分伊朗石油的制裁”。核心要点：财政部长斯科特·贝森特提议放弃对海上石油的制裁，这将是对美国长期政策的惊人逆转。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 00:01:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Mar 2026 19:55:51 GMT",
+        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
