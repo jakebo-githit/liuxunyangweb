@@ -1,172 +1,145 @@
 {
-  "updatedAt": "2026-03-20T03:38:57.223Z",
+  "updatedAt": "2026-03-21T03:29:47.912Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Angiotensinogen Reconsidered: Evolving Perspectives in Hypertension Research.",
-        "journal": "Hypertension (Dallas, Tex. : 1979)",
-        "pubDate": "2026 Mar 19",
-        "studyType": "Journal Article / Review",
-        "authors": "Kanbay M, Guldan M, Ozbek L",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：高血压是心血管疾病、中风、慢性肾病和过早死亡的主要可改变危险因素。 临床提示：尽管 AGT（血管紧张素原）是肾素-血管紧张素-醛固酮系统的核心组成部分，但历史上它主要被视为生化底物，而不是血压和血压的主动调节剂。",
-        "abstract": "Hypertension is the leading modifiable risk factor for cardiovascular disease, stroke, chronic kidney disease, and premature mortality. Although AGT (angiotensinogen) is a central component of the renin-angiotensin-aldosterone system, it was historically viewed primarily as a biochemical substrate rather than an active regulator of blood pressure and received less attention as a therapeutic target in hypertension compared with downstream renin-angiotensin-aldosterone system components such as angiotensin-converting enzyme and angiotensin II receptors. However, emerging evidence highlights its dynamic, tissue-specific role in blood pressure regulation and its responsiveness to metabolic, horm...",
-        "pmid": "41853854",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41853854/",
-        "doiUrl": "https://doi.org/10.1161/HYPERTENSIONAHA.125.26091",
-        "url": "https://doi.org/10.1161/HYPERTENSIONAHA.125.26091"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "EUS-guided Liver Biopsy and Portosystemic Pressure Gradient Assessment (Using Modified Non-proprietary Setup) in Patients With Suspected cACLD or Cirrhosis.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 May-Jun",
-        "studyType": "Journal Article",
-        "authors": "De A, Shastri A, Mitra S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：内镜超声 (EUS)-肝活检 (EUS-LB) 可能非常适合疑似代偿性晚期慢性肝病 (cACLD) 或肝硬化的患者，因为许多患者需要内镜检查进行静脉曲张筛查。 临床提示：然而，这一人群的数据很少。",
-        "abstract": "Endoscopic ultrasound (EUS)-liver biopsy (EUS-LB) may be ideally suited in patients with suspected compensated advanced chronic liver disease (cACLD) or cirrhosis as many require endoscopy for variceal screening. However, data in this population are scant. Simultaneous portosystemic pressure gradient (PPG) assessment makes EUS an alternative to transjugular liver biopsy and hepatic venous pressure gradient. Most studies have measured EUS-PPG using a proprietary manometer (unavailable in India). We describe the technical feasibility, efficacy, and safety of EUS-LB and EUS-PPG (using a modified non-proprietary setup) in suspected cACLD and cirrhosis. We also describe a method for ex vivo valid...",
-        "pmid": "41852659",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852659/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103496",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103496"
-      },
-      {
-        "title": "Continuous Versus Bolus Terlipressin for Acute Oesophageal Variceal Bleeding and Hepatorenal Syndrome in Cirrhosis: Meta-Analysis.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Meta-Analysis / Comparative Study",
-        "authors": "Hsieh PH, Yang TC, Kang EY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：进行荟萃分析，以基于随机效应模型的 95% 置信区间 (CI) 估计风险比 (RR)。 临床提示：特利加压素对于治疗急性食管静脉曲张出血（AEVB）和肝肾综合征（HRS）至关重要。",
-        "abstract": "Terlipressin is crucial for treating acute oesophageal variceal bleeding (AEVB) and hepatorenal syndrome (HRS). This meta-analysis compared the continuous versus bolus terlipressin infusion for treating the above conditions in patients with cirrhosis. Three major databases were searched for randomised controlled trials (RCTs) comparing two infusion strategies. A meta-analysis was conducted to estimate the risk ratios (RR) with a 95% confidence interval (CI) based on a random-effects model. Subgroup analyses were performed to account for adverse events (AEs) in terms of severity and organ systems. Additionally, a dose-response analysis was conducted to evaluate the correlation between drug do...",
-        "pmid": "41853888",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41853888/",
-        "doiUrl": "https://doi.org/10.1111/liv.70607",
-        "url": "https://doi.org/10.1111/liv.70607"
-      },
-      {
-        "title": "Personalised Long-Term Albumin Treatment Based on Three-Month Ascites Response in Patients With Decompensated Cirrhosis.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Multicenter Study / Observational Study",
-        "authors": "Pompili E, Iannone G, Piano S",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：长期白蛋白（LTA）可有效治疗失代偿性肝硬化腹水。 临床提示：本研究旨在分析接受 LTA 的患者的临床病程，并提供 3 个月的分层，以将 LTA 与其他选择结合起来进行个性化管理。",
-        "abstract": "Long-term albumin (LTA) is effective for treating ascites in decompensated cirrhosis. This study aims to analyse the clinical courses of patients receiving LTA and provide a 3 month stratification to personalise management integrating LTA with other options. Patients receiving LTA included in the multicentre, retrospective, observational Real-ANSWER study were stratified into three categories according to the response of ascites after 3 months of treatment: 'responders' (grade 0-1 ascites), 'partial responders' (at least grade 2 ascites not receiving therapeutic paracentesis) and 'non-responders' (at least grade 2 ascites receiving therapeutic paracentesis). Clinical trajectories and outcome...",
-        "pmid": "41851602",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41851602/",
-        "doiUrl": "https://doi.org/10.1111/liv.70598",
-        "url": "https://doi.org/10.1111/liv.70598"
-      },
-      {
-        "title": "Predicting hepatic decompensation using non-invasive tests in a contemporary multicentre cohort of patients with cACLD.",
-        "journal": "Journal of hepatology",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Jachs M, Thöne P, Odriozola A",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：NICER（通过振动控制瞬时弹性成像、血小板计数和 BMI 检测肝脏和脾脏硬度）和 ANTICIPATE±NASH 模型可预测代偿性晚期慢性肝病 (cACLD) 中具有临床意义的门脉高压 (CSPH)。 临床提示：本研究报告了 NICER 队列的后续数据，比较了 CSPH (CSPH-NITs) 和肝静脉压力梯度 (HVPG) 无创检测的预后效用。",
-        "abstract": "The NICER (liver and spleen stiffness by vibration-controlled transient elastography, platelet count, and BMI) and the ANTICIPATE±NASH models predict clinically significant portal hypertension (CSPH) in compensated advanced chronic liver disease (cACLD). This study reports follow-up data from the NICER cohort, comparing the prognostic utility of non-invasive tests for CSPH (CSPH-NITs) and hepatic venous pressure gradient (HVPG). Patients with Child-Turcotte-Pugh A cACLD (liver stiffness ≥10 kPa and/or F3/4) from 16 European centres undergoing paired HVPG and CSPH-NIT assessment between 2020-2023 were included and followed until incident hepatic decompensation, hepatocellular carcinoma, death...",
-        "pmid": "41192692",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41192692/",
-        "doiUrl": "https://doi.org/10.1016/j.jhep.2025.10.019",
-        "url": "https://doi.org/10.1016/j.jhep.2025.10.019"
-      },
-      {
-        "title": "Hepatic Outcomes in Lean Versus Nonlean Metabolic Dysfunction-Associated Steatotic Liver Disease: Propensity-Matched Cohort Study.",
-        "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
+        "title": "Efficacy of combined laparoscopic hepatectomy and splenic artery ligation for hepatocellular carcinoma with portal hypertension.",
+        "journal": "Surgery today",
         "pubDate": "2026 Mar 19",
         "studyType": "Journal Article",
-        "authors": "Chowdhary R, Goyal MK, Vuthaluru AR",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：瘦代谢功能障碍相关的脂肪肝病 (MASLD) 越来越受到人们的重视；然而，其相对于肥胖 MASLD 的长期肝脏风险仍然难以捉摸。 临床提示：这项研究评估了进展性肝脏结果的不同风险，并确定了瘦表型内不良结果的预测因素。",
-        "abstract": "Lean metabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly recognized; however, its long-term hepatic risk relative to obese MASLD remains elusive. This study evaluated differential risk of progressive hepatic outcomes and identified predictors of adverse outcomes within the lean phenotype. A large, multicenter retrospective cohort study was conducted using the TriNetX Global Health Research Network, including adults with noncirrhotic MASLD between 2010 and 2024. Lean MASLD was defined as the body mass index (BMI) < 25 kg/m 2 . Primary analyses compared lean versus nonlean MASLD (BMI ≥ 25 kg/m 2 ), with a prespecified secondary analysis comparing lean versus obese ...",
-        "pmid": "41855102",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41855102/",
-        "doiUrl": "https://doi.org/10.1111/hepr.70158",
-        "url": "https://doi.org/10.1111/hepr.70158"
+        "authors": "Xu S, Zhang M, Wang L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：腹腔镜肝切除联合脾动脉结扎术治疗肝细胞癌合并门静脉高压症的疗效观察",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41854742",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41854742/",
+        "doiUrl": "https://doi.org/10.1007/s00595-026-03282-4",
+        "url": "https://doi.org/10.1007/s00595-026-03282-4"
+      },
+      {
+        "title": "Differentiating Between Pancreatic Adenosquamous Carcinoma and Pancreatic Ductal Adenocarcinoma Using Computed Tomography.",
+        "journal": "Canadian Association of Radiologists journal = Journal l'Association canadienne des radiologistes",
+        "pubDate": "2026 Mar 18",
+        "studyType": "Journal Article",
+        "authors": "Alkatheeri M, Barat M, Moyne T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 42）。核心观点：确定有助于区分胰腺腺鳞癌 (PASC) 和胰腺导管腺癌 (PDAC) 的 CT 特征。 临床提示：由 2 名独立读者分析了 42 名 PASC 患者的 CT 检查结果，并与 42 名 PDAC 患者的 CT 检查结果进行了比较。",
+        "abstract": "To identify CT features that may help discriminate between pancreatic adenosquamous carcinoma (PASC) and pancreatic ductal adenocarcinoma (PDAC). CT examinations of 42 patients with PASC were analyzed by 2 independent readers and compared to those obtained in 42 patients with PDAC. Sensitivity, specificity, and accuracy of each variable for diagnosing PASC versus PDAC were calculated. Associations between variables and PASC were examined using univariable and multivariable analyses. A CT signature was developed to distinguish PASC from PDAC. PASC presented as single (100%), oval (93%), and heterogeneously enhancing (98%) pancreatic mass with a mean largest diameter of 46.2 ± 18.5 mm, vessel ...",
+        "pmid": "41852046",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852046/",
+        "doiUrl": "https://doi.org/10.1177/08465371261426959",
+        "url": "https://doi.org/10.1177/08465371261426959"
+      },
+      {
+        "title": "Long-term outcomes and bleeding risk factors in pancreatic portal hypertension: a retrospective cohort study.",
+        "journal": "BMC gastroenterology",
+        "pubDate": "2026 Mar 18",
+        "studyType": "Journal Article",
+        "authors": "Zhang Y, Yin K, Pan Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：胰腺性门静脉高压症的长期结局和出血危险因素：一项回顾性队列研究。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41851678",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41851678/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-04700-0",
+        "url": "https://doi.org/10.1186/s12876-026-04700-0"
+      },
+      {
+        "title": "Follow-up of jaundice-free biliary atresia survivors using M2BPGi and APRI in a local hospital.",
+        "journal": "World journal of pediatric surgery",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Shirai T, Okuya S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在资源有限地区缺乏肝移植（LT）中心的当地医院，重要的是检测具有天然肝脏的无黄疸胆道闭锁（BA）幸存者的肝损伤和门静脉高压的早期预警信号。 临床提示：使用血清 Mac-2 结合蛋白糖基化异构体 (M2BPGi) 和天冬氨酸转氨酶与血小板比率对 6 名 BA 幸存者的 23 份血液样本和评分（Child-Pugh 评分 5 分）进行了评估。",
+        "abstract": "In local hospitals with resource-limited regions lacking access to liver transplantation (LT) centers, it is important to detect early warning signs of liver damage and portal hypertension in jaundice-free biliary atresia (BA) survivors with native livers. Twenty-three blood samples and scorings from six BA survivors (Child-Pugh score 5 points) were evaluated using serum Mac-2 binding protein glycosylation isomer (M2BPGi) and aspartate aminotransferase to platelet ratio index (APRI) at a local hospital. The levels of M2BPGi and APRI were positively correlated ( r =0.93, p <0.001), and these also correlated with liver biochemistry. In cases with signs of portal hypertension, such as varices a...",
+        "pmid": "41853388",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41853388/",
+        "doiUrl": "https://doi.org/10.1136/wjps-2025-001156",
+        "url": "https://doi.org/10.1136/wjps-2025-001156"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "内塔尼亚胡称以色列“单独行动”袭击伊朗天然气田",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡称以色列“单独行动”袭击伊朗天然气田”。核心要点：这位以色列领导人在新闻发布会上表示，特朗普已要求不再发生此类袭击。",
+        "titleZh": "新分析显示，伊朗对美国使用的基地的袭击造成了 8 亿美元的损失",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“新分析显示，伊朗对美国使用的基地的袭击造成了 8 亿美元的损失”。核心要点：大部分损失是在美国和以色列发起行动一周后伊朗发起的最初报复性袭击造成的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 22:41:40 GMT",
-        "url": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 22:34:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "近100艘船只通过霍尔木兹海峡——谁通过了？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“近100艘船只通过霍尔木兹海峡——谁通过了？”。核心要点：根据 BBC verify 分析的数据，自 3 月初以来，已有不到 100 艘船只通过霍尔木兹海峡。",
+        "titleZh": "由于天然气价格飙升，美国取消了对部分伊朗石油的制裁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于天然气价格飙升，美国取消了对部分伊朗石油的制裁”。核心要点：财政部长表示，此举将迅速为全球市场带来约1.4亿桶石油。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 00:04:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国考虑解除对部分伊朗石油的制裁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国考虑解除对部分伊朗石油的制裁”。核心要点：财政部长斯科特·贝森特提议放弃对海上石油的制裁，这将是对美国长期政策的惊人逆转。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 19:55:51 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 23:52:54 GMT",
         "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "报道称，如果美国入侵，丹麦计划炸毁格陵兰岛跑道",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“报道称，如果美国入侵，丹麦计划炸毁格陵兰岛跑道”。核心要点：丹麦公共广播公司报道称，美国抓捕委内瑞拉领导人的行动引发了人们对美国将对格陵兰岛采取行动的担忧。",
+        "titleZh": "乌克兰-匈牙利石油管道争端威胁欧盟贷款",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰-匈牙利石油管道争端威胁欧盟贷款”。核心要点：基辅和布达佩斯对于俄罗斯轰炸的乌克兰西部一个枢纽的严重程度存在分歧，因为该枢纽的石油供应仍然暂停。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 21:52:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 20:16:29 GMT",
+        "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "因伊朗反政府抗议活动首批被处决的青少年之一",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“因伊朗反政府抗议活动首批被处决的青少年之一”。核心要点：官方媒体称，伊朗国家摔跤队成员萨利赫·穆罕默迪因与另外两名男子一起杀害警察而被判有罪。",
+        "titleZh": "社会党在法国各地关键市长选举中力争保住巴黎",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“社会党在法国各地关键市长选举中力争保住巴黎”。核心要点：伊曼纽尔·格雷瓜尔面临着民意调查中落后的右翼拉奇达·达蒂的挑战。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 22:07:17 GMT",
-        "url": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Mar 2026 01:03:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "陪审团发现埃隆·马斯克误导了 Twitter 投资者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“陪审团发现埃隆·马斯克误导了 Twitter 投资者”。核心要点：旧金山陪审团得出结论，马斯克在 2022 年的言论对 Twitter 投资者群体造成了损害。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 20 Mar 2026 23:44:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "伊朗战争的全球赢家和输家",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争的全球赢家和输家”。核心要点：由于冲突引发经济混乱，一些人可能会受到严重打击，而另一些人则可能受益。",
+        "titleZh": "在家工作、长期租约和停车应用程序的兴起——NCP 出了什么问题",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“在家工作、长期租约和停车应用程序的兴起——NCP 出了什么问题”。核心要点：一家每天停车费高达 65 英镑的公司怎么可能无法盈利呢？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 00:08:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Mar 2026 01:59:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cgl5rwgr5l2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "费萨尔·伊斯兰：伊朗战争对英国经济产生巨大影响",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：伊朗战争对英国经济产生巨大影响”。核心要点：海湾战争的连锁反应超出了利率的控制范围，并将产生数月的影响。",
+        "titleZh": "全球机构敦促在家工作并放慢驾驶速度以节省能源",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“全球机构敦促在家工作并放慢驾驶速度以节省能源”。核心要点：国际能源署表示，人们应该改变旅行、工作和烹饪的方式来应对能源价格危机。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 16:21:28 GMT",
-        "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 15:05:03 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卡塔尔天然气中心遭受袭击后股市动荡，能源价格飙升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“卡塔尔天然气中心遭受袭击后股市动荡，能源价格飙升”。核心要点：在中东关键基础设施遭受新一轮罢工后，石油和天然气价格再次上涨。",
+        "titleZh": "英国借贷成本创2008年金融危机以来最高水平",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国借贷成本创2008年金融危机以来最高水平”。核心要点：专家表示，由于对通胀、利率和公共支出的担忧，政府债务利率正在攀升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 23:29:05 GMT",
-        "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 14:55:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如果伊朗战争价格“冲击”持续存在，银行准备加息",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“如果伊朗战争价格“冲击”持续存在，银行准备加息”。核心要点：伊朗战争促使借贷成本争论发生逆转后，政策制定者一致投票将利率维持在 3.75%。",
+        "titleZh": "7 月份典型能源费用预计每年上涨 332 英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“7 月份典型能源费用预计每年上涨 332 英镑”。核心要点：Cornwall Insight 表示，最近因伊朗战争而导致的能源价格飙升将推高家庭账单。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 15:44:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 13:22:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国考虑解除对部分伊朗石油的制裁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国考虑解除对部分伊朗石油的制裁”。核心要点：财政部长斯科特·贝森特提议放弃对海上石油的制裁，这将是对美国长期政策的惊人逆转。",
+        "titleZh": "特朗普支持的电视合并取得进展",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普支持的电视合并取得进展”。核心要点：批评者担心合并将增加当地新闻面临的压力并降低报道质量。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Mar 2026 19:55:51 GMT",
-        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Mar 2026 15:19:29 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
