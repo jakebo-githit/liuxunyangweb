@@ -1,103 +1,50 @@
 {
-  "updatedAt": "2026-03-21T03:29:47.912Z",
+  "updatedAt": "2026-03-22T03:46:06.347Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Efficacy of combined laparoscopic hepatectomy and splenic artery ligation for hepatocellular carcinoma with portal hypertension.",
-        "journal": "Surgery today",
-        "pubDate": "2026 Mar 19",
-        "studyType": "Journal Article",
-        "authors": "Xu S, Zhang M, Wang L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：腹腔镜肝切除联合脾动脉结扎术治疗肝细胞癌合并门静脉高压症的疗效观察",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41854742",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41854742/",
-        "doiUrl": "https://doi.org/10.1007/s00595-026-03282-4",
-        "url": "https://doi.org/10.1007/s00595-026-03282-4"
-      },
-      {
-        "title": "Differentiating Between Pancreatic Adenosquamous Carcinoma and Pancreatic Ductal Adenocarcinoma Using Computed Tomography.",
-        "journal": "Canadian Association of Radiologists journal = Journal l'Association canadienne des radiologistes",
-        "pubDate": "2026 Mar 18",
-        "studyType": "Journal Article",
-        "authors": "Alkatheeri M, Barat M, Moyne T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 42）。核心观点：确定有助于区分胰腺腺鳞癌 (PASC) 和胰腺导管腺癌 (PDAC) 的 CT 特征。 临床提示：由 2 名独立读者分析了 42 名 PASC 患者的 CT 检查结果，并与 42 名 PDAC 患者的 CT 检查结果进行了比较。",
-        "abstract": "To identify CT features that may help discriminate between pancreatic adenosquamous carcinoma (PASC) and pancreatic ductal adenocarcinoma (PDAC). CT examinations of 42 patients with PASC were analyzed by 2 independent readers and compared to those obtained in 42 patients with PDAC. Sensitivity, specificity, and accuracy of each variable for diagnosing PASC versus PDAC were calculated. Associations between variables and PASC were examined using univariable and multivariable analyses. A CT signature was developed to distinguish PASC from PDAC. PASC presented as single (100%), oval (93%), and heterogeneously enhancing (98%) pancreatic mass with a mean largest diameter of 46.2 ± 18.5 mm, vessel ...",
-        "pmid": "41852046",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41852046/",
-        "doiUrl": "https://doi.org/10.1177/08465371261426959",
-        "url": "https://doi.org/10.1177/08465371261426959"
-      },
-      {
-        "title": "Long-term outcomes and bleeding risk factors in pancreatic portal hypertension: a retrospective cohort study.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 Mar 18",
-        "studyType": "Journal Article",
-        "authors": "Zhang Y, Yin K, Pan Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：胰腺性门静脉高压症的长期结局和出血危险因素：一项回顾性队列研究。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41851678",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41851678/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-04700-0",
-        "url": "https://doi.org/10.1186/s12876-026-04700-0"
-      },
-      {
-        "title": "Follow-up of jaundice-free biliary atresia survivors using M2BPGi and APRI in a local hospital.",
-        "journal": "World journal of pediatric surgery",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Shirai T, Okuya S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在资源有限地区缺乏肝移植（LT）中心的当地医院，重要的是检测具有天然肝脏的无黄疸胆道闭锁（BA）幸存者的肝损伤和门静脉高压的早期预警信号。 临床提示：使用血清 Mac-2 结合蛋白糖基化异构体 (M2BPGi) 和天冬氨酸转氨酶与血小板比率对 6 名 BA 幸存者的 23 份血液样本和评分（Child-Pugh 评分 5 分）进行了评估。",
-        "abstract": "In local hospitals with resource-limited regions lacking access to liver transplantation (LT) centers, it is important to detect early warning signs of liver damage and portal hypertension in jaundice-free biliary atresia (BA) survivors with native livers. Twenty-three blood samples and scorings from six BA survivors (Child-Pugh score 5 points) were evaluated using serum Mac-2 binding protein glycosylation isomer (M2BPGi) and aspartate aminotransferase to platelet ratio index (APRI) at a local hospital. The levels of M2BPGi and APRI were positively correlated ( r =0.93, p <0.001), and these also correlated with liver biochemistry. In cases with signs of portal hypertension, such as varices a...",
-        "pmid": "41853388",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41853388/",
-        "doiUrl": "https://doi.org/10.1136/wjps-2025-001156",
-        "url": "https://doi.org/10.1136/wjps-2025-001156"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "新分析显示，伊朗对美国使用的基地的袭击造成了 8 亿美元的损失",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“新分析显示，伊朗对美国使用的基地的袭击造成了 8 亿美元的损失”。核心要点：大部分损失是在美国和以色列发起行动一周后伊朗发起的最初报复性袭击造成的。",
+        "titleZh": "德黑兰称其地点是目标后，伊朗袭击了以色列核设施附近",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“德黑兰称其地点是目标后，伊朗袭击了以色列核设施附近”。核心要点：国际原子能机构负责人呼吁在袭击发生后保持“最大限度的军事克制”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 22:34:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Mar 2026 23:01:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于天然气价格飙升，美国取消了对部分伊朗石油的制裁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于天然气价格飙升，美国取消了对部分伊朗石油的制裁”。核心要点：财政部长表示，此举将迅速为全球市场带来约1.4亿桶石油。",
+        "titleZh": "美国权衡伊朗问题的艰难选择，特朗普正处于十字路口",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国权衡伊朗问题的艰难选择，特朗普正处于十字路口”。核心要点：特朗普总统关于战争即将结束的声明与当地的现实不符。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 23:52:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 00:50:43 GMT",
+        "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰-匈牙利石油管道争端威胁欧盟贷款",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰-匈牙利石油管道争端威胁欧盟贷款”。核心要点：基辅和布达佩斯对于俄罗斯轰炸的乌克兰西部一个枢纽的严重程度存在分歧，因为该枢纽的石油供应仍然暂停。",
+        "titleZh": "古巴一周内第二次全国停电",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“古巴一周内第二次全国停电”。核心要点：其电网再次全面瘫痪，凸显了古巴在美国实施的燃料封锁下所面临的困难。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 20:16:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 02:02:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "社会党在法国各地关键市长选举中力争保住巴黎",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“社会党在法国各地关键市长选举中力争保住巴黎”。核心要点：伊曼纽尔·格雷瓜尔面临着民意调查中落后的右翼拉奇达·达蒂的挑战。",
+        "titleZh": "领导特朗普通俄调查的前联邦调查局局长罗伯特·穆勒去世，享年 81 岁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“领导特朗普通俄调查的前联邦调查局局长罗伯特·穆勒去世，享年 81 岁”。核心要点：前联邦调查局局长穆勒领导了对俄罗斯涉嫌干预 2016 年美国大选的高调调查",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Mar 2026 01:03:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 01:04:57 GMT",
+        "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "陪审团发现埃隆·马斯克误导了 Twitter 投资者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“陪审团发现埃隆·马斯克误导了 Twitter 投资者”。核心要点：旧金山陪审团得出结论，马斯克在 2022 年的言论对 Twitter 投资者群体造成了损害。",
+        "titleZh": "官员称，在美国会谈之前，俄罗斯无人机袭击乌克兰造成两人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，在美国会谈之前，俄罗斯无人机袭击乌克兰造成两人死亡”。核心要点：两名分别为 11 岁和 15 岁的儿童也在扎波罗热发生的袭击中受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 23:44:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 21 Mar 2026 19:39:57 GMT",
+        "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
