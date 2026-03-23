@@ -1,92 +1,132 @@
 {
-  "updatedAt": "2026-03-22T03:46:06.347Z",
+  "updatedAt": "2026-03-23T03:51:37.071Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Incidental splenic artery aneurysms: systematic literature review and single-centre study.",
+        "journal": "Clinical radiology",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article / Systematic Review",
+        "authors": "Lee RJ, Tong E, Alderson J",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：我们将系统文献综述（2000-2025）与当地单中心回顾性队列相结合，评估偶发性脾动脉瘤的自然史、生长预测因素和破裂风险。 临床提示：脾动脉瘤（SAA）的自然病程和最佳治疗仍不确定。",
+        "abstract": "The natural history and optimal management of splenic artery aneurysms (SAAs) remain uncertain. We combined a systematic literature review (2000-2025) with a local single-centre retrospective cohort to evaluate the natural history, predictors of growth, and rupture risk of incidental splenic artery aneurysms. A systematic review of 5 databases (2000-2025) identified longitudinal studies of true SAAs and were quality assessed. A parallel local retrospective cohort of untreated SAA diagnosed on computed tomography (CT) (2008-2023) was analysed. Demographic, imaging, and clinical factors were examined for associations with growth and rupture. Eight studies plus our local cohort yielded 1774 SAA...",
+        "pmid": "41723917",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41723917/",
+        "doiUrl": "https://doi.org/10.1016/j.crad.2026.107258",
+        "url": "https://doi.org/10.1016/j.crad.2026.107258"
+      },
+      {
+        "title": "Clinical and hemodynamic evaluation of schistosomiasis-associated pulmonary arterial hypertension from Egyptian pulmonary hypertension centers: epidemiology, risk factors, and survival determinants.",
+        "journal": "Scientific reports",
+        "pubDate": "2026 Mar 21",
+        "studyType": "Journal Article",
+        "authors": "Soliman YMA, El-Kassas M, ElAziz AA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 83）。核心观点：血吸虫病相关的 PAH (Sch-PAH) 属于 I 类肺动脉高压，影响着 2.3 亿人，主要分布在撒哈拉以南非洲地区。 临床提示：这一重大负担促使人们对 Sch-PAH 的临床特征和结果进行研究，以提高认识和管理，特别是在发展中地区。",
+        "abstract": "Schistosomiasis-associated PAH (Sch-PAH) falls under group I pulmonary hypertension and it affects 230 million people, mainly in sub-Saharan Africa. This significant burden has prompted studies on the clinical characteristics and outcomes of Sch-PAH to improve awareness and management, particularly in developing regions. This study investigates the characteristics of Sch-PAH, including demographics, clinical and hemodynamic features, and survival outcomes compared to idiopathic Pulmonary arterial hypertension (IPAH), while evaluating the prognosis and current clinical practices. A cohort of 83 patients, including 41 with Sch-PAH and 42 with IPAH, were studied retrospectively over five years ...",
+        "pmid": "41865030",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41865030/",
+        "doiUrl": "https://doi.org/10.1038/s41598-026-41412-7",
+        "url": "https://doi.org/10.1038/s41598-026-41412-7"
+      },
+      {
+        "title": "Rheumatic Heart Disease Is Not Over: Cardiac Cirrhosis and Multivalvular Sequelae in an Endemic Setting - A Case Series and Review.",
+        "journal": "Current problems in cardiology",
+        "pubDate": "2026 Mar 19",
+        "studyType": "Journal Article / Review",
+        "authors": "Sethi Y, Yadav ND, Singhal S",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：尽管高收入国家的发病率有所下降，但风湿性心脏病（RHD）仍然是流行地区瓣膜病发病的主要原因。 临床提示：虽然早期疾病表现为急性风湿热，但当代的表现越来越多地反映出晚期结构性后遗症。",
+        "abstract": "Rheumatic Heart Disease (RHD) remains a major cause of valvular morbidity in endemic regions despite declining incidence in high-income countries. While early disease manifests as acute rheumatic fever, contemporary presentations increasingly reflect advanced structural sequelae. Congestive hepatopathy and cardiac cirrhosis secondary to chronic right-sided failure remain under-recognized manifestations of advanced rheumatic valvular disease. To describe three cases of advanced rheumatic multivalvular disease presenting predominantly with ascites and hepatic congestion and to integrate these observations with current literature on pulmonary hypertension, right ventricular remodeling, and card...",
+        "pmid": "41864251",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41864251/",
+        "doiUrl": "https://doi.org/10.1016/j.cpcardiol.2026.103329",
+        "url": "https://doi.org/10.1016/j.cpcardiol.2026.103329"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "德黑兰称其地点是目标后，伊朗袭击了以色列核设施附近",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“德黑兰称其地点是目标后，伊朗袭击了以色列核设施附近”。核心要点：国际原子能机构负责人呼吁在袭击发生后保持“最大限度的军事克制”。",
+        "titleZh": "以色列定居者以被占领的约旦河西岸的巴勒斯坦村庄为目标，袭击人员和财产",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列定居者以被占领的约旦河西岸的巴勒斯坦村庄为目标，袭击人员和财产”。核心要点：据报道，18 岁的定居者耶胡达·谢尔曼 (Yehuda Sherman) 在骑四轮摩托车时被巴勒斯坦人驾驶的车辆撞死，随后发生了暴力事件。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Mar 2026 23:01:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 22:38:24 GMT",
+        "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国权衡伊朗问题的艰难选择，特朗普正处于十字路口",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国权衡伊朗问题的艰难选择，特朗普正处于十字路口”。核心要点：特朗普总统关于战争即将结束的声明与当地的现实不符。",
+        "titleZh": "以色列扩大对黎巴嫩真主党的地面和空中攻击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列扩大对黎巴嫩真主党的地面和空中攻击”。核心要点：黎巴嫩担心以色列正在准备大规模地面入侵。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Mar 2026 00:50:43 GMT",
-        "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 20:23:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "法国社会党在主要城市继续掌权，以推动主流选举",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国社会党在主要城市继续掌权，以推动主流选举”。核心要点：巴黎和马赛的地方选举由社会党掌控，民族主义右翼在尼斯和某些城镇获胜。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 22 Mar 2026 23:27:59 GMT",
+        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "在乌克兰为俄罗斯非法作战的肯尼亚人将获得大赦",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在乌克兰为俄罗斯非法作战的肯尼亚人将获得大赦”。核心要点：肯尼亚人在外国军队服役是违法的，最高可判处 10 年监禁。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 22 Mar 2026 19:05:30 GMT",
+        "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "古巴一周内第二次全国停电",
         "summaryZh": "这是一条世界时事新闻，重点围绕“古巴一周内第二次全国停电”。核心要点：其电网再次全面瘫痪，凸显了古巴在美国实施的燃料封锁下所面临的困难。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Mar 2026 02:02:40 GMT",
+        "publishedAt": "Sun, 22 Mar 2026 21:31:41 GMT",
         "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "领导特朗普通俄调查的前联邦调查局局长罗伯特·穆勒去世，享年 81 岁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“领导特朗普通俄调查的前联邦调查局局长罗伯特·穆勒去世，享年 81 岁”。核心要点：前联邦调查局局长穆勒领导了对俄罗斯涉嫌干预 2016 年美国大选的高调调查",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 22 Mar 2026 01:04:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "官员称，在美国会谈之前，俄罗斯无人机袭击乌克兰造成两人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，在美国会谈之前，俄罗斯无人机袭击乌克兰造成两人死亡”。核心要点：两名分别为 11 岁和 15 岁的儿童也在扎波罗热发生的袭击中受伤。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 21 Mar 2026 19:39:57 GMT",
-        "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "在家工作、长期租约和停车应用程序的兴起——NCP 出了什么问题",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“在家工作、长期租约和停车应用程序的兴起——NCP 出了什么问题”。核心要点：一家每天停车费高达 65 英镑的公司怎么可能无法盈利呢？",
+        "titleZh": "呼吁取消因不缴纳市政税而被监禁的威胁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“呼吁取消因不缴纳市政税而被监禁的威胁”。核心要点：债务慈善机构 StepChange 表示，在追缴未缴税款时，各议会之间存在明显差异。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 21 Mar 2026 01:59:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cgl5rwgr5l2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Mar 2026 00:02:52 GMT",
+        "url": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "全球机构敦促在家工作并放慢驾驶速度以节省能源",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“全球机构敦促在家工作并放慢驾驶速度以节省能源”。核心要点：国际能源署表示，人们应该改变旅行、工作和烹饪的方式来应对能源价格危机。",
+        "titleZh": "美国和伊朗威胁加剧战争，亚洲股市下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国和伊朗威胁加剧战争，亚洲股市下跌”。核心要点：国际能源署署长表示，这场战争可能导致世界几十年来最严重的能源危机。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 15:05:03 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Mar 2026 03:00:32 GMT",
+        "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国借贷成本创2008年金融危机以来最高水平",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国借贷成本创2008年金融危机以来最高水平”。核心要点：专家表示，由于对通胀、利率和公共支出的担忧，政府债务利率正在攀升。",
+        "titleZh": "热泵对我有用 - 但它们还不能省钱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“热泵对我有用 - 但它们还不能省钱”。核心要点：政府希望英国人接受热泵。但它们对普通用户来说有经济意义吗？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 14:55:02 GMT",
-        "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Mar 2026 00:04:45 GMT",
+        "url": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "7 月份典型能源费用预计每年上涨 332 英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“7 月份典型能源费用预计每年上涨 332 英镑”。核心要点：Cornwall Insight 表示，最近因伊朗战争而导致的能源价格飙升将推高家庭账单。",
+        "titleZh": "英国天然气公司老板表示，如果油价保持高位，能源费用上涨“不可避免”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国天然气公司老板表示，如果油价保持高位，能源费用上涨“不可避免””。核心要点：Centrica 的老板表示，现在猜测还“为时过早”，但如果石油成本继续上涨，房屋将受到打击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 13:22:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 12:52:56 GMT",
+        "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普支持的电视合并取得进展",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普支持的电视合并取得进展”。核心要点：批评者担心合并将增加当地新闻面临的压力并降低报道质量。",
+        "titleZh": "“没有宿醉的俱乐部氛围”：二十多岁的年轻人外出——在健身房",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““没有宿醉的俱乐部氛围”：二十多岁的年轻人外出——在健身房”。核心要点：随着越来越多的健身空间变成充满活力的聚会场所，年轻人正在推动健身热潮。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 20 Mar 2026 15:19:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2dndp7z12o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 22 Mar 2026 00:56:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
