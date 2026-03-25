@@ -1,145 +1,159 @@
 {
-  "updatedAt": "2026-03-24T03:43:00.671Z",
+  "updatedAt": "2026-03-25T03:45:49.215Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Novel protein biomarkers for risk stratification and personalized medicine.",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "pubDate": "2026 Mar 24",
+        "studyType": "Journal Article",
+        "authors": "Moedt E, Ju W, Nair V",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：尿簇蛋白和表皮生长因子（uEGF）分别与肾小管损伤和修复相关，并且可以作为机制知情的药效生物标志物。 临床提示：蛋白尿广泛用于监测慢性肾脏病 (CKD) 和治疗反应，但存在变异性，主要反映肾小球损伤。",
+        "abstract": "Albuminuria is widely used to monitor chronic kidney disease (CKD) and treatment response but is subject to variability and primarily reflects glomerular injury. Urinary clusterin and epidermal growth factor (uEGF) are associated with tubular injury and repair, respectively, and may serve as mechanism-informed pharmacodynamic biomarkers. We investigated responses of urinary clusterin and uEGF to endothelin receptor antagonists (ERA) and sodium-glucose cotransporter 2 inhibitors (SGLT2i), respectively, in CKD. We evaluated changes in urinary clusterin-to-creatinine ratio (uCLU/Cr) and uEGF-to-creatinine ratio (uEGF/Cr) in two randomized CKD trial populations. Effects of ERA on uCLU/Cr and end...",
+        "pmid": "41874429",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41874429/",
+        "doiUrl": "https://doi.org/10.1093/ndt/gfag068",
+        "url": "https://doi.org/10.1093/ndt/gfag068"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Prognostic Performance of Phosphatidylethanol With Noninvasive Liver Fibrosis Tests in Alcohol-Related Liver Disease.",
-        "journal": "Gastroenterology",
+        "title": "Challenges in the management of vascular liver disorders in women in the reproductive period.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
         "pubDate": "2026 Apr",
-        "studyType": "Journal Article",
-        "authors": "Torp N, Johansen S, Jensen EL",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们研究了 PEth 与无创肝纤维化测试 (NIT) 的预后性能，以预测酒精相关肝病 (ALD) 高危人群的肝功能失代偿。 临床提示：酒精是肝脏相关死亡率的一个关键驱动因素，而磷脂酰乙醇 (PEth) 是酒精摄入量的直接生物标志物。",
-        "abstract": "Alcohol is a key driver of liver-related mortality, and phosphatidylethanol (PEth) is a direct biomarker of alcohol intake. We investigated the prognostic performance of PEth with noninvasive liver fibrosis tests (NITs) for predicting hepatic decompensation in an alcohol-related liver disease (ALD) at-risk population. Prospective cohort study with 411 at risk of ALD without prior known chronic liver disease of whom 162 had a follow-up PEth. PEth was measured from whole blood by liquid chromatography-mass spectrometry. PEth, self-reported alcohol intake, and 3 NITs: enhanced liver fibrosis (ELF) test, an algorithm incorporating PRO-C3 (ADAPT), and transient elastography (TE) were assessed at ...",
-        "pmid": "41427910",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41427910/",
-        "doiUrl": "https://doi.org/10.1053/j.gastro.2025.10.005",
-        "url": "https://doi.org/10.1053/j.gastro.2025.10.005"
+        "studyType": "Journal Article / Review",
+        "authors": "Biswas S, Madhusudhan KS, Shalimar",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：它们通常与遗传性或获得性血栓形成倾向有关。 临床提示：这些疾病可能通过改变月经周期影响女性的生殖健康并影响生育能力。",
+        "abstract": "Vascular liver diseases (VLD) are a heterogeneous cohort of uncommon hepatic diseases which affect individuals particularly in the reproductive age group. They are typically associated with inherited or acquired thrombophilia. These diseases may influence reproductive health in women through alteration of the menstrual cycle and impact fertility. Pregnancy in this patient group may be complicated by exacerbation of portal hypertension, maternal and fetal complications due to underlying liver disease or drugs used for its management. This review focuses on the known risk factors of VLD in women, along with their prevalence and management. Special situations such as impact and use of anti-coag...",
+        "pmid": "41546821",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41546821/",
+        "doiUrl": "https://doi.org/10.1007/s12664-025-01899-w",
+        "url": "https://doi.org/10.1007/s12664-025-01899-w"
       },
       {
-        "title": "Prevalence and Clinical Outcomes of Recompensation in Decompensated Cirrhosis: A Systematic Review and Meta-Analysis.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Systematic Review / Meta-Analysis",
-        "authors": "Goh XE, Goh MX, Chen VL",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 9063）。核心观点：失代偿性肝硬化患者的再代偿发生率和临床结果仍不清楚。 临床提示：我们的目的是确定实现再代偿的失代偿患者的患病率和临床结果。",
-        "abstract": "The prevalence and clinical outcomes of recompensation in patients with decompensated cirrhosis remain unclear. We aimed to determine the prevalence and clinical outcomes among decompensated patients who achieve recompensation. We systematically searched PubMed and EMBASE from inception until July 15, 2025. We included studies reporting on decompensated cirrhosis patients achieving recompensation to evaluate the clinical outcomes, specifically hepatocellular carcinoma (HCC), death, liver-related death, and liver transplantation, with those who did not recompensate. A total of 27 studies encompassing 9063 patients with decompensated cirrhosis were analyzed. The overall pooled prevalence of re...",
-        "pmid": "40848912",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40848912/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.08.010",
-        "url": "https://doi.org/10.1016/j.cgh.2025.08.010"
-      },
-      {
-        "title": "Course of Portal Hypertension and Applicability of Noninvasive Tests After Recompensation in Alcohol-related Cirrhosis.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "title": "Non-selective beta blockers are well tolerated in pregnancy with portal hypertension.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
         "pubDate": "2026 Apr",
         "studyType": "Journal Article",
-        "authors": "Hofer BS, Semmler G, Simbrunner B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：门脉高压的病程和酒精相关性肝硬化再补偿后无创测试的适用性。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "40714382",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40714382/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.07.021",
-        "url": "https://doi.org/10.1016/j.cgh.2025.07.021"
+        "authors": "Alexander V, John A, Benjamin S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 54）。核心观点：该研究旨在评估门静脉高压症的病程和非选择性β受体阻滞剂（NSBB）对门静脉高压症孕妇的安全性。 临床提示：这项回顾性研究纳入了孕前或怀孕期间诊断出患有门静脉高压（​​PHT）的孕妇。",
+        "abstract": "The study aimed at assessing the course of portal hypertension and safety of non-selective beta blockers (NSBB) in pregnant patients with portal hypertension. Pregnant women with portal hypertension (PHT), diagnosed preconceptionally or during pregnancy, were included in this retrospective study. Medical records were assessed for NSBB prescription, liver decompensation (ascites, variceal bleed, hepatic encephalopathy), overall and pregnancy-related outcomes. All outcomes were documented at discharge from the hospital. One-hundred thirty-four pregnancies in 93 patients (median age: 26, range [17-39 years]). The study included 54 primigravidas. Among the 93 patients, the etiology of portal hyp...",
+        "pmid": "41129039",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41129039/",
+        "doiUrl": "https://doi.org/10.1007/s12664-025-01876-3",
+        "url": "https://doi.org/10.1007/s12664-025-01876-3"
       },
       {
-        "title": "Hepatic histoplasmosis presenting as portal hypertension in an immunocompetent elderly male: A multidisciplinary case report.",
-        "journal": "Tropical doctor",
-        "pubDate": "2026 Mar 23",
+        "title": "Real-World Study of Management and Outcomes of Patients with Lysosomal Acid Lipase Deficiency (LAL-D) in France.",
+        "journal": "Advances in therapy",
+        "pubDate": "2026 Mar 24",
         "studyType": "Journal Article",
-        "authors": "Jyoti D, Singh P, Ghotekar LH",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：组织胞浆菌病由荚膜组织胞浆菌引起，是一种二形性真菌，通常流行于美洲、非洲和亚洲部分地区。 临床提示：吸入暴露主要导致肺部感染，肺外或孤立的肝脏感染很少见，特别是在免疫功能正常的个体中。",
-        "abstract": "Histoplasmosis, caused by Histoplasma capsulatum , is a dimorphic fungus typically endemic to parts of the Americas, Africa, and Asia. Inhalational exposure leads primarily to pulmonary infection, and extrapulmonary or isolated hepatic presentations are rare, particularly in immuno-competent individuals. We present an unusual case of hepatic histoplasmosis with no evident lung involvement, highlighting a diagnostic challenge and a rewarding pathologic discovery.",
-        "pmid": "41869804",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41869804/",
-        "doiUrl": "https://doi.org/10.1177/00494755261435267",
-        "url": "https://doi.org/10.1177/00494755261435267"
+        "authors": "Lacaille F, Marguet S, Rascon Velasco V",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 43）。核心观点：溶酶体酸性脂肪酶缺乏症（LAL-D）是一种罕见的遗传性溶酶体贮积病，导致器官和组织中脂质积聚。 临床提示：严重程度各异，从快速进展的婴儿型到不太严重的迟发型。",
+        "abstract": "Lysosomal acid lipase deficiency (LAL-D) is a rare inherited lysosomal storage disease leading to accumulation of lipids in organs and tissues. Severity varies from a rapidly progressive infantile form to a less severe, later-onset form. This study aimed to describe patients with LAL-D identified between 2007 and 2020, their treatment, and the burden of disease in France. A retrospective longitudinal study was conducted using nationwide claims data from the French National Health Data System (SNDS). Male and female patients were identified as having a diagnosis of LAL-D or having been administered sebelipase alfa, the only approved treatment. Of 43 patients with LAL-D identified, 17 and 26 h...",
+        "pmid": "41874849",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41874849/",
+        "doiUrl": "https://doi.org/10.1007/s12325-026-03510-w",
+        "url": "https://doi.org/10.1007/s12325-026-03510-w"
+      },
+      {
+        "title": "Primary sclerosing cholangitis.",
+        "journal": "Lancet (London, England)",
+        "pubDate": "2026 Mar 20",
+        "studyType": "Journal Article / Review",
+        "authors": "von Seth E, Karlsen TH, Tanaka A",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：50-80% 的原发性硬化性胆管炎患者同时患有炎症性肠病，并且肝胆癌和结直肠癌的风险增加。 临床提示：原发性硬化性胆管炎是一种罕见的慢性胆汁淤积性肝病，以胆道炎症和纤维化为特征。",
+        "abstract": "Primary sclerosing cholangitis is a rare, chronic cholestatic liver disease characterised by biliary inflammation and fibrosis. Inflammatory bowel disease co-occurs in 50-80% of individuals with primary sclerosing cholangitis and there is an increased risk for hepatobiliary and colorectal cancers. Primary sclerosing cholangitis presentation is highly variable but there is usually a slowly progressive fibrosis of the bile ducts with strictures, development of liver fibrosis and cirrhosis, and eventually a need for liver transplantation, after which primary sclerosing cholangitis can reoccur. Primary sclerosing cholangitis is diagnosed mostly at the asymptomatic stage but, as the disease advan...",
+        "pmid": "41871593",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41871593/",
+        "doiUrl": "https://doi.org/10.1016/S0140-6736(25)02582-6",
+        "url": "https://doi.org/10.1016/S0140-6736(25)02582-6"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普考虑与伊朗达成协议，最后通牒、外交和格雷斯兰之旅",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普考虑与伊朗达成协议，最后通牒、外交和格雷斯兰之旅”。核心要点：美国可能是一个处于战争状态的国家，但总统的活动是外交和消遣的混合体——偶尔会走向超现实。",
+        "titleZh": "金融巨头贝莱德老板表示，油价跌至 150 美元将引发全球衰退",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“金融巨头贝莱德老板表示，油价跌至 150 美元将引发全球衰退”。核心要点：拉里·芬克表示，如果油价持续保持高位，将对世界经济产生“深远影响”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Mar 2026 02:41:31 GMT",
-        "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Mar 2026 00:00:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“就像飞机被切成两半”：导致两名飞行员死亡的拉瓜迪亚空难目前正在调查中",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““就像飞机被切成两半”：导致两名飞行员死亡的拉瓜迪亚空难目前正在调查中”。核心要点：加拿大航空 AC8646 航班在纽约与消防车相撞后，美国交通部部长肖恩·达菲 (Sean Duffy) 强调安全带有助于拯救生命",
+        "titleZh": "伊朗战争表明国际冲突准则已被推翻",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争表明国际冲突准则已被推翻”。核心要点：美国对能源基础设施的威胁以及伊朗对其海湾邻国的报复，标志着明显的变化。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Mar 2026 21:13:47 GMT",
-        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Mar 2026 15:55:08 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "涉嫌俄罗斯在安哥拉引发反政府抗议活动的内部情况",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“涉嫌俄罗斯在安哥拉引发反政府抗议活动的内部情况”。核心要点：一群俄罗斯人和安哥拉人被指控煽动抗议活动，目前正在安哥拉接受审判，但他们否认这一点。",
+        "titleZh": "俄罗斯向乌克兰发射948架无人机，这是24小时内最大规模的袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯向乌克兰发射948架无人机，这是24小时内最大规模的袭击”。核心要点：乌克兰多座城市遭到袭击，当地官员报告称，至少八人死亡，数十人受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Mar 2026 00:18:10 GMT",
-        "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Mar 2026 21:47:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "哥伦比亚军机失事造成至少66人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚军机失事造成至少66人死亡”。核心要点：哥伦比亚国防部长称这是一起“悲惨事故”，但原因尚不清楚。",
+        "titleZh": "民主党翻转佛罗里达州席位，其中包括特朗普的海湖庄园",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“民主党翻转佛罗里达州席位，其中包括特朗普的海湖庄园”。核心要点：艾米丽·格雷戈里 (Emily Gregory) 预计将在一个立法选区获胜，共和党候选人将在 2024 年以 19 个百分点的优势获胜。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Mar 2026 02:52:21 GMT",
-        "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Mar 2026 03:36:08 GMT",
+        "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "公投失败让意大利的梅洛尼看起来更加脆弱",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“公投失败让意大利的梅洛尼看起来更加脆弱”。核心要点：梅洛尼在宪法改革投票失败后发誓要继续前进，许多投票都变成了对她的政府的全民公投。",
+        "titleZh": "伊朗战争燃料危机正在颠覆亚洲的日常生活",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争燃料危机正在颠覆亚洲的日常生活”。核心要点：亚洲严重依赖海湾地区的石油和天然气，短缺和价格上涨开始产生影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Mar 2026 20:25:32 GMT",
-        "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Mar 2026 17:12:50 GMT",
+        "url": "https://www.bbc.com/news/articles/c1450zj6n48o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "皇家邮政工作人员表示，他们被告知隐藏邮件，看起来像是达到了投递目标",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“皇家邮政工作人员表示，他们被告知隐藏邮件，看起来像是达到了投递目标”。核心要点：BBC 你的声音从邮政工作人员那里听到，他们说“拿走邮件搭车”是一个常见的短语。",
+        "titleZh": "金融巨头贝莱德老板表示，油价跌至 150 美元将引发全球衰退",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“金融巨头贝莱德老板表示，油价跌至 150 美元将引发全球衰退”。核心要点：拉里·芬克表示，如果油价持续保持高位，将对世界经济产生“深远影响”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Mar 2026 00:33:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Mar 2026 00:00:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "贸易机构表示，英国必须支持北海石油和天然气钻探",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“贸易机构表示，英国必须支持北海石油和天然气钻探”。核心要点：该组织表示，该国“迫切”需要生产自己的石油和天然气以确保供应。",
+        "titleZh": "特朗普谈论伊朗和平谈判，油价下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普谈论伊朗和平谈判，油价下跌”。核心要点：美国总统表示，正在与伊朗进行结束战争的谈判，但德黑兰官员对这一说法提出了异议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Mar 2026 00:31:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g8x7q4l8go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Mar 2026 03:35:01 GMT",
+        "url": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国禁止新的外国制造的消费者互联网路由器",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国禁止新的外国制造的消费者互联网路由器”。核心要点：美国几乎没有生产主要品牌的互联网路由器。",
+        "titleZh": "Meta 因在儿童安全问题上误导用户而被罚款 3.75 亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 因在儿童安全问题上误导用户而被罚款 3.75 亿美元”。核心要点：Instagram、Facebook 和 WhatsApp 的所有者已被新墨西哥州法院判定承担责任。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 24 Mar 2026 01:26:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Mar 2026 23:16:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为了省钱，HS2 列车的运行速度可能会比计划慢",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为了省钱，HS2 列车的运行速度可能会比计划慢”。核心要点：政府正在寻找方法，使延误严重的伦敦至伯明翰铁路线的运输成本降低。",
+        "titleZh": "“难以承受”：共享所有权的严酷现实",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““难以承受”：共享所有权的严酷现实”。核心要点：对于许多人来说，踏上房产阶梯的承诺已经变成了一场噩梦。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Mar 2026 16:39:09 GMT",
-        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 25 Mar 2026 01:23:06 GMT",
+        "url": "https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "化妆品巨头雅诗兰黛与 Jean Paul Gaultier 和 Rabanne 的所有者进行合并谈判",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“化妆品巨头雅诗兰黛与 Jean Paul Gaultier 和 Rabanne 的所有者进行合并谈判”。核心要点：这笔交易将创建一个全球美容巨头，联合 Tom Ford、Bobbi Brown 和 Rabanne 等品牌。",
+        "titleZh": "英国青少年将试行社交媒体禁令和数字宵禁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国青少年将试行社交媒体禁令和数字宵禁”。核心要点：政府将在尝试限制之前和之后采访年轻人及其父母，以评估其影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Mar 2026 21:37:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yvmd6k38ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Mar 2026 22:37:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
