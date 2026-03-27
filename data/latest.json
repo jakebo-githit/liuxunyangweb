@@ -1,119 +1,145 @@
 {
-  "updatedAt": "2026-03-26T04:05:29.117Z",
+  "updatedAt": "2026-03-27T04:06:04.239Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Alterations in the Gut Microbiota of Cirrhosis Patients with Sarcopenia and PH after TIPS.",
-        "journal": "Clinical and translational gastroenterology",
-        "pubDate": "2026 Mar 25",
-        "studyType": "Journal Article",
-        "authors": "Wang H, Cao Y, Zhang X",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：TIPS可以有效降低PH值，并可能与肌肉状态的改善有关；然而，它对肠道微生物群和肌肉状况的影响仍不清楚。 临床提示：因此，这项前瞻性研究旨在评估 TIPS 治疗后肌肉减少症和 PH 患者肠道微生物群的变化。",
-        "abstract": "TIPS can effectively reduce PH and may associated with improvement in muscle status; however, its impact on the gut microbiota and muscle condition remains unclear. Therefore, this prospective study aimed to evaluate gut microbiota alterations in patients with sarcopenia and PH following TIPS treatment. Gut microbiota analysis was prospectively conducted in 20 cirrhosis patients with sarcopenia and PH receiving TIPS and their first-degree healthy family between December 2019 and July 2021 in our center. Fecal samples were collected before and 3 months after TIPS and analyzed by 16S rRNA sequencing. Microbial diversity and composition were assessed using standard bioinformatic pipelines. Sarc...",
-        "pmid": "41879259",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41879259/",
-        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001021",
-        "url": "https://doi.org/10.14309/ctg.0000000000001021"
+        "title": "Clinical Impact and Therapeutic Management of Diabetes Mellitus in Patients With Decompensated Cirrhosis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article / Review",
+        "authors": "Lisi C, Robone ML, Bonomo M",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：糖尿病 (DM) 影响很大一部分肝硬化患者，其中代谢功能障碍相关脂肪肝病 (MASLD) 患者的患病率最高。 临床提示：在这种情况下，可能会发生经典 2 型糖尿病 (T2DM) 和继发于肝功能障碍的肝源性糖尿病。",
+        "abstract": "Diabetes mellitus (DM) affects a substantial proportion of individuals with cirrhosis, with the highest prevalence observed in those with metabolic dysfunction-associated steatotic liver disease (MASLD). Its frequency increases in parallel with declining hepatic function, irrespective of the underlying aetiology. In this setting, both classical type 2 diabetes mellitus (T2DM) and hepatogenous diabetes, which arises secondary to hepatic dysfunction, may occur. T2DM and insulin resistance play key roles in the pathogenesis of MASLD, in the progression of hepatic fibrosis, and in the onset of cirrhosis-related complications through mechanisms encompassing systemic inflammation, endothelial dysf...",
+        "pmid": "41885090",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41885090/",
+        "doiUrl": "https://doi.org/10.1111/liv.70597",
+        "url": "https://doi.org/10.1111/liv.70597"
       },
       {
-        "title": "Effective Management of Esophageal Variceal Hemorrhage Complicated by Ulcerative Reflux Esophagitis Using Over-the-Scope Clip (OTSC) Following Failed Band Ligation: A Case Report.",
-        "journal": "Zeitschrift fur Gastroenterologie",
-        "pubDate": "2026 Mar 24",
+        "title": "Systematic Review: Imaging-Based Morphological Criteria for Liver Cirrhosis-A Call to Standardise.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "pubDate": "2026 Mar 25",
+        "studyType": "Journal Article / Review",
+        "authors": "Lim MC, Quek EJW, Chan TYH",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化是慢性肝病的不可逆转的结构终点，也是肝细胞癌（HCC）的最大危险因素。 临床提示：尽管其在 HCC 管理算法中占据核心地位，但在横断面成像上诊断肝硬化还没有标准化的形态学标准。",
+        "abstract": "Cirrhosis is the irreversible architectural endpoint of chronic liver disease and is the greatest risk factor for hepatocellular carcinoma (HCC). Despite its centrality in HCC management algorithms, there are no standardised morphologic criteria for diagnosing cirrhosis on cross-sectional imaging. Criteria used in clinical studies and clinical practice guidelines have not been reviewed systematically. We aim to assess cross-sectional imaging criteria in clinical practice guidelines and clinical studies. We appraised clinical practice guidelines from major hepatology or radiological associations and conducted a systematic review of MEDLINE and EMBASE to identify original studies using ultraso...",
+        "pmid": "41882492",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41882492/",
+        "doiUrl": "https://doi.org/10.1111/apt.70629",
+        "url": "https://doi.org/10.1111/apt.70629"
+      },
+      {
+        "title": "Expert Practical Recommendations for Hepatocellular Carcinoma.",
+        "journal": "Seminars in liver disease",
+        "pubDate": "2026 Mar 25",
         "studyType": "Journal Article",
-        "authors": "Balanis T, Diaconu B, Tutuian R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：食管静脉曲张出血是门静脉高压症的严重并发症，通常需要立即进行内窥镜干预。 临床提示：我们介绍了一名 74 岁男性的病例，有肝硬化、食管静脉曲张病史，他因食管胃交界处的静脉曲张出现与血流动力学相关的出血和严重的反流。",
-        "abstract": "Esophageal variceal bleeding is a severe complication of portal hypertension, often requiring immediate endoscopic intervention. We present the case of a 74-year-old male with a history of liver cirrhosis, esophageal varices, who presented with a hemodynamically relevant hemorrhage from a varix at the esophagogastric junction and a severe reflux esophagitis. Initial endoscopic band ligation (EBL) within the ulcerative reflux esophagitis, failed due to disruption of the macerated tissue leading to active variceal bleeding. Salvage therapy with an over-the-scope clip (OTSC) was performed with successful hemostasis. The patient remained stable without recurrent bleeding. This case underscores t...",
-        "pmid": "41875918",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41875918/",
-        "doiUrl": "https://doi.org/10.1055/a-2814-8302",
-        "url": "https://doi.org/10.1055/a-2814-8302"
+        "authors": "Su F, Torres-Hernandez A, Hickey R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：过去十年，肝细胞癌 (HCC) 的临床治疗取得了显着进展。 临床提示：主要进展包括引入基于免疫的治疗方案，该方案现已成为全身治疗的基础。",
+        "abstract": "The clinical management of hepatocellular carcinoma (HCC) has evolved significantly over the past decade. Key advances include the introduction of immune-based treatment options, which now serve as the foundation for systemic therapies. Additionally, innovations in surgical techniques, such as robotic surgery, have broadened the scope of resection to include selected patients previously deemed unsuitable due to factors like tumor location or the presence of portal hypertension. HCC downstaging has also gained recognition as a viable strategy in appropriately selected patients, demonstrating outcomes comparable to those achieved under conventional listing criteria. Consequently, the managemen...",
+        "pmid": "41881053",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41881053/",
+        "doiUrl": "https://doi.org/10.1055/a-2832-4720",
+        "url": "https://doi.org/10.1055/a-2832-4720"
+      },
+      {
+        "title": "The Global Reading Room: Managing Hematemesis and Encephalopathy in a Patient With Portal Hypertension.",
+        "journal": "AJR. American journal of roentgenology",
+        "pubDate": "2026 Mar 25",
+        "studyType": "Journal Article",
+        "authors": "Crocetti L, Gaba RC, Ninalowo H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：全球阅览室：处理门脉高压患者的吐血和脑病。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "40632633",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40632633/",
+        "doiUrl": "https://doi.org/10.2214/AJR.25.33472",
+        "url": "https://doi.org/10.2214/AJR.25.33472"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "Meta 和 YouTube 在具有里程碑意义的社交媒体成瘾审判中被判负有责任",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“Meta 和 YouTube 在具有里程碑意义的社交媒体成瘾审判中被判负有责任”。核心要点：一名女性在一项判决中获得了 600 万美元的赔偿，该判决可能会对美国数百起其他案件产生影响。",
+        "titleZh": "泽伦斯基在提供乌克兰无人机专业知识后访问沙特阿拉伯",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基在提供乌克兰无人机专业知识后访问沙特阿拉伯”。核心要点：随着美国日益关注伊朗，乌克兰完成无人机交易变得更加紧迫。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Mar 2026 22:59:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 18:24:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "谁想从美伊和谈中得到什么以及为什么？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“谁想从美伊和谈中得到什么以及为什么？”。核心要点：双方之间存在间接接触和渠道，但距离达成协议可能还有很长的路要走。",
+        "titleZh": "配给电力和稀释汽油——非洲国家如何应对伊朗战争的影响",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“配给电力和稀释汽油——非洲国家如何应对伊朗战争的影响”。核心要点：石油供应中断已引起一些非洲国家的短缺和担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Mar 2026 21:37:34 GMT",
-        "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 17:57:41 GMT",
+        "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为动荡做好准备——长期的中东冲突如何重塑我们的飞行方式",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“为动荡做好准备——长期的中东冲突如何重塑我们的飞行方式”。核心要点：海湾地区的枢纽机场使长途旅行变得更加便宜，但现在它们的未来看起来并不明朗。",
+        "titleZh": "美国检察官称马杜罗在法律费用法庭纠纷中“掠夺”了委内瑞拉财富",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国检察官称马杜罗在法律费用法庭纠纷中“掠夺”了委内瑞拉财富”。核心要点：一名法官表示，辩护权至关重要，因为检察官认为这对夫妇不应该使用委内瑞拉的资金来支付律师费。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 00:41:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 18:49:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "联合国投票承认奴役非洲人是“最严重的反人类罪”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“联合国投票承认奴役非洲人是“最严重的反人类罪””。核心要点：这项具有里程碑意义的决议要求道歉并向赔偿基金捐款，但没有具体说明金额。",
+        "titleZh": "西班牙女子与父亲长期法律斗争后被安乐死身亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙女子与父亲长期法律斗争后被安乐死身亡”。核心要点：欧洲人权法院 (ECHR) 本周早些时候做出了对诺埃莉亚·卡斯蒂略有利的裁决。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Mar 2026 20:12:31 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 20:33:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我们处于痛苦之中”——萨凡纳·格思里（Savannah Guthrie）在妈妈失踪后首次接受采访",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““我们处于痛苦之中”——萨凡纳·格思里（Savannah Guthrie）在妈妈失踪后首次接受采访”。核心要点：这位美国主持人说，当她想象发生的事情时，可怕的想法让她在晚上醒来。",
+        "titleZh": "欧尔班领导的匈牙利政府被指控在选举前恐吓大规模选民",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧尔班领导的匈牙利政府被指控在选举前恐吓大规模选民”。核心要点：一部引用选民、市长和警察的话的电影称，有人提供金钱和毒品来迫使人们支持执政党。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Mar 2026 16:38:03 GMT",
-        "url": "https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 17:16:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "章鱼老板：自伊朗战争爆发以来，我们的太阳能电池板销量增长了50%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“章鱼老板：自伊朗战争爆发以来，我们的太阳能电池板销量增长了50%”。核心要点：这家英国巨头很乐观，但首席执行官格雷格·杰克逊告诉英国广播公司，他正在制定应急计划。",
+        "titleZh": "特朗普签名首次出现在美元上",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普签名首次出现在美元上”。核心要点：美国总统的签名将与财政部长斯科特·贝森特一起出现在新纸币上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 00:00:49 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 23:36:14 GMT",
+        "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争应急计划中二氧化碳工厂将重新开放",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争应急计划中二氧化碳工厂将重新开放”。核心要点：政府将投资 1 亿英镑重启蒂赛德工厂生产二氧化碳，这是食品和饮料制造的关键部分。",
+        "titleZh": "NS&I 老板被替换，储户等待数百万英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“NS&I 老板被替换，储户等待数百万英镑”。核心要点：养老金部长托斯顿·贝尔表示，受影响的人将“在适当的情况下”获得补偿。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 01:51:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cew7xrj4497o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 16:14:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为动荡做好准备——长期的中东冲突如何重塑我们的飞行方式",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为动荡做好准备——长期的中东冲突如何重塑我们的飞行方式”。核心要点：海湾地区的枢纽机场使长途旅行变得更加便宜，但现在它们的未来看起来并不明朗。",
+        "titleZh": "法官驳回五角大楼“削弱”人类的企图",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法官驳回五角大楼“削弱”人类的企图”。核心要点：一名联邦法官告诉政府，不能立即对 Anthropic 的工具实施禁令。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 00:41:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 00:44:24 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Meta 和 YouTube 在具有里程碑意义的社交媒体成瘾审判中被判负有责任",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 和 YouTube 在具有里程碑意义的社交媒体成瘾审判中被判负有责任”。核心要点：一名女性在一项判决中获得了 600 万美元的赔偿，该判决可能会对美国数百起其他案件产生影响。",
+        "titleZh": "埃隆·马斯克的 X 广告抵制诉讼被美国法官驳回",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克的 X 广告抵制诉讼被美国法官驳回”。核心要点：美国地区法官简·博伊尔表示，该公司未能证明其在联邦竞争法下遭受了任何损害。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 25 Mar 2026 22:59:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 17:29:13 GMT",
+        "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "据报道，马斯克的 SpaceX 将申请出售股票，火箭股价飙升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“据报道，马斯克的 SpaceX 将申请出售股票，火箭股价飙升”。核心要点：有报道称，该公司计划进行有史以来最大规模的上市，导致其旗下公司的股价周三在美国交易中飙升。",
+        "titleZh": "“我花了六年时间才收到已故父亲的优质债券”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我花了六年时间才收到已故父亲的优质债券””。核心要点：读者联系 BBC Your Voice 表示，他们无法从已故家庭成员的优质债券投资中索取资金。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 02:01:39 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 26 Mar 2026 13:19:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
