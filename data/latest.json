@@ -1,145 +1,132 @@
 {
-  "updatedAt": "2026-03-27T04:06:04.239Z",
+  "updatedAt": "2026-03-28T03:45:00.902Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Clinical Impact and Therapeutic Management of Diabetes Mellitus in Patients With Decompensated Cirrhosis.",
+        "title": "Prevention of Portal Hypertension Complications Beyond Primary TIPS Indication Is Independent of Endoprosthesis Under-Dilation.",
         "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Review",
-        "authors": "Lisi C, Robone ML, Bonomo M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：糖尿病 (DM) 影响很大一部分肝硬化患者，其中代谢功能障碍相关脂肪肝病 (MASLD) 患者的患病率最高。 临床提示：在这种情况下，可能会发生经典 2 型糖尿病 (T2DM) 和继发于肝功能障碍的肝源性糖尿病。",
-        "abstract": "Diabetes mellitus (DM) affects a substantial proportion of individuals with cirrhosis, with the highest prevalence observed in those with metabolic dysfunction-associated steatotic liver disease (MASLD). Its frequency increases in parallel with declining hepatic function, irrespective of the underlying aetiology. In this setting, both classical type 2 diabetes mellitus (T2DM) and hepatogenous diabetes, which arises secondary to hepatic dysfunction, may occur. T2DM and insulin resistance play key roles in the pathogenesis of MASLD, in the progression of hepatic fibrosis, and in the onset of cirrhosis-related complications through mechanisms encompassing systemic inflammation, endothelial dysf...",
-        "pmid": "41885090",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41885090/",
-        "doiUrl": "https://doi.org/10.1111/liv.70597",
-        "url": "https://doi.org/10.1111/liv.70597"
-      },
-      {
-        "title": "Systematic Review: Imaging-Based Morphological Criteria for Liver Cirrhosis-A Call to Standardise.",
-        "journal": "Alimentary pharmacology & therapeutics",
-        "pubDate": "2026 Mar 25",
-        "studyType": "Journal Article / Review",
-        "authors": "Lim MC, Quek EJW, Chan TYH",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化是慢性肝病的不可逆转的结构终点，也是肝细胞癌（HCC）的最大危险因素。 临床提示：尽管其在 HCC 管理算法中占据核心地位，但在横断面成像上诊断肝硬化还没有标准化的形态学标准。",
-        "abstract": "Cirrhosis is the irreversible architectural endpoint of chronic liver disease and is the greatest risk factor for hepatocellular carcinoma (HCC). Despite its centrality in HCC management algorithms, there are no standardised morphologic criteria for diagnosing cirrhosis on cross-sectional imaging. Criteria used in clinical studies and clinical practice guidelines have not been reviewed systematically. We aim to assess cross-sectional imaging criteria in clinical practice guidelines and clinical studies. We appraised clinical practice guidelines from major hepatology or radiological associations and conducted a systematic review of MEDLINE and EMBASE to identify original studies using ultraso...",
-        "pmid": "41882492",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41882492/",
-        "doiUrl": "https://doi.org/10.1111/apt.70629",
-        "url": "https://doi.org/10.1111/apt.70629"
-      },
-      {
-        "title": "Expert Practical Recommendations for Hepatocellular Carcinoma.",
-        "journal": "Seminars in liver disease",
-        "pubDate": "2026 Mar 25",
+        "pubDate": "2026 May",
         "studyType": "Journal Article",
-        "authors": "Su F, Torres-Hernandez A, Hickey R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：过去十年，肝细胞癌 (HCC) 的临床治疗取得了显着进展。 临床提示：主要进展包括引入基于免疫的治疗方案，该方案现已成为全身治疗的基础。",
-        "abstract": "The clinical management of hepatocellular carcinoma (HCC) has evolved significantly over the past decade. Key advances include the introduction of immune-based treatment options, which now serve as the foundation for systemic therapies. Additionally, innovations in surgical techniques, such as robotic surgery, have broadened the scope of resection to include selected patients previously deemed unsuitable due to factors like tumor location or the presence of portal hypertension. HCC downstaging has also gained recognition as a viable strategy in appropriately selected patients, demonstrating outcomes comparable to those achieved under conventional listing criteria. Consequently, the managemen...",
-        "pmid": "41881053",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41881053/",
-        "doiUrl": "https://doi.org/10.1055/a-2832-4720",
-        "url": "https://doi.org/10.1055/a-2832-4720"
+        "authors": "Roccarina D, Saltini D, Senzolo M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：扩张不足的经颈静脉肝内门体分流术（U-TIPS，≤ 7 mm）可有效控制门静脉高压（​​PH）并发症，从而为 TIPS 带来适应症，同时降低肝性脑病的发生率。 临床提示：然而，仅针对标准内置假体扩张（≥ 8 mm，S-TIPS）报道了 TIPS 在预防其他 PH 并发症方面的功效。",
+        "abstract": "Under-dilated trans-jugular intra-hepatic porto-systemic shunt (U-TIPS, ≤ 7 mm) effectively controls portal hypertension (PH) complications that placed the indication to TIPS while reducing the incidence of hepatic encephalopathy. However, TIPS efficacy in preventing additional PH-complications is reported only for standard endoprosthesis dilation (≥ 8 mm, S-TIPS). This study evaluated whether U-TIPS provides protection comparable to S-TIPS against PH-complications beyond the initial indication, independent of achieving guideline-defined hemodynamic targets. Patients treated for refractory ascites (RA) or secondary prophylaxis of PH-related bleeding (PHRB) were included. Adequate hemodynamic...",
+        "pmid": "41889186",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41889186/",
+        "doiUrl": "https://doi.org/10.1111/liv.70606",
+        "url": "https://doi.org/10.1111/liv.70606"
       },
       {
-        "title": "The Global Reading Room: Managing Hematemesis and Encephalopathy in a Patient With Portal Hypertension.",
-        "journal": "AJR. American journal of roentgenology",
-        "pubDate": "2026 Mar 25",
+        "title": "Low-Dose vs. Standard Care Iv Human Albumin During Large-Volume Paracentesis in Patients With Liver Cirrhosis: A Systematic Review.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article / Systematic Review / Comparative Study",
+        "authors": "Bot KKIM, Heus R, Drenth JPH",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：我们回顾了比较 LVP 期间减少 HA 剂量与标准护理 HA 剂量的有效性和安全性的证据。 临床提示：肝硬化是一个全球性的健康问题，腹水是最常见的失代偿事件。",
+        "abstract": "Cirrhosis is a global health concern, with ascites being the most prevalent decompensating event. Intravenous (IV) human albumin (HA) is administered during large-volume paracentesis (LVP) to prevent complications. The standard (6-8 g HA/L ascites) is empirically chosen, potentially leading to overtreatment and added costs. We reviewed evidence comparing the efficacy and safety of reduced versus standard-care HA dosing during LVP. We searched PubMed, EMBASE, Cochrane Library, CINAHL, and Scopus (up to January 31, 2025). We included RCTs and cohort studies in adults with cirrhosis undergoing LVP, comparing low-dose (≤ 6 g/L or ≤ 20 g total) to standard-dose (> 6 g/L or > 20 g total) HA. Outco...",
+        "pmid": "41889150",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41889150/",
+        "doiUrl": "https://doi.org/10.1111/liv.70621",
+        "url": "https://doi.org/10.1111/liv.70621"
+      },
+      {
+        "title": "Clinical outcomes in Caroli disease and Caroli syndrome: a longitudinal observational cohort study.",
+        "journal": "Scientific reports",
+        "pubDate": "2026 Mar 26",
         "studyType": "Journal Article",
-        "authors": "Crocetti L, Gaba RC, Ninalowo H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：全球阅览室：处理门脉高压患者的吐血和脑病。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "40632633",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40632633/",
-        "doiUrl": "https://doi.org/10.2214/AJR.25.33472",
-        "url": "https://doi.org/10.2214/AJR.25.33472"
+        "authors": "Hanafy AS, Fahmy EK, Naguib R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 12）。核心观点：虽然已知 CS 比孤立性 CD 与更严重的肝脏并发症相关，但由于其罕见，两种实体之间的直接纵向比较仍然有限。 临床提示：卡罗利病 (CD) 和卡罗利综合征 (CS) 是罕见的先天性纤维多囊性肝病。",
+        "abstract": "Caroli's disease (CD) and Caroli's syndrome (CS) are rare congenital fibropolycystic liver disorders. While CS is known to be associated with more severe hepatic complications than isolated CD, direct longitudinal comparisons between the two entities remain limited due to their rarity. This single-center, retrospective, longitudinal observational cohort study descriptively compared clinical features, complications, and long-term outcomes in 19 patients diagnosed with CD (n = 7) or CS (n = 12) between November 2015 and December 2022. Diagnoses were confirmed by magnetic resonance cholangiopancreatography. Patients underwent standardized clinical, laboratory, endoscopic, and imaging assessment...",
+        "pmid": "41888235",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41888235/",
+        "doiUrl": "https://doi.org/10.1038/s41598-026-42855-8",
+        "url": "https://doi.org/10.1038/s41598-026-42855-8"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "泽伦斯基在提供乌克兰无人机专业知识后访问沙特阿拉伯",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基在提供乌克兰无人机专业知识后访问沙特阿拉伯”。核心要点：随着美国日益关注伊朗，乌克兰完成无人机交易变得更加紧迫。",
+        "titleZh": "伊朗支持的黑客入侵了联邦调查局局长卡什·帕特尔的个人电子邮件",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗支持的黑客入侵了联邦调查局局长卡什·帕特尔的个人电子邮件”。核心要点：一个黑客组织分享了帕特尔所谓的简历和照片，联邦调查局称这些信息“本质上是历史性的”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 18:24:13 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 19:21:19 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "配给电力和稀释汽油——非洲国家如何应对伊朗战争的影响",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“配给电力和稀释汽油——非洲国家如何应对伊朗战争的影响”。核心要点：石油供应中断已引起一些非洲国家的短缺和担忧。",
+        "titleZh": "泰格·伍兹因车祸后酒后驾驶被指控",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泰格·伍兹因车祸后酒后驾驶被指控”。核心要点：泰格·伍兹在佛罗里达州发生车祸后，面临酒后驾驶的指控。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 17:57:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Mar 2026 01:00:35 GMT",
+        "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国检察官称马杜罗在法律费用法庭纠纷中“掠夺”了委内瑞拉财富",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国检察官称马杜罗在法律费用法庭纠纷中“掠夺”了委内瑞拉财富”。核心要点：一名法官表示，辩护权至关重要，因为检察官认为这对夫妇不应该使用委内瑞拉的资金来支付律师费。",
+        "titleZh": "批评者称，通过安乐死死亡的西班牙妇女是国家失败的",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“批评者称，通过安乐死死亡的西班牙妇女是国家失败的”。核心要点：诺埃莉亚·卡斯蒂略（Noelia Castillo）在与自己的父亲进行了一场旷日持久的法律斗争后于周四晚上在巴塞罗那的一家医院去世。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 18:49:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 12:09:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙女子与父亲长期法律斗争后被安乐死身亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙女子与父亲长期法律斗争后被安乐死身亡”。核心要点：欧洲人权法院 (ECHR) 本周早些时候做出了对诺埃莉亚·卡斯蒂略有利的裁决。",
+        "titleZh": "卢比奥表示美国预计“未来几周内”结束伊朗战争",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卢比奥表示美国预计“未来几周内”结束伊朗战争”。核心要点：马可·卢比奥表示，美国盟友愿意帮助护送船只通过霍尔木兹海峡，伊朗已关闭该海峡并威胁要收取费用。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 20:33:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 21:16:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "欧尔班领导的匈牙利政府被指控在选举前恐吓大规模选民",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧尔班领导的匈牙利政府被指控在选举前恐吓大规模选民”。核心要点：一部引用选民、市长和警察的话的电影称，有人提供金钱和毒品来迫使人们支持执政党。",
+        "titleZh": "两艘前往古巴的援助船离开墨西哥后失踪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“两艘前往古巴的援助船离开墨西哥后失踪”。核心要点：墨西哥海军对向古巴运送援助物资的船只发起救援任务，古巴因美国禁运而面临食品和燃料短缺。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 17:16:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 18:04:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普签名首次出现在美元上",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普签名首次出现在美元上”。核心要点：美国总统的签名将与财政部长斯科特·贝森特一起出现在新纸币上。",
+        "titleZh": "汽油价格突破 150 便士，阿斯达老板否认暴利指控",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“汽油价格突破 150 便士，阿斯达老板否认暴利指控”。核心要点：RAC 表示，由于中东冲突，驾车者在复活节假期前将面临更高的燃油价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 23:36:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 18:28:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "NS&I 老板被替换，储户等待数百万英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“NS&I 老板被替换，储户等待数百万英镑”。核心要点：养老金部长托斯顿·贝尔表示，受影响的人将“在适当的情况下”获得补偿。",
+        "titleZh": "Just Eat 和 Autotrader 等公司受到虚假评论调查",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Just Eat 和 Autotrader 等公司受到虚假评论调查”。核心要点：英国竞争监管机构表示，正在调查五家公司的误导性在线评论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 16:14:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 12:00:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法官驳回五角大楼“削弱”人类的企图",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法官驳回五角大楼“削弱”人类的企图”。核心要点：一名联邦法官告诉政府，不能立即对 Anthropic 的工具实施禁令。",
+        "titleZh": "伊朗战争的“恐惧涟漪”打击了消费者信心",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争的“恐惧涟漪”打击了消费者信心”。核心要点：一项重要调查显示，消费者对明年英国经济的前景越来越怀疑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 00:44:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 12:13:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "埃隆·马斯克的 X 广告抵制诉讼被美国法官驳回",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克的 X 广告抵制诉讼被美国法官驳回”。核心要点：美国地区法官简·博伊尔表示，该公司未能证明其在联邦竞争法下遭受了任何损害。",
+        "titleZh": "劳埃德银行透露 IT 故障影响了近 50 万客户",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“劳埃德银行透露 IT 故障影响了近 50 万客户”。核心要点：在给财政部特别委员会的一封信中，劳埃德银行道歉并表示已经支付了一些赔偿。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 17:29:13 GMT",
-        "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 11:03:29 GMT",
+        "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我花了六年时间才收到已故父亲的优质债券”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我花了六年时间才收到已故父亲的优质债券””。核心要点：读者联系 BBC Your Voice 表示，他们无法从已故家庭成员的优质债券投资中索取资金。",
+        "titleZh": "霍尔木兹关闭如何影响食品、药品和智能手机",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“霍尔木兹关闭如何影响食品、药品和智能手机”。核心要点：从食品、智能手机到药品等多种商品的价格可能会受到美以与伊朗战争的影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Mar 2026 13:19:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Mar 2026 01:25:17 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
