@@ -1,93 +1,61 @@
 {
-  "updatedAt": "2026-03-28T03:45:00.902Z",
+  "updatedAt": "2026-03-29T04:11:04.471Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Prevention of Portal Hypertension Complications Beyond Primary TIPS Indication Is Independent of Endoprosthesis Under-Dilation.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Roccarina D, Saltini D, Senzolo M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：扩张不足的经颈静脉肝内门体分流术（U-TIPS，≤ 7 mm）可有效控制门静脉高压（​​PH）并发症，从而为 TIPS 带来适应症，同时降低肝性脑病的发生率。 临床提示：然而，仅针对标准内置假体扩张（≥ 8 mm，S-TIPS）报道了 TIPS 在预防其他 PH 并发症方面的功效。",
-        "abstract": "Under-dilated trans-jugular intra-hepatic porto-systemic shunt (U-TIPS, ≤ 7 mm) effectively controls portal hypertension (PH) complications that placed the indication to TIPS while reducing the incidence of hepatic encephalopathy. However, TIPS efficacy in preventing additional PH-complications is reported only for standard endoprosthesis dilation (≥ 8 mm, S-TIPS). This study evaluated whether U-TIPS provides protection comparable to S-TIPS against PH-complications beyond the initial indication, independent of achieving guideline-defined hemodynamic targets. Patients treated for refractory ascites (RA) or secondary prophylaxis of PH-related bleeding (PHRB) were included. Adequate hemodynamic...",
-        "pmid": "41889186",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41889186/",
-        "doiUrl": "https://doi.org/10.1111/liv.70606",
-        "url": "https://doi.org/10.1111/liv.70606"
-      },
-      {
-        "title": "Low-Dose vs. Standard Care Iv Human Albumin During Large-Volume Paracentesis in Patients With Liver Cirrhosis: A Systematic Review.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article / Systematic Review / Comparative Study",
-        "authors": "Bot KKIM, Heus R, Drenth JPH",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：我们回顾了比较 LVP 期间减少 HA 剂量与标准护理 HA 剂量的有效性和安全性的证据。 临床提示：肝硬化是一个全球性的健康问题，腹水是最常见的失代偿事件。",
-        "abstract": "Cirrhosis is a global health concern, with ascites being the most prevalent decompensating event. Intravenous (IV) human albumin (HA) is administered during large-volume paracentesis (LVP) to prevent complications. The standard (6-8 g HA/L ascites) is empirically chosen, potentially leading to overtreatment and added costs. We reviewed evidence comparing the efficacy and safety of reduced versus standard-care HA dosing during LVP. We searched PubMed, EMBASE, Cochrane Library, CINAHL, and Scopus (up to January 31, 2025). We included RCTs and cohort studies in adults with cirrhosis undergoing LVP, comparing low-dose (≤ 6 g/L or ≤ 20 g total) to standard-dose (> 6 g/L or > 20 g total) HA. Outco...",
-        "pmid": "41889150",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41889150/",
-        "doiUrl": "https://doi.org/10.1111/liv.70621",
-        "url": "https://doi.org/10.1111/liv.70621"
-      },
-      {
-        "title": "Clinical outcomes in Caroli disease and Caroli syndrome: a longitudinal observational cohort study.",
-        "journal": "Scientific reports",
-        "pubDate": "2026 Mar 26",
-        "studyType": "Journal Article",
-        "authors": "Hanafy AS, Fahmy EK, Naguib R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 12）。核心观点：虽然已知 CS 比孤立性 CD 与更严重的肝脏并发症相关，但由于其罕见，两种实体之间的直接纵向比较仍然有限。 临床提示：卡罗利病 (CD) 和卡罗利综合征 (CS) 是罕见的先天性纤维多囊性肝病。",
-        "abstract": "Caroli's disease (CD) and Caroli's syndrome (CS) are rare congenital fibropolycystic liver disorders. While CS is known to be associated with more severe hepatic complications than isolated CD, direct longitudinal comparisons between the two entities remain limited due to their rarity. This single-center, retrospective, longitudinal observational cohort study descriptively compared clinical features, complications, and long-term outcomes in 19 patients diagnosed with CD (n = 7) or CS (n = 12) between November 2015 and December 2022. Diagnoses were confirmed by magnetic resonance cholangiopancreatography. Patients underwent standardized clinical, laboratory, endoscopic, and imaging assessment...",
-        "pmid": "41888235",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41888235/",
-        "doiUrl": "https://doi.org/10.1038/s41598-026-42855-8",
-        "url": "https://doi.org/10.1038/s41598-026-42855-8"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗支持的黑客入侵了联邦调查局局长卡什·帕特尔的个人电子邮件",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗支持的黑客入侵了联邦调查局局长卡什·帕特尔的个人电子邮件”。核心要点：一个黑客组织分享了帕特尔所谓的简历和照片，联邦调查局称这些信息“本质上是历史性的”。",
+        "titleZh": "特朗普正在本能地发动战争，但这并没有奏效",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普正在本能地发动战争，但这并没有奏效”。核心要点：伊朗冲突发生一个月后，特朗普直觉的做法并没有被证明有效。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 19:21:19 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 00:02:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰格·伍兹因车祸后酒后驾驶被指控",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泰格·伍兹因车祸后酒后驾驶被指控”。核心要点：泰格·伍兹在佛罗里达州发生车祸后，面临酒后驾驶的指控。",
+        "titleZh": "广播公司称，三名黎巴嫩记者在以色列袭击中丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“广播公司称，三名黎巴嫩记者在以色列袭击中丧生”。核心要点：以色列军方证实击毙了真主党附属的 Al Manar 电视台的 Ali Shoeib。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Mar 2026 01:00:35 GMT",
-        "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Mar 2026 21:50:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "批评者称，通过安乐死死亡的西班牙妇女是国家失败的",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“批评者称，通过安乐死死亡的西班牙妇女是国家失败的”。核心要点：诺埃莉亚·卡斯蒂略（Noelia Castillo）在与自己的父亲进行了一场旷日持久的法律斗争后于周四晚上在巴塞罗那的一家医院去世。",
+        "titleZh": "一只蚂蚁 220 美元：野生动物贩运的新领域",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“一只蚂蚁 220 美元：野生动物贩运的新领域”。核心要点：走私者为了牟利而聚集在肯尼亚，收集蚂蚁的热潮让肯尼亚大吃一惊。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 12:09:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 00:01:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卢比奥表示美国预计“未来几周内”结束伊朗战争",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卢比奥表示美国预计“未来几周内”结束伊朗战争”。核心要点：马可·卢比奥表示，美国盟友愿意帮助护送船只通过霍尔木兹海峡，伊朗已关闭该海峡并威胁要收取费用。",
+        "titleZh": "围绕电视明星的深度造假色情丑闻如何震撼德国",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“围绕电视明星的深度造假色情丑闻如何震撼德国”。核心要点：科林·费尔南德斯指责她的前夫在网上传播她的照片，但他断然否认。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 21:16:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 00:00:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "两艘前往古巴的援助船离开墨西哥后失踪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“两艘前往古巴的援助船离开墨西哥后失踪”。核心要点：墨西哥海军对向古巴运送援助物资的船只发起救援任务，古巴因美国禁运而面临食品和燃料短缺。",
+        "titleZh": "美国集会上没有国王抗议唐纳德·特朗普",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国集会上没有国王抗议唐纳德·特朗普”。核心要点：No Kings 的旗舰集会之一在明尼苏达州举行，歌手布鲁斯·斯普林斯汀 (Bruce Springsteen) 在那里向人群表演。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 18:04:02 GMT",
-        "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Mar 2026 22:48:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "特朗普和石油市场如何同步变化：五张图表中的探戈",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普和石油市场如何同步变化：五张图表中的探戈”。核心要点：石油市场对唐纳德·特朗普对战争的评论一直很敏感。但交易者的反应是否变得越来越迟缓？",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 28 Mar 2026 03:04:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "汽油价格突破 150 便士，阿斯达老板否认暴利指控",
         "summaryZh": "这是一条金融市场新闻，重点围绕“汽油价格突破 150 便士，阿斯达老板否认暴利指控”。核心要点：RAC 表示，由于中东冲突，驾车者在复活节假期前将面临更高的燃油价格。",
@@ -119,14 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 27 Mar 2026 11:03:29 GMT",
         "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "霍尔木兹关闭如何影响食品、药品和智能手机",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“霍尔木兹关闭如何影响食品、药品和智能手机”。核心要点：从食品、智能手机到药品等多种商品的价格可能会受到美以与伊朗战争的影响。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 01:25:17 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
