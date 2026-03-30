@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-03-29T04:11:04.471Z",
+  "updatedAt": "2026-03-30T04:17:23.072Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Outcomes of Peroral Endoscopic Myotomy in Patients With Cirrhosis: A Multicenter Focused Communication.",
+        "journal": "Gastrointestinal endoscopy",
+        "pubDate": "2026 Mar 26",
+        "studyType": "Journal Article",
+        "authors": "Butt MA, Mirminachi B, Cifuentes L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：由于担心门脉高压和出血风险，肝硬化和食管动力障碍的患者经常被排除在经口内镜肌切开术 (POEM) 之外。 临床提示：因此，有关该人群 POEM 的数据有限。",
+        "abstract": "Patients with cirrhosis and esophageal motility disorders are frequently excluded from peroral endoscopic myotomy (POEM) because of concerns related to portal hypertension and bleeding risk. As a result, data on POEM in this population are limited. We describe a multicenter experience evaluating the feasibility and short-term outcomes of POEM in patients with cirrhosis. We retrospectively reviewed cirrhotic patients who underwent POEM at six U.S. tertiary centers between 2020 and 2024. Technical success was defined as completion of myotomy without conversion or major intraprocedural bleeding. Clinical success was defined as a 6-month Eckardt score ≤3. Twenty-four patients (mean age 67.5 year...",
+        "pmid": "41903820",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41903820/",
+        "doiUrl": "https://doi.org/10.1016/j.gie.2026.03.024",
+        "url": "https://doi.org/10.1016/j.gie.2026.03.024"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普正在本能地发动战争，但这并没有奏效",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普正在本能地发动战争，但这并没有奏效”。核心要点：伊朗冲突发生一个月后，特朗普直觉的做法并没有被证明有效。",
+        "titleZh": "杰里米·鲍文：特朗普基于本能发动战争，但行不通",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“杰里米·鲍文：特朗普基于本能发动战争，但行不通”。核心要点：英国广播公司 (BBC) 国际编辑写道，伊朗冲突发生一个月后，事实证明，特朗普本能的做法并未奏效。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Sun, 29 Mar 2026 00:02:46 GMT",
         "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "titleZh": "随着主要工业基地遭到袭击，伊朗在海湾地区的袭击仍在继续",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着主要工业基地遭到袭击，伊朗在海湾地区的袭击仍在继续”。核心要点：据称，阿联酋和巴林的铝厂遭遇袭击，造成多人受伤。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 29 Mar 2026 13:32:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "titleZh": "广播公司称，三名黎巴嫩记者在以色列袭击中丧生",
         "summaryZh": "这是一条世界时事新闻，重点围绕“广播公司称，三名黎巴嫩记者在以色列袭击中丧生”。核心要点：以色列军方证实击毙了真主党附属的 Al Manar 电视台的 Ali Shoeib。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Mar 2026 21:50:40 GMT",
+        "publishedAt": "Sun, 29 Mar 2026 07:51:04 GMT",
         "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一只蚂蚁 220 美元：野生动物贩运的新领域",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“一只蚂蚁 220 美元：野生动物贩运的新领域”。核心要点：走私者为了牟利而聚集在肯尼亚，收集蚂蚁的热潮让肯尼亚大吃一惊。",
+        "titleZh": "三人在巴黎因美国银行外未遂炸弹袭击被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“三人在巴黎因美国银行外未遂炸弹袭击被捕”。核心要点：法国反恐检察官办公室表示已立即接手调查。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 00:01:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 15:33:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "围绕电视明星的深度造假色情丑闻如何震撼德国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“围绕电视明星的深度造假色情丑闻如何震撼德国”。核心要点：科林·费尔南德斯指责她的前夫在网上传播她的照片，但他断然否认。",
+        "titleZh": "意大利调查丝芙兰和贝玲妃向儿童推销护肤品的行为",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“意大利调查丝芙兰和贝玲妃向儿童推销护肤品的行为”。核心要点：意大利竞争管理局表示，奢侈品巨头路威酩轩集团似乎采取了“特别阴险”的营销策略。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 00:00:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国集会上没有国王抗议唐纳德·特朗普",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国集会上没有国王抗议唐纳德·特朗普”。核心要点：No Kings 的旗舰集会之一在明尼苏达州举行，歌手布鲁斯·斯普林斯汀 (Bruce Springsteen) 在那里向人群表演。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 28 Mar 2026 22:48:02 GMT",
-        "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 19:37:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普和石油市场如何同步变化：五张图表中的探戈",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普和石油市场如何同步变化：五张图表中的探戈”。核心要点：石油市场对唐纳德·特朗普对战争的评论一直很敏感。但交易者的反应是否变得越来越迟缓？",
+        "titleZh": "伊朗战争升级，油价升至 115 美元上方，亚洲股市下滑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争升级，油价升至 115 美元上方，亚洲股市下滑”。核心要点：此前，伊朗支持的也门胡塞叛军周末袭击以色列，加入冲突。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 28 Mar 2026 03:04:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 30 Mar 2026 03:34:37 GMT",
+        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "汽油价格突破 150 便士，阿斯达老板否认暴利指控",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“汽油价格突破 150 便士，阿斯达老板否认暴利指控”。核心要点：RAC 表示，由于中东冲突，驾车者在复活节假期前将面临更高的燃油价格。",
+        "titleZh": "数百万司机的补偿细节即将公布",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“数百万司机的补偿细节即将公布”。核心要点：市监管机构将概述数百万人如何就不当销售的汽车金融索赔。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 18:28:34 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 23:04:10 GMT",
+        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Just Eat 和 Autotrader 等公司受到虚假评论调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Just Eat 和 Autotrader 等公司受到虚假评论调查”。核心要点：英国竞争监管机构表示，正在调查五家公司的误导性在线评论。",
+        "titleZh": "科技公司的首席执行官突然喜欢将大规模裁员归咎于人工智能。为什么？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“科技公司的首席执行官突然喜欢将大规模裁员归咎于人工智能。为什么？”。核心要点：越来越多的科技领导者指出人工智能工具导致的裁员，以及对更多投资现金的需求。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 12:00:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 23:07:04 GMT",
+        "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争的“恐惧涟漪”打击了消费者信心",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争的“恐惧涟漪”打击了消费者信心”。核心要点：一项重要调查显示，消费者对明年英国经济的前景越来越怀疑。",
+        "titleZh": "巴德诺克表示，在提供救助之前先削减能源税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“巴德诺克表示，在提供救助之前先削减能源税”。核心要点：这位保守党领袖拒绝排除在账单上涨时直接向家庭付款的可能性，但表示这将付出代价。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 12:13:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 29 Mar 2026 11:12:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "劳埃德银行透露 IT 故障影响了近 50 万客户",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“劳埃德银行透露 IT 故障影响了近 50 万客户”。核心要点：在给财政部特别委员会的一封信中，劳埃德银行道歉并表示已经支付了一些赔偿。",
+        "titleZh": "电子邮件显示，经纪人恳求爱泼斯坦与模特发生性关系",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“电子邮件显示，经纪人恳求爱泼斯坦与模特发生性关系”。核心要点：拉姆齐·埃尔克霍利 (Ramsey Elkholy) 在近十年的通信中向年仅 18 岁的女性介绍了这位金融家。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Mar 2026 11:03:29 GMT",
-        "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Mar 2026 00:41:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
