@@ -1,82 +1,137 @@
 {
-  "updatedAt": "2026-03-30T04:17:23.072Z",
+  "updatedAt": "2026-03-31T04:07:27.806Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Outcomes of Peroral Endoscopic Myotomy in Patients With Cirrhosis: A Multicenter Focused Communication.",
-        "journal": "Gastrointestinal endoscopy",
-        "pubDate": "2026 Mar 26",
+        "title": "Transhepatic embolization of a pancreatico-duodenal arteriovenous malformation: Application of retrograde pressure cooker technique with ethylene-vinyl alcohol copolymer.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Jun",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Powanda PN, Rowland EA, Liu K",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：它们的管理具有挑战性，手术切除具有显着的发病风险。 临床提示：胰腺动静脉畸形是罕见的血管异常，可能表现为胃肠道出血、腹痛或门静脉高压。",
+        "abstract": "Pancreatic arteriovenous malformations are rare vascular anomalies that may present with gastrointestinal bleeding, abdominal pain, or portal hypertension. Their management is challenging, with surgical resection carrying a significant risk of morbidity. Endovascular embolization offers a less invasive alternative; however, success is often limited in cases with multiple arterial feeders. We present a 65-year-old woman with cirrhosis and upper gastrointestinal hemorrhage from a Yakes type III pancreatic arteriovenous malformation. Given her poor surgical candidacy and complex arterial inflow, transvenous retrograde embolization via a transhepatic approach was performed using a modified press...",
+        "pmid": "41909108",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41909108/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.02.051",
+        "url": "https://doi.org/10.1016/j.radcr.2026.02.051"
+      },
+      {
+        "title": "Drug-eluting Balloon Angioplasty as a Bridge to Early Liver Transplantation in Recipients with Coronary Artery Disease: A Case Series.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 May-Jun",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Pakkala AK, Chaksota H, Patil S",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：冠状动脉疾病 (CAD) 在终末期肝病 (ESLD) 患者中越来越受到重视，特别是在代谢功能障碍相关的脂肪肝病 (MASLD) 的背景下。 临床提示：药物洗脱球囊 (DEB) 血管成形术提供了一种“不留下任何痕迹”的方法，可以减少延长 DAPT 的需要，为早期肝移植提供潜在的桥梁策略。",
+        "abstract": "Coronary artery disease (CAD) is increasingly recognized among patients with end-stage liver disease (ESLD), particularly in the context of metabolic dysfunction-associated steatotic liver disease (MASLD). Management of CAD in liver transplant candidates is challenging due to the competing risks of ischemic events and perioperative bleeding, especially when dual antiplatelet therapy (DAPT) is required after coronary stenting. Drug-eluting balloon (DEB) angioplasty offers a \"leave-nothing-behind\" approach that may reduce the need for prolonged DAPT, providing a potential bridge strategy to early liver transplantation. We describe a series of four patients with ESLD and significant CAD who und...",
+        "pmid": "41908671",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41908671/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103532",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103532"
+      },
+      {
+        "title": "Prediction of Fontan failure and correlates of Fontan-associated liver disease severity using machine learning and radiomic features from multi-parametric abdominal MRI.",
+        "journal": "Pediatric radiology",
+        "pubDate": "2026 Apr",
         "studyType": "Journal Article",
-        "authors": "Butt MA, Mirminachi B, Cifuentes L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：由于担心门脉高压和出血风险，肝硬化和食管动力障碍的患者经常被排除在经口内镜肌切开术 (POEM) 之外。 临床提示：因此，有关该人群 POEM 的数据有限。",
-        "abstract": "Patients with cirrhosis and esophageal motility disorders are frequently excluded from peroral endoscopic myotomy (POEM) because of concerns related to portal hypertension and bleeding risk. As a result, data on POEM in this population are limited. We describe a multicenter experience evaluating the feasibility and short-term outcomes of POEM in patients with cirrhosis. We retrospectively reviewed cirrhotic patients who underwent POEM at six U.S. tertiary centers between 2020 and 2024. Technical success was defined as completion of myotomy without conversion or major intraprocedural bleeding. Clinical success was defined as a 6-month Eckardt score ≤3. Twenty-four patients (mean age 67.5 year...",
-        "pmid": "41903820",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41903820/",
-        "doiUrl": "https://doi.org/10.1016/j.gie.2026.03.024",
-        "url": "https://doi.org/10.1016/j.gie.2026.03.024"
+        "authors": "Prasad A, Opotowsky AR, Trout AT",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Fontan 相关肝病 (FALD) 与姑息性单心室先天性心脏病患者的发病率和死亡率相关。 临床提示：使用 T1 加权、T2 加权和扩散加权 MRI 的放射组学特征以及相关临床变量来开发机器学习模型，以预测 Fontan 衰竭和患者 FALD 严重程度的相关性",
+        "abstract": "Fontan-associated liver disease (FALD) is associated with morbidity and mortality in patients with palliated single ventricle congenital heart disease. To develop machine learning models using radiomic features from T1-weighted, T2-weighted, and diffusion-weighted MRI with pertinent clinical variables to predict Fontan failure and correlates of FALD severity in patients who underwent the Fontan operation. In this retrospective study of abdominal MRI examinations and clinical record data from 131 Fontan palliation patients (age range 9.1 - 53.3 years old), radiomic features from the liver and spleen were extracted using axial T1-weighted, T2-weighted fat-suppressed, and diffusion-weighted seq...",
+        "pmid": "41632244",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41632244/",
+        "doiUrl": "https://doi.org/10.1007/s00247-025-06506-w",
+        "url": "https://doi.org/10.1007/s00247-025-06506-w"
+      },
+      {
+        "title": "Post-Bleed Prognosis Beyond Hospitalization: The CLIF Consortium Acute Decompensation Score (CLIF-C AD) Predicts Six-Week Mortality After Upper Gastrointestinal Bleeding in Patients With Cirrhosis.",
+        "journal": "Cureus",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article",
+        "authors": "Ciorba IM, Craciun Ciorba N, Bataga SM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：目的 我们的目标是评估 CLIF 联盟急性失代偿评分 (CLIF-C AD) 的出血后风险分层，使用六周死亡率作为预先指定的主要终点，五天再出血作为预先指定的次要终点， 临床提示：背景 对于肝硬化，上消化道出血 (UGIB) 后的结果超出了住院治疗的范围。",
+        "abstract": "Background In cirrhosis, outcomes after upper gastrointestinal bleeding (UGIB) extend beyond the index hospitalization. Six-week mortality is a standard endpoint for portal hypertension studies because it captures early deaths related to recurrent bleeding and post-bleed complications (infection, renal dysfunction, organ failure). Objective Our objective was to evaluate the CLIF Consortium Acute Decompensation score (CLIF-C AD) for post-bleed risk stratification, using six-week mortality as the prespecified primary endpoint and five-day rebleeding as a prespecified secondary endpoint, in comparison with MELD-Na (Model for End-Stage Liver Disease with sodium) and AIMS65 (albumin, internationa...",
+        "pmid": "41908581",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41908581/",
+        "doiUrl": "https://doi.org/10.7759/cureus.105959",
+        "url": "https://doi.org/10.7759/cureus.105959"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "杰里米·鲍文：特朗普基于本能发动战争，但行不通",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“杰里米·鲍文：特朗普基于本能发动战争，但行不通”。核心要点：英国广播公司 (BBC) 国际编辑写道，伊朗冲突发生一个月后，事实证明，特朗普本能的做法并未奏效。",
+        "titleZh": "西班牙对参与伊朗战争的美国飞机关闭领空",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙对参与伊朗战争的美国飞机关闭领空”。核心要点：此前，西班牙政府决定拒绝美国使用安达卢西亚的两个联合军事基地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 00:02:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 30 Mar 2026 15:29:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着主要工业基地遭到袭击，伊朗在海湾地区的袭击仍在继续",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着主要工业基地遭到袭击，伊朗在海湾地区的袭击仍在继续”。核心要点：据称，阿联酋和巴林的铝厂遭遇袭击，造成多人受伤。",
+        "titleZh": "美国议员表示，查尔斯国王应该会见爱泼斯坦的受害者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国议员表示，查尔斯国王应该会见爱泼斯坦的受害者”。核心要点：虽然此次行程尚未得到官方确认，但据报道，国王和卡米拉王后计划于四月底访问美国。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 13:32:49 GMT",
-        "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 02:57:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "广播公司称，三名黎巴嫩记者在以色列袭击中丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“广播公司称，三名黎巴嫩记者在以色列袭击中丧生”。核心要点：以色列军方证实击毙了真主党附属的 Al Manar 电视台的 Ali Shoeib。",
+        "titleZh": "根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑”。核心要点：周一通过的新法律得到了极右翼兼安全部长伊塔马尔·本-格维尔的大力推动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 07:51:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 30 Mar 2026 21:11:37 GMT",
+        "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "三人在巴黎因美国银行外未遂炸弹袭击被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“三人在巴黎因美国银行外未遂炸弹袭击被捕”。核心要点：法国反恐检察官办公室表示已立即接手调查。",
+        "titleZh": "加沙母亲两年后与撤离的女儿团聚",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加沙母亲两年后与撤离的女儿团聚”。核心要点：战争开始时加沙的激烈战斗中，至少有八名早产儿被疏散，这名女孩是其中之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 15:33:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 30 Mar 2026 21:12:29 GMT",
+        "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "意大利调查丝芙兰和贝玲妃向儿童推销护肤品的行为",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“意大利调查丝芙兰和贝玲妃向儿童推销护肤品的行为”。核心要点：意大利竞争管理局表示，奢侈品巨头路威酩轩集团似乎采取了“特别阴险”的营销策略。",
+        "titleZh": "直升机飞越摇滚小子的豪宅后引发美国陆军调查",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“直升机飞越摇滚小子的豪宅后引发美国陆军调查”。核心要点：这位乡村摇滚艺术家周六发布了自己在室外游泳池向飞机致敬的视频。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 19:37:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 02:50:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "伊朗战争升级，油价升至 115 美元上方，亚洲股市下滑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争升级，油价升至 115 美元上方，亚洲股市下滑”。核心要点：此前，伊朗支持的也门胡塞叛军周末袭击以色列，加入冲突。",
+        "titleZh": "数百万司机通过不当销售汽车融资获得平均 829 英镑的赔偿",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“数百万司机通过不当销售汽车融资获得平均 829 英镑的赔偿”。核心要点：市监管机构表示，1210 万笔不当销售的汽车金融交易将有资格获得赔偿。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 03:34:37 GMT",
-        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 30 Mar 2026 18:59:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "数百万司机的补偿细节即将公布",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“数百万司机的补偿细节即将公布”。核心要点：市监管机构将概述数百万人如何就不当销售的汽车金融索赔。",
+        "titleZh": "汽车金融补偿金如何运作？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“汽车金融补偿金如何运作？”。核心要点：由于贷款人和经销商之间的佣金安排，数百万人可能有权获得赔偿。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 23:04:10 GMT",
-        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 30 Mar 2026 16:50:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "20 世纪 70 年代的石油危机是怎样的？我们是否正在面临更糟糕的情况？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“20 世纪 70 年代的石油危机是怎样的？我们是否正在面临更糟糕的情况？”。核心要点：虽然这两场危机都涉及石油，但专家表示，20 世纪 70 年代与今天发生的情况存在一些重要差异。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 30 Mar 2026 15:22:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伊朗战争进入第五周，油价上涨，亚洲股市下滑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争进入第五周，油价上涨，亚洲股市下滑”。核心要点：此前，伊朗支持的也门胡塞叛军周末袭击以色列，加入冲突。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 30 Mar 2026 15:35:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "科技公司的首席执行官突然喜欢将大规模裁员归咎于人工智能。为什么？",
@@ -85,22 +140,6 @@
         "sourceLang": "English",
         "publishedAt": "Sun, 29 Mar 2026 23:07:04 GMT",
         "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "巴德诺克表示，在提供救助之前先削减能源税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“巴德诺克表示，在提供救助之前先削减能源税”。核心要点：这位保守党领袖拒绝排除在账单上涨时直接向家庭付款的可能性，但表示这将付出代价。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 11:12:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "电子邮件显示，经纪人恳求爱泼斯坦与模特发生性关系",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“电子邮件显示，经纪人恳求爱泼斯坦与模特发生性关系”。核心要点：拉姆齐·埃尔克霍利 (Ramsey Elkholy) 在近十年的通信中向年仅 18 岁的女性介绍了这位金融家。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 28 Mar 2026 00:41:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
