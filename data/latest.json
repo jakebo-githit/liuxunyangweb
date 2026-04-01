@@ -1,145 +1,92 @@
 {
-  "updatedAt": "2026-03-31T04:07:27.806Z",
+  "updatedAt": "2026-04-01T04:20:52.162Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Transhepatic embolization of a pancreatico-duodenal arteriovenous malformation: Application of retrograde pressure cooker technique with ethylene-vinyl alcohol copolymer.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Jun",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Powanda PN, Rowland EA, Liu K",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：它们的管理具有挑战性，手术切除具有显着的发病风险。 临床提示：胰腺动静脉畸形是罕见的血管异常，可能表现为胃肠道出血、腹痛或门静脉高压。",
-        "abstract": "Pancreatic arteriovenous malformations are rare vascular anomalies that may present with gastrointestinal bleeding, abdominal pain, or portal hypertension. Their management is challenging, with surgical resection carrying a significant risk of morbidity. Endovascular embolization offers a less invasive alternative; however, success is often limited in cases with multiple arterial feeders. We present a 65-year-old woman with cirrhosis and upper gastrointestinal hemorrhage from a Yakes type III pancreatic arteriovenous malformation. Given her poor surgical candidacy and complex arterial inflow, transvenous retrograde embolization via a transhepatic approach was performed using a modified press...",
-        "pmid": "41909108",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41909108/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.02.051",
-        "url": "https://doi.org/10.1016/j.radcr.2026.02.051"
-      },
-      {
-        "title": "Drug-eluting Balloon Angioplasty as a Bridge to Early Liver Transplantation in Recipients with Coronary Artery Disease: A Case Series.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 May-Jun",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Pakkala AK, Chaksota H, Patil S",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：冠状动脉疾病 (CAD) 在终末期肝病 (ESLD) 患者中越来越受到重视，特别是在代谢功能障碍相关的脂肪肝病 (MASLD) 的背景下。 临床提示：药物洗脱球囊 (DEB) 血管成形术提供了一种“不留下任何痕迹”的方法，可以减少延长 DAPT 的需要，为早期肝移植提供潜在的桥梁策略。",
-        "abstract": "Coronary artery disease (CAD) is increasingly recognized among patients with end-stage liver disease (ESLD), particularly in the context of metabolic dysfunction-associated steatotic liver disease (MASLD). Management of CAD in liver transplant candidates is challenging due to the competing risks of ischemic events and perioperative bleeding, especially when dual antiplatelet therapy (DAPT) is required after coronary stenting. Drug-eluting balloon (DEB) angioplasty offers a \"leave-nothing-behind\" approach that may reduce the need for prolonged DAPT, providing a potential bridge strategy to early liver transplantation. We describe a series of four patients with ESLD and significant CAD who und...",
-        "pmid": "41908671",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41908671/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103532",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103532"
-      },
-      {
-        "title": "Prediction of Fontan failure and correlates of Fontan-associated liver disease severity using machine learning and radiomic features from multi-parametric abdominal MRI.",
-        "journal": "Pediatric radiology",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article",
-        "authors": "Prasad A, Opotowsky AR, Trout AT",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Fontan 相关肝病 (FALD) 与姑息性单心室先天性心脏病患者的发病率和死亡率相关。 临床提示：使用 T1 加权、T2 加权和扩散加权 MRI 的放射组学特征以及相关临床变量来开发机器学习模型，以预测 Fontan 衰竭和患者 FALD 严重程度的相关性",
-        "abstract": "Fontan-associated liver disease (FALD) is associated with morbidity and mortality in patients with palliated single ventricle congenital heart disease. To develop machine learning models using radiomic features from T1-weighted, T2-weighted, and diffusion-weighted MRI with pertinent clinical variables to predict Fontan failure and correlates of FALD severity in patients who underwent the Fontan operation. In this retrospective study of abdominal MRI examinations and clinical record data from 131 Fontan palliation patients (age range 9.1 - 53.3 years old), radiomic features from the liver and spleen were extracted using axial T1-weighted, T2-weighted fat-suppressed, and diffusion-weighted seq...",
-        "pmid": "41632244",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41632244/",
-        "doiUrl": "https://doi.org/10.1007/s00247-025-06506-w",
-        "url": "https://doi.org/10.1007/s00247-025-06506-w"
-      },
-      {
-        "title": "Post-Bleed Prognosis Beyond Hospitalization: The CLIF Consortium Acute Decompensation Score (CLIF-C AD) Predicts Six-Week Mortality After Upper Gastrointestinal Bleeding in Patients With Cirrhosis.",
-        "journal": "Cureus",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article",
-        "authors": "Ciorba IM, Craciun Ciorba N, Bataga SM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：目的 我们的目标是评估 CLIF 联盟急性失代偿评分 (CLIF-C AD) 的出血后风险分层，使用六周死亡率作为预先指定的主要终点，五天再出血作为预先指定的次要终点， 临床提示：背景 对于肝硬化，上消化道出血 (UGIB) 后的结果超出了住院治疗的范围。",
-        "abstract": "Background In cirrhosis, outcomes after upper gastrointestinal bleeding (UGIB) extend beyond the index hospitalization. Six-week mortality is a standard endpoint for portal hypertension studies because it captures early deaths related to recurrent bleeding and post-bleed complications (infection, renal dysfunction, organ failure). Objective Our objective was to evaluate the CLIF Consortium Acute Decompensation score (CLIF-C AD) for post-bleed risk stratification, using six-week mortality as the prespecified primary endpoint and five-day rebleeding as a prespecified secondary endpoint, in comparison with MELD-Na (Model for End-Stage Liver Disease with sodium) and AIMS65 (albumin, internationa...",
-        "pmid": "41908581",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41908581/",
-        "doiUrl": "https://doi.org/10.7759/cureus.105959",
-        "url": "https://doi.org/10.7759/cureus.105959"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "西班牙对参与伊朗战争的美国飞机关闭领空",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙对参与伊朗战争的美国飞机关闭领空”。核心要点：此前，西班牙政府决定拒绝美国使用安达卢西亚的两个联合军事基地。",
+        "titleZh": "报道和目击者称，伊朗在战争中使用儿童担任安全职务",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“报道和目击者称，伊朗在战争中使用儿童担任安全职务”。核心要点：据报道，一名 11 岁儿童在德黑兰检查站执勤时在一次空袭中丧生。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 15:29:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 12:56:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国议员表示，查尔斯国王应该会见爱泼斯坦的受害者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国议员表示，查尔斯国王应该会见爱泼斯坦的受害者”。核心要点：虽然此次行程尚未得到官方确认，但据报道，国王和卡米拉王后计划于四月底访问美国。",
+        "titleZh": "以色列表示，与真主党的战争结束后将继续控制黎巴嫩南部部分地区",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列表示，与真主党的战争结束后将继续控制黎巴嫩南部部分地区”。核心要点：国防部长以色列·卡茨还表示，靠近以色列边境的黎巴嫩村庄的房屋将被拆除。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 02:57:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 18:57:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“根据以色列新法律，被判犯有致命袭击罪的巴勒斯坦人将面临死刑”。核心要点：周一通过的新法律得到了极右翼兼安全部长伊塔马尔·本-格维尔的大力推动。",
+        "titleZh": "美国记者雪莉·基特森在巴格达遭绑架",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国记者雪莉·基特森在巴格达遭绑架”。核心要点：美国国务院表示，绑架她的一名嫌疑人与伊朗支持的民兵组织卡塔布真主党有联系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 21:11:37 GMT",
-        "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 21:08:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加沙母亲两年后与撤离的女儿团聚",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“加沙母亲两年后与撤离的女儿团聚”。核心要点：战争开始时加沙的激烈战斗中，至少有八名早产儿被疏散，这名女孩是其中之一。",
+        "titleZh": "初步报告发现，黎巴嫩维和人员在路边爆炸中丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“初步报告发现，黎巴嫩维和人员在路边爆炸中丧生”。核心要点：就在这两名印度尼西亚国民死亡后不到一天，另一名联合国维和人员（也是印度尼西亚人）在黎巴嫩被杀。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 21:12:29 GMT",
-        "url": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 22:07:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "直升机飞越摇滚小子的豪宅后引发美国陆军调查",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“直升机飞越摇滚小子的豪宅后引发美国陆军调查”。核心要点：这位乡村摇滚艺术家周六发布了自己在室外游泳池向飞机致敬的视频。",
+        "titleZh": "印度开始大规模人口普查，统计超过十亿人口",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“印度开始大规模人口普查，统计超过十亿人口”。核心要点：这场分两阶段的演习是世界上最雄心勃勃的演习，将有 300 万官员参加，其中每名印度人都包括在内。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 02:50:07 GMT",
-        "url": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 00:11:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "数百万司机通过不当销售汽车融资获得平均 829 英镑的赔偿",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“数百万司机通过不当销售汽车融资获得平均 829 英镑的赔偿”。核心要点：市监管机构表示，1210 万笔不当销售的汽车金融交易将有资格获得赔偿。",
+        "titleZh": "最低工资上涨生效，270万人加薪",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“最低工资上涨生效，270万人加薪”。核心要点：许多企业表示，他们将不得不将更高的工资成本转嫁给客户。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 18:59:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 23:01:15 GMT",
+        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "汽车金融补偿金如何运作？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“汽车金融补偿金如何运作？”。核心要点：由于贷款人和经销商之间的佣金安排，数百万人可能有权获得赔偿。",
+        "titleZh": "从水费到市政税：账单上涨（或下降）对您有何影响",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“从水费到市政税：账单上涨（或下降）对您有何影响”。核心要点：一系列账单上涨已经生效，但最低工资和福利的上涨将帮助一些人支付账单。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 16:50:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 23:00:54 GMT",
+        "url": "https://www.bbc.com/news/articles/clyeke8z871o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "20 世纪 70 年代的石油危机是怎样的？我们是否正在面临更糟糕的情况？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“20 世纪 70 年代的石油危机是怎样的？我们是否正在面临更糟糕的情况？”。核心要点：虽然这两场危机都涉及石油，但专家表示，20 世纪 70 年代与今天发生的情况存在一些重要差异。",
+        "titleZh": "特朗普表示伊朗战争可能在几周内结束，亚洲股市上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示伊朗战争可能在几周内结束，亚洲股市上涨”。核心要点：由于冲突扰乱了能源供应，5月份交付的布伦特原油价格在3月份上涨了创纪录的64%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 15:22:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 02:12:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争进入第五周，油价上涨，亚洲股市下滑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争进入第五周，油价上涨，亚洲股市下滑”。核心要点：此前，伊朗支持的也门胡塞叛军周末袭击以色列，加入冲突。",
+        "titleZh": "科技巨头甲骨文“大幅”裁员",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“科技巨头甲骨文“大幅”裁员”。核心要点：据认为，世界上最大的科技公司之一甲骨文可能有数千人失业。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 30 Mar 2026 15:35:40 GMT",
-        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 21:50:41 GMT",
+        "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "科技公司的首席执行官突然喜欢将大规模裁员归咎于人工智能。为什么？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“科技公司的首席执行官突然喜欢将大规模裁员归咎于人工智能。为什么？”。核心要点：越来越多的科技领导者指出人工智能工具导致的裁员，以及对更多投资现金的需求。",
+        "titleZh": "油价接近伊朗战争爆发以来最高价",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“油价接近伊朗战争爆发以来最高价”。核心要点：美以伊朗战争导致主要水道几乎所有交通中断，布伦特原油价格飙升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 29 Mar 2026 23:07:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 31 Mar 2026 22:34:04 GMT",
+        "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
