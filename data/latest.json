@@ -1,92 +1,145 @@
 {
-  "updatedAt": "2026-04-01T04:20:52.162Z",
+  "updatedAt": "2026-04-02T04:01:30.629Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "The diagnosis and management of portal hypertension in cirrhosis: The Gastroenterological Society of Australia consensus.",
+        "journal": "Hepatology communications",
+        "pubDate": "2026 Apr 1",
+        "studyType": "Journal Article / Consensus Statement / Practice Guideline",
+        "authors": "Majumdar A, Holmes J, Roberts SK",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在澳大利亚，慢性肝病目前是导致 50 至 59 岁人群过早死亡的第三大原因，也是澳大利亚 35 至 70 岁所有其他 5 岁年龄组中的第四大原因。 临床提示：国家卫生保健最高组织澳大利亚胃肠病学会 (GESA) 制定了关于肝硬化患者门脉高压的诊断和治疗的共识声明",
+        "abstract": "In Australia, chronic liver disease is now the third leading cause of premature death in people aged 50-59 years, and the fourth leading cause in all other 5-year age groups from 35 to 70 years in Australia. A consensus statement on the diagnosis and management of portal hypertension in patients with cirrhosis was developed by the Gastroenterological Society of Australia (GESA), the peak national organization for health care professionals and researchers working in gastroenterology and hepatology, to provide contemporary, evidence-based clinical guidelines. A summary of its recommendations is presented here. The consensus statement was developed in accordance with the Appraisal of Guidelines...",
+        "pmid": "41921189",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41921189/",
+        "doiUrl": "https://doi.org/10.1097/HC9.0000000000000934",
+        "url": "https://doi.org/10.1097/HC9.0000000000000934"
+      },
+      {
+        "title": "The Importance of Liver-Lung Communication in Pulmonary Vascular Diseases.",
+        "journal": "Comprehensive Physiology",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article / Review",
+        "authors": "Singh N, DuBrock HM, Prisco SZ",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：在正常健康状况下，肝脏和肺具有密切的解剖学、生理学和功能关系。 临床提示：然而，在肺血管疾病的背景下，越来越多的证据表明，肠道微生物组、肝系统和肺血管系统（所谓的“肠-肝-肺”轴）之间的相互作用发挥着重要作用。",
+        "abstract": "In normal health, the liver and lungs enjoy a close anatomic, physiologic, and functional relationship. In the context of pulmonary vascular disease, however, there is accumulating evidence that the interplay between the gut microbiome, hepatic system, and pulmonary vasculature (so-called \"gut-liver-lung\" axis) plays an important role in driving disease pathogenesis and determining clinical outcomes. Despite recognizing the importance of the gut-liver-lung axis in pulmonary vascular disease however, little is known about the clinical characteristics, circulating factors, and physiologic pathways that mediate this important axis of communication. In this clinical and translationally focused r...",
+        "pmid": "41918066",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41918066/",
+        "doiUrl": "https://doi.org/10.1002/cph4.70140",
+        "url": "https://doi.org/10.1002/cph4.70140"
+      },
+      {
+        "title": "Non-selective beta-blockers control ascites and improve outcomes in cirrhotic patients with first episode of ascites.",
+        "journal": "Hepatobiliary & pancreatic diseases international : HBPD INT",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article",
+        "authors": "Fernández-Soro A, Lobo-Antuña V, Alventosa-Mateu C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 99）。核心观点：在代偿性肝硬化患者中使用非选择性β受体阻滞剂（NSBB）已被证明可以降低首次失代偿的风险。 临床提示：然而，它们在初始水压失代偿后的作用尚不清楚。",
+        "abstract": "The use of non-selective beta-blockers (NSBBs) in patients with compensated cirrhosis has been shown to reduce the risk of first decompensation. However, their role after initial hydroptic decompensation is not clearly defined. This study aimed to evaluate the clinical evolution of patients with cirrhosis after the first episode of ascites. Inpatients with first decompensation in the form of ascites between January 2013 and January 2023 were included. Clinical variables and outcomes were compared between patients treated with and without NSBBs. A total of 99 patients were included, of whom 47 (47.5%) received NSBBs. Control of ascites was improved in the NSBB group (70.2% vs. 46.2%, P = 0.02...",
+        "pmid": "41690876",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41690876/",
+        "doiUrl": "https://doi.org/10.1016/j.hbpd.2026.01.010",
+        "url": "https://doi.org/10.1016/j.hbpd.2026.01.010"
+      },
+      {
+        "title": "Schistosoma japonicum infection: clinical significance of ultrasound findings.",
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "pubDate": "2026 Apr 1",
+        "studyType": "Journal Article / Review",
+        "authors": "Richter J, Wu HW, Ning A",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：日本血吸虫感染可引起与门静脉高压相关的严重肝脏并发症，可能导致食管静脉曲张出血而死亡。 临床提示：超声检查（美国）能够识别两种不同类型的金黄色葡萄球菌肝纤维化特征。",
+        "abstract": "Schistosoma japonicum infection can cause severe hepatic complications associated with portal hypertension, which may lead to death by bleeding from esophageal varices. Ultrasonography (US) enables the identification of two different types of liver fibrosis characteristic for S. japonicum infection: interseptal fibrosis (ISF) and portal fibrosis (PF). To date, these two forms of liver fibrosis have not been sufficiently investigated with regard to their potential to cause portal hypertension. Among the 121 reports published, only 56 (46.3%) distinguish between ISF and PF. In 31/56 (55.4%) of these publications, patients with only ISF, two (3.6%) with only PF, as well as 23 (41.1%) with conco...",
+        "pmid": "41496729",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41496729/",
+        "doiUrl": "https://doi.org/10.1093/trstmh/traf134",
+        "url": "https://doi.org/10.1093/trstmh/traf134"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "报道和目击者称，伊朗在战争中使用儿童担任安全职务",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“报道和目击者称，伊朗在战争中使用儿童担任安全职务”。核心要点：据报道，一名 11 岁儿童在德黑兰检查站执勤时在一次空袭中丧生。",
+        "titleZh": "观看阿耳忒弥斯二号升入太空的那一刻",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“观看阿耳忒弥斯二号升入太空的那一刻”。核心要点：经过延误和技术问题后，50 年来首次载人登月任务终于从佛罗里达州起飞，目前已进入地球轨道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 12:56:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 23:00:39 GMT",
+        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列表示，与真主党的战争结束后将继续控制黎巴嫩南部部分地区",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列表示，与真主党的战争结束后将继续控制黎巴嫩南部部分地区”。核心要点：国防部长以色列·卡茨还表示，靠近以色列边境的黎巴嫩村庄的房屋将被拆除。",
+        "titleZh": "特朗普试图平息伊朗战争带来的紧张情绪，但未回答关键问题",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普试图平息伊朗战争带来的紧张情绪，但未回答关键问题”。核心要点：英国广播公司 (BBC) 的加里·奥多诺霍 (Gary O'Donoghue) 写道，总统的黄金时段讲话中有一些明显的遗漏。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 18:57:25 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 03:22:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国记者雪莉·基特森在巴格达遭绑架",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国记者雪莉·基特森在巴格达遭绑架”。核心要点：美国国务院表示，绑架她的一名嫌疑人与伊朗支持的民兵组织卡塔布真主党有联系。",
+        "titleZh": "以色列加强对黎巴嫩的袭击并袭击真主党控制之外的地区",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列加强对黎巴嫩的袭击并袭击真主党控制之外的地区”。核心要点：随着以色列宣布打算控制黎巴嫩南部大片地区，袭击仍在继续。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 21:08:35 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 10:33:35 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "初步报告发现，黎巴嫩维和人员在路边爆炸中丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“初步报告发现，黎巴嫩维和人员在路边爆炸中丧生”。核心要点：就在这两名印度尼西亚国民死亡后不到一天，另一名联合国维和人员（也是印度尼西亚人）在黎巴嫩被杀。",
+        "titleZh": "犹他州青少年被确认为连环杀手泰德·邦迪的受害者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“犹他州青少年被确认为连环杀手泰德·邦迪的受害者”。核心要点：据调查人员称，新的 DNA 检测已经侦破了 51 岁青少年劳拉·安·艾梅 (Laura Ann Aime) 被谋杀案。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 22:07:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 22:35:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度开始大规模人口普查，统计超过十亿人口",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印度开始大规模人口普查，统计超过十亿人口”。核心要点：这场分两阶段的演习是世界上最雄心勃勃的演习，将有 300 万官员参加，其中每名印度人都包括在内。",
+        "titleZh": "美国最高法院似乎对美国出生公民权挑战持怀疑态度",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国最高法院似乎对美国出生公民权挑战持怀疑态度”。核心要点：特朗普周三亲自出席了口头辩论，这是现任总统罕见的举动，突显了此案的高风险。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 00:11:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 22:00:17 GMT",
+        "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "最低工资上涨生效，270万人加薪",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“最低工资上涨生效，270万人加薪”。核心要点：许多企业表示，他们将不得不将更高的工资成本转嫁给客户。",
+        "titleZh": "RAC表示，汽油和柴油价格月度涨幅创历史新高",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“RAC表示，汽油和柴油价格月度涨幅创历史新高”。核心要点：根据汽车组织的数据，3 月份燃油价格以每升便士计出现了有记录以来最快的涨幅。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 23:01:15 GMT",
-        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 23:59:00 GMT",
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "从水费到市政税：账单上涨（或下降）对您有何影响",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“从水费到市政税：账单上涨（或下降）对您有何影响”。核心要点：一系列账单上涨已经生效，但最低工资和福利的上涨将帮助一些人支付账单。",
+        "titleZh": "新法律使取消订阅变得更容易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“新法律使取消订阅变得更容易”。核心要点：政府表示，消费者将能够“单击按钮”取消不需要的订阅。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 23:00:54 GMT",
-        "url": "https://www.bbc.com/news/articles/clyeke8z871o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 23:10:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示伊朗战争可能在几周内结束，亚洲股市上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示伊朗战争可能在几周内结束，亚洲股市上涨”。核心要点：由于冲突扰乱了能源供应，5月份交付的布伦特原油价格在3月份上涨了创纪录的64%。",
+        "titleZh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 成为一家上市公司",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克 (Elon Musk) 的 SpaceX 成为一家上市公司”。核心要点：该公司的公开股票首次亮相将成为历史上最有价值的股票之一，并可能使马斯克成为世界上第一位万亿富翁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 02:12:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 22:35:23 GMT",
+        "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "科技巨头甲骨文“大幅”裁员",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“科技巨头甲骨文“大幅”裁员”。核心要点：据认为，世界上最大的科技公司之一甲骨文可能有数千人失业。",
+        "titleZh": "房地产经纪人指责 Rightmove 收取过高费用",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“房地产经纪人指责 Rightmove 收取过高费用”。核心要点：该在线挂牌门户目前正在集体诉讼中，该诉讼是代表数百名房地产经纪人发起的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 21:50:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 08:15:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "油价接近伊朗战争爆发以来最高价",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“油价接近伊朗战争爆发以来最高价”。核心要点：美以伊朗战争导致主要水道几乎所有交通中断，布伦特原油价格飙升。",
+        "titleZh": "警告伊朗战争“冲击”可能会推高 130 万房主的抵押贷款",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“警告伊朗战争“冲击”可能会推高 130 万房主的抵押贷款”。核心要点：央行警告称，能源价格上涨可能导致房主借贷成本上升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 31 Mar 2026 22:34:04 GMT",
-        "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Apr 2026 10:47:02 GMT",
+        "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
