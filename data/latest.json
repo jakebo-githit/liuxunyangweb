@@ -1,145 +1,146 @@
 {
-  "updatedAt": "2026-04-02T04:01:30.629Z",
+  "updatedAt": "2026-04-03T04:02:13.226Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Association between Tubular Injury Biomarkers and Early Renal Injury in Hypertensive Patients.",
+        "journal": "International heart journal",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Zhang J, Zhang X, Kuai Z",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 106）。核心观点：高血压肾硬化缺乏统一的诊断标准和有效的生物标志物，使得早期检测具有挑战性。 临床提示：本研究旨在探讨高血压患者的肾功能障碍生物标志物，以识别早期肾损伤。本研究纳入了 106 名高血压患者，根据尿微量分为 3 组。",
+        "abstract": "The lack of uniform diagnostic criteria and effective biomarkers for hypertensive nephrosclerosis makes early detection challenging. This study aimed to explore renal dysfunction biomarkers in hypertensive patients to identify early renal injury.The current study enrolled 106 hypertensive patients divided into 3 groups according to their urine microalbumin/creatinine ratio (ACR) to investigate the association between tubular injury biomarkers and early renal impairment. The serum levels of human and animal models were measured by ELISA, and the statistical analysis was conducted by SPSS. The degree of renal injury was assessed by histological staining.Serum levels of kidney injury molecule-1...",
+        "pmid": "41922284",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922284/",
+        "doiUrl": "https://doi.org/10.1536/ihj.25-515",
+        "url": "https://doi.org/10.1536/ihj.25-515"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "The diagnosis and management of portal hypertension in cirrhosis: The Gastroenterological Society of Australia consensus.",
-        "journal": "Hepatology communications",
+        "title": "Recommendations for portal hypertension assessment using spleen stiffness measurement in patients with compensated advanced chronic liver disease.",
+        "journal": "Chinese medical journal",
         "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article / Consensus Statement / Practice Guideline",
-        "authors": "Majumdar A, Holmes J, Roberts SK",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在澳大利亚，慢性肝病目前是导致 50 至 59 岁人群过早死亡的第三大原因，也是澳大利亚 35 至 70 岁所有其他 5 岁年龄组中的第四大原因。 临床提示：国家卫生保健最高组织澳大利亚胃肠病学会 (GESA) 制定了关于肝硬化患者门脉高压的诊断和治疗的共识声明",
-        "abstract": "In Australia, chronic liver disease is now the third leading cause of premature death in people aged 50-59 years, and the fourth leading cause in all other 5-year age groups from 35 to 70 years in Australia. A consensus statement on the diagnosis and management of portal hypertension in patients with cirrhosis was developed by the Gastroenterological Society of Australia (GESA), the peak national organization for health care professionals and researchers working in gastroenterology and hepatology, to provide contemporary, evidence-based clinical guidelines. A summary of its recommendations is presented here. The consensus statement was developed in accordance with the Appraisal of Guidelines...",
-        "pmid": "41921189",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41921189/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000000934",
-        "url": "https://doi.org/10.1097/HC9.0000000000000934"
-      },
-      {
-        "title": "The Importance of Liver-Lung Communication in Pulmonary Vascular Diseases.",
-        "journal": "Comprehensive Physiology",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article / Review",
-        "authors": "Singh N, DuBrock HM, Prisco SZ",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：在正常健康状况下，肝脏和肺具有密切的解剖学、生理学和功能关系。 临床提示：然而，在肺血管疾病的背景下，越来越多的证据表明，肠道微生物组、肝系统和肺血管系统（所谓的“肠-肝-肺”轴）之间的相互作用发挥着重要作用。",
-        "abstract": "In normal health, the liver and lungs enjoy a close anatomic, physiologic, and functional relationship. In the context of pulmonary vascular disease, however, there is accumulating evidence that the interplay between the gut microbiome, hepatic system, and pulmonary vasculature (so-called \"gut-liver-lung\" axis) plays an important role in driving disease pathogenesis and determining clinical outcomes. Despite recognizing the importance of the gut-liver-lung axis in pulmonary vascular disease however, little is known about the clinical characteristics, circulating factors, and physiologic pathways that mediate this important axis of communication. In this clinical and translationally focused r...",
-        "pmid": "41918066",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41918066/",
-        "doiUrl": "https://doi.org/10.1002/cph4.70140",
-        "url": "https://doi.org/10.1002/cph4.70140"
-      },
-      {
-        "title": "Non-selective beta-blockers control ascites and improve outcomes in cirrhotic patients with first episode of ascites.",
-        "journal": "Hepatobiliary & pancreatic diseases international : HBPD INT",
-        "pubDate": "2026 Apr",
         "studyType": "Journal Article",
-        "authors": "Fernández-Soro A, Lobo-Antuña V, Alventosa-Mateu C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 99）。核心观点：在代偿性肝硬化患者中使用非选择性β受体阻滞剂（NSBB）已被证明可以降低首次失代偿的风险。 临床提示：然而，它们在初始水压失代偿后的作用尚不清楚。",
-        "abstract": "The use of non-selective beta-blockers (NSBBs) in patients with compensated cirrhosis has been shown to reduce the risk of first decompensation. However, their role after initial hydroptic decompensation is not clearly defined. This study aimed to evaluate the clinical evolution of patients with cirrhosis after the first episode of ascites. Inpatients with first decompensation in the form of ascites between January 2013 and January 2023 were included. Clinical variables and outcomes were compared between patients treated with and without NSBBs. A total of 99 patients were included, of whom 47 (47.5%) received NSBBs. Control of ascites was improved in the NSBB group (70.2% vs. 46.2%, P = 0.02...",
-        "pmid": "41690876",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41690876/",
-        "doiUrl": "https://doi.org/10.1016/j.hbpd.2026.01.010",
-        "url": "https://doi.org/10.1016/j.hbpd.2026.01.010"
+        "authors": "Zhang X, Wang B, Zhao S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：对代偿性晚期慢性肝病患者使用脾硬度测量评估门脉高压的建议。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41922905",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922905/",
+        "doiUrl": "https://doi.org/10.1097/CM9.0000000000004080",
+        "url": "https://doi.org/10.1097/CM9.0000000000004080"
       },
       {
-        "title": "Schistosoma japonicum infection: clinical significance of ultrasound findings.",
-        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "title": "Neoadjuvant Oxaliplatin and Pancreaticoduodenectomy for Pancreatic Ductal Adenocarcinoma: CT Features of Chemotherapy-Associated Liver Injury and Postoperative Complications.",
+        "journal": "Annals of surgical oncology",
         "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article / Review",
-        "authors": "Richter J, Wu HW, Ning A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：日本血吸虫感染可引起与门静脉高压相关的严重肝脏并发症，可能导致食管静脉曲张出血而死亡。 临床提示：超声检查（美国）能够识别两种不同类型的金黄色葡萄球菌肝纤维化特征。",
-        "abstract": "Schistosoma japonicum infection can cause severe hepatic complications associated with portal hypertension, which may lead to death by bleeding from esophageal varices. Ultrasonography (US) enables the identification of two different types of liver fibrosis characteristic for S. japonicum infection: interseptal fibrosis (ISF) and portal fibrosis (PF). To date, these two forms of liver fibrosis have not been sufficiently investigated with regard to their potential to cause portal hypertension. Among the 121 reports published, only 56 (46.3%) distinguish between ISF and PF. In 31/56 (55.4%) of these publications, patients with only ISF, two (3.6%) with only PF, as well as 23 (41.1%) with conco...",
-        "pmid": "41496729",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41496729/",
-        "doiUrl": "https://doi.org/10.1093/trstmh/traf134",
-        "url": "https://doi.org/10.1093/trstmh/traf134"
+        "studyType": "Journal Article",
+        "authors": "Tessier F, Baudouin M, Codjia T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：结直肠肝转移患者中已显示出肝毒性，特别是通过化疗相关肝损伤 (CALI) 的发展。 临床提示：该研究旨在评估基于奥沙利铂的 NAT 后计算机断层扫描 (CT) 成像的肝脏变化，并确定预测术后并发症的标志物。",
+        "abstract": "Oxaliplatin-based neoadjuvant therapy (NAT) is increasingly being used in patients undergoing curative-intent surgery for pancreatic ductal adenocarcinoma (PDAC). Liver toxicity, notably through the development of chemotherapy-associated liver injury (CALI), has been shown in patients with colorectal liver metastases. However, its impact on postoperative complications after pancreaticoduodenectomy (PD) is not known. The study aimed to assess the hepatic changes on computed tomography (CT) imaging after oxaliplatin-based NAT and to identify markers predictive of postoperative complications. CT scans were retrospectively analyzed before and after oxaliplatin-based NAT of consecutive patients u...",
+        "pmid": "41922862",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922862/",
+        "doiUrl": "https://doi.org/10.1245/s10434-026-19545-w",
+        "url": "https://doi.org/10.1245/s10434-026-19545-w"
+      },
+      {
+        "title": "Biopsy-Proven Reversal of F4 Cirrhosis in Classic Hepatic Glycogen Storage Disease Type IV: A 42-Year Follow-Up Without Transplantation.",
+        "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
+        "pubDate": "2026 Apr",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Mino M, Mori N, Shimomura Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：典型的肝糖原贮积病 IV (GSD-IV) 被广泛认为是一种不可逆的疾病，除非进行肝移植，否则会在 5 岁时导致致命的肝硬化。 临床提示：我们描述了第一例经活检证实患有经典肝 GSD-IV 的患者，他在没有移植的情况下存活到中年，并表现出肝硬化的组织学逆转。",
+        "abstract": "Classic hepatic glycogen storage disease IV (GSD-IV) is widely regarded as an irreversible disorder that causes fatal cirrhosis by the age of 5 years unless liver transplantation is performed. We describe the first patient with biopsy-proven classic hepatic GSD-IV who survived into middle adulthood without transplantation and showed histological reversal of cirrhosis. We followed an infant diagnosed at 11 months with hepatosplenomegaly, severe aminotransferase elevation, and near-absent erythrocyte branching enzyme activity. Liver biopsies at ages 4 and 12 years confirmed polyglucosan-laden METAVIR F4 cirrhosis, and two episodes of variceal bleeding were controlled endoscopically and surgica...",
+        "pmid": "41428406",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41428406/",
+        "doiUrl": "https://doi.org/10.1111/hepr.70084",
+        "url": "https://doi.org/10.1111/hepr.70084"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "观看阿耳忒弥斯二号升入太空的那一刻",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“观看阿耳忒弥斯二号升入太空的那一刻”。核心要点：经过延误和技术问题后，50 年来首次载人登月任务终于从佛罗里达州起飞，目前已进入地球轨道。",
+        "titleZh": "阿耳忒弥斯二号爆炸离月球背面越来越近",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿耳忒弥斯二号爆炸离月球背面越来越近”。核心要点：该任务对月球之旅进行最后一次大力推动，使人类自 1972 年以来首次脱离地球轨道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 23:00:39 GMT",
-        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 03:35:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普试图平息伊朗战争带来的紧张情绪，但未回答关键问题",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普试图平息伊朗战争带来的紧张情绪，但未回答关键问题”。核心要点：英国广播公司 (BBC) 的加里·奥多诺霍 (Gary O'Donoghue) 写道，总统的黄金时段讲话中有一些明显的遗漏。",
+        "titleZh": "特朗普罢免美国司法部长帕姆·邦迪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普罢免美国司法部长帕姆·邦迪”。核心要点：邦迪担任美国最高执法官员的时期因她对爱泼斯坦档案的处理而黯然失色。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 03:22:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 00:31:27 GMT",
+        "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列加强对黎巴嫩的袭击并袭击真主党控制之外的地区",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列加强对黎巴嫩的袭击并袭击真主党控制之外的地区”。核心要点：随着以色列宣布打算控制黎巴嫩南部大片地区，袭击仍在继续。",
+        "titleZh": "“我已经好几天没有睡觉了”：伊朗人描述一个月战争后日益加剧的绝望",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““我已经好几天没有睡觉了”：伊朗人描述一个月战争后日益加剧的绝望”。核心要点：来自伊朗各地的普通民众描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 10:33:35 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 16:09:24 GMT",
+        "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "犹他州青少年被确认为连环杀手泰德·邦迪的受害者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“犹他州青少年被确认为连环杀手泰德·邦迪的受害者”。核心要点：据调查人员称，新的 DNA 检测已经侦破了 51 岁青少年劳拉·安·艾梅 (Laura Ann Aime) 被谋杀案。",
+        "titleZh": "伊朗战争可能会使印度人的啤酒和瓶装水价格更高",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争可能会使印度人的啤酒和瓶装水价格更高”。核心要点：由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 22:35:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 23:16:37 GMT",
+        "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国最高法院似乎对美国出生公民权挑战持怀疑态度",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国最高法院似乎对美国出生公民权挑战持怀疑态度”。核心要点：特朗普周三亲自出席了口头辩论，这是现任总统罕见的举动，突显了此案的高风险。",
+        "titleZh": "“认真点……不要每天都说话”：马克龙批评特朗普对伊朗战争的态度",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““认真点……不要每天都说话”：马克龙批评特朗普对伊朗战争的态度”。核心要点：这些言论显然是对这位美国领导人在美以对伊朗战争问题上有时相互矛盾的立场的攻击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 22:00:17 GMT",
-        "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 13:41:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "RAC表示，汽油和柴油价格月度涨幅创历史新高",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“RAC表示，汽油和柴油价格月度涨幅创历史新高”。核心要点：根据汽车组织的数据，3 月份燃油价格以每升便士计出现了有记录以来最快的涨幅。",
+        "titleZh": "“我最终支付了 500 英镑”：你的订阅陷阱故事",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我最终支付了 500 英镑”：你的订阅陷阱故事”。核心要点：许多读者都经历过取消订阅的痛苦。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 23:59:00 GMT",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 23:07:56 GMT",
+        "url": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "新法律使取消订阅变得更容易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“新法律使取消订阅变得更容易”。核心要点：政府表示，消费者将能够“单击按钮”取消不需要的订阅。",
+        "titleZh": "特朗普威胁对伊朗实施更多打击后，油价上涨，股价下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普威胁对伊朗实施更多打击后，油价上涨，股价下跌”。核心要点：美国总统表示，他将让伊朗“回到石器时代”，但没有透露有关结束战争的细节。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 23:10:34 GMT",
+        "publishedAt": "Thu, 02 Apr 2026 22:25:44 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "新法律使取消订阅和获得退款变得更容易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“新法律使取消订阅和获得退款变得更容易”。核心要点：政府表示，消费者将能够“单击按钮”取消不需要的订阅。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 02 Apr 2026 09:08:40 GMT",
         "url": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 成为一家上市公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克 (Elon Musk) 的 SpaceX 成为一家上市公司”。核心要点：该公司的公开股票首次亮相将成为历史上最有价值的股票之一，并可能使马斯克成为世界上第一位万亿富翁。",
+        "titleZh": "一年过去：特朗普关税改变全球经济的四种方式",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“一年过去：特朗普关税改变全球经济的四种方式”。核心要点：美国关税处于数十年来的最高水平。但影响是什么？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 22:35:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 09:51:22 GMT",
+        "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "房地产经纪人指责 Rightmove 收取过高费用",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“房地产经纪人指责 Rightmove 收取过高费用”。核心要点：该在线挂牌门户目前正在集体诉讼中，该诉讼是代表数百名房地产经纪人发起的。",
+        "titleZh": "除非企业达成协议，否则药品在美国面临 100% 关税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“除非企业达成协议，否则药品在美国面临 100% 关税”。核心要点：该命令不影响美国最常用的仿制药。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 08:15:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "警告伊朗战争“冲击”可能会推高 130 万房主的抵押贷款",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“警告伊朗战争“冲击”可能会推高 130 万房主的抵押贷款”。核心要点：央行警告称，能源价格上涨可能导致房主借贷成本上升。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 01 Apr 2026 10:47:02 GMT",
-        "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Apr 2026 22:06:30 GMT",
+        "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
