@@ -1,107 +1,83 @@
 {
-  "updatedAt": "2026-04-03T04:02:13.226Z",
+  "updatedAt": "2026-04-04T03:42:28.656Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Association between Tubular Injury Biomarkers and Early Renal Injury in Hypertensive Patients.",
-        "journal": "International heart journal",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Zhang J, Zhang X, Kuai Z",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 106）。核心观点：高血压肾硬化缺乏统一的诊断标准和有效的生物标志物，使得早期检测具有挑战性。 临床提示：本研究旨在探讨高血压患者的肾功能障碍生物标志物，以识别早期肾损伤。本研究纳入了 106 名高血压患者，根据尿微量分为 3 组。",
-        "abstract": "The lack of uniform diagnostic criteria and effective biomarkers for hypertensive nephrosclerosis makes early detection challenging. This study aimed to explore renal dysfunction biomarkers in hypertensive patients to identify early renal injury.The current study enrolled 106 hypertensive patients divided into 3 groups according to their urine microalbumin/creatinine ratio (ACR) to investigate the association between tubular injury biomarkers and early renal impairment. The serum levels of human and animal models were measured by ELISA, and the statistical analysis was conducted by SPSS. The degree of renal injury was assessed by histological staining.Serum levels of kidney injury molecule-1...",
-        "pmid": "41922284",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922284/",
-        "doiUrl": "https://doi.org/10.1536/ihj.25-515",
-        "url": "https://doi.org/10.1536/ihj.25-515"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Recommendations for portal hypertension assessment using spleen stiffness measurement in patients with compensated advanced chronic liver disease.",
-        "journal": "Chinese medical journal",
-        "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article",
-        "authors": "Zhang X, Wang B, Zhao S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：对代偿性晚期慢性肝病患者使用脾硬度测量评估门脉高压的建议。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41922905",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922905/",
-        "doiUrl": "https://doi.org/10.1097/CM9.0000000000004080",
-        "url": "https://doi.org/10.1097/CM9.0000000000004080"
-      },
-      {
-        "title": "Neoadjuvant Oxaliplatin and Pancreaticoduodenectomy for Pancreatic Ductal Adenocarcinoma: CT Features of Chemotherapy-Associated Liver Injury and Postoperative Complications.",
-        "journal": "Annals of surgical oncology",
-        "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article",
-        "authors": "Tessier F, Baudouin M, Codjia T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：结直肠肝转移患者中已显示出肝毒性，特别是通过化疗相关肝损伤 (CALI) 的发展。 临床提示：该研究旨在评估基于奥沙利铂的 NAT 后计算机断层扫描 (CT) 成像的肝脏变化，并确定预测术后并发症的标志物。",
-        "abstract": "Oxaliplatin-based neoadjuvant therapy (NAT) is increasingly being used in patients undergoing curative-intent surgery for pancreatic ductal adenocarcinoma (PDAC). Liver toxicity, notably through the development of chemotherapy-associated liver injury (CALI), has been shown in patients with colorectal liver metastases. However, its impact on postoperative complications after pancreaticoduodenectomy (PD) is not known. The study aimed to assess the hepatic changes on computed tomography (CT) imaging after oxaliplatin-based NAT and to identify markers predictive of postoperative complications. CT scans were retrospectively analyzed before and after oxaliplatin-based NAT of consecutive patients u...",
-        "pmid": "41922862",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41922862/",
-        "doiUrl": "https://doi.org/10.1245/s10434-026-19545-w",
-        "url": "https://doi.org/10.1245/s10434-026-19545-w"
-      },
-      {
-        "title": "Biopsy-Proven Reversal of F4 Cirrhosis in Classic Hepatic Glycogen Storage Disease Type IV: A 42-Year Follow-Up Without Transplantation.",
-        "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
-        "pubDate": "2026 Apr",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Mino M, Mori N, Shimomura Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：典型的肝糖原贮积病 IV (GSD-IV) 被广泛认为是一种不可逆的疾病，除非进行肝移植，否则会在 5 岁时导致致命的肝硬化。 临床提示：我们描述了第一例经活检证实患有经典肝 GSD-IV 的患者，他在没有移植的情况下存活到中年，并表现出肝硬化的组织学逆转。",
-        "abstract": "Classic hepatic glycogen storage disease IV (GSD-IV) is widely regarded as an irreversible disorder that causes fatal cirrhosis by the age of 5 years unless liver transplantation is performed. We describe the first patient with biopsy-proven classic hepatic GSD-IV who survived into middle adulthood without transplantation and showed histological reversal of cirrhosis. We followed an infant diagnosed at 11 months with hepatosplenomegaly, severe aminotransferase elevation, and near-absent erythrocyte branching enzyme activity. Liver biopsies at ages 4 and 12 years confirmed polyglucosan-laden METAVIR F4 cirrhosis, and two episodes of variceal bleeding were controlled endoscopically and surgica...",
-        "pmid": "41428406",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41428406/",
-        "doiUrl": "https://doi.org/10.1111/hepr.70084",
-        "url": "https://doi.org/10.1111/hepr.70084"
+        "title": "A Review of Terlipressin in Hepatorenal Syndrome: Targeting Endothelial Dysfunction and Subsequent Cardiovascular Adverse Events.",
+        "journal": "Cardiology in review",
+        "pubDate": "2026 May-Jun 01",
+        "studyType": "Journal Article / Review",
+        "authors": "Bielawski AM, Frishman WH",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：最终，内脏血管舒张和肠道淋巴液产生过多导致腹水、有效动脉血容量低以及适应不良的代偿机制，从而导致肾脏灌注不足和损伤。 临床提示：肝肾综合征（HRS）是失代偿性肝硬化的严重并发症，可导致急性肾损伤（AKI）。",
+        "abstract": "Hepatorenal syndrome (HRS) is a serious complication of decompensated liver cirrhosis that results in acute kidney injury (AKI). The mortality rate is high. Endothelial dysfunction secondary to liver cirrhosis is a key driver of the development of portal hypertension, which is eventually complicated by ascites and HRS. Ultimately, splanchnic vasodilation and excess gut lymph production result in ascites, low effective arterial blood volume, and maladaptive compensatory mechanisms that contribute to renal hypoperfusion and injury. While the only curative treatment is liver transplantation, vasoconstrictors and albumin have been the mainstay of treatment for candidates who are ineligible or wa...",
+        "pmid": "38832784",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/38832784/",
+        "doiUrl": "https://doi.org/10.1097/CRD.0000000000000697",
+        "url": "https://doi.org/10.1097/CRD.0000000000000697"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "阿耳忒弥斯二号爆炸离月球背面越来越近",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿耳忒弥斯二号爆炸离月球背面越来越近”。核心要点：该任务对月球之旅进行最后一次大力推动，使人类自 1972 年以来首次脱离地球轨道。",
+        "titleZh": "伊朗救援队面临“痛苦且危险”的搜寻美国船员的任务",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗救援队面临“痛苦且危险”的搜寻美国船员的任务”。核心要点：一名前美国海军陆战队员告诉英国广播公司，任何救援小组的首要任务都是寻找生命迹象。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 03:35:28 GMT",
-        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 04 Apr 2026 02:52:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普罢免美国司法部长帕姆·邦迪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普罢免美国司法部长帕姆·邦迪”。核心要点：邦迪担任美国最高执法官员的时期因她对爱泼斯坦档案的处理而黯然失色。",
+        "titleZh": "阿耳忒弥斯二号船员拍摄了“壮观”的地球照片",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿耳忒弥斯二号船员拍摄了“壮观”的地球照片”。核心要点：这张照片是由猎户座太空舱的指挥官里德·怀斯曼在宇航员前往月球时拍摄的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 00:31:27 GMT",
-        "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 21:44:31 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我已经好几天没有睡觉了”：伊朗人描述一个月战争后日益加剧的绝望",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““我已经好几天没有睡觉了”：伊朗人描述一个月战争后日益加剧的绝望”。核心要点：来自伊朗各地的普通民众描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。",
+        "titleZh": "执政16年后，维克多·欧尔班最终能否被赶下台？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“执政16年后，维克多·欧尔班最终能否被赶下台？”。核心要点：匈牙利将于 9 天后举行大选——执政 16 年后，欧尔班·维克多 (Viktor Orban) 能否被赶下台？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 16:09:24 GMT",
-        "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 23:04:24 GMT",
+        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争可能会使印度人的啤酒和瓶装水价格更高",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争可能会使印度人的啤酒和瓶装水价格更高”。核心要点：由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。",
+        "titleZh": "军事领导人表示布基纳法索必须“忘记”民主",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“军事领导人表示布基纳法索必须“忘记”民主”。核心要点：2023 年掌权的易卜拉欣·特拉奥雷上尉表示，民主统治对他的国家不起作用。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 23:16:37 GMT",
-        "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 11:11:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“认真点……不要每天都说话”：马克龙批评特朗普对伊朗战争的态度",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““认真点……不要每天都说话”：马克龙批评特朗普对伊朗战争的态度”。核心要点：这些言论显然是对这位美国领导人在美以对伊朗战争问题上有时相互矛盾的立场的攻击。",
+        "titleZh": "法国船通过霍尔木兹海峡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国船通过霍尔木兹海峡”。核心要点：这似乎是自冲突开始以来欧洲大公司拥有的第一艘穿过该海峡的船只。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 13:41:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 17:45:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "国家养老金年龄开始升至 67 岁——以下是您领取养老金的金额和时间",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“国家养老金年龄开始升至 67 岁——以下是您领取养老金的金额和时间”。核心要点：人们开始领取国家养老金的年龄将在未来两年内分阶段提高。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 03 Apr 2026 23:27:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "法国船通过霍尔木兹海峡",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法国船通过霍尔木兹海峡”。核心要点：这似乎是自冲突开始以来欧洲大公司拥有的第一艘穿过该海峡的船只。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 03 Apr 2026 17:45:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "“我最终支付了 500 英镑”：你的订阅陷阱故事",
         "summaryZh": "这是一条金融市场新闻，重点围绕““我最终支付了 500 英镑”：你的订阅陷阱故事”。核心要点：许多读者都经历过取消订阅的痛苦。",
@@ -111,36 +87,20 @@
         "url": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普威胁对伊朗实施更多打击后，油价上涨，股价下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普威胁对伊朗实施更多打击后，油价上涨，股价下跌”。核心要点：美国总统表示，他将让伊朗“回到石器时代”，但没有透露有关结束战争的细节。",
+        "titleZh": "尽管伊朗战争，美国三月份就业机会意外激增",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“尽管伊朗战争，美国三月份就业机会意外激增”。核心要点：劳工部表示，雇主增加了 178,000 个就业岗位，远远超过预期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 22:25:44 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 13:35:11 GMT",
+        "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "新法律使取消订阅和获得退款变得更容易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“新法律使取消订阅和获得退款变得更容易”。核心要点：政府表示，消费者将能够“单击按钮”取消不需要的订阅。",
+        "titleZh": "玛莎百货老板呼吁对犯罪和虐待员工采取更多行动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“玛莎百货老板呼吁对犯罪和虐待员工采取更多行动”。核心要点：蒂努斯·基夫发表上述言论的几天前，伦敦南部的一家玛莎百货商店在骚乱中遭到袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 09:08:40 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "一年过去：特朗普关税改变全球经济的四种方式",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“一年过去：特朗普关税改变全球经济的四种方式”。核心要点：美国关税处于数十年来的最高水平。但影响是什么？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 09:51:22 GMT",
-        "url": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "除非企业达成协议，否则药品在美国面临 100% 关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“除非企业达成协议，否则药品在美国面临 100% 关税”。核心要点：该命令不影响美国最常用的仿制药。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 22:06:30 GMT",
-        "url": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Apr 2026 21:13:17 GMT",
+        "url": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
