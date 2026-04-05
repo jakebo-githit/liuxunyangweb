@@ -1,64 +1,103 @@
 {
-  "updatedAt": "2026-04-04T03:42:28.656Z",
+  "updatedAt": "2026-04-05T04:10:23.430Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "A Review of Terlipressin in Hepatorenal Syndrome: Targeting Endothelial Dysfunction and Subsequent Cardiovascular Adverse Events.",
-        "journal": "Cardiology in review",
-        "pubDate": "2026 May-Jun 01",
+        "title": "Noninvasive Tests for Predicting Decompensation in Compensated Advanced Chronic Liver Disease: A Comprehensive Review.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 May",
         "studyType": "Journal Article / Review",
-        "authors": "Bielawski AM, Frishman WH",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：最终，内脏血管舒张和肠道淋巴液产生过多导致腹水、有效动脉血容量低以及适应不良的代偿机制，从而导致肾脏灌注不足和损伤。 临床提示：肝肾综合征（HRS）是失代偿性肝硬化的严重并发症，可导致急性肾损伤（AKI）。",
-        "abstract": "Hepatorenal syndrome (HRS) is a serious complication of decompensated liver cirrhosis that results in acute kidney injury (AKI). The mortality rate is high. Endothelial dysfunction secondary to liver cirrhosis is a key driver of the development of portal hypertension, which is eventually complicated by ascites and HRS. Ultimately, splanchnic vasodilation and excess gut lymph production result in ascites, low effective arterial blood volume, and maladaptive compensatory mechanisms that contribute to renal hypoperfusion and injury. While the only curative treatment is liver transplantation, vasoconstrictors and albumin have been the mainstay of treatment for candidates who are ineligible or wa...",
-        "pmid": "38832784",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/38832784/",
-        "doiUrl": "https://doi.org/10.1097/CRD.0000000000000697",
-        "url": "https://doi.org/10.1097/CRD.0000000000000697"
+        "authors": "Payancé A, Rautou PE, Boursier J",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：需要强有力的非侵入性测试（NIT）来预测代偿性晚期慢性肝病（cACLD）患者的失代偿并改善个性化患者护理。 临床提示：我们对评估 NIT 在预测 cACLD 患者失代偿或肝脏相关死亡方面的有效性的研究进行了全面回顾。",
+        "abstract": "Strong non-invasive tests (NITs) are needed to predict decompensation in patients with compensated advanced chronic liver disease (cACLD) and improve personalized patient care. We conducted a comprehensive review of the studies evaluating the effectiveness of NITs in predicting decompensation or liver-related death in patients with cACLD. A literature search was conducted in the PubMed database up to August 2025. Prospective or retrospective studies that included patients with cACLD and evaluated NITs for predicting decompensation or death or liver transplantation were included. Studies evaluating elastography and blood-based tests were analysed separately. The majority of studies assessed l...",
+        "pmid": "41934162",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41934162/",
+        "doiUrl": "https://doi.org/10.1111/liv.70627",
+        "url": "https://doi.org/10.1111/liv.70627"
+      },
+      {
+        "title": "Echocardiography, Bile Acids and Spleen Stiffness to Rule Out High-Risk Varices in Children With Biliary Atresia.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article",
+        "authors": "Lambert V, Teglas JP, Ackermann O",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：检测胆道闭锁儿童中高出血风险 (HRV) 的胃食管静脉曲张需要从小进行内窥镜检查，以对出血进行一级预防。 临床提示：对变量进行主成分分析，然后进行 HRV 预测的多元逻辑回归分析。",
+        "abstract": "Detecting gastroesophageal varices with a high risk of bleeding (HRV) in children with biliary atresia requires endoscopies from an early age to apply primary prophylaxis of bleeding. However, repeated endoscopies are invasive and costly. This study was performed to define tools to rule out HRV, with the objective of reducing the number of endoscopies. Children with biliary atresia and portal hypertension were prospectively enrolled. Laboratory tests, elastography, echocardiography, and endoscopy were performed. Variables were subjected to principal component analysis, followed by multivariate logistic regression analyses for HRV prediction. The effectiveness of composite models and criteria...",
+        "pmid": "41934119",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41934119/",
+        "doiUrl": "https://doi.org/10.1111/liv.70596",
+        "url": "https://doi.org/10.1111/liv.70596"
+      },
+      {
+        "title": "Development and characterization of dietary models of MASLD with portal hypertension and liver fibrosis in rats.",
+        "journal": "Lab animal",
+        "pubDate": "2026 Apr 3",
+        "studyType": "Journal Article",
+        "authors": "Martínez-Gómez M, Barberá A, Raurell I",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：几十年来，研究人员一直致力于开发一种综合性啮齿动物模型，该模型能够全面概括代谢功能障碍相关脂肪肝病 (MASLD) 的病理生理学并模拟人类疾病。 临床提示：饮食模型通常被认为是再现人类疾病最可靠的模型；然而，尚未报道与人类MASLD高度相似的饮食啮齿动物模型，限制了病理生理学的研究",
+        "abstract": "For decades, investigators have pursued the development of a comprehensive rodent model that fully recapitulates the pathophysiology of metabolic dysfunction-associated steatotic liver disease (MASLD) and mimics human disease. Dietary models are generally considered the most reliable for recapitulating human disease; however, no dietary rodent model has yet been reported with high similarity to human MASLD, limiting the study of pathophysiology and treatment strategies for advanced fibrosis and portal hypertension. Here we conducted a multistep, sequential refinement of our MASLD model in rats until we achieved a comprehensive model that reproduced the clinical features of metabolic syndrome...",
+        "pmid": "41933125",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41933125/",
+        "doiUrl": "https://doi.org/10.1038/s41684-026-01710-z",
+        "url": "https://doi.org/10.1038/s41684-026-01710-z"
+      },
+      {
+        "title": "Endoscopic ultrasound mapping of the gastroepiploic vein in sinistral portal hypertension.",
+        "journal": "Gastrointestinal endoscopy",
+        "pubDate": "2026 Apr 1",
+        "studyType": "Journal Article",
+        "authors": "Li J, Wang Y, Zhou Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：左门静脉高压胃网膜静脉的内镜超声测绘。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41932514",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41932514/",
+        "doiUrl": "https://doi.org/10.1016/j.gie.2026.03.037",
+        "url": "https://doi.org/10.1016/j.gie.2026.03.037"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗救援队面临“痛苦且危险”的搜寻美国船员的任务",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗救援队面临“痛苦且危险”的搜寻美国船员的任务”。核心要点：一名前美国海军陆战队员告诉英国广播公司，任何救援小组的首要任务都是寻找生命迹象。",
+        "titleZh": "随着寻找失踪美国飞行员的继续，美国和伊朗相互威胁要释放“地狱”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着寻找失踪美国飞行员的继续，美国和伊朗相互威胁要释放“地狱””。核心要点：伊朗拒绝了唐纳德·特朗普关于重新开放霍尔木兹海峡的最后通牒，霍尔木兹海峡的关闭导致油价飙升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Apr 2026 02:52:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Apr 2026 03:26:15 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿耳忒弥斯二号船员拍摄了“壮观”的地球照片",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿耳忒弥斯二号船员拍摄了“壮观”的地球照片”。核心要点：这张照片是由猎户座太空舱的指挥官里德·怀斯曼在宇航员前往月球时拍摄的。",
+        "titleZh": "搜寻失踪飞行员给美国带来严峻考验",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“搜寻失踪飞行员给美国带来严峻考验”。核心要点：如果被击落的 F15 Eagle 飞机的武器系统官员被伊朗抓获，风险可能会进一步增加。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 21:44:31 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 04 Apr 2026 20:13:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "执政16年后，维克多·欧尔班最终能否被赶下台？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“执政16年后，维克多·欧尔班最终能否被赶下台？”。核心要点：匈牙利将于 9 天后举行大选——执政 16 年后，欧尔班·维克多 (Viktor Orban) 能否被赶下台？",
+        "titleZh": "纽约一名男子因在婴儿车内枪杀婴儿而被指控",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“纽约一名男子因在婴儿车内枪杀婴儿而被指控”。核心要点：两名男子因在威廉斯堡枪杀一名七个月大的婴儿而被捕。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 23:04:24 GMT",
-        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 04 Apr 2026 23:28:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "军事领导人表示布基纳法索必须“忘记”民主",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“军事领导人表示布基纳法索必须“忘记”民主”。核心要点：2023 年掌权的易卜拉欣·特拉奥雷上尉表示，民主统治对他的国家不起作用。",
+        "titleZh": "美国表示已逮捕已故伊朗将军卡西姆·苏莱马尼的亲属",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国表示已逮捕已故伊朗将军卡西姆·苏莱马尼的亲属”。核心要点：官员称，卡西姆·苏莱马尼的侄女和侄孙女已被美国移民和海关执法局拘留。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 11:11:42 GMT",
-        "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 04 Apr 2026 21:29:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国船通过霍尔木兹海峡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国船通过霍尔木兹海峡”。核心要点：这似乎是自冲突开始以来欧洲大公司拥有的第一艘穿过该海峡的船只。",
+        "titleZh": "45岁以下德国男性长期居留国外可能需要军方批准",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“45岁以下德国男性长期居留国外可能需要军方批准”。核心要点：根据该法律，旅行通常必须获得批准，但尚不清楚如果违反该规定将如何执行。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 17:45:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 04 Apr 2026 21:16:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
