@@ -1,106 +1,113 @@
 {
-  "updatedAt": "2026-04-05T04:10:23.430Z",
+  "updatedAt": "2026-04-06T04:16:29.781Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Nanoplastics Exacerbated Renal Injury amid Hypertension: Rethinking Health Hazards in Disease and Implication of Renal Senescence and EMT Associated with Sirt1 Downregulation.",
+        "journal": "Environmental pollution (Barking, Essex : 1987)",
+        "pubDate": "2026 Apr 2",
+        "studyType": "Journal Article",
+        "authors": "Liu Y, Ji D, Lin Y",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压肾病是一种慢性疾病，对已有高血压人群构成显着的健康风险。 临床提示：纳米塑料可能会对包括肾脏在内的多个器官造成潜在伤害。",
+        "abstract": "Hypertensive nephropathy is a chronic disease posing a remarkable health risk to the pre-existing hypertensive population. Nanoplastics could elicit potential harm to multiple organs, including the kidneys. To identify the hazards of aged polystyrene nanoplastics (aPS-NPs) in the context of hypertension and investigate the underlying toxicological mechanisms, spontaneously hypertensive rats (SHRs) were treated with aPS-NPs (75 mg/kg/day) by gavage for 35 days. We observed exacerbated renal injury with increased collagen deposition and elevated expression of fibrosis-related proteins (FN, COL1A1, and α-SMA) in SHRs exposed to aPS-NPs. Our results showed increased oxidative stress and inflamma...",
+        "pmid": "41935774",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41935774/",
+        "doiUrl": "https://doi.org/10.1016/j.envpol.2026.128062",
+        "url": "https://doi.org/10.1016/j.envpol.2026.128062"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Noninvasive Tests for Predicting Decompensation in Compensated Advanced Chronic Liver Disease: A Comprehensive Review.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article / Review",
-        "authors": "Payancé A, Rautou PE, Boursier J",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：需要强有力的非侵入性测试（NIT）来预测代偿性晚期慢性肝病（cACLD）患者的失代偿并改善个性化患者护理。 临床提示：我们对评估 NIT 在预测 cACLD 患者失代偿或肝脏相关死亡方面的有效性的研究进行了全面回顾。",
-        "abstract": "Strong non-invasive tests (NITs) are needed to predict decompensation in patients with compensated advanced chronic liver disease (cACLD) and improve personalized patient care. We conducted a comprehensive review of the studies evaluating the effectiveness of NITs in predicting decompensation or liver-related death in patients with cACLD. A literature search was conducted in the PubMed database up to August 2025. Prospective or retrospective studies that included patients with cACLD and evaluated NITs for predicting decompensation or death or liver transplantation were included. Studies evaluating elastography and blood-based tests were analysed separately. The majority of studies assessed l...",
-        "pmid": "41934162",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41934162/",
-        "doiUrl": "https://doi.org/10.1111/liv.70627",
-        "url": "https://doi.org/10.1111/liv.70627"
-      },
-      {
-        "title": "Echocardiography, Bile Acids and Spleen Stiffness to Rule Out High-Risk Varices in Children With Biliary Atresia.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 May",
+        "title": "Impact of Transjugular Intrahepatic Portosystemic Shunt on Waitlist and Post-transplant Outcomes in Liver Transplant Candidates.",
+        "journal": "Digestive diseases and sciences",
+        "pubDate": "2026 Apr 4",
         "studyType": "Journal Article",
-        "authors": "Lambert V, Teglas JP, Ackermann O",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：检测胆道闭锁儿童中高出血风险 (HRV) 的胃食管静脉曲张需要从小进行内窥镜检查，以对出血进行一级预防。 临床提示：对变量进行主成分分析，然后进行 HRV 预测的多元逻辑回归分析。",
-        "abstract": "Detecting gastroesophageal varices with a high risk of bleeding (HRV) in children with biliary atresia requires endoscopies from an early age to apply primary prophylaxis of bleeding. However, repeated endoscopies are invasive and costly. This study was performed to define tools to rule out HRV, with the objective of reducing the number of endoscopies. Children with biliary atresia and portal hypertension were prospectively enrolled. Laboratory tests, elastography, echocardiography, and endoscopy were performed. Variables were subjected to principal component analysis, followed by multivariate logistic regression analyses for HRV prediction. The effectiveness of composite models and criteria...",
-        "pmid": "41934119",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41934119/",
-        "doiUrl": "https://doi.org/10.1111/liv.70596",
-        "url": "https://doi.org/10.1111/liv.70596"
-      },
-      {
-        "title": "Development and characterization of dietary models of MASLD with portal hypertension and liver fibrosis in rats.",
-        "journal": "Lab animal",
-        "pubDate": "2026 Apr 3",
-        "studyType": "Journal Article",
-        "authors": "Martínez-Gómez M, Barberá A, Raurell I",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：几十年来，研究人员一直致力于开发一种综合性啮齿动物模型，该模型能够全面概括代谢功能障碍相关脂肪肝病 (MASLD) 的病理生理学并模拟人类疾病。 临床提示：饮食模型通常被认为是再现人类疾病最可靠的模型；然而，尚未报道与人类MASLD高度相似的饮食啮齿动物模型，限制了病理生理学的研究",
-        "abstract": "For decades, investigators have pursued the development of a comprehensive rodent model that fully recapitulates the pathophysiology of metabolic dysfunction-associated steatotic liver disease (MASLD) and mimics human disease. Dietary models are generally considered the most reliable for recapitulating human disease; however, no dietary rodent model has yet been reported with high similarity to human MASLD, limiting the study of pathophysiology and treatment strategies for advanced fibrosis and portal hypertension. Here we conducted a multistep, sequential refinement of our MASLD model in rats until we achieved a comprehensive model that reproduced the clinical features of metabolic syndrome...",
-        "pmid": "41933125",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41933125/",
-        "doiUrl": "https://doi.org/10.1038/s41684-026-01710-z",
-        "url": "https://doi.org/10.1038/s41684-026-01710-z"
-      },
-      {
-        "title": "Endoscopic ultrasound mapping of the gastroepiploic vein in sinistral portal hypertension.",
-        "journal": "Gastrointestinal endoscopy",
-        "pubDate": "2026 Apr 1",
-        "studyType": "Journal Article",
-        "authors": "Li J, Wang Y, Zhou Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：左门静脉高压胃网膜静脉的内镜超声测绘。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41932514",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41932514/",
-        "doiUrl": "https://doi.org/10.1016/j.gie.2026.03.037",
-        "url": "https://doi.org/10.1016/j.gie.2026.03.037"
+        "authors": "Lim RY, Low PJS, Lim WH",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（TIPS）用于治疗失代偿性肝硬化患者的门脉高压并发症。 临床提示：然而，其对移植候选资格和围手术期结果的影响仍不清楚。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) is utilized to manage portal hypertensive complications in patients with decompensated cirrhosis. However, its effects on transplant candidacy and peri-operative outcomes remain unclear. We hence aimed to evaluate peri-transplant outcomes and implications of TIPS in liver transplant (LT) candidates. We conducted a retrospective cohort study of adult LT candidates listed in the United Network for Organ Sharing (UNOS) database from January 1, 2000 to January 3, 2025. Waitlist outcomes include development of portal hypertension-related complications, time-to-transplant and waitlist survival. Post-transplant outcomes include graft survival and...",
+        "pmid": "41934580",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41934580/",
+        "doiUrl": "https://doi.org/10.1007/s10620-026-09825-6",
+        "url": "https://doi.org/10.1007/s10620-026-09825-6"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "随着寻找失踪美国飞行员的继续，美国和伊朗相互威胁要释放“地狱”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着寻找失踪美国飞行员的继续，美国和伊朗相互威胁要释放“地狱””。核心要点：伊朗拒绝了唐纳德·特朗普关于重新开放霍尔木兹海峡的最后通牒，霍尔木兹海峡的关闭导致油价飙升。",
+        "titleZh": "美国飞行员在伊朗偏远地区的救援过程如何展开",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国飞行员在伊朗偏远地区的救援过程如何展开”。核心要点：将他从敌对地区的地面上救出的行动非常复杂，涉及多个美国政府机构。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 03:26:15 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Apr 2026 21:19:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "搜寻失踪飞行员给美国带来严峻考验",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“搜寻失踪飞行员给美国带来严峻考验”。核心要点：如果被击落的 F15 Eagle 飞机的武器系统官员被伊朗抓获，风险可能会进一步增加。",
+        "titleZh": "特朗普在救援后宣布胜利，但美国在伊朗行动的威胁仍然存在",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在救援后宣布胜利，但美国在伊朗行动的威胁仍然存在”。核心要点：此次救援可能会影响特朗普对夺取哈格岛或夺取浓缩铀场地的地面行动的看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Apr 2026 20:13:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Apr 2026 00:23:16 GMT",
+        "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "纽约一名男子因在婴儿车内枪杀婴儿而被指控",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“纽约一名男子因在婴儿车内枪杀婴儿而被指控”。核心要点：两名男子因在威廉斯堡枪杀一名七个月大的婴儿而被捕。",
+        "titleZh": "匈牙利指控选举前密谋炸毁天然气管道",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“匈牙利指控选举前密谋炸毁天然气管道”。核心要点：这起事件发生在投票前一周，此前有警告称，可能会采取行动影响选民。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Apr 2026 23:28:09 GMT",
-        "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Apr 2026 19:17:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国表示已逮捕已故伊朗将军卡西姆·苏莱马尼的亲属",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国表示已逮捕已故伊朗将军卡西姆·苏莱马尼的亲属”。核心要点：官员称，卡西姆·苏莱马尼的侄女和侄孙女已被美国移民和海关执法局拘留。",
+        "titleZh": "教皇利奥呼吁全球领导人在他的第一次复活节弥撒中选择和平",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“教皇利奥呼吁全球领导人在他的第一次复活节弥撒中选择和平”。核心要点：复活节周日，教皇利奥十四世向聚集在圣彼得广场的数千名信徒发表了他作为教皇的第一次讲话。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Apr 2026 21:29:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Apr 2026 12:35:36 GMT",
+        "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "45岁以下德国男性长期居留国外可能需要军方批准",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“45岁以下德国男性长期居留国外可能需要军方批准”。核心要点：根据该法律，旅行通常必须获得批准，但尚不清楚如果违反该规定将如何执行。",
+        "titleZh": "柬埔寨揭幕雕像以纪念著名的嗅地雷老鼠",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“柬埔寨揭幕雕像以纪念著名的嗅地雷老鼠”。核心要点：这座雕像是为了纪念已故的非洲巨型袋鼠，他一生中嗅出了 100 多颗地雷。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Apr 2026 21:16:42 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Apr 2026 01:09:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "特朗普对伊朗充满咒骂的威胁后油价波动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普对伊朗充满咒骂的威胁后油价波动”。核心要点：布伦特原油价格上涨至 110 美元以上，但在美伊可能停火谈判的报道发布后，涨幅有所回落。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 06 Apr 2026 03:33:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "随着二孩上限的结束，福利和养老金增加",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着二孩上限的结束，福利和养老金增加”。核心要点：拥有 3 个或更多孩子的享受某些福利的家庭每年将平均增加 4,100 英镑。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 05 Apr 2026 23:00:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "坎耶·韦斯特强烈反对后，百事可乐退出英国音乐节赞助商身份",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“坎耶·韦斯特强烈反对后，百事可乐退出英国音乐节赞助商身份”。核心要点：凯尔·斯塔默爵士表示，在最近的反犹太主义言论之后，这位说唱歌手将成为音乐节的主角，这令人“深感担忧”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 05 Apr 2026 19:58:17 GMT",
+        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "中国如何爱上龙虾：人工智能助手告诉我们北京的野心",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国如何爱上龙虾：人工智能助手告诉我们北京的野心”。核心要点：这款人工智能代理在三月份引发了一场“养龙虾”的热潮，用户根据自己的需求训练该工具。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 05 Apr 2026 22:07:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "国家养老金年龄开始升至 67 岁——以下是您领取养老金的金额和时间",
         "summaryZh": "这是一条金融市场新闻，重点围绕“国家养老金年龄开始升至 67 岁——以下是您领取养老金的金额和时间”。核心要点：人们开始领取国家养老金的年龄将在未来两年内分阶段提高。",
@@ -108,38 +115,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 03 Apr 2026 23:27:52 GMT",
         "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "法国船通过霍尔木兹海峡",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法国船通过霍尔木兹海峡”。核心要点：这似乎是自冲突开始以来欧洲大公司拥有的第一艘穿过该海峡的船只。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 17:45:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "“我最终支付了 500 英镑”：你的订阅陷阱故事",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我最终支付了 500 英镑”：你的订阅陷阱故事”。核心要点：许多读者都经历过取消订阅的痛苦。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 02 Apr 2026 23:07:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "尽管伊朗战争，美国三月份就业机会意外激增",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“尽管伊朗战争，美国三月份就业机会意外激增”。核心要点：劳工部表示，雇主增加了 178,000 个就业岗位，远远超过预期。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 13:35:11 GMT",
-        "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "玛莎百货老板呼吁对犯罪和虐待员工采取更多行动",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“玛莎百货老板呼吁对犯罪和虐待员工采取更多行动”。核心要点：蒂努斯·基夫发表上述言论的几天前，伦敦南部的一家玛莎百货商店在骚乱中遭到袭击。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 21:13:17 GMT",
-        "url": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
