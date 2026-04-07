@@ -1,88 +1,60 @@
 {
-  "updatedAt": "2026-04-06T04:16:29.781Z",
+  "updatedAt": "2026-04-07T04:05:40.152Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Nanoplastics Exacerbated Renal Injury amid Hypertension: Rethinking Health Hazards in Disease and Implication of Renal Senescence and EMT Associated with Sirt1 Downregulation.",
-        "journal": "Environmental pollution (Barking, Essex : 1987)",
-        "pubDate": "2026 Apr 2",
-        "studyType": "Journal Article",
-        "authors": "Liu Y, Ji D, Lin Y",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压肾病是一种慢性疾病，对已有高血压人群构成显着的健康风险。 临床提示：纳米塑料可能会对包括肾脏在内的多个器官造成潜在伤害。",
-        "abstract": "Hypertensive nephropathy is a chronic disease posing a remarkable health risk to the pre-existing hypertensive population. Nanoplastics could elicit potential harm to multiple organs, including the kidneys. To identify the hazards of aged polystyrene nanoplastics (aPS-NPs) in the context of hypertension and investigate the underlying toxicological mechanisms, spontaneously hypertensive rats (SHRs) were treated with aPS-NPs (75 mg/kg/day) by gavage for 35 days. We observed exacerbated renal injury with increased collagen deposition and elevated expression of fibrosis-related proteins (FN, COL1A1, and α-SMA) in SHRs exposed to aPS-NPs. Our results showed increased oxidative stress and inflamma...",
-        "pmid": "41935774",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41935774/",
-        "doiUrl": "https://doi.org/10.1016/j.envpol.2026.128062",
-        "url": "https://doi.org/10.1016/j.envpol.2026.128062"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "Impact of Transjugular Intrahepatic Portosystemic Shunt on Waitlist and Post-transplant Outcomes in Liver Transplant Candidates.",
-        "journal": "Digestive diseases and sciences",
-        "pubDate": "2026 Apr 4",
-        "studyType": "Journal Article",
-        "authors": "Lim RY, Low PJS, Lim WH",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（TIPS）用于治疗失代偿性肝硬化患者的门脉高压并发症。 临床提示：然而，其对移植候选资格和围手术期结果的影响仍不清楚。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) is utilized to manage portal hypertensive complications in patients with decompensated cirrhosis. However, its effects on transplant candidacy and peri-operative outcomes remain unclear. We hence aimed to evaluate peri-transplant outcomes and implications of TIPS in liver transplant (LT) candidates. We conducted a retrospective cohort study of adult LT candidates listed in the United Network for Organ Sharing (UNOS) database from January 1, 2000 to January 3, 2025. Waitlist outcomes include development of portal hypertension-related complications, time-to-transplant and waitlist survival. Post-transplant outcomes include graft survival and...",
-        "pmid": "41934580",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41934580/",
-        "doiUrl": "https://doi.org/10.1007/s10620-026-09825-6",
-        "url": "https://doi.org/10.1007/s10620-026-09825-6"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
+      {
+        "titleZh": "特朗普威胁称，如果在最后期限前未能达成协议，他将在“一晚”内消灭伊朗",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁称，如果在最后期限前未能达成协议，他将在“一晚”内消灭伊朗”。核心要点：美国总统希望德黑兰在周二的最后期限之前重新开放霍尔木兹海峡，这是一条重要的全球能源路线。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 06 Apr 2026 21:55:50 GMT",
+        "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "特朗普向伊朗发出最后通牒的时间已经过去，但几乎没有取得突破的迹象",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普向伊朗发出最后通牒的时间已经过去，但几乎没有取得突破的迹象”。核心要点：随着周二伊朗开放霍尔木兹海峡最后期限的最后几个小时，美国总统处于一个微妙的政治立场。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 06 Apr 2026 23:04:23 GMT",
+        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "当地消息人士称，以色列袭击以及哈马斯和加沙民兵之间的冲突造成十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“当地消息人士称，以色列袭击以及哈马斯和加沙民兵之间的冲突造成十人死亡”。核心要点：据报道，以色列袭击目标是哈马斯安全人员，此前他们与马加齐营地附近以色列支持的民兵发生冲突。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 06 Apr 2026 19:11:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "美国飞行员在伊朗偏远地区的救援过程如何展开",
         "summaryZh": "这是一条世界时事新闻，重点围绕“美国飞行员在伊朗偏远地区的救援过程如何展开”。核心要点：将他从敌对地区的地面上救出的行动非常复杂，涉及多个美国政府机构。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 21:19:02 GMT",
+        "publishedAt": "Mon, 06 Apr 2026 21:31:24 GMT",
         "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普在救援后宣布胜利，但美国在伊朗行动的威胁仍然存在",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在救援后宣布胜利，但美国在伊朗行动的威胁仍然存在”。核心要点：此次救援可能会影响特朗普对夺取哈格岛或夺取浓缩铀场地的地面行动的看法。",
+        "titleZh": "“真正感受到爱”——萨凡纳·格思里 (Savannah Guthrie) 重返 NBC，寻找母亲的工作仍在继续",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““真正感受到爱”——萨凡纳·格思里 (Savannah Guthrie) 重返 NBC，寻找母亲的工作仍在继续”。核心要点：南希·格思里 (Nancy Guthrie) 从亚利桑那州图森市的家中失踪，当局认为这是一起绑架事件。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 00:23:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "匈牙利指控选举前密谋炸毁天然气管道",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“匈牙利指控选举前密谋炸毁天然气管道”。核心要点：这起事件发生在投票前一周，此前有警告称，可能会采取行动影响选民。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 19:17:42 GMT",
-        "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "教皇利奥呼吁全球领导人在他的第一次复活节弥撒中选择和平",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“教皇利奥呼吁全球领导人在他的第一次复活节弥撒中选择和平”。核心要点：复活节周日，教皇利奥十四世向聚集在圣彼得广场的数千名信徒发表了他作为教皇的第一次讲话。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 12:35:36 GMT",
-        "url": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "柬埔寨揭幕雕像以纪念著名的嗅地雷老鼠",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“柬埔寨揭幕雕像以纪念著名的嗅地雷老鼠”。核心要点：这座雕像是为了纪念已故的非洲巨型袋鼠，他一生中嗅出了 100 多颗地雷。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 01:09:11 GMT",
-        "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Apr 2026 18:07:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普对伊朗充满咒骂的威胁后油价波动",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普对伊朗充满咒骂的威胁后油价波动”。核心要点：布伦特原油价格上涨至 110 美元以上，但在美伊可能停火谈判的报道发布后，涨幅有所回落。",
+        "titleZh": "特朗普的霍尔木兹最后期限迫在眉睫，但亚洲国家已与伊朗达成协议",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的霍尔木兹最后期限迫在眉睫，但亚洲国家已与伊朗达成协议”。核心要点：由于经济严重依赖中东能源，该地区国家一直渴望达成协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 03:33:35 GMT",
-        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Apr 2026 23:34:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "随着二孩上限的结束，福利和养老金增加",
@@ -93,28 +65,28 @@
         "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "坎耶·韦斯特强烈反对后，百事可乐退出英国音乐节赞助商身份",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“坎耶·韦斯特强烈反对后，百事可乐退出英国音乐节赞助商身份”。核心要点：凯尔·斯塔默爵士表示，在最近的反犹太主义言论之后，这位说唱歌手将成为音乐节的主角，这令人“深感担忧”。",
+        "titleZh": "印度高增长经济遭遇中东石油冲击",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“印度高增长经济遭遇中东石油冲击”。核心要点：由于伊朗战争，印度面临三重能源冲击，该国的货币、股市和增长预测均受到打击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 19:58:17 GMT",
-        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Apr 2026 01:21:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国如何爱上龙虾：人工智能助手告诉我们北京的野心",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国如何爱上龙虾：人工智能助手告诉我们北京的野心”。核心要点：这款人工智能代理在三月份引发了一场“养龙虾”的热潮，用户根据自己的需求训练该工具。",
+        "titleZh": "特朗普对伊朗充满咒骂的威胁后油价波动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普对伊朗充满咒骂的威胁后油价波动”。核心要点：布伦特原油价格升至 110 美元上方，随后因美国和伊朗就潜在停火计划进行交易而回落。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 22:07:40 GMT",
-        "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Apr 2026 19:31:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "国家养老金年龄开始升至 67 岁——以下是您领取养老金的金额和时间",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“国家养老金年龄开始升至 67 岁——以下是您领取养老金的金额和时间”。核心要点：人们开始领取国家养老金的年龄将在未来两年内分阶段提高。",
+        "titleZh": "“我跳进海里刷新我的大脑”：远程工作者如何促进沿海城镇的发展",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我跳进海里刷新我的大脑”：远程工作者如何促进沿海城镇的发展”。核心要点：远程工作的兴起意味着许多专业人士选择在沿海和农村城镇定居。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Apr 2026 23:27:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Apr 2026 06:20:27 GMT",
+        "url": "https://www.bbc.com/news/articles/ce3dqw12vgyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
