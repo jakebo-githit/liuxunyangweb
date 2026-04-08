@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-04-07T04:05:40.152Z",
+  "updatedAt": "2026-04-08T04:08:01.715Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Radiomics-Based Assessment of Portal Hypertension Severity and Risk Stratification of Cirrhotic Patients Using Routine CT Scans.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article / Validation Study",
+        "authors": "Sin C, Watzenboeck ML, Iofinova E",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 357）。核心观点：开发和验证基于 CT 的放射组学模型，以评估 HVPG 并预测肝硬化患者肝脏相关事件（LRE：失代偿和肝脏相关死亡）的复合终点。 临床提示：这项回顾性研究包括 357 名接受侵入性 HVPG 测量的肝硬化患者、120 名肝脏健康对照者（训练队列）以及 85 名和 100 名肝硬化患者（内部和外部验证队列，",
+        "abstract": "To develop and validate a CT-based radiomics model to assess HVPG and predict a composite endpoint of liver-related events (LRE: decompensation and liver-related death) in patients with cirrhosis. This retrospective study included 357 cirrhosis patients, who received invasive HVPG measurements, 120 liver-healthy controls (training cohort) and 85 and 100 cirrhosis patients (internal and external validation cohorts, respectively), and contrast-enhanced abdominal CTs. After volumetric segmentation of the liver and spleen on CT, Bayesian parameter optimization was used for selection of extracted features and hyperparameter tuning in random forest or elastic net models. Prediction accuracy was ev...",
+        "pmid": "41943460",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41943460/",
+        "doiUrl": "https://doi.org/10.1111/liv.70633",
+        "url": "https://doi.org/10.1111/liv.70633"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普威胁称，如果在最后期限前未能达成协议，他将在“一晚”内消灭伊朗",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁称，如果在最后期限前未能达成协议，他将在“一晚”内消灭伊朗”。核心要点：美国总统希望德黑兰在周二的最后期限之前重新开放霍尔木兹海峡，这是一条重要的全球能源路线。",
+        "titleZh": "伊朗停火协议是特朗普的部分胜利——但代价高昂",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗停火协议是特朗普的部分胜利——但代价高昂”。核心要点：与伊朗达成为期两周的停火的道路可能从根本上改变了世界其他国家对美国的看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 21:55:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 03:30:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普向伊朗发出最后通牒的时间已经过去，但几乎没有取得突破的迹象",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普向伊朗发出最后通牒的时间已经过去，但几乎没有取得突破的迹象”。核心要点：随着周二伊朗开放霍尔木兹海峡最后期限的最后几个小时，美国总统处于一个微妙的政治立场。",
+        "titleZh": "我们对美国和伊朗之间为期两周的停火了解多少",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“我们对美国和伊朗之间为期两周的停火了解多少”。核心要点：临时休战是在美国和以色列对伊朗发动协同袭击一个多月后达成的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 23:04:23 GMT",
-        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 02:58:55 GMT",
+        "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "当地消息人士称，以色列袭击以及哈马斯和加沙民兵之间的冲突造成十人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“当地消息人士称，以色列袭击以及哈马斯和加沙民兵之间的冲突造成十人死亡”。核心要点：据报道，以色列袭击目标是哈马斯安全人员，此前他们与马加齐营地附近以色列支持的民兵发生冲突。",
+        "titleZh": "特朗普支持的共和党人克莱·富勒赢得选举，接替马乔里·泰勒·格林",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普支持的共和党人克莱·富勒赢得选举，接替马乔里·泰勒·格林”。核心要点：他将完成 Marjorie Taylor Greene 的剩余任期，该任期将于 2027 年 1 月结束。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 19:11:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 02:33:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国飞行员在伊朗偏远地区的救援过程如何展开",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国飞行员在伊朗偏远地区的救援过程如何展开”。核心要点：将他从敌对地区的地面上救出的行动非常复杂，涉及多个美国政府机构。",
+        "titleZh": "美伊停火协议重新开放霍尔木兹海峡后油价暴跌",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊停火协议重新开放霍尔木兹海峡后油价暴跌”。核心要点：该协议是在特朗普周二晚上的最后期限到来之前不久宣布的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 21:31:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 03:24:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“真正感受到爱”——萨凡纳·格思里 (Savannah Guthrie) 重返 NBC，寻找母亲的工作仍在继续",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““真正感受到爱”——萨凡纳·格思里 (Savannah Guthrie) 重返 NBC，寻找母亲的工作仍在继续”。核心要点：南希·格思里 (Nancy Guthrie) 从亚利桑那州图森市的家中失踪，当局认为这是一起绑架事件。",
+        "titleZh": "坎耶·韦斯特 (Kanye West) 被禁止前往英国后，无线音乐节被取消",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“坎耶·韦斯特 (Kanye West) 被禁止前往英国后，无线音乐节被取消”。核心要点：韦斯特原定于七月在该节日上担任主角，但因过去的反犹太主义言论而受到批评。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 18:07:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Apr 2026 19:40:05 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普的霍尔木兹最后期限迫在眉睫，但亚洲国家已与伊朗达成协议",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的霍尔木兹最后期限迫在眉睫，但亚洲国家已与伊朗达成协议”。核心要点：由于经济严重依赖中东能源，该地区国家一直渴望达成协议。",
+        "titleZh": "美伊停火协议重新开放霍尔木兹海峡后油价暴跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊停火协议重新开放霍尔木兹海峡后油价暴跌”。核心要点：该协议是在特朗普周二晚上的最后期限到来之前不久宣布的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 23:34:11 GMT",
-        "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 03:24:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着二孩上限的结束，福利和养老金增加",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着二孩上限的结束，福利和养老金增加”。核心要点：拥有 3 个或更多孩子的享受某些福利的家庭每年将平均增加 4,100 英镑。",
+        "titleZh": "音乐巨头环球公司收到 640 亿美元的收购要约",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“音乐巨头环球公司收到 640 亿美元的收购要约”。核心要点：泰勒·斯威夫特 (Taylor Swift) 和萨布丽娜·卡彭特 (Sabrina Carpenter) 等艺人背后的音乐巨头收到了比尔·阿克曼 (Bill A...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Apr 2026 23:00:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 00:12:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度高增长经济遭遇中东石油冲击",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“印度高增长经济遭遇中东石油冲击”。核心要点：由于伊朗战争，印度面临三重能源冲击，该国的货币、股市和增长预测均受到打击。",
+        "titleZh": "英国计划2学生贷款利率上限为6%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国计划2学生贷款利率上限为6%”。核心要点：计划 2 和研究生贷款利率的上限是在通货膨胀风险上升的情况下制定的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Apr 2026 01:21:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Apr 2026 11:21:16 GMT",
+        "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普对伊朗充满咒骂的威胁后油价波动",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普对伊朗充满咒骂的威胁后油价波动”。核心要点：布伦特原油价格升至 110 美元上方，随后因美国和伊朗就潜在停火计划进行交易而回落。",
+        "titleZh": "随着燃油价格飙升，航空公司削减航班并提高票价",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着燃油价格飙升，航空公司削减航班并提高票价”。核心要点：由于伊朗战争影响了航空燃油成本，航空公司减少了服务并提高了机票价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 19:31:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Apr 2026 15:49:22 GMT",
+        "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我跳进海里刷新我的大脑”：远程工作者如何促进沿海城镇的发展",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我跳进海里刷新我的大脑”：远程工作者如何促进沿海城镇的发展”。核心要点：远程工作的兴起意味着许多专业人士选择在沿海和农村城镇定居。",
+        "titleZh": "头等邮票价格上涨至 1.80 英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“头等邮票价格上涨至 1.80 英镑”。核心要点：邮政服务因未达到投递目标而受到批评，这一数字随之上升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Apr 2026 06:20:27 GMT",
-        "url": "https://www.bbc.com/news/articles/ce3dqw12vgyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Apr 2026 07:01:52 GMT",
+        "url": "https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
