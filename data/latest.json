@@ -1,28 +1,49 @@
 {
-  "updatedAt": "2026-04-08T04:08:01.715Z",
+  "updatedAt": "2026-04-09T04:03:34.538Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Radiomics-Based Assessment of Portal Hypertension Severity and Risk Stratification of Cirrhotic Patients Using Routine CT Scans.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article / Validation Study",
-        "authors": "Sin C, Watzenboeck ML, Iofinova E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 357）。核心观点：开发和验证基于 CT 的放射组学模型，以评估 HVPG 并预测肝硬化患者肝脏相关事件（LRE：失代偿和肝脏相关死亡）的复合终点。 临床提示：这项回顾性研究包括 357 名接受侵入性 HVPG 测量的肝硬化患者、120 名肝脏健康对照者（训练队列）以及 85 名和 100 名肝硬化患者（内部和外部验证队列，",
-        "abstract": "To develop and validate a CT-based radiomics model to assess HVPG and predict a composite endpoint of liver-related events (LRE: decompensation and liver-related death) in patients with cirrhosis. This retrospective study included 357 cirrhosis patients, who received invasive HVPG measurements, 120 liver-healthy controls (training cohort) and 85 and 100 cirrhosis patients (internal and external validation cohorts, respectively), and contrast-enhanced abdominal CTs. After volumetric segmentation of the liver and spleen on CT, Bayesian parameter optimization was used for selection of extracted features and hyperparameter tuning in random forest or elastic net models. Prediction accuracy was ev...",
-        "pmid": "41943460",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41943460/",
-        "doiUrl": "https://doi.org/10.1111/liv.70633",
-        "url": "https://doi.org/10.1111/liv.70633"
+        "title": "Rebalanced hemostasis, bleeding and thrombosis in liver disease: a comprehensive review of pathophysiology, management and future perspectives.",
+        "journal": "Seminars in thrombosis and hemostasis",
+        "pubDate": "2026 Apr 7",
+        "studyType": "Journal Article",
+        "authors": "Elvers F, Lisman T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝病患者的止血系统表现出复杂的变化，通常被认为会导致出血和血栓形成。 临床提示：然而，目前的证据表明，抗止血变化可以通过同时的促止血变化来补偿，从而导致止血系统重新平衡。",
+        "abstract": "Patients with liver disease exhibit complex changes in the hemostatic system that are often presumed to drive bleeding and thrombosis. Historically, liver disease was considered a bleeding disorder based on thrombocytopenia, prolonged routine coagulation tests, and reports of fulminant bleeding. Present evidence, however, indicates that antihemostatic changes are compensated for by simultaneous prohemostatic changes, resulting in a rebalanced hemostatic system. Further hemostatic changes may be induced by liver disease progression and extrahepatic factors, such as systemic inflammation, acute kidney injury and cardiometabolic diseases. Despite extensive hemostatic changes in liver disease, c...",
+        "pmid": "41946467",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41946467/",
+        "doiUrl": "https://doi.org/10.1055/a-2848-9427",
+        "url": "https://doi.org/10.1055/a-2848-9427"
+      },
+      {
+        "title": "Diagnostic Pitfalls and Lessons Learned in Portal Hypertension.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Apr",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Mannava A, Liu W, Saab S",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该病例强调了当影像学提示肝硬化时组织学确认的重要性，因为浸润性恶性肿瘤可以模仿肝硬化并产生临床上显着的门静脉高压。 临床提示：非肝硬化性门静脉高压症定义为不存在肝硬化或晚期肝纤维化的门静脉高压症。",
+        "abstract": "Noncirrhotic portal hypertension is defined as portal hypertension in the absence of cirrhosis or advanced hepatic fibrosis. We present an 85-year-old man with recurrent hematemesis, initially presumed to have decompensated cirrhosis based on imaging. However, liver biopsy revealed pseudocirrhosis due to sinusoidal infiltration by metastatic spindle cell malignancy. This case underscores the importance of histological confirmation when imaging suggests cirrhosis, as infiltrative malignancies can mimic cirrhosis and produce clinically significant portal hypertension.",
+        "pmid": "41948353",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41948353/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002076",
+        "url": "https://doi.org/10.14309/crj.0000000000002076"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗停火协议是特朗普的部分胜利——但代价高昂",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗停火协议是特朗普的部分胜利——但代价高昂”。核心要点：与伊朗达成为期两周的停火的道路可能从根本上改变了世界其他国家对美国的看法。",
+        "titleZh": "特朗普批评北约，联盟主席称会面“非常坦率”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普批评北约，联盟主席称会面“非常坦率””。核心要点：美国总统表示，在伊朗战争期间，北约“在我们需要的时候不在场”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 09 Apr 2026 01:59:34 GMT",
+        "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伊朗停火协议为特朗普提供了摆脱战争的出路 - 但代价高昂",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗停火协议为特朗普提供了摆脱战争的出路 - 但代价高昂”。核心要点：与伊朗达成为期两周的停火的道路可能从根本上改变了世界其他国家对美国的看法。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Wed, 08 Apr 2026 03:30:55 GMT",
@@ -33,74 +54,66 @@
         "summaryZh": "这是一条世界时事新闻，重点围绕“我们对美国和伊朗之间为期两周的停火了解多少”。核心要点：临时休战是在美国和以色列对伊朗发动协同袭击一个多月后达成的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 02:58:55 GMT",
+        "publishedAt": "Wed, 08 Apr 2026 20:25:49 GMT",
         "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普支持的共和党人克莱·富勒赢得选举，接替马乔里·泰勒·格林",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普支持的共和党人克莱·富勒赢得选举，接替马乔里·泰勒·格林”。核心要点：他将完成 Marjorie Taylor Greene 的剩余任期，该任期将于 2027 年 1 月结束。",
+        "titleZh": "以色列大规模袭击造成黎巴嫩全境至少182人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列大规模袭击造成黎巴嫩全境至少182人死亡”。核心要点：在美伊宣布停火数小时后，贝鲁特南郊、黎巴嫩南部和贝卡谷地东部发生袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 02:33:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 20:54:59 GMT",
+        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美伊停火协议重新开放霍尔木兹海峡后油价暴跌",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊停火协议重新开放霍尔木兹海峡后油价暴跌”。核心要点：该协议是在特朗普周二晚上的最后期限到来之前不久宣布的。",
+        "titleZh": "他是澳大利亚获得勋章最多的士兵。现在他处于历史性战争罪案件的中心",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“他是澳大利亚获得勋章最多的士兵。现在他处于历史性战争罪案件的中心”。核心要点：学者们表示，本·罗伯茨-史密斯的案件不仅对澳大利亚来说是史无前例的，对全球来说也是“非同寻常”的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 03:24:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "坎耶·韦斯特 (Kanye West) 被禁止前往英国后，无线音乐节被取消",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“坎耶·韦斯特 (Kanye West) 被禁止前往英国后，无线音乐节被取消”。核心要点：韦斯特原定于七月在该节日上担任主角，但因过去的反犹太主义言论而受到批评。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 07 Apr 2026 19:40:05 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 21:10:14 GMT",
+        "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "美伊停火协议重新开放霍尔木兹海峡后油价暴跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊停火协议重新开放霍尔木兹海峡后油价暴跌”。核心要点：该协议是在特朗普周二晚上的最后期限到来之前不久宣布的。",
+        "titleZh": "交易员关注脆弱的美伊停火协议，油价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“交易员关注脆弱的美伊停火协议，油价上涨”。核心要点：在宣布开放霍尔木兹海峡等协议后，原油成本周三暴跌。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 03:24:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Apr 2026 03:33:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "音乐巨头环球公司收到 640 亿美元的收购要约",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“音乐巨头环球公司收到 640 亿美元的收购要约”。核心要点：泰勒·斯威夫特 (Taylor Swift) 和萨布丽娜·卡彭特 (Sabrina Carpenter) 等艺人背后的音乐巨头收到了比尔·阿克曼 (Bill A...",
+        "titleZh": "“即使伊朗战争现在结束，农民的成本也必须转嫁”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““即使伊朗战争现在结束，农民的成本也必须转嫁””。核心要点：尽管停火，伊朗战争仍将继续影响农民的成本，从而影响粮食价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 00:12:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 23:03:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国计划2学生贷款利率上限为6%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国计划2学生贷款利率上限为6%”。核心要点：计划 2 和研究生贷款利率的上限是在通货膨胀风险上升的情况下制定的。",
+        "titleZh": "伊朗霍尔木兹海峡警告增加航运不确定性",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗霍尔木兹海峡警告增加航运不确定性”。核心要点：据英国广播公司验证分析，自美伊停火协议以来，只有少数船只穿过海峡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Apr 2026 11:21:16 GMT",
-        "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 17:21:31 GMT",
+        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着燃油价格飙升，航空公司削减航班并提高票价",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着燃油价格飙升，航空公司削减航班并提高票价”。核心要点：由于伊朗战争影响了航空燃油成本，航空公司减少了服务并提高了机票价格。",
+        "titleZh": "为什么燃料和食品价格仍可能受到数月的影响",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么燃料和食品价格仍可能受到数月的影响”。核心要点：分析人士担心，美以与伊朗的战争已经造成长期的经济损害。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Apr 2026 15:49:22 GMT",
-        "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 14:07:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "头等邮票价格上涨至 1.80 英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“头等邮票价格上涨至 1.80 英镑”。核心要点：邮政服务因未达到投递目标而受到批评，这一数字随之上升。",
+        "titleZh": "费萨尔·伊斯兰：伊朗战争暂停值得欢迎，但经济伤痕将持续",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：伊朗战争暂停值得欢迎，但经济伤痕将持续”。核心要点：允许所有船只通过霍尔木兹海峡将使市场平静，但战争带来了新的问题。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Apr 2026 07:01:52 GMT",
-        "url": "https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Apr 2026 12:44:15 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
