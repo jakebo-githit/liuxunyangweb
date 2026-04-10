@@ -1,119 +1,172 @@
 {
-  "updatedAt": "2026-04-09T04:03:34.538Z",
+  "updatedAt": "2026-04-10T04:17:24.548Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Advances in Hyperkalemia Management and the Emerging Role of Sodium Zirconium Cyclosilicate.",
+        "journal": "Electrolyte & blood pressure : E & BP",
+        "pubDate": "2026 Mar",
+        "studyType": "Journal Article / Review",
+        "authors": "Jung J, Juarez S, Koh ES",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：高钾血症是慢性肾病和心力衰竭患者常见且可能危及生命的并发症。 临床提示：它还代表了最佳使用肾素-血管紧张素-醛固酮系统抑制剂（RAASi）的主要障碍，而肾素-血管紧张素-醛固酮系统抑制剂对于改善心肾结果至关重要。",
+        "abstract": "Hyperkalemia is a common and potentially life-threatening complication in patients with chronic kidney disease and heart failure. It also represents a major barrier to the optimal use of renin-angiotensin-aldosterone system inhibitors (RAASi), which are central to improving cardiorenal outcomes. Contemporary guidance, including the 2025 Korean Society of Nephrology Practical Recommendations for the Management of Hypertensive Kidney Disease, emphasizes the maintenance of normokalemia as a key strategy for enabling continuation and optimization of RAASi therapy. Sodium zirconium cyclosilicate (SZC) supports this therapeutic paradigm by enabling rapid potassium reduction and sustained potassium...",
+        "pmid": "41953780",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41953780/",
+        "doiUrl": "https://doi.org/10.5049/EBP.2026.24.e3",
+        "url": "https://doi.org/10.5049/EBP.2026.24.e3"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Rebalanced hemostasis, bleeding and thrombosis in liver disease: a comprehensive review of pathophysiology, management and future perspectives.",
-        "journal": "Seminars in thrombosis and hemostasis",
-        "pubDate": "2026 Apr 7",
+        "title": "Post Hoc Analysis of a Phase 2 Randomized Trial of Pemafibrate in Metabolic Dysfunction-associated Steatotic Liver Disease: Associations With Platelet Count, Liver Stiffness, and Spleen Volume.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Jul-Aug",
         "studyType": "Journal Article",
-        "authors": "Elvers F, Lisman T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝病患者的止血系统表现出复杂的变化，通常被认为会导致出血和血栓形成。 临床提示：然而，目前的证据表明，抗止血变化可以通过同时的促止血变化来补偿，从而导致止血系统重新平衡。",
-        "abstract": "Patients with liver disease exhibit complex changes in the hemostatic system that are often presumed to drive bleeding and thrombosis. Historically, liver disease was considered a bleeding disorder based on thrombocytopenia, prolonged routine coagulation tests, and reports of fulminant bleeding. Present evidence, however, indicates that antihemostatic changes are compensated for by simultaneous prohemostatic changes, resulting in a rebalanced hemostatic system. Further hemostatic changes may be induced by liver disease progression and extrahepatic factors, such as systemic inflammation, acute kidney injury and cardiometabolic diseases. Despite extensive hemostatic changes in liver disease, c...",
-        "pmid": "41946467",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41946467/",
-        "doiUrl": "https://doi.org/10.1055/a-2848-9427",
-        "url": "https://doi.org/10.1055/a-2848-9427"
+        "authors": "Tanigawa R, Loomba R, Eguchi Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 118）。核心观点：门静脉高压是代谢功能障碍相关脂肪肝病（MASLD）的主要并发症。 临床提示：在 PEMA-FL（非酒精性脂肪肝患者的 PEMAfibrate 随机安慰剂对照研究）2 期试验中，这项事后分析检查了 pemafibrate（一种选择性过氧化物酶体）之间的关联",
+        "abstract": "Portal hypertension is a major complication in metabolic dysfunction-associated steatotic liver disease (MASLD). In the PEMA-FL (PEMAfibrate randomised placebo-controlled study in patients with non-alcoholic fatty liver disease) phase 2 trial, this post hoc analysis examined associations between pemafibrate, a selective peroxisome proliferator-activated receptor alpha modulator, and noninvasive markers related to portal hypertension-related hemodynamic stress, including platelet count, liver stiffness, and spleen volume. This 72-week, multicenter, randomized, double-blind, placebo-controlled phase 2 study enrolled 118 patients with high-risk MASLD, randomized 1:1 to pemafibrate 0.4 mg/day or...",
+        "pmid": "41953251",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41953251/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103525",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103525"
       },
       {
-        "title": "Diagnostic Pitfalls and Lessons Learned in Portal Hypertension.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Apr",
+        "title": "Prognostication of Liver Disease Patients via the WFUMB 'Rule-of-4' Algorithm Using SSI-2D-SWE-Based Liver Stiffness Measurement.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article",
+        "authors": "Sebesta C, Kramer G, Dominik N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 187）。核心观点：世界医学和生物学超声联合会 (WFUMB) 2024 年指南更新提出了使用 ARFI 肝脏硬度测量 (LSM) 的“4 规则”来对失代偿事件的风险进行分层。 临床提示：该规则在 ≥ 13 kPa 的阈值时识别晚期慢性肝病 (ACLD)，并表明高于 21 kPa 的具有临床意义的门脉高压 (CSPH) 的可能性很高。",
+        "abstract": "The World Federation for Ultrasound in Medicine and Biology (WFUMB) guidance update 2024 proposed a 'rule-of-4' using ARFI liver stiffness measurement (LSM) to stratify the risk of decompensation events. This rule identifies advanced chronic liver disease (ACLD) at a threshold of ≥ 13 kPa and indicates a high probability of clinically significant portal hypertension (CSPH) above 21 kPa. We prospectively enrolled 187 patients undergoing same-day SSI-2D-LSM (Aixplorer SuperSonic Imagine) and hepatic venous pressure gradient (HVPG) measurement. Patients were stratified into three LSM groups < 13 kPa, 13-21 kPa and > 21 kPa and followed for decompensation events for 1 year (Y1). The cohort compr...",
+        "pmid": "41954051",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41954051/",
+        "doiUrl": "https://doi.org/10.1111/liv.70614",
+        "url": "https://doi.org/10.1111/liv.70614"
+      },
+      {
+        "title": "Bleeding ileal conduit varices in a postoperative patient of urinary bladder carcinoma: percutaneous transhepatic variceal embolization to the rescue.",
+        "journal": "BMJ case reports",
+        "pubDate": "2026 Apr 8",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Sahoo B, Nayak MK, Ygl K",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：回肠导管是肌层浸​​润性膀胱癌最常进行的尿流改道手术之一，在各种并发症中，回肠导管出血很少见。 临床提示：对于复发性造口出血的患者，必须考虑非典型静脉曲张的可能性，如果之前未确诊，则必须评估是否患有肝硬化。",
+        "abstract": "The ileal conduit is one of the most commonly performed urinary diversion procedures for muscle-invasive bladder cancer, and among the various complications, bleeding from an ileal conduit is rare. In patients with recurrent stomal haemorrhage, one must consider the possibility of atypical varices and assess for liver cirrhosis if it has not been previously established. Here, we describe a case of bleeding ectopic varices at the ileal conduit site in a patient in his 50s who underwent surgery for urinary bladder carcinoma, which was successfully managed through percutaneous transhepatic glue embolisation. Selective embolisation of these ectopic varices with coils or glue produces impressive ...",
+        "pmid": "41951266",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41951266/",
+        "doiUrl": "https://doi.org/10.1136/bcr-2025-266103",
+        "url": "https://doi.org/10.1136/bcr-2025-266103"
+      },
+      {
+        "title": "Living donor kidney transplantation after living donor liver transplantation from the same donor in a patient with autosomal dominant polycystic kidney disease: a case report.",
+        "journal": "CEN case reports",
+        "pubDate": "2026 Apr 7",
+        "studyType": "Journal Article",
+        "authors": "Saito Y, Yamamoto I, Kawabe M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：来自同一供体的序贯活体肝移植 (LDLT) 和活体肾移植 (LDKT) 极为罕见，全球报道的此类病例不到 10 例。 临床提示：这些手术提出了独特的手术、伦理和免疫学考虑。",
+        "abstract": "Sequential living donor liver transplantation (LDLT) and living donor kidney transplantation (LDKT) from the same donor are extremely rare, with fewer than 10 such cases reported worldwide. These procedures present unique surgical, ethical, and immunological considerations. A 63-year-old man with autosomal dominant polycystic kidney disease (ADPKD) underwent LDLT from his wife for massive polycystic liver disease complicated by portal hypertension. Three years later, he received LDKT from the same donor following comprehensive evaluation for end-stage renal disease due to ADPKD. Pre-implantation kidney biopsy of the donor revealed thin basement membrane nephropathy with mild arteriosclerosis...",
+        "pmid": "41945198",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41945198/",
+        "doiUrl": "https://doi.org/10.1007/s13730-026-01104-7",
+        "url": "https://doi.org/10.1007/s13730-026-01104-7"
+      },
+      {
+        "title": "Liver Transplantation for Refractory Portal Hypertension Syndrome due to Intrahepatic Arterioportal Shunts Following Treatment of Primary Hepatic Choriocarcinoma: A Case Report.",
+        "journal": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+        "pubDate": "2026 Apr 6",
         "studyType": "Case Reports / Journal Article",
-        "authors": "Mannava A, Liu W, Saab S",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该病例强调了当影像学提示肝硬化时组织学确认的重要性，因为浸润性恶性肿瘤可以模仿肝硬化并产生临床上显着的门静脉高压。 临床提示：非肝硬化性门静脉高压症定义为不存在肝硬化或晚期肝纤维化的门静脉高压症。",
-        "abstract": "Noncirrhotic portal hypertension is defined as portal hypertension in the absence of cirrhosis or advanced hepatic fibrosis. We present an 85-year-old man with recurrent hematemesis, initially presumed to have decompensated cirrhosis based on imaging. However, liver biopsy revealed pseudocirrhosis due to sinusoidal infiltration by metastatic spindle cell malignancy. This case underscores the importance of histological confirmation when imaging suggests cirrhosis, as infiltrative malignancies can mimic cirrhosis and produce clinically significant portal hypertension.",
-        "pmid": "41948353",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41948353/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002076",
-        "url": "https://doi.org/10.14309/crj.0000000000002076"
+        "authors": "Medio P, Singer S, Della Penna A",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：绒毛膜癌是一种恶性生殖细胞肿瘤，主要影响育龄妇女，被认为可以通过化疗高度治愈。 临床提示：原发性肝绒毛膜癌 (PHC) 极为罕见，并且发生时没有妊娠滋养细胞起源的证据。",
+        "abstract": "Choriocarcinoma is a malignant germ cell tumor that predominantly affects women of reproductive age, considered highly curable with chemotherapy. Primary hepatic choriocarcinoma (PHC) is exceptionally rare and occurs without evidence of a gestational trophoblastic origin. We present an adult liver transplantation (LT) for intrahepatic arterioportal (AP) shunts that developed following treatment of PHC. A 34-year-old female presented with hepatosplenomegaly and upper abdominal pain four months after an uncomplicated pregnancy. Imaging revealed multiple large partially vascularized liver lesions, without extrahepatic disease. A CT-guided biopsy confirmed PHC. Initial serum human chorionic gona...",
+        "pmid": "41951101",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41951101/",
+        "doiUrl": "https://doi.org/10.1016/j.ajt.2026.04.002",
+        "url": "https://doi.org/10.1016/j.ajt.2026.04.002"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普批评北约，联盟主席称会面“非常坦率”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普批评北约，联盟主席称会面“非常坦率””。核心要点：美国总统表示，在伊朗战争期间，北约“在我们需要的时候不在场”。",
+        "titleZh": "特朗普称伊朗处理霍尔木兹海峡的方式“不是我们达成的协议”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗处理霍尔木兹海峡的方式“不是我们达成的协议””。核心要点：在以色列和黎巴嫩开始和平谈判之际，美国总统指责伊朗在水道方面“做得非常糟糕”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 01:59:34 GMT",
-        "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 02:10:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗停火协议为特朗普提供了摆脱战争的出路 - 但代价高昂",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗停火协议为特朗普提供了摆脱战争的出路 - 但代价高昂”。核心要点：与伊朗达成为期两周的停火的道路可能从根本上改变了世界其他国家对美国的看法。",
+        "titleZh": "停火还是不停火，中东洗牌尚未完成",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“停火还是不停火，中东洗牌尚未完成”。核心要点：双方都有结束战争的理由，但没有共同点。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 03:30:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Apr 2026 23:01:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我们对美国和伊朗之间为期两周的停火了解多少",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“我们对美国和伊朗之间为期两周的停火了解多少”。核心要点：临时休战是在美国和以色列对伊朗发动协同袭击一个多月后达成的。",
+        "titleZh": "梅拉尼娅·特朗普否认与杰弗里·爱泼斯坦有关系，并敦促为幸存者举行听证会",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“梅拉尼娅·特朗普否认与杰弗里·爱泼斯坦有关系，并敦促为幸存者举行听证会”。核心要点：她称有关爱泼斯坦将她介绍给唐纳德·特朗普的谣言是“卑鄙的企图诽谤我的声誉”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 20:25:49 GMT",
-        "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Apr 2026 22:27:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列大规模袭击造成黎巴嫩全境至少182人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列大规模袭击造成黎巴嫩全境至少182人死亡”。核心要点：在美伊宣布停火数小时后，贝鲁特南郊、黎巴嫩南部和贝卡谷地东部发生袭击。",
+        "titleZh": "英国称俄罗斯通过电缆和管道进行潜艇作业",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“英国称俄罗斯通过电缆和管道进行潜艇作业”。核心要点：国防部长约翰·希利表示，“没有证据”表明英国在大西洋的基础设施受到任何损害。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 20:54:59 GMT",
-        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Apr 2026 17:09:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "他是澳大利亚获得勋章最多的士兵。现在他处于历史性战争罪案件的中心",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“他是澳大利亚获得勋章最多的士兵。现在他处于历史性战争罪案件的中心”。核心要点：学者们表示，本·罗伯茨-史密斯的案件不仅对澳大利亚来说是史无前例的，对全球来说也是“非同寻常”的。",
+        "titleZh": "白宫工作人员被告知不要在预测市场上下注",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“白宫工作人员被告知不要在预测市场上下注”。核心要点：赌博平台越来越受欢迎，一些用户在冲突上下注。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 21:10:14 GMT",
-        "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 02:32:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "交易员关注脆弱的美伊停火协议，油价上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“交易员关注脆弱的美伊停火协议，油价上涨”。核心要点：在宣布开放霍尔木兹海峡等协议后，原油成本周三暴跌。",
+        "titleZh": "欧盟指纹和照片旅行规则生效",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“欧盟指纹和照片旅行规则生效”。核心要点：欧盟拖延已久的出入境系统将改变英国乘客前往 29 个国家的旅行方式。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 03:33:31 GMT",
+        "publishedAt": "Thu, 09 Apr 2026 23:04:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "白宫工作人员被告知不要在预测市场上下注",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“白宫工作人员被告知不要在预测市场上下注”。核心要点：赌博平台越来越受欢迎，一些用户在冲突上下注。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 10 Apr 2026 02:32:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "由于对停火的担忧加剧，汽油和柴油价格再次上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于对停火的担忧加剧，汽油和柴油价格再次上涨”。核心要点：汽车组织警告司机不要指望成本很快就会大幅下降。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 09 Apr 2026 20:07:08 GMT",
         "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“即使伊朗战争现在结束，农民的成本也必须转嫁”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““即使伊朗战争现在结束，农民的成本也必须转嫁””。核心要点：尽管停火，伊朗战争仍将继续影响农民的成本，从而影响粮食价格。",
+        "titleZh": "乔·马龙 (Jo Malone) 希望在关于她名字的诉讼中“理智会占上风”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“乔·马龙 (Jo Malone) 希望在关于她名字的诉讼中“理智会占上风””。核心要点：这位英国香水设计师和 Zara 因合作而被雅诗兰黛起诉。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 23:03:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Apr 2026 15:45:16 GMT",
+        "url": "https://www.bbc.com/news/articles/c7471n0lm2vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗霍尔木兹海峡警告增加航运不确定性",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗霍尔木兹海峡警告增加航运不确定性”。核心要点：据英国广播公司验证分析，自美伊停火协议以来，只有少数船只穿过海峡。",
+        "titleZh": "给狗狗看的电视节目蓬勃发展，但它们会看吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“给狗狗看的电视节目蓬勃发展，但它们会看吗？”。核心要点：针对狗的电视频道正在增加，但关于狗是否观看电视的研究却褒贬不一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 17:21:31 GMT",
-        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "为什么燃料和食品价格仍可能受到数月的影响",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么燃料和食品价格仍可能受到数月的影响”。核心要点：分析人士担心，美以与伊朗的战争已经造成长期的经济损害。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 14:07:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "费萨尔·伊斯兰：伊朗战争暂停值得欢迎，但经济伤痕将持续",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：伊朗战争暂停值得欢迎，但经济伤痕将持续”。核心要点：允许所有船只通过霍尔木兹海峡将使市场平静，但战争带来了新的问题。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 08 Apr 2026 12:44:15 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Apr 2026 23:06:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cq59leg3gp5o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
