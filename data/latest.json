@@ -1,172 +1,158 @@
 {
-  "updatedAt": "2026-04-10T04:17:24.548Z",
+  "updatedAt": "2026-04-11T03:46:53.353Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Advances in Hyperkalemia Management and the Emerging Role of Sodium Zirconium Cyclosilicate.",
-        "journal": "Electrolyte & blood pressure : E & BP",
-        "pubDate": "2026 Mar",
-        "studyType": "Journal Article / Review",
-        "authors": "Jung J, Juarez S, Koh ES",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：高钾血症是慢性肾病和心力衰竭患者常见且可能危及生命的并发症。 临床提示：它还代表了最佳使用肾素-血管紧张素-醛固酮系统抑制剂（RAASi）的主要障碍，而肾素-血管紧张素-醛固酮系统抑制剂对于改善心肾结果至关重要。",
-        "abstract": "Hyperkalemia is a common and potentially life-threatening complication in patients with chronic kidney disease and heart failure. It also represents a major barrier to the optimal use of renin-angiotensin-aldosterone system inhibitors (RAASi), which are central to improving cardiorenal outcomes. Contemporary guidance, including the 2025 Korean Society of Nephrology Practical Recommendations for the Management of Hypertensive Kidney Disease, emphasizes the maintenance of normokalemia as a key strategy for enabling continuation and optimization of RAASi therapy. Sodium zirconium cyclosilicate (SZC) supports this therapeutic paradigm by enabling rapid potassium reduction and sustained potassium...",
-        "pmid": "41953780",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41953780/",
-        "doiUrl": "https://doi.org/10.5049/EBP.2026.24.e3",
-        "url": "https://doi.org/10.5049/EBP.2026.24.e3"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Post Hoc Analysis of a Phase 2 Randomized Trial of Pemafibrate in Metabolic Dysfunction-associated Steatotic Liver Disease: Associations With Platelet Count, Liver Stiffness, and Spleen Volume.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 Jul-Aug",
-        "studyType": "Journal Article",
-        "authors": "Tanigawa R, Loomba R, Eguchi Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 118）。核心观点：门静脉高压是代谢功能障碍相关脂肪肝病（MASLD）的主要并发症。 临床提示：在 PEMA-FL（非酒精性脂肪肝患者的 PEMAfibrate 随机安慰剂对照研究）2 期试验中，这项事后分析检查了 pemafibrate（一种选择性过氧化物酶体）之间的关联",
-        "abstract": "Portal hypertension is a major complication in metabolic dysfunction-associated steatotic liver disease (MASLD). In the PEMA-FL (PEMAfibrate randomised placebo-controlled study in patients with non-alcoholic fatty liver disease) phase 2 trial, this post hoc analysis examined associations between pemafibrate, a selective peroxisome proliferator-activated receptor alpha modulator, and noninvasive markers related to portal hypertension-related hemodynamic stress, including platelet count, liver stiffness, and spleen volume. This 72-week, multicenter, randomized, double-blind, placebo-controlled phase 2 study enrolled 118 patients with high-risk MASLD, randomized 1:1 to pemafibrate 0.4 mg/day or...",
-        "pmid": "41953251",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41953251/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103525",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103525"
-      },
-      {
-        "title": "Prognostication of Liver Disease Patients via the WFUMB 'Rule-of-4' Algorithm Using SSI-2D-SWE-Based Liver Stiffness Measurement.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Sebesta C, Kramer G, Dominik N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 187）。核心观点：世界医学和生物学超声联合会 (WFUMB) 2024 年指南更新提出了使用 ARFI 肝脏硬度测量 (LSM) 的“4 规则”来对失代偿事件的风险进行分层。 临床提示：该规则在 ≥ 13 kPa 的阈值时识别晚期慢性肝病 (ACLD)，并表明高于 21 kPa 的具有临床意义的门脉高压 (CSPH) 的可能性很高。",
-        "abstract": "The World Federation for Ultrasound in Medicine and Biology (WFUMB) guidance update 2024 proposed a 'rule-of-4' using ARFI liver stiffness measurement (LSM) to stratify the risk of decompensation events. This rule identifies advanced chronic liver disease (ACLD) at a threshold of ≥ 13 kPa and indicates a high probability of clinically significant portal hypertension (CSPH) above 21 kPa. We prospectively enrolled 187 patients undergoing same-day SSI-2D-LSM (Aixplorer SuperSonic Imagine) and hepatic venous pressure gradient (HVPG) measurement. Patients were stratified into three LSM groups < 13 kPa, 13-21 kPa and > 21 kPa and followed for decompensation events for 1 year (Y1). The cohort compr...",
-        "pmid": "41954051",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41954051/",
-        "doiUrl": "https://doi.org/10.1111/liv.70614",
-        "url": "https://doi.org/10.1111/liv.70614"
-      },
-      {
-        "title": "Bleeding ileal conduit varices in a postoperative patient of urinary bladder carcinoma: percutaneous transhepatic variceal embolization to the rescue.",
-        "journal": "BMJ case reports",
-        "pubDate": "2026 Apr 8",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Sahoo B, Nayak MK, Ygl K",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：回肠导管是肌层浸​​润性膀胱癌最常进行的尿流改道手术之一，在各种并发症中，回肠导管出血很少见。 临床提示：对于复发性造口出血的患者，必须考虑非典型静脉曲张的可能性，如果之前未确诊，则必须评估是否患有肝硬化。",
-        "abstract": "The ileal conduit is one of the most commonly performed urinary diversion procedures for muscle-invasive bladder cancer, and among the various complications, bleeding from an ileal conduit is rare. In patients with recurrent stomal haemorrhage, one must consider the possibility of atypical varices and assess for liver cirrhosis if it has not been previously established. Here, we describe a case of bleeding ectopic varices at the ileal conduit site in a patient in his 50s who underwent surgery for urinary bladder carcinoma, which was successfully managed through percutaneous transhepatic glue embolisation. Selective embolisation of these ectopic varices with coils or glue produces impressive ...",
-        "pmid": "41951266",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41951266/",
-        "doiUrl": "https://doi.org/10.1136/bcr-2025-266103",
-        "url": "https://doi.org/10.1136/bcr-2025-266103"
-      },
-      {
-        "title": "Living donor kidney transplantation after living donor liver transplantation from the same donor in a patient with autosomal dominant polycystic kidney disease: a case report.",
-        "journal": "CEN case reports",
-        "pubDate": "2026 Apr 7",
-        "studyType": "Journal Article",
-        "authors": "Saito Y, Yamamoto I, Kawabe M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：来自同一供体的序贯活体肝移植 (LDLT) 和活体肾移植 (LDKT) 极为罕见，全球报道的此类病例不到 10 例。 临床提示：这些手术提出了独特的手术、伦理和免疫学考虑。",
-        "abstract": "Sequential living donor liver transplantation (LDLT) and living donor kidney transplantation (LDKT) from the same donor are extremely rare, with fewer than 10 such cases reported worldwide. These procedures present unique surgical, ethical, and immunological considerations. A 63-year-old man with autosomal dominant polycystic kidney disease (ADPKD) underwent LDLT from his wife for massive polycystic liver disease complicated by portal hypertension. Three years later, he received LDKT from the same donor following comprehensive evaluation for end-stage renal disease due to ADPKD. Pre-implantation kidney biopsy of the donor revealed thin basement membrane nephropathy with mild arteriosclerosis...",
-        "pmid": "41945198",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41945198/",
-        "doiUrl": "https://doi.org/10.1007/s13730-026-01104-7",
-        "url": "https://doi.org/10.1007/s13730-026-01104-7"
-      },
-      {
-        "title": "Liver Transplantation for Refractory Portal Hypertension Syndrome due to Intrahepatic Arterioportal Shunts Following Treatment of Primary Hepatic Choriocarcinoma: A Case Report.",
-        "journal": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-        "pubDate": "2026 Apr 6",
+        "title": "Right portal branch to ovarian vein anastomosis: An unusual portosystemic shunt secondary to pelvic venous congestion.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Jun",
         "studyType": "Case Reports / Journal Article",
-        "authors": "Medio P, Singer S, Della Penna A",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：绒毛膜癌是一种恶性生殖细胞肿瘤，主要影响育龄妇女，被认为可以通过化疗高度治愈。 临床提示：原发性肝绒毛膜癌 (PHC) 极为罕见，并且发生时没有妊娠滋养细胞起源的证据。",
-        "abstract": "Choriocarcinoma is a malignant germ cell tumor that predominantly affects women of reproductive age, considered highly curable with chemotherapy. Primary hepatic choriocarcinoma (PHC) is exceptionally rare and occurs without evidence of a gestational trophoblastic origin. We present an adult liver transplantation (LT) for intrahepatic arterioportal (AP) shunts that developed following treatment of PHC. A 34-year-old female presented with hepatosplenomegaly and upper abdominal pain four months after an uncomplicated pregnancy. Imaging revealed multiple large partially vascularized liver lesions, without extrahepatic disease. A CT-guided biopsy confirmed PHC. Initial serum human chorionic gona...",
-        "pmid": "41951101",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41951101/",
-        "doiUrl": "https://doi.org/10.1016/j.ajt.2026.04.002",
-        "url": "https://doi.org/10.1016/j.ajt.2026.04.002"
+        "authors": "Babbar N, Zhim M, Edderai M",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：门静脉期的增强CT显示右门静脉的节段性分支与明显扩张且曲折的右卵巢静脉吻合，与宫旁和盆腔静脉曲张相关。 临床提示：非肝硬化患者的自发性门体分流是罕见的血管异常，可能会给诊断带来挑战。",
+        "abstract": "Spontaneous portosystemic shunts in noncirrhotic patients are rare vascular anomalies and may present a diagnostic challenge. We report a rare right-sided spontaneous porto-ovarian venous communication in a 35-year-old woman presenting with symptoms of pelvic venous congestion. Contrast-enhanced CT performed during the portal venous phase demonstrated a segmental branch of the right portal vein anastomosing with a markedly dilated and tortuous right ovarian vein, associated with parametrial and pelvic varices. The right ovarian vein was traced inferiorly and confirmed to drain into the inferior vena cava. The main portal vein and intrahepatic branches were patent, with normal hepatic enhance...",
+        "pmid": "41960137",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41960137/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.02.075",
+        "url": "https://doi.org/10.1016/j.radcr.2026.02.075"
+      },
+      {
+        "title": "Accuracy and influencing factors of hepatic venous pressure gradient, spleen stiffness and liver stiffness in the detection of portal hypertension with liver cirrhosis.",
+        "journal": "Clinical hemorheology and microcirculation",
+        "pubDate": "2026 Apr 10",
+        "studyType": "Journal Article",
+        "authors": "Li B, Xu F, Su D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 104）。核心观点：多元线性回归分析是为了确定与 HVPG、SS 和 LS 独立相关的因素。结果HVPG 和 SS 与 PPG 显着相关（p < 0.005）... 临床提示：目的评估肝静脉压力梯度（HVPG）、脾硬度（SS）和肝脏硬度（LS）检测门脉高压（PH）的准确性。方法我们测量HVPG、SS、LS和门静脉压力梯度",
+        "abstract": "PurposeTo assess the accuracy of hepatic venous pressure gradient (HVPG), spleen stiffness (SS) and liver stiffness (LS) for detecting portal hypertension (PH).MethodsWe measured HVPG, SS, LS and portal pressure gradient (PPG) in 104 patients with liver cirrhosis from April 2019 to April 2024. Correlations between these parameters and PH were analyzed using Pearson correlation or Spearman's rank correlation test appropriate. Diagnostic performance was evaluated by receiver operating characteristic (ROC) curve analysis. Multiple linear regression analysis was to identify factors independently associated with HVPG, SS and LS.ResultsHVPG and SS were significantly correlated with PPG (p < 0.005)...",
+        "pmid": "41960883",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41960883/",
+        "doiUrl": "https://doi.org/10.1177/13860291261432456",
+        "url": "https://doi.org/10.1177/13860291261432456"
+      },
+      {
+        "title": "Clinical relevance and reproducibility of morphological MRI findings in liver cirrhosis: Results from ACCESS-ESLD.",
+        "journal": "European journal of radiology",
+        "pubDate": "2026 Apr 4",
+        "studyType": "Journal Article",
+        "authors": "Swerkersson S, Bartholomä W, Forsgren MF",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：验证肝硬化磁共振成像（MRI）形态特征的临床相关性和可重复性。 临床提示：这是一项针对肝硬化患者的前瞻性多中心研究中基线 MRI 检查的横断面分析。",
+        "abstract": "To validate the clinical relevance and reproducibility of morphological features on magnetic resonance imaging (MRI) in liver cirrhosis. This is a cross-sectional analysis of the baseline MRI examinations in a prospective multi-center study of patients with liver cirrhosis. Two radiologists independently assessed multiple morphological features and the overall degree of cirrhotic changes using a 5-point grading scale: 1 = none, 2 = subtle, 3 = moderate, 4 = evident, 5 = severe. Logistic regression was used to determine the association between imaging findings and clinical severity, using the model for end-stage liver disease (MELD) and Child-Pugh as reference standards. Inter- and intrareade...",
+        "pmid": "41950866",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41950866/",
+        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.112845",
+        "url": "https://doi.org/10.1016/j.ejrad.2026.112845"
+      },
+      {
+        "title": "Radiation-induced lymphopenia is associated with survival in patients with hepatocellular carcinoma treated with stereotactic body radiotherapy.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article",
+        "authors": "Chan LL, Yeung VTY, Soo WMT",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：接受传统分割放疗的患者中有 30% 至 40% 会出现严重的放射诱导淋巴细胞减少症 (RIL)，并且与较差的生存率相关。 临床提示：立体定向全身放射治疗（SBRT）越来越多地用于肝细胞癌（HCC）的治疗。",
+        "abstract": "Stereotactic body radiotherapy (SBRT) is increasingly used in the treatment of hepatocellular carcinoma (HCC). Severe radiation-induced lymphopenia (RIL) occurs in 30% to 40% of patients undergoing conventional fractionated radiotherapy and is associated with worse survival. However, the incidence of RIL and its effect on survival in patients with HCC treated with SBRT remain unclear. This is a retrospective study of patients with HCC treated with SBRT in a tertiary cancer center in Hong Kong between January 2013 to December 2023. Patient and tumor characteristics were reviewed. Pre- and post-SBRT lymphocyte counts were collected. Severe RIL is defined as an absolute lymphocyte count <0.5x10...",
+        "pmid": "41951273",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41951273/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2025.101709",
+        "url": "https://doi.org/10.1016/j.jhepr.2025.101709"
+      },
+      {
+        "title": "The qEEG-TIPS score: Development of a predictive model for recurrent overt hepatic encephalopathy after elective TIPS.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Apr",
+        "studyType": "Journal Article",
+        "authors": "Saltini D, Zarantonello L, Zanetto A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 161）。核心观点：它会严重损害患者与健康相关的生活质量，特别是反复出现和持续存在的形式，并且可能超过该手术的益处。 临床提示：本研究旨在开发并内部验证结合量化脑电图 (qEEG) 的预后评分，以预测 TIPS 后 3 个月和 6 个月时复发 OHE 的风险。",
+        "abstract": "Overt hepatic encephalopathy (OHE) continues to be the primary complication following transjugular intrahepatic portosystemic shunt (TIPS) placement. It significantly impairs patients' health-related quality of life, particularly in its recurrent and persistent forms, and may outweigh the benefits of the procedure. This study aimed to develop and internally validate a prognostic score incorporating quantified electroencephalography (qEEG) to predict the risk of post-TIPS recurrent OHE at 3 and 6 months. We prospectively enrolled 161 consecutive patients with cirrhosis undergoing elective TIPS for refractory or recurrent ascites or secondary prophylaxis of variceal bleeding. All patients unde...",
+        "pmid": "41831393",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41831393/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101753",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.101753"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普称伊朗处理霍尔木兹海峡的方式“不是我们达成的协议”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗处理霍尔木兹海峡的方式“不是我们达成的协议””。核心要点：在以色列和黎巴嫩开始和平谈判之际，美国总统指责伊朗在水道方面“做得非常糟糕”。",
+        "titleZh": "Lyse Doucet：历史性的美伊会谈必须弥合深深的不信任",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“Lyse Doucet：历史性的美伊会谈必须弥合深深的不信任”。核心要点：面对面会谈将标志着自 1979 年伊斯兰革命以来伊朗和美国之间最高级别的接触。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 02:10:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 23:46:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "停火还是不停火，中东洗牌尚未完成",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“停火还是不停火，中东洗牌尚未完成”。核心要点：双方都有结束战争的理由，但没有共同点。",
+        "titleZh": "匈牙利欧尔班的挑战者最终赢得选票",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“匈牙利欧尔班的挑战者最终赢得选票”。核心要点：随着彼得·马扎尔的反对派运动在民意调查中领先，数万名反欧尔班支持者聚集在布达佩斯的英雄广场。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 23:01:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Apr 2026 00:17:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "梅拉尼娅·特朗普否认与杰弗里·爱泼斯坦有关系，并敦促为幸存者举行听证会",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“梅拉尼娅·特朗普否认与杰弗里·爱泼斯坦有关系，并敦促为幸存者举行听证会”。核心要点：她称有关爱泼斯坦将她介绍给唐纳德·特朗普的谣言是“卑鄙的企图诽谤我的声誉”。",
+        "titleZh": "黎巴嫩和以色列官员将于周二在美国会面",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩和以色列官员将于周二在美国会面”。核心要点：黎巴嫩一名高级官员早些时候告诉英国广播公司，黎巴嫩只有在停火到位的情况下才会参加谈判。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 22:27:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 22:43:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国称俄罗斯通过电缆和管道进行潜艇作业",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“英国称俄罗斯通过电缆和管道进行潜艇作业”。核心要点：国防部长约翰·希利表示，“没有证据”表明英国在大西洋的基础设施受到任何损害。",
+        "titleZh": "爱尔兰政府在封锁压力后准备燃料支持协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“爱尔兰政府在封锁压力后准备燃料支持协议”。核心要点：周五，爱尔兰共和国部分地区的旅行连续第四天受到影响，包括拖拉机在内的车辆堵塞道路。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 17:09:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 21:36:30 GMT",
+        "url": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "白宫工作人员被告知不要在预测市场上下注",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“白宫工作人员被告知不要在预测市场上下注”。核心要点：赌博平台越来越受欢迎，一些用户在冲突上下注。",
+        "titleZh": "瑞典男子被控强迫妻子与 120 名男子发生性关系，受审",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞典男子被控强迫妻子与 120 名男子发生性关系，受审”。核心要点：这位 61 岁的男子否认威胁使用身体暴力，也否认用毒品迫使妻子与陌生人发生性关系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 02:32:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 15:06:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "欧盟指纹和照片旅行规则生效",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“欧盟指纹和照片旅行规则生效”。核心要点：欧盟拖延已久的出入境系统将改变英国乘客前往 29 个国家的旅行方式。",
+        "titleZh": "欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺”。核心要点：欧洲机场贸易机构表示，如果霍尔木兹海峡在未来三周内不开放，可能会出现短缺。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 23:04:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 15:12:57 GMT",
+        "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "白宫工作人员被告知不要在预测市场上下注",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“白宫工作人员被告知不要在预测市场上下注”。核心要点：赌博平台越来越受欢迎，一些用户在冲突上下注。",
+        "titleZh": "油轮敦促不要向伊朗支付使用海峡的通行费",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“油轮敦促不要向伊朗支付使用海峡的通行费”。核心要点：建议油轮公司不要向伊朗支付任何费用以换取安全通过霍尔木兹海峡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 02:32:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 18:45:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于对停火的担忧加剧，汽油和柴油价格再次上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于对停火的担忧加剧，汽油和柴油价格再次上涨”。核心要点：汽车组织警告司机不要指望成本很快就会大幅下降。",
+        "titleZh": "擅长游戏？美国空中交通管制中心希望您申请",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“擅长游戏？美国空中交通管制中心希望您申请”。核心要点：一项新的政府广告活动正试图说服游戏玩家申请航空安全职位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 20:07:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 19:35:24 GMT",
+        "url": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乔·马龙 (Jo Malone) 希望在关于她名字的诉讼中“理智会占上风”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“乔·马龙 (Jo Malone) 希望在关于她名字的诉讼中“理智会占上风””。核心要点：这位英国香水设计师和 Zara 因合作而被雅诗兰黛起诉。",
+        "titleZh": "飙升的汽油价格导致美国通胀达到近两年来的最高水平",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“飙升的汽油价格导致美国通胀达到近两年来的最高水平”。核心要点：伊朗战争导致油价飙升，导致通货膨胀率升至 3.3%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 15:45:16 GMT",
-        "url": "https://www.bbc.com/news/articles/c7471n0lm2vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 16:20:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "给狗狗看的电视节目蓬勃发展，但它们会看吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“给狗狗看的电视节目蓬勃发展，但它们会看吗？”。核心要点：针对狗的电视频道正在增加，但关于狗是否观看电视的研究却褒贬不一。",
+        "titleZh": "杜嘉班纳 (Dolce & Gabbana) 联合创始人辞去董事长职务",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“杜嘉班纳 (Dolce & Gabbana) 联合创始人辞去董事长职务”。核心要点：在全球奢侈品消费放缓的背景下，这家大胆而感性的时装公司一直在债务问题上苦苦挣扎。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Apr 2026 23:06:25 GMT",
-        "url": "https://www.bbc.com/news/articles/cq59leg3gp5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Apr 2026 13:14:44 GMT",
+        "url": "https://www.bbc.com/news/articles/c77m3p8182no?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
