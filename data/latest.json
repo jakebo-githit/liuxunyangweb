@@ -1,125 +1,86 @@
 {
-  "updatedAt": "2026-04-11T03:46:53.353Z",
+  "updatedAt": "2026-04-12T04:20:04.711Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Right portal branch to ovarian vein anastomosis: An unusual portosystemic shunt secondary to pelvic venous congestion.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Jun",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Babbar N, Zhim M, Edderai M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：门静脉期的增强CT显示右门静脉的节段性分支与明显扩张且曲折的右卵巢静脉吻合，与宫旁和盆腔静脉曲张相关。 临床提示：非肝硬化患者的自发性门体分流是罕见的血管异常，可能会给诊断带来挑战。",
-        "abstract": "Spontaneous portosystemic shunts in noncirrhotic patients are rare vascular anomalies and may present a diagnostic challenge. We report a rare right-sided spontaneous porto-ovarian venous communication in a 35-year-old woman presenting with symptoms of pelvic venous congestion. Contrast-enhanced CT performed during the portal venous phase demonstrated a segmental branch of the right portal vein anastomosing with a markedly dilated and tortuous right ovarian vein, associated with parametrial and pelvic varices. The right ovarian vein was traced inferiorly and confirmed to drain into the inferior vena cava. The main portal vein and intrahepatic branches were patent, with normal hepatic enhance...",
-        "pmid": "41960137",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41960137/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.02.075",
-        "url": "https://doi.org/10.1016/j.radcr.2026.02.075"
-      },
-      {
-        "title": "Accuracy and influencing factors of hepatic venous pressure gradient, spleen stiffness and liver stiffness in the detection of portal hypertension with liver cirrhosis.",
-        "journal": "Clinical hemorheology and microcirculation",
+        "title": "Idiopathic splenic vein stenosis with splenic infarction: a case report of rare non-bleeding cause of left-sided portal hypertension.",
+        "journal": "BMC gastroenterology",
         "pubDate": "2026 Apr 10",
         "studyType": "Journal Article",
-        "authors": "Li B, Xu F, Su D",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 104）。核心观点：多元线性回归分析是为了确定与 HVPG、SS 和 LS 独立相关的因素。结果HVPG 和 SS 与 PPG 显着相关（p < 0.005）... 临床提示：目的评估肝静脉压力梯度（HVPG）、脾硬度（SS）和肝脏硬度（LS）检测门脉高压（PH）的准确性。方法我们测量HVPG、SS、LS和门静脉压力梯度",
-        "abstract": "PurposeTo assess the accuracy of hepatic venous pressure gradient (HVPG), spleen stiffness (SS) and liver stiffness (LS) for detecting portal hypertension (PH).MethodsWe measured HVPG, SS, LS and portal pressure gradient (PPG) in 104 patients with liver cirrhosis from April 2019 to April 2024. Correlations between these parameters and PH were analyzed using Pearson correlation or Spearman's rank correlation test appropriate. Diagnostic performance was evaluated by receiver operating characteristic (ROC) curve analysis. Multiple linear regression analysis was to identify factors independently associated with HVPG, SS and LS.ResultsHVPG and SS were significantly correlated with PPG (p < 0.005)...",
-        "pmid": "41960883",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41960883/",
-        "doiUrl": "https://doi.org/10.1177/13860291261432456",
-        "url": "https://doi.org/10.1177/13860291261432456"
+        "authors": "Abrokwa SK, Lenz J, Serfling L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：特发性脾静脉狭窄伴脾梗死：罕见非出血性左侧门脉高压病例报告。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41963808",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41963808/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-04783-9",
+        "url": "https://doi.org/10.1186/s12876-026-04783-9"
       },
       {
-        "title": "Clinical relevance and reproducibility of morphological MRI findings in liver cirrhosis: Results from ACCESS-ESLD.",
-        "journal": "European journal of radiology",
-        "pubDate": "2026 Apr 4",
-        "studyType": "Journal Article",
-        "authors": "Swerkersson S, Bartholomä W, Forsgren MF",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：验证肝硬化磁共振成像（MRI）形态特征的临床相关性和可重复性。 临床提示：这是一项针对肝硬化患者的前瞻性多中心研究中基线 MRI 检查的横断面分析。",
-        "abstract": "To validate the clinical relevance and reproducibility of morphological features on magnetic resonance imaging (MRI) in liver cirrhosis. This is a cross-sectional analysis of the baseline MRI examinations in a prospective multi-center study of patients with liver cirrhosis. Two radiologists independently assessed multiple morphological features and the overall degree of cirrhotic changes using a 5-point grading scale: 1 = none, 2 = subtle, 3 = moderate, 4 = evident, 5 = severe. Logistic regression was used to determine the association between imaging findings and clinical severity, using the model for end-stage liver disease (MELD) and Child-Pugh as reference standards. Inter- and intrareade...",
-        "pmid": "41950866",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41950866/",
-        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.112845",
-        "url": "https://doi.org/10.1016/j.ejrad.2026.112845"
-      },
-      {
-        "title": "Radiation-induced lymphopenia is associated with survival in patients with hepatocellular carcinoma treated with stereotactic body radiotherapy.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article",
-        "authors": "Chan LL, Yeung VTY, Soo WMT",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：接受传统分割放疗的患者中有 30% 至 40% 会出现严重的放射诱导淋巴细胞减少症 (RIL)，并且与较差的生存率相关。 临床提示：立体定向全身放射治疗（SBRT）越来越多地用于肝细胞癌（HCC）的治疗。",
-        "abstract": "Stereotactic body radiotherapy (SBRT) is increasingly used in the treatment of hepatocellular carcinoma (HCC). Severe radiation-induced lymphopenia (RIL) occurs in 30% to 40% of patients undergoing conventional fractionated radiotherapy and is associated with worse survival. However, the incidence of RIL and its effect on survival in patients with HCC treated with SBRT remain unclear. This is a retrospective study of patients with HCC treated with SBRT in a tertiary cancer center in Hong Kong between January 2013 to December 2023. Patient and tumor characteristics were reviewed. Pre- and post-SBRT lymphocyte counts were collected. Severe RIL is defined as an absolute lymphocyte count <0.5x10...",
-        "pmid": "41951273",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41951273/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2025.101709",
-        "url": "https://doi.org/10.1016/j.jhepr.2025.101709"
-      },
-      {
-        "title": "The qEEG-TIPS score: Development of a predictive model for recurrent overt hepatic encephalopathy after elective TIPS.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article",
-        "authors": "Saltini D, Zarantonello L, Zanetto A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 161）。核心观点：它会严重损害患者与健康相关的生活质量，特别是反复出现和持续存在的形式，并且可能超过该手术的益处。 临床提示：本研究旨在开发并内部验证结合量化脑电图 (qEEG) 的预后评分，以预测 TIPS 后 3 个月和 6 个月时复发 OHE 的风险。",
-        "abstract": "Overt hepatic encephalopathy (OHE) continues to be the primary complication following transjugular intrahepatic portosystemic shunt (TIPS) placement. It significantly impairs patients' health-related quality of life, particularly in its recurrent and persistent forms, and may outweigh the benefits of the procedure. This study aimed to develop and internally validate a prognostic score incorporating quantified electroencephalography (qEEG) to predict the risk of post-TIPS recurrent OHE at 3 and 6 months. We prospectively enrolled 161 consecutive patients with cirrhosis undergoing elective TIPS for refractory or recurrent ascites or secondary prophylaxis of variceal bleeding. All patients unde...",
-        "pmid": "41831393",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41831393/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101753",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.101753"
+        "title": "An update on cystic fibrosis Hepato-biliary involvement.",
+        "journal": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+        "pubDate": "2026 Apr 9",
+        "studyType": "Journal Article / Review",
+        "authors": "Freeman AJ, Bodewes FAJA",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：CF 基金会和国际胃肠道协会最近的努力导致了基于表型的肝脏受累分类，现在称为囊性纤维化肝胆受累 (CFHBI)，这是最严重的疾病形式 临床提示：囊性纤维化 (PwCF) 患者的肝脏受累长期以来被认为具有临床重要性。",
+        "abstract": "Liver involvement among people with cystic fibrosis (PwCF) has long been recognized as clinically important. However, a lack of consistent terminology, incomplete understanding of natural history, and poor clinical trial endpoints have historically hindered clinical and research advancements in this field. Recent efforts by the CF Foundation and international gastrointestinal societies have led to a phenotype-based classification for liver involvement, now referred to as Cystic Fibrosis Hepato-Biliary Involvement (CFHBI), with the most severe form of disease termed advanced CF liver disease (aCFLD). Longitudinal studies such as PUSH, combined with national patient registry data, has greatly ...",
+        "pmid": "41963204",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41963204/",
+        "doiUrl": "https://doi.org/10.1016/j.jcf.2026.03.022",
+        "url": "https://doi.org/10.1016/j.jcf.2026.03.022"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "Lyse Doucet：历史性的美伊会谈必须弥合深深的不信任",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“Lyse Doucet：历史性的美伊会谈必须弥合深深的不信任”。核心要点：面对面会谈将标志着自 1979 年伊斯兰革命以来伊朗和美国之间最高级别的接触。",
+        "titleZh": "匈牙利决定是否结束欧尔班16年的统治并选举对手",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“匈牙利决定是否结束欧尔班16年的统治并选举对手”。核心要点：大多数民意调查都支持草根政党彼得·马扎尔（Péter Magyar），但总理维克托·欧尔班（Viktor Orbán）却一直处于挑衅情绪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 23:46:49 GMT",
-        "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Apr 2026 04:02:14 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "匈牙利欧尔班的挑战者最终赢得选票",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“匈牙利欧尔班的挑战者最终赢得选票”。核心要点：随着彼得·马扎尔的反对派运动在民意调查中领先，数万名反欧尔班支持者聚集在布达佩斯的英雄广场。",
+        "titleZh": "“来到地球上是一件特别的事情”：阿耳忒弥斯号船员在休斯敦欢迎回家",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““来到地球上是一件特别的事情”：阿耳忒弥斯号船员在休斯敦欢迎回家”。核心要点：这四名宇航员在为期九天的绕月航行中，使他们比历史上任何人类都离地球更远。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Apr 2026 00:17:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Apr 2026 21:23:07 GMT",
+        "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "黎巴嫩和以色列官员将于周二在美国会面",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩和以色列官员将于周二在美国会面”。核心要点：黎巴嫩一名高级官员早些时候告诉英国广播公司，黎巴嫩只有在停火到位的情况下才会参加谈判。",
+        "titleZh": "为什么这位幻灭的特朗普选民要花几个小时搜索爱泼斯坦的文件",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么这位幻灭的特朗普选民要花几个小时搜索爱泼斯坦的文件”。核心要点：许多支持总统的人对特朗普前司法部长帕姆·邦迪处理爱泼斯坦档案的方式表示失望。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 22:43:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Apr 2026 00:30:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "爱尔兰政府在封锁压力后准备燃料支持协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“爱尔兰政府在封锁压力后准备燃料支持协议”。核心要点：周五，爱尔兰共和国部分地区的旅行连续第四天受到影响，包括拖拉机在内的车辆堵塞道路。",
+        "titleZh": "检察官调查针对加州州长候选人斯瓦尔韦尔的虐待指控",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“检察官调查针对加州州长候选人斯瓦尔韦尔的虐待指控”。核心要点：这位备受瞩目的民主党人是加州州长竞选的主要竞争者，他坚决否认了这些指控。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 21:36:30 GMT",
-        "url": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Apr 2026 22:57:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "瑞典男子被控强迫妻子与 120 名男子发生性关系，受审",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞典男子被控强迫妻子与 120 名男子发生性关系，受审”。核心要点：这位 61 岁的男子否认威胁使用身体暴力，也否认用毒品迫使妻子与陌生人发生性关系。",
+        "titleZh": "自称“路西法”的持刀男子在纽约中央车站砍了三人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“自称“路西法”的持刀男子在纽约中央车站砍了三人”。核心要点：纽约警察局表示，袭击者无视至少 20 次要求放下武器的要求，警方开枪打死了他。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 15:06:40 GMT",
-        "url": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Apr 2026 18:08:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
         "titleZh": "欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺”。核心要点：欧洲机场贸易机构表示，如果霍尔木兹海峡在未来三周内不开放，可能会出现短缺。",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺”。核心要点：国际机场理事会（ACI）欧洲表示，其成员对航空燃油的供应“越来越担忧”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 15:12:57 GMT",
+        "publishedAt": "Sat, 11 Apr 2026 09:21:28 GMT",
         "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
       },
       {
