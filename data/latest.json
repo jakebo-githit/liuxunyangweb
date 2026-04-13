@@ -1,80 +1,125 @@
 {
-  "updatedAt": "2026-04-12T04:20:04.711Z",
+  "updatedAt": "2026-04-13T04:29:33.842Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Idiopathic splenic vein stenosis with splenic infarction: a case report of rare non-bleeding cause of left-sided portal hypertension.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 Apr 10",
-        "studyType": "Journal Article",
-        "authors": "Abrokwa SK, Lenz J, Serfling L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：特发性脾静脉狭窄伴脾梗死：罕见非出血性左侧门脉高压病例报告。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41963808",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41963808/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-04783-9",
-        "url": "https://doi.org/10.1186/s12876-026-04783-9"
+        "title": "Variceal hemorrhage in cirrhosis.",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "pubDate": "2026 Apr 12",
+        "studyType": "Journal Article / Review",
+        "authors": "Sordi Chara B, Garcia-Tsao G",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：本综述讨论了 VB 的风险分层管理和预防，包括急性治疗、经颈静脉肝内门体分流术 (TIPS) 的适应症以及特定阶段的一级和二级预防。 临床提示：静脉曲张出血（VB）是肝硬化失代偿的一个决定性事件，并且仍然是发病和死亡的原因。",
+        "abstract": "Variceal bleeding (VB) is a defining event of decompensation in cirrhosis and remains cause of morbidity and mortality. The presence of other decompensating events determines management and prognosis. This review discusses risk-stratified management and prevention of VB, including acute therapy, indications for transjugular intrahepatic portosystemic shunt (TIPS), and stage-specific primary and secondary prophylaxis. A PubMed/MEDLINE search prioritized trials, meta-analyses, and guidelines. Expert Opinion: In patients presenting with VB, standard management consists of vasoconstrictive drugs, antibiotics, and endoscopic variceal ligation (EVL). If bleeding cannot be controlled, TIPS placemen...",
+        "pmid": "41966641",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41966641/",
+        "doiUrl": "https://doi.org/10.1080/17474124.2026.2656231",
+        "url": "https://doi.org/10.1080/17474124.2026.2656231"
       },
       {
-        "title": "An update on cystic fibrosis Hepato-biliary involvement.",
-        "journal": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+        "title": "Tryptophan depletion generates hyper-reactive portal neutrophils in alcoholic liver disease.",
+        "journal": "Gut",
+        "pubDate": "2026 Apr 11",
+        "studyType": "Journal Article",
+        "authors": "Reinartz Groba S, Richter M, Schwarz D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：中性粒细胞保证宿主对病原体做出迅速而有力的反应。 临床提示：在酒精相关性肝病（ALD）中，中性粒细胞发挥着核心作用，因此调节中性粒细胞活性的机制构成了可能的治疗靶点。",
+        "abstract": "Neutrophils guarantee a prompt and robust host response to pathogens. Yet, overshooting neutrophil activation leads to tremendous collateral damage in tissues. In advanced chronic liver disease (ACLD), neutrophils are exposed to the highly immunogenic milieu of the portal circulation prior to entering the liver sinusoids. In alcohol-related liver disease (ALD), neutrophils occupy a central role and therefore mechanisms regulating neutrophil activity pose a possible therapeutic target. Evaluate the impact of the portal milieu on neutrophils in ACLD with portal hypertension. We conducted a prospective study of patients undergoing transjugular intrahepatic portosystemic shunt placement. Paired ...",
+        "pmid": "41965273",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41965273/",
+        "doiUrl": "https://doi.org/10.1136/gutjnl-2025-337646",
+        "url": "https://doi.org/10.1136/gutjnl-2025-337646"
+      },
+      {
+        "title": "POEMS Syndrome Presenting as Porto-Sinusoidal Vascular Disease: A Case Report.",
+        "journal": "Clinics and research in hepatology and gastroenterology",
         "pubDate": "2026 Apr 9",
-        "studyType": "Journal Article / Review",
-        "authors": "Freeman AJ, Bodewes FAJA",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：CF 基金会和国际胃肠道协会最近的努力导致了基于表型的肝脏受累分类，现在称为囊性纤维化肝胆受累 (CFHBI)，这是最严重的疾病形式 临床提示：囊性纤维化 (PwCF) 患者的肝脏受累长期以来被认为具有临床重要性。",
-        "abstract": "Liver involvement among people with cystic fibrosis (PwCF) has long been recognized as clinically important. However, a lack of consistent terminology, incomplete understanding of natural history, and poor clinical trial endpoints have historically hindered clinical and research advancements in this field. Recent efforts by the CF Foundation and international gastrointestinal societies have led to a phenotype-based classification for liver involvement, now referred to as Cystic Fibrosis Hepato-Biliary Involvement (CFHBI), with the most severe form of disease termed advanced CF liver disease (aCFLD). Longitudinal studies such as PUSH, combined with national patient registry data, has greatly ...",
-        "pmid": "41963204",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41963204/",
-        "doiUrl": "https://doi.org/10.1016/j.jcf.2026.03.022",
-        "url": "https://doi.org/10.1016/j.jcf.2026.03.022"
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Zhang H, Quan X, Wu H",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：泼尼松和来那度胺治疗显着改善了他的腹水，消除了 TIPS 的需要。 临床提示：POEMS 综合征最初表现为门脉高压，这种情况很少见。",
+        "abstract": "POEMS syndrome presenting initially as portal hypertension is rare. We report a 49-year-old man who was initially diagnosed with cryptogenic cirrhosis and refractory ascites. Liver biopsy later revealed Porto-sinusoidal Vascular Disease (PSVD), rather than cirrhosis. During the follow-up, he developed polyneuropathy, organomegaly, endocrinopathy, and skin changes. Further evaluation confirmed POEMS syndrome with elevated vascular endothelial growth factor (VEGF) and IgA monoclonal gammopathy. Treatment with prednisone and lenalidomide significantly improved his ascites, eliminating the need for TIPS. This case highlights that POEMS syndrome should be considered in cases of unexplained non - ...",
+        "pmid": "41966479",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41966479/",
+        "doiUrl": "https://doi.org/10.1016/j.clinre.2026.102826",
+        "url": "https://doi.org/10.1016/j.clinre.2026.102826"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "匈牙利决定是否结束欧尔班16年的统治并选举对手",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“匈牙利决定是否结束欧尔班16年的统治并选举对手”。核心要点：大多数民意调查都支持草根政党彼得·马扎尔（Péter Magyar），但总理维克托·欧尔班（Viktor Orbán）却一直处于挑衅情绪。",
+        "titleZh": "欧尔班时代被彼得·马扎尔（Péter Magyar）在匈牙利选举中的压倒性胜利所取代",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧尔班时代被彼得·马扎尔（Péter Magyar）在匈牙利选举中的压倒性胜利所取代”。核心要点：欧尔班·维克多 (Viktor Orbán) 16 年的统治结束了，他被一位 45 岁的前党内人士击败，并说服大多数匈牙利人将他赶下台。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Apr 2026 04:02:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Apr 2026 02:52:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“来到地球上是一件特别的事情”：阿耳忒弥斯号船员在休斯敦欢迎回家",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““来到地球上是一件特别的事情”：阿耳忒弥斯号船员在休斯敦欢迎回家”。核心要点：这四名宇航员在为期九天的绕月航行中，使他们比历史上任何人类都离地球更远。",
+        "titleZh": "特朗普封锁威胁增加风险，困境未改",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普封锁威胁增加风险，困境未改”。核心要点：这场冲突现在是一场意志的考验——伊朗承受打击的能力与特朗普对战争成本的容忍度。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Apr 2026 21:23:07 GMT",
-        "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Apr 2026 22:57:22 GMT",
+        "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么这位幻灭的特朗普选民要花几个小时搜索爱泼斯坦的文件",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么这位幻灭的特朗普选民要花几个小时搜索爱泼斯坦的文件”。核心要点：许多支持总统的人对特朗普前司法部长帕姆·邦迪处理爱泼斯坦档案的方式表示失望。",
+        "titleZh": "阿莎·博斯勒 (Asha Bhosle)：宝莱坞之声去世，享年 92 岁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿莎·博斯勒 (Asha Bhosle)：宝莱坞之声去世，享年 92 岁”。核心要点：她富有感染力的声音让粉丝们载歌载舞，成为几代印度人的配乐。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Apr 2026 00:30:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Apr 2026 16:56:08 GMT",
+        "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "检察官调查针对加州州长候选人斯瓦尔韦尔的虐待指控",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“检察官调查针对加州州长候选人斯瓦尔韦尔的虐待指控”。核心要点：这位备受瞩目的民主党人是加州州长竞选的主要竞争者，他坚决否认了这些指控。",
+        "titleZh": "和谈失败后美国封锁伊朗港口，油价重回100美元上方",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“和谈失败后美国封锁伊朗港口，油价重回100美元上方”。核心要点：周末谈判失败引发了人们对全球能源危机将加深的担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Apr 2026 22:57:28 GMT",
-        "url": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Apr 2026 03:06:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "自称“路西法”的持刀男子在纽约中央车站砍了三人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“自称“路西法”的持刀男子在纽约中央车站砍了三人”。核心要点：纽约警察局表示，袭击者无视至少 20 次要求放下武器的要求，警方开枪打死了他。",
+        "titleZh": "众议员埃里克·斯瓦尔韦尔因性行为不当指控退出加州州长竞选",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“众议员埃里克·斯瓦尔韦尔因性行为不当指控退出加州州长竞选”。核心要点：民主党的高级盟友加大了对他的压力，要求他退出州长竞选。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Apr 2026 18:08:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Apr 2026 02:35:49 GMT",
+        "url": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "和谈失败后美国封锁伊朗港口，油价重回100美元上方",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“和谈失败后美国封锁伊朗港口，油价重回100美元上方”。核心要点：周末谈判失败引发了人们对全球能源危机将加深的担忧。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 13 Apr 2026 03:06:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "费萨尔·伊斯兰：为什么政府对中国汽车进口放松",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：为什么政府对中国汽车进口放松”。核心要点：英国政府认为，中国汽车工业的崛起可能有利于英国消费者和工业界。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 11 Apr 2026 23:12:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "当事人声称，Tice 91,000英镑的税款是“轻微的行政错误”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“当事人声称，Tice 91,000英镑的税款是“轻微的行政错误””。核心要点：据《星期日泰晤士报》报道，英国改革派副领导人拥有的一家房地产公司未能缴纳 91,000 英镑的股息税。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 12 Apr 2026 16:34:31 GMT",
+        "url": "https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "英国钢铁公司“需要在夏季之前实现国有化”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国钢铁公司“需要在夏季之前实现国有化””。核心要点：工党议员尼克·达金表示，随着所有权谈判的继续，这对英国钢铁公司来说是“最好的结果”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 12 Apr 2026 06:25:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺",
         "summaryZh": "这是一条金融市场新闻，重点围绕“欧盟航空业警告称，如果霍尔木兹海峡继续关闭，将出现燃料短缺”。核心要点：国际机场理事会（ACI）欧洲表示，其成员对航空燃油的供应“越来越担忧”。",
@@ -82,38 +127,6 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 11 Apr 2026 09:21:28 GMT",
         "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "油轮敦促不要向伊朗支付使用海峡的通行费",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“油轮敦促不要向伊朗支付使用海峡的通行费”。核心要点：建议油轮公司不要向伊朗支付任何费用以换取安全通过霍尔木兹海峡。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 18:45:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "擅长游戏？美国空中交通管制中心希望您申请",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“擅长游戏？美国空中交通管制中心希望您申请”。核心要点：一项新的政府广告活动正试图说服游戏玩家申请航空安全职位。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 19:35:24 GMT",
-        "url": "https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "飙升的汽油价格导致美国通胀达到近两年来的最高水平",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“飙升的汽油价格导致美国通胀达到近两年来的最高水平”。核心要点：伊朗战争导致油价飙升，导致通货膨胀率升至 3.3%。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 16:20:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "杜嘉班纳 (Dolce & Gabbana) 联合创始人辞去董事长职务",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“杜嘉班纳 (Dolce & Gabbana) 联合创始人辞去董事长职务”。核心要点：在全球奢侈品消费放缓的背景下，这家大胆而感性的时装公司一直在债务问题上苦苦挣扎。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Apr 2026 13:14:44 GMT",
-        "url": "https://www.bbc.com/news/articles/c77m3p8182no?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
