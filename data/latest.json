@@ -1,158 +1,119 @@
 {
-  "updatedAt": "2026-04-14T04:18:31.581Z",
+  "updatedAt": "2026-04-15T04:17:28.140Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Incidence, associated factors and prognostic association of acute kidney injury after TIPS: a multicenter retrospective study.",
-        "journal": "Renal failure",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Shang J, Cheng P, Cao H",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 995）。核心观点：本研究调查了经颈静脉肝内门体分流术 (TIPS) 后急性肾损伤 (AKI) 的发生率、危险因素和预后影响。 临床提示：这项多中心回顾性研究纳入了在中国三家医院接受 TIPS 的患者。",
-        "abstract": "This study investigated the incidence, risk factors, and prognostic implications of acute kidney injury (AKI) after transjugular intrahepatic portosystemic shunt (TIPS). This multicenter retrospective study included patients who underwent TIPS at three hospitals in China. AKI risk factors were identified using multivariate logistic regression in the overall cohort. Propensity score matching was performed to balance baseline covariates. Survival differences were assessed using the Kaplan-Meier method, and the association between AKI and mortality was evaluated using stratified Cox regression models. A total of 995 patients were included, of whom 4.92% developed postoperative AKI. Multivariabl...",
-        "pmid": "41968972",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41968972/",
-        "doiUrl": "https://doi.org/10.1080/0886022X.2026.2650577",
-        "url": "https://doi.org/10.1080/0886022X.2026.2650577"
+        "title": "Thrombosis and anticoagulation in patients with Cirrhosis. An overview.",
+        "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+        "pubDate": "2026 Apr 12",
+        "studyType": "Journal Article / Review",
+        "authors": "Valla DC",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化患者有发生静脉血栓栓塞和心房颤动的风险。 临床提示：目前的数据表明，抗凝治疗对肝硬化和门脉高压患者有益...",
+        "abstract": "Patients with cirrhosis are not spontaneously anticoagulated. Patients with cirrhosis are at risk of developing venous thromboembolism and atrial fibrillation. Anticoagulation does not independently increase the risk of bleeding related to portal hypertension; or the mortality and morbidity related to bleeding. VTE prophylaxis should be considered in hospitalized patients with cirrhosis. Deep vein thrombosis and pulmonary embolism should be treated with anticoagulation. Portal vein thrombosis is a marker for the severity of liver disease but likely not an aggravating factor. Current data suggest that anticoagulation therapy is beneficial in patients with cirrhosis and portal hypertension wit...",
+        "pmid": "41974603",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41974603/",
+        "doiUrl": "https://doi.org/10.1016/j.dld.2026.03.009",
+        "url": "https://doi.org/10.1016/j.dld.2026.03.009"
       },
       {
-        "title": "Seladelpar in patients with primary biliary cholangitis and compensated cirrhosis: Efficacy and safety from RESPONSE and ASSURE studies.",
-        "journal": "Hepatology communications",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article / Randomized Controlled Trial / Clinical Trial, Phase III",
-        "authors": "Gordon SC, Villamil A, Jacobson IM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床试验。核心观点：原发性胆汁性胆管炎 (PBC) 和肝硬化患者的治疗选择有限。 临床提示：Seladelpar 是一种首创的 delpar（选择性 PPAR-δ 激动剂），在 3 期 RESPONSE 研究中，对代偿性肝硬化患者与非代偿性肝硬化患者的疗效和安全性大致相似。",
-        "abstract": "Treatment options are limited for patients with primary biliary cholangitis (PBC) and cirrhosis. Seladelpar, a first-in-class delpar (selective PPAR-δ agonist), had generally similar efficacy and safety among patients with versus without compensated cirrhosis in the phase 3 RESPONSE study. Here we provide additional data on seladelpar in patients with compensated cirrhosis from the phase 3 program. In RESPONSE, patients with PBC and an inadequate response or intolerance to UDCA were randomized 2:1 to seladelpar 10 mg or placebo for 1 year. Upon completion, patients rolled over into the open-label (seladelpar 10 mg) phase 3 ASSURE study, which also enrolled patients from earlier seladelpar le...",
-        "pmid": "41974026",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41974026/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000000918",
-        "url": "https://doi.org/10.1097/HC9.0000000000000918"
-      },
-      {
-        "title": "Characteristics of Pancreatic Cancer-associated Ascites and Redefined Criteria for Bacterial Peritonitis.",
-        "journal": "Pancreas",
-        "pubDate": "2026 May-Jun 01",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Yeo M, Cho IR, Lee SH",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：本研究旨在调查 PDAC 相关腹水的特征，并提出重新定义 PDAC 患者细菌性腹膜炎的诊断标准。 临床提示：探索队列中 PDAC 相关腹水的病因（腹膜癌病、门静脉高压或混合病因）和特征......",
-        "abstract": "The diagnosis of spontaneous bacterial peritonitis relies on polymorphonuclear (PMN) cell counts (>250/mm 3 ) in cirrhotic ascites. However, ascites in pancreatic ductal adenocarcinoma (PDAC) develop through mixed mechanisms, presenting different profiles compared with those of cirrhotic ascites. This study aimed to investigate the characteristics of PDAC-associated ascites and propose redefined criteria for bacterial peritonitis diagnosis in patients with PDAC. This retrospective study was conducted at 3 tertiary medical centers in Korea. The etiology (peritoneal carcinomatosis, portal hypertension, or mixed etiology) and characteristics of PDAC-associated ascites of the exploration cohort ...",
-        "pmid": "41396838",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41396838/",
-        "doiUrl": "https://doi.org/10.1097/MPA.0000000000002606",
-        "url": "https://doi.org/10.1097/MPA.0000000000002606"
-      },
-      {
-        "title": "Asialoglycoprotein receptor-bound PLGA nanoparticles loaded with Riociguat targetedly ameliorate portal hypertension in liver cirrhosis.",
-        "journal": "International journal of biological macromolecules",
-        "pubDate": "2026 Apr 10",
+        "title": "Adding Estimates of Central Venous Pressure Boosts the Performance of Non-Invasive Assessment of the Portosystemic Gradient Prior to TIPS Implantation.",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "pubDate": "2026 Apr 4",
         "studyType": "Journal Article",
-        "authors": "Hsu SJ, Hsu YC, Yen PL",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：尽管血管扩张药物和/或经颈静脉肝内门体分流术已在临床上广泛用于治疗门静脉高压症，但它们通常不太令人满意，因为这些方法可能会极大地影响整个病情。 临床提示：虽然血管扩张药物和/或经颈静脉肝内门体分流术在临床上已广泛用于治疗门静脉高压症，但由于这些方法通常不太令人满意。",
-        "abstract": "Portal hypertension typically arises with liver cirrhosis and often leads to life-threatening side effects that complicate treatment. Although administrations of vasodilation drugs and/or transjugular intrahepatic portosystemic shunt have been widely used to treat portal hypertension in the clinic, they are usually less satisfactory because those methods may dramatically influence the entire cardiovascular system rather than the liver alone, indicating that an effective and safe approach for reducing cirrhotic portal hypertension is still strongly demanded nowadays. To meet the requirements, asialoglycoprotein receptor (ASGPR)-bound Riociguat-loaded poly (lactic-co-glycolic acid) (PLGA) nano...",
-        "pmid": "41967542",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41967542/",
-        "doiUrl": "https://doi.org/10.1016/j.ijbiomac.2026.151957",
-        "url": "https://doi.org/10.1016/j.ijbiomac.2026.151957"
-      },
-      {
-        "title": "Targeting the Feeder: Endoscopic Ultrasound-Guided Embolization of Large Gastric Varices in a Pregnant Woman With Extrahepatic Portal Hypertension.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Apr",
-        "studyType": "Journal Article",
-        "authors": "Chavan R, Devani K, Gandhi C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：针对饲养者：内镜超声引导下对患有肝外门静脉高压的孕妇进行大胃静脉曲张栓塞。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "41970666",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41970666/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002078",
-        "url": "https://doi.org/10.14309/crj.0000000000002078"
+        "authors": "Stoehr F, Moos M, Müller L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 314）。核心观点：背景：已经提出了用于预测肝静脉压力梯度（HVPG）以及具有临床意义的门脉高压（CSPH）的无创评分系统；本研究的目的是评估队列中这些分数的准确性 临床提示：背景：已经提出了用于预测肝静脉压力梯度（HVPG）以及具有临床意义的门脉高压（CSPH）的无创评分系统；这项研究的目的是评估",
+        "abstract": "Background : Non-invasive scoring systems for predicting the hepatic venous pressure gradient (HVPG) and, thus, clinically significant portal hypertension (CSPH) have been proposed; the aim of this study was to evaluate the accuracy of these scores in a cohort of patients undergoing transjugular intrahepatic portosystemic shunt (TIPS) placement and to further analyze patients without a markedly elevated portosystemic gradient (PSG) at the time of the procedure. Methods : We retrospectively analyzed 314 patients who underwent TIPS implantation at our tertiary care center between 2010 and 2022. The diagnostic performance of CT-based scoring systems by Iranmanesh (Score 1) and Kihira (Score 2),...",
+        "pmid": "41975802",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41975802/",
+        "doiUrl": "https://doi.org/10.3390/diagnostics16071091",
+        "url": "https://doi.org/10.3390/diagnostics16071091"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "黎巴嫩与以色列进行谈判但无牌可打",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩与以色列进行谈判但无牌可打”。核心要点：黎巴嫩政府进入和平谈判，对该组织的影响有限。",
+        "titleZh": "贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护”。核心要点：美国财政部长表示，为了消除伊朗对西方首都发动袭击的威胁，“一点点经济痛苦”是值得的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Apr 2026 23:26:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 19:47:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列袭击后，BBC 加入了黎巴嫩护理人员的行列",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列袭击后，BBC 加入了黎巴嫩护理人员的行列”。核心要点：BBC 中东记者雨果·巴切加 (Hugo Bachega) 与护理人员一起在纳巴蒂耶执勤，这座城市曾经充满活力，但现在已被遗弃。",
+        "titleZh": "以色列和黎巴嫩举行1993年以来首次直接会谈",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列和黎巴嫩举行1993年以来首次直接会谈”。核心要点：美国声明称，双方同意启动直接谈判，具体时间和地点待定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Apr 2026 21:29:23 GMT",
-        "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 20:42:48 GMT",
+        "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如果普京打电话告诉匈牙利下一任总理停止乌克兰战争，他将会接电话",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“如果普京打电话告诉匈牙利下一任总理停止乌克兰战争，他将会接电话”。核心要点：俄罗斯提出了“务实”的关系，但彼得·马扎尔表示，他不会亲自致电弗拉基米尔·普京。",
+        "titleZh": "三年的信息同时出现——当被困记者的手机打开时，苏丹战争的编年史涌入",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“三年的信息同时出现——当被困记者的手机打开时，苏丹战争的编年史涌入”。核心要点：随着冲突进入第四个年头，记者穆罕默德·苏莱曼对所失去的一切感到不寒而栗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Apr 2026 21:28:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 23:13:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "儿童艾滋病爆发中心的医院在秘密拍摄中重复使用注射器",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“儿童艾滋病爆发中心的医院在秘密拍摄中重复使用注射器”。核心要点：视频显示工作人员不戴手套进行注射并重复使用注射器，但医院老板拒绝承认这是真的。",
+        "titleZh": "男子在100欧元慈善抽奖中赢得价值100万欧元的毕加索画作",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“男子在100欧元慈善抽奖中赢得价值100万欧元的毕加索画作”。核心要点：“我怎么知道这不是恶作剧？”获奖者在接听来自巴黎佳士得拍卖行的视频电话时问道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Apr 2026 23:27:45 GMT",
-        "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 21:40:24 GMT",
+        "url": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "哈利和梅根抵达澳大利亚开始为期四天的旅行",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哈利和梅根抵达澳大利亚开始为期四天的旅行”。核心要点：这是这对夫妇自 2018 年担任王室成员以来首次访问澳大利亚。",
+        "titleZh": "印度洋移民船沉没 250人失踪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“印度洋移民船沉没 250人失踪”。核心要点：联合国称，这艘拖网渔船“据报道因强风、波涛汹涌的海面和过度拥挤而沉没”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 04:09:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 01:28:08 GMT",
+        "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "油价因美伊新和平谈判的希望而下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“油价因美伊新和平谈判的希望而下跌”。核心要点：周末双方谈判失败后，周一原油价格突破 100 美元。",
+        "titleZh": "IFS表示，“帮助购买”主要帮助的是高收入者",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“IFS表示，“帮助购买”主要帮助的是高收入者”。核心要点：这家颇具影响力的智库表示，低收入人群从购房计划中获得的好处少于高收入人群。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 03:46:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 23:03:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "男子因袭击 OpenAI 萨姆·奥尔特曼 (Sam Altman) 家而面临谋杀未遂指控",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“男子因袭击 OpenAI 萨姆·奥尔特曼 (Sam Altman) 家而面临谋杀未遂指控”。核心要点：这名德克萨斯州男子还面临联邦重罪指控，据称他持有鼓吹对人工智能高管实施暴力的文件。",
+        "titleZh": "贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护”。核心要点：美国财政部长表示，为了消除伊朗对西方首都发动袭击的威胁，“一点点经济痛苦”是值得的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 01:05:54 GMT",
-        "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 19:47:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "好莱坞明星联合起来反对派拉蒙和华纳兄弟探索合并",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“好莱坞明星联合起来反对派拉蒙和华纳兄弟探索合并”。核心要点：艾玛·汤普森和本·斯蒂勒等明星签署了一封反对这项交易的公开信，派拉蒙表示，这将确保创作者“有更多的创作途径，而不是更少”。",
+        "titleZh": "国际货币基金组织表示，英国面临主要经济体伊朗战争对经济增长的最大打击",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“国际货币基金组织表示，英国面临主要经济体伊朗战争对经济增长的最大打击”。核心要点：该金融机构下调了对英国的增长预测，并警告说，战争有可能使全球经济“偏离正轨”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 00:39:03 GMT",
-        "url": "https://www.bbc.com/news/articles/cz0egvr94zro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 17:18:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于伊朗战争担忧导致销售下滑，美国购房者“冻结”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争担忧导致销售下滑，美国购房者“冻结””。核心要点：美国房屋销售量触及九个月低点，经济学家警告经济放缓可能会进一步恶化。",
+        "titleZh": "家庭可以在阳光明媚的周末获得免费电力用于洗衣",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“家庭可以在阳光明媚的周末获得免费电力用于洗衣”。核心要点：当“天气条件导致供应过剩”时，供应商可以鼓励人们使用能源。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Apr 2026 16:25:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 20:33:15 GMT",
+        "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美伊和谈失败后油价回升至100美元上方",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊和谈失败后油价回升至100美元上方”。核心要点：周末谈判失败引发了人们对全球能源危机将加深的担忧。",
+        "titleZh": "RAC表示，燃油价格在上涨43天后停止上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“RAC表示，燃油价格在上涨43天后停止上涨”。核心要点：该汽车集团表示，价格可能在未来几周内开始下降。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Apr 2026 19:17:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Apr 2026 14:06:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c98kk1lrkzno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
