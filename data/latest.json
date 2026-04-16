@@ -1,119 +1,92 @@
 {
-  "updatedAt": "2026-04-15T04:17:28.140Z",
+  "updatedAt": "2026-04-16T04:24:10.790Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Thrombosis and anticoagulation in patients with Cirrhosis. An overview.",
-        "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-        "pubDate": "2026 Apr 12",
-        "studyType": "Journal Article / Review",
-        "authors": "Valla DC",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化患者有发生静脉血栓栓塞和心房颤动的风险。 临床提示：目前的数据表明，抗凝治疗对肝硬化和门脉高压患者有益...",
-        "abstract": "Patients with cirrhosis are not spontaneously anticoagulated. Patients with cirrhosis are at risk of developing venous thromboembolism and atrial fibrillation. Anticoagulation does not independently increase the risk of bleeding related to portal hypertension; or the mortality and morbidity related to bleeding. VTE prophylaxis should be considered in hospitalized patients with cirrhosis. Deep vein thrombosis and pulmonary embolism should be treated with anticoagulation. Portal vein thrombosis is a marker for the severity of liver disease but likely not an aggravating factor. Current data suggest that anticoagulation therapy is beneficial in patients with cirrhosis and portal hypertension wit...",
-        "pmid": "41974603",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41974603/",
-        "doiUrl": "https://doi.org/10.1016/j.dld.2026.03.009",
-        "url": "https://doi.org/10.1016/j.dld.2026.03.009"
-      },
-      {
-        "title": "Adding Estimates of Central Venous Pressure Boosts the Performance of Non-Invasive Assessment of the Portosystemic Gradient Prior to TIPS Implantation.",
-        "journal": "Diagnostics (Basel, Switzerland)",
-        "pubDate": "2026 Apr 4",
-        "studyType": "Journal Article",
-        "authors": "Stoehr F, Moos M, Müller L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 314）。核心观点：背景：已经提出了用于预测肝静脉压力梯度（HVPG）以及具有临床意义的门脉高压（CSPH）的无创评分系统；本研究的目的是评估队列中这些分数的准确性 临床提示：背景：已经提出了用于预测肝静脉压力梯度（HVPG）以及具有临床意义的门脉高压（CSPH）的无创评分系统；这项研究的目的是评估",
-        "abstract": "Background : Non-invasive scoring systems for predicting the hepatic venous pressure gradient (HVPG) and, thus, clinically significant portal hypertension (CSPH) have been proposed; the aim of this study was to evaluate the accuracy of these scores in a cohort of patients undergoing transjugular intrahepatic portosystemic shunt (TIPS) placement and to further analyze patients without a markedly elevated portosystemic gradient (PSG) at the time of the procedure. Methods : We retrospectively analyzed 314 patients who underwent TIPS implantation at our tertiary care center between 2010 and 2022. The diagnostic performance of CT-based scoring systems by Iranmanesh (Score 1) and Kihira (Score 2),...",
-        "pmid": "41975802",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41975802/",
-        "doiUrl": "https://doi.org/10.3390/diagnostics16071091",
-        "url": "https://doi.org/10.3390/diagnostics16071091"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护”。核心要点：美国财政部长表示，为了消除伊朗对西方首都发动袭击的威胁，“一点点经济痛苦”是值得的。",
+        "titleZh": "Lyse Doucet：在脆弱的停火下，伊朗人想知道美国是否可以达成协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“Lyse Doucet：在脆弱的停火下，伊朗人想知道美国是否可以达成协议”。核心要点：英国广播公司（BBC）首席国际记者从伊朗报道称，避免战争重燃的外交努力正在加强。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 19:47:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 21:10:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列和黎巴嫩举行1993年以来首次直接会谈",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列和黎巴嫩举行1993年以来首次直接会谈”。核心要点：美国声明称，双方同意启动直接谈判，具体时间和地点待定。",
+        "titleZh": "前美国海军陆战队飞行员在澳大利亚引渡上诉中败诉",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“前美国海军陆战队飞行员在澳大利亚引渡上诉中败诉”。核心要点：丹尼尔·杜根 (Daniel Duggan) 因涉嫌在南非非法训练中国军队而于 2022 年被捕。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 20:42:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Apr 2026 02:17:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "三年的信息同时出现——当被困记者的手机打开时，苏丹战争的编年史涌入",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“三年的信息同时出现——当被困记者的手机打开时，苏丹战争的编年史涌入”。核心要点：随着冲突进入第四个年头，记者穆罕默德·苏莱曼对所失去的一切感到不寒而栗。",
+        "titleZh": "特朗普与教皇的不和正在公开化——这让他失去了宝贵的支持",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普与教皇的不和正在公开化——这让他失去了宝贵的支持”。核心要点：领先的保守派天主教徒告诉英国广播公司为什么他们支持美国教皇与特朗普的争执。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 23:13:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 11:25:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "男子在100欧元慈善抽奖中赢得价值100万欧元的毕加索画作",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“男子在100欧元慈善抽奖中赢得价值100万欧元的毕加索画作”。核心要点：“我怎么知道这不是恶作剧？”获奖者在接听来自巴黎佳士得拍卖行的视频电话时问道。",
+        "titleZh": "弗兰克·加德纳：中国在伊朗战争中扮演什么角色？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“弗兰克·加德纳：中国在伊朗战争中扮演什么角色？”。核心要点：BBC 安全记者弗兰克·加德纳 (Frank Gardner) 解释了世界第二大经济体如何应对海湾冲突。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 21:40:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cq8ww7d72wyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 18:54:06 GMT",
+        "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度洋移民船沉没 250人失踪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印度洋移民船沉没 250人失踪”。核心要点：联合国称，这艘拖网渔船“据报道因强风、波涛汹涌的海面和过度拥挤而沉没”。",
+        "titleZh": "特朗普威胁美联储主席鲍威尔，如果他五月份不离开就解雇他",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁美联储主席鲍威尔，如果他五月份不离开就解雇他”。核心要点：唐纳德·特朗普的威胁标志着他与杰罗姆·鲍威尔的持续争执的最新升级。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Apr 2026 01:28:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Apr 2026 01:55:12 GMT",
+        "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "IFS表示，“帮助购买”主要帮助的是高收入者",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“IFS表示，“帮助购买”主要帮助的是高收入者”。核心要点：这家颇具影响力的智库表示，低收入人群从购房计划中获得的好处少于高收入人群。",
+        "titleZh": "银行老板告诉BBC他不会急于加息",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“银行老板告诉BBC他不会急于加息”。核心要点：英国央行行长表示，伊朗战争能源冲击使得下一次利率决定“非常非常困难”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 23:03:25 GMT",
-        "url": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 21:51:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“贝森特告诉英国广播公司，“一点痛苦”值得伊朗长期保护”。核心要点：美国财政部长表示，为了消除伊朗对西方首都发动袭击的威胁，“一点点经济痛苦”是值得的。",
+        "titleZh": "尽管伊朗战争，中国经济增长仍快于预期",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“尽管伊朗战争，中国经济增长仍快于预期”。核心要点：GDP数据好于预期之际，亚洲国家正受到冲突影响的严重打击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 19:47:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Apr 2026 02:29:44 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "国际货币基金组织表示，英国面临主要经济体伊朗战争对经济增长的最大打击",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“国际货币基金组织表示，英国面临主要经济体伊朗战争对经济增长的最大打击”。核心要点：该金融机构下调了对英国的增长预测，并警告说，战争有可能使全球经济“偏离正轨”。",
+        "titleZh": "马尿香水：为什么网上讨价还价可能很危险",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“马尿香水：为什么网上讨价还价可能很危险”。核心要点：专家警告存在假冒风险，政府则就更严格的产品安全规则进行磋商。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 17:18:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 22:57:56 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gjjryvzg9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "家庭可以在阳光明媚的周末获得免费电力用于洗衣",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“家庭可以在阳光明媚的周末获得免费电力用于洗衣”。核心要点：当“天气条件导致供应过剩”时，供应商可以鼓励人们使用能源。",
+        "titleZh": "随着支持计划的扩大，更多大型能源用户将获得帮助",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着支持计划的扩大，更多大型能源用户将获得帮助”。核心要点：一项为能源消耗大的企业削减账单的计划正在扩大到覆盖另外 3,000 家企业。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 20:33:15 GMT",
-        "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 22:33:35 GMT",
+        "url": "https://www.bbc.com/news/articles/c0lee3j122go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "RAC表示，燃油价格在上涨43天后停止上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“RAC表示，燃油价格在上涨43天后停止上涨”。核心要点：该汽车集团表示，价格可能在未来几周内开始下降。",
+        "titleZh": "陪审团发现，Ticketmaster 所有者 Live Nation 存在垄断行为并向粉丝收取过高费用",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“陪审团发现，Ticketmaster 所有者 Live Nation 存在垄断行为并向粉丝收取过高费用”。核心要点：诉讼称，该公司的做法导致票价上涨和客户服务恶化。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Apr 2026 14:06:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c98kk1lrkzno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Apr 2026 22:56:29 GMT",
+        "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
