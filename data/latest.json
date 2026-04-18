@@ -1,119 +1,158 @@
 {
-  "updatedAt": "2026-04-17T04:21:02.129Z",
+  "updatedAt": "2026-04-18T04:04:53.069Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Impact of pharmacological sGC stimulation with Riociguat in experimental models of liver disease regression.",
-        "journal": "Hepatology international",
-        "pubDate": "2026 Apr 15",
+        "title": "Photon-counting CT-derived hepatic extracellular volume quantification for noninvasive risk stratification of clinically significant portal hypertension (CSPH): a prospective cohort study.",
+        "journal": "European radiology",
+        "pubDate": "2026 May",
         "studyType": "Journal Article",
-        "authors": "Bonitz K, Königshofer P, Horstmeier H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在实验模型中，刺激 NO-sGC-cGMP 信号传导可改善纤维化、PH 和炎症。 临床提示：肝纤维化和门静脉高压（​​PH）决定慢性肝病的预后。",
-        "abstract": "Liver fibrosis and portal hypertension (PH) determine prognosis in chronic liver disease. In experimental models, stimulation of NO-sGC-cGMP signaling improved fibrosis, PH and inflammation. Since fibrosis and PH improve slowly after injury cessation, we investigated whether stimulating sGC activity accelerates their regression. Liver fibrosis was induced in C57BL/6 J mice by either carbon tetrachloride (CCl 4 ; 2 µl/g, gavage 3x/week) for 12 weeks or thioacetamide (TAA; 150 mg/kg, intraperitoneal injections 3x/week) for 12 weeks, followed by 1 (R1) or 2 (R2) weeks of regression. Animals received the sGC stimulator Riociguat (RIO; 3 mg/kg, gavage 2x/day) during regression. Disease severity w...",
-        "pmid": "41986807",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41986807/",
-        "doiUrl": "https://doi.org/10.1007/s12072-026-11086-4",
-        "url": "https://doi.org/10.1007/s12072-026-11086-4"
+        "authors": "Dell T, Tischler V, Zocholl D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 113）。核心观点：评估光子计数 CT (PCCT) 衍生的肝细胞外容量 (ECV) 是否可以作为无创成像生物标志物来检测或排除代偿性晚期慢性肝病患者的临床显着性门静脉高压 (CSPH) 临床提示：评估光子计数 CT (PCCT) 衍生的肝细胞外容量 (ECV) 是否可以作为无创成像生物标志物来检测或排除患有肝病的患者中具有临床意义的门脉高压 (CSPH)。",
+        "abstract": "To evaluate whether photon-counting CT (PCCT)-derived hepatic extracellular volume (ECV) can serve as a noninvasive imaging biomarker to detect or exclude clinically significant portal hypertension (CSPH) in patients with compensated advanced chronic liver disease (cACLD). This prospective single-center study included 113 participants with chronic liver disease who underwent contrast-enhanced liver PCCT between February 2022 and January 2025. Hepatic ECV was calculated from the delayed phase (5 min post-contrast). Liver stiffness measurements (LSM) by transient elastography (n = 79) and histological fibrosis grading (n = 34) served as reference standards. Correlations were evaluated using Sp...",
+        "pmid": "41432759",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41432759/",
+        "doiUrl": "https://doi.org/10.1007/s00330-025-12222-8",
+        "url": "https://doi.org/10.1007/s00330-025-12222-8"
       },
       {
-        "title": "Endovascular stent placement for severe post-transplant portal vein anastomotic stenosis following an unsuccessful TIPS attempt.",
-        "journal": "European journal of radiology",
-        "pubDate": "2026 Apr 11",
+        "title": "Semaglutide therapy for metabolic dysfunction-associated steatohepatitis: November 2025 updates to AASLD Practice Guidance.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 May 1",
+        "studyType": "Journal Article / Practice Guideline / Review",
+        "authors": "Bansal MB, Patton H, Morgan TR",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：本实践建议是 2023 年 AASLD 关于非酒精性脂肪性肝病 (NAFLD)（现称为代谢功能障碍相关脂肪性肝病 (MASLD)）临床评估和管理的实践指南的更新，并提供 临床提示：本实践建议是 2023 年 AASLD 实践指南的更新，该指南涉及非酒精性脂肪性肝病 (NAFLD)（现称为代谢功能障碍相关性肝病）的临床评估和管理。",
+        "abstract": "This practice recommendation serves as an update to the 2023 AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease (NAFLD), now known as metabolic dysfunction-associated steatotic liver disease (MASLD), and provides implementable guidance on patient selection for treatment, consideration of comorbidities, and monitoring of treatment safety and efficacy of semaglutide. FDA-indication and Practice Recommendation: The Wegovy formulation, whose main ingredient is semaglutide, received accelerated FDA approval in August 2025 for treating MASH with moderate-to-advanced fibrosis (consistent with stages F2-F3 fibrosis), based on interim results of the ...",
+        "pmid": "41201884",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41201884/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001608",
+        "url": "https://doi.org/10.1097/HEP.0000000000001608"
+      },
+      {
+        "title": "Distinctive hemodynamic phenotype in Fontan-type circulation patients with distal esophageal varices.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 May 1",
         "studyType": "Journal Article",
-        "authors": "Vogl TJ, Şahan M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们介绍了一例持续性腹水的肝移植受者，多普勒超声和 CT 血管造影提示门静脉和肠系膜静脉曲张之间的复杂吻合处出现局灶性狭窄。 临床提示：尝试 TIPS 手术失败，因为无法安全地穿过狭窄段；然而，静脉造影提供了支持血流动力学相关阻塞的额外线索。",
-        "abstract": "Portal vein anastomotic stenosis after liver transplantation is an uncommon but clinically important complication that can lead to portal hypertension, ascites, and impaired graft inflow. We present a case of a liver transplant recipient with persistent ascites in whom Doppler ultrasound and CT angiography suggested a focal narrowing of a complex anastomosis between portal vein and mesenteric varicose veins. An attempted TIPS procedure was unsuccessful because the stenotic segment could not be safely traversed; however, venography provided additional clues supporting a hemodynamically relevant obstruction. On the following day, a percutaneous transhepatic approach enabled definitive visualiz...",
-        "pmid": "41985311",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41985311/",
-        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.112830",
-        "url": "https://doi.org/10.1016/j.ejrad.2026.112830"
+        "authors": "Téllez L, Toledano M, Álvarez M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：食管静脉曲张 (EV) 在具有 Fontan 型循环的成人中很常见，并且可能通过不同的血流动力学机制出现，具体取决于其解剖位置。 临床提示：我们的目的是确定该人群中 EV 的患病率、解剖分布和血流动力学相关性。",
+        "abstract": "Esophageal varices (EV) are common in adults with Fontan-type circulation and may arise via distinct hemodynamic mechanisms depending on their anatomic location. We aimed to determine the prevalence, anatomical distribution, and hemodynamic correlates of EV in this population. In this prospective cohort study, 114 consecutive adults with Fontan-type circulation underwent combined hepatic and cardiac catheterization, esophagogastroduodenoscopy, and liver biopsy. Patients were classified by endoscopic findings into those with and without EV, and the EV cohort was further stratified by location (proximal or distal). EV were present in 36.8% (95% CI, 27.9-45.8%), including 28.9% with distal EV a...",
+        "pmid": "40694806",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40694806/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001472",
+        "url": "https://doi.org/10.1097/HEP.0000000000001472"
+      },
+      {
+        "title": "Post-Transplant liver assessment: Practical applications of non-invasive testing.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "pubDate": "2026 Apr 17",
+        "studyType": "Journal Article",
+        "authors": "Brujats A, Mendoza YP, Becchetti C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝移植（LT）改变了终末期肝病和肝细胞癌患者的预后，提供了良好的长期生存率。 临床提示：然而，移植后的结果可能会因同种异体移植物排斥和复发性或新发肝病而受到危害，这些肝病可能会进展为移植物纤维化、肝硬化和肝脏相关并发症。",
+        "abstract": "Liver transplantation (LT) has transformed the prognosis of patients with end-stage liver disease and hepatocellular carcinoma, offering excellent long-term survival. However, post-transplant outcomes can be jeopardized by allograft rejection and by recurrent or de novo liver disease, which may progress to graft fibrosis, cirrhosis, and liver-related complications. Non-invasive tests (NITs) have emerged as powerful tools for evaluating steatosis, fibrosis, and portal hypertension in native liver disease, but their optimal role after LT remains uncertain and variably defined. In this review, we summarize the current evidence regarding the performance of NITs for the assessment of graft fibros...",
+        "pmid": "41996674",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41996674/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000882",
+        "url": "https://doi.org/10.1097/LVT.0000000000000882"
+      },
+      {
+        "title": "Development and Validation of an Interpretable Machine Learning Model for Predicting Tumor Recurrence After Microwave Ablation in Small Hepatocellular Carcinoma.",
+        "journal": "Journal of hepatocellular carcinoma",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Ma Y, Zhao L, Zhao Q",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 536）。核心观点：准确且可解释的消融后复发风险预测对于个体化监测和管理策略至关重要。 临床提示：本研究旨在开发和验证可解释的机器学习 (IML) 模型，用于预测 sHCC 患者 MWA 后的肿瘤复发。",
+        "abstract": "Tumor recurrence remains a major clinical challenge following microwave ablation (MWA) for small hepatocellular carcinoma (sHCC). Accurate and interpretable prediction of post-ablation recurrence risk is essential for individualized surveillance and management strategies. This study aimed to develop and validate an interpretable machine learning (IML) model for predicting tumor recurrence after MWA in patients with sHCC. This retrospective study included 536 consecutive patients with sHCC treated with ultrasound-guided MWA between July 2017 and July 2023. A two-stage feature selection strategy combining Boruta and LASSO regression was applied to identify the most robust predictors. Six ML al...",
+        "pmid": "41993242",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41993242/",
+        "doiUrl": "https://doi.org/10.2147/JHC.S602760",
+        "url": "https://doi.org/10.2147/JHC.S602760"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "歌手 D4vd 因涉嫌失踪少女死亡而被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“歌手 D4vd 因涉嫌失踪少女死亡而被捕”。核心要点：去年，14 岁的塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez) 的遗体在这位歌手的车里被发现。",
+        "titleZh": "伊朗称海峡“开放”，油价暴跌",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称海峡“开放”，油价暴跌”。核心要点：在伊朗表示在停火剩余时间内主要水道对商船开放后，布伦特原油价格下跌了十分之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 01:43:12 GMT",
-        "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Apr 2026 21:41:01 GMT",
+        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普口角后，教皇批评在战争上花费数十亿美元的“暴君”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普口角后，教皇批评在战争上花费数十亿美元的“暴君””。核心要点：这些言论是在与美国总统唐纳德·特朗普发生高调争执之后发表的，特朗普称教皇在犯罪问题上软弱无力。",
+        "titleZh": "与以色列的停火给黎巴嫩带来了喘息之机，但和平的障碍仍然存在",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“与以色列的停火给黎巴嫩带来了喘息之机，但和平的障碍仍然存在”。核心要点：黎巴嫩正在庆祝战斗已停止数周，但很难确保这种情况持续下去。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 18:40:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Apr 2026 14:31:51 GMT",
+        "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "土耳其警方因在网上发布有关校园枪击事件的帖子而拘留了 162 人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“土耳其警方因在网上发布有关校园枪击事件的帖子而拘留了 162 人”。核心要点：周二，一所高中发生枪击事件，造成至少 16 人受伤，周三又发生一起校园枪击事件，另有 9 人死亡。",
+        "titleZh": "坎耶·韦斯特 (Kanye West) 波兰演唱会因反犹太主义言论被取消",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“坎耶·韦斯特 (Kanye West) 波兰演唱会因反犹太主义言论被取消”。核心要点：英国政府因这位说唱歌手曾发表亲纳粹和种族主义言论而禁止他入境。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 15:23:23 GMT",
-        "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Apr 2026 18:19:10 GMT",
+        "url": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴西前间谍头子从 ICE 拘留中获释",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴西前间谍头子从 ICE 拘留中获释”。核心要点：博尔索纳罗的盟友亚历山大·拉马吉姆周一在佛罗里达州奥兰多被移民官员拦下。",
+        "titleZh": "数千人在喀麦隆与教皇利奥一起庆祝露天弥撒 - 图片中",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“数千人在喀麦隆与教皇利奥一起庆祝露天弥撒 - 图片中”。核心要点：教皇利奥十四世已经是在喀麦隆的第三天了，他将于周六前往安哥拉。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 11:00:22 GMT",
-        "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Apr 2026 18:25:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "那不勒斯银行劫匪劫持25人作为人质，然后通过隧道消失",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“那不勒斯银行劫匪劫持25人作为人质，然后通过隧道消失”。核心要点：据报道，这些武装人员通过城市的下水道系统逃脱了追捕。",
+        "titleZh": "爱尔兰逃犯、犯罪嫌疑人丹尼尔·基纳汉在迪拜被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“爱尔兰逃犯、犯罪嫌疑人丹尼尔·基纳汉在迪拜被捕”。核心要点：40 多岁的基纳汉根据爱尔兰法院发出的逮捕令在迪拜被捕。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 17:24:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Apr 2026 17:48:13 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "伊朗战争高峰后抵押贷款利率出现下降迹象",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争高峰后抵押贷款利率出现下降迹象”。核心要点：随着市场因伊朗战争可能停战而受到一些鼓舞，主要银行纷纷下调利率。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 17 Apr 2026 23:33:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“我是幸运的”——超过三分之一的年轻人现在与父母住在一起",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我是幸运的”——超过三分之一的年轻人现在与父母住在一起”。核心要点：去年，随着生活成本的上涨，20-34岁的男性仍然住在家里的比例达到了至少自2007年以来的最高水平。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 17 Apr 2026 23:16:33 GMT",
+        "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伊朗称霍尔木兹海峡在停火期间“开放”，油价暴跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗称霍尔木兹海峡在停火期间“开放”，油价暴跌”。核心要点：在伊朗表示在停火剩余时间内主要水道对商船开放后，布伦特原油价格下跌了十分之一。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 17 Apr 2026 21:41:01 GMT",
+        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "财政部长和顶级银行家对 Mythos AI 模型表示严重担忧",
         "summaryZh": "这是一条金融市场新闻，重点围绕“财政部长和顶级银行家对 Mythos AI 模型表示严重担忧”。核心要点：专家表示，Mythos 可能具有前所未有的识别和利用网络安全弱点的能力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 01:34:22 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 10:22:46 GMT",
         "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "神奇宝贝卡牌价值不断上涨引发砸抢犯罪热潮",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“神奇宝贝卡牌价值不断上涨引发砸抢犯罪热潮”。核心要点：英国各地的小商店都成为窃贼的目标，盗窃价值数千英镑的收藏品。",
+        "titleZh": "英国汽油和柴油价格在连续几周上涨后下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国汽油和柴油价格在连续几周上涨后下跌”。核心要点：随着美以与伊朗的战争推高批发油价，司机们的油价已经连续数周上涨。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 23:01:59 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "Netflix 联合创始人里德·黑斯廷斯 (Reed Hastings) 辞去董事长职务",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Netflix 联合创始人里德·黑斯廷斯 (Reed Hastings) 辞去董事长职务”。核心要点：Hastings 于 1997 年成立了该公司，当时向客户出租 DVD 并通过邮寄方式交付。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 21:59:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "里夫斯表示，英国燃料供应没有问题",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“里夫斯表示，英国燃料供应没有问题”。核心要点：这位财政大臣是在华盛顿举行的国际货币基金组织会议结束时发表上述讲话的。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 17:05:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "能源老板警告说，欧洲“可能还剩下六周的航空燃油”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“能源老板警告说，欧洲“可能还剩下六周的航空燃油””。核心要点：国际能源署表示，如果来自海湾的供应仍然受阻，航班可能很快就会被取消。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 16 Apr 2026 19:19:07 GMT",
-        "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Apr 2026 11:42:41 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
