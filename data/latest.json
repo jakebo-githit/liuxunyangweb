@@ -1,116 +1,50 @@
 {
-  "updatedAt": "2026-04-18T04:04:53.069Z",
+  "updatedAt": "2026-04-19T04:22:50.910Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Photon-counting CT-derived hepatic extracellular volume quantification for noninvasive risk stratification of clinically significant portal hypertension (CSPH): a prospective cohort study.",
-        "journal": "European radiology",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Dell T, Tischler V, Zocholl D",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 113）。核心观点：评估光子计数 CT (PCCT) 衍生的肝细胞外容量 (ECV) 是否可以作为无创成像生物标志物来检测或排除代偿性晚期慢性肝病患者的临床显着性门静脉高压 (CSPH) 临床提示：评估光子计数 CT (PCCT) 衍生的肝细胞外容量 (ECV) 是否可以作为无创成像生物标志物来检测或排除患有肝病的患者中具有临床意义的门脉高压 (CSPH)。",
-        "abstract": "To evaluate whether photon-counting CT (PCCT)-derived hepatic extracellular volume (ECV) can serve as a noninvasive imaging biomarker to detect or exclude clinically significant portal hypertension (CSPH) in patients with compensated advanced chronic liver disease (cACLD). This prospective single-center study included 113 participants with chronic liver disease who underwent contrast-enhanced liver PCCT between February 2022 and January 2025. Hepatic ECV was calculated from the delayed phase (5 min post-contrast). Liver stiffness measurements (LSM) by transient elastography (n = 79) and histological fibrosis grading (n = 34) served as reference standards. Correlations were evaluated using Sp...",
-        "pmid": "41432759",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41432759/",
-        "doiUrl": "https://doi.org/10.1007/s00330-025-12222-8",
-        "url": "https://doi.org/10.1007/s00330-025-12222-8"
-      },
-      {
-        "title": "Semaglutide therapy for metabolic dysfunction-associated steatohepatitis: November 2025 updates to AASLD Practice Guidance.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article / Practice Guideline / Review",
-        "authors": "Bansal MB, Patton H, Morgan TR",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：本实践建议是 2023 年 AASLD 关于非酒精性脂肪性肝病 (NAFLD)（现称为代谢功能障碍相关脂肪性肝病 (MASLD)）临床评估和管理的实践指南的更新，并提供 临床提示：本实践建议是 2023 年 AASLD 实践指南的更新，该指南涉及非酒精性脂肪性肝病 (NAFLD)（现称为代谢功能障碍相关性肝病）的临床评估和管理。",
-        "abstract": "This practice recommendation serves as an update to the 2023 AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease (NAFLD), now known as metabolic dysfunction-associated steatotic liver disease (MASLD), and provides implementable guidance on patient selection for treatment, consideration of comorbidities, and monitoring of treatment safety and efficacy of semaglutide. FDA-indication and Practice Recommendation: The Wegovy formulation, whose main ingredient is semaglutide, received accelerated FDA approval in August 2025 for treating MASH with moderate-to-advanced fibrosis (consistent with stages F2-F3 fibrosis), based on interim results of the ...",
-        "pmid": "41201884",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41201884/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001608",
-        "url": "https://doi.org/10.1097/HEP.0000000000001608"
-      },
-      {
-        "title": "Distinctive hemodynamic phenotype in Fontan-type circulation patients with distal esophageal varices.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article",
-        "authors": "Téllez L, Toledano M, Álvarez M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：食管静脉曲张 (EV) 在具有 Fontan 型循环的成人中很常见，并且可能通过不同的血流动力学机制出现，具体取决于其解剖位置。 临床提示：我们的目的是确定该人群中 EV 的患病率、解剖分布和血流动力学相关性。",
-        "abstract": "Esophageal varices (EV) are common in adults with Fontan-type circulation and may arise via distinct hemodynamic mechanisms depending on their anatomic location. We aimed to determine the prevalence, anatomical distribution, and hemodynamic correlates of EV in this population. In this prospective cohort study, 114 consecutive adults with Fontan-type circulation underwent combined hepatic and cardiac catheterization, esophagogastroduodenoscopy, and liver biopsy. Patients were classified by endoscopic findings into those with and without EV, and the EV cohort was further stratified by location (proximal or distal). EV were present in 36.8% (95% CI, 27.9-45.8%), including 28.9% with distal EV a...",
-        "pmid": "40694806",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40694806/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001472",
-        "url": "https://doi.org/10.1097/HEP.0000000000001472"
-      },
-      {
-        "title": "Post-Transplant liver assessment: Practical applications of non-invasive testing.",
-        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
-        "pubDate": "2026 Apr 17",
-        "studyType": "Journal Article",
-        "authors": "Brujats A, Mendoza YP, Becchetti C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝移植（LT）改变了终末期肝病和肝细胞癌患者的预后，提供了良好的长期生存率。 临床提示：然而，移植后的结果可能会因同种异体移植物排斥和复发性或新发肝病而受到危害，这些肝病可能会进展为移植物纤维化、肝硬化和肝脏相关并发症。",
-        "abstract": "Liver transplantation (LT) has transformed the prognosis of patients with end-stage liver disease and hepatocellular carcinoma, offering excellent long-term survival. However, post-transplant outcomes can be jeopardized by allograft rejection and by recurrent or de novo liver disease, which may progress to graft fibrosis, cirrhosis, and liver-related complications. Non-invasive tests (NITs) have emerged as powerful tools for evaluating steatosis, fibrosis, and portal hypertension in native liver disease, but their optimal role after LT remains uncertain and variably defined. In this review, we summarize the current evidence regarding the performance of NITs for the assessment of graft fibros...",
-        "pmid": "41996674",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41996674/",
-        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000882",
-        "url": "https://doi.org/10.1097/LVT.0000000000000882"
-      },
-      {
-        "title": "Development and Validation of an Interpretable Machine Learning Model for Predicting Tumor Recurrence After Microwave Ablation in Small Hepatocellular Carcinoma.",
-        "journal": "Journal of hepatocellular carcinoma",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Ma Y, Zhao L, Zhao Q",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 536）。核心观点：准确且可解释的消融后复发风险预测对于个体化监测和管理策略至关重要。 临床提示：本研究旨在开发和验证可解释的机器学习 (IML) 模型，用于预测 sHCC 患者 MWA 后的肿瘤复发。",
-        "abstract": "Tumor recurrence remains a major clinical challenge following microwave ablation (MWA) for small hepatocellular carcinoma (sHCC). Accurate and interpretable prediction of post-ablation recurrence risk is essential for individualized surveillance and management strategies. This study aimed to develop and validate an interpretable machine learning (IML) model for predicting tumor recurrence after MWA in patients with sHCC. This retrospective study included 536 consecutive patients with sHCC treated with ultrasound-guided MWA between July 2017 and July 2023. A two-stage feature selection strategy combining Boruta and LASSO regression was applied to identify the most robust predictors. Six ML al...",
-        "pmid": "41993242",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41993242/",
-        "doiUrl": "https://doi.org/10.2147/JHC.S602760",
-        "url": "https://doi.org/10.2147/JHC.S602760"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗称海峡“开放”，油价暴跌",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称海峡“开放”，油价暴跌”。核心要点：在伊朗表示在停火剩余时间内主要水道对商船开放后，布伦特原油价格下跌了十分之一。",
+        "titleZh": "伊朗称霍尔木兹海峡因船只遭到袭击而再次关闭",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称霍尔木兹海峡因船只遭到袭击而再次关闭”。核心要点：伊朗将封锁归咎于美国的封锁，称这违反了两国之间达成的停火协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 21:41:01 GMT",
-        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Apr 2026 21:19:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "与以色列的停火给黎巴嫩带来了喘息之机，但和平的障碍仍然存在",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“与以色列的停火给黎巴嫩带来了喘息之机，但和平的障碍仍然存在”。核心要点：黎巴嫩正在庆祝战斗已停止数周，但很难确保这种情况持续下去。",
+        "titleZh": "基辅枪手开枪劫持人质 至少六人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅枪手开枪劫持人质 至少六人死亡”。核心要点：官员称，袭击者在一家超市内劫持人质，在与警方交火后被击毙。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 14:31:51 GMT",
-        "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Apr 2026 18:09:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "坎耶·韦斯特 (Kanye West) 波兰演唱会因反犹太主义言论被取消",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“坎耶·韦斯特 (Kanye West) 波兰演唱会因反犹太主义言论被取消”。核心要点：英国政府因这位说唱歌手曾发表亲纳粹和种族主义言论而禁止他入境。",
+        "titleZh": "教皇称“暴君”演讲并非针对特朗普",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“教皇称“暴君”演讲并非针对特朗普”。核心要点：教皇表示，在与美国总统发生口角后，他的言论被误解了。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 18:19:10 GMT",
-        "url": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Apr 2026 16:44:39 GMT",
+        "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "数千人在喀麦隆与教皇利奥一起庆祝露天弥撒 - 图片中",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“数千人在喀麦隆与教皇利奥一起庆祝露天弥撒 - 图片中”。核心要点：教皇利奥十四世已经是在喀麦隆的第三天了，他将于周六前往安哥拉。",
+        "titleZh": "墨西哥的谢因鲍姆否认在征服争端后与西班牙发生“外交危机”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥的谢因鲍姆否认在征服争端后与西班牙发生“外交危机””。核心要点：墨西哥总统表示，西班牙殖民统治从来不存在紧张关系，这已经成为一个棘手的问题。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 18:25:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Apr 2026 21:27:56 GMT",
+        "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "爱尔兰逃犯、犯罪嫌疑人丹尼尔·基纳汉在迪拜被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“爱尔兰逃犯、犯罪嫌疑人丹尼尔·基纳汉在迪拜被捕”。核心要点：40 多岁的基纳汉根据爱尔兰法院发出的逮捕令在迪拜被捕。",
+        "titleZh": "麦当娜携手萨布丽娜·卡彭特为科切拉音乐节带来惊喜",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“麦当娜携手萨布丽娜·卡彭特为科切拉音乐节带来惊喜”。核心要点：流行天后在浓缩咖啡歌手的头条节目中客串亮相。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 17:48:13 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Apr 2026 10:32:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
@@ -135,7 +69,7 @@
         "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗称霍尔木兹海峡在停火期间“开放”，油价暴跌”。核心要点：在伊朗表示在停火剩余时间内主要水道对商船开放后，布伦特原油价格下跌了十分之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 21:41:01 GMT",
+        "publishedAt": "Sat, 18 Apr 2026 06:06:38 GMT",
         "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
       },
       {
