@@ -1,53 +1,83 @@
 {
-  "updatedAt": "2026-04-19T04:22:50.910Z",
+  "updatedAt": "2026-04-20T04:29:24.017Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Concurrent hepatic cirrhosis and chronic lymphocytic leukemia: a challenging coexistence: a case report.",
+        "journal": "Journal of medical case reports",
+        "pubDate": "2026 Apr 18",
+        "studyType": "Journal Article",
+        "authors": "Mahani FK, Nezhad NZ, Ghaderi R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：慢性淋巴细胞白血病是老年人常见的 B 细胞恶性肿瘤，其特征为淋巴细胞增多、淋巴结肿大和血细胞减少。 临床提示：同时，肝硬化（由肝纤维化和门静脉高压定义）常常导致重叠的临床特征，例如脾肿大和血细胞减少，使慢性肝病的诊断和治疗变得复杂。",
+        "abstract": "Chronic lymphocytic leukemia, a common B-cell malignancy in the elderly, is characterized by lymphocytosis, lymphadenopathy, and cytopenia. Concurrently, hepatic cirrhosis, defined by liver fibrosis and portal hypertension, often leads to overlapping clinical features such as splenomegaly and cytopenia, complicating the diagnosis and management of chronic lymphocytic leukemia. We present an 84-year-old Iranian male patient with established hepatic cirrhosis who presented with abdominal pain, massive splenomegaly, lymphocytosis, anemia, and cachexia. Initial evaluations revealed lymphocyte-dominant leukocytosis and smudge cells. Immunophenotyping confirmed chronic lymphocytic leukemia (cluste...",
+        "pmid": "42001129",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42001129/",
+        "doiUrl": "https://doi.org/10.1186/s13256-026-05946-8",
+        "url": "https://doi.org/10.1186/s13256-026-05946-8"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗称霍尔木兹海峡因船只遭到袭击而再次关闭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称霍尔木兹海峡因船只遭到袭击而再次关闭”。核心要点：伊朗将封锁归咎于美国的封锁，称这违反了两国之间达成的停火协议。",
+        "titleZh": "特朗普称美国拦截并扣押了悬挂伊朗国旗的货船",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称美国拦截并扣押了悬挂伊朗国旗的货船”。核心要点：德黑兰誓言很快将对所谓的“武装海盗行为”进行报复，这一行为发生在美国准备第二轮会谈之际。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Apr 2026 21:19:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 01:38:17 GMT",
+        "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "基辅枪手开枪劫持人质 至少六人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅枪手开枪劫持人质 至少六人死亡”。核心要点：官员称，袭击者在一家超市内劫持人质，在与警方交火后被击毙。",
+        "titleZh": "一名男子在路易斯安那州大规模枪击事件中杀死了他的七个孩子和第八个孩子",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“一名男子在路易斯安那州大规模枪击事件中杀死了他的七个孩子和第八个孩子”。核心要点：这些儿童年龄从 1 岁到 14 岁不等，他们在一次枪击事件中丧生，警方称此次枪击事件为“家庭骚乱”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Apr 2026 18:09:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 04:10:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "教皇称“暴君”演讲并非针对特朗普",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“教皇称“暴君”演讲并非针对特朗普”。核心要点：教皇表示，在与美国总统发生口角后，他的言论被误解了。",
+        "titleZh": "特朗普称伊朗船只被扣押后油价上涨",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗船只被扣押后油价上涨”。核心要点：自2月28日美国和以色列袭击伊朗以来，能源市场出现剧烈波动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Apr 2026 16:44:39 GMT",
-        "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 02:29:04 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "墨西哥的谢因鲍姆否认在征服争端后与西班牙发生“外交危机”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥的谢因鲍姆否认在征服争端后与西班牙发生“外交危机””。核心要点：墨西哥总统表示，西班牙殖民统治从来不存在紧张关系，这已经成为一个棘手的问题。",
+        "titleZh": "伊朗高级政治家告诉 BBC，德黑兰永远不会放弃对霍尔木兹海峡的控制",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗高级政治家告诉 BBC，德黑兰永远不会放弃对霍尔木兹海峡的控制”。核心要点：莱瑟·杜塞特 (Lyse Doucet) 与易卜拉欣·阿齐兹 (Ebrahim Azizi) 交谈，阿齐兹表示，伊朗“将决定”这条重要航线的通行权。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Apr 2026 21:27:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Apr 2026 21:09:06 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "麦当娜携手萨布丽娜·卡彭特为科切拉音乐节带来惊喜",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“麦当娜携手萨布丽娜·卡彭特为科切拉音乐节带来惊喜”。核心要点：流行天后在浓缩咖啡歌手的头条节目中客串亮相。",
+        "titleZh": "乌克兰警察局长因涉嫌逃离致命枪击事件而辞职",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰警察局长因涉嫌逃离致命枪击事件而辞职”。核心要点：当局表示，这些警员已被停职，并对他们的行为进行调查。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Apr 2026 10:32:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Apr 2026 17:48:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "特朗普称伊朗船只被扣押后油价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普称伊朗船只被扣押后油价上涨”。核心要点：自2月28日美国和以色列袭击伊朗以来，能源市场出现剧烈波动。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 20 Apr 2026 02:29:04 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "内幕交易疑云笼罩特朗普总统任期",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“内幕交易疑云笼罩特朗普总统任期”。核心要点：英国广播公司 (BBC) 发现，在美国总统发表公开声明之前，交易量出现飙升。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 19 Apr 2026 23:02:06 GMT",
+        "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "伊朗战争高峰后抵押贷款利率出现下降迹象",
         "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争高峰后抵押贷款利率出现下降迹象”。核心要点：随着市场因伊朗战争可能停战而受到一些鼓舞，主要银行纷纷下调利率。",
@@ -57,8 +87,8 @@
         "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我是幸运的”——超过三分之一的年轻人现在与父母住在一起",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我是幸运的”——超过三分之一的年轻人现在与父母住在一起”。核心要点：去年，随着生活成本的上涨，20-34岁的男性仍然住在家里的比例达到了至少自2007年以来的最高水平。",
+        "titleZh": "“我是幸运的”——超过三分之一的年轻人与父母住在一起",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我是幸运的”——超过三分之一的年轻人与父母住在一起”。核心要点：去年，随着生活成本的上涨，20-34岁的男性仍然住在家里的比例达到了至少自2007年以来的最高水平。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 17 Apr 2026 23:16:33 GMT",
@@ -71,22 +101,6 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 18 Apr 2026 06:06:38 GMT",
         "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "财政部长和顶级银行家对 Mythos AI 模型表示严重担忧",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“财政部长和顶级银行家对 Mythos AI 模型表示严重担忧”。核心要点：专家表示，Mythos 可能具有前所未有的识别和利用网络安全弱点的能力。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 10:22:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "英国汽油和柴油价格在连续几周上涨后下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国汽油和柴油价格在连续几周上涨后下跌”。核心要点：随着美以与伊朗的战争推高批发油价，司机们的油价已经连续数周上涨。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 11:42:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
