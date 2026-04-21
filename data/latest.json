@@ -1,106 +1,158 @@
 {
-  "updatedAt": "2026-04-20T04:29:24.017Z",
+  "updatedAt": "2026-04-21T04:20:50.211Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Concurrent hepatic cirrhosis and chronic lymphocytic leukemia: a challenging coexistence: a case report.",
-        "journal": "Journal of medical case reports",
+        "title": "Schistosomiasis-Associated Pulmonary Arterial Hypertension in Brazil: A Call to Action for Enhanced Diagnostic Recognition-2025 Pulmonary Vascular Research Institute Infection in Pulmonary Vascular Disease Consortium Perspectives.",
+        "journal": "Pulmonary circulation",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article / Review",
+        "authors": "Loureiro CMC, Correa RA, Filho RJC",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：血吸虫病相关肺动脉高压（Sch-PAH）是巴西和全球最常见的肺动脉高压病因之一。 临床提示：该病是肝脾血吸虫病的一种并发症，其特征是门静脉高压、虫卵沉积和肺动脉肉芽肿形成，导致炎症、血管重塑、血吸虫感染增加。",
+        "abstract": "Schistosomiasis-associated pulmonary arterial hypertension (Sch-PAH) is one of the most frequent etiologies of pulmonary arterial hypertension in Brazil and globally. The disease is a complication of hepatosplenic schistosomiasis characterized by portal hypertension, egg deposition, and granuloma formation in the pulmonary arteries leading to inflammation, vascular remodeling, increased pulmonary vascular resistance, and progressive right heart failure. During the Infection in Pulmonary Vascular Disease (iPVD) consortium meeting during the Pulmonary Vascular Research Institute (PVRI) annual meeting in January 2025, in Rio de Janeiro, Brazil, a dedicated symposium entitled schistosomiasis-ass...",
+        "pmid": "42005858",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42005858/",
+        "doiUrl": "https://doi.org/10.1002/pul2.70302",
+        "url": "https://doi.org/10.1002/pul2.70302"
+      },
+      {
+        "title": "Long-Term Outcome of Pulmonary Artery Hypertension-Specific Therapy in Patients With Portopulmonary Hypertension: A Multi-Institutional Database Case Series Study.",
+        "journal": "Pulmonary circulation",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article",
+        "authors": "Huang DS, Huang TH, Chen YT",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门脉性肺动脉高压（PoPH）是与门脉高压相关的肺动脉高压（PAH）的一种亚型，发生于2%-6%的肝硬化患者。 临床提示：尽管指南建议在移植前进行常规超声心动图检查，但肝硬化患者中 PAH 特异性治疗的患病率和结果仍不清楚。",
+        "abstract": "Portopulmonary hypertension (PoPH) is a subtype of pulmonary arterial hypertension (PAH) associated with portal hypertension, occurring in 2%-6% of cirrhotic patients. Although guidelines recommend routine echocardiography before transplantation, the prevalence, and outcomes of PAH-specific therapy in cirrhotic patients remain unclear. We retrospectively analyzed 4,113 cirrhotic patients who underwent transthoracic echocardiography (TTE) between 2008 and 2019 using the Chang Gung Research Database. Patient characteristics, medication, echocardiographic findings, right heart catheterization (RHC) results and clinical outcome were collected from medical records and retrospectively analyzed by ...",
+        "pmid": "42005856",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42005856/",
+        "doiUrl": "https://doi.org/10.1002/pul2.70301",
+        "url": "https://doi.org/10.1002/pul2.70301"
+      },
+      {
+        "title": "Effect of a Standardized Sedation Protocol on Portal Vein Velocity Measurements in Hospitalized Dogs Using Triplex-Doppler Ultrasonography.",
+        "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article",
+        "authors": "Jamont W, Peschard AL, Augusto M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉流速 (PVV) 是门静脉压力有用的间接指标。 临床提示：PVV可能受生理和病理因素的影响；例如，体重和 PVV 之间的相关性已被记录；然而，其他因素的影响尚不清楚。",
+        "abstract": "Portal vein velocity (PVV) is a useful indirect indicator of portal pressure. Reference values for PVV have been previously established in healthy, non-sedated dogs with reported ranges of 14.7 ± 2.5 and 18.1 ± 7.6 cm/s. PVV may be influenced by physiological and pathological factors; for example, a correlation between body weight and PVV has been documented; however, the effect of other factors is unknown. The primary aims of this prospective comparative study were to investigate the effect of standardized intravenous sedation protocol of medetomidine (2-3 µg/kg) and butorphanol (0.3 mg/kg) on PVV and to determine whether post-sedation PVV results would fall below the portal hypertension th...",
+        "pmid": "42007642",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42007642/",
+        "doiUrl": "https://doi.org/10.1111/vru.70175",
+        "url": "https://doi.org/10.1111/vru.70175"
+      },
+      {
+        "title": "Respiratory Complications Following Pediatric Liver Transplantation: Frequency, Risk Factors, and Clinical Predictors of Chronic Morbidity.",
+        "journal": "Transplantation proceedings",
         "pubDate": "2026 Apr 18",
         "studyType": "Journal Article",
-        "authors": "Mahani FK, Nezhad NZ, Ghaderi R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：慢性淋巴细胞白血病是老年人常见的 B 细胞恶性肿瘤，其特征为淋巴细胞增多、淋巴结肿大和血细胞减少。 临床提示：同时，肝硬化（由肝纤维化和门静脉高压定义）常常导致重叠的临床特征，例如脾肿大和血细胞减少，使慢性肝病的诊断和治疗变得复杂。",
-        "abstract": "Chronic lymphocytic leukemia, a common B-cell malignancy in the elderly, is characterized by lymphocytosis, lymphadenopathy, and cytopenia. Concurrently, hepatic cirrhosis, defined by liver fibrosis and portal hypertension, often leads to overlapping clinical features such as splenomegaly and cytopenia, complicating the diagnosis and management of chronic lymphocytic leukemia. We present an 84-year-old Iranian male patient with established hepatic cirrhosis who presented with abdominal pain, massive splenomegaly, lymphocytosis, anemia, and cachexia. Initial evaluations revealed lymphocyte-dominant leukocytosis and smudge cells. Immunophenotyping confirmed chronic lymphocytic leukemia (cluste...",
-        "pmid": "42001129",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42001129/",
-        "doiUrl": "https://doi.org/10.1186/s13256-026-05946-8",
-        "url": "https://doi.org/10.1186/s13256-026-05946-8"
+        "authors": "Unal F, Saka B, Ayman FN",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：调查儿童肝移植 (LT) 受者术后呼吸系统并发症的发生率、特征和危险因素，并确定慢性呼吸系统疾病的临床预测因素。 临床提示：我们回顾性分析了 2014 年至 2020 年间 42 名接受 LT 的儿科患者的数据。",
+        "abstract": "To investigate the incidence, characteristics, and risk factors of postoperative respiratory complications in pediatric liver transplant (LT) recipients, and to identify clinical predictors of chronic respiratory morbidity. We retrospectively analyzed data from 42 pediatric patients who underwent LT between 2014 and 2020. Variables assessed included demographics, primary liver disease, pre-transplant comorbidities, perioperative factors, and postoperative respiratory complications (PTRCs). Complications were categorized as early or chronic (persisting >3 months). Statistical associations between complications and clinical features were evaluated. Postoperative respiratory complications occur...",
+        "pmid": "42002486",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42002486/",
+        "doiUrl": "https://doi.org/10.1016/j.transproceed.2026.03.022",
+        "url": "https://doi.org/10.1016/j.transproceed.2026.03.022"
+      },
+      {
+        "title": "Downhill Esophageal Variceal Hemorrhage Secondary to Superior Vena Cava Obstruction in a Patient With End-Stage Renal Disease: A Rare and Under-Recognized Complication.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Apr",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Modi R, Buchanan-Peart KA, Perreault G",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：下坡食管静脉曲张是上消化道出血的一种罕见病因，是由上腔静脉阻塞而不是门静脉高压引起的。 临床提示：病因包括恶性肿瘤、血管内装置和透析相关的中心静脉狭窄。",
+        "abstract": "Downhill esophageal varices, an uncommon etiology of upper gastrointestinal bleeding, arise from superior vena cava obstruction rather than portal hypertension. Etiologies include malignancy, intravascular devices, and dialysis-related central venous stenosis. A 79-year-old man with end-stage renal disease on hemodialysis presented with melena and hematemesis. Endoscopy revealed large proximal esophageal varices; imaging showed chronic superior vena cava stenosis related to his indwelling dialysis catheter. Endoscopic band ligation followed by balloon venoplasty achieved hemostasis and endovascular patency. This case illustrates downhill variceal bleeding as a sequela of hemodialysis cathete...",
+        "pmid": "42005008",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42005008/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002091",
+        "url": "https://doi.org/10.14309/crj.0000000000002091"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普称美国拦截并扣押了悬挂伊朗国旗的货船",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称美国拦截并扣押了悬挂伊朗国旗的货船”。核心要点：德黑兰誓言很快将对所谓的“武装海盗行为”进行报复，这一行为发生在美国准备第二轮会谈之际。",
+        "titleZh": "特朗普称在与伊朗达成协议之前美国不会解除霍尔木兹封锁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称在与伊朗达成协议之前美国不会解除霍尔木兹封锁”。核心要点：美国总统发表上述言论之际，伊朗是否会参加本周在巴基斯坦举行的和谈还存在不确定性。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Apr 2026 01:38:17 GMT",
-        "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 21:52:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一名男子在路易斯安那州大规模枪击事件中杀死了他的七个孩子和第八个孩子",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“一名男子在路易斯安那州大规模枪击事件中杀死了他的七个孩子和第八个孩子”。核心要点：这些儿童年龄从 1 岁到 14 岁不等，他们在一次枪击事件中丧生，警方称此次枪击事件为“家庭骚乱”。",
+        "titleZh": "苹果任命新首席执行官接替蒂姆·库克",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“苹果任命新首席执行官接替蒂姆·库克”。核心要点：随着库克出任执行董事长，约翰·特努斯 (John Ternus) 将接管这家科技巨头的运营。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Apr 2026 04:10:40 GMT",
-        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 22:55:39 GMT",
+        "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普称伊朗船只被扣押后油价上涨",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗船只被扣押后油价上涨”。核心要点：自2月28日美国和以色列袭击伊朗以来，能源市场出现剧烈波动。",
+        "titleZh": "加拿大人在墨西哥古特奥蒂瓦坎金字塔枪击事件中丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加拿大人在墨西哥古特奥蒂瓦坎金字塔枪击事件中丧生”。核心要点：墨西哥官员称，距离该国举办国际足联世界杯还有几周时间，周一在这个受欢迎的旅游景点发生的事件中也有多人受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Apr 2026 02:29:04 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Apr 2026 03:33:05 GMT",
+        "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗高级政治家告诉 BBC，德黑兰永远不会放弃对霍尔木兹海峡的控制",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗高级政治家告诉 BBC，德黑兰永远不会放弃对霍尔木兹海峡的控制”。核心要点：莱瑟·杜塞特 (Lyse Doucet) 与易卜拉欣·阿齐兹 (Ebrahim Azizi) 交谈，阿齐兹表示，伊朗“将决定”这条重要航线的通行权。",
+        "titleZh": "对以色列士兵破坏黎巴嫩耶稣雕像的愤怒",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“对以色列士兵破坏黎巴嫩耶稣雕像的愤怒”。核心要点：以色列军方表示，他们“非常严厉”地看待这名士兵的行为，因为美国大使要求“迅速”采取行动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 19 Apr 2026 21:09:06 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 18:57:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰警察局长因涉嫌逃离致命枪击事件而辞职",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰警察局长因涉嫌逃离致命枪击事件而辞职”。核心要点：当局表示，这些警员已被停职，并对他们的行为进行调查。",
+        "titleZh": "美国歌手 D4vd 对失踪少女死亡的谋杀罪不认罪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国歌手 D4vd 对失踪少女死亡的谋杀罪不认罪”。核心要点：检察官表示，由于案件的性质，这位真名大卫·安东尼·伯克的歌手如果被定罪，可能面临终身监禁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 19 Apr 2026 17:48:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Apr 2026 01:05:41 GMT",
+        "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普称伊朗船只被扣押后油价上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普称伊朗船只被扣押后油价上涨”。核心要点：自2月28日美国和以色列袭击伊朗以来，能源市场出现剧烈波动。",
+        "titleZh": "伊朗战争推高燃油成本，汽油盗窃案激增",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争推高燃油成本，汽油盗窃案激增”。核心要点：一位汽油零售商表示，每个前院每周都会发生大约五次停车事故，导致他损失数千美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Apr 2026 02:29:04 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 20 Apr 2026 23:04:23 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "政府拟调整电价推动清洁能源",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“政府拟调整电价推动清洁能源”。核心要点：中东战争让人们重新关注英国易受能源价格冲击的影响。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 21 Apr 2026 00:51:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "苹果任命新首席执行官接替蒂姆·库克",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果任命新首席执行官接替蒂姆·库克”。核心要点：随着库克出任执行董事长，约翰·特努斯 (John Ternus) 将接管这家科技巨头的运营。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 20 Apr 2026 22:55:39 GMT",
+        "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "20多岁的年轻人为了维持生计而同时打三份工",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“20多岁的年轻人为了维持生计而同时打三份工”。核心要点：尽管英国失业率达到五年来的最高点，但越来越多的就业人员拥有不止一份工作。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 20 Apr 2026 23:08:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "内幕交易疑云笼罩特朗普总统任期",
         "summaryZh": "这是一条金融市场新闻，重点围绕“内幕交易疑云笼罩特朗普总统任期”。核心要点：英国广播公司 (BBC) 发现，在美国总统发表公开声明之前，交易量出现飙升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 19 Apr 2026 23:02:06 GMT",
+        "publishedAt": "Mon, 20 Apr 2026 13:53:22 GMT",
         "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "伊朗战争高峰后抵押贷款利率出现下降迹象",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争高峰后抵押贷款利率出现下降迹象”。核心要点：随着市场因伊朗战争可能停战而受到一些鼓舞，主要银行纷纷下调利率。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 23:33:10 GMT",
-        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "“我是幸运的”——超过三分之一的年轻人与父母住在一起",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我是幸运的”——超过三分之一的年轻人与父母住在一起”。核心要点：去年，随着生活成本的上涨，20-34岁的男性仍然住在家里的比例达到了至少自2007年以来的最高水平。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 17 Apr 2026 23:16:33 GMT",
-        "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "伊朗称霍尔木兹海峡在停火期间“开放”，油价暴跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗称霍尔木兹海峡在停火期间“开放”，油价暴跌”。核心要点：在伊朗表示在停火剩余时间内主要水道对商船开放后，布伦特原油价格下跌了十分之一。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 18 Apr 2026 06:06:38 GMT",
-        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
