@@ -1,132 +1,145 @@
 {
-  "updatedAt": "2026-04-22T04:17:22.215Z",
+  "updatedAt": "2026-04-23T04:21:28.267Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Correlation of Bile Acid Dynamics to Bulevirtide Response and Disease Severity in Patients With Hepatitis D.",
+        "title": "Primary leiomyosarcoma of the portal vein: A progressively enhancing fusiform mass without biliary dilatation as a rare differential for hilar tumors.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Jul",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Miyazawa A, Tsuzaki J, Ogawa R",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：门静脉原发性平滑肌肉瘤是极其罕见的血管肿瘤。 临床提示：鉴于有关其影像学特征的报告数量有限，实现准确的术前诊断具有挑战性，但对于确定最佳治疗策略至关重要。",
+        "abstract": "Primary leiomyosarcomas of the portal vein are exceedingly rare vascular neoplasms. Given the limited number of reports on their imaging features, achieving an accurate preoperative diagnosis is challenging yet essential for determining the optimal treatment strategy. Here, we report a case of an incidentally discovered primary portal vein leiomyosarcoma in an asymptomatic man in his forties. We emphasize the diagnostic significance of its fusiform intraportal morphology. Unenhanced computed tomography (CT) revealed a distinct 45-mm fusiform mass in the hepatic hilum, while dynamic contrast-enhanced CT showed heterogeneous progressive enhancement without biliary dilatation. Magnetic resonanc...",
+        "pmid": "42016582",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42016582/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.03.028",
+        "url": "https://doi.org/10.1016/j.radcr.2026.03.028"
+      },
+      {
+        "title": "Sex does not impact the performance of non-invasive tests for clinically significant portal hypertension in cACLD.",
+        "journal": "The American journal of gastroenterology",
+        "pubDate": "2026 Apr 22",
+        "studyType": "Journal Article",
+        "authors": "Höfinger P, Schluchter H, Semmler G",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：具有临床意义的门脉高压（CSPH）表示晚期慢性肝病（cACLD）肝功能失代偿的血流动力学阈值，并且越来越多地通过无创检查来诊断。 临床提示：尽管 VCTE 进行的肝脏硬度测量 (LSM) 受到身体成分的影响，但有趣的是，没有关于其诊断或预后性能的性别差异的数据。",
+        "abstract": "Clinically significant portal hypertension (CSPH) denotes the hemodynamic threshold for hepatic decompensation in advanced chronic liver disease (cACLD) and is increasingly diagnosed by noninvasive tests. Although liver stiffness measurement (LSM) by VCTE is affected by body composition, intriguingly, no data on sex differences of its diagnostic or prognostic performance are available. We aimed to address this knowledge gap. A total of 420 stable outpatients who underwent HVPG measurement from 2007 to 2022 at the Vienna Hepatic Hemodynamic Lab were included. The sex-specific diagnostic performance of prevailing NITs was evaluated. Moreover, the sex-specific cumulative incidences of first hep...",
+        "pmid": "42017845",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42017845/",
+        "doiUrl": "https://doi.org/10.14309/ajg.0000000000004033",
+        "url": "https://doi.org/10.14309/ajg.0000000000004033"
+      },
+      {
+        "title": "Global Longitudinal Assessment of MASLD Using Magnetic Resonance Elastography (GOLDMINE): A Multi-Center, International Prospective Cohort Study of Imaging Biomarkers in MASLD Clinical Outcomes.",
         "journal": "Alimentary pharmacology & therapeutics",
-        "pubDate": "2026 Apr 21",
+        "pubDate": "2026 Apr 22",
         "studyType": "Journal Article",
-        "authors": "Hintersteininger M, Schwarz M, Schwabl P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 17）。核心观点：Bulevirtide (BLV) 通过靶向牛磺胆酸钠共转运多肽 (NTCP) 来阻止丁型肝炎病毒 (HDV) 进入。 临床提示：本研究评估了胆汁酸 (BA) 水平与 BLV 抗病毒反应之间的关系。",
-        "abstract": "Bulevirtide (BLV) blocks hepatitis D virus (HDV) entry by targeting the sodium taurocholate co-transporting polypeptide (NTCP). This study assessed the relationship between bile acid (BA) levels and antiviral response to BLV. Serum BA levels were monitored in HDV-infected patients pre-, under, and post BLV treatment. Virologic response (VR) was defined by ≥ 2log 10 decline in HDV-RNA and discriminated versus virologic non-response (VNR). Delta BA levels (ΔBA) were calculated and analysed in relation to HDV-RNA dynamics. Finally, the effect of BLV treatment cessation on BA was investigated. Twenty five patients (48% male; advanced chronic liver disease [ACLD]: 92.0%, 17 patients with VR at W4...",
-        "pmid": "42012135",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42012135/",
-        "doiUrl": "https://doi.org/10.1111/apt.70675",
-        "url": "https://doi.org/10.1111/apt.70675"
+        "authors": "Sharpton S, Díaz LA, Pepin K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：代谢功能障碍相关的脂肪肝病（MASLD）在纤维化进展和肝脏相关结果方面表现出明显的异质性。 临床提示：肝活检无法进行大规模纵向风险分层，因此需要经过验证的非侵入性生物标志物，特别是成像生物标志物，可以预测具有临床意义的疾病进展。",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) exhibits marked heterogeneity in fibrosis progression and liver-related outcomes. Liver biopsy is not feasible for longitudinal risk stratification at scale, creating a need for validated non-invasive biomarkers, particularly imaging biomarkers, that can predict clinically meaningful disease progression and liver-related outcomes. To describe the design and rationale of the GOLDMINE study, established to determine whether non-invasive imaging biomarkers predict MASLD progression and liver-related clinical outcomes. GOLDMINE is an investigator-initiated, multi-centre, international longitudinal cohort enrolling up to 1000 adults...",
+        "pmid": "42017265",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42017265/",
+        "doiUrl": "https://doi.org/10.1111/apt.70696",
+        "url": "https://doi.org/10.1111/apt.70696"
       },
       {
-        "title": "Clinical Characteristics, Predictive Factors, and the Impact of Antithrombotic Therapy on Bleeding Events in Unresectable Hepatocellular Carcinoma Treated With Atezolizumab Plus Bevacizumab.",
-        "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
+        "title": "Delisting for clinical improvement as a proxy for recompensated cirrhosis on the U.S. liver transplant waitlist: A retrospective cohort study.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
         "pubDate": "2026 Apr 21",
         "studyType": "Journal Article",
-        "authors": "Tada F, Hiraoka A, Ohama H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 981）。核心观点：我们的目的是评估 ATT 是否会增加出血风险，确定与 BL-AE 相关的治疗前因素，并评估出血对 Atez/Bev 治疗的 uHCC 患者无进展生存期 (PFS) 和总生存期 (OS) 的影响。 临床提示：Atezolizumab 联合贝伐单抗 (Atez/Bev) 治疗不可切除的肝细胞癌 (uHCC) 是标准的一线治疗，但出血相关不良事件 (BL-AE) 仍然在临床上令人担忧，特别是在实际情况中",
-        "abstract": "Atezolizumab plus bevacizumab (Atez/Bev) in unresectable hepatocellular carcinoma (uHCC) is a standard first-line therapy, but bleeding-related adverse events (BL-AEs) remain clinically concerning, particularly in real-world patients with advanced tumors, portal hypertension, or undergoing antithrombotic therapy (ATT). We aimed to evaluate whether ATT increases bleeding risk, identify pretreatment factors associated with BL-AEs, and assess the impact of bleeding on progression-free survival (PFS) and overall survival (OS) in patients with uHCC treated with Atez/Bev. This multicenter retrospective study included 981 patients with uHCC treated with Atez/Bev. BL-AEs were identified by clinical ...",
-        "pmid": "42011150",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42011150/",
-        "doiUrl": "https://doi.org/10.1111/hepr.70190",
-        "url": "https://doi.org/10.1111/hepr.70190"
-      },
-      {
-        "title": "The effect of SGLT-2 inhibitors on portal hypertensive complications and mortality in patients with cirrhosis.",
-        "journal": "The American journal of medicine",
-        "pubDate": "2026 Apr 17",
-        "studyType": "Journal Article",
-        "authors": "Rao AK, Ibrahim A, Rockey DC",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：检查了三个亚组：MASH 肝硬化、酒精相关性肝硬化和“其他”肝硬化。 临床提示：我们假设 SGLT-2 抑制剂 (SGLT-2is) 可能对肝硬化患者的门静脉高压产生有益作用。",
-        "abstract": "We hypothesized that SGLT-2 inhibitors (SGLT-2is) may have beneficial effects on portal hypertension in patients with cirrhosis. Using TriNetX, we identified adults with cirrhosis treated with SGLT-2is. Patients prescribed SGLT-2is within 12 months of a cirrhosis diagnosis were examined (vs. no treatment). Three subgroups were examined: MASH cirrhosis, alcohol-associated cirrhosis, and \"other\" cirrhosis. To control for liver disease severity/etiology, propensity score matching (PSM) incorporating 47 variables was performed within each subgroup. PSM resulted in a total of 10,976 cirrhosis patients (compensated and decompensated together; 5,488 each SGLT-2i/control), composed of three matched ...",
-        "pmid": "42002195",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42002195/",
-        "doiUrl": "https://doi.org/10.1016/j.amjmed.2026.04.019",
-        "url": "https://doi.org/10.1016/j.amjmed.2026.04.019"
+        "authors": "McCullough AA, Mahmud N, Reddy KR",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 168）。核心观点：对于接受有效的肝硬化疾病缓解治疗的患者来说，补偿正在成为一个具体的结果。 临床提示：由于临床改善（DCI）而从肝移植（LT）候补名单中除名可以作为补偿的代表。",
+        "abstract": "Recompensation is emerging as a concrete outcome for patients with effective disease-modifying treatments for cirrhosis. Delisting due to clinical improvement (DCI) from the liver transplant (LT) waitlist may serve as a proxy for recompensation. This study investigated factors associated with time on the waitlist and risk of relisting. This was a retrospective cohort study of patients listed for LT between 1/1/2005-12/31/2024 using the Organ Procurement and Transplantation Network (OPTN) database. Timing of DCI was categorized as: <1 year, 1-3 years, and ≥3 years. Of 127,168 patients, 6.9% achieved DCI. The proportion of patients experiencing DCI was highest for hepatitis B virus (9.9%), alc...",
+        "pmid": "42019004",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42019004/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000885",
+        "url": "https://doi.org/10.1097/LVT.0000000000000885"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "经过一天的疯狂外交后，特朗普为伊朗协议争取了时间",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“经过一天的疯狂外交后，特朗普为伊朗协议争取了时间”。核心要点：美国总统的决定标志着他在几周内第二次放弃了升级战争的威胁，从而赢得了更多时间",
+        "titleZh": "巴基斯坦推动谈判，美国和伊朗陷入封锁僵局",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦推动谈判，美国和伊朗陷入封锁僵局”。核心要点：尽管特朗普延长了停火期限，霍尔木兹海峡的情绪仍然不稳定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 00:32:10 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 16:19:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "电话追踪显示哥伦比亚雇佣军如何支持苏丹 RSF - 报告",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“电话追踪显示哥伦比亚雇佣军如何支持苏丹 RSF - 报告”。核心要点：冲突洞察组织（CIG）表示，其研究还显示了阿联酋参与的程度。",
+        "titleZh": "亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索”。核心要点：亿万富翁投资者贾斯汀·孙 (Justin Sun) 在花费 4500 万美元购买其家族的 World Liberty 加密货币公司的代币后，正在起诉该公司。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 04:01:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 18:10:42 GMT",
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "弗吉尼亚州批准重新划分选区，使民主党在中期选举中占据优势",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“弗吉尼亚州批准重新划分选区，使民主党在中期选举中占据优势”。核心要点：弗吉尼亚州的新地图可能会让民主党在 11 月更容易控制美国众议院。",
+        "titleZh": "教皇利奥在结束非洲之行时批评赤道几内亚监狱",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“教皇利奥在结束非洲之行时批评赤道几内亚监狱”。核心要点：教宗发表了坦率而热情的讲话，这是他非洲之行的特色。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 02:24:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 17:04:33 GMT",
+        "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗因与美国和以色列的战争而大规模裁员",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗因与美国和以色列的战争而大规模裁员”。核心要点：制造商、零售商和数字行业都感受到了这种影响，并警告称，如果战争重新爆发，情况可能会变得更糟。",
+        "titleZh": "管道开通结束僵局 欧盟批准向乌克兰提供900亿欧元贷款",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“管道开通结束僵局 欧盟批准向乌克兰提供900亿欧元贷款”。核心要点：乌克兰表示，在邻国匈牙利的石油供应陷入僵局数月后，该国已重新开放德鲁日巴管道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Apr 2026 16:05:51 GMT",
-        "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 17:48:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列士兵因在黎巴嫩破坏耶稣雕像而受到惩罚",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列士兵因在黎巴嫩破坏耶稣雕像而受到惩罚”。核心要点：以色列军方表示，两名士兵将被解除战斗职责并接受 30 天的军事拘留。",
+        "titleZh": "尼日利亚涉嫌政变策划者否认叛国罪指控",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚涉嫌政变策划者否认叛国罪指控”。核心要点：去年独立日游行被取消时，有关政变阴谋的指控首次浮出水面。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Apr 2026 16:13:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 17:33:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "由于美伊和谈进展仍不明朗，油价下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于美伊和谈进展仍不明朗，油价下跌”。核心要点：美国总统唐纳德·特朗普表示，他将延长与伊朗的停火协议，直至和平谈判取得进展。",
+        "titleZh": "苏纳克表示，人工智能正在使年轻人的就业市场变得平坦",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“苏纳克表示，人工智能正在使年轻人的就业市场变得平坦”。核心要点：这位前总理表示，毕业生对获得入门级工作的担忧是有道理的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 01:18:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 23:01:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "全球最大避孕套制造商因伊朗战争而提高价格",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“全球最大避孕套制造商因伊朗战争而提高价格”。核心要点：总部位于马来西亚的 Karex 每年生产超过 50 亿个安全套，为杜蕾斯 (Durex) 和特洛伊 (Trojan) 等全球品牌提供产品。",
+        "titleZh": "最新通胀数据对您影响的三种方式",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“最新通胀数据对您影响的三种方式”。核心要点：通货膨胀会达到多高？这对全国各地的借款人和储户意味着什么？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 03:28:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cy71zj1381po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 11:39:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "从爱泼斯坦到傀儡：凯文·沃什美联储确认听证会的主要要点",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“从爱泼斯坦到傀儡：凯文·沃什美联储确认听证会的主要要点”。核心要点：他否认与唐纳德·特朗普就利率问题达成协议，并支持央行“政策体制变革”。",
+        "titleZh": "伊朗战争推高燃油价格后英国通胀上升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争推高燃油价格后英国通胀上升”。核心要点：这些数据首次正式审视了伊朗战争对英国生活成本的影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Apr 2026 18:59:39 GMT",
-        "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 08:38:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "当我的保险公司取消我的宠物保单时，我留下了 8,000 英镑的兽医账单",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“当我的保险公司取消我的宠物保单时，我留下了 8,000 英镑的兽医账单”。核心要点：成千上万的人因对宠物保险费用上涨和保险范围不足的担忧而与 BBC Your Voice 取得联系。",
+        "titleZh": "四人因涉嫌住宅保温计划欺诈被捕",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“四人因涉嫌住宅保温计划欺诈被捕”。核心要点：严重欺诈办公室因涉嫌串谋诈骗公共资金而突击搜查了家庭和企业。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Apr 2026 23:38:38 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4vkw1lrz0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 17:26:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cgmermvppp8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Meta 跟踪工人的点击和击键以训练人工智能",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 跟踪工人的点击和击键以训练人工智能”。核心要点：该公司将从员工的工作方式中获取数据用于其人工智能模型。",
+        "titleZh": "亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索”。核心要点：亿万富翁投资者贾斯汀·孙 (Justin Sun) 在花费 4500 万美元购买其家族的 World Liberty 加密货币公司的代币后，正在起诉该公司。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Apr 2026 22:47:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Apr 2026 18:10:42 GMT",
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
