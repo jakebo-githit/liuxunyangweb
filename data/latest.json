@@ -1,145 +1,146 @@
 {
-  "updatedAt": "2026-04-23T04:21:28.267Z",
+  "updatedAt": "2026-04-24T04:26:03.479Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Hemostatic imbalances in chronic kidney disease: A regional perspective from Bihar.",
+        "journal": "Journal of family medicine and primary care",
+        "pubDate": "2026 Feb",
+        "studyType": "Journal Article",
+        "authors": "Jamal I, Shuchismita, Raman RB",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：评估CKD患者各阶段的血小板指数和基本凝血参数，探讨患者凝血参数与CKD分期的相关性。 临床提示：这是一项在三级医院血液科进行的为期 2 年的前瞻性观察研究。",
+        "abstract": "To evaluate platelet indices and basic blood coagulation parameters in various stages of CKD patients and to find out any correlation between patients' coagulation parameters and CKD staging. It was a 2-year prospective observational study conducted in the Department of Hematology in a tertiary care hospital. Sample size was 160, out of which 80 were cases and 80 were age and gender matched controls. Patients of both sexes and age group ranging ≥20 years belonging to various stages of non-dialyzed CKD were included in the study. Platelet parameters studied were platelet count and platelet indices like Mean platelet volume (MPV) or platelet distribution width (PDW) and coagulation parameters ...",
+        "pmid": "42023310",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42023310/",
+        "doiUrl": "https://doi.org/10.4103/jfmpc.jfmpc_830_25",
+        "url": "https://doi.org/10.4103/jfmpc.jfmpc_830_25"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Primary leiomyosarcoma of the portal vein: A progressively enhancing fusiform mass without biliary dilatation as a rare differential for hilar tumors.",
+        "title": "Hepatocellular Carcinoma in Non-cirrhotic Portal Fibrosis/Idiopathic Portal Hypertension: An Under-recognized Complication-A Case Report and Literature Review.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Jul-Aug",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Singh A, Harindranath S, Kaur P",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：血管性肝病被认为是非肝硬化肝脏中发生肝细胞癌（HCC）的危险因素。 临床提示：虽然这种关联在布加综合征等疾病中已得到充分确立，并已制定了明确的监测策略，但有关非肝硬化门静脉纤维化/特发性门静脉高压 (NCPF/IPH) 中 HCC 的数据",
+        "abstract": "Vascular liver diseases are recognized risk factors for the development of hepatocellular carcinoma (HCC) in non-cirrhotic livers. While the association is well established in conditions like Budd-Chiari syndrome, which have defined surveillance strategies, data regarding HCC in non-cirrhotic portal fibrosis/idiopathic portal hypertension (NCPF/IPH) remain limited. We report a case of incidentally detected HCC in a 52-year-old woman with NCPF/IPH and preserved liver function. She initially presented with portal hypertension without hepatic decompensation and was diagnosed with NCPF/IPH based on histology and clinical criteria. Sixty-four months after her diagnosis, imaging revealed a large w...",
+        "pmid": "42022180",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42022180/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103539",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103539"
+      },
+      {
+        "title": "Hemorrhagic shock revealing a spontaneous rupture of a splenic artery aneurysm in a young patient without prior medical history: A rare case and literature review.",
         "journal": "Radiology case reports",
         "pubDate": "2026 Jul",
         "studyType": "Case Reports / Journal Article",
-        "authors": "Miyazawa A, Tsuzaki J, Ogawa R",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：门静脉原发性平滑肌肉瘤是极其罕见的血管肿瘤。 临床提示：鉴于有关其影像学特征的报告数量有限，实现准确的术前诊断具有挑战性，但对于确定最佳治疗策略至关重要。",
-        "abstract": "Primary leiomyosarcomas of the portal vein are exceedingly rare vascular neoplasms. Given the limited number of reports on their imaging features, achieving an accurate preoperative diagnosis is challenging yet essential for determining the optimal treatment strategy. Here, we report a case of an incidentally discovered primary portal vein leiomyosarcoma in an asymptomatic man in his forties. We emphasize the diagnostic significance of its fusiform intraportal morphology. Unenhanced computed tomography (CT) revealed a distinct 45-mm fusiform mass in the hepatic hilum, while dynamic contrast-enhanced CT showed heterogeneous progressive enhancement without biliary dilatation. Magnetic resonanc...",
-        "pmid": "42016582",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42016582/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.03.028",
-        "url": "https://doi.org/10.1016/j.radcr.2026.03.028"
+        "authors": "Benramdane H, Errahal H, Boubacar A",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：它通常发生在具有已知危险因素（例如妊娠或门静脉高压）的患者中。 临床提示：脾动脉瘤（SAA）是一种罕见疾病，其自发破裂可危及生命。",
+        "abstract": "Splenic artery aneurysm (SAA) is a rare condition, and its spontaneous rupture is life-threatening. It usually occurs in patients with known risk factors such as pregnancy or portal hypertension. We report the case of a 29-year-old male with no prior medical history who presented with sudden abdominal pain and hemorrhagic shock. Contrast-enhanced CT angiography revealed massive hemoperitoneum due to spontaneous rupture of a splenic artery aneurysm. Despite emergency surgical management, the patient died. This case is important because it demonstrates that splenic artery aneurysm rupture can occur in young patients without classic risk factors, highlighting the need to consider this diagnosis...",
+        "pmid": "42021768",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42021768/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.03.020",
+        "url": "https://doi.org/10.1016/j.radcr.2026.03.020"
       },
       {
-        "title": "Sex does not impact the performance of non-invasive tests for clinically significant portal hypertension in cACLD.",
-        "journal": "The American journal of gastroenterology",
-        "pubDate": "2026 Apr 22",
-        "studyType": "Journal Article",
-        "authors": "Höfinger P, Schluchter H, Semmler G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：具有临床意义的门脉高压（CSPH）表示晚期慢性肝病（cACLD）肝功能失代偿的血流动力学阈值，并且越来越多地通过无创检查来诊断。 临床提示：尽管 VCTE 进行的肝脏硬度测量 (LSM) 受到身体成分的影响，但有趣的是，没有关于其诊断或预后性能的性别差异的数据。",
-        "abstract": "Clinically significant portal hypertension (CSPH) denotes the hemodynamic threshold for hepatic decompensation in advanced chronic liver disease (cACLD) and is increasingly diagnosed by noninvasive tests. Although liver stiffness measurement (LSM) by VCTE is affected by body composition, intriguingly, no data on sex differences of its diagnostic or prognostic performance are available. We aimed to address this knowledge gap. A total of 420 stable outpatients who underwent HVPG measurement from 2007 to 2022 at the Vienna Hepatic Hemodynamic Lab were included. The sex-specific diagnostic performance of prevailing NITs was evaluated. Moreover, the sex-specific cumulative incidences of first hep...",
-        "pmid": "42017845",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42017845/",
-        "doiUrl": "https://doi.org/10.14309/ajg.0000000000004033",
-        "url": "https://doi.org/10.14309/ajg.0000000000004033"
-      },
-      {
-        "title": "Global Longitudinal Assessment of MASLD Using Magnetic Resonance Elastography (GOLDMINE): A Multi-Center, International Prospective Cohort Study of Imaging Biomarkers in MASLD Clinical Outcomes.",
-        "journal": "Alimentary pharmacology & therapeutics",
-        "pubDate": "2026 Apr 22",
-        "studyType": "Journal Article",
-        "authors": "Sharpton S, Díaz LA, Pepin K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：代谢功能障碍相关的脂肪肝病（MASLD）在纤维化进展和肝脏相关结果方面表现出明显的异质性。 临床提示：肝活检无法进行大规模纵向风险分层，因此需要经过验证的非侵入性生物标志物，特别是成像生物标志物，可以预测具有临床意义的疾病进展。",
-        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) exhibits marked heterogeneity in fibrosis progression and liver-related outcomes. Liver biopsy is not feasible for longitudinal risk stratification at scale, creating a need for validated non-invasive biomarkers, particularly imaging biomarkers, that can predict clinically meaningful disease progression and liver-related outcomes. To describe the design and rationale of the GOLDMINE study, established to determine whether non-invasive imaging biomarkers predict MASLD progression and liver-related clinical outcomes. GOLDMINE is an investigator-initiated, multi-centre, international longitudinal cohort enrolling up to 1000 adults...",
-        "pmid": "42017265",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42017265/",
-        "doiUrl": "https://doi.org/10.1111/apt.70696",
-        "url": "https://doi.org/10.1111/apt.70696"
-      },
-      {
-        "title": "Delisting for clinical improvement as a proxy for recompensated cirrhosis on the U.S. liver transplant waitlist: A retrospective cohort study.",
-        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
-        "pubDate": "2026 Apr 21",
-        "studyType": "Journal Article",
-        "authors": "McCullough AA, Mahmud N, Reddy KR",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 168）。核心观点：对于接受有效的肝硬化疾病缓解治疗的患者来说，补偿正在成为一个具体的结果。 临床提示：由于临床改善（DCI）而从肝移植（LT）候补名单中除名可以作为补偿的代表。",
-        "abstract": "Recompensation is emerging as a concrete outcome for patients with effective disease-modifying treatments for cirrhosis. Delisting due to clinical improvement (DCI) from the liver transplant (LT) waitlist may serve as a proxy for recompensation. This study investigated factors associated with time on the waitlist and risk of relisting. This was a retrospective cohort study of patients listed for LT between 1/1/2005-12/31/2024 using the Organ Procurement and Transplantation Network (OPTN) database. Timing of DCI was categorized as: <1 year, 1-3 years, and ≥3 years. Of 127,168 patients, 6.9% achieved DCI. The proportion of patients experiencing DCI was highest for hepatitis B virus (9.9%), alc...",
-        "pmid": "42019004",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42019004/",
-        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000885",
-        "url": "https://doi.org/10.1097/LVT.0000000000000885"
+        "title": "Interventional Endoscopic Ultrasound.",
+        "journal": "Gastroenterology",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article / Review",
+        "authors": "Diehl DL, Binmoeller KF, Hasan N",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：超声内镜 (EUS) 已从一种用于肿瘤分期和诊断组织采集的诊断方法发展成为一种彻底改变整个疾病谱的微创内窥镜护理的技术。 临床提示：近年来，所执行的手术的数量和类型以及旨在提供 EUS 引导干预的设备都在快速发展。",
+        "abstract": "Endoscopic ultrasound (EUS) has evolved from a diagnostic method for staging tumors and diagnostic tissue acquisition to a technology that has revolutionized minimally invasive endoscopic care across the disease spectrum. Recent years have witnessed a rapid advance in the number and types of procedures that are performed and in the devices that are designed to deliver EUS-guided interventions. These advances offer safer, less-invasive alternatives to traditional therapies and define disruptive technologies that are impacting patient care. The purpose of this review is to discuss the state of the art in therapeutic EUS procedures, focusing on current advances that are transforming endoscopic ...",
+        "pmid": "41651305",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41651305/",
+        "doiUrl": "https://doi.org/10.1053/j.gastro.2026.01.021",
+        "url": "https://doi.org/10.1053/j.gastro.2026.01.021"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "巴基斯坦推动谈判，美国和伊朗陷入封锁僵局",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦推动谈判，美国和伊朗陷入封锁僵局”。核心要点：尽管特朗普延长了停火期限，霍尔木兹海峡的情绪仍然不稳定。",
+        "titleZh": "特朗普告诉BBC，金的访问“绝对”有助于修复与英国的关系",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普告诉BBC，金的访问“绝对”有助于修复与英国的关系”。核心要点：在接受英国广播公司北美编辑的电话采访时，总统讨论了下周的访问以及他与英国首相的关系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 16:19:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Apr 2026 03:03:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索”。核心要点：亿万富翁投资者贾斯汀·孙 (Justin Sun) 在花费 4500 万美元购买其家族的 World Liberty 加密货币公司的代币后，正在起诉该公司。",
+        "titleZh": "特朗普威胁布雷船，美国登上运载伊朗石油的船只",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁布雷船，美国登上运载伊朗石油的船只”。核心要点：中央司令部表示，自对进出伊朗的船只实施封锁以来，已拦截了 33 艘船只。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 18:10:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Apr 2026 20:45:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "教皇利奥在结束非洲之行时批评赤道几内亚监狱",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“教皇利奥在结束非洲之行时批评赤道几内亚监狱”。核心要点：教宗发表了坦率而热情的讲话，这是他非洲之行的特色。",
+        "titleZh": "蒙面伊朗军队在视频中似乎扣押了船只",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“蒙面伊朗军队在视频中似乎扣押了船只”。核心要点：分析表明，视频的部分内容似乎是在据报道船只被扣押数小时后拍摄的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 17:04:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Apr 2026 18:15:28 GMT",
+        "url": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "管道开通结束僵局 欧盟批准向乌克兰提供900亿欧元贷款",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“管道开通结束僵局 欧盟批准向乌克兰提供900亿欧元贷款”。核心要点：乌克兰表示，在邻国匈牙利的石油供应陷入僵局数月后，该国已重新开放德鲁日巴管道。",
+        "titleZh": "美国士兵因押注推翻马杜罗赢得40万美元而被指控",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国士兵因押注推翻马杜罗赢得40万美元而被指控”。核心要点：司法部称，甘农·肯·范·戴克 (Gannon Ken Van Dyke) 涉嫌根据机密信息在 Polymarket 进行交易。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 17:48:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Apr 2026 00:21:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尼日利亚涉嫌政变策划者否认叛国罪指控",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚涉嫌政变策划者否认叛国罪指控”。核心要点：去年独立日游行被取消时，有关政变阴谋的指控首次浮出水面。",
+        "titleZh": "攀登高峰季节，巨大的冰川阻挡了珠穆朗玛峰的路线",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“攀登高峰季节，巨大的冰川阻挡了珠穆朗玛峰的路线”。核心要点：夏尔巴人无法准备通往世界最高峰的路线，因为路上有一块巨大的冰块。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 17:33:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Apr 2026 16:52:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "苏纳克表示，人工智能正在使年轻人的就业市场变得平坦",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“苏纳克表示，人工智能正在使年轻人的就业市场变得平坦”。核心要点：这位前总理表示，毕业生对获得入门级工作的担忧是有道理的。",
+        "titleZh": "英国央行副行长表示，股市太高并将下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国央行副行长表示，股市太高并将下跌”。核心要点：央行高层人士对市场动向如此直言不讳，实属罕见。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 23:01:09 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Apr 2026 23:15:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "最新通胀数据对您影响的三种方式",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“最新通胀数据对您影响的三种方式”。核心要点：通货膨胀会达到多高？这对全国各地的借款人和储户意味着什么？",
+        "titleZh": "白宫备忘录称中国公司大规模盗窃人工智能",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“白宫备忘录称中国公司大规模盗窃人工智能”。核心要点：Michael Kratsios 的一份备忘录称，主要是中国的公司错误地借鉴了美国的人工智能模型。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 11:39:25 GMT",
-        "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Apr 2026 00:58:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争推高燃油价格后英国通胀上升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争推高燃油价格后英国通胀上升”。核心要点：这些数据首次正式审视了伊朗战争对英国生活成本的影响。",
+        "titleZh": "哪些航空公司取消飞往英国的航班 - 您能做什么？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“哪些航空公司取消飞往英国的航班 - 您能做什么？”。核心要点：航空公司正在提高价格并取消航班，以应对航空燃油价格上涨。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 08:38:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Apr 2026 16:47:41 GMT",
+        "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "四人因涉嫌住宅保温计划欺诈被捕",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“四人因涉嫌住宅保温计划欺诈被捕”。核心要点：严重欺诈办公室因涉嫌串谋诈骗公共资金而突击搜查了家庭和企业。",
+        "titleZh": "美国士兵因押注推翻马杜罗赢得40万美元而被指控",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国士兵因押注推翻马杜罗赢得40万美元而被指控”。核心要点：司法部称，甘农·肯·范·戴克 (Gannon Ken Van Dyke) 涉嫌根据机密信息在 Polymarket 进行交易。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 17:26:22 GMT",
-        "url": "https://www.bbc.com/news/articles/cgmermvppp8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Apr 2026 00:21:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“亿万富翁支持者起诉特朗普家族的加密货币公司涉嫌勒索”。核心要点：亿万富翁投资者贾斯汀·孙 (Justin Sun) 在花费 4500 万美元购买其家族的 World Liberty 加密货币公司的代币后，正在起诉该公司。",
+        "titleZh": "Meta表示，随着人工智能支出飙升，它将裁员8000人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta表示，随着人工智能支出飙升，它将裁员8000人”。核心要点：此次裁员是员工数周以来一直期待的，这将是 Meta 自 2023 年以来最大规模的裁员。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Apr 2026 18:10:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Apr 2026 22:56:00 GMT",
+        "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
