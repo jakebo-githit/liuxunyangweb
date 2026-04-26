@@ -1,77 +1,50 @@
 {
-  "updatedAt": "2026-04-25T04:08:13.810Z",
+  "updatedAt": "2026-04-26T04:31:00.881Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Predicting esophageal varices in cirrhosis: diagnostic utility of MR elastography and dynamic contrast-enhanced MRI.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article",
-        "authors": "Singwicha T, Chansaengpetch S, Tanpowpong N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：MRI 的进步为 EV 预测提供了非侵入性方法。 临床提示：肝硬化常常并发门静脉高压导致的食管静脉曲张（EV）。",
-        "abstract": "Liver cirrhosis is often complicated by esophageal varices (EVs) due to portal hypertension. Advances in MRI offer non-invasive methods for EV prediction. This study evaluates the diagnostic performance of liver stiffness (LS) and spleen stiffness (SS) from MR elastography (MRE) and EV visualization on dynamic contrast-enhanced (DCE)-MRI in cirrhotic individuals. This retrospective cross-sectional study included upper abdominal MRI studies from cirrhotic participants who underwent esophagogastroduodenoscopy (EGD) between February 2022 and July 2023. LS and SS from MRE were measured, while two radiologists independently assessed EV presence on DCE-MRI. Diagnostic performance was evaluated usi...",
-        "pmid": "41186713",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41186713/",
-        "doiUrl": "https://doi.org/10.1007/s00261-025-05217-y",
-        "url": "https://doi.org/10.1007/s00261-025-05217-y"
-      },
-      {
-        "title": "Long-Term Continuous Terlipressin Infusion Improves Cardiac Reserve in Patients With Decompensated Cirrhosis.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Terbah R, Koshy AN, Majumdar A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：心功能不全是肝肾综合征发病的关键因素，特利加压素是推荐的一线治疗药物。 临床提示：本研究探讨长期服用特利加压素是否可以改善失代偿性肝硬化中观察到的亚临床心功能障碍。",
-        "abstract": "Cardiac dysfunction is a key factor in the pathogenesis of hepatorenal syndrome, for which terlipressin is the recommended first-line treatment. This study investigates whether long-term terlipressin can ameliorate the subclinical cardiac dysfunction observed in decompensated cirrhosis. Twenty-two patients with decompensated cirrhosis and ascites enrolled in a prospective study of home continuous terlipressin infusion were included. Cardiac function was assessed using dobutamine stress echocardiogram before and after 12 weeks of terlipressin. The primary outcome was the impact of terlipressin on cardiac reserve, the change in cardiac output (CO) in response to stress. The median age was 61 y...",
-        "pmid": "39209185",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39209185/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2024.08.010",
-        "url": "https://doi.org/10.1016/j.cgh.2024.08.010"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普特使威特科夫和库什纳将飞往巴基斯坦参加伊朗会谈",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普特使威特科夫和库什纳将飞往巴基斯坦参加伊朗会谈”。核心要点：伊朗表示，其外交部长阿巴斯·阿拉格奇已经抵达巴基斯坦，但伊朗和美国之间没有计划举行会晤。",
+        "titleZh": "特朗普取消美国特使前往巴基斯坦就伊朗战争进行会谈的行程",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普取消美国特使前往巴基斯坦就伊朗战争进行会谈的行程”。核心要点：伊朗早些时候表示，没有计划与史蒂夫·威特科夫和贾里德·库什纳率领的美国代表团直接会面。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 22:02:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Apr 2026 21:34:12 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "北约称美国可能寻求暂停西班牙成员国资格后“没有规定”驱逐成员国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“北约称美国可能寻求暂停西班牙成员国资格后“没有规定”驱逐成员国”。核心要点：据报道，五角大楼的一封内部电子邮件概述了因盟友缺乏对伊朗战争支持而惩罚盟友的选项。",
+        "titleZh": "武装团体在马里各地发动协同袭击，发生爆炸和枪击事件",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“武装团体在马里各地发动协同袭击，发生爆炸和枪击事件”。核心要点：目击者称中部和北部发生冲突，这被称为多年来最大规模的圣战袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 16:04:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Apr 2026 21:13:49 GMT",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卡蒂亚·阿德勒：欧洲北约盟国反击美国对西班牙的威胁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卡蒂亚·阿德勒：欧洲北约盟国反击美国对西班牙的威胁”。核心要点：英国广播公司欧洲编辑写道，周五早上，欧洲和美国之间恶化的关系再次像美杜莎一样抬起头来。",
+        "titleZh": "墨西哥称坠机事件中丧生的美国特工不允许在那里执行任务",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥称坠机事件中丧生的美国特工不允许在那里执行任务”。核心要点：据报道，两名为中央情报局工作的美国人在墨西哥领导的摧毁一个药物实验室的行动后死于车祸。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Apr 2026 00:10:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Apr 2026 17:40:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国“审查”报告后，第10号称福克兰群岛主权属于英国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国“审查”报告后，第10号称福克兰群岛主权属于英国”。核心要点：据报道，五角大楼的一份内部文件提出了改变立场的可能性，以报复英国不加入伊朗战争。",
+        "titleZh": "约旦河西岸的巴勒斯坦人和加沙的一些巴勒斯坦人在地方选举中投票",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“约旦河西岸的巴勒斯坦人和加沙的一些巴勒斯坦人在地方选举中投票”。核心要点：被占领的约旦河西岸和加沙一座城市已经举行了地方选举，但哈马斯和其他团体没有参加。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 22:55:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Apr 2026 17:01:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "耗资数百万美元的珠穆朗玛峰洪水预警系统生锈，数千人面临危险",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“耗资数百万美元的珠穆朗玛峰洪水预警系统生锈，数千人面临危险”。核心要点：恐惧的当地人告诉 BBC，伊姆贾冰川湖的洪水预警系统自 2016 年以来就没有维护过。",
+        "titleZh": "委内瑞拉囚犯释放计划“即将结束”，人权组织提出批评",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉囚犯释放计划“即将结束”，人权组织提出批评”。核心要点：尽管自大赦法实施以来，已有 500 多名政治犯被释放，但据信仍有 500 多名政治犯被关押在监狱中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 23:28:09 GMT",
-        "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Apr 2026 17:36:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
