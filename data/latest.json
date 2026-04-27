@@ -1,11 +1,27 @@
 {
-  "updatedAt": "2026-04-26T04:31:00.881Z",
+  "updatedAt": "2026-04-27T04:38:51.635Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": []
   },
   "news": {
     "world": [
+      {
+        "titleZh": "特朗普表示他在华盛顿新闻晚宴枪击事件中“并不担心”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示他在华盛顿新闻晚宴枪击事件中“并不担心””。核心要点：BBC 美国合作伙伴哥伦比亚广播公司新闻报道称，嫌疑人写了一份文件，称他想针对特朗普政府官员。他将于周一出庭。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 27 Apr 2026 04:24:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "我和特朗普在房间里，听到低沉的枪声",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“我和特朗普在房间里，听到低沉的枪声”。核心要点：BBC 的加里·奥多诺霍 (Gary O'Donoghue) 描述了当会场响起枪声时，他和其他人赶紧寻找掩护的那一刻。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 26 Apr 2026 04:22:59 GMT",
+        "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "特朗普取消美国特使前往巴基斯坦就伊朗战争进行会谈的行程",
         "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普取消美国特使前往巴基斯坦就伊朗战争进行会谈的行程”。核心要点：伊朗早些时候表示，没有计划与史蒂夫·威特科夫和贾里德·库什纳率领的美国代表团直接会面。",
@@ -15,39 +31,47 @@
         "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "武装团体在马里各地发动协同袭击，发生爆炸和枪击事件",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“武装团体在马里各地发动协同袭击，发生爆炸和枪击事件”。核心要点：目击者称中部和北部发生冲突，这被称为多年来最大规模的圣战袭击。",
+        "titleZh": "马里国防部长因叛军袭击而丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“马里国防部长因叛军袭击而丧生”。核心要点：圣战武装分子和分裂分子发起的一波协同袭击已经席卷全国。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Apr 2026 21:13:49 GMT",
-        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Apr 2026 20:56:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "墨西哥称坠机事件中丧生的美国特工不允许在那里执行任务",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥称坠机事件中丧生的美国特工不允许在那里执行任务”。核心要点：据报道，两名为中央情报局工作的美国人在墨西哥领导的摧毁一个药物实验室的行动后死于车祸。",
+        "titleZh": "内塔尼亚胡命令军队“大力攻击”黎巴嫩真主党",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡命令军队“大力攻击”黎巴嫩真主党”。核心要点：以色列总理发出这一指令之际，尽管停火协议已延长三周，但仍有六人在黎巴嫩的袭击中丧生。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Apr 2026 17:40:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "约旦河西岸的巴勒斯坦人和加沙的一些巴勒斯坦人在地方选举中投票",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“约旦河西岸的巴勒斯坦人和加沙的一些巴勒斯坦人在地方选举中投票”。核心要点：被占领的约旦河西岸和加沙一座城市已经举行了地方选举，但哈马斯和其他团体没有参加。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 25 Apr 2026 17:01:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "委内瑞拉囚犯释放计划“即将结束”，人权组织提出批评",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉囚犯释放计划“即将结束”，人权组织提出批评”。核心要点：尽管自大赦法实施以来，已有 500 多名政治犯被释放，但据信仍有 500 多名政治犯被关押在监狱中。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 25 Apr 2026 17:36:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Apr 2026 00:34:21 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "美伊和平谈判陷入僵局油价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊和平谈判陷入僵局油价上涨”。核心要点：特朗普总统周六表示，美国已取消派遣团队前往巴基斯坦进行谈判的计划。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 27 Apr 2026 01:16:50 GMT",
+        "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "部长表示，伊朗战争后价格上涨可能会持续八个月",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“部长表示，伊朗战争后价格上涨可能会持续八个月”。核心要点：官员们正在监控库存水平，并为供应链可能出现的任何中断做好计划。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 26 Apr 2026 13:58:54 GMT",
+        "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "中国运动品牌挑战耐克和阿迪达斯",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国运动品牌挑战耐克和阿迪达斯”。核心要点：安踏现在是最大的运动服装公司之一，其崛起遵循了许多中国巨头采用的策略。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 26 Apr 2026 22:24:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "中国汽车巨头比亚迪表示，没有美国它也能蓬勃发展",
         "summaryZh": "这是一条金融市场新闻，重点围绕“中国汽车巨头比亚迪表示，没有美国它也能蓬勃发展”。核心要点：随着燃料价格的上涨，中国比亚迪表示，它正在将自己定位为从全球摆脱化石燃料的趋势中受益。",
@@ -63,30 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 24 Apr 2026 09:03:21 GMT",
         "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国司法部撤销对美联储主席杰罗姆·鲍威尔的调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国司法部撤销对美联储主席杰罗姆·鲍威尔的调查”。核心要点：唐纳德·特朗普总统指责鲍威尔在翻修美联储大楼时成本超支。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 19:10:25 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "如果股价下跌，对我有何影响？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“如果股价下跌，对我有何影响？”。核心要点：富时 100 指数和其他指数的变化不仅影响金融专家，还影响我们的生活。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 09:39:48 GMT",
-        "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "白宫备忘录称中国公司大规模盗窃人工智能",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“白宫备忘录称中国公司大规模盗窃人工智能”。核心要点：Michael Kratsios 的一份备忘录称，主要是中国的公司错误地借鉴了美国的人工智能模型。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Apr 2026 00:58:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
