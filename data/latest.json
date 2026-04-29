@@ -1,159 +1,119 @@
 {
-  "updatedAt": "2026-04-28T04:44:31.860Z",
+  "updatedAt": "2026-04-29T04:38:29.905Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Huanglian Jiedu Decoction ameliorates Hypertensive Nephropathy by inhibiting the AGEs-RAGE/MAPK/AP-1 axis: An integrated transcriptomics and network pharmacology study.",
-        "journal": "Journal of ethnopharmacology",
-        "pubDate": "2026 Apr 24",
-        "studyType": "Journal Article",
-        "authors": "Wang N, Yang S, Li C",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：黄连解毒汤（HLJDD）是一种经典中药，以其“清热解毒”和抗炎特性而闻名，被广泛用于治疗高血压和相关的靶器官损伤。 临床提示：高血压肾病（HN）是一种严重的高血压并发症，其特征是进行性肾纤维化，目前的治疗无法阻止这种纤维化。",
-        "abstract": "Hypertensive Nephropathy (HN) is a severe complication of hypertension characterized by progressive renal fibrosis, which current treatments fail to halt. Huanglian Jiedu Decoction (HLJDD), a classic traditional Chinese medicine (TCM) renowned for its \"heat-clearing, detoxifying\" and anti-inflammatory properties, is widely used against hypertension and associated target organ damage. Thus, its potential therapeutic mechanisms against HN warrant in-depth investigation. This study was designed to investigate the renoprotective effects of HLJDD on HN and to determine whether its mechanism is mediated through the modulation of the AGEs-RAGE/MAPK/AP-1 signaling axis. UPLC-Q-Exactive Orbitrap-MS w...",
-        "pmid": "42035996",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42035996/",
-        "doiUrl": "https://doi.org/10.1016/j.jep.2026.121685",
-        "url": "https://doi.org/10.1016/j.jep.2026.121685"
-      },
-      {
-        "title": "The Role of Non-Coding RNA in the Pathogenesis of Hypertensive Nephropathy.",
-        "journal": "Cells",
-        "pubDate": "2026 Apr 15",
-        "studyType": "Journal Article / Review",
-        "authors": "Plewa P, Figiel K, Ćmil M",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：高血压肾病（HN）是全世界慢性肾脏病和终末期肾病的主要原因，是高血压对肾脏结构和功能的长期影响所致。 临床提示：HN的发病机制复杂，涉及血流动力学紊乱、肾血管损伤、氧化应激、慢性炎症和进行性间质纤维化。",
-        "abstract": "Hypertensive nephropathy (HN) is a leading cause of chronic kidney disease and end-stage renal disease worldwide and results from the long-term effects of hypertension on renal structure and function. The pathogenesis of HN is complex and involves haemodynamic disturbances, renal vascular injury, oxidative stress, chronic inflammation, and progressive interstitial fibrosis. In recent years, increasing attention has focused on the role of non-coding RNAs (ncRNAs)-including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs)-as key regulators of gene expression involved in these processes. This review summarises the current understanding of the molecular mechanisms...",
-        "pmid": "42041569",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42041569/",
-        "doiUrl": "https://doi.org/10.3390/cells15080701",
-        "url": "https://doi.org/10.3390/cells15080701"
-      },
-      {
-        "title": "Apolipoprotein L1 (APOL1) and Nephropathy.",
-        "journal": "Giornale italiano di nefrologia : organo ufficiale della Societa italiana di nefrologia",
-        "pubDate": "2026 Feb 28",
-        "studyType": "Journal Article / Review",
-        "authors": "Szyferman AY, Kleppe S, Cristiano F",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：造成这种差异的一个重要遗传因素是载脂蛋白 L1 (APOL1) 基因，该基因仅存在于非洲血统人群中。 临床提示：G1 和 G2 APOL1 风险等位基因与非糖尿病慢性肾病 (CKD) 的风险升高密切相关，包括高血压肾病、局灶节段性肾小球硬化症和 HIV 相关性肾病",
-        "abstract": "Introduction. End-stage renal disease exhibits a disproportionate prevalence among Black individuals and older adults within the United States and worldwide. A significant genetic contributor to this disparity is the Apolipoprotein L1 (APOL1) gene, found exclusively in populations of African ancestry. Materials and Method. We aim to perform a narrative review regarding the current understanding of APOL1 and its complex role in kidney disease pathogenesis. Results. The G1 and G2 APOL1 risk alleles are strongly associated with an elevated risk for non-diabetic chronic kidney disease (CKD), including hypertensive nephropathy, focal segmental glomerulosclerosis, and HIV-associated nephropathy, i...",
-        "pmid": "42037283",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42037283/",
-        "doiUrl": "https://doi.org/10.69097/43-01-2026-05",
-        "url": "https://doi.org/10.69097/43-01-2026-05"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "A randomized controlled trial of L-taurine for fatigue in decompensated cirrhosis.",
-        "journal": "Hepatology communications",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article / Randomized Controlled Trial",
-        "authors": "Sasidharan S, Philips CA, Tharakan A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：60%-80% 的肝硬化患者会出现疲劳，但尚无普遍有效的药物治疗方法。 临床提示：牛磺酸是一种具有抗氧化和膜稳定特性的氨基磺酸，可以解决疲劳背后的代谢机制。",
-        "abstract": "Fatigue affects 60%-80% of patients with cirrhosis, yet no universally effective pharmacologic therapy exists. Taurine, an amino sulfonic acid with antioxidant and membrane-stabilizing properties, may address metabolic mechanisms underlying fatigue. We hypothesized that L-taurine supplementation would significantly reduce fatigue severity compared to standard care in patients with decompensated cirrhosis. This single-center, parallel-arm, open-label randomized controlled trial enrolled adults with decompensated cirrhosis (Child-Turcotte-Pugh score 7-13) and clinically significant fatigue (Fatigue Assessment Scale score >22) at a tertiary care center in South India. Participants were randomiz...",
-        "pmid": "42043864",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42043864/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000000938",
-        "url": "https://doi.org/10.1097/HC9.0000000000000938"
+        "title": "Ultrasound-Guided Fine-Needle vs. Transjugular Portal Pressure Measurements in Non-Viral, Non-Alcoholic Cirrhosis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article / Comparative Study",
+        "authors": "Chen R, Ma L, Liu Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝静脉压力梯度（HVPG）是诊断病毒性和酒精相关性肝硬化患者临床上显着的门静脉高压的金标准，但其准确性在其他病因学中受到限制。 临床提示：本研究旨在评估非酒精性、非病毒相关性失代偿性肝硬化患者使用细针穿刺 (FN-PVP)、直接门静脉导管测量门静脉压的相关性。",
+        "abstract": "Hepatic venous pressure gradient (HVPG) is the gold standard for diagnosing clinically significant portal hypertension in patients with viral- and alcohol-related cirrhosis, but its accuracy is limited in other aetiologies. This study aimed to evaluate the correlation of portal venous pressure measurements in patients with non-alcoholic, non-viral-related decompensated cirrhosis, using fine-needle puncture (FN-PVP), direct portal vein catheterisation (D-PVP) and wedged hepatic vein balloon occlusion (WHVP). This study retrospectively included patients from the author's centre who simultaneously underwent FN-PVP, HVPG and transjugular intrahepatic portosystemic shunt (TIPS) placement for vari...",
+        "pmid": "42047402",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42047402/",
+        "doiUrl": "https://doi.org/10.1111/liv.70650",
+        "url": "https://doi.org/10.1111/liv.70650"
       },
       {
-        "title": "Isolated Duodenal Variceal Hemorrhage: A Rare and Unusual Presentation in Newly Diagnosed Cirrhosis.",
-        "journal": "ACG case reports journal",
+        "title": "Effects of zibotentan and dapagliflozin combined in patients with compensated cirrhosis: A randomized placebo-controlled exploratory study.",
+        "journal": "British journal of clinical pharmacology",
         "pubDate": "2026 May",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Chowdhury AR, Paiji C",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：其他地方没有并发静脉曲张的孤立性十二指肠静脉曲张并不常见，并且对诊断和治疗提出了重大挑战。 临床提示：十二指肠静脉曲张是上消化道出血的罕见原因，通常见于门脉高压以及邻近的食管或胃静脉曲张。",
-        "abstract": "Duodenal varices are a rare cause of upper gastrointestinal bleeding and are typically seen in the setting of portal hypertension along with adjacent esophageal or gastric varices. Isolated duodenal varices without concurrent varices elsewhere are uncommon and pose significant diagnostic and therapeutic challenges. We report a case of an elderly woman who presented anemic and with coffee-ground emesis and was found to have newly diagnosed cirrhosis with isolated bleeding duodenal varices successfully managed with endoscopic clipping followed by coil embolization performed by interventional radiology.",
-        "pmid": "42041022",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42041022/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002105",
-        "url": "https://doi.org/10.14309/crj.0000000000002105"
+        "studyType": "Journal Article / Randomized Controlled Trial / Clinical Trial, Phase II",
+        "authors": "Garcia-Pagan JC, Gluud LL, Mandorfer M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床试验。核心观点：内皮素 A (ET A ) 受体拮抗剂可能会降低肝硬化相关的门静脉高压 (PH)。 临床提示：它们与液体潴留有关，钠-葡萄糖协同转运蛋白 2 抑制剂 (SGLT2is) 可能会减轻液体潴留。",
+        "abstract": "Endothelin A (ET A ) receptor antagonists may reduce cirrhosis-associated portal hypertension (PH). They are associated with fluid retention, which might be mitigated by sodium-glucose co-transporter 2 inhibitors (SGLT2is). Efficacy, safety and tolerability of combining the selective ET A receptor antagonist zibotentan and the selective SGLT2i dapagliflozin were investigated. Patients with compensated cirrhosis (Child-Pugh A) were randomized 1:1 to zibotentan 2.5 mg plus dapagliflozin 10 mg (zibo/dapa) or placebo in a 6-week parallel, double-blind Phase II study. The absolute change in hepatic venous pressure gradient (HVPG) from baseline to week 6 was evaluated in the full analysis set usin...",
+        "pmid": "41362018",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41362018/",
+        "doiUrl": "https://doi.org/10.1002/bcp.70332",
+        "url": "https://doi.org/10.1002/bcp.70332"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "梅拉尼娅·特朗普在寡妇笑话后敦促美国广播公司对吉米·金梅尔“表明立场”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“梅拉尼娅·特朗普在寡妇笑话后敦促美国广播公司对吉米·金梅尔“表明立场””。核心要点：在白宫记者晚宴前几天播出的一段模仿节目中，金梅尔称梅拉尼娅是“准寡妇”。",
+        "titleZh": "科米被控在 Instagram 帖子中威胁特朗普生命",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“科米被控在 Instagram 帖子中威胁特朗普生命”。核心要点：新案件源于前联邦调查局局长发布的一张 2025 年贝壳照片，司法部称该照片呼吁对特朗普实施暴力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 21:14:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Apr 2026 00:24:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普称金在安全会谈后访问美国期间“非常安全”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称金在安全会谈后访问美国期间“非常安全””。核心要点：尽管一名枪手瞄准了总统参加的活动，但国事访问仍将继续进行。",
+        "titleZh": "阿拉伯联合酋长国退出石油卡特尔欧佩克",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿拉伯联合酋长国退出石油卡特尔欧佩克”。核心要点：阿联酋在加入该组织近 60 年后做出的决定被视为该石油卡特尔的潜在丧钟。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 09:19:11 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 16:24:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴基斯坦被指控袭击阿富汗大学",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦被指控袭击阿富汗大学”。核心要点：消息人士告诉 BBC，库纳尔省的空袭已造成至少 7 人死亡、75 人受伤。",
+        "titleZh": "马斯克表示 OpenAI 诉讼中慈善捐赠的基础受到威胁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“马斯克表示 OpenAI 诉讼中慈善捐赠的基础受到威胁”。核心要点：关于 OpenAI 的历史和公开承诺的案例可能会对人工智能的未来产生重大影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 16:54:13 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 19:43:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "因裙带关系言论，威尼斯歌剧院解雇了即将上任的音乐总监",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“因裙带关系言论，威尼斯歌剧院解雇了即将上任的音乐总监”。核心要点：自从去年九月宣布任命比阿特丽斯·维内齐 (Beatrice Venezi) 以来，就一直饱受争议，导致乐团成员举行罢工。",
+        "titleZh": "乌克兰第三次袭击袭击俄罗斯炼油厂并促使疏散",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰第三次袭击袭击俄罗斯炼油厂并促使疏散”。核心要点：图阿普谢一座燃烧的炼油厂附近的居民被告知离开，克里姆林宫指责基辅破坏了全球能源市场的稳定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 17:13:35 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 14:32:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印尼致命车祸后，救援人员竞相营救被困火车内的幸存者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印尼致命车祸后，救援人员竞相营救被困火车内的幸存者”。核心要点：周一，两列火车在印度尼西亚首都郊区相撞，造成至少 14 人死亡。",
+        "titleZh": "吉米·金梅尔拿梅拉尼娅·特朗普开玩笑后，美国监管机构将审查迪士尼的广播许可证",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“吉米·金梅尔拿梅拉尼娅·特朗普开玩笑后，美国监管机构将审查迪士尼的广播许可证”。核心要点：此举出台之际，白宫向迪士尼旗下的美国广播公司施压，要求解雇金梅尔，因为他称梅拉尼娅是“即将成为寡妇的人”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 04:18:54 GMT",
-        "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 19:48:49 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "维兹航空老板表示，欧洲航班价格短期内将下降",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“维兹航空老板表示，欧洲航班价格短期内将下降”。核心要点：虽然许多航空公司表示，由于燃油成本高昂，他们正在提高价格，但约瑟夫·瓦拉迪表示，欧洲航空公司正在努力刺激需求",
+        "titleZh": "面部精华液广告因“年轻五岁”广告被禁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“面部精华液广告因“年轻五岁”广告被禁”。核心要点：优色林要求 160 人使用该精华液四个星期，然后说出他们认为自己看起来年轻了多少。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 18:44:10 GMT",
-        "url": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 23:02:15 GMT",
+        "url": "https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我的房客欠 15,000 英镑的租金，但我无法让他们离开房产",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我的房客欠 15,000 英镑的租金，但我无法让他们离开房产”。核心要点：房东告诉英国广播公司新闻，为什么他们担心新法律可能会让驱逐有问题的租户变得更加困难。",
+        "titleZh": "一场新的金融危机可能即将到来——它不会像上次那样发展",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“一场新的金融危机可能即将到来——它不会像上次那样发展”。核心要点：一些警告灯正在闪烁，让一些人怀疑我们是否正处于另一场金融危机的山脚下。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 23:56:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 23:17:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Claire's 关闭了英国和爱尔兰的全部 154 家门店，裁员 1,300 人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Claire's 关闭了英国和爱尔兰的全部 154 家门店，裁员 1,300 人”。核心要点：该连锁店在英国和爱尔兰的所有独立商店均已停止营业。",
+        "titleZh": "阿拉伯联合酋长国退出石油卡特尔欧佩克",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“阿拉伯联合酋长国退出石油卡特尔欧佩克”。核心要点：阿联酋在加入该组织近 60 年后做出的决定被视为该石油卡特尔的潜在丧钟。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 16:36:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 16:24:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我的 20,000 英镑被盗，必须遵守 13 个月的欺诈报告规则才能将其拿回来”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我的 20,000 英镑被盗，必须遵守 13 个月的欺诈报告规则才能将其拿回来””。核心要点：莎拉现在已经拿回了钱，但有人呼吁修改向银行报告诈骗的截止日期。",
+        "titleZh": "费萨尔·伊斯兰：为什么阿联酋退出欧佩克是一件大事",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：为什么阿联酋退出欧佩克是一件大事”。核心要点：它对当前的石油封锁影响不大，但可能会改变之后的一切。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 23:03:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cpvxg1vzxzjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 15:55:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "格雷格斯拆除了商店行窃热点地区的橱柜",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“格雷格斯拆除了商店行窃热点地区的橱柜”。核心要点：格雷格斯正在拆除受商店扒手袭击最严重的伦敦商店的展示柜。",
+        "titleZh": "飞行汽车和5分钟充电：中国电动汽车行业在伊朗危机中看到机遇",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“飞行汽车和5分钟充电：中国电动汽车行业在伊朗危机中看到机遇”。核心要点：随着美国和伊朗的冲突导致世界争夺燃料，中国有望从其向电动汽车的快速转变中受益。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Apr 2026 16:48:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c8dldv4lqygo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Apr 2026 22:11:48 GMT",
+        "url": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
