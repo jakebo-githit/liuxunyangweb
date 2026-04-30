@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-04-29T04:38:29.905Z",
+  "updatedAt": "2026-04-30T04:43:40.213Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Ultrasound-Guided Fine-Needle vs. Transjugular Portal Pressure Measurements in Non-Viral, Non-Alcoholic Cirrhosis.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Comparative Study",
-        "authors": "Chen R, Ma L, Liu Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝静脉压力梯度（HVPG）是诊断病毒性和酒精相关性肝硬化患者临床上显着的门静脉高压的金标准，但其准确性在其他病因学中受到限制。 临床提示：本研究旨在评估非酒精性、非病毒相关性失代偿性肝硬化患者使用细针穿刺 (FN-PVP)、直接门静脉导管测量门静脉压的相关性。",
-        "abstract": "Hepatic venous pressure gradient (HVPG) is the gold standard for diagnosing clinically significant portal hypertension in patients with viral- and alcohol-related cirrhosis, but its accuracy is limited in other aetiologies. This study aimed to evaluate the correlation of portal venous pressure measurements in patients with non-alcoholic, non-viral-related decompensated cirrhosis, using fine-needle puncture (FN-PVP), direct portal vein catheterisation (D-PVP) and wedged hepatic vein balloon occlusion (WHVP). This study retrospectively included patients from the author's centre who simultaneously underwent FN-PVP, HVPG and transjugular intrahepatic portosystemic shunt (TIPS) placement for vari...",
-        "pmid": "42047402",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42047402/",
-        "doiUrl": "https://doi.org/10.1111/liv.70650",
-        "url": "https://doi.org/10.1111/liv.70650"
-      },
-      {
-        "title": "Effects of zibotentan and dapagliflozin combined in patients with compensated cirrhosis: A randomized placebo-controlled exploratory study.",
-        "journal": "British journal of clinical pharmacology",
+        "title": "The Alpha-1 Pi*MZ Genotype Is an Independent Risk Factor for Hepatocellular Carcinoma Development in Patients With ACLD.",
+        "journal": "Alimentary pharmacology & therapeutics",
         "pubDate": "2026 May",
-        "studyType": "Journal Article / Randomized Controlled Trial / Clinical Trial, Phase II",
-        "authors": "Garcia-Pagan JC, Gluud LL, Mandorfer M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床试验。核心观点：内皮素 A (ET A ) 受体拮抗剂可能会降低肝硬化相关的门静脉高压 (PH)。 临床提示：它们与液体潴留有关，钠-葡萄糖协同转运蛋白 2 抑制剂 (SGLT2is) 可能会减轻液体潴留。",
-        "abstract": "Endothelin A (ET A ) receptor antagonists may reduce cirrhosis-associated portal hypertension (PH). They are associated with fluid retention, which might be mitigated by sodium-glucose co-transporter 2 inhibitors (SGLT2is). Efficacy, safety and tolerability of combining the selective ET A receptor antagonist zibotentan and the selective SGLT2i dapagliflozin were investigated. Patients with compensated cirrhosis (Child-Pugh A) were randomized 1:1 to zibotentan 2.5 mg plus dapagliflozin 10 mg (zibo/dapa) or placebo in a 6-week parallel, double-blind Phase II study. The absolute change in hepatic venous pressure gradient (HVPG) from baseline to week 6 was evaluated in the full analysis set usin...",
-        "pmid": "41362018",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41362018/",
-        "doiUrl": "https://doi.org/10.1002/bcp.70332",
-        "url": "https://doi.org/10.1002/bcp.70332"
+        "studyType": "Journal Article",
+        "authors": "Balcar L, Semmler G, Scheiner B",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：SERPINA1 Pi*Z 缺乏等位基因的纯合性是 α-1 抗胰蛋白酶缺乏相关肝脏疾病的罪魁祸首，而携带单个 Z 等位基因（例如常见的 Pi*MZ 基因型）是晚期慢性肝病的最强遗传危险因素。 临床提示：SERPINA1 Pi*Z 缺乏等位基因的纯合性是 α-1 抗胰蛋白酶缺乏相关肝脏疾病的罪魁祸首，而携带单个 Z 等位基因（例如常见的 Pi*MZ 基因型）是最强的遗传基因。",
+        "abstract": "Homozygosity for the SERPINA1 Pi*Z deficiency allele is the culprit of alpha-1 antitrypsin deficiency-related liver disease, while harbouring a single Z-allele (e.g., the common Pi*MZ genotype) is the strongest genetic risk factor for advanced chronic liver disease (ACLD) and its progression. However, the impact of the Pi*MZ genotype on hepatocellular carcinoma (HCC) development in patients who have already progressed to ACLD has yet to be established. Thus, we investigated the impact of the Pi*MZ genotype on the development of HCC among longitudinally followed ACLD patients. Patients undergoing hepatic venous pressure gradient (HVPG) measurement and genotyping at the Vienna Hepatic Haemodyn...",
+        "pmid": "41577636",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41577636/",
+        "doiUrl": "https://doi.org/10.1111/apt.70530",
+        "url": "https://doi.org/10.1111/apt.70530"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "科米被控在 Instagram 帖子中威胁特朗普生命",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“科米被控在 Instagram 帖子中威胁特朗普生命”。核心要点：新案件源于前联邦调查局局长发布的一张 2025 年贝壳照片，司法部称该照片呼吁对特朗普实施暴力。",
+        "titleZh": "特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平”。核心要点：Axios报道称，美国中央司令部已准备好对伊朗进行一波“短暂而有力”的打击的计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Apr 2026 00:24:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 04:06:01 GMT",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿拉伯联合酋长国退出石油卡特尔欧佩克",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿拉伯联合酋长国退出石油卡特尔欧佩克”。核心要点：阿联酋在加入该组织近 60 年后做出的决定被视为该石油卡特尔的潜在丧钟。",
+        "titleZh": "科米因在 Instagram 帖子中威胁特朗普生命的指控而自首",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“科米因在 Instagram 帖子中威胁特朗普生命的指控而自首”。核心要点：检察官称，前联邦调查局局长发布的一张 2025 年贝壳照片是在呼吁对特朗普实施暴力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 16:24:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Apr 2026 20:24:48 GMT",
+        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马斯克表示 OpenAI 诉讼中慈善捐赠的基础受到威胁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“马斯克表示 OpenAI 诉讼中慈善捐赠的基础受到威胁”。核心要点：关于 OpenAI 的历史和公开承诺的案例可能会对人工智能的未来产生重大影响。",
+        "titleZh": "邦迪枪击事件调查呼吁枪支改革并加强犹太节日的安全",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“邦迪枪击事件调查呼吁枪支改革并加强犹太节日的安全”。核心要点：一份临时报告称，国家应优先考虑“全国一致”的枪支改革。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 19:43:02 GMT",
-        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 03:08:19 GMT",
+        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰第三次袭击袭击俄罗斯炼油厂并促使疏散",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰第三次袭击袭击俄罗斯炼油厂并促使疏散”。核心要点：图阿普谢一座燃烧的炼油厂附近的居民被告知离开，克里姆林宫指责基辅破坏了全球能源市场的稳定。",
+        "titleZh": "基督城大屠杀凶手推翻定罪的努力失败",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“基督城大屠杀凶手推翻定罪的努力失败”。核心要点：新西兰法院裁定，白人至上主义者布伦顿·塔兰特的上诉“完全没有依据”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 14:32:20 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 04:10:54 GMT",
+        "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "吉米·金梅尔拿梅拉尼娅·特朗普开玩笑后，美国监管机构将审查迪士尼的广播许可证",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“吉米·金梅尔拿梅拉尼娅·特朗普开玩笑后，美国监管机构将审查迪士尼的广播许可证”。核心要点：此举出台之际，白宫向迪士尼旗下的美国广播公司施压，要求解雇金梅尔，因为他称梅拉尼娅是“即将成为寡妇的人”。",
+        "titleZh": "赫格斯在近六个小时的听证会上与议员就伊朗战争发生冲突",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格斯在近六个小时的听证会上与议员就伊朗战争发生冲突”。核心要点：美国国防部长皮特·赫格斯在长达近六个小时的听证会上与民主党议员发生争执，这是他自伊朗战争爆发以来首次在宣誓后接受质询。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 19:48:49 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Apr 2026 22:22:18 GMT",
+        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "面部精华液广告因“年轻五岁”广告被禁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“面部精华液广告因“年轻五岁”广告被禁”。核心要点：优色林要求 160 人使用该精华液四个星期，然后说出他们认为自己看起来年轻了多少。",
+        "titleZh": "特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平”。核心要点：Axios报道称，美国中央司令部已准备好对伊朗进行一波“短暂而有力”的打击的计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 23:02:15 GMT",
-        "url": "https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 04:06:01 GMT",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一场新的金融危机可能即将到来——它不会像上次那样发展",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“一场新的金融危机可能即将到来——它不会像上次那样发展”。核心要点：一些警告灯正在闪烁，让一些人怀疑我们是否正处于另一场金融危机的山脚下。",
+        "titleZh": "由于伊朗战争的不确定性持续存在，预计利率将维持不变",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争的不确定性持续存在，预计利率将维持不变”。核心要点：当分析师判断伊朗战争的经济影响时，未来的基本利率变化很难预测。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 23:17:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT",
+        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿拉伯联合酋长国退出石油卡特尔欧佩克",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“阿拉伯联合酋长国退出石油卡特尔欧佩克”。核心要点：阿联酋在加入该组织近 60 年后做出的决定被视为该石油卡特尔的潜在丧钟。",
+        "titleZh": "马斯克指责 OpenAI 律师试图在好斗的证词中“欺骗”他",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“马斯克指责 OpenAI 律师试图在好斗的证词中“欺骗”他”。核心要点：埃隆·马斯克 (Elon Musk) 在审判的第三天因对萨姆·奥尔特曼 (Sam Altman) 和 OpenAI 的诉讼而接受了盘问。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 16:24:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Apr 2026 23:18:08 GMT",
+        "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "费萨尔·伊斯兰：为什么阿联酋退出欧佩克是一件大事",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：为什么阿联酋退出欧佩克是一件大事”。核心要点：它对当前的石油封锁影响不大，但可能会改变之后的一切。",
+        "titleZh": "随着投资者权衡大型科技公司的人工智能支出热潮，Meta 股价下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着投资者权衡大型科技公司的人工智能支出热潮，Meta 股价下跌”。核心要点：Meta、亚马逊、Alphabet 和微软均在周三同一时间公布了财报。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 15:55:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 00:48:47 GMT",
+        "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "飞行汽车和5分钟充电：中国电动汽车行业在伊朗危机中看到机遇",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“飞行汽车和5分钟充电：中国电动汽车行业在伊朗危机中看到机遇”。核心要点：随着美国和伊朗的冲突导致世界争夺燃料，中国有望从其向电动汽车的快速转变中受益。",
+        "titleZh": "杰罗姆·鲍威尔作为美联储主席的最终利率决定的四个关键要点",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“杰罗姆·鲍威尔作为美联储主席的最终利率决定的四个关键要点”。核心要点：鲍威尔在维持利率后举行的新闻发布会涵盖了美以与伊朗的战争、通货膨胀、法律攻击和美联储的独立性。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Apr 2026 22:11:48 GMT",
-        "url": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
