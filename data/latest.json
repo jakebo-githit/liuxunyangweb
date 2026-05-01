@@ -1,106 +1,132 @@
 {
-  "updatedAt": "2026-04-30T04:43:40.213Z",
+  "updatedAt": "2026-05-01T04:57:17.419Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "The Alpha-1 Pi*MZ Genotype Is an Independent Risk Factor for Hepatocellular Carcinoma Development in Patients With ACLD.",
-        "journal": "Alimentary pharmacology & therapeutics",
-        "pubDate": "2026 May",
+        "title": "Endoscopic Thrombin Injection for Gastric Variceal Bleeding: A Systematic Review and Meta-Analysis of Observational and Trial Data.",
+        "journal": "DEN open",
+        "pubDate": "2027 Apr",
+        "studyType": "Journal Article / Review",
+        "authors": "Xu W, Zhan DQ, Wang RL",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 417）。核心观点：使用 RevMan 5.3 软件进行荟萃分析，通过偏倚风险图和漏斗图评估偏倚风险。 临床提示：两名研究人员独立筛选并提取了从数据库建库到2025年5月发表的所有相关原创文章中的数据。",
+        "abstract": "The safety of endoscopic thrombin injection (ETI) for treating the bleeding of gastric varix (GV) in patients with portal hypertension requires further evaluation. This meta-analysis systematically reviews the available evidence on the efficacy and safety of ETI for GV bleeding. Two researchers independently screened and extracted data from all relevant original articles published from database inception to May 2025. Study quality was assessed using the Methodological Index for Non-Randomized Studies tool. Meta-analysis was performed using RevMan 5.3 software, with risk of bias assessed via risk of bias plots and funnel plots. Thirteen studies involving 417 patients were included. Meta-analy...",
+        "pmid": "42058263",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42058263/",
+        "doiUrl": "https://doi.org/10.1002/deo2.70335",
+        "url": "https://doi.org/10.1002/deo2.70335"
+      },
+      {
+        "title": "Resolved HBV Infection Is Not Associated With Liver-Related Outcomes in Survival Analysis of Caucasians After HCV Cure.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Balcar L, Semmler G, Scheiner B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：SERPINA1 Pi*Z 缺乏等位基因的纯合性是 α-1 抗胰蛋白酶缺乏相关肝脏疾病的罪魁祸首，而携带单个 Z 等位基因（例如常见的 Pi*MZ 基因型）是晚期慢性肝病的最强遗传危险因素。 临床提示：SERPINA1 Pi*Z 缺乏等位基因的纯合性是 α-1 抗胰蛋白酶缺乏相关肝脏疾病的罪魁祸首，而携带单个 Z 等位基因（例如常见的 Pi*MZ 基因型）是最强的遗传基因。",
-        "abstract": "Homozygosity for the SERPINA1 Pi*Z deficiency allele is the culprit of alpha-1 antitrypsin deficiency-related liver disease, while harbouring a single Z-allele (e.g., the common Pi*MZ genotype) is the strongest genetic risk factor for advanced chronic liver disease (ACLD) and its progression. However, the impact of the Pi*MZ genotype on hepatocellular carcinoma (HCC) development in patients who have already progressed to ACLD has yet to be established. Thus, we investigated the impact of the Pi*MZ genotype on the development of HCC among longitudinally followed ACLD patients. Patients undergoing hepatic venous pressure gradient (HVPG) measurement and genotyping at the Vienna Hepatic Haemodyn...",
-        "pmid": "41577636",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41577636/",
-        "doiUrl": "https://doi.org/10.1111/apt.70530",
-        "url": "https://doi.org/10.1111/apt.70530"
+        "authors": "Wilhelm LM, Stoehr A, Buggisch P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：既往接触过乙型肝炎病毒 (HBV) 可能会影响发生肝细胞癌 (HCC) 和其他肝脏相关事件 (LRE) 的风险，特别是在 HCV 治愈后的患者中。 临床提示：之前的研究还没有定论，欧洲关于这一主题的大型研究也很少。",
+        "abstract": "Previous exposure to hepatitis B virus (HBV) may influence the risk of developing hepatocellular carcinoma (HCC) and other liver-related events (LRE), in particular in patients after HCV cure. Previous studies were not conclusive and there are only few large studies on this topic from Europe. We analysed clinical endpoints (≥ 3-point increase in MELD score, oesophageal variceal bleeding, ascites, encephalopathy, liver transplantation, death, with/without HCC; HCC alone) in patients cured from HCV. Data were obtained from the German Hepatitis C Registry. Patients after organ transplantation, a history of HCC, HIV co-infection, or HBsAg positivity were excluded. A subanalysis was conducted in ...",
+        "pmid": "42059159",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42059159/",
+        "doiUrl": "https://doi.org/10.1111/liv.70620",
+        "url": "https://doi.org/10.1111/liv.70620"
+      },
+      {
+        "title": "Acute-on-chronic liver failure: pathophysiological mechanisms and clinical management.",
+        "journal": "Nature reviews. Gastroenterology & hepatology",
+        "pubDate": "2026 May",
+        "studyType": "Journal Article / Review",
+        "authors": "Sarin SK, Choudhury A, Kumar A",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：慢性肝衰竭（ACLF）是一种复杂的综合征，其特征是急性肝代偿失调叠加在先前存在的慢性肝病或肝硬化上，与门静脉高压急性恶化、感染风险增加有关。 临床提示：慢性肝衰竭（ACLF）是一种复杂的综合征，其特征是急性肝代偿失调叠加在先前存在的慢性肝病或肝硬化上，与门静脉急性恶化有关",
+        "abstract": "Acute-on-chronic liver failure (ACLF) is a complex syndrome characterized by acute hepatic decompensation superimposed on pre-existing chronic liver disease or cirrhosis that is associated with acute worsening of portal hypertension, increased risk of infection, organ dysfunction and high short-term mortality. This Review provides a comprehensive update on definitions, pathophysiological mechanisms, clinical presentation and management of ACLF. The severe hepatic injury in ACLF triggers systemic inflammation, which is driven by damage-associated molecular patterns, gut-derived microbial products, and immunometabolic and functional dysregulation. Immune dysfunction can range from hyperinflamm...",
+        "pmid": "41486194",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41486194/",
+        "doiUrl": "https://doi.org/10.1038/s41575-025-01159-4",
+        "url": "https://doi.org/10.1038/s41575-025-01159-4"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平”。核心要点：Axios报道称，美国中央司令部已准备好对伊朗进行一波“短暂而有力”的打击的计划。",
+        "titleZh": "一名男子因谋杀女孩而被捕，澳大利亚小镇发生暴力事件",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“一名男子因谋杀女孩而被捕，澳大利亚小镇发生暴力事件”。核心要点：医院外发生骚乱，一名涉嫌谋杀五岁女孩的男子正在接受治疗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 04:06:01 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 04:08:19 GMT",
+        "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "科米因在 Instagram 帖子中威胁特朗普生命的指控而自首",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“科米因在 Instagram 帖子中威胁特朗普生命的指控而自首”。核心要点：检察官称，前联邦调查局局长发布的一张 2025 年贝壳照片是在呼吁对特朗普实施暴力。",
+        "titleZh": "缅甸前领导人昂山素季转为软禁，军方称",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“缅甸前领导人昂山素季转为软禁，军方称”。核心要点：这位诺贝尔和平奖获得者自 2021 年在军事政变中被赶下台以来一直被拘留。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Apr 2026 20:24:48 GMT",
-        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 04:11:53 GMT",
+        "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "邦迪枪击事件调查呼吁枪支改革并加强犹太节日的安全",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“邦迪枪击事件调查呼吁枪支改革并加强犹太节日的安全”。核心要点：一份临时报告称，国家应优先考虑“全国一致”的枪支改革。",
+        "titleZh": "威尼斯双年展评审团在展览开始前几天辞职",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“威尼斯双年展评审团在展览开始前几天辞职”。核心要点：在此之前，自全面入侵乌克兰以来，俄罗斯回归的紧张局势首次加剧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 03:08:19 GMT",
-        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 23:44:00 GMT",
+        "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "基督城大屠杀凶手推翻定罪的努力失败",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“基督城大屠杀凶手推翻定罪的努力失败”。核心要点：新西兰法院裁定，白人至上主义者布伦顿·塔兰特的上诉“完全没有依据”。",
+        "titleZh": "布兰妮·斯皮尔斯在加州被指控酒后驾车",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“布兰妮·斯皮尔斯在加州被指控酒后驾车”。核心要点：这位流行歌星面临一项酒后驾车和吸毒后驾驶的轻罪指控。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 04:10:54 GMT",
-        "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 21:46:18 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "赫格斯在近六个小时的听证会上与议员就伊朗战争发生冲突",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格斯在近六个小时的听证会上与议员就伊朗战争发生冲突”。核心要点：美国国防部长皮特·赫格斯在长达近六个小时的听证会上与民主党议员发生争执，这是他自伊朗战争爆发以来首次在宣誓后接受质询。",
+        "titleZh": "中国取消对除一个非洲国家外的所有非洲国家的关税",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“中国取消对除一个非洲国家外的所有非洲国家的关税”。核心要点：分析人士表示，零关税制度增强了中国的软实力，但可能会导致收益不均。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Apr 2026 22:22:18 GMT",
-        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 00:02:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普将听取有关伊朗新选择的简报后油价跃升至 2022 年以来最高水平”。核心要点：Axios报道称，美国中央司令部已准备好对伊朗进行一波“短暂而有力”的打击的计划。",
+        "titleZh": "“有些信我不想打开”：未付债务法庭案件增加",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““有些信我不想打开”：未付债务法庭案件增加”。核心要点：数据显示，今年第一季度县法院判决数量比去年增加了17.5%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 04:06:01 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 23:07:00 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于伊朗战争的不确定性持续存在，预计利率将维持不变",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争的不确定性持续存在，预计利率将维持不变”。核心要点：当分析师判断伊朗战争的经济影响时，未来的基本利率变化很难预测。",
+        "titleZh": "化肥老板称战争使每周 100 亿顿饭面临风险",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“化肥老板称战争使每周 100 亿顿饭面临风险”。核心要点：雅拉公司的老板表示，伊朗冲突造成的化肥短缺可能会降低农作物产量并推高价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Apr 2026 23:01:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马斯克指责 OpenAI 律师试图在好斗的证词中“欺骗”他",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“马斯克指责 OpenAI 律师试图在好斗的证词中“欺骗”他”。核心要点：埃隆·马斯克 (Elon Musk) 在审判的第三天因对萨姆·奥尔特曼 (Sam Altman) 和 OpenAI 的诉讼而接受了盘问。",
+        "titleZh": "苹果公司老板蒂姆·库克离职后称赞 iPhone 需求“非凡”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果公司老板蒂姆·库克离职后称赞 iPhone 需求“非凡””。核心要点：库克准备在执掌公司 15 年后辞职，将权力移交给约翰·特努斯 (John Ternus)。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Apr 2026 23:18:08 GMT",
-        "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 23:04:43 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着投资者权衡大型科技公司的人工智能支出热潮，Meta 股价下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着投资者权衡大型科技公司的人工智能支出热潮，Meta 股价下跌”。核心要点：Meta、亚马逊、Alphabet 和微软均在周三同一时间公布了财报。",
+        "titleZh": "《租客权利法》对租户和房东意味着什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“《租客权利法》对租户和房东意味着什么”。核心要点：英格兰30年来最大规模的租房规则调整影响了数百万人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 00:48:47 GMT",
-        "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Apr 2026 16:42:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "杰罗姆·鲍威尔作为美联储主席的最终利率决定的四个关键要点",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“杰罗姆·鲍威尔作为美联储主席的最终利率决定的四个关键要点”。核心要点：鲍威尔在维持利率后举行的新闻发布会涵盖了美以与伊朗的战争、通货膨胀、法律攻击和美联储的独立性。",
+        "titleZh": "Chippies 将鲶鱼作为“传统鱼类晚餐”出售",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Chippies 将鲶鱼作为“传统鱼类晚餐”出售”。核心要点：英国广播公司 (BBC) 的一项调查发现，薯条店老板将更便宜的品种冒充为“传统炸鱼薯条”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Apr 2026 20:01:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 00:11:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
