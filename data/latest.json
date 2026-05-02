@@ -1,132 +1,132 @@
 {
-  "updatedAt": "2026-05-01T04:57:17.419Z",
+  "updatedAt": "2026-05-02T04:26:52.324Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Endoscopic Thrombin Injection for Gastric Variceal Bleeding: A Systematic Review and Meta-Analysis of Observational and Trial Data.",
-        "journal": "DEN open",
-        "pubDate": "2027 Apr",
-        "studyType": "Journal Article / Review",
-        "authors": "Xu W, Zhan DQ, Wang RL",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 417）。核心观点：使用 RevMan 5.3 软件进行荟萃分析，通过偏倚风险图和漏斗图评估偏倚风险。 临床提示：两名研究人员独立筛选并提取了从数据库建库到2025年5月发表的所有相关原创文章中的数据。",
-        "abstract": "The safety of endoscopic thrombin injection (ETI) for treating the bleeding of gastric varix (GV) in patients with portal hypertension requires further evaluation. This meta-analysis systematically reviews the available evidence on the efficacy and safety of ETI for GV bleeding. Two researchers independently screened and extracted data from all relevant original articles published from database inception to May 2025. Study quality was assessed using the Methodological Index for Non-Randomized Studies tool. Meta-analysis was performed using RevMan 5.3 software, with risk of bias assessed via risk of bias plots and funnel plots. Thirteen studies involving 417 patients were included. Meta-analy...",
-        "pmid": "42058263",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42058263/",
-        "doiUrl": "https://doi.org/10.1002/deo2.70335",
-        "url": "https://doi.org/10.1002/deo2.70335"
-      },
-      {
-        "title": "Resolved HBV Infection Is Not Associated With Liver-Related Outcomes in Survival Analysis of Caucasians After HCV Cure.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Jun",
+        "title": "Efficacy and safety of belapectin for the prevention of esophageal varices in patients with MASH cirrhosis: The randomized, placebo-controlled NAVIGATE trial.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 May 1",
         "studyType": "Journal Article",
-        "authors": "Wilhelm LM, Stoehr A, Buggisch P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：既往接触过乙型肝炎病毒 (HBV) 可能会影响发生肝细胞癌 (HCC) 和其他肝脏相关事件 (LRE) 的风险，特别是在 HCV 治愈后的患者中。 临床提示：之前的研究还没有定论，欧洲关于这一主题的大型研究也很少。",
-        "abstract": "Previous exposure to hepatitis B virus (HBV) may influence the risk of developing hepatocellular carcinoma (HCC) and other liver-related events (LRE), in particular in patients after HCV cure. Previous studies were not conclusive and there are only few large studies on this topic from Europe. We analysed clinical endpoints (≥ 3-point increase in MELD score, oesophageal variceal bleeding, ascites, encephalopathy, liver transplantation, death, with/without HCC; HCC alone) in patients cured from HCV. Data were obtained from the German Hepatitis C Registry. Patients after organ transplantation, a history of HCC, HIV co-infection, or HBsAg positivity were excluded. A subanalysis was conducted in ...",
-        "pmid": "42059159",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42059159/",
-        "doiUrl": "https://doi.org/10.1111/liv.70620",
-        "url": "https://doi.org/10.1111/liv.70620"
+        "authors": "Chalasani N, Vuppalanchi R, Noureddin M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Belapectin 可减少 MASH 肝硬化患者亚组中静脉曲张的发展。 临床提示：我们报告了贝拉菌素对基线时无静脉曲张的 MASH 肝硬化和门静脉高压患者的疗效和安全性。",
+        "abstract": "Belapectin reduced variceal development in a subgroup of patients with MASH cirrhosis. We report the efficacy and safety of belapectin in patients with MASH cirrhosis and portal hypertension without varices at baseline. NAVIGATE was a global Phase 2b trial. Patients were randomized to intravenous (IV) belapectin 2 or 4 mg/kg lean body weight or placebo for 18 months stratified by type 2 diabetes. The primary endpoint was the incidence of varices with esophagogastroduodenoscopy (EGD) or a composite endpoint (new varices, intercurrent events or discontinuation) at 18 months with belapectin versus placebo in the Full Analysis Set (FAS). In a pre-specified analysis, new varices were evaluated in...",
+        "pmid": "42065864",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42065864/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001774",
+        "url": "https://doi.org/10.1097/HEP.0000000000001774"
       },
       {
-        "title": "Acute-on-chronic liver failure: pathophysiological mechanisms and clinical management.",
-        "journal": "Nature reviews. Gastroenterology & hepatology",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article / Review",
-        "authors": "Sarin SK, Choudhury A, Kumar A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：慢性肝衰竭（ACLF）是一种复杂的综合征，其特征是急性肝代偿失调叠加在先前存在的慢性肝病或肝硬化上，与门静脉高压急性恶化、感染风险增加有关。 临床提示：慢性肝衰竭（ACLF）是一种复杂的综合征，其特征是急性肝代偿失调叠加在先前存在的慢性肝病或肝硬化上，与门静脉急性恶化有关",
-        "abstract": "Acute-on-chronic liver failure (ACLF) is a complex syndrome characterized by acute hepatic decompensation superimposed on pre-existing chronic liver disease or cirrhosis that is associated with acute worsening of portal hypertension, increased risk of infection, organ dysfunction and high short-term mortality. This Review provides a comprehensive update on definitions, pathophysiological mechanisms, clinical presentation and management of ACLF. The severe hepatic injury in ACLF triggers systemic inflammation, which is driven by damage-associated molecular patterns, gut-derived microbial products, and immunometabolic and functional dysregulation. Immune dysfunction can range from hyperinflamm...",
-        "pmid": "41486194",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41486194/",
-        "doiUrl": "https://doi.org/10.1038/s41575-025-01159-4",
-        "url": "https://doi.org/10.1038/s41575-025-01159-4"
+        "title": "Evaluation of liver function and related factors in patients with chronic hepatitis B-related cirrhosis complicated with esophagogastric variceal bleeding.",
+        "journal": "Irish journal of medical science",
+        "pubDate": "2026 May 1",
+        "studyType": "Journal Article",
+        "authors": "Feng Y, Li B, Zhu Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在评估慢性乙型肝炎（CHB）相关肝硬化并发食管胃静脉曲张出血（EGVB）患者的肝功能及相关因素。 临床提示：从多中心数据库中筛选出CHB相关肝硬化并发EGVB的患者。",
+        "abstract": "This study intended to evaluate liver function and related factors in patients with chronic hepatitis B (CHB)-related cirrhosis complicated with esophagogastric variceal bleeding (EGVB). Patients with CHB-related cirrhosis complicated with EGVB were screened from the multicenter database. Patients were divided into Child-Pugh A, B, and C based on Child-Pugh scores. Clinical characteristics and laboratory findings were collected to explore factors affecting good liver function (Child-Pugh A: good liver function; Child-Pugh B or C: poor liver function). A total of 356 eligible patients were included after applying predefined inclusion and exclusion criteria from an initial multicenter cohort, ...",
+        "pmid": "42065812",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42065812/",
+        "doiUrl": "https://doi.org/10.1007/s11845-026-04425-9",
+        "url": "https://doi.org/10.1007/s11845-026-04425-9"
+      },
+      {
+        "title": "Computed tomography imaging features aid in identifying cirrhotic patients with poor response to endoscopic therapy for gastroesophageal variceal hemorrhage.",
+        "journal": "BMC gastroenterology",
+        "pubDate": "2026 May 1",
+        "studyType": "Journal Article",
+        "authors": "Rao C, Wu L, Huang X",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 158）。核心观点：探讨计算机断层扫描 (CT) 成像特征是否有助于识别对胃食管静脉曲张出血 (GVH) 内镜治疗反应不佳的肝硬化患者。 临床提示：回顾性纳入有 GVH 内镜治疗史的肝硬化患者 (n = 158)。",
+        "abstract": "To investigate whether computed tomography (CT) imaging features can aid in identifying cirrhotic patients with poor response to endoscopic therapy for gastroesophageal variceal hemorrhage (GVH). Cirrhotic patients with a history of endoscopic therapy for GVH were retrospectively enrolled (n = 158). Pre-endoscopic data, hepatic venous pressure gradient (HVPG), and endoscopic and CT imaging data were collected and analyzed. The cross-sectional area of skeletal muscle (SMA) at the level of the third lumbar vertebra was measured, and the skeletal muscle index (SMI) was calculated by dividing SMA by the square of the patient's height. Spleen volume was measured using a semi-automatic segmentatio...",
+        "pmid": "42062940",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42062940/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-04873-8",
+        "url": "https://doi.org/10.1186/s12876-026-04873-8"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "一名男子因谋杀女孩而被捕，澳大利亚小镇发生暴力事件",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“一名男子因谋杀女孩而被捕，澳大利亚小镇发生暴力事件”。核心要点：医院外发生骚乱，一名涉嫌谋杀五岁女孩的男子正在接受治疗。",
+        "titleZh": "因特朗普与默茨发生争执，美国拟将驻德美军削减5000人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“因特朗普与默茨发生争执，美国拟将驻德美军削减5000人”。核心要点：减少美国在德国部署的决定是在这两个盟友因伊朗问题发生争执之际做出的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 04:08:19 GMT",
-        "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 22:35:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "缅甸前领导人昂山素季转为软禁，军方称",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“缅甸前领导人昂山素季转为软禁，军方称”。核心要点：这位诺贝尔和平奖获得者自 2021 年在军事政变中被赶下台以来一直被拘留。",
+        "titleZh": "特朗普告诉国会停火意味着他不需要他们批准伊朗战争",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普告诉国会停火意味着他不需要他们批准伊朗战争”。核心要点：总统写道，由于停火，敌对行动“已经终止”，并称他不需要国会授权。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 04:11:53 GMT",
-        "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 02 May 2026 00:41:43 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "威尼斯双年展评审团在展览开始前几天辞职",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“威尼斯双年展评审团在展览开始前几天辞职”。核心要点：在此之前，自全面入侵乌克兰以来，俄罗斯回归的紧张局势首次加剧。",
+        "titleZh": "特朗普声称其他总统藐视战争权力法。这是一个混合的记录",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普声称其他总统藐视战争权力法。这是一个混合的记录”。核心要点：布什和里根都获得了战争授权，但奥巴马和克林顿回避了这一要求。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 23:44:00 GMT",
-        "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 02 May 2026 02:43:48 GMT",
+        "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "布兰妮·斯皮尔斯在加州被指控酒后驾车",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“布兰妮·斯皮尔斯在加州被指控酒后驾车”。核心要点：这位流行歌星面临一项酒后驾车和吸毒后驾驶的轻罪指控。",
+        "titleZh": "化肥老板表示，伊朗战争导致数十亿粮食面临风险",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“化肥老板表示，伊朗战争导致数十亿粮食面临风险”。核心要点：雅拉公司的老板表示，伊朗冲突造成的化肥短缺可能会降低农作物产量并推高价格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 21:46:18 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 13:12:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国取消对除一个非洲国家外的所有非洲国家的关税",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“中国取消对除一个非洲国家外的所有非洲国家的关税”。核心要点：分析人士表示，零关税制度增强了中国的软实力，但可能会导致收益不均。",
+        "titleZh": "澳大利亚希望成为第一个消除癌症的国家——可以吗？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚希望成为第一个消除癌症的国家——可以吗？”。核心要点：澳大利亚首次没有记录到 25 岁以下女性中出现新的宫颈癌病例。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 00:02:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 19:30:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“有些信我不想打开”：未付债务法庭案件增加",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““有些信我不想打开”：未付债务法庭案件增加”。核心要点：数据显示，今年第一季度县法院判决数量比去年增加了17.5%。",
+        "titleZh": "特朗普称将把欧盟汽车关税提高至25%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普称将把欧盟汽车关税提高至25%”。核心要点：根据去年 7 月谈判达成的协议，目前从欧盟进入美国的商品征收的关税为 15%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 23:07:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 19:42:56 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "化肥老板称战争使每周 100 亿顿饭面临风险",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“化肥老板称战争使每周 100 亿顿饭面临风险”。核心要点：雅拉公司的老板表示，伊朗冲突造成的化肥短缺可能会降低农作物产量并推高价格。",
+        "titleZh": "五角大楼表示美军将成为一支“人工智能优先”的战斗部队",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“五角大楼表示美军将成为一支“人工智能优先”的战斗部队”。核心要点：美国军方在扩大人工智能能力的同时，已与大型科技公司签订了八份新合同。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 23:08:09 GMT",
-        "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 21:09:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "苹果公司老板蒂姆·库克离职后称赞 iPhone 需求“非凡”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果公司老板蒂姆·库克离职后称赞 iPhone 需求“非凡””。核心要点：库克准备在执掌公司 15 年后辞职，将权力移交给约翰·特努斯 (John Ternus)。",
+        "titleZh": "抵押贷款、就业和能源账单——伊朗战争将如何影响您的金钱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“抵押贷款、就业和能源账单——伊朗战争将如何影响您的金钱”。核心要点：英国央行的最新报告揭示了一些有趣的细节，说明伊朗战争将如何影响我们的财务状况。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 23:04:43 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 21:16:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "《租客权利法》对租户和房东意味着什么",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“《租客权利法》对租户和房东意味着什么”。核心要点：英格兰30年来最大规模的租房规则调整影响了数百万人。",
+        "titleZh": "被 Cote 啤酒店老板救出的真正的希腊人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“被 Cote 啤酒店老板救出的真正的希腊人”。核心要点：这家地中海连锁店的 28 家门店中，除 9 家外，其余全部都被家族企业 Karali 集团接管。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Apr 2026 16:42:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 17:03:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c93xqnlq33qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Chippies 将鲶鱼作为“传统鱼类晚餐”出售",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Chippies 将鲶鱼作为“传统鱼类晚餐”出售”。核心要点：英国广播公司 (BBC) 的一项调查发现，薯条店老板将更便宜的品种冒充为“传统炸鱼薯条”。",
+        "titleZh": "Crayola 绘儿乐玩具因可能受到石棉污染而被召回",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Crayola 绘儿乐玩具因可能受到石棉污染而被召回”。核心要点：政府表示，人们应立即停止使用这些产品，并将其放在儿童接触不到的地方。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 00:11:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 14:58:38 GMT",
+        "url": "https://www.bbc.com/news/articles/cdjp3dlkzwwo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
