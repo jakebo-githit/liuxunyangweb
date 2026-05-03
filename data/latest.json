@@ -1,93 +1,69 @@
 {
-  "updatedAt": "2026-05-02T04:26:52.324Z",
+  "updatedAt": "2026-05-03T04:49:51.651Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Efficacy and safety of belapectin for the prevention of esophageal varices in patients with MASH cirrhosis: The randomized, placebo-controlled NAVIGATE trial.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article",
-        "authors": "Chalasani N, Vuppalanchi R, Noureddin M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Belapectin 可减少 MASH 肝硬化患者亚组中静脉曲张的发展。 临床提示：我们报告了贝拉菌素对基线时无静脉曲张的 MASH 肝硬化和门静脉高压患者的疗效和安全性。",
-        "abstract": "Belapectin reduced variceal development in a subgroup of patients with MASH cirrhosis. We report the efficacy and safety of belapectin in patients with MASH cirrhosis and portal hypertension without varices at baseline. NAVIGATE was a global Phase 2b trial. Patients were randomized to intravenous (IV) belapectin 2 or 4 mg/kg lean body weight or placebo for 18 months stratified by type 2 diabetes. The primary endpoint was the incidence of varices with esophagogastroduodenoscopy (EGD) or a composite endpoint (new varices, intercurrent events or discontinuation) at 18 months with belapectin versus placebo in the Full Analysis Set (FAS). In a pre-specified analysis, new varices were evaluated in...",
-        "pmid": "42065864",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42065864/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001774",
-        "url": "https://doi.org/10.1097/HEP.0000000000001774"
-      },
-      {
-        "title": "Evaluation of liver function and related factors in patients with chronic hepatitis B-related cirrhosis complicated with esophagogastric variceal bleeding.",
-        "journal": "Irish journal of medical science",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article",
-        "authors": "Feng Y, Li B, Zhu Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在评估慢性乙型肝炎（CHB）相关肝硬化并发食管胃静脉曲张出血（EGVB）患者的肝功能及相关因素。 临床提示：从多中心数据库中筛选出CHB相关肝硬化并发EGVB的患者。",
-        "abstract": "This study intended to evaluate liver function and related factors in patients with chronic hepatitis B (CHB)-related cirrhosis complicated with esophagogastric variceal bleeding (EGVB). Patients with CHB-related cirrhosis complicated with EGVB were screened from the multicenter database. Patients were divided into Child-Pugh A, B, and C based on Child-Pugh scores. Clinical characteristics and laboratory findings were collected to explore factors affecting good liver function (Child-Pugh A: good liver function; Child-Pugh B or C: poor liver function). A total of 356 eligible patients were included after applying predefined inclusion and exclusion criteria from an initial multicenter cohort, ...",
-        "pmid": "42065812",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42065812/",
-        "doiUrl": "https://doi.org/10.1007/s11845-026-04425-9",
-        "url": "https://doi.org/10.1007/s11845-026-04425-9"
-      },
-      {
-        "title": "Computed tomography imaging features aid in identifying cirrhotic patients with poor response to endoscopic therapy for gastroesophageal variceal hemorrhage.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 May 1",
-        "studyType": "Journal Article",
-        "authors": "Rao C, Wu L, Huang X",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 158）。核心观点：探讨计算机断层扫描 (CT) 成像特征是否有助于识别对胃食管静脉曲张出血 (GVH) 内镜治疗反应不佳的肝硬化患者。 临床提示：回顾性纳入有 GVH 内镜治疗史的肝硬化患者 (n = 158)。",
-        "abstract": "To investigate whether computed tomography (CT) imaging features can aid in identifying cirrhotic patients with poor response to endoscopic therapy for gastroesophageal variceal hemorrhage (GVH). Cirrhotic patients with a history of endoscopic therapy for GVH were retrospectively enrolled (n = 158). Pre-endoscopic data, hepatic venous pressure gradient (HVPG), and endoscopic and CT imaging data were collected and analyzed. The cross-sectional area of skeletal muscle (SMA) at the level of the third lumbar vertebra was measured, and the skeletal muscle index (SMI) was calculated by dividing SMA by the square of the patient's height. Spleen volume was measured using a semi-automatic segmentatio...",
-        "pmid": "42062940",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42062940/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-04873-8",
-        "url": "https://doi.org/10.1186/s12876-026-04873-8"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "因特朗普与默茨发生争执，美国拟将驻德美军削减5000人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“因特朗普与默茨发生争执，美国拟将驻德美军削减5000人”。核心要点：减少美国在德国部署的决定是在这两个盟友因伊朗问题发生争执之际做出的。",
+        "titleZh": "德国称美国撤军是“可预见的”，特朗普警告称将进一步“削减”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“德国称美国撤军是“可预见的”，特朗普警告称将进一步“削减””。核心要点：在美国，两名共和党高级人士对特朗普总统撤出 5000 名士兵的决定表示担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 22:35:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 03 May 2026 04:09:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普告诉国会停火意味着他不需要他们批准伊朗战争",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普告诉国会停火意味着他不需要他们批准伊朗战争”。核心要点：总统写道，由于停火，敌对行动“已经终止”，并称他不需要国会授权。",
+        "titleZh": "伊朗战争以令人惊讶的方式增强了乌克兰的实力。与俄罗斯的停火能否更接近？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争以令人惊讶的方式增强了乌克兰的实力。与俄罗斯的停火能否更接近？”。核心要点：泽连斯基总统一直在访问海湾地区，以展示该国的军事智慧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 00:41:43 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普声称其他总统藐视战争权力法。这是一个混合的记录",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普声称其他总统藐视战争权力法。这是一个混合的记录”。核心要点：布什和里根都获得了战争授权，但奥巴马和克林顿回避了这一要求。",
+        "titleZh": "秘密网络将星链技术走私到伊朗以应对互联网中断",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“秘密网络将星链技术走私到伊朗以应对互联网中断”。核心要点：萨汉德告诉英国广播公司国际台，他向伊朗发送卫星互联网终端，以帮助展示“真实情况”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 02:43:48 GMT",
-        "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 02 May 2026 23:17:17 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "化肥老板表示，伊朗战争导致数十亿粮食面临风险",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“化肥老板表示，伊朗战争导致数十亿粮食面临风险”。核心要点：雅拉公司的老板表示，伊朗冲突造成的化肥短缺可能会降低农作物产量并推高价格。",
+        "titleZh": "被监禁的伊朗诺贝尔奖获得者家人表示健康状况恶化，令人担忧",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“被监禁的伊朗诺贝尔奖获得者家人表示健康状况恶化，令人担忧”。核心要点：周五，她的家人表示，54 岁的她的健康状况急剧恶化，已被从监狱送往当地一家医院。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 13:12:10 GMT",
-        "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 02 May 2026 17:55:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "澳大利亚希望成为第一个消除癌症的国家——可以吗？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚希望成为第一个消除癌症的国家——可以吗？”。核心要点：澳大利亚首次没有记录到 25 岁以下女性中出现新的宫颈癌病例。",
+        "titleZh": "美国威胁航运公司如果向伊朗支付通行费将受到制裁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国威胁航运公司如果向伊朗支付通行费将受到制裁”。核心要点：这一警告发出之际，唐纳德·特朗普总统表示，他对伊朗最新的和平协议提议“并不兴奋”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 19:30:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 02 May 2026 14:18:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "根据新计划，航空公司可以因燃料短缺而提前取消航班",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“根据新计划，航空公司可以因燃料短缺而提前取消航班”。核心要点：部长们希望此举有助于避免今年夏天乘客因中东燃料供应而在最后一刻取消航班。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 02 May 2026 21:35:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "救援谈判破裂后精神航空公司关闭",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“救援谈判破裂后精神航空公司关闭”。核心要点：该航空公司一直在与特朗普政府就 5 亿美元的救助进行谈判。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 02 May 2026 23:16:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "特朗普称将把欧盟汽车关税提高至25%",
         "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普称将把欧盟汽车关税提高至25%”。核心要点：根据去年 7 月谈判达成的协议，目前从欧盟进入美国的商品征收的关税为 15%。",
@@ -95,14 +71,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 01 May 2026 19:42:56 GMT",
         "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "五角大楼表示美军将成为一支“人工智能优先”的战斗部队",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“五角大楼表示美军将成为一支“人工智能优先”的战斗部队”。核心要点：美国军方在扩大人工智能能力的同时，已与大型科技公司签订了八份新合同。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 21:09:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "抵押贷款、就业和能源账单——伊朗战争将如何影响您的金钱",
@@ -113,20 +81,12 @@
         "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "被 Cote 啤酒店老板救出的真正的希腊人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“被 Cote 啤酒店老板救出的真正的希腊人”。核心要点：这家地中海连锁店的 28 家门店中，除 9 家外，其余全部都被家族企业 Karali 集团接管。",
+        "titleZh": "五角大楼表示美军将成为一支“人工智能优先”的战斗部队",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“五角大楼表示美军将成为一支“人工智能优先”的战斗部队”。核心要点：美国军方在扩大人工智能能力的同时，已与大型科技公司签订了八份新合同。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 17:03:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c93xqnlq33qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "Crayola 绘儿乐玩具因可能受到石棉污染而被召回",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Crayola 绘儿乐玩具因可能受到石棉污染而被召回”。核心要点：政府表示，人们应立即停止使用这些产品，并将其放在儿童接触不到的地方。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 14:58:38 GMT",
-        "url": "https://www.bbc.com/news/articles/cdjp3dlkzwwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 01 May 2026 21:09:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
