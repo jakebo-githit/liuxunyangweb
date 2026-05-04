@@ -1,18 +1,32 @@
 {
-  "updatedAt": "2026-05-03T04:49:51.651Z",
+  "updatedAt": "2026-05-04T04:49:36.591Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Soluble endoglin as a marker of clinically significant portal hypertension in patients with cirrhosis.",
+        "journal": "Scientific reports",
+        "pubDate": "2026 May 2",
+        "studyType": "Journal Article",
+        "authors": "Igreja Sa IC, Smid V, Fikrova P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 60）。核心观点：门静脉高压（​​PH）是肝硬化的主要并发症之一，传统上使用肝静脉压力梯度（HVPG）等侵入性方法进行评估。 临床提示：可溶性内皮糖蛋白（sENG）是内皮功能障碍和纤维化的标志物，已被提议作为各种肝脏疾病的非侵入性生物标志物。",
+        "abstract": "Portal hypertension (PH) is one of the major complications of liver cirrhosis, traditionally assessed using invasive methods such as the hepatic venous pressure gradient (HVPG). Soluble endoglin (sENG), a marker of endothelial dysfunction and fibrosis, has been proposed as a non-invasive biomarker of various liver diseases. This study aimed to evaluate serum sENG concentrations in cirrhotic patients with PH and investigate its relationship with PH severity, alcohol consumption, and smoking. Serum concentrations of sENG were measured in clinically well-examined patients with liver cirrhosis (n = 60, age range 24-82 years) with PH classified as mild, moderate, or severe according to the HVPG v...",
+        "pmid": "42069951",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42069951/",
+        "doiUrl": "https://doi.org/10.1038/s41598-026-51523-w",
+        "url": "https://doi.org/10.1038/s41598-026-51523-w"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "德国称美国撤军是“可预见的”，特朗普警告称将进一步“削减”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“德国称美国撤军是“可预见的”，特朗普警告称将进一步“削减””。核心要点：在美国，两名共和党高级人士对特朗普总统撤出 5000 名士兵的决定表示担忧。",
+        "titleZh": "伊朗称美国已对其最新和平提议做出回应",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称美国已对其最新和平提议做出回应”。核心要点：美国尚未正式确认已做出回应。然而，据报道，特朗普告诉以色列坎新闻，这是不可接受的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 04:09:34 GMT",
-        "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 03 May 2026 21:28:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "伊朗战争以令人惊讶的方式增强了乌克兰的实力。与俄罗斯的停火能否更接近？",
@@ -23,70 +37,70 @@
         "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "秘密网络将星链技术走私到伊朗以应对互联网中断",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“秘密网络将星链技术走私到伊朗以应对互联网中断”。核心要点：萨汉德告诉英国广播公司国际台，他向伊朗发送卫星互联网终端，以帮助展示“真实情况”。",
+        "titleZh": "大西洋游轮疑似病毒爆发 三人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“大西洋游轮疑似病毒爆发 三人死亡”。核心要点：世界卫生组织表示，已确认一例汉坦病毒感染病例，另有五例疑似病例正在调查中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 23:17:17 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 04 May 2026 04:46:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "被监禁的伊朗诺贝尔奖获得者家人表示健康状况恶化，令人担忧",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“被监禁的伊朗诺贝尔奖获得者家人表示健康状况恶化，令人担忧”。核心要点：周五，她的家人表示，54 岁的她的健康状况急剧恶化，已被从监狱送往当地一家医院。",
+        "titleZh": "泽连斯基称乌克兰袭击油轮和码头，俄罗斯空袭造成10人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基称乌克兰袭击油轮和码头，俄罗斯空袭造成10人死亡”。核心要点：据基辅称，俄罗斯“影子舰队”油轮遭到无人机袭击，乌克兰各地已报告有人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 17:55:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 03 May 2026 13:43:20 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国威胁航运公司如果向伊朗支付通行费将受到制裁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国威胁航运公司如果向伊朗支付通行费将受到制裁”。核心要点：这一警告发出之际，唐纳德·特朗普总统表示，他对伊朗最新的和平协议提议“并不兴奋”。",
+        "titleZh": "尼日利亚就其国民遇袭事件召见南非特使",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚就其国民遇袭事件召见南非特使”。核心要点：南非爆发了一波反移民抗议浪潮，其中一些抗议活动演变为暴力活动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 14:18:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 03 May 2026 10:16:01 GMT",
+        "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "根据新计划，航空公司可以因燃料短缺而提前取消航班",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“根据新计划，航空公司可以因燃料短缺而提前取消航班”。核心要点：部长们希望此举有助于避免今年夏天乘客因中东燃料供应而在最后一刻取消航班。",
+        "titleZh": "GameStop 向 eBay 提出 555 亿美元收购要约",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“GameStop 向 eBay 提出 555 亿美元收购要约”。核心要点：GameStop 的老板瑞安·科恩 (Ryan Cohen) 表示，他认为 eBay 有潜力成为亚马逊的更大竞争对手。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 21:35:09 GMT",
+        "publishedAt": "Mon, 04 May 2026 02:22:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "三星家族清偿创纪录的80亿美元遗产税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“三星家族清偿创纪录的80亿美元遗产税”。核心要点：该法案与该公司已故董事长李健熙 (Lee Kun-hee) 留下的遗产有关，李健熙于 2020 年 10 月去世。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 04 May 2026 04:24:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "航空燃油短缺对暑假的威胁迫在眉睫",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“航空燃油短缺对暑假的威胁迫在眉睫”。核心要点：短缺可能会对我们的暑假产生什么影响？对此可以采取什么措施？",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 03 May 2026 23:03:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "根据新计划，航空公司可以因燃油短缺而提前取消航班",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“根据新计划，航空公司可以因燃油短缺而提前取消航班”。核心要点：部长们希望此举有助于避免今年夏天乘客因中东燃料供应而在最后一刻取消航班。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 03 May 2026 09:13:54 GMT",
         "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "救援谈判破裂后精神航空公司关闭",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“救援谈判破裂后精神航空公司关闭”。核心要点：该航空公司一直在与特朗普政府就 5 亿美元的救助进行谈判。",
+        "titleZh": "地方选举前，苦苦挣扎的高街加剧了选民的忽视感",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“地方选举前，苦苦挣扎的高街加剧了选民的忽视感”。核心要点：高街的失败引发了更广泛的政治不满情绪，这可能对即将举行的五月英国议会选举至关重要。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 23:16:13 GMT",
-        "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普称将把欧盟汽车关税提高至25%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普称将把欧盟汽车关税提高至25%”。核心要点：根据去年 7 月谈判达成的协议，目前从欧盟进入美国的商品征收的关税为 15%。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 19:42:56 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "抵押贷款、就业和能源账单——伊朗战争将如何影响您的金钱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“抵押贷款、就业和能源账单——伊朗战争将如何影响您的金钱”。核心要点：英国央行的最新报告揭示了一些有趣的细节，说明伊朗战争将如何影响我们的财务状况。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 21:16:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "五角大楼表示美军将成为一支“人工智能优先”的战斗部队",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“五角大楼表示美军将成为一支“人工智能优先”的战斗部队”。核心要点：美国军方在扩大人工智能能力的同时，已与大型科技公司签订了八份新合同。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 01 May 2026 21:09:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 03 May 2026 01:48:14 GMT",
+        "url": "https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
