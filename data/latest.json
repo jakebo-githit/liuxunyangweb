@@ -1,74 +1,111 @@
 {
-  "updatedAt": "2026-05-04T04:49:36.591Z",
+  "updatedAt": "2026-05-05T04:26:41.348Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Soluble endoglin as a marker of clinically significant portal hypertension in patients with cirrhosis.",
-        "journal": "Scientific reports",
-        "pubDate": "2026 May 2",
+        "title": "Pancreatic arteriovenous malformation: A multi-modal diagnostic approach.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Jul",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Shah S, Liu J, Tagkalidis P",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：胰腺动静脉畸形极为罕见，文献报道的病例不到 200 例。 临床提示：尽管患者可能出现腹痛、胃肠道出血或门静脉高压，但通常无症状。",
+        "abstract": "Pancreatic arteriovenous malformation is exceptionally rare with fewer than 200 cases reported in the literature. It is usually asymptomatic, although patients can present with abdominal pain, gastrointestinal bleeding, or portal hypertension. Their radiological features can closely mimic those of other hypervascular pancreatic lesions, particularly pancreatic neuroendocrine tumours, making accurate diagnosis challenging. We report the case of a 77-year-old patient with incidentally detected hypervascular pancreatic nodules and the importance of a multimodal approach in establishing the diagnosis of pancreatic arteriovenous malformation.",
+        "pmid": "42079514",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42079514/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.03.059",
+        "url": "https://doi.org/10.1016/j.radcr.2026.03.059"
+      },
+      {
+        "title": "Imaging findings in Fontan-associated liver disease: Results of a single center study.",
+        "journal": "International journal of cardiology. Congenital heart disease",
+        "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Igreja Sa IC, Smid V, Fikrova P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 60）。核心观点：门静脉高压（​​PH）是肝硬化的主要并发症之一，传统上使用肝静脉压力梯度（HVPG）等侵入性方法进行评估。 临床提示：可溶性内皮糖蛋白（sENG）是内皮功能障碍和纤维化的标志物，已被提议作为各种肝脏疾病的非侵入性生物标志物。",
-        "abstract": "Portal hypertension (PH) is one of the major complications of liver cirrhosis, traditionally assessed using invasive methods such as the hepatic venous pressure gradient (HVPG). Soluble endoglin (sENG), a marker of endothelial dysfunction and fibrosis, has been proposed as a non-invasive biomarker of various liver diseases. This study aimed to evaluate serum sENG concentrations in cirrhotic patients with PH and investigate its relationship with PH severity, alcohol consumption, and smoking. Serum concentrations of sENG were measured in clinically well-examined patients with liver cirrhosis (n = 60, age range 24-82 years) with PH classified as mild, moderate, or severe according to the HVPG v...",
-        "pmid": "42069951",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42069951/",
-        "doiUrl": "https://doi.org/10.1038/s41598-026-51523-w",
-        "url": "https://doi.org/10.1038/s41598-026-51523-w"
+        "authors": "Lewis S, Mazurek R, Nemzow G",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Fontan 相关性肝病 (FALD) 是 Fontan 循环的结果，可导致肝纤维化、肝硬化、门静脉高压和潜在的肝细胞癌 (HCC)，影像学检查对于评估至关重要。 临床提示：描述 FALD 患者肝脏形态和局灶性肝脏病变 (FLL) 的横截面成像特征。",
+        "abstract": "Fontan-associated liver disease (FALD) is a consequence of Fontan circulation causing liver fibrosis, cirrhosis, portal hypertension, and potentially hepatocellular carcinoma (HCC), with imaging essential to evaluation. To describe the cross-sectional imaging features of hepatic morphology and focal liver lesions (FLLs) in patients with FALD. This retrospective single-center study included patients post-Fontan procedure (10/2016-9/2022) who underwent CT or MRI and non-targeted liver biopsy for fibrosis staging. Two observers in consensus assessed CT/MRI for imaging findings of cirrhosis, portal hypertension, and FLL (>0.8 cm) detection and characterization, including size, enhancement patter...",
+        "pmid": "42078796",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42078796/",
+        "doiUrl": "https://doi.org/10.1016/j.ijcchd.2026.100673",
+        "url": "https://doi.org/10.1016/j.ijcchd.2026.100673"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗称美国已对其最新和平提议做出回应",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称美国已对其最新和平提议做出回应”。核心要点：美国尚未正式确认已做出回应。然而，据报道，特朗普告诉以色列坎新闻，这是不可接受的。",
+        "titleZh": "伊朗袭击阿联酋石油设施，美国袭击伊朗快艇",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击阿联酋石油设施，美国袭击伊朗快艇”。核心要点：马士基航运公司表示，其一艘悬挂美国国旗的商船已在美国军事保护下成功驶离霍尔木兹海峡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 21:28:09 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 04:09:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争以令人惊讶的方式增强了乌克兰的实力。与俄罗斯的停火能否更接近？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗战争以令人惊讶的方式增强了乌克兰的实力。与俄罗斯的停火能否更接近？”。核心要点：泽连斯基总统一直在访问海湾地区，以展示该国的军事智慧。",
+        "titleZh": "德国莱比锡市一辆汽车冲入人群，造成两人死亡、多人受伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“德国莱比锡市一辆汽车冲入人群，造成两人死亡、多人受伤”。核心要点：当局称，事件发生后，一名 33 岁的德国公民被拘留。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 04 May 2026 21:33:17 GMT",
+        "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "大西洋游轮疑似病毒爆发 三人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“大西洋游轮疑似病毒爆发 三人死亡”。核心要点：世界卫生组织表示，已确认一例汉坦病毒感染病例，另有五例疑似病例正在调查中。",
+        "titleZh": "疑似游轮爆发导致三人死亡，第二例汉坦病毒病例确诊",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“疑似游轮爆发导致三人死亡，第二例汉坦病毒病例确诊”。核心要点：MV Hondius 轮船的运营商表示，一对荷兰夫妇和一名德国国民死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 04:46:42 GMT",
+        "publishedAt": "Tue, 05 May 2026 01:14:04 GMT",
         "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泽连斯基称乌克兰袭击油轮和码头，俄罗斯空袭造成10人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基称乌克兰袭击油轮和码头，俄罗斯空袭造成10人死亡”。核心要点：据基辅称，俄罗斯“影子舰队”油轮遭到无人机袭击，乌克兰各地已报告有人死亡。",
+        "titleZh": "前纽约市市长鲁迪·朱利安尼从肺炎中康复，“现在可以自己呼吸”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“前纽约市市长鲁迪·朱利安尼从肺炎中康复，“现在可以自己呼吸””。核心要点：据前纽约市长的发言人称，这位前纽约市长“仍处于危急但稳定的状态”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 13:43:20 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 04 May 2026 16:27:32 GMT",
+        "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尼日利亚就其国民遇袭事件召见南非特使",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚就其国民遇袭事件召见南非特使”。核心要点：南非爆发了一波反移民抗议浪潮，其中一些抗议活动演变为暴力活动。",
+        "titleZh": "乌克兰无人机在胜利日庆祝活动前袭击莫斯科高档高层建筑",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰无人机在胜利日庆祝活动前袭击莫斯科高档高层建筑”。核心要点：俄罗斯已宣布单方面停火以报道这一事件，并威胁称，如果事件受到干扰，将对基辅市中心发动大规模袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 10:16:01 GMT",
-        "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 04 May 2026 19:09:14 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "2026 年英国酒吧将以每天近两家酒吧的速度关门",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“2026 年英国酒吧将以每天近两家酒吧的速度关门”。核心要点：英国啤酒和酒吧协会表示，今年前三个月已有 161 家酒吧关门。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 05 May 2026 01:55:39 GMT",
+        "url": "https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "美国否认伊朗军舰被导弹击中的报道",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国否认伊朗军舰被导弹击中的报道”。核心要点：美国周一表示，将开始帮助“引导”船只驶出霍尔木兹海峡。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 04 May 2026 13:18:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "GameStop 向 eBay 提出 555 亿美元收购要约",
         "summaryZh": "这是一条金融市场新闻，重点围绕“GameStop 向 eBay 提出 555 亿美元收购要约”。核心要点：GameStop 的老板瑞安·科恩 (Ryan Cohen) 表示，他认为 eBay 有潜力成为亚马逊的更大竞争对手。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 02:22:34 GMT",
+        "publishedAt": "Mon, 04 May 2026 15:12:39 GMT",
         "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "垃圾处理公司苦苦寻找员工，机器人进驻",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“垃圾处理公司苦苦寻找员工，机器人进驻”。核心要点：人形机器人正在被添加到垃圾分类的自动化中。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 04 May 2026 23:43:28 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "三星家族清偿创纪录的80亿美元遗产税",
@@ -77,30 +114,6 @@
         "sourceLang": "English",
         "publishedAt": "Mon, 04 May 2026 04:24:22 GMT",
         "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "航空燃油短缺对暑假的威胁迫在眉睫",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“航空燃油短缺对暑假的威胁迫在眉睫”。核心要点：短缺可能会对我们的暑假产生什么影响？对此可以采取什么措施？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 23:03:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "根据新计划，航空公司可以因燃油短缺而提前取消航班",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“根据新计划，航空公司可以因燃油短缺而提前取消航班”。核心要点：部长们希望此举有助于避免今年夏天乘客因中东燃料供应而在最后一刻取消航班。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 09:13:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "地方选举前，苦苦挣扎的高街加剧了选民的忽视感",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“地方选举前，苦苦挣扎的高街加剧了选民的忽视感”。核心要点：高街的失败引发了更广泛的政治不满情绪，这可能对即将举行的五月英国议会选举至关重要。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 03 May 2026 01:48:14 GMT",
-        "url": "https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
