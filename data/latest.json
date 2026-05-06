@@ -1,119 +1,132 @@
 {
-  "updatedAt": "2026-05-05T04:26:41.348Z",
+  "updatedAt": "2026-05-06T04:43:19.576Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pancreatic arteriovenous malformation: A multi-modal diagnostic approach.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Jul",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Shah S, Liu J, Tagkalidis P",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：胰腺动静脉畸形极为罕见，文献报道的病例不到 200 例。 临床提示：尽管患者可能出现腹痛、胃肠道出血或门静脉高压，但通常无症状。",
-        "abstract": "Pancreatic arteriovenous malformation is exceptionally rare with fewer than 200 cases reported in the literature. It is usually asymptomatic, although patients can present with abdominal pain, gastrointestinal bleeding, or portal hypertension. Their radiological features can closely mimic those of other hypervascular pancreatic lesions, particularly pancreatic neuroendocrine tumours, making accurate diagnosis challenging. We report the case of a 77-year-old patient with incidentally detected hypervascular pancreatic nodules and the importance of a multimodal approach in establishing the diagnosis of pancreatic arteriovenous malformation.",
-        "pmid": "42079514",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42079514/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.03.059",
-        "url": "https://doi.org/10.1016/j.radcr.2026.03.059"
-      },
-      {
-        "title": "Imaging findings in Fontan-associated liver disease: Results of a single center study.",
-        "journal": "International journal of cardiology. Congenital heart disease",
+        "title": "Standardization of the Cirrhosis Admission Process and Its Impact on Inpatient Management and Patient Outcomes.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
         "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Lewis S, Mazurek R, Nemzow G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Fontan 相关性肝病 (FALD) 是 Fontan 循环的结果，可导致肝纤维化、肝硬化、门静脉高压和潜在的肝细胞癌 (HCC)，影像学检查对于评估至关重要。 临床提示：描述 FALD 患者肝脏形态和局灶性肝脏病变 (FLL) 的横截面成像特征。",
-        "abstract": "Fontan-associated liver disease (FALD) is a consequence of Fontan circulation causing liver fibrosis, cirrhosis, portal hypertension, and potentially hepatocellular carcinoma (HCC), with imaging essential to evaluation. To describe the cross-sectional imaging features of hepatic morphology and focal liver lesions (FLLs) in patients with FALD. This retrospective single-center study included patients post-Fontan procedure (10/2016-9/2022) who underwent CT or MRI and non-targeted liver biopsy for fibrosis staging. Two observers in consensus assessed CT/MRI for imaging findings of cirrhosis, portal hypertension, and FLL (>0.8 cm) detection and characterization, including size, enhancement patter...",
-        "pmid": "42078796",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42078796/",
-        "doiUrl": "https://doi.org/10.1016/j.ijcchd.2026.100673",
-        "url": "https://doi.org/10.1016/j.ijcchd.2026.100673"
+        "authors": "Lavette LE, Laird H, Chipoletti A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化相关住院人数的增加凸显了改善患者护理和实践标准化的机会。 临床提示：我们制定了一套肝硬化入院令，旨在促进指南指导的护理和改善患者的治疗结果。",
+        "abstract": "An increase in cirrhosis-related hospitalizations has highlighted opportunities for improved patient care and standardization of practice. We created a cirrhosis admission order set with the goal of promoting guideline-directed care and improving patient outcomes. We developed and implemented a cirrhosis order set that included dietary recommendations, diagnostic paracentesis orders and studies, common complications of portal hypertension and educational materials at time of discharge. We used a retrospective cohort design to compare post-intervention process measures and outcomes. The use of the order set resulted in a significant increase in low sodium diet (93% vs. 37%, p = 0.001), high p...",
+        "pmid": "42083994",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42083994/",
+        "doiUrl": "https://doi.org/10.1111/liv.70674",
+        "url": "https://doi.org/10.1111/liv.70674"
+      },
+      {
+        "title": "Hepatic Manifestations and Response to Treatment in Deficiency of Adenosine Deaminase 2.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article",
+        "authors": "Shaik MR, Alao H, Shaik NA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 70）。核心观点：腺苷脱氨酶 2 (DADA2) 缺乏是由 ADA2 基因突变引起的，并导致自身炎症状态。 临床提示：DADA2 中已报道肝脾肿大，伴或不伴肝酶异常。",
+        "abstract": "Deficiency of adenosine deaminase 2 (DADA2) is caused by mutations in the ADA2 gene and results in an auto-inflammatory state. Hepatosplenomegaly, with or without abnormalities in liver enzymes, has been reported in DADA2. Anti-tumour necrosis factor (anti-TNF) therapy is the standard of care for the prevention of recurrent ischemic strokes and reduction of inflammatory burden. However, little is known about the extent of hepatic involvement and the utility of non-invasive tools for identifying liver disease and monitoring treatment response. Retrospective analysis was performed on a prospective cohort of 70 patients with DADA2. Patients underwent baseline and annual laboratory testing, abdo...",
+        "pmid": "42083127",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42083127/",
+        "doiUrl": "https://doi.org/10.1111/liv.70660",
+        "url": "https://doi.org/10.1111/liv.70660"
+      },
+      {
+        "title": "Comparison of Serum Prolactin Level with Child-Pugh Scoring System in Predicting the Complications of Cirrhosis of Liver: A Cross-sectional Study.",
+        "journal": "The Nigerian postgraduate medical journal",
+        "pubDate": "2026 May 1",
+        "studyType": "Journal Article / Comparative Study",
+        "authors": "Kishor AR, Sandeep MLN, Reddy K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化中的高催乳素血症是由于循环雌激素升高导致多巴胺抑制减少所致。 临床提示：本研究评估了血清催乳素水平与 Child-Pugh 评分系统在预测肝硬化并发症方面的关系。",
+        "abstract": "Cirrhosis of the liver is a chronic condition characterised by scar tissue replacing healthy liver tissue, leading to impaired liver function and endocrine disturbances. Hyperprolactinemia in cirrhosis results from reduced dopamine inhibition due to elevated circulating oestrogens. This study assessed the relationship between serum prolactin levels and the Child-Pugh scoring system in predicting complications in liver cirrhosis. A cross-sectional study was conducted on 70 cirrhotic patients over 12 months at a tertiary care center. Inclusion criteria included patients aged ≥18 years with diagnosed cirrhosis. Serum prolactin levels were measured using radioimmunoassay. Disease severity was ev...",
+        "pmid": "42085053",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42085053/",
+        "doiUrl": "https://doi.org/10.4103/npmj.npmj_469_25",
+        "url": "https://doi.org/10.4103/npmj.npmj_469_25"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗袭击阿联酋石油设施，美国袭击伊朗快艇",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击阿联酋石油设施，美国袭击伊朗快艇”。核心要点：马士基航运公司表示，其一艘悬挂美国国旗的商船已在美国军事保护下成功驶离霍尔木兹海峡。",
+        "titleZh": "特朗普表示美国将暂停引导船只通过霍尔木兹海峡的行动",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示美国将暂停引导船只通过霍尔木兹海峡的行动”。核心要点：美国总统表示，由于与伊朗达成协议取得了进展，周一开始的“自由计划”将被叫停。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 05 May 2026 04:09:40 GMT",
-        "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 06 May 2026 02:18:45 GMT",
+        "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "德国莱比锡市一辆汽车冲入人群，造成两人死亡、多人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“德国莱比锡市一辆汽车冲入人群，造成两人死亡、多人受伤”。核心要点：当局称，事件发生后，一名 33 岁的德国公民被拘留。",
+        "titleZh": "“没有什么能带回我的儿子”：以色列十分钟的轰炸如何摧毁了黎巴嫩的生活",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““没有什么能带回我的儿子”：以色列十分钟的轰炸如何摧毁了黎巴嫩的生活”。核心要点：炸弹于下午 14 点 15 分开始落下，给全国带来混乱和破坏。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 21:33:17 GMT",
-        "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 21:22:31 GMT",
+        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "疑似游轮爆发导致三人死亡，第二例汉坦病毒病例确诊",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“疑似游轮爆发导致三人死亡，第二例汉坦病毒病例确诊”。核心要点：MV Hondius 轮船的运营商表示，一对荷兰夫妇和一名德国国民死亡。",
+        "titleZh": "鲍文：霍尔木兹海峡对峙增加了重新陷入全面战争的风险",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：霍尔木兹海峡对峙增加了重新陷入全面战争的风险”。核心要点：美国和伊朗决心继续向对方施加压力，这使脆弱的海湾停火协议面临严重危险。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 05 May 2026 01:14:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 11:38:03 GMT",
+        "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "前纽约市市长鲁迪·朱利安尼从肺炎中康复，“现在可以自己呼吸”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“前纽约市市长鲁迪·朱利安尼从肺炎中康复，“现在可以自己呼吸””。核心要点：据前纽约市长的发言人称，这位前纽约市长“仍处于危急但稳定的状态”。",
+        "titleZh": "爆发汉坦病毒的游轮将驶往加那利群岛",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“爆发汉坦病毒的游轮将驶往加那利群岛”。核心要点：西班牙卫生部表示，MV Hondius 预计将在三到四天内抵达。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 16:27:32 GMT",
-        "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 06 May 2026 00:01:28 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰无人机在胜利日庆祝活动前袭击莫斯科高档高层建筑",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰无人机在胜利日庆祝活动前袭击莫斯科高档高层建筑”。核心要点：俄罗斯已宣布单方面停火以报道这一事件，并威胁称，如果事件受到干扰，将对基辅市中心发动大规模袭击。",
+        "titleZh": "维韦克·拉马斯瓦米赢得俄亥俄州州长共和党提名",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“维韦克·拉马斯瓦米赢得俄亥俄州州长共和党提名”。核心要点：他在竞选的大部分时间里批评该州对民主党候选人领导的Covid-19大流行的反应。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 19:09:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 06 May 2026 01:55:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "2026 年英国酒吧将以每天近两家酒吧的速度关门",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“2026 年英国酒吧将以每天近两家酒吧的速度关门”。核心要点：英国啤酒和酒吧协会表示，今年前三个月已有 161 家酒吧关门。",
+        "titleZh": "英国长期借贷成本创28年新高",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国长期借贷成本创28年新高”。核心要点：在周四的地方和全国选举之前，英国政府债务市场出现了额外的紧张情绪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 05 May 2026 01:55:39 GMT",
-        "url": "https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 16:30:23 GMT",
+        "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国否认伊朗军舰被导弹击中的报道",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国否认伊朗军舰被导弹击中的报道”。核心要点：美国周一表示，将开始帮助“引导”船只驶出霍尔木兹海峡。",
+        "titleZh": "美国暂停自由计划以寻求与伊朗达成协议，油价下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国暂停自由计划以寻求与伊朗达成协议，油价下跌”。核心要点：经过几天的升级后，唐纳德·特朗普总统提出了美国和伊朗达成协议的希望。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 13:18:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 06 May 2026 03:05:16 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "GameStop 向 eBay 提出 555 亿美元收购要约",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“GameStop 向 eBay 提出 555 亿美元收购要约”。核心要点：GameStop 的老板瑞安·科恩 (Ryan Cohen) 表示，他认为 eBay 有潜力成为亚马逊的更大竞争对手。",
+        "titleZh": "购物者称 Lidl 的新忠诚度计划不太慷慨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“购物者称 Lidl 的新忠诚度计划不太慷慨”。核心要点：在改变后的系统下，顾客收集积分而不是奖励优惠券，消费 1 英镑等于 1 积分。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 15:12:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 16:30:30 GMT",
+        "url": "https://www.bbc.com/news/articles/ckgp7y5jg59o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "垃圾处理公司苦苦寻找员工，机器人进驻",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“垃圾处理公司苦苦寻找员工，机器人进驻”。核心要点：人形机器人正在被添加到垃圾分类的自动化中。",
+        "titleZh": "OpenAI 联合创始人谈到马斯克时说：“我以为他会打我”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“OpenAI 联合创始人谈到马斯克时说：“我以为他会打我””。核心要点：OpenAI 总裁格雷格·布罗克曼 (Greg Brockman) 在埃隆·马斯克 (Elon Musk) 和 OpenAI 的萨姆·奥尔特曼 (Sam Alt...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 23:43:28 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 19:40:22 GMT",
+        "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "三星家族清偿创纪录的80亿美元遗产税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“三星家族清偿创纪录的80亿美元遗产税”。核心要点：该法案与该公司已故董事长李健熙 (Lee Kun-hee) 留下的遗产有关，李健熙于 2020 年 10 月去世。",
+        "titleZh": "美国将对谷歌、微软、xAI 的新人工智能模型进行安全测试",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国将对谷歌、微软、xAI 的新人工智能模型进行安全测试”。核心要点：这些公司与商务部之间的新协议以拜登时代的协议为基础。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 04 May 2026 04:24:22 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 05 May 2026 20:16:24 GMT",
+        "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
