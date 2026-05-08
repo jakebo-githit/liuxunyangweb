@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-05-07T04:44:46.771Z",
+  "updatedAt": "2026-05-08T04:24:14.660Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Cirrhosis, portal hypertension and hepatocellular carcinoma: a stage-based approach.",
-        "journal": "Nature reviews. Gastroenterology & hepatology",
-        "pubDate": "2026 May 6",
+        "title": "Gut dysbiosis and nitric oxide dysregulation in cirrhosis progression: mechanistic insights and pathophysiological implications.",
+        "journal": "Journal of physiology and biochemistry",
+        "pubDate": "2026 May 7",
         "studyType": "Journal Article / Review",
-        "authors": "Allaire M, Taddei T, Thabut D",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：尽管有重叠，但目前的指南将门静脉高压症和肝癌分开处理，导致风险分层和治疗选择不理想。 临床提示：CSPH 与肝硬化失代偿风险增加相关，其...",
-        "abstract": "Cirrhosis and hepatocellular carcinoma (HCC) are interconnected outcomes of chronic liver disease, with portal hypertension playing a key part in cirrhosis decompensation, and influencing HCC prognosis and treatment. Despite their overlap, current guidelines address portal hypertension and HCC separately, leading to suboptimal risk stratification and treatment selection. This Review proposes a stage-based, integrated approach to HCC management that incorporates the prognostic stages of cirrhosis and emphasizes clinically significant portal hypertension (CSPH) as a key stratifying factor in compensated cirrhosis. CSPH is associated with an increased risk of cirrhosis decompensation, and its p...",
-        "pmid": "42092171",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42092171/",
-        "doiUrl": "https://doi.org/10.1038/s41575-026-01209-5",
-        "url": "https://doi.org/10.1038/s41575-026-01209-5"
-      },
-      {
-        "title": "Anticoagulation in Patients With Gastrointestinal Disease.",
-        "journal": "Cardiology in review",
-        "pubDate": "2026 May 6",
-        "studyType": "Journal Article",
-        "authors": "Alkasabrah O, Ramesh J, Shah RK",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：胃肠道 (GI) 疾病会同时增加出血风险并维持较高的血栓栓塞脆弱性，从而使抗凝治疗变得复杂。 临床提示：粘膜损伤、门静脉高压、恶性肿瘤、炎症性肠病和血管病变容易导致出血，而中断治疗会增加中风、静脉血栓栓塞和支架植入的风险",
-        "abstract": "Gastrointestinal (GI) disease complicates anticoagulation by simultaneously increasing bleeding risk and maintaining high thromboembolic vulnerability. Mucosal injury, portal hypertension, malignancy, inflammatory bowel disease, and vascular lesions predispose to hemorrhage, whereas interruption of therapy increases the risk of stroke, venous thromboembolism, and stent thrombosis. Contemporary management follows an indication-first, risk-balanced approach that integrates thrombotic urgency, GI disease phenotype, and patient-specific bleeding-risk factors. Direct oral anticoagulants demonstrate heterogeneous GI bleeding profiles, with higher risk observed with dabigatran and rivaroxaban, whil...",
-        "pmid": "42087312",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42087312/",
-        "doiUrl": "https://doi.org/10.1097/CRD.0000000000001301",
-        "url": "https://doi.org/10.1097/CRD.0000000000001301"
+        "authors": "Răzniceanu V, Țichindeleanu A, Răducu EV",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肠道屏障功能障碍会促进细菌易位，从而使肝脏暴露于脂多糖和病原体相关分子模式中，从而通过 Toll 样受体信号传导引发肝脏炎症，这种现象会因肠道菌群失调而加剧。 临床提示：肠屏障功能障碍促进细菌易位，从而使肝脏暴露于脂多糖和病原体相关分子模式，通过 Toll 样受体触发肝脏炎症",
+        "abstract": "Cirrhosis represents the end stage of chronic liver injury, characterized by progressive fibrosis and architectural distortion that precipitate portal hypertension and systemic complications. Recent evidence positions gut microbiota dysbiosis and nitric oxide (NO) dysregulation as central, interacting pathophysiological mechanisms in cirrhosis progression. Intestinal barrier dysfunction facilitates bacterial translocation and thereby exposes the liver to lipopolysaccharides and pathogen-associated molecular patterns that trigger hepatic inflammation via Toll-like receptor signalling, a phenomenon aggravated by dysbiosis. This immune activation stimulates inducible NO synthase in Kupffer cell...",
+        "pmid": "42095982",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42095982/",
+        "doiUrl": "https://doi.org/10.1007/s13105-026-01188-w",
+        "url": "https://doi.org/10.1007/s13105-026-01188-w"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普称战争将“很快结束”，伊朗正在考虑美国的提议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称战争将“很快结束”，伊朗正在考虑美国的提议”。核心要点：调解人巴基斯坦表示，它“正在努力将停火转变为这场战争的永久结束”。",
+        "titleZh": "特朗普称霍尔木兹海峡交火后美伊停火仍然有效",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称霍尔木兹海峡交火后美伊停火仍然有效”。核心要点：伊朗指责美国违反停战协议，称其针对一艘油轮并对沿海地区发动袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 07 May 2026 04:06:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 08 May 2026 02:07:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普对伊朗和平协议的希望伴随着警告",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普对伊朗和平协议的希望伴随着警告”。核心要点：有迹象表明结束战争有新的动力，但特朗普本人也发出了警告。",
+        "titleZh": "联合国卫生机构称游轮上爆发的汉坦病毒并非大流行的开始",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“联合国卫生机构称游轮上爆发的汉坦病毒并非大流行的开始”。核心要点：世界卫生组织表示，这与 Covid-19 的情况不同，因为汉坦病毒的传播方式不同。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 17:32:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 07 May 2026 17:55:08 GMT",
+        "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "自真主党停火以来，以色列首次袭击贝鲁特",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“自真主党停火以来，以色列首次袭击贝鲁特”。核心要点：以色列表示，袭击目标是首都真主党的一名高级人物，这是自四月中旬以来的首次此类袭击。",
+        "titleZh": "德国部长称特朗普的“不负责任的战争”是经济放缓的罪魁祸首",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“德国部长称特朗普的“不负责任的战争”是经济放缓的罪魁祸首”。核心要点：财政部长拉尔斯·克林贝尔指责美国总统“不负责任的伊朗战争”损害了德国经济。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 19:58:04 GMT",
-        "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 07 May 2026 18:13:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "受汉坦病毒袭击的游轮在三人撤离后离开佛得角",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“受汉坦病毒袭击的游轮在三人撤离后离开佛得角”。核心要点：三名撤离者在 MV Hondius 上出现症状后被送往荷兰，其中一名英国男子是其中之一。",
+        "titleZh": "罗森伯格：俄罗斯没有坦克的胜利日阅兵表明乌克兰战争不会计划",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“罗森伯格：俄罗斯没有坦克的胜利日阅兵表明乌克兰战争不会计划”。核心要点：周六在莫斯科举行的阅兵式上，近二十年来第一次，将没有任何军事装备，只有士兵。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 07 May 2026 03:55:13 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 07 May 2026 16:00:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "结束伊朗战争的协议传出后，油价下跌，股市上涨",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“结束伊朗战争的协议传出后，油价下跌，股市上涨”。核心要点：有报道称，经过几天的升级后，美国和伊朗之间达成协议的希望越来越大。",
+        "titleZh": "特朗普给欧盟最后通牒批准与美国的贸易协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普给欧盟最后通牒批准与美国的贸易协议”。核心要点：特朗普向欧盟提出最后期限之际，贸易法庭裁定他的全球关税政策违反美国法律。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 16:11:44 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 07 May 2026 23:11:35 GMT",
+        "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“我们有人来看看它”：亚马逊通过无人机交付其第一批英国包裹",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我们有人来看看它”：亚马逊通过无人机交付其第一批英国包裹”。核心要点：无人机每天可以在亚马逊枢纽中心12公里半径范围内投放100个包裹。",
+        "titleZh": "美国和伊朗在霍尔木兹海峡交火后油价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国和伊朗在霍尔木兹海峡交火后油价上涨”。核心要点：冲突进一步危及特朗普于 4 月 21 日无限期延长的美伊停火协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 23:02:06 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 08 May 2026 02:23:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在“马斯克诉奥特曼”中，这位法官将做出最终决定",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“在“马斯克诉奥特曼”中，这位法官将做出最终决定”。核心要点：这场不和加剧了两家科技巨头之间代价高昂的摊牌。",
+        "titleZh": "Instagram 隐私技术今天关闭 - 这对您的私信意味着什么？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Instagram 隐私技术今天关闭 - 这对您的私信意味着什么？”。核心要点：该平台表示将删除端到端加密消息，这是母公司 Meta 的一个重大转变。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 23:52:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 08 May 2026 01:31:55 GMT",
+        "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人们敦促不要因担心燃料短缺而取消航班",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人们敦促不要因担心燃料短缺而取消航班”。核心要点：由于中东冲突导致航空燃油价格飙升，5月份全球航空公司已削减了13,000个航班。",
+        "titleZh": "中国和印度世界杯球迷面临转播不确定性",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国和印度世界杯球迷面临转播不确定性”。核心要点：就在世界杯即将开始的几周前，两国的广播公司尚未与国际足联达成协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 16:11:59 GMT",
-        "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 08 May 2026 04:10:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "多达 150 家前 WHSmith 高街商店将关闭",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“多达 150 家前 WHSmith 高街商店将关闭”。核心要点：这些商店去年被 Modella Capital 收购，然后更名为 TGJones。",
+        "titleZh": "葡萄牙和意大利不会暂停对英国人的数字边境检查",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“葡萄牙和意大利不会暂停对英国人的数字边境检查”。核心要点：有报道称，这些国家将效仿希腊的做法，希腊实际上暂停了对英国国民的生物识别检查。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 15:22:58 GMT",
-        "url": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 07 May 2026 15:41:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "前 OpenAI 董事会成员表示埃隆·马斯克愿意捐献她的精子",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“前 OpenAI 董事会成员表示埃隆·马斯克愿意捐献她的精子”。核心要点：Shivon Zilis 是马斯克四个孩子的母亲。这种关系始于她为 OpenAI 提供建议时。",
+        "titleZh": "特朗普给欧盟最后通牒批准与美国的贸易协议",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普给欧盟最后通牒批准与美国的贸易协议”。核心要点：特朗普向欧盟提出最后期限之际，贸易法庭裁定他的全球关税政策违反美国法律。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 06 May 2026 20:05:02 GMT",
-        "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 07 May 2026 23:11:35 GMT",
+        "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
