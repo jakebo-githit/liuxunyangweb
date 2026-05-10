@@ -1,81 +1,61 @@
 {
-  "updatedAt": "2026-05-09T04:33:32.987Z",
+  "updatedAt": "2026-05-10T04:53:11.756Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "CYFIP2 deficiency ameliorates renal interstitial fibrosis through attenuating tubular senescence in hypertensive nephropathy.",
-        "journal": "Acta pharmacologica Sinica",
-        "pubDate": "2026 May 7",
-        "studyType": "Journal Article",
-        "authors": "Sun MC, Zuo FW, Wang YZ",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：这项研究表明，CYFIP2 表达在肾皮质中显着上调，特别是... 临床提示：因此，确定衰老肾小管上皮细胞的治疗靶点具有重要的临床意义。",
-        "abstract": "Tubulointerstitial fibrosis is the central pathological feature of hypertensive nephropathy, with cellular senescence being a key driver. Therefore, identifying therapeutic targets in senescent renal tubular epithelial cells is clinically important. The cytoplasmic FMR1-interacting protein (CYFIP) family, which comprises two evolutionarily conserved members, CYFIP1 and CYFIP2, plays crucial roles in neurological regulation. CYFIP2, a key member, is implicated in cytoskeletal dynamics and apoptosis within the nervous system; however, its renal expression pattern and function remain undefined. This study revealed that CYFIP2 expression was significantly upregulated in the renal cortex, particu...",
-        "pmid": "42098400",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42098400/",
-        "doiUrl": "https://doi.org/10.1038/s41401-026-01793-x",
-        "url": "https://doi.org/10.1038/s41401-026-01793-x"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "Silent Advanced Hepatic Fibrosis in Asymptomatic Pulmonary Sarcoidosis.",
-        "journal": "The American journal of medicine",
-        "pubDate": "2026 May 5",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Teh R, Fong PK",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：PubMed 没有可用的摘要。 临床提示：无症状肺结节病中的无症状晚期肝纤维化。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42097328",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42097328/",
-        "doiUrl": "https://doi.org/10.1016/j.amjmed.2026.04.028",
-        "url": "https://doi.org/10.1016/j.amjmed.2026.04.028"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗指责美国“鲁莽的军事冒险”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗指责美国“鲁莽的军事冒险””。核心要点：阿巴斯·阿拉格奇表示，每当外交解决方案摆上桌面时，美国都会发起攻击。",
+        "titleZh": "特内里费岛医务人员准备迎接受病毒袭击的游轮抵达",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特内里费岛医务人员准备迎接受病毒袭击的游轮抵达”。核心要点：英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 在特内里费岛港口报道，在致命的汉坦病毒爆发后，MV Hondius 号即将停靠...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 09 May 2026 03:30:52 GMT",
-        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 10 May 2026 01:08:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示俄罗斯和乌克兰将遵守为期三天的停火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示俄罗斯和乌克兰将遵守为期三天的停火”。核心要点：两国互相指责对方违反各自的停火协议，以报道苏联战胜纳粹德国的庆祝活动。",
+        "titleZh": "普京表示他认为乌克兰冲突“即将结束”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“普京表示他认为乌克兰冲突“即将结束””。核心要点：这位俄罗斯领导人看到了乌克兰谈判的潜力，但谴责西方对泽连斯基总统的支持。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 18:59:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 10 May 2026 00:46:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "当汉坦病毒船接近时，特内里费岛的愤怒和辞职",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“当汉坦病毒船接近时，特内里费岛的愤怒和辞职”。核心要点：西班牙岛上的一些人担心 MV Hondius 即将抵达可能会带来健康风险。",
+        "titleZh": "黎巴嫩称以色列空袭造成39人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩称以色列空袭造成39人死亡”。核心要点：尽管上个月宣布了停火协议，以色列和真主党仍在继续交火。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 09 May 2026 00:15:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 09 May 2026 21:23:14 GMT",
+        "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "希腊检查在爱奥尼亚海发现的神秘海军无人机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“希腊检查在爱奥尼亚海发现的神秘海军无人机”。核心要点：希腊媒体称，这架据报道装有爆炸物的无人机可能是乌克兰制造的，也可能与俄罗斯-乌克兰战争有关。",
+        "titleZh": "澳大利亚右翼一国党取得历史性议会胜利",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚右翼一国党取得历史性议会胜利”。核心要点：一国党在补选中赢得了众议院的第一个席位，这被视为对民粹主义政党的关键考验。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 17:53:25 GMT",
-        "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 09 May 2026 14:36:21 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "悬停物体和闪烁灯光：我们从五角大楼发布的 UFO 文件中了解到的内容",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“悬停物体和闪烁灯光：我们从五角大楼发布的 UFO 文件中了解到的内容”。核心要点：美国公布了有关不明飞行物（也称为不明异常现象）的文字记录、视频片段和录音。",
+        "titleZh": "斯里兰卡一名佛教僧侣因涉嫌强奸青少年而被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“斯里兰卡一名佛教僧侣因涉嫌强奸青少年而被捕”。核心要点：帕勒伽玛·赫马拉提罗 (Pallegama Hemarathana Thero) 尊者是佛教界最受尊敬的职位之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 22:04:55 GMT",
-        "url": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 10 May 2026 03:09:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "英国即将迎来一个居家度假的夏天——这里有很多隐藏的瑰宝",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国即将迎来一个居家度假的夏天——这里有很多隐藏的瑰宝”。核心要点：Airbnb 和 Booking.com 表示，人们对英国住宿的兴趣较去年有所上升，经验丰富的住宿度假者分享了他们最喜欢的地点。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 08 May 2026 23:30:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "美国航空燃油可用于欧洲以缓解可能的短缺",
         "summaryZh": "这是一条金融市场新闻，重点围绕“美国航空燃油可用于欧洲以缓解可能的短缺”。核心要点：一个国际航空机构表示，更广泛地接受美国级航空燃油可能有助于避免任何供应问题。",
@@ -107,14 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 08 May 2026 20:41:19 GMT",
         "url": "https://www.bbc.com/news/articles/cx21664lp32o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "东南水务老板因供应中断而辞职",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“东南水务老板因供应中断而辞职”。核心要点：肯特郡和苏塞克斯郡数万人受到停电影响后，戴维·辛顿 (David Hinton) 面临批评。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 11:20:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
