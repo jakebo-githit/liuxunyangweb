@@ -1,53 +1,125 @@
 {
-  "updatedAt": "2026-05-10T04:53:11.756Z",
+  "updatedAt": "2026-05-11T05:06:51.345Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "The future of splenic elastography: Is it a valuable tool for personalized treatment?",
+        "journal": "Revista de gastroenterologia de Mexico (English)",
+        "pubDate": "2026 May 9",
+        "studyType": "Journal Article / Review",
+        "authors": "Tapia Calderón DK, Llop Herrera E, Calleja Panero JL",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝脏硬度测量是最广泛使用和验证的无创工具，尽管最近的研究表明脾硬度测量与肝静脉压力梯度具有更好的相关性。 临床提示：门脉高压是肝硬化预后的主要决定因素。",
+        "abstract": "Portal hypertension is the main determinant of prognosis in cirrhosis of the liver. The gold standard for its evaluation is hepatic venous pressure gradient measurement. Because it is an invasive test performed only at highly specialized centers, noninvasive tools for the detection of portal hypertension have been developed. One of the most relevant is vibration-controlled transient elastography (FibroScan®; Echosens, Paris, France). Liver stiffness measurement is the most widely utilized and validated noninvasive tool, although more recent studies suggest spleen stiffness measurement correlates better with the hepatic venous pressure gradient. In the present narrative review, a comprehensiv...",
+        "pmid": "42108157",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42108157/",
+        "doiUrl": "https://doi.org/10.1016/j.rgmxen.2026.04.002",
+        "url": "https://doi.org/10.1016/j.rgmxen.2026.04.002"
+      },
+      {
+        "title": "Frailty increases hospitalization rates in an ambulatory cohort of patients with cirrhosis: The NACSELD3 prospective cohort.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "pubDate": "2026 May 8",
+        "studyType": "Journal Article",
+        "authors": "Lai J, O'Leary JG, Tandon P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 1007）。核心观点：虚弱可以预测肝移植候选人的死亡率，但其对普通肝病门诊患者住院治疗的影响以及功能能力等相关因素是否提供额外的预后价值仍不清楚。 临床提示：我们分析了来自北美终末期肝病研究联盟 (NACSELD) 的数据，这是一个多中心前瞻性动态肝硬化队列。",
+        "abstract": "Frailty predicts mortality in liver transplant candidates, but its impact on hospitalizations in general hepatology outpatients-and whether related components such as functional capacity provide additional prognostic value- remains unclear. We analyzed data from the North American Consortium for the Study of End-Stage Liver Disease (NACSELD), a multicenter prospective ambulatory cirrhosis cohort. Frailty was assessed using the Liver Frailty Index (LFI) categorized as robust (≤3.2), pre-frail (3.2-4.4), and frail (≥4.4) and the Duke Activity Status Index (DASI). The primary outcome was hospitalization at 6-months. Among 1007 patients, at enrolment, 12.9% were robust, 70.6% pre-frail and 16.5%...",
+        "pmid": "42107855",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42107855/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.04.024",
+        "url": "https://doi.org/10.1016/j.cgh.2026.04.024"
+      },
+      {
+        "title": "Peri-procedural antibiotics for infection prevention in transjugular intrahepatic portosystemic shunt and plug-assisted retrograde transvenous obliteration: a randomised trial.",
+        "journal": "Singapore medical journal",
+        "pubDate": "2026 May 8",
+        "studyType": "Journal Article",
+        "authors": "Bhashyakarla A, Pasam S, Sreekanth V",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：主要结局是临床上显着感染的发生率，定义为发烧和快速序贯或... 临床提示：经颈静脉肝内门体分流术 (TIPS) 和栓塞辅助逆行经静脉闭塞术 (PARTO) 是治疗门脉高压相关并发症的标准治疗方法。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) and plug-assisted retrograde transvenous obliteration (PARTO) are the standard of care for managing portal hypertension-related complications. However, the role of peri-procedural antibiotics in preventing infections during these interventions remains unclear because of limited evidence, and this study aimed to address this gap. In this single-centre, double-blind, placebo-controlled, randomised trial, adult patients with portal hypertension were randomised to receive ceftriaxone (1 g twice daily until discharge) or placebo. The primary outcome was the incidence of clinically significant infection defined as fever and a quick Sequential Or...",
+        "pmid": "42106961",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42106961/",
+        "doiUrl": "https://doi.org/10.4103/singaporemedj.SMJ-2025-229",
+        "url": "https://doi.org/10.4103/singaporemedj.SMJ-2025-229"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特内里费岛医务人员准备迎接受病毒袭击的游轮抵达",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特内里费岛医务人员准备迎接受病毒袭击的游轮抵达”。核心要点：英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 在特内里费岛港口报道，在致命的汉坦病毒爆发后，MV Hondius 号即将停靠...",
+        "titleZh": "特朗普称伊朗对美国结束战争提议的反应“完全不可接受”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗对美国结束战争提议的反应“完全不可接受””。核心要点：目前还没有公布伊朗的反应或美国旨在结束战争的提议的细节。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 10 May 2026 01:08:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 11 May 2026 01:55:13 GMT",
+        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "普京表示他认为乌克兰冲突“即将结束”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“普京表示他认为乌克兰冲突“即将结束””。核心要点：这位俄罗斯领导人看到了乌克兰谈判的潜力，但谴责西方对泽连斯基总统的支持。",
+        "titleZh": "他的父亲刚刚下葬。然后西岸定居者强迫他挖出尸体",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“他的父亲刚刚下葬。然后西岸定居者强迫他挖出尸体”。核心要点：联合国人权办公室谴责约旦河西岸发生的这一事件“令人震惊，是巴勒斯坦人非人化的象征”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 10 May 2026 00:46:07 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 10 May 2026 19:56:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "黎巴嫩称以色列空袭造成39人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩称以色列空袭造成39人死亡”。核心要点：尽管上个月宣布了停火协议，以色列和真主党仍在继续交火。",
+        "titleZh": "法国国民从受汉坦病毒袭击的船只返回后出现症状",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国国民从受汉坦病毒袭击的船只返回后出现症状”。核心要点：法国总理表示，MV Hondius 号的五名乘客将在巴黎接受隔离，“直至另行通知”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 09 May 2026 21:23:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 11 May 2026 03:29:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "澳大利亚右翼一国党取得历史性议会胜利",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚右翼一国党取得历史性议会胜利”。核心要点：一国党在补选中赢得了众议院的第一个席位，这被视为对民粹主义政党的关键考验。",
+        "titleZh": "患病的伊朗诺贝尔奖获得者获得保释并转院",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“患病的伊朗诺贝尔奖获得者获得保释并转院”。核心要点：伊朗当局准许人权活动家纳尔吉斯·穆罕默迪保释，因为人们越来越担心她在监狱中的健康状况不佳。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 09 May 2026 14:36:21 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 11 May 2026 00:40:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "斯里兰卡一名佛教僧侣因涉嫌强奸青少年而被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“斯里兰卡一名佛教僧侣因涉嫌强奸青少年而被捕”。核心要点：帕勒伽玛·赫马拉提罗 (Pallegama Hemarathana Thero) 尊者是佛教界最受尊敬的职位之一。",
+        "titleZh": "泰国分裂的前总理出狱了，但他信时代结束了吗？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国分裂的前总理出狱了，但他信时代结束了吗？”。核心要点：他信似乎无法退居二线。这一次，情况可能真的会有所不同。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 10 May 2026 03:09:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 11 May 2026 03:41:34 GMT",
+        "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "特朗普驳回伊朗结束战争的提议后油价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普驳回伊朗结束战争的提议后油价上涨”。核心要点：霍尔木兹海峡水道仍然有效关闭，严重扰乱了全球能源运输。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 11 May 2026 01:12:30 GMT",
+        "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "希腊旅游部长表示英国人夏季边境不会出现延误",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“希腊旅游部长表示英国人夏季边境不会出现延误”。核心要点：奥尔加·凯法洛吉安尼 (Olga Kefalogianni) 表示，希腊政府不希望游客受到生物识别检查的“负担”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 10 May 2026 23:33:43 GMT",
+        "url": "https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "这对夫妇在航班取消后损失了 1,000 英镑 - 以下是需要检查的内容，以免您损失",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“这对夫妇在航班取消后损失了 1,000 英镑 - 以下是需要检查的内容，以免您损失”。核心要点：仔细阅读您的保单详细信息非常重要 - 这是您出发旅行之前需要勾选的清单。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 10 May 2026 23:32:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cx215yldr13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "杜阿·利帕 (Dua Lipa) 因电视盒子上使用她的照片而起诉三星，索赔 1500 万美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“杜阿·利帕 (Dua Lipa) 因电视盒子上使用她的照片而起诉三星，索赔 1500 万美元”。核心要点：这位流行歌星的法律团队声称，未经许可，三星电视盒上使用了她的脸部照片。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 11 May 2026 02:48:53 GMT",
+        "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "英国即将迎来一个居家度假的夏天——这里有很多隐藏的瑰宝",
         "summaryZh": "这是一条金融市场新闻，重点围绕“英国即将迎来一个居家度假的夏天——这里有很多隐藏的瑰宝”。核心要点：Airbnb 和 Booking.com 表示，人们对英国住宿的兴趣较去年有所上升，经验丰富的住宿度假者分享了他们最喜欢的地点。",
@@ -55,38 +127,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 08 May 2026 23:30:12 GMT",
         "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国航空燃油可用于欧洲以缓解可能的短缺",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国航空燃油可用于欧洲以缓解可能的短缺”。核心要点：一个国际航空机构表示，更广泛地接受美国级航空燃油可能有助于避免任何供应问题。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 14:42:13 GMT",
-        "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "主要火车运营商将在几个月内重新国有化",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“主要火车运营商将在几个月内重新国有化”。核心要点：GWR 在伦敦和南威尔士之间运营火车，将受到政府控制。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 16:14:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cy02yyl1e7xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "从伊朗战争中赚取数十亿美元的公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“从伊朗战争中赚取数十亿美元的公司”。核心要点：通过利润的飙升或股价的飙升，战争对一些公司来说是一种福音。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 08:13:07 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国就业数据连续第二个月好于预期",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国就业数据连续第二个月好于预期”。核心要点：尽管伊朗战争引发了天然气价格上涨和经济不确定性，但仍取得了可靠的数据。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 08 May 2026 20:41:19 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21664lp32o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
