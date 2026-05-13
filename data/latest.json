@@ -1,172 +1,119 @@
 {
-  "updatedAt": "2026-05-12T04:48:03.536Z",
+  "updatedAt": "2026-05-13T04:58:31.810Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Trends in 10th Revision of the International Classification of Diseases-Coded CKD Incidence Among Chinese Adults.",
-        "journal": "Kidney international reports",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article",
-        "authors": "Zeng Z, Cheng S, Hu Y",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 723）。核心观点：慢性肾脏病（CKD）是一个日益严重的公共卫生问题，但有关其在中国发病率的证据有限。 临床提示：中国嘉道理生物样本库 (CKB) 招募了来自中国 10 个地区的 512,723 名 30 至 79 岁的参与者，我们利用该数据分析了 5 种主要 CKD 亚型：糖尿病肾病 (DKD)、高血压肾病",
-        "abstract": "Chronic kidney disease (CKD) is a growing public health concern, yet evidence on its incidence is limited in China. Using data from the China Kadoorie Biobank (CKB), which recruited 512,723 participants aged 30 to 79 years from 10 areas across China, we analyzed 5 major CKD subtypes: diabetic kidney disease (DKD), hypertensive nephropathy (HTN), glomerulonephritis (GN), chronic tubulointerstitial nephritis (CTIN), and obstructive nephropathy (ON). Total CKD included the aforementioned subtypes, CKD due to other reasons, or chronic kidney failure. Outcomes were ascertained through linkages to local death and disease registries and health insurance databases until December 31, 2018. Poisson re...",
-        "pmid": "42112160",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42112160/",
-        "doiUrl": "https://doi.org/10.1016/j.ekir.2026.106525",
-        "url": "https://doi.org/10.1016/j.ekir.2026.106525"
-      },
-      {
-        "title": "Identification of ATF3 as a Potential Key Biomarker for Hypertensive Nephropathy via Single-Cell Transcriptome Sequencing.",
-        "journal": "Inflammation",
-        "pubDate": "2026 May 11",
-        "studyType": "Journal Article",
-        "authors": "Tan F, Hu R, Du J",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压肾病（HTN）是终末期肾病（ESRD）的主要原因。 临床提示：其发病机制很复杂，涉及多种细胞类型的异质性改变。",
-        "abstract": "Hypertensive Nephropathy (HTN) is a leading cause of end-stage renal disease (ESRD). Its pathogenesis is complex, involving heterogeneous alterations across multiple cell types. Currently, there is a lack of specific biomarkers capable of early detection of renal injury and reflecting molecular pathological characteristics. We performed an integrated analysis of single-cell RNA sequencing (scRNA-seq) data derived from renal tissue samples of HTN patients and healthy controls. Cell subpopulations were identified via dimensionality reduction and clustering, and key genes were screened using differential expression analysis. Furthermore, we employed functional enrichment analysis, non-negative ...",
-        "pmid": "42113322",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42113322/",
-        "doiUrl": "https://doi.org/10.1007/s10753-026-02515-5",
-        "url": "https://doi.org/10.1007/s10753-026-02515-5"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Mechanical approach of some liver diseases and their impact on hemodynamics.",
-        "journal": "Computers in biology and medicine",
+        "title": "Portal hypertensive ischemic enteropathy without mesenteric thrombosis: Reversible with TIPS despite extreme hyperlactatemia.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "pubDate": "2026 May 12",
+        "studyType": "Journal Article",
+        "authors": "Jeong IJ, Moon DB, Jwa EK",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：无肠系膜血栓形成的门静脉高压缺血性肠病：尽管存在严重高乳酸血症，但可通过 TIPS 逆转。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42119071",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42119071/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000904",
+        "url": "https://doi.org/10.1097/LVT.0000000000000904"
+      },
+      {
+        "title": "Rifaximin ameliorates cirrhotic portal hypertension through suppression of microbiome-derived deoxycholic acid.",
+        "journal": "Journal of hepatology",
         "pubDate": "2026 May 11",
         "studyType": "Journal Article",
-        "authors": "Torres Rojas AM, Lorente S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝循环系统由两个流入血管网络（肝动脉（HA）和门静脉（PV））、肝毛细血管（正弦曲线）和由肝静脉形成的流出网络组成。 临床提示：我们基于考虑血管壁弹性和脉动血液的一维健康肝脏循环模型，提出了非酒精性脂肪性肝病 (NAFLD) 和充血性肝病 (CH) 的新型机械模型",
-        "abstract": "The hepatic circulatory system consists of two inflow vascular networks -the hepatic artery (HA) and the portal vein (PV)-, liver capillaries (sinusoids), and an outflow network formed by the hepatic veins. We present novel mechanical models of non-alcoholic fatty liver disease (NAFLD) and congestive hepatopathy (CH), building on our 1D healthy liver circulation model that considers vessel wall elasticity and pulsatile blood flow and pressure. NAFLD is emulated by modeling sinusoids compressed by fat-laden hepatocytes (reducing their cross-sectional area), and adopting NAFLD-reported wall elasticity. This leads to a moderate increase in sinusoids inlet pressure (portal hypertension) that gro...",
-        "pmid": "42114434",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42114434/",
-        "doiUrl": "https://doi.org/10.1016/j.compbiomed.2026.111749",
-        "url": "https://doi.org/10.1016/j.compbiomed.2026.111749"
-      },
-      {
-        "title": "Hepatopulmonary syndrome as presentation of pediatric metabolic dysfunction-associated steatohepatitis.",
-        "journal": "JPGN reports",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Sakhuja S, Beer SS, Patel KR",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：儿童肥胖正在增加，并导致严重的合并症，其中代谢功能障碍相关的脂肪肝病（MASLD）使个体容易患上肝硬化。 临床提示：我们描述了一名年轻的 11 岁西班牙裔男性，他因代谢功能障碍相关脂肪性肝炎 (MASH) 而出现继发于肝硬化门静脉高压的肝肺综合征，需要进行肝移植",
-        "abstract": "Childhood obesity is rising and leading to serious co-morbidities, among which is metabolic dysfunction-associated steatotic liver disease (MASLD) predisposing individuals to cirrhosis. We describe a young 11-year-old Hispanic male who presented with hepatopulmonary syndrome secondary to cirrhotic portal hypertension from metabolic dysfunction-associated steatohepatitis (MASH), necessitating liver transplantation. Despite lifestyle modifications post-transplantation, the patient experienced persistent weight gain and recurrence of steatosis, emphasizing challenges of managing pediatric MASLD. The burden of childhood obesity is increasing and impacting children significantly earlier than prev...",
-        "pmid": "42110135",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42110135/",
-        "doiUrl": "https://doi.org/10.1002/jpr3.70139",
-        "url": "https://doi.org/10.1002/jpr3.70139"
-      },
-      {
-        "title": "Gastric antral vascular ectasia: A rare etiology of gastrointestinal bleeding in children.",
-        "journal": "JPGN reports",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Alharbi O, Kasturi S, Yanni G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：GAVE 通常与慢性疾病有关，在成人中更常见。 临床提示：胃肠道出血在儿童中相对常见。",
-        "abstract": "Gastrointestinal bleeding is relatively common in children. While most patients present with mild bleeding, gastric antral vascular ectasia (GAVE) is a rare but potentially life-threatening cause. GAVE is typically associated with chronic conditions and more common in adults. The incidence, diagnosis, and management of GAVE in the pediatric population have not been established. We present two cases of GAVE with severe and chronic gastrointestinal bleeding. The first patient, a 7-year-old with chronic granulomatous disease who had melena and anemia following hematopoietic stem cell transplantation (HSCT). Endoscopic intervention with argon plasma coagulation (APC) was successful in achieving ...",
-        "pmid": "42110131",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42110131/",
-        "doiUrl": "https://doi.org/10.1002/jpr3.70136",
-        "url": "https://doi.org/10.1002/jpr3.70136"
-      },
-      {
-        "title": "Management of parastomal variceal bleeding with endoscopic ultrasound-guided coiling and human thrombin/fibrinogen injection.",
-        "journal": "VideoGIE : an official video journal of the American Society for Gastrointestinal Endoscopy",
-        "pubDate": "2026 May",
-        "studyType": "Journal Article",
-        "authors": "Tomar S, Abbasi A, Chandan S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：造口旁静脉曲张是门脉高压患者胃肠道出血的罕见但严重的原因。 临床提示：常规治疗包括手术修复或介入放射栓塞，但这些对于晚期疾病可能不可行。",
-        "abstract": "Parastomal varices are an uncommon but serious cause of gastrointestinal bleeding in patients with portal hypertension. Conventional treatments include surgical revision or interventional radiology embolization, but these may not be feasible in advanced disease. Endoscopic ultrasound (EUS)-guided therapy offers a minimally invasive alternative. We describe 2 cases using EUS-guided coiling and combined thrombin/fibrinogen injection for parastomal variceal bleeding. Two patients with colorectal cancer and prior liver metastases developed recurrent bleeding from parastomal varices despite conservative or interventional radiology management. Feeding vessels were identified by EUS, accessed with ...",
-        "pmid": "42109629",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42109629/",
-        "doiUrl": "https://doi.org/10.1016/j.vgie.2025.11.012",
-        "url": "https://doi.org/10.1016/j.vgie.2025.11.012"
+        "authors": "Xiong HL, Zhao Q, Liu SQ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：微生物组衍生的脱氧胆酸 (DCA) 会升高血清 5-羟色胺 (5-HT)，这是门脉高压 (PH) 的介质。 临床提示：利福昔明是一种不可吸收的抗生素，已知可以降低 DCA 水平。",
+        "abstract": "Microbiome-derived deoxycholic acid (DCA) elevates serum 5-hydroxytryptamine (5-HT), a mediator of portal hypertension (PH). Rifaximin, a non-absorbable antibiotic, is known to reduce DCA levels. We aimed to elucidate the role of DCA in cirrhotic PH and the therapeutic potential of rifaximin. PH was induced in mice by thioacetamide (TAA) injection or bile duct ligation (BDL). Mice were treated with antibiotics (ABX) or rifaximin, with or without exogenous DCA replenishment. A cohort of 51 cirrhotic patients and 19 healthy controls was analyzed to validate the correlations among DCA, 5-HT, and hepatic venous pressure gradient (HVPG). Mice with tissue-specific knockout of gut epithelial Tph1 (...",
+        "pmid": "42119851",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42119851/",
+        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.05.001",
+        "url": "https://doi.org/10.1016/j.jhep.2026.05.001"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普称伊朗停火需要“巨大的生命支持”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗停火需要“巨大的生命支持””。核心要点：美国总统批评伊朗提出的结束战争的还价，并表示为期一个月的停火“软弱得令人难以置信”。",
+        "titleZh": "十年后，特朗普重返更强大、更自信的中国",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“十年后，特朗普重返更强大、更自信的中国”。核心要点：一位分析人士表示，北京可以说是美国历史上遇到的最强大的竞争对手。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 00:59:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 22:07:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普与习近平的峰会将如何确定未来多年的超级大国关系",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普与习近平的峰会将如何确定未来多年的超级大国关系”。核心要点：特朗普对中国的旋风式访问是多年来最重要的一次，但它会取得成果吗？",
+        "titleZh": "澳大利亚拥有一些世界上最昂贵的房屋。取消税收优惠会有帮助吗？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚拥有一些世界上最昂贵的房屋。取消税收优惠会有帮助吗？”。核心要点：政府希望改革能够帮助年轻人进入市场，而批评者则表示这将抑制供应。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 23:20:53 GMT",
-        "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 20:28:03 GMT",
+        "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "最后一批乘客离开受病毒袭击的游轮，另有三人检测呈阳性",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“最后一批乘客离开受病毒袭击的游轮，另有三人检测呈阳性”。核心要点：回国的一名美国人和一名法国公民的汉坦病毒检测结果呈阳性。",
+        "titleZh": "在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深”。核心要点：印度航空在努力从事故中恢复的过程中面临着领导真空和不断增加的财务损失。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 20:49:14 GMT",
-        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 22:15:50 GMT",
+        "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列通过法律允许对与 10 月 7 日有关的人判处死刑并进行公开审判",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列通过法律允许对与 10 月 7 日有关的人判处死刑并进行公开审判”。核心要点：以色列通过了一项法律，允许对参与哈马斯领导的史无前例的袭击事件的人判处死刑和公开审判。",
+        "titleZh": "NBA 首位公开同性恋球员贾森·柯林斯去世，享年 47 岁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“NBA 首位公开同性恋球员贾森·柯林斯去世，享年 47 岁”。核心要点：柯林斯去年年底表示，他被诊断出患有侵袭性脑癌。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 04:11:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 00:40:54 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "欧盟同意因约旦河西岸暴力事件对以色列定居者实施制裁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧盟同意因约旦河西岸暴力事件对以色列定居者实施制裁”。核心要点：欧盟外交政策负责人表示，“极端主义和暴力会带来后果”，而以色列则称此举是“任意的”。",
+        "titleZh": "黎巴嫩称以色列空袭造成 13 人死亡，其中两名护理人员",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩称以色列空袭造成 13 人死亡，其中两名护理人员”。核心要点：黎巴嫩卫生部表示，医护人员正在纳巴提耶执行救援任务，以应对早些时候造成一人死亡的袭击事件。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 19:37:17 GMT",
-        "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 20:00:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "驾驶考试预订对学习驾驶员有何变化",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“驾驶考试预订对学习驾驶员有何变化”。核心要点：从 5 月 12 日起，只有学员驾驶员可以预约自己的考试，教练则不能。",
+        "titleZh": "萨姆·奥尔特曼 (Sam Altman) 告诉陪审团，伊隆·马斯克 (Elon Musk) 表示 OpenAI 的控制权应该交给他的孩子",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“萨姆·奥尔特曼 (Sam Altman) 告诉陪审团，伊隆·马斯克 (Elon Musk) 表示 OpenAI 的控制权应该交给他的孩子”。核心要点：山姆·奥尔特曼表示，埃隆·马斯克曾多次尝试完全控制 OpenAI，目前他正在起诉 OpenAI。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 23:08:21 GMT",
-        "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 18:51:56 GMT",
+        "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "世界银行前行长表示中国应停止囤积粮食和化肥",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“世界银行前行长表示中国应停止囤积粮食和化肥”。核心要点：戴维·马尔帕斯还表示，北京声称自己是发展中国家的说法不再可信。",
+        "titleZh": "由于首相未来的不确定性持续存在，英国借贷成本飙升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于首相未来的不确定性持续存在，英国借贷成本飙升”。核心要点：英国领导层更换的可能性令一些投资者感到不安，并推高了债券收益率。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 03:40:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 16:31:00 GMT",
+        "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "斯塔默宣布英国钢铁国有化计划",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“斯塔默宣布英国钢铁国有化计划”。核心要点：该钢铁厂已受政府控制近一年，但本周将提出将其国有化的立法。",
+        "titleZh": "伊朗战争导致能源成本飙升，美国通胀率跃升至3.8%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争导致能源成本飙升，美国通胀率跃升至3.8%”。核心要点：随着消费者感受到伊朗战争的影响，衡量美国通胀的关键指标升至 2023 年 5 月以来的最高水平。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 11:22:01 GMT",
-        "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 18:36:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Ovo 能源客户敦促不要因收购计划而惊慌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Ovo 能源客户敦促不要因收购计划而惊慌”。核心要点：根据一项计划中的协议，所有现有关税将得到全额履行，该协议可能会创建英国最大的能源供应商之一。",
+        "titleZh": "开发商表示，澳大利亚第一座特朗普大厦的计划因“有毒”品牌而被取消",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“开发商表示，澳大利亚第一座特朗普大厦的计划因“有毒”品牌而被取消”。核心要点：这座位于昆士兰州黄金海岸的 91 层豪华酒店原本是澳大利亚最高的建筑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 15:39:32 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 00:42:23 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g08dlnd0vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "埃隆·马斯克和蒂姆·库克等首席执行官预计将陪同特朗普中国之行",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克和蒂姆·库克等首席执行官预计将陪同特朗普中国之行”。核心要点：共有 17 名美国高管将与总统一起出访，总统将在那里会见中国国家主席习近平。",
+        "titleZh": "在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深”。核心要点：印度航空在努力从事故中恢复的过程中面临着领导真空和不断增加的财务损失。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 11 May 2026 18:26:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 12 May 2026 22:15:50 GMT",
+        "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
