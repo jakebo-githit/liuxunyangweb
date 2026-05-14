@@ -1,119 +1,133 @@
 {
-  "updatedAt": "2026-05-13T04:58:31.810Z",
+  "updatedAt": "2026-05-14T04:57:25.766Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Associations Between Elevated Anticardiolipin IgG, Thrombocytopenia, and Combined Diabetes-Hypertension Etiology in Hemodialysis Patients.",
+        "journal": "Journal of clinical medicine",
+        "pubDate": "2026 Apr 24",
+        "studyType": "Journal Article",
+        "authors": "Makhdoom HQ, Sandokji I, Almutairi YH",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：糖尿病高血压肾病独特的病理生理学可能与可能导致抗磷脂抗体产生和血栓并发症的微环境有关。 临床提示：本研究旨在调查血液透析 (HD) 患者中 aCL IgG 升高是否与糖尿病高血压 (DM + HTN) 病因和血小板减少症相关，从而确定临床上不同的",
+        "abstract": "Background: Elevated anticardiolipin IgG (aCL IgG) has been reported in end-stage renal disease (ESRD), but its association with specific etiologies of kidney failure remains unexplored. The unique pathophysiology of diabetic-hypertensive nephropathy may be associated with a microenvironment that could potentially contribute to antiphospholipid antibody production and thrombotic complications. This study aimed to investigate whether aCL IgG elevation in hemodialysis (HD) patients is associated with combined diabetes-hypertension (DM + HTN) etiology and thrombocytopenia, thereby identifying a clinically distinct potential high-risk subgroup. In this hypothesis-generating study, we focused on ...",
+        "pmid": "42123003",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42123003/",
+        "doiUrl": "https://doi.org/10.3390/jcm15093269",
+        "url": "https://doi.org/10.3390/jcm15093269"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Portal hypertensive ischemic enteropathy without mesenteric thrombosis: Reversible with TIPS despite extreme hyperlactatemia.",
-        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "title": "Reliability of Hepatic Steatosis Quantification by Controlled Attenuation Parameter in Steatotic Liver Disease.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
         "pubDate": "2026 May 12",
         "studyType": "Journal Article",
-        "authors": "Jeong IJ, Moon DB, Jwa EK",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：无肠系膜血栓形成的门静脉高压缺血性肠病：尽管存在严重高乳酸血症，但可通过 TIPS 逆转。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42119071",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42119071/",
-        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000904",
-        "url": "https://doi.org/10.1097/LVT.0000000000000904"
+        "authors": "Simonis L, Marcour Y, Embacher J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 40）。核心观点：在 4 个队列中评估了 28 天内不同日的可重复性：疑似 SLD（III，n=37）、疑似纤维化（IV，n=163）、代偿性晚期 SLD（V，n=32）和临床显着的门静脉高压... 临床提示：肝脏脂肪变性的评估是诊断和监测脂肪性肝病 (SLD) 的关键。",
+        "abstract": "Assessment of hepatic steatosis is key for diagnosis and monitoring of steatotic liver disease (SLD). Controlled attenuation parameter (CAP) is widely used, but concerns regarding its measurement variability exist. We evaluated the repeatability and reproducibility of CAP and FibroScan-AST (FAST) score across different clinical SLD settings and disease stages. We assessed same-day repeatability in subjects with suspected SLD in secondary care (Cohort I, n=40) and tertiary care (II, n=58). Different-day reproducibility within 28 days was assessed in four cohorts: suspected SLD (III, n=37), suspected fibrosis (IV, n=163), compensated advanced SLD (V, n=32) and clinically significant portal hyp...",
+        "pmid": "42128040",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42128040/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.05.006",
+        "url": "https://doi.org/10.1016/j.cgh.2026.05.006"
       },
       {
-        "title": "Rifaximin ameliorates cirrhotic portal hypertension through suppression of microbiome-derived deoxycholic acid.",
-        "journal": "Journal of hepatology",
-        "pubDate": "2026 May 11",
+        "title": "Changes in Disease Severity and Outcomes Among Electively Admitted Cirrhosis Patients During the COVID-19 Era.",
+        "journal": "Healthcare (Basel, Switzerland)",
+        "pubDate": "2026 May 6",
         "studyType": "Journal Article",
-        "authors": "Xiong HL, Zhao Q, Liu SQ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：微生物组衍生的脱氧胆酸 (DCA) 会升高血清 5-羟色胺 (5-HT)，这是门脉高压 (PH) 的介质。 临床提示：利福昔明是一种不可吸收的抗生素，已知可以降低 DCA 水平。",
-        "abstract": "Microbiome-derived deoxycholic acid (DCA) elevates serum 5-hydroxytryptamine (5-HT), a mediator of portal hypertension (PH). Rifaximin, a non-absorbable antibiotic, is known to reduce DCA levels. We aimed to elucidate the role of DCA in cirrhotic PH and the therapeutic potential of rifaximin. PH was induced in mice by thioacetamide (TAA) injection or bile duct ligation (BDL). Mice were treated with antibiotics (ABX) or rifaximin, with or without exogenous DCA replenishment. A cohort of 51 cirrhotic patients and 19 healthy controls was analyzed to validate the correlations among DCA, 5-HT, and hepatic venous pressure gradient (HVPG). Mice with tissue-specific knockout of gut epithelial Tph1 (...",
-        "pmid": "42119851",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42119851/",
-        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.05.001",
-        "url": "https://doi.org/10.1016/j.jhep.2026.05.001"
+        "authors": "Ardelean MV, Buzas DR, Istodor AV",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：背景：由 SARS-CoV-2 病毒引起的 2019 冠状病毒病（COVID-19）对全球健康产生了深远的主要影响，并通过广泛破坏医疗保健系统而产生二次影响，限制了人们获得必要的选择性医疗服务的机会。 临床提示：背景：2019 年冠状病毒病 (COVID-19) 由 SARS-CoV-2 病毒引起，对全球健康产生深远的主要影响，并通过广泛破坏医疗保健系统、限制获得医疗服务而产生二次影响。",
+        "abstract": "Background : Coronavirus disease 2019 (COVID-19), caused by the SARS-CoV-2 virus, had profound primary effects on global health and secondary effects through widespread disruption of healthcare systems, limiting access to elective medical services essential for the management of chronic diseases such as liver cirrhosis. Elective hospitalizations play a key role in disease monitoring, prevention of complications, and therapeutic optimization. This study aimed to evaluate the impact of the pandemic on the clinical profile, disease severity, and outcomes of patients electively admitted with liver cirrhosis across three periods: pre-pandemic, pandemic, and post-pandemic. Methods: This retrospect...",
+        "pmid": "42121698",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42121698/",
+        "doiUrl": "https://doi.org/10.3390/healthcare14091255",
+        "url": "https://doi.org/10.3390/healthcare14091255"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "十年后，特朗普重返更强大、更自信的中国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“十年后，特朗普重返更强大、更自信的中国”。核心要点：一位分析人士表示，北京可以说是美国历史上遇到的最强大的竞争对手。",
+        "titleZh": "特朗普抵达中国与习近平进行高风险会谈，贸易、伊朗和台湾问题成为议程",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普抵达中国与习近平进行高风险会谈，贸易、伊朗和台湾问题成为议程”。核心要点：美国总统表示，他对习近平的第一个要求是“开放”中国，而北京方面预计将就台湾的地位向特朗普施压。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 22:07:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 17:00:12 GMT",
+        "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "澳大利亚拥有一些世界上最昂贵的房屋。取消税收优惠会有帮助吗？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚拥有一些世界上最昂贵的房屋。取消税收优惠会有帮助吗？”。核心要点：政府希望改革能够帮助年轻人进入市场，而批评者则表示这将抑制供应。",
+        "titleZh": "法院推翻亚历克斯·默多的谋杀定罪并下令重新审判",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法院推翻亚历克斯·默多的谋杀定罪并下令重新审判”。核心要点：法院已下令对 2021 年 6 月保罗·默多 (Paul Murdaugh) 和玛吉·默多 (Maggie Murdaugh) 被杀事件进行新的审判。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 20:28:03 GMT",
-        "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 00:38:56 GMT",
+        "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深”。核心要点：印度航空在努力从事故中恢复的过程中面临着领导真空和不断增加的财务损失。",
+        "titleZh": "英国广播公司(BBC)调查后，乌干达数十只狗获救，嫌疑人被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“英国广播公司(BBC)调查后，乌干达数十只狗获救，嫌疑人被捕”。核心要点：英国广播公司 (BBC) 的一项调查揭露了诈骗者如何发布陷入困境的狗的社交内容，以欺骗捐赠者捐款。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 22:15:50 GMT",
-        "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 13:37:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "NBA 首位公开同性恋球员贾森·柯林斯去世，享年 47 岁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“NBA 首位公开同性恋球员贾森·柯林斯去世，享年 47 岁”。核心要点：柯林斯去年年底表示，他被诊断出患有侵袭性脑癌。",
+        "titleZh": "接触汉坦病毒后，一名妇女在南太平洋英国岛屿上被隔离",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“接触汉坦病毒后，一名妇女在南太平洋英国岛屿上被隔离”。核心要点：英国海外领土皮特凯恩群岛政府表示，在一艘受病毒袭击的船上的妇女“没有任何生病的迹象”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 00:40:54 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 14:16:08 GMT",
+        "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "黎巴嫩称以色列空袭造成 13 人死亡，其中两名护理人员",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩称以色列空袭造成 13 人死亡，其中两名护理人员”。核心要点：黎巴嫩卫生部表示，医护人员正在纳巴提耶执行救援任务，以应对早些时候造成一人死亡的袭击事件。",
+        "titleZh": "特朗普访华期间需要了解什么",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普访华期间需要了解什么”。核心要点：特朗普抵达北京，这是自2017年以来美国领导人首次访问北京。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 20:00:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 13:01:51 GMT",
+        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "萨姆·奥尔特曼 (Sam Altman) 告诉陪审团，伊隆·马斯克 (Elon Musk) 表示 OpenAI 的控制权应该交给他的孩子",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“萨姆·奥尔特曼 (Sam Altman) 告诉陪审团，伊隆·马斯克 (Elon Musk) 表示 OpenAI 的控制权应该交给他的孩子”。核心要点：山姆·奥尔特曼表示，埃隆·马斯克曾多次尝试完全控制 OpenAI，目前他正在起诉 OpenAI。",
+        "titleZh": "行业负责人表示欧洲机票价格上涨“不可避免”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“行业负责人表示欧洲机票价格上涨“不可避免””。核心要点：由于美国和以色列与伊朗发生冲突后油价居高不下，乘坐飞机的费用将变得更加昂贵。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 18:51:56 GMT",
-        "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 23:03:15 GMT",
+        "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于首相未来的不确定性持续存在，英国借贷成本飙升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于首相未来的不确定性持续存在，英国借贷成本飙升”。核心要点：英国领导层更换的可能性令一些投资者感到不安，并推高了债券收益率。",
+        "titleZh": "特朗普的美联储主席人选凯文·沃什获得美国参议院确认",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的美联储主席人选凯文·沃什获得美国参议院确认”。核心要点：凯文·沃什 (Kevin Warsh) 以自该职位需要参议院确认投票以来最微弱的优势获得确认。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 16:31:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 20:15:33 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗战争导致能源成本飙升，美国通胀率跃升至3.8%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗战争导致能源成本飙升，美国通胀率跃升至3.8%”。核心要点：随着消费者感受到伊朗战争的影响，衡量美国通胀的关键指标升至 2023 年 5 月以来的最高水平。",
+        "titleZh": "法院裁定澳大利亚巨头Coles以虚假折扣误导购物者",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法院裁定澳大利亚巨头Coles以虚假折扣误导购物者”。核心要点：该决定是在针对 Woolworths 的类似案件中做出的，可能意味着严厉的处罚。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 18:36:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 03:09:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c202159x6x3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "开发商表示，澳大利亚第一座特朗普大厦的计划因“有毒”品牌而被取消",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“开发商表示，澳大利亚第一座特朗普大厦的计划因“有毒”品牌而被取消”。核心要点：这座位于昆士兰州黄金海岸的 91 层豪华酒店原本是澳大利亚最高的建筑。",
+        "titleZh": "古巴能源部长称柴油和石油已耗尽",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“古巴能源部长称柴油和石油已耗尽”。核心要点：这位部长表示，古巴的局势“极其紧张”，因为美国主导的对该国石油封锁导致大范围断电。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 00:42:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g08dlnd0vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 04:26:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“在最终的艾哈迈达巴德坠机报告发布之前，印度航空危机进一步加深”。核心要点：印度航空在努力从事故中恢复的过程中面临着领导真空和不断增加的财务损失。",
+        "titleZh": "由于英国客户持谨慎态度，Tui 预计夏季销售额下降 10%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于英国客户持谨慎态度，Tui 预计夏季销售额下降 10%”。核心要点：该旅行社表示，出于对伊朗战争的担忧，顾客推迟了假期预订。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 12 May 2026 22:15:50 GMT",
-        "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 13 May 2026 11:28:03 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
