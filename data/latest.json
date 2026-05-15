@@ -1,133 +1,132 @@
 {
-  "updatedAt": "2026-05-14T04:57:25.766Z",
+  "updatedAt": "2026-05-15T05:00:44.295Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Associations Between Elevated Anticardiolipin IgG, Thrombocytopenia, and Combined Diabetes-Hypertension Etiology in Hemodialysis Patients.",
-        "journal": "Journal of clinical medicine",
-        "pubDate": "2026 Apr 24",
-        "studyType": "Journal Article",
-        "authors": "Makhdoom HQ, Sandokji I, Almutairi YH",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：糖尿病高血压肾病独特的病理生理学可能与可能导致抗磷脂抗体产生和血栓并发症的微环境有关。 临床提示：本研究旨在调查血液透析 (HD) 患者中 aCL IgG 升高是否与糖尿病高血压 (DM + HTN) 病因和血小板减少症相关，从而确定临床上不同的",
-        "abstract": "Background: Elevated anticardiolipin IgG (aCL IgG) has been reported in end-stage renal disease (ESRD), but its association with specific etiologies of kidney failure remains unexplored. The unique pathophysiology of diabetic-hypertensive nephropathy may be associated with a microenvironment that could potentially contribute to antiphospholipid antibody production and thrombotic complications. This study aimed to investigate whether aCL IgG elevation in hemodialysis (HD) patients is associated with combined diabetes-hypertension (DM + HTN) etiology and thrombocytopenia, thereby identifying a clinically distinct potential high-risk subgroup. In this hypothesis-generating study, we focused on ...",
-        "pmid": "42123003",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42123003/",
-        "doiUrl": "https://doi.org/10.3390/jcm15093269",
-        "url": "https://doi.org/10.3390/jcm15093269"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Reliability of Hepatic Steatosis Quantification by Controlled Attenuation Parameter in Steatotic Liver Disease.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 May 12",
+        "title": "Non-contrast microvascular flow imaging in abdominal ultrasound: a pictorial essay.",
+        "journal": "Journal of ultrasound",
+        "pubDate": "2026 May 14",
         "studyType": "Journal Article",
-        "authors": "Simonis L, Marcour Y, Embacher J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 40）。核心观点：在 4 个队列中评估了 28 天内不同日的可重复性：疑似 SLD（III，n=37）、疑似纤维化（IV，n=163）、代偿性晚期 SLD（V，n=32）和临床显着的门静脉高压... 临床提示：肝脏脂肪变性的评估是诊断和监测脂肪性肝病 (SLD) 的关键。",
-        "abstract": "Assessment of hepatic steatosis is key for diagnosis and monitoring of steatotic liver disease (SLD). Controlled attenuation parameter (CAP) is widely used, but concerns regarding its measurement variability exist. We evaluated the repeatability and reproducibility of CAP and FibroScan-AST (FAST) score across different clinical SLD settings and disease stages. We assessed same-day repeatability in subjects with suspected SLD in secondary care (Cohort I, n=40) and tertiary care (II, n=58). Different-day reproducibility within 28 days was assessed in four cohorts: suspected SLD (III, n=37), suspected fibrosis (IV, n=163), compensated advanced SLD (V, n=32) and clinically significant portal hyp...",
-        "pmid": "42128040",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42128040/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.05.006",
-        "url": "https://doi.org/10.1016/j.cgh.2026.05.006"
+        "authors": "Musmeci M, Brighenti A, Serra C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：微血管血流成像 (MV-Flow) 是一种先进的多普勒技术，旨在增强对缓慢且不均匀的血流的敏感性，同时有效抑制组织运动伪影。 临床提示：低速血流和复杂血管模式的评估仍然是腹部成像中传统彩色多普勒超声的公认局限性。",
+        "abstract": "The evaluation of low-velocity blood flow and complex vascular patterns remains a recognized limitation of conventional color Doppler ultrasound in abdominal imaging. Microvascular flow imaging (MV-Flow) is an advanced Doppler technique designed to enhance sensitivity to slow and heterogeneous blood flow while effectively suppressing tissue motion artifacts. This pictorial essay illustrates the main sonographic applications of MV-Flow across a wide spectrum of abdominal clinical scenarios, including arterial flow alterations, venous and portal vascular disorders, post-transplantation hemodynamic changes, inflammatory parenchymal conditions, and selected focal liver lesions. Representative im...",
+        "pmid": "42133145",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42133145/",
+        "doiUrl": "https://doi.org/10.1007/s40477-026-01163-7",
+        "url": "https://doi.org/10.1007/s40477-026-01163-7"
       },
       {
-        "title": "Changes in Disease Severity and Outcomes Among Electively Admitted Cirrhosis Patients During the COVID-19 Era.",
-        "journal": "Healthcare (Basel, Switzerland)",
-        "pubDate": "2026 May 6",
+        "title": "Convergent Immune-Coagulation Programs Underlie Gastrointestinal Bleeding Risk in Portal Vein Tumor Thrombosis-Associated Hepatocellular Carcinoma and Portal Hypertension.",
+        "journal": "Human mutation",
+        "pubDate": "2026",
         "studyType": "Journal Article",
-        "authors": "Ardelean MV, Buzas DR, Istodor AV",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：背景：由 SARS-CoV-2 病毒引起的 2019 冠状病毒病（COVID-19）对全球健康产生了深远的主要影响，并通过广泛破坏医疗保健系统而产生二次影响，限制了人们获得必要的选择性医疗服务的机会。 临床提示：背景：2019 年冠状病毒病 (COVID-19) 由 SARS-CoV-2 病毒引起，对全球健康产生深远的主要影响，并通过广泛破坏医疗保健系统、限制获得医疗服务而产生二次影响。",
-        "abstract": "Background : Coronavirus disease 2019 (COVID-19), caused by the SARS-CoV-2 virus, had profound primary effects on global health and secondary effects through widespread disruption of healthcare systems, limiting access to elective medical services essential for the management of chronic diseases such as liver cirrhosis. Elective hospitalizations play a key role in disease monitoring, prevention of complications, and therapeutic optimization. This study aimed to evaluate the impact of the pandemic on the clinical profile, disease severity, and outcomes of patients electively admitted with liver cirrhosis across three periods: pre-pandemic, pandemic, and post-pandemic. Methods: This retrospect...",
-        "pmid": "42121698",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42121698/",
-        "doiUrl": "https://doi.org/10.3390/healthcare14091255",
-        "url": "https://doi.org/10.3390/healthcare14091255"
+        "authors": "Rutao X, Zhuxiang X, Jichun Z",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉肿瘤血栓形成（PVTT）和门静脉高压是肝细胞癌（HCC）胃肠道出血的主要原因，但将血管病理学、免疫失调和出血风险联系起来的分子程序仍然不完整。 临床提示：使用差异表达和加权基因共表达网络分析来分析与 PVTT（GSE77509 和 GSE69164）和非肝硬化门静脉高压症（GSE77627）相关的大量转录组数据集，以确定",
+        "abstract": "Portal vein tumor thrombosis (PVTT) and portal hypertension are major contributors to gastrointestinal bleeding in hepatocellular carcinoma (HCC), yet the molecular programs linking vascular pathology, immune dysregulation, and bleeding risk remain incompletely defined. Bulk transcriptomic datasets related to PVTT (GSE77509 and GSE69164) and noncirrhotic portal hypertension (GSE77627) were analyzed using differential expression and weighted gene coexpression network analysis to identify robust disease-associated genes. A six-gene core signature was derived by intersecting differentially expressed genes with intramodular hub genes across datasets. Bleeding risk-associated biological programs,...",
+        "pmid": "42131723",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42131723/",
+        "doiUrl": "https://doi.org/10.1155/humu/7210691",
+        "url": "https://doi.org/10.1155/humu/7210691"
+      },
+      {
+        "title": "Hepatic Myelopathy as a Rare but Reversible Neurological Complication Post Transjugular Intrahepatic Portosystemic Shunt (TIPS) Insertion in Liver Cirrhosis.",
+        "journal": "European journal of case reports in internal medicine",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Zhu A, Clements W, Wesselingh R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：TIPS 封堵实现了部分神经功能恢复，但功能显着改善。 临床提示：脊髓肝病是一种罕见但未被充分认识的慢性肝病并发症，其特征是单纯运动性、对称性和痉挛性截瘫，无括约肌受累。",
+        "abstract": "Hepatic myelopathy is a rare but underrecognized complication of chronic liver disease characterized by pure motor, symmetric and spastic paraparesis without sphincter involvement. We report the case of a 39-year-old female with Child Pugh A alcohol-related cirrhosis presenting with progressive spastic paraparesis 2 months after transjugular intrahepatic portosystemic shunt (TIPS) placement for recurrent oesophageal variceal bleed. TIPS occlusion achieved partial neurological recovery but significant functional improvement. She had no further presentations of decompensation with variceal bleeding or hepatic encephalopathy. Early recognition and multidisciplinary input are essential in preser...",
+        "pmid": "42130924",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42130924/",
+        "doiUrl": "https://doi.org/10.12890/2026_006582",
+        "url": "https://doi.org/10.12890/2026_006582"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普抵达中国与习近平进行高风险会谈，贸易、伊朗和台湾问题成为议程",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普抵达中国与习近平进行高风险会谈，贸易、伊朗和台湾问题成为议程”。核心要点：美国总统表示，他对习近平的第一个要求是“开放”中国，而北京方面预计将就台湾的地位向特朗普施压。",
+        "titleZh": "特朗普欢迎中国的到来，但棘手问题依然存在",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普欢迎中国的到来，但棘手问题依然存在”。核心要点：在美国总统访问北京期间，世界两个超级大国的领导人在镜头前笑容满面。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 17:00:12 GMT",
-        "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 13:02:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法院推翻亚历克斯·默多的谋杀定罪并下令重新审判",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法院推翻亚历克斯·默多的谋杀定罪并下令重新审判”。核心要点：法院已下令对 2021 年 6 月保罗·默多 (Paul Murdaugh) 和玛吉·默多 (Maggie Murdaugh) 被杀事件进行新的审判。",
+        "titleZh": "据报道伊朗扣押了“浮动军械库”船",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“据报道伊朗扣押了“浮动军械库”船”。核心要点：据报道，一艘据称是阿曼湾“浮动军械库”的船只已被伊朗军事人员扣押。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 00:38:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 13:33:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国广播公司(BBC)调查后，乌干达数十只狗获救，嫌疑人被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“英国广播公司(BBC)调查后，乌干达数十只狗获救，嫌疑人被捕”。核心要点：英国广播公司 (BBC) 的一项调查揭露了诈骗者如何发布陷入困境的狗的社交内容，以欺骗捐赠者捐款。",
+        "titleZh": "随着能源危机恶化，中央情报局局长访问古巴",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着能源危机恶化，中央情报局局长访问古巴”。核心要点：据报道，这次访问哈瓦那之前，美国再次提出提供援助，以缓解其石油封锁的影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 13:37:53 GMT",
-        "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 02:40:50 GMT",
+        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "接触汉坦病毒后，一名妇女在南太平洋英国岛屿上被隔离",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“接触汉坦病毒后，一名妇女在南太平洋英国岛屿上被隔离”。核心要点：英国海外领土皮特凯恩群岛政府表示，在一艘受病毒袭击的船上的妇女“没有任何生病的迹象”。",
+        "titleZh": "俄罗斯大规模袭击后，乌克兰救援人员从基辅公寓的废墟中救出死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯大规模袭击后，乌克兰救援人员从基辅公寓的废墟中救出死亡”。核心要点：官员称，乌克兰首都发生大规模俄罗斯无人机和导弹袭击，造成至少 16 人死亡，其中包括两名儿童。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 14:16:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 13:16:32 GMT",
+        "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普访华期间需要了解什么",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普访华期间需要了解什么”。核心要点：特朗普抵达北京，这是自2017年以来美国领导人首次访问北京。",
+        "titleZh": "泰国从化石中鉴定出巨型新恐龙",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国从化石中鉴定出巨型新恐龙”。核心要点：纳加泰坦是东南亚发现的最大恐龙，体重相当于九头大象。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 13:01:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 17:28:56 GMT",
+        "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "行业负责人表示欧洲机票价格上涨“不可避免”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“行业负责人表示欧洲机票价格上涨“不可避免””。核心要点：由于美国和以色列与伊朗发生冲突后油价居高不下，乘坐飞机的费用将变得更加昂贵。",
+        "titleZh": "为什么莫迪希望印度人减少购买黄金并减少出国度假",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么莫迪希望印度人减少购买黄金并减少出国度假”。核心要点：莫迪敦促印度人保存美元，因为今年战争和石油冲击使卢比和经济进一步承压。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 23:03:15 GMT",
-        "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 23:49:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普的美联储主席人选凯文·沃什获得美国参议院确认",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的美联储主席人选凯文·沃什获得美国参议院确认”。核心要点：凯文·沃什 (Kevin Warsh) 以自该职位需要参议院确认投票以来最微弱的优势获得确认。",
+        "titleZh": "Raspberry Pi 老板警告说，人工智能可能会让人们失业并损害经济",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Raspberry Pi 老板警告说，人工智能可能会让人们失业并损害经济”。核心要点：埃本·厄普顿 (Eben Upton) 对人工智能将在未来几年摧毁大量计算角色的说法提出警告。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 20:15:33 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 23:01:20 GMT",
+        "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法院裁定澳大利亚巨头Coles以虚假折扣误导购物者",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法院裁定澳大利亚巨头Coles以虚假折扣误导购物者”。核心要点：该决定是在针对 Woolworths 的类似案件中做出的，可能意味着严厉的处罚。",
+        "titleZh": "特朗普将高层首席执行官带到北京，但鲜有大交易出现",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普将高层首席执行官带到北京，但鲜有大交易出现”。核心要点：特朗普在北京会见习近平时，有很多精心设计的仪式，但没有取得全面的贸易突破。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 03:09:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c202159x6x3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 01:37:31 GMT",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "古巴能源部长称柴油和石油已耗尽",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“古巴能源部长称柴油和石油已耗尽”。核心要点：这位部长表示，古巴的局势“极其紧张”，因为美国主导的对该国石油封锁导致大范围断电。",
+        "titleZh": "尽管伊朗战争，英国经济三月仍出现意外增长",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“尽管伊朗战争，英国经济三月仍出现意外增长”。核心要点：官方数据显示，本月经济增长了 0.3%，超出了分析师关于小幅收缩的预测。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 04:26:09 GMT",
-        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 09:53:21 GMT",
+        "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于英国客户持谨慎态度，Tui 预计夏季销售额下降 10%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于英国客户持谨慎态度，Tui 预计夏季销售额下降 10%”。核心要点：该旅行社表示，出于对伊朗战争的担忧，顾客推迟了假期预订。",
+        "titleZh": "费萨尔·伊斯兰：我们现在从图表中了解的有关英国经济的六件事",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：我们现在从图表中了解的有关英国经济的六件事”。核心要点：英国经济正在表现出韧性——值得更详细地研究数据以了解原因。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 13 May 2026 11:28:03 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 14 May 2026 13:08:42 GMT",
+        "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
