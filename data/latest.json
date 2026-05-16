@@ -1,132 +1,106 @@
 {
-  "updatedAt": "2026-05-15T05:00:44.295Z",
+  "updatedAt": "2026-05-16T04:37:18.548Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Non-contrast microvascular flow imaging in abdominal ultrasound: a pictorial essay.",
-        "journal": "Journal of ultrasound",
-        "pubDate": "2026 May 14",
+        "title": "Exploring the Lung-Liver Axis in Pulmonary Arterial Hypertension.",
+        "journal": "Comprehensive Physiology",
+        "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Musmeci M, Brighenti A, Serra C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：微血管血流成像 (MV-Flow) 是一种先进的多普勒技术，旨在增强对缓慢且不均匀的血流的敏感性，同时有效抑制组织运动伪影。 临床提示：低速血流和复杂血管模式的评估仍然是腹部成像中传统彩色多普勒超声的公认局限性。",
-        "abstract": "The evaluation of low-velocity blood flow and complex vascular patterns remains a recognized limitation of conventional color Doppler ultrasound in abdominal imaging. Microvascular flow imaging (MV-Flow) is an advanced Doppler technique designed to enhance sensitivity to slow and heterogeneous blood flow while effectively suppressing tissue motion artifacts. This pictorial essay illustrates the main sonographic applications of MV-Flow across a wide spectrum of abdominal clinical scenarios, including arterial flow alterations, venous and portal vascular disorders, post-transplantation hemodynamic changes, inflammatory parenchymal conditions, and selected focal liver lesions. Representative im...",
-        "pmid": "42133145",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42133145/",
-        "doiUrl": "https://doi.org/10.1007/s40477-026-01163-7",
-        "url": "https://doi.org/10.1007/s40477-026-01163-7"
-      },
-      {
-        "title": "Convergent Immune-Coagulation Programs Underlie Gastrointestinal Bleeding Risk in Portal Vein Tumor Thrombosis-Associated Hepatocellular Carcinoma and Portal Hypertension.",
-        "journal": "Human mutation",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Rutao X, Zhuxiang X, Jichun Z",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉肿瘤血栓形成（PVTT）和门静脉高压是肝细胞癌（HCC）胃肠道出血的主要原因，但将血管病理学、免疫失调和出血风险联系起来的分子程序仍然不完整。 临床提示：使用差异表达和加权基因共表达网络分析来分析与 PVTT（GSE77509 和 GSE69164）和非肝硬化门静脉高压症（GSE77627）相关的大量转录组数据集，以确定",
-        "abstract": "Portal vein tumor thrombosis (PVTT) and portal hypertension are major contributors to gastrointestinal bleeding in hepatocellular carcinoma (HCC), yet the molecular programs linking vascular pathology, immune dysregulation, and bleeding risk remain incompletely defined. Bulk transcriptomic datasets related to PVTT (GSE77509 and GSE69164) and noncirrhotic portal hypertension (GSE77627) were analyzed using differential expression and weighted gene coexpression network analysis to identify robust disease-associated genes. A six-gene core signature was derived by intersecting differentially expressed genes with intramodular hub genes across datasets. Bleeding risk-associated biological programs,...",
-        "pmid": "42131723",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42131723/",
-        "doiUrl": "https://doi.org/10.1155/humu/7210691",
-        "url": "https://doi.org/10.1155/humu/7210691"
-      },
-      {
-        "title": "Hepatic Myelopathy as a Rare but Reversible Neurological Complication Post Transjugular Intrahepatic Portosystemic Shunt (TIPS) Insertion in Liver Cirrhosis.",
-        "journal": "European journal of case reports in internal medicine",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Zhu A, Clements W, Wesselingh R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：TIPS 封堵实现了部分神经功能恢复，但功能显着改善。 临床提示：脊髓肝病是一种罕见但未被充分认识的慢性肝病并发症，其特征是单纯运动性、对称性和痉挛性截瘫，无括约肌受累。",
-        "abstract": "Hepatic myelopathy is a rare but underrecognized complication of chronic liver disease characterized by pure motor, symmetric and spastic paraparesis without sphincter involvement. We report the case of a 39-year-old female with Child Pugh A alcohol-related cirrhosis presenting with progressive spastic paraparesis 2 months after transjugular intrahepatic portosystemic shunt (TIPS) placement for recurrent oesophageal variceal bleed. TIPS occlusion achieved partial neurological recovery but significant functional improvement. She had no further presentations of decompensation with variceal bleeding or hepatic encephalopathy. Early recognition and multidisciplinary input are essential in preser...",
-        "pmid": "42130924",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42130924/",
-        "doiUrl": "https://doi.org/10.12890/2026_006582",
-        "url": "https://doi.org/10.12890/2026_006582"
+        "authors": "Singh N, Lawson J, Ragavendran A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝脏对肺动脉高压（PAH）发病机制的贡献仍不清楚。 临床提示：我们假设肝脏促进肺内皮的炎症损伤。",
+        "abstract": "The liver's contribution to pulmonary arterial hypertension (PAH) pathogenesis remains unclear. We hypothesized that the liver promotes inflammatory injury to the pulmonary endothelium. PAH patients without liver disease with pulmonary artery endothelial cell (PAEC) biopsies were included. Unsupervised CART analysis of liver serologies identified subclinical dysfunction clusters; machine-learning models informed differential expression and protein-protein interaction network assembly. PAEC transcriptomes were compared to liver and lung data from monocrotaline and Sugen-Hypoxia rats. Liver fibrosis was assessed in rat and human PAH livers. Among 25 PAH patients (76% female, median age 61 [30-...",
+        "pmid": "42138622",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42138622/",
+        "doiUrl": "https://doi.org/10.1002/cph4.70171",
+        "url": "https://doi.org/10.1002/cph4.70171"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普欢迎中国的到来，但棘手问题依然存在",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普欢迎中国的到来，但棘手问题依然存在”。核心要点：在美国总统访问北京期间，世界两个超级大国的领导人在镜头前笑容满面。",
+        "titleZh": "与中国习近平峰会数小时后，特朗普警告台湾不要宣布独立",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“与中国习近平峰会数小时后，特朗普警告台湾不要宣布独立”。核心要点：美国总统表示，他希望北京和台北“缓和”围绕这个自治岛屿的紧张局势。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 13:02:13 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 16 May 2026 03:30:57 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "据报道伊朗扣押了“浮动军械库”船",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“据报道伊朗扣押了“浮动军械库”船”。核心要点：据报道，一艘据称是阿曼湾“浮动军械库”的船只已被伊朗军事人员扣押。",
+        "titleZh": "特朗普和习近平结束“非常成功”的会谈，但确认的交易很少",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普和习近平结束“非常成功”的会谈，但确认的交易很少”。核心要点：两天的访问之后，双方精心设计了很多仪式，但贸易上并没有取得突破。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 13:33:20 GMT",
-        "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 21:50:14 GMT",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着能源危机恶化，中央情报局局长访问古巴",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着能源危机恶化，中央情报局局长访问古巴”。核心要点：据报道，这次访问哈瓦那之前，美国再次提出提供援助，以缓解其石油封锁的影响。",
+        "titleZh": "特朗普称伊朗暂停核计划20年就足够了",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗暂停核计划20年就足够了”。核心要点：美国总统表示，德黑兰必须表现出对消除核燃料和停止铀浓缩的“真正”承诺。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 02:40:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 21:17:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯大规模袭击后，乌克兰救援人员从基辅公寓的废墟中救出死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯大规模袭击后，乌克兰救援人员从基辅公寓的废墟中救出死亡”。核心要点：官员称，乌克兰首都发生大规模俄罗斯无人机和导弹袭击，造成至少 16 人死亡，其中包括两名儿童。",
+        "titleZh": "黎巴嫩称以色列袭击造成六人死亡，美国宣布延长停火",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩称以色列袭击造成六人死亡，美国宣布延长停火”。核心要点：特朗普总统上个月宣布停战，但此后以色列和真主党继续交火。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 13:16:32 GMT",
-        "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 23:59:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰国从化石中鉴定出巨型新恐龙",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国从化石中鉴定出巨型新恐龙”。核心要点：纳加泰坦是东南亚发现的最大恐龙，体重相当于九头大象。",
+        "titleZh": "基辅哀悼在俄罗斯袭击公寓中丧生的 24 人，囚犯交换继续进行",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅哀悼在俄罗斯袭击公寓中丧生的 24 人，囚犯交换继续进行”。核心要点：基辅的受害者包括 12 岁的柳巴瓦·雅科夫列娃 (Lyubava Yakovleva)，她的父亲在战争中丧生。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 17:28:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 12:53:57 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "为什么莫迪希望印度人减少购买黄金并减少出国度假",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么莫迪希望印度人减少购买黄金并减少出国度假”。核心要点：莫迪敦促印度人保存美元，因为今年战争和石油冲击使卢比和经济进一步承压。",
+        "titleZh": "随着领导层戏剧的继续，英国借贷成本上升，英镑下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着领导层戏剧的继续，英国借贷成本上升，英镑下跌”。核心要点：分析人士表示，这些举措是由于担心伯纳姆领导的政府将增加政府借贷而推动的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 23:49:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 19:30:01 GMT",
+        "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Raspberry Pi 老板警告说，人工智能可能会让人们失业并损害经济",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Raspberry Pi 老板警告说，人工智能可能会让人们失业并损害经济”。核心要点：埃本·厄普顿 (Eben Upton) 对人工智能将在未来几年摧毁大量计算角色的说法提出警告。",
+        "titleZh": "英国天然气公司因预付费电表强制安装丑闻支付 2000 万英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国天然气公司因预付费电表强制安装丑闻支付 2000 万英镑”。核心要点：监管机构表示，该能源供应商违反了旨在保护弱势客户的许可条件。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 23:01:20 GMT",
-        "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 17:49:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普将高层首席执行官带到北京，但鲜有大交易出现",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普将高层首席执行官带到北京，但鲜有大交易出现”。核心要点：特朗普在北京会见习近平时，有很多精心设计的仪式，但没有取得全面的贸易突破。",
+        "titleZh": "监管机构表示，希思罗机场的竞争对手可能会引领扩张",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“监管机构表示，希思罗机场的竞争对手可能会引领扩张”。核心要点：航空监管机构正在考虑在希思罗机场可能扩建之前制定新规则。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 01:37:31 GMT",
-        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 14:08:28 GMT",
+        "url": "https://www.bbc.com/news/articles/cqxpz4q5vdvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尽管伊朗战争，英国经济三月仍出现意外增长",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“尽管伊朗战争，英国经济三月仍出现意外增长”。核心要点：官方数据显示，本月经济增长了 0.3%，超出了分析师关于小幅收缩的预测。",
+        "titleZh": "绿洲首次跻身富豪榜，贝克汉姆夫妇成亿万富翁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“绿洲首次跻身富豪榜，贝克汉姆夫妇成亿万富翁”。核心要点：该榜单是根据该报对英国 350 位最富有的人或家庭的最低财富的估计得出的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 09:53:21 GMT",
-        "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 14:58:36 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8p4ywypx8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "费萨尔·伊斯兰：我们现在从图表中了解的有关英国经济的六件事",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：我们现在从图表中了解的有关英国经济的六件事”。核心要点：英国经济正在表现出韧性——值得更详细地研究数据以了解原因。",
+        "titleZh": "X 承诺对英国的仇恨和恐怖内容采取更快的行动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“X 承诺对英国的仇恨和恐怖内容采取更快的行动”。核心要点：Ofcom 表示，在英国最近发生针对犹太社区的犯罪事件后，这些承诺尤为重要。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 14 May 2026 13:08:42 GMT",
-        "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 15 May 2026 12:57:30 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
