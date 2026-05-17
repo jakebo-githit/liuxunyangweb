@@ -1,67 +1,75 @@
 {
-  "updatedAt": "2026-05-16T04:37:18.548Z",
+  "updatedAt": "2026-05-17T05:00:58.620Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Exploring the Lung-Liver Axis in Pulmonary Arterial Hypertension.",
-        "journal": "Comprehensive Physiology",
-        "pubDate": "2026 Jun",
+        "title": "Stereotactic body radiotherapy and other locoregional therapies for hepatocellular carcinoma in patients with cirrhosis: real-world treatment allocation, BCLC-stratified outcomes, and prognostic determinants.",
+        "journal": "Discover oncology",
+        "pubDate": "2026 May 15",
         "studyType": "Journal Article",
-        "authors": "Singh N, Lawson J, Ragavendran A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝脏对肺动脉高压（PAH）发病机制的贡献仍不清楚。 临床提示：我们假设肝脏促进肺内皮的炎症损伤。",
-        "abstract": "The liver's contribution to pulmonary arterial hypertension (PAH) pathogenesis remains unclear. We hypothesized that the liver promotes inflammatory injury to the pulmonary endothelium. PAH patients without liver disease with pulmonary artery endothelial cell (PAEC) biopsies were included. Unsupervised CART analysis of liver serologies identified subclinical dysfunction clusters; machine-learning models informed differential expression and protein-protein interaction network assembly. PAEC transcriptomes were compared to liver and lung data from monocrotaline and Sugen-Hypoxia rats. Liver fibrosis was assessed in rat and human PAH livers. Among 25 PAH patients (76% female, median age 61 [30-...",
-        "pmid": "42138622",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42138622/",
-        "doiUrl": "https://doi.org/10.1002/cph4.70171",
-        "url": "https://doi.org/10.1002/cph4.70171"
+        "authors": "Philips CA, Oommen TT, Paul J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：立体定向全身放射治疗 (SBRT) 已成为不适合热消融或手术的肝细胞癌 (HCC) 患者的一种治疗选择。 临床提示：然而，关于医生如何选择局部治疗、这些治疗决策的特定阶段结果以及超越治疗方式的预后决定因素的现实证据仍然存在。",
+        "abstract": "Stereotactic body radiotherapy (SBRT) has emerged as a treatment option for hepatocellular carcinoma (HCC) in patients ineligible for thermal ablation or surgery. However, real-world evidence on how physicians select between locoregional therapies, the stage-specific outcomes of these treatment decisions, and the prognostic determinants that transcend treatment modality remains limited. We aimed to (1) characterize real-world treatment allocation patterns between SBRT and other locoregional therapies (OLT) in patients with cirrhosis and HCC, (2) describe disease control, recurrence, and survival outcomes stratified by Barcelona Clinic Liver Cancer (BCLC) stage, and (3) identify adverse progn...",
+        "pmid": "42141221",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42141221/",
+        "doiUrl": "https://doi.org/10.1007/s12672-026-05197-5",
+        "url": "https://doi.org/10.1007/s12672-026-05197-5"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "与中国习近平峰会数小时后，特朗普警告台湾不要宣布独立",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“与中国习近平峰会数小时后，特朗普警告台湾不要宣布独立”。核心要点：美国总统表示，他希望北京和台北“缓和”围绕这个自治岛屿的紧张局势。",
+        "titleZh": "真主党无人机袭击视频显示针对以色列不断变化的战术",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“真主党无人机袭击视频显示针对以色列不断变化的战术”。核心要点：BBC verify 审查了数十段黎巴嫩武装组织实施光纤无人机袭击的视频。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 16 May 2026 03:30:57 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 16 May 2026 23:10:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普和习近平结束“非常成功”的会谈，但确认的交易很少",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普和习近平结束“非常成功”的会谈，但确认的交易很少”。核心要点：两天的访问之后，双方精心设计了很多仪式，但贸易上并没有取得突破。",
+        "titleZh": "特朗普警告后台湾坚称独立",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普警告后台湾坚称独立”。核心要点：这位美国总统刚刚结束北京峰会，就警告台湾不要正式宣布独立。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 21:50:14 GMT",
-        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 16 May 2026 17:01:53 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普称伊朗暂停核计划20年就足够了",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗暂停核计划20年就足够了”。核心要点：美国总统表示，德黑兰必须表现出对消除核燃料和停止铀浓缩的“真正”承诺。",
+        "titleZh": "意大利一男子驾车冲撞行人致八人受伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“意大利一男子驾车冲撞行人致八人受伤”。核心要点：八人受伤，其中四人伤势严重，随后路人追赶并阻止了该男子。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 21:17:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 16 May 2026 20:36:17 GMT",
+        "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "黎巴嫩称以色列袭击造成六人死亡，美国宣布延长停火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩称以色列袭击造成六人死亡，美国宣布延长停火”。核心要点：特朗普总统上个月宣布停战，但此后以色列和真主党继续交火。",
+        "titleZh": "美国和尼日利亚称“伊斯兰国”高级领导人在联合行动中被杀",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和尼日利亚称“伊斯兰国”高级领导人在联合行动中被杀”。核心要点：唐纳德·特朗普总统表示，这次行动消灭了“世界上最活跃的恐怖分子”阿布·比拉尔·米努基。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 23:59:07 GMT",
-        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 16 May 2026 11:44:54 GMT",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "基辅哀悼在俄罗斯袭击公寓中丧生的 24 人，囚犯交换继续进行",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅哀悼在俄罗斯袭击公寓中丧生的 24 人，囚犯交换继续进行”。核心要点：基辅的受害者包括 12 岁的柳巴瓦·雅科夫列娃 (Lyubava Yakovleva)，她的父亲在战争中丧生。",
+        "titleZh": "救援潜水员在寻找在马尔代夫洞穴中溺水的意大利人尸体时死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“救援潜水员在寻找在马尔代夫洞穴中溺水的意大利人尸体时死亡”。核心要点：马尔代夫政府告诉英国广播公司，上士穆罕默德·马赫迪在搜救行动中潜水时死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 12:53:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 16 May 2026 15:01:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "“他们拿走了我不欠的2万英镑”：父母因子女抚养错误而遭受打击",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““他们拿走了我不欠的2万英镑”：父母因子女抚养错误而遭受打击”。核心要点：约翰·哈蒙德 (John Hammond) 是 30 名向 BBC Your Voice 表示他们在 CMS 中遇到问题的家长之一。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 15 May 2026 23:44:32 GMT",
+        "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "随着领导层戏剧的继续，英国借贷成本上升，英镑下跌",
         "summaryZh": "这是一条金融市场新闻，重点围绕“随着领导层戏剧的继续，英国借贷成本上升，英镑下跌”。核心要点：分析人士表示，这些举措是由于担心伯纳姆领导的政府将增加政府借贷而推动的。",
@@ -93,14 +101,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 15 May 2026 14:58:36 GMT",
         "url": "https://www.bbc.com/news/articles/ce8p4ywypx8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "X 承诺对英国的仇恨和恐怖内容采取更快的行动",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“X 承诺对英国的仇恨和恐怖内容采取更快的行动”。核心要点：Ofcom 表示，在英国最近发生针对犹太社区的犯罪事件后，这些承诺尤为重要。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 12:57:30 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
