@@ -1,120 +1,132 @@
 {
-  "updatedAt": "2026-05-18T05:17:04.843Z",
+  "updatedAt": "2026-05-19T05:13:03.728Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "NLRP3 Inflammasome Activation and Atherogenic Lipid Profile in Hemodialysis Patients.",
-        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
-        "pubDate": "2026 May 17",
-        "studyType": "Journal Article",
-        "authors": "Abdelaziz MN, Elshabrawy N, Almenshawy A",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：NOD 样受体家族含热蛋白结构域 3 (NLRP3) 炎性体是一种重要的先天免疫调节剂，与心血管疾病的发展有关。然而研究人员尚未有效研究它与致动脉粥样硬化的嘴唇的关系 临床提示：接受血液透析治疗的终末期肾病（ESRD）患者会加速动脉粥样硬化的发展，其主要原因有两个：致动脉粥样硬化性血脂异常和慢性炎症。",
-        "abstract": "End-stage renal disease (ESRD) patients who undergo hemodialysis treatment experience accelerated atherosclerosis development, which results from two main causes: atherogenic dyslipidemia and chronic inflammation. The NOD-like receptor family pyrin domain-containing 3 (NLRP3) inflammasome, which serves as an essential innate immunity regulator, has links to cardiovascular disease development; yet researchers have not effectively studied its connection to atherogenic lipid profiles among dialysis patients. This study examined the association between NLRP3 inflammasome levels and the atherogenic index of plasma (AIP) in hemodialysis patients. This study at Mansoura University Hospital focused ...",
-        "pmid": "42144572",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42144572/",
-        "doiUrl": "https://doi.org/10.1002/1744-9987.70158",
-        "url": "https://doi.org/10.1002/1744-9987.70158"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Incidence and implications of abstinence-induced recompensation in alcohol-related cirrhosis.",
-        "journal": "Journal of hepatology",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Hofer BS, Tonon M, Buttler L",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 633）。核心观点：本研究调查了禁欲引起的补偿的发生率、预测因素和影响。 临床提示：戒酒可以使失代偿性酒精相关性肝硬化患者进行肝脏再代偿。",
-        "abstract": "Alcohol abstinence enables hepatic recompensation in patients with decompensated alcohol-related cirrhosis. This study investigated the incidence, predictors, and impact of abstinence-induced recompensation. This multicentre study included patients with decompensated alcohol-related cirrhosis recruited at the time of abstinence up to December 2022. Recompensation was defined by Baveno VII criteria: (i) sustained abstinence (≥3 months), (ii) resolution of ascites and hepatic encephalopathy off therapy, (iii) absence of variceal bleeding for 1 year, and (iv) restored liver function (Child-Pugh A or MELD <10). A total of 633 patients from 17 centres were included (71.7% male; median age 55 year...",
-        "pmid": "41580090",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41580090/",
-        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.01.007",
-        "url": "https://doi.org/10.1016/j.jhep.2026.01.007"
+        "title": "INHIBITION OF H₂S PRODUCTION REDUCES PORTAL PRESSURE AND ATTENUATES LIVER FIBROSIS IN BILE DUCT-LIGATED RATS.",
+        "journal": "Journal of vascular research",
+        "pubDate": "2026 May 18",
+        "studyType": "Journal Article",
+        "authors": "Buono R, Crescenzi M, Brocca A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在 BDL 大鼠中，PAG 显着降低门静脉压力（10.4 ± 2.7 mmHg 与 16.0 ± 3.9 mmHg，P < 0.05），而不影响体循环压力。 临床提示：硫化氢 (H2S) 是一种具有血管舒张特性的气体信号分子，可调节肝脏炎症和纤维化。",
+        "abstract": "Hydrogen sulfide (H2S) is a gaseous signalling molecule with vasodilatory properties and regulates inflammation and fibrosis in the liver. Rats with bile duct ligation-induced liver disease were treated with propargylglycine (PAG; 30 mg/kg via intragastric gavage), a selective inhibitor of cystathionine γ-lyase, the main source of H2S in the cardiovascular system and liver, or vehicle. PAG treatment was initiated at day 5 after BDL to evaluate its effects on the progression of liver fibrosis and portal hypertension. In BDL rats, PAG significantly reduced portal pressure (10.4 ± 2.7 mmHg versus 16.0 ± 3.9 mmHg, P < 0.05) without affecting systemic pressure. In mesenteric arteries mounted on a...",
+        "pmid": "42149804",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42149804/",
+        "doiUrl": "https://doi.org/10.1159/000552592",
+        "url": "https://doi.org/10.1159/000552592"
+      },
+      {
+        "title": "Transjugular intrahepatic portosystemic shunt as a feasible option for portal hypertension due to Porto-sinusoidal vascular disorder: a case report.",
+        "journal": "Clinical journal of gastroenterology",
+        "pubDate": "2026 May 18",
+        "studyType": "Journal Article",
+        "authors": "Shimamoto T, Abe M, Yukimoto A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：结节性再生性增生 (NRH) 是与 PSVD 相关的病理表现。 临床提示：门窦血管疾病 (PSVD) 由血管性肝病兴趣小组于 2019 年定义，涵盖导致非肝硬化患者门静脉高压的病症。",
+        "abstract": "Porto-sinusoidal vascular disorder (PSVD) was defined by the Vascular Liver Disease Interest Group in 2019 and encompasses conditions that cause portal hypertension in patients without cirrhosis. Nodular regenerative hyperplasia (NRH) is a pathological finding associated with PSVD. We encountered a patient with refractory ascites who underwent transjugular liver biopsy and was diagnosed with PSVD. The patient subsequently underwent transjugular intrahepatic portosystemic shunt (TIPS) placement for refractory ascites and recurrent variceal bleeding caused by portal hypertension, which resolved the ascites and improved the varices. Post-procedural complications, including hepatic ischemia, por...",
+        "pmid": "42149326",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42149326/",
+        "doiUrl": "https://doi.org/10.1007/s12328-026-02365-6",
+        "url": "https://doi.org/10.1007/s12328-026-02365-6"
+      },
+      {
+        "title": "Severe Liver Injury Complicated by Portal Hypertension and Traumatic Arterioportal Shunt: A Case Report.",
+        "journal": "Acute medicine & surgery",
+        "pubDate": "2026 Jan-Dec",
+        "studyType": "Journal Article",
+        "authors": "Miura Y, Sueyoshi K, Hashimoto J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：创伤性动脉门静脉（AP）分流术是肝损伤的罕见血管并发症。 临床提示：对于严重肝损伤的患者，术后可能会出现门静脉高压和肝功能障碍，并且计算机断层扫描很难检测到延迟性 AP 分流。",
+        "abstract": "Traumatic arterioportal (AP) shunts are rare vascular complications of hepatic trauma. In patients with severe liver injury, portal hypertension and hepatic dysfunction may develop during the postoperative course, and delayed AP shunts can be difficult to detect on computed tomography. We report the case of a 19-year-old male who sustained a severe blunt liver injury in a motorcycle accident and presented with hemorrhagic shock. After initial surgical and endovascular hemostatic management, he developed progressive portal hypertension, worsening hepatic dysfunction, and persistent large-volume abdominal fluid. A multiphasic computed tomography scan performed on hospital day 32 showed no defi...",
+        "pmid": "42146993",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42146993/",
+        "doiUrl": "https://doi.org/10.1002/ams2.70135",
+        "url": "https://doi.org/10.1002/ams2.70135"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普警告伊朗“时间紧迫”，和平进程陷入停滞",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普警告伊朗“时间紧迫”，和平进程陷入停滞”。核心要点：伊朗媒体报道称，美国尚未针对德黑兰的最新提议做出具体让步。",
+        "titleZh": "特朗普表示，他应海湾国家的要求取消了新的伊朗袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，他应海湾国家的要求取消了新的伊朗袭击”。核心要点：美国总统表示，他将推迟美国计划于周二发动的袭击，因为“目前正在进行认真的谈判”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 03:53:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 18 May 2026 22:30:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "世界卫生组织宣布刚果民主共和国埃博拉疫情为国际紧急状态",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“世界卫生组织宣布刚果民主共和国埃博拉疫情为国际紧急状态”。核心要点：该机构补充说，此次疫情已有约246例病例和80人死亡，不符合大流行紧急情况的标准。",
+        "titleZh": "圣地亚哥清真寺涉嫌仇恨犯罪，青少年嫌疑人开枪打死三人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“圣地亚哥清真寺涉嫌仇恨犯罪，青少年嫌疑人开枪打死三人”。核心要点：调查人员称，被指控的袭击者年龄分别为 17 岁和 18 岁，其中一人留下了一张包含“普遍仇恨言论”的字条。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 01:10:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 01:35:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "刚果民主共和国的埃博拉疫情有多令人担忧？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“刚果民主共和国的埃博拉疫情有多令人担忧？”。核心要点：刚果民主共和国的疫情已被宣布为卫生紧急状态，报告了近 250 例疑似病例。",
+        "titleZh": "官员称刚果民主共和国埃博拉疫情已造成至少118人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称刚果民主共和国埃博拉疫情已造成至少118人死亡”。核心要点：世界卫生组织（WHO）已宣布此次疫情为国际紧急状态。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 17 May 2026 18:06:31 GMT",
-        "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 03:40:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“这可能是你最后一次听到我的声音”：自战争开始以来伊朗政治处决激增",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““这可能是你最后一次听到我的声音”：自战争开始以来伊朗政治处决激增”。核心要点：自 2 月 28 日美国和以色列袭击伊朗以来，联合国表示已核实至少 32 名政治犯被处决。",
+        "titleZh": "卖儿求生：阿富汗父亲被迫做出不可能的选择",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卖儿求生：阿富汗父亲被迫做出不可能的选择”。核心要点：如今，在阿富汗，有四分之三的人无法满足他们的基本需求。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 17 May 2026 23:02:56 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 18 May 2026 21:09:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国航展两架战斗机半空相撞瞬间",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国航展两架战斗机半空相撞瞬间”。核心要点：碰撞后，四名机组人员从美国海军飞机上安全弹射，目前情况稳定。",
+        "titleZh": "特朗普诉马西：总统的共和党宿敌能否在 2000 万美元的攻击中幸存下来？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普诉马西：总统的共和党宿敌能否在 2000 万美元的攻击中幸存下来？”。核心要点：这位肯塔基州国会议员在联邦支出和爱泼斯坦文件问题上与总统发生了冲突，他将于周二面对共和党选民。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 00:49:25 GMT",
-        "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 18 May 2026 21:39:45 GMT",
+        "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普警告伊朗和谈“时间紧迫”后油价上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普警告伊朗和谈“时间紧迫”后油价上涨”。核心要点：由于主要的霍尔木兹海峡水道仍然有效关闭，能源市场一直处于疯狂状态。",
+        "titleZh": "费萨尔·伊斯兰：伯纳姆寻求通过遵守财政规则来安抚市场",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：伯纳姆寻求通过遵守财政规则来安抚市场”。核心要点：大曼彻斯特市长安迪·伯纳姆正在寻求管理市场以及梅克菲尔德补选",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 02:23:24 GMT",
-        "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 18 May 2026 22:07:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "HS2失败归咎于高速关注和政治压力",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“HS2失败归咎于高速关注和政治压力”。核心要点：一项新的审查证实了高铁线路的“原罪”包括技术设计、不断变化的政治优先事项和不断膨胀的成本。",
+        "titleZh": "陪审团认为马斯克等待太久才起诉，导致马斯克在 OpenAI 法庭诉讼中败诉",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“陪审团认为马斯克等待太久才起诉，导致马斯克在 OpenAI 法庭诉讼中败诉”。核心要点：陪审员们花了数周时间听取马斯克关于奥特曼“窃取了慈善机构”的说法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 17 May 2026 23:07:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 18 May 2026 22:08:37 GMT",
+        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "罗伯特支付了 726 英镑，跳过了驾驶考试等候名单。新法律意味着其他人将无法",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“罗伯特支付了 726 英镑，跳过了驾驶考试等候名单。新法律意味着其他人将无法”。核心要点：政府正在打击使用机器人购买测试并以高价转售的第三方。",
+        "titleZh": "埃隆·马斯克刚刚又输掉了另一场官司。他会继续战斗吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克刚刚又输掉了另一场官司。他会继续战斗吗？”。核心要点：马斯克输给 OpenAI 是一系列法庭失败中的最新一起。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 16 May 2026 23:27:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 18 May 2026 20:44:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "斯沃琪 (Swatch) 商店因人潮拥挤而第二天关门",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“斯沃琪 (Swatch) 商店因人潮拥挤而第二天关门”。核心要点：一款售价 335 英镑的新款怀表的推出因购物者再次排起长队而招致批评。",
+        "titleZh": "韩国星巴克因“坦克日”促销引发争议而解雇首席执行官",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“韩国星巴克因“坦克日”促销引发争议而解雇首席执行官”。核心要点：在许多人表示星巴克涉及血腥镇压后，星巴克撤回了其饮料杯的宣传活动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 17 May 2026 14:35:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c302vjqz563o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 04:23:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“他们拿走了我不欠的2万英镑”：父母因子女抚养错误而遭受打击",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““他们拿走了我不欠的2万英镑”：父母因子女抚养错误而遭受打击”。核心要点：约翰·哈蒙德 (John Hammond) 是 30 名向 BBC Your Voice 表示他们在 CMS 中遇到问题的家长之一。",
+        "titleZh": "随着人工智能使用的增加，渣打银行将裁员数千人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着人工智能使用的增加，渣打银行将裁员数千人”。核心要点：这家总部位于英国的银行巨头计划将一些受影响的员工转移到业务中的其他职位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 15 May 2026 23:44:32 GMT",
-        "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 02:50:55 GMT",
+        "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
