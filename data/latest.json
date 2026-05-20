@@ -1,132 +1,172 @@
 {
-  "updatedAt": "2026-05-19T05:13:03.728Z",
+  "updatedAt": "2026-05-20T05:15:28.845Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "PCSK9 contributes to diabetes-associated chronic kidney injury beyond LDL cholesterol regulation: genetic and observational evidence.",
+        "journal": "QJM : monthly journal of the Association of Physicians",
+        "pubDate": "2026 May 19",
+        "studyType": "Journal Article",
+        "authors": "Quan J, Li S, Peng J",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：本研究整合了孟德尔随机化 (MR) 和观察数据，以调查 PCSK9 和 LDL-C 在各种病因的慢性肾损伤 (CKI) 中的因果作用，重点关注与糖尿病相关的 CKI。 临床提示：我们使用 GWAS 摘要统计数据进行了两样本 MR 分析，以评估循环 PCSK9、LDL-C 和 PCSK9 抑制剂调节的 LDL-C 对 CKI 风险的影响，并辅以 1 项为期 5 年的前瞻性队列研究。",
+        "abstract": "This study integrates Mendelian randomization (MR) and observational data to investigate the causal roles of PCSK9 and LDL-C in chronic kidney injury (CKI) of various etiologies, with a focus on diabetes-associated CKI. We performed two-sample MR analyses using GWAS summary statistics to assess the effects of circulating PCSK9, LDL-C, and PCSK9-inhibitor-modulated LDL-C on CKI risk, complemented by a 5-year prospective cohort study of 101 type 2 diabetes patients evaluating serum PCSK9 and composite renal endpoints. MR revealed genetically proxied elevated PCSK9 significantly increased diabetic nephropathy risk (OR = 1.985, 95% CI : 1.019-3.867, P = 0.044), whereas LDL-C reduction (including...",
+        "pmid": "42155033",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42155033/",
+        "doiUrl": "https://doi.org/10.1093/qjmed/hcag126",
+        "url": "https://doi.org/10.1093/qjmed/hcag126"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "INHIBITION OF H₂S PRODUCTION REDUCES PORTAL PRESSURE AND ATTENUATES LIVER FIBROSIS IN BILE DUCT-LIGATED RATS.",
-        "journal": "Journal of vascular research",
-        "pubDate": "2026 May 18",
+        "title": "Newly diagnosed pulmonary arterial hypertension following liver transplantation: Insights from a multicenter case series.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "pubDate": "2026 Jun 1",
         "studyType": "Journal Article",
-        "authors": "Buono R, Crescenzi M, Brocca A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在 BDL 大鼠中，PAG 显着降低门静脉压力（10.4 ± 2.7 mmHg 与 16.0 ± 3.9 mmHg，P < 0.05），而不影响体循环压力。 临床提示：硫化氢 (H2S) 是一种具有血管舒张特性的气体信号分子，可调节肝脏炎症和纤维化。",
-        "abstract": "Hydrogen sulfide (H2S) is a gaseous signalling molecule with vasodilatory properties and regulates inflammation and fibrosis in the liver. Rats with bile duct ligation-induced liver disease were treated with propargylglycine (PAG; 30 mg/kg via intragastric gavage), a selective inhibitor of cystathionine γ-lyase, the main source of H2S in the cardiovascular system and liver, or vehicle. PAG treatment was initiated at day 5 after BDL to evaluate its effects on the progression of liver fibrosis and portal hypertension. In BDL rats, PAG significantly reduced portal pressure (10.4 ± 2.7 mmHg versus 16.0 ± 3.9 mmHg, P < 0.05) without affecting systemic pressure. In mesenteric arteries mounted on a...",
-        "pmid": "42149804",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42149804/",
-        "doiUrl": "https://doi.org/10.1159/000552592",
-        "url": "https://doi.org/10.1159/000552592"
+        "authors": "DuBrock HM, Verma D, Schoenberg NC",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：肝移植后新诊断的肺动脉高压：来自多中心病例系列的见解。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41632932",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41632932/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000810",
+        "url": "https://doi.org/10.1097/LVT.0000000000000810"
       },
       {
-        "title": "Transjugular intrahepatic portosystemic shunt as a feasible option for portal hypertension due to Porto-sinusoidal vascular disorder: a case report.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 May 18",
+        "title": "External Validation of Laboratory-Based Models to Assess Portal Hypertension Severity in Patients with Compensated Chronic Liver Disease.",
+        "journal": "Digestive diseases and sciences",
+        "pubDate": "2026 May 19",
         "studyType": "Journal Article",
-        "authors": "Shimamoto T, Abe M, Yukimoto A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：结节性再生性增生 (NRH) 是与 PSVD 相关的病理表现。 临床提示：门窦血管疾病 (PSVD) 由血管性肝病兴趣小组于 2019 年定义，涵盖导致非肝硬化患者门静脉高压的病症。",
-        "abstract": "Porto-sinusoidal vascular disorder (PSVD) was defined by the Vascular Liver Disease Interest Group in 2019 and encompasses conditions that cause portal hypertension in patients without cirrhosis. Nodular regenerative hyperplasia (NRH) is a pathological finding associated with PSVD. We encountered a patient with refractory ascites who underwent transjugular liver biopsy and was diagnosed with PSVD. The patient subsequently underwent transjugular intrahepatic portosystemic shunt (TIPS) placement for refractory ascites and recurrent variceal bleeding caused by portal hypertension, which resolved the ascites and improved the varices. Post-procedural complications, including hepatic ischemia, por...",
-        "pmid": "42149326",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42149326/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02365-6",
-        "url": "https://doi.org/10.1007/s12328-026-02365-6"
+        "authors": "Mohammed FS, Xing M, Mohnasky M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们的目的是对最初在欧洲队列中开发的两个此类模型进行外部验证，用于预测临床显着的门静脉高压（​​CSPH；肝静脉压力梯度 [HVPG] ≥ 10 mmHg）和严重门静脉高压（​​HVPG ≥ 16 mmHg）。 临床提示：我们的目的是对最初在欧洲队列中开发的两个此类模型进行外部验证，用于预测临床显着的门静脉高压（​​CSPH；肝静脉压力梯度 [HVPG] ≥ 10 mmHg）和严重的门脉高压。",
+        "abstract": "Non-invasive laboratory-based models have been proposed to estimate portal hypertension severity in patients with compensated advanced chronic liver disease (cACLD), but external validation in diverse populations remains limited. We aimed to externally validate two such models, originally developed in European cohorts, for predicting clinically significant portal hypertension (CSPH; hepatic venous pressure gradient [HVPG] ≥ 10 mmHg) and severe portal hypertension (HVPG ≥ 16 mmHg) in a U.S.-based cACLD cohort. We conducted a retrospective single-center study of adults with cACLD who underwent HVPG measurement between 2014 and 2024. Patients with active hepatic decompensation, hepatocellular c...",
+        "pmid": "42154123",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42154123/",
+        "doiUrl": "https://doi.org/10.1007/s10620-026-09993-5",
+        "url": "https://doi.org/10.1007/s10620-026-09993-5"
       },
       {
-        "title": "Severe Liver Injury Complicated by Portal Hypertension and Traumatic Arterioportal Shunt: A Case Report.",
-        "journal": "Acute medicine & surgery",
-        "pubDate": "2026 Jan-Dec",
-        "studyType": "Journal Article",
-        "authors": "Miura Y, Sueyoshi K, Hashimoto J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：创伤性动脉门静脉（AP）分流术是肝损伤的罕见血管并发症。 临床提示：对于严重肝损伤的患者，术后可能会出现门静脉高压和肝功能障碍，并且计算机断层扫描很难检测到延迟性 AP 分流。",
-        "abstract": "Traumatic arterioportal (AP) shunts are rare vascular complications of hepatic trauma. In patients with severe liver injury, portal hypertension and hepatic dysfunction may develop during the postoperative course, and delayed AP shunts can be difficult to detect on computed tomography. We report the case of a 19-year-old male who sustained a severe blunt liver injury in a motorcycle accident and presented with hemorrhagic shock. After initial surgical and endovascular hemostatic management, he developed progressive portal hypertension, worsening hepatic dysfunction, and persistent large-volume abdominal fluid. A multiphasic computed tomography scan performed on hospital day 32 showed no defi...",
-        "pmid": "42146993",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42146993/",
-        "doiUrl": "https://doi.org/10.1002/ams2.70135",
-        "url": "https://doi.org/10.1002/ams2.70135"
+        "title": "Optimizing Approach to Liver Biochemistry Abnormalities in Cystic Fibrosis Pediatrics: Balancing Efficiency and Risk-Benefit.",
+        "journal": "Clinics and research in hepatology and gastroenterology",
+        "pubDate": "2026 May 18",
+        "studyType": "Journal Article / Review",
+        "authors": "Lowry Adamitis SB, Karnsakul W",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：本综述提出了一个区分短暂性（<6 个月）与慢性（>6 个月）肝脏生化异常的结构化框架，特别关注药物性肝损伤 (DILI)，包括囊性纤维化跨膜电导调节 临床提示：肝脏生化异常很常见，可能反映良性短暂变化或潜在的肝脏疾病。",
+        "abstract": "Liver biochemistry abnormalities are common and may reflect benign transient changes or underlying liver disease. An evidence-based, stepwise approach can optimize diagnostic efficiency while minimizing unnecessary testing in the pediatric population with cystic fibrosis (CF). This review presents a structured framework to differentiate transient (<6 months) from chronic (>6 months) liver biochemistry abnormalities, with a particular focus on drug-induced liver injury (DILI), including cystic fibrosis transmembrane conductance regulator (CFTR) modulators-associated hepatotoxicity and emerging fatty liver disease or metabolic dysfunction-associated steatotic liver disease (MASLD). Risk strati...",
+        "pmid": "42155634",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42155634/",
+        "doiUrl": "https://doi.org/10.1016/j.clinre.2026.102849",
+        "url": "https://doi.org/10.1016/j.clinre.2026.102849"
+      },
+      {
+        "title": "ROLE OF STATINS IN CIRRHOTIC PORTAL HYPERTENSION: META-ANALYSIS OF RANDOMIZED STUDIES.",
+        "journal": "Arquivos de gastroenterologia",
+        "pubDate": "2026",
+        "studyType": "Journal Article / Meta-Analysis / Review",
+        "authors": "Moreno MOA, Paz CLDSL, Rodrigues MAN",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：然而，最近的证据表明，肝毒性并不常见，并且不使用他汀类药物的风险通常可能超过与使用他汀类药物相关的风险。 临床提示：此外，最近的研究结果表明，他汀类药物由于其多效性，可能对肝硬化具有临床有益作用。",
+        "abstract": "Physicians often use caution when prescribing statins to patients with chronic liver disease (CLD) due to potential hepatotoxicity. However, recent evidence indicates that hepatotoxicity is uncommon, and the risks of not using statins may often outweigh those associated with their use. Additionally, recent findings suggest that statins may have clinically beneficial effects on cirrhosis due to their pleiotropic properties. To evaluate the impact of statin use on the number of patients with chronic liver disease alive at the end of the trials and to assess its effects on portal hypertension, ascites, hepatic encephalopathy, variceal hemorrhage, and hepatocellular carcinoma. This meta-analysis...",
+        "pmid": "42154843",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42154843/",
+        "doiUrl": "https://doi.org/10.1590/S0004-2803.24612025-036",
+        "url": "https://doi.org/10.1590/S0004-2803.24612025-036"
+      },
+      {
+        "title": "Innovations in liver disease assessment: clinical insights from spleen stiffness measurement in chronic liver diseases.",
+        "journal": "Journal of translational medicine",
+        "pubDate": "2026 May 18",
+        "studyType": "Journal Article / Review",
+        "authors": "Wu ZG, Yang L, Wu MB",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：门脉高压的无创评估对于风险分层和临床决策至关重要。 临床提示：本综述总结了关于主要慢性肝病病因的 SSM 的最新证据，包括病毒性肝炎、代谢相关脂肪性肝病和自身免疫性肝病。",
+        "abstract": "Chronic liver diseases are a major global health burden, with cirrhosis and portal hypertension driving morbidity and mortality. Non-invasive assessment of portal hypertension is critical for risk stratification and clinical decision-making. Spleen stiffness measurement (SSM) has emerged as a novel elastography-based biomarker reflecting the hemodynamic consequences of portal hypertension. This review summarizes current evidence on SSM across major chronic liver disease etiologies, including viral hepatitis, metabolic-associated fatty liver disease, and autoimmune liver diseases. We outline the principles and technical evolution of SSM across elastography platforms, including transient elast...",
+        "pmid": "42151980",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42151980/",
+        "doiUrl": "https://doi.org/10.1186/s12967-026-08244-5",
+        "url": "https://doi.org/10.1186/s12967-026-08244-5"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普表示，他应海湾国家的要求取消了新的伊朗袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，他应海湾国家的要求取消了新的伊朗袭击”。核心要点：美国总统表示，他将推迟美国计划于周二发动的袭击，因为“目前正在进行认真的谈判”。",
+        "titleZh": "“埃博拉折磨着我们”：随着致命病毒的传播，恐惧笼罩刚果民主共和国东部",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““埃博拉折磨着我们”：随着致命病毒的传播，恐惧笼罩刚果民主共和国东部”。核心要点：卫生部长承认，在检测速度较慢之后，医务人员正在追赶这种病毒。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 22:30:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 18:05:26 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "圣地亚哥清真寺涉嫌仇恨犯罪，青少年嫌疑人开枪打死三人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“圣地亚哥清真寺涉嫌仇恨犯罪，青少年嫌疑人开枪打死三人”。核心要点：调查人员称，被指控的袭击者年龄分别为 17 岁和 18 岁，其中一人留下了一张包含“普遍仇恨言论”的字条。",
+        "titleZh": "世卫组织医生警告说，埃博拉疫情的传播速度可能比最初想象的要快",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“世卫组织医生警告说，埃博拉疫情的传播速度可能比最初想象的要快”。核心要点：中部非洲疑似有数百起病例，但专家担心实际数字可能要高得多。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 19 May 2026 01:35:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 19:32:22 GMT",
+        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "官员称刚果民主共和国埃博拉疫情已造成至少118人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称刚果民主共和国埃博拉疫情已造成至少118人死亡”。核心要点：世界卫生组织（WHO）已宣布此次疫情为国际紧急状态。",
+        "titleZh": "BBC 揭露身份后逮捕关键人口走私犯",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC 揭露身份后逮捕关键人口走私犯”。核心要点：据信，这名 28 岁的人的网络已将数千名非法移民运送到英国。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 19 May 2026 03:40:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 17:05:41 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卖儿求生：阿富汗父亲被迫做出不可能的选择",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卖儿求生：阿富汗父亲被迫做出不可能的选择”。核心要点：如今，在阿富汗，有四分之三的人无法满足他们的基本需求。",
+        "titleZh": "在圣地亚哥清真寺枪击事件中丧生的八个父亲被誉为英雄",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在圣地亚哥清真寺枪击事件中丧生的八个父亲被誉为英雄”。核心要点：保安阿明·阿卜杜拉是袭击中丧生的三人之一，他被描述为“一道闪亮的光芒”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 21:09:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 23:26:13 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普诉马西：总统的共和党宿敌能否在 2000 万美元的攻击中幸存下来？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普诉马西：总统的共和党宿敌能否在 2000 万美元的攻击中幸存下来？”。核心要点：这位肯塔基州国会议员在联邦支出和爱泼斯坦文件问题上与总统发生了冲突，他将于周二面对共和党选民。",
+        "titleZh": "爱沙尼亚称北约喷气式飞机击落其领土上空的无人机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“爱沙尼亚称北约喷气式飞机击落其领土上空的无人机”。核心要点：爱沙尼亚怀疑这架无人机是乌克兰的一枚导弹，由于俄罗斯的电子干扰而偏离了航线。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 21:39:45 GMT",
-        "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 19:01:44 GMT",
+        "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "费萨尔·伊斯兰：伯纳姆寻求通过遵守财政规则来安抚市场",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：伯纳姆寻求通过遵守财政规则来安抚市场”。核心要点：大曼彻斯特市长安迪·伯纳姆正在寻求管理市场以及梅克菲尔德补选",
+        "titleZh": "政府敦促超市限制食品价格",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“政府敦促超市限制食品价格”。核心要点：据英国广播公司了解，任何价格上限都将自愿适用于鸡蛋、面包和牛奶等主要食品杂货。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 22:07:25 GMT",
-        "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 23:01:42 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "陪审团认为马斯克等待太久才起诉，导致马斯克在 OpenAI 法庭诉讼中败诉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“陪审团认为马斯克等待太久才起诉，导致马斯克在 OpenAI 法庭诉讼中败诉”。核心要点：陪审员们花了数周时间听取马斯克关于奥特曼“窃取了慈善机构”的说法。",
+        "titleZh": "由于燃料价格上涨，英国放松了对俄罗斯石油的制裁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于燃料价格上涨，英国放松了对俄罗斯石油的制裁”。核心要点：这项豁免反映出，由于霍尔木兹海峡的有效封锁，对某些燃料的供应担忧日益加剧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 22:08:37 GMT",
-        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 20 May 2026 01:58:01 GMT",
+        "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "埃隆·马斯克刚刚又输掉了另一场官司。他会继续战斗吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克刚刚又输掉了另一场官司。他会继续战斗吗？”。核心要点：马斯克输给 OpenAI 是一系列法庭失败中的最新一起。",
+        "titleZh": "年轻司机成为网上销售假汽车保险的“幽灵经纪人”的目标",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“年轻司机成为网上销售假汽车保险的“幽灵经纪人”的目标”。核心要点：金融监管机构警告虚假经纪人通过社交媒体销售虚假汽车保险。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 18 May 2026 20:44:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 23:02:47 GMT",
+        "url": "https://www.bbc.com/news/articles/c1w29zw0q44o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "韩国星巴克因“坦克日”促销引发争议而解雇首席执行官",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“韩国星巴克因“坦克日”促销引发争议而解雇首席执行官”。核心要点：在许多人表示星巴克涉及血腥镇压后，星巴克撤回了其饮料杯的宣传活动。",
+        "titleZh": "特习会后中国确认将购买200架波音飞机",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特习会后中国确认将购买200架波音飞机”。核心要点：中国商务部表示，双方还将努力延长十月份商定的关税休战协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 19 May 2026 04:23:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 20 May 2026 04:59:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着人工智能使用的增加，渣打银行将裁员数千人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着人工智能使用的增加，渣打银行将裁员数千人”。核心要点：这家总部位于英国的银行巨头计划将一些受影响的员工转移到业务中的其他职位。",
+        "titleZh": "顾问称英国应制定最高工作温度规则",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“顾问称英国应制定最高工作温度规则”。核心要点：气候监管机构表示，历届政府都未能让英国做好应对极端高温的准备。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 19 May 2026 02:50:55 GMT",
-        "url": "https://www.bbc.com/news/articles/crep3v8vzglo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 19 May 2026 23:40:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
