@@ -1,133 +1,133 @@
 {
-  "updatedAt": "2026-05-21T05:19:12.112Z",
+  "updatedAt": "2026-05-22T05:12:47.986Z",
   "topics": {
     "htn_kidney": [
       {
-        "title": "Feasibility and outcomes of kidney transplantation in patients with end-stage kidney disease after haemopoietic stem cell transplantation.",
-        "journal": "Internal medicine journal",
-        "pubDate": "2026 May 20",
+        "title": "CCL2 as a microvascular \"tone breaker\": inflammatory signaling and the failure of kidney autoregulation in salt-sensitive hypertension.",
+        "journal": "Kidney international",
+        "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Kim B, Choi S, Lee H",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：造血干细胞移植（HSCT）的进步改善了长期生存，但也导致了晚期并发症，例如肾病。 临床提示：然而，HSCT相关终末期肾病（ESKD）患者肾移植（KT）的安全性和可行性仍不清楚。",
-        "abstract": "Advances in haemopoietic stem cell transplantation (HSCT) have improved long-term survival, but they have also led to late complications, such as nephropathy. However, the safety and feasibility of kidney transplantation (KT) in patients with HSCT-related end-stage kidney disease (ESKD) remain unclear. This study aimed to evaluate the feasibility and clinical outcomes of KT in patients with ESKD following HSCT. This study retrospectively analysed eight patients with ESKD who underwent KT following HSCT for haematologic disorders, including aplastic anaemia (n = 5), acute myeloid leukaemia (n = 2) and chronic myeloid leukaemia (n = 1). The median time to progression to ESKD was 104 months aft...",
-        "pmid": "42159016",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42159016/",
-        "doiUrl": "https://doi.org/10.1111/imj.70459",
-        "url": "https://doi.org/10.1111/imj.70459"
+        "authors": "Weyrich M, Speer T",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压相关的肾损伤很大程度上取决于肾脏缓冲传入小动脉的全身压力的能力。 临床提示：确定 C-C 基序趋化因子配体 2 作为 Dahl 盐敏感大鼠肾微血管平滑肌收缩力的直接调节剂。",
+        "abstract": "Hypertension-associated kidney injury is strongly shaped by the ability of the kidney to buffer systemic pressure at the afferent arteriole. Feng et al. identify C-C motif chemokine ligand 2 as a direct regulator of kidney microvascular smooth muscle contractility in Dahl salt-sensitive rats. Loss of C-C motif chemokine ligand 2 preserves Notch3-Mylk (myosin light-chain kinase) signaling, maintains myogenic tone, protects autoregulation, and prevents kidney injury. These findings position the C-C motif chemokine ligand 2/C-C motif chemokine receptor 2 axis as a mechanistic bridge between inflammatory signaling and hypertensive nephropathy.",
+        "pmid": "42167866",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42167866/",
+        "doiUrl": "https://doi.org/10.1016/j.kint.2026.03.004",
+        "url": "https://doi.org/10.1016/j.kint.2026.03.004"
       }
     ],
     "portal_hypertension": [
       {
-        "title": "Predictive performance of CT-based artificial intelligence for predicting variceal bleeding in portal hypertension: a systematic review and meta-analysis.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 May 20",
-        "studyType": "Journal Article / Review",
-        "authors": "Zhu C, Liu Q, Tao W",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 470）。核心观点：系统评估基于计算机断层扫描（CT）的人工智能（AI）预测门脉高压患者静脉曲张出血（VB）的预测准确性，并评估其作为机会性筛查的潜在效用 临床提示：系统评估基于计算机断层扫描（CT）的人工智能（AI）预测门脉高压患者静脉曲张出血（VB）的准确性，并评估其潜力",
-        "abstract": "To systematically evaluate the predictive accuracy of computed tomography (CT)-based artificial intelligence (AI) for predicting variceal bleeding (VB) in patients with portal hypertension, and to assess their potential utility as an opportunistic screening tool alongside Baveno VII criteria. We searched PubMed, Embase, Web of Science, and Cochrane until December 16, 2025, for studies applying radiomics or machine learning algorithms to abdominal CT images for VB prediction. Quality was assessed using PROBAST + AI. A bivariate random-effects model was employed to calculate pooled sensitivity, specificity, and the area under the curve (AUC). Ten studies encompassing 2,470 patients were includ...",
-        "pmid": "42159671",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42159671/",
-        "doiUrl": "https://doi.org/10.1007/s00261-026-05564-4",
-        "url": "https://doi.org/10.1007/s00261-026-05564-4"
+        "title": "Machine learning based hepatic safety score predicts decompensation in hepatocellular carcinoma systemic therapy.",
+        "journal": "NPJ digital medicine",
+        "pubDate": "2026 May 22",
+        "studyType": "Journal Article",
+        "authors": "Han JW, Lee J, Yang K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 1262）。核心观点：肝细胞癌（HCC）经常与门静脉高压共存，显着增加全身治疗期间肝代偿失调（HD）和静脉曲张出血的风险。 临床提示：我们使用 2026 名不可切除的 HCC 患者的数据开发了基于机器学习的肝脏安全评分 (MHSS)，以预测具有临床意义的门静脉高压 (CSPH) 和预后。",
+        "abstract": "Hepatocellular carcinoma (HCC) frequently coexists with portal hypertension, significantly increasing the risk of hepatic decompensation (HD) and variceal bleeding during systemic therapy. We developed a machine learning based hepatic safety score (MHSS) using data from 2026 patients with unresectable HCC to predict clinically significant portal hypertension (CSPH) and prognosis. A random forest model was trained in a derivation cohort (n = 1262) and validated in an independent cohort (n = 764). The MHSS demonstrated robust performance (AUROC 0.840) in CSPH and predicting HD. Stratification revealed that high MHSS patients faced significantly elevated risks of HD (HR 3.25), variceal bleeding...",
+        "pmid": "42168526",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42168526/",
+        "doiUrl": "https://doi.org/10.1038/s41746-026-02802-3",
+        "url": "https://doi.org/10.1038/s41746-026-02802-3"
       },
       {
-        "title": "Portal Hypertensive Enteropathy Presenting as Recurrent Large-Volume Urostomy Bleeding.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 May",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Mullaguri S, Sachdeva M, Al-Roubaie M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：一名 58 岁男性，患有膀胱前列腺切除术和回肠导管尿路造口术后患有膀胱癌和前列腺癌、肥胖、慢性肾脏病、代谢功能障碍以及与酒精相关的肝病相关的肝硬化，多次入院治疗 临床提示：一名 58 岁男性，在膀胱前列腺切除术和回肠导管尿路造口术后患有膀胱癌和前列腺癌、肥胖、慢性肾脏病、代谢功能障碍和酒精相关肝病相关肝硬化",
-        "abstract": "Portal hypertension usually manifests with gastroesophageal varices, portal hypertensive gastropathy, ascites, and hepatic encephalopathy. Although stomal varices have been described in colostomies, ileostomies, and urostomies, bleeding portal hypertensive enteropathy (PHE) involving an ileal conduit urostomy is previously unreported. A 58-year-old man with bladder and prostate cancer status post-cystoprostatectomy with ileal conduit urostomy, obesity, chronic kidney disease, and metabolic dysfunction and alcohol-associated liver disease-related cirrhosis presented with multiple admissions for recurrent gross hematuria via urostomy secondary to stomal bleeding and anemia. He required multipl...",
-        "pmid": "42158907",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42158907/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002108",
-        "url": "https://doi.org/10.14309/crj.0000000000002108"
+        "title": "Efficacy and safety of post-Kasai steroid-based protocol in biliary atresia.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "pubDate": "2026 May 21",
+        "studyType": "Journal Article",
+        "authors": "Anmol, Alam S, Khanna R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Kaplan-Meier 分析证明 SG 的 24 个月 NLS 有所改善（对数秩 p = 0.044）。 临床提示：本研究旨在评估基于类固醇的治疗方案是否可以增强黄疸的清除并改善天然肝脏存活率（NLS）。",
+        "abstract": "This study aims to assess whether steroid-based regimen enhances the clearance of jaundice and improves native liver survival (NLS). We included all infants with biliary atresia (BA) undergoing Kasai portoenterostomy (KPE) at our centre. The algorithm-initiated prednisolone was initiated if stools remained acholic. Of 127 infants, 70 formed the steroid group (SG) and 57 the historical cohort (HC). Jaundice clearance at 6 months was superior with steroids (61.4% vs. 38.6%; odds ratio [OR] 2.53, 95% confidence interval [CI] 1.23-5.19, p = 0.013). Kaplan-Meier analysis demonstrated improved 24-month NLS (log-rank p = 0.044) in SG. Multivariate analysis identified younger age at KPE (adjusted od...",
+        "pmid": "42165317",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42165317/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70458",
+        "url": "https://doi.org/10.1002/jpn3.70458"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国指控古巴劳尔·卡斯特罗谋杀 1996 年击落两架飞机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国指控古巴劳尔·卡斯特罗谋杀 1996 年击落两架飞机”。核心要点：古巴现任总统表示，对卡斯特罗的指控——包括密谋杀害美国公民和毁坏飞机——是一种“政治策略”。",
+        "titleZh": "卢比奥称古巴对美国构成威胁，哈瓦那指责他“撒谎”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卢比奥称古巴对美国构成威胁，哈瓦那指责他“撒谎””。核心要点：古巴外交部长指责卢比奥试图“煽动军事侵略”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 21 May 2026 03:01:15 GMT",
-        "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 22 May 2026 00:10:44 GMT",
+        "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "罗森伯格：普京受到习近平的中国欢迎，但未达成管道协议就回国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“罗森伯格：普京受到习近平的中国欢迎，但未达成管道协议就回国”。核心要点：英国广播公司俄罗斯编辑表示，俄罗斯和中国在世界舞台上表现出并肩作战，但很明显存在局限性。",
+        "titleZh": "美国起诉劳尔·卡斯特罗后古巴危机可能会以三种方式发展",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国起诉劳尔·卡斯特罗后古巴危机可能会以三种方式发展”。核心要点：特朗普政府一直在对该岛的共产党政府施加巨大的经济压力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 20 May 2026 16:34:40 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 21 May 2026 18:40:12 GMT",
+        "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列极右翼部长因嘲笑戴手铐的加沙船队活动人士而受到谴责",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列极右翼部长因嘲笑戴手铐的加沙船队活动人士而受到谴责”。核心要点：法国和意大利等国批评了一段视频，该视频显示伊塔马尔·本格维尔嘲讽了被拘留在以色列港口的数十名活动人士。",
+        "titleZh": "“不就是不”：格陵兰人在美国新领事馆外抗议特朗普",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““不就是不”：格陵兰人在美国新领事馆外抗议特朗普”。核心要点：新领事馆的落成是在美国总统推动对该岛加强控制之际举行的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 20 May 2026 23:28:28 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 22 May 2026 01:37:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "世卫组织警告称，随着死亡人数进一步上升，埃博拉疫苗可能需要九个月的时间",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“世卫组织警告称，随着死亡人数进一步上升，埃博拉疫苗可能需要九个月的时间”。核心要点：世界卫生组织在最新更新中表示，目前已有 139 例疑似死亡病例和 600 例病例。",
+        "titleZh": "愤怒的人群纵火焚烧刚果民主共和国埃博拉医院帐篷",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“愤怒的人群纵火焚烧刚果民主共和国埃博拉医院帐篷”。核心要点：一名疑似埃博拉受害者的悲痛亲友被阻止将他的尸体埋葬。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 20 May 2026 23:47:01 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 21 May 2026 20:12:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "谋杀还是意外？芒果大亨儿子被捕后徒步死亡之谜",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“谋杀还是意外？芒果大亨儿子被捕后徒步死亡之谜”。核心要点：伊萨克·安迪奇 (Isak Andic) 的儿子乔纳森 (Jonathan) 否认与他父亲的倒台有关，他的父亲创立了欧洲最大的服装帝国之一。",
+        "titleZh": "艾伯塔省将就是否留在加拿大举行公投",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“艾伯塔省将就是否留在加拿大举行公投”。核心要点：西部省份的选民将于明年十月决定是否留在加拿大或继续进行具有约束力的独立公投。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 20 May 2026 15:44:41 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 22 May 2026 02:40:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "SpaceX 申请 IPO 可能使埃隆·马斯克成为万亿富翁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“SpaceX 申请 IPO 可能使埃隆·马斯克成为万亿富翁”。核心要点：马斯克的火箭制造商和卫星互联网提供商将以股票代码 SPCX 进行交易",
+        "titleZh": "亚马逊英国老板表示，不要再将失业归咎于年轻人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“亚马逊英国老板表示，不要再将失业归咎于年轻人”。核心要点：约翰·鲍弗莱 (John Boumphrey) 表示，教育体系“不一定能培养出做好工作准备的年轻人”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 20 May 2026 23:11:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 21 May 2026 23:01:37 GMT",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Ofcom 表示 TikTok 和 YouTube 对儿童来说“不够安全”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Ofcom 表示 TikTok 和 YouTube 对儿童来说“不够安全””。核心要点：YouTube 表示，它与专家合作提供适当的体验。 TikTok 表示，对于 Ofcom 没有承认其安全功能感到失望。",
+        "titleZh": "港口称，由于欧盟边境程序，请为多佛半学期排队做好准备",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“港口称，由于欧盟边境程序，请为多佛半学期排队做好准备”。核心要点：这是欧盟新边境制度全面实施以来的第一个假期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 21 May 2026 00:47:21 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 21 May 2026 23:05:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国与六个海湾国家达成37亿英镑的贸易协议",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国与六个海湾国家达成37亿英镑的贸易协议”。核心要点：该协议将取消英国出口产品价值约 5.8 亿英镑的关税，但权利组织至关重要",
+        "titleZh": "“监控局势”：为什么年轻人被预测市场所吸引",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““监控局势”：为什么年轻人被预测市场所吸引”。核心要点：预测市场是一个快速增长、价值数十亿美元的行业，对年轻人的吸引力尤其大",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 21 May 2026 01:16:51 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 21 May 2026 23:09:43 GMT",
+        "url": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "三星罢工因工人争取人工智能奖金而暂停",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“三星罢工因工人争取人工智能奖金而暂停”。核心要点：原定于周四开始的罢工已暂停，工会成员对暂定协议进行投票。",
+        "titleZh": "随着大规模股票出售的临近，马斯克的 SpaceX 推迟了星际飞船的发射",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着大规模股票出售的临近，马斯克的 SpaceX 推迟了星际飞船的发射”。核心要点：就在一天前，该公司公布了破纪录的股票上市计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 21 May 2026 03:36:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 22 May 2026 02:57:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "超市对限制牛奶、面包和鸡蛋价格的压力进行了反击",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“超市对限制牛奶、面包和鸡蛋价格的压力进行了反击”。核心要点：一位部长证实已经进行了谈判，但表示不会对基本食品价格设定强制上限。",
+        "titleZh": "警方对火车公司应对性骚扰问题进行评分",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“警方对火车公司应对性骚扰问题进行评分”。核心要点：政府不会对未达到目标的列车运营商进行经济或法律处罚。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 20 May 2026 17:18:16 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 21 May 2026 23:05:38 GMT",
+        "url": "https://www.bbc.com/news/articles/cg4pew075xpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
