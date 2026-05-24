@@ -1,83 +1,110 @@
 {
-  "updatedAt": "2026-05-23T04:51:57.887Z",
+  "updatedAt": "2026-05-24T05:12:25.962Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": [
+    "htn_kidney": [
       {
-        "title": "Immune-checkpoint inhibitors for advanced hepatocellular carcinoma in Child-Turcotte-Pugh-B cirrhosis: a liver-centric approach to outcomes beyond tumor progression.",
-        "journal": "Hepatology international",
-        "pubDate": "2026 May 22",
-        "studyType": "Journal Article / Review",
-        "authors": "Agrawal D, Jothimani D, Bhoori S",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：免疫检查点抑制剂 (ICIs) 彻底改变了 Child-Turcotte-Pugh A (CTP-A) 肝硬化晚期肝细胞癌 (HCC) 的结局。 临床提示：然而，现实世界中 30-40% 的晚期 HCC 病例涉及 CTP-B 肝硬化，但被排除在关键试验之外，这代表着大量未满足的需求。",
-        "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized advanced hepatocellular carcinoma (HCC) outcomes in Child-Turcotte-Pugh A (CTP-A) cirrhosis. However, 30-40% of real-world advanced HCC cases involve CTP-B cirrhosis, yet are excluded from pivotal trials, representing a substantial unmet need. Immunotherapy for CTP-B HCC has not yet been comprehensively reviewed. This narrative review summarizes the latest evidence on ICIs in CTP-B HCC through January 2026, evaluating ICI efficacy, safety, and patient selection algorithms across CTP-B subclasses. We present a balanced perspective on pre-ICI portal hypertension screening/prophylaxis, decompensation triggers/recompensation strategies, imm...",
-        "pmid": "42171974",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42171974/",
-        "doiUrl": "https://doi.org/10.1007/s12072-026-11097-1",
-        "url": "https://doi.org/10.1007/s12072-026-11097-1"
-      },
-      {
-        "title": "Lumped parameter modeling of changes in liver hemodynamics due to cirrhosis.",
-        "journal": "Biomechanics and modeling in mechanobiology",
+        "title": "Inflammatory factors and hypertensive nephropathy: A bidirectional 2-sample Mendelian randomization study.",
+        "journal": "Medicine",
         "pubDate": "2026 May 22",
         "studyType": "Journal Article",
-        "authors": "Joseph EL, Saini H, Kini U",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：这项数值研究采用人体肝脏血流的计算模型来研究肝硬化的血流动力学后果。 临床提示：肝脏通过双入口系统（门静脉和肝动脉）接收血液，该系统灌注复杂的血窦网络；然而，肝硬化引起的纤维化扭曲了这些通道，增加了液压阻力",
-        "abstract": "This numerical study employs a computational model of human hepatic blood flow to investigate the hemodynamic consequences of cirrhosis. The liver receives blood through a dual-inlet system (portal vein and hepatic artery) that perfuses a complex network of sinusoids; however, cirrhosis-induced fibrosis distorts these channels, increasing hydraulic resistance. In turn, portal pressure is elevated, leading to the potential recanalization of portosystemic collaterals. We extended a lumped parameter hydraulic network model of the human liver, with demarcation of Couinaud segments, to capture the effects of fibrosis by incorporating a portosystemic collateral pathway and an \"apparent viscosity\" ...",
-        "pmid": "42171825",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42171825/",
-        "doiUrl": "https://doi.org/10.1007/s10237-026-02055-9",
-        "url": "https://doi.org/10.1007/s10237-026-02055-9"
+        "authors": "Yang Y, Xue J, Wang L",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：利用来自大型公开人群队列的全基因组关联研究数据，我们应用双向 2 样本孟德尔随机化方法来研究 91 种炎症因素是否影响高血压风险。 临床提示：高血压肾病（HTN）是全球主要的公共卫生问题。",
+        "abstract": "Hypertensive nephropathy (HTN) is a major public health concern worldwide. This study aims to investigate the potential causal relationships between inflammatory factors and HTN, as well as to identify possible underlying biological pathways. Using genome-wide association study data from large publicly available population cohorts, we applied a bidirectional 2-sample Mendelian randomization approach to investigate whether 91 inflammatory factors influence the risk of HTN. Additionally, we examined whether HTN has a potential causal effect on the levels of these inflammatory factors. Finally, we performed pathway enrichment analysis to explore the underlying biological pathways involved in th...",
+        "pmid": "42175402",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42175402/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000048842",
+        "url": "https://doi.org/10.1097/MD.0000000000048842"
+      }
+    ],
+    "portal_hypertension": [
+      {
+        "title": "The Link of Portal-Hypertensive Gastropathy to Anaemia, Systemic Inflammation and Disease Progression in Cirrhosis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article",
+        "authors": "Pfisterer N, Lie-Ungurean I, Maurer J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉高压性胃病（PHG）被认为是晚期慢性肝病（ACLD）患者慢性出血和贫血的潜在原因，并且可能代表与门脉高压相关的肠肝轴受损的内镜反射。 临床提示：门脉高压性胃病 (PHG) 被认为是晚期慢性肝病 (ACLD) 患者慢性出血和贫血的潜在原因，并且可能代表肠道受损的内镜反映",
+        "abstract": "Portal-hypertensive gastropathy (PHG) is considered a potential cause of chronic bleeding and anaemia in patients with advanced chronic liver disease (ACLD) and might represent an endoscopic reflection of an impaired gut-liver axis associated with portal hypertension. The clinical significance of PHG in patients with ACLD undergoing routine endoscopies remains understudied. PHG was classified as absent, mild, or severe in prospectively recruited ACLD patients undergoing routine endoscopy (i.e., variceal screening) in the absence of acute bleeding between Q2/2017-Q3/2023. PHG severity was correlated with liver disease severity, systemic inflammation, anaemia, and development of non-variceal b...",
+        "pmid": "42174757",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42174757/",
+        "doiUrl": "https://doi.org/10.1111/liv.70700",
+        "url": "https://doi.org/10.1111/liv.70700"
+      },
+      {
+        "title": "Development and external validation of a novel online calculator for predicting long-term survival following radical hepatectomy in patients with BCLC stage 0/A hepatocellular carcinoma and clinically significant portal hypertension.",
+        "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article / Validation Study / Multicenter Study",
+        "authors": "Shao T, Hu H, Li Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：肝细胞癌 (HCC) 和有临床意义的门脉高压 (CSPH) 患者在肝切除术 (Hx) 后预后较差。 临床提示：本研究旨在开发一种计算器来估计队列的生存结果。",
+        "abstract": "Patients with hepatocellular carcinoma (HCC) and clinically significant portal hypertension (CSPH) experience a poorer prognosis following hepatectomy (Hx). This study aimed to develop a calculator to estimate the survival outcomes of the cohort. This study collected data from patients with BCLC stage 0/A HCC and CSPH who underwent curative Hx at 12 medical centers between 2015 and 2020. Prognostic factors for overall survival (OS) were identified using the Cox proportional hazards model. The performance of the nomogram was primarily assessed through the concordance index (C-index), compared with the Model of End-Stage Liver Disease-alpha-fetoprotein-tumor burden (MELD-AFP-TBS) and Chinese U...",
+        "pmid": "42019372",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42019372/",
+        "doiUrl": "https://doi.org/10.1016/j.ejso.2026.111795",
+        "url": "https://doi.org/10.1016/j.ejso.2026.111795"
+      },
+      {
+        "title": "Carvedilol triggers ferroptosis in hepatic stellate cells via the ATF4/SAT1 axis promoting spermidine depletion to ameliorate liver fibrosis.",
+        "journal": "Cell death & disease",
+        "pubDate": "2026 May 22",
+        "studyType": "Journal Article",
+        "authors": "Xia Y, Wang S, Zhu J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝纤维化是慢性肝损伤的主要病理后果，而卡维地洛是一种有效降低门脉高压的药物，最近的研究已显示其具有抗纤维化作用，但其确切的分子机制尚不清楚。 临床提示：肝纤维化是慢性肝损伤的主要病理后果，而卡维地洛作为一种有效降低门脉高压的药物，近年来的研究已显示其具有抗纤维化作用，但其临床应用尚不明确。",
+        "abstract": "Liver fibrosis is a major pathological consequence of chronic liver injury, and carvedilol, a drug effective in reducing portal hypertension, has been shown to exert anti-fibrotic effects in recent studies, yet the precise molecular mechanism underlying this activity remains elusive. This study aimed to investigate the core scientific question of whether carvedilol alleviates liver fibrosis by inducing ferroptosis in hepatic stellate cells (HSCs) and to clarify the corresponding regulatory mechanisms. Using a CCl 4 -induced mouse liver fibrosis model and human (LX-2)/rat (HSC-T6) HSC lines treated with carvedilol, mechanistic analyses were conducted via Western blot, quantitative real-time P...",
+        "pmid": "42173841",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42173841/",
+        "doiUrl": "https://doi.org/10.1038/s41419-026-08898-5",
+        "url": "https://doi.org/10.1038/s41419-026-08898-5"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "普京指责乌克兰袭击学生宿舍后誓言报复",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“普京指责乌克兰袭击学生宿舍后誓言报复”。核心要点：乌克兰表示，它在莫斯科占领的乌克兰东部地区袭击了俄罗斯精锐的“卢比孔河”无人机军事部队。",
+        "titleZh": "嫌疑人在白宫附近向特勤局开枪身亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“嫌疑人在白宫附近向特勤局开枪身亡”。核心要点：官员称，一名嫌疑人走近大楼附近的检查站并开枪，一名旁观者受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 23 May 2026 04:05:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 24 May 2026 05:06:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "SpaceX 发射大型 Starship V3 火箭进行试飞",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“SpaceX 发射大型 Starship V3 火箭进行试飞”。核心要点：历史上最大、最强大的火箭在首次发射尝试被推迟后升空。",
+        "titleZh": "特朗普称伊朗协议“很大程度上是通过谈判达成的”，包括重新开放霍尔木兹海峡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗协议“很大程度上是通过谈判达成的”，包括重新开放霍尔木兹海峡”。核心要点：德黑兰也表示谈判取得了进展，但表示核武器的关键问题并不是其正在制定的初步框架的一部分。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 23 May 2026 03:53:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 24 May 2026 01:18:31 GMT",
+        "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卢比奥试图就美军部署问题安抚北约盟友",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卢比奥试图就美军部署问题安抚北约盟友”。核心要点：唐纳德·特朗普总统表示，他希望向波兰派遣更多军队，一周前他的官员取消了类似的部署。",
+        "titleZh": "罗森伯格：卢甘斯克罢工引发俄罗斯指控并誓言报复",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“罗森伯格：卢甘斯克罢工引发俄罗斯指控并誓言报复”。核心要点：俄罗斯占领的乌克兰东部小镇遭到袭击，造成 18 人死亡、42 人受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 15:18:30 GMT",
-        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 23 May 2026 23:34:33 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "刚果民主共和国埃博拉风险升至“非常高”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“刚果民主共和国埃博拉风险升至“非常高””。核心要点：联合国卫生机构负责人表示，更广泛地区的风险“高”，但在全球范围内仍然“低”。",
+        "titleZh": "我在霍尔木兹海峡的导弹袭击中幸存，但我的朋友还没有找到",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“我在霍尔木兹海峡的导弹袭击中幸存，但我的朋友还没有找到”。核心要点：伊朗战争爆发时，苏尼尔·普尼亚 (Sunil Puniya) 正在执行他的第一份海上工作，一枚导弹击中了油轮天窗号。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 16:23:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 23 May 2026 23:24:03 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加沙船队活动人士声称以色列军队在被拘留期间实施虐待行为",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“加沙船队活动人士声称以色列军队在被拘留期间实施虐待行为”。核心要点：被拘留者称，他们遭到掌掴、殴打、羞辱，甚至遭受性暴力，但以色列监狱部门表示，这些指控是虚假的。",
+        "titleZh": "中国煤矿爆炸至少82人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“中国煤矿爆炸至少82人死亡”。核心要点：山西省的爆炸是该国16年来最严重的矿难。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 20:52:35 GMT",
-        "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 24 May 2026 03:18:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
         "titleZh": "亚马逊英国老板表示，不要再将失业归咎于年轻人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“亚马逊英国老板表示，不要再将失业归咎于年轻人”。核心要点：约翰·鲍弗莱 (John Boumphrey) 表示，教育体系“不一定能培养出做好工作准备的年轻人”。",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“亚马逊英国老板表示，不要再将失业归咎于年轻人”。核心要点：约翰·鲍弗莱 (John Boumphrey) 表示，教育系统“不一定能培养出做好工作准备的年轻人”。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 22 May 2026 10:56:32 GMT",
@@ -92,8 +119,8 @@
         "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "从几十年到几年——人工智能可以加速寻找隐藏在视线中的大脑药物",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“从几十年到几年——人工智能可以加速寻找隐藏在视线中的大脑药物”。核心要点：研究人员希望这项工作将有助于找到负担得起的、有效的药物来治疗 MND 等疾病。",
+        "titleZh": "人工智能可能会加速寻找治疗大脑疾病的药物",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能可能会加速寻找治疗大脑疾病的药物”。核心要点：研究人员希望这项工作将有助于找到负担得起的、有效的药物来治疗 MND 等疾病。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 22 May 2026 21:30:06 GMT",
