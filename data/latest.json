@@ -1,146 +1,146 @@
 {
-  "updatedAt": "2026-05-24T05:12:25.962Z",
+  "updatedAt": "2026-05-25T05:48:50.225Z",
   "topics": {
     "htn_kidney": [
       {
-        "title": "Inflammatory factors and hypertensive nephropathy: A bidirectional 2-sample Mendelian randomization study.",
-        "journal": "Medicine",
+        "title": "Zyxin deficiency aggravates podocyte injury in hypertensive nephropathy.",
+        "journal": "Experimental cell research",
         "pubDate": "2026 May 22",
         "studyType": "Journal Article",
-        "authors": "Yang Y, Xue J, Wang L",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：利用来自大型公开人群队列的全基因组关联研究数据，我们应用双向 2 样本孟德尔随机化方法来研究 91 种炎症因素是否影响高血压风险。 临床提示：高血压肾病（HTN）是全球主要的公共卫生问题。",
-        "abstract": "Hypertensive nephropathy (HTN) is a major public health concern worldwide. This study aims to investigate the potential causal relationships between inflammatory factors and HTN, as well as to identify possible underlying biological pathways. Using genome-wide association study data from large publicly available population cohorts, we applied a bidirectional 2-sample Mendelian randomization approach to investigate whether 91 inflammatory factors influence the risk of HTN. Additionally, we examined whether HTN has a potential causal effect on the levels of these inflammatory factors. Finally, we performed pathway enrichment analysis to explore the underlying biological pathways involved in th...",
-        "pmid": "42175402",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42175402/",
-        "doiUrl": "https://doi.org/10.1097/MD.0000000000048842",
-        "url": "https://doi.org/10.1097/MD.0000000000048842"
+        "authors": "He FF, Chen YY, Wang YM",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：足细胞损伤和脱离是高血压肾病的早期细胞事件，但其潜在机制尚不清楚。 临床提示：Zyxin 是一种位于粘着斑的机械传感器，调节肌动蛋白细胞骨架重塑并表现出多种生物学功能。",
+        "abstract": "Podocyte injury and detachment are early cellular events in hypertensive nephropathy, yet their underlying mechanisms are not well clarified. Zyxin, a mechanotransducer located at focal adhesions, regulates actin cytoskeleton remodeling and exhibits diverse biological functions. However, its role in podocytes is poorly understood. In this study, we constructed a hypertensive nephropathy model in podocyte-specific zyxin knockout mice to explore the role of zyxin in hypertensive conditions. In vitro, mechanical stretch and Angiotensin II (AngII) were used to stimulate podocytes. Western blot, real-time PCR, and immunofluorescence were performed to underscore underlying mechanisms. We identifie...",
+        "pmid": "42176770",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176770/",
+        "doiUrl": "https://doi.org/10.1016/j.yexcr.2026.115081",
+        "url": "https://doi.org/10.1016/j.yexcr.2026.115081"
       }
     ],
     "portal_hypertension": [
       {
-        "title": "The Link of Portal-Hypertensive Gastropathy to Anaemia, Systemic Inflammation and Disease Progression in Cirrhosis.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "title": "Endovascular Interventions Reduce Rebleeding in Patients With Gastric Varices: An Individual Patient Data Meta-Analysis.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
         "pubDate": "2026 Jun",
-        "studyType": "Journal Article",
-        "authors": "Pfisterer N, Lie-Ungurean I, Maurer J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉高压性胃病（PHG）被认为是晚期慢性肝病（ACLD）患者慢性出血和贫血的潜在原因，并且可能代表与门脉高压相关的肠肝轴受损的内镜反射。 临床提示：门脉高压性胃病 (PHG) 被认为是晚期慢性肝病 (ACLD) 患者慢性出血和贫血的潜在原因，并且可能代表肠道受损的内镜反映",
-        "abstract": "Portal-hypertensive gastropathy (PHG) is considered a potential cause of chronic bleeding and anaemia in patients with advanced chronic liver disease (ACLD) and might represent an endoscopic reflection of an impaired gut-liver axis associated with portal hypertension. The clinical significance of PHG in patients with ACLD undergoing routine endoscopies remains understudied. PHG was classified as absent, mild, or severe in prospectively recruited ACLD patients undergoing routine endoscopy (i.e., variceal screening) in the absence of acute bleeding between Q2/2017-Q3/2023. PHG severity was correlated with liver disease severity, systemic inflammation, anaemia, and development of non-variceal b...",
-        "pmid": "42174757",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42174757/",
-        "doiUrl": "https://doi.org/10.1111/liv.70700",
-        "url": "https://doi.org/10.1111/liv.70700"
+        "studyType": "Journal Article / Meta-Analysis / Review",
+        "authors": "Biswas S, Aggarwal A, Lo GH",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：关于肝硬化患者胃静脉曲张（GV）出血二级预防的最佳方式尚未达成共识。 临床提示：观察性研究和随机对照试验 (RCT) 比较血管内干预措施（球囊闭塞逆行经静脉闭塞术 (BRTO) 和经颈静脉肝内门体分流术 (TIPS)）与",
+        "abstract": "There is no consensus on the optimal modality of secondary prophylaxis for gastric variceal (GV) bleeding in patients with cirrhosis. Observational studies and randomized controlled trials (RCTs) comparing endovascular interventions-balloon-occluded retrograde transvenous obliteration (BRTO) and transjugular intrahepatic portosystemic shunt (TIPS)-with endoscopic cyanoacrylate injection (ECI) were considered for the aggregate data meta-analysis. Individual patient data were collected from RCTs to perform an individual patient data meta-analysis in a propensity score-matched cohort. The primary outcome was comparison of the rates of all-cause rebleeding between ECI, BRTO, and TIPS. Secondary ...",
+        "pmid": "41539349",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41539349/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.01.002",
+        "url": "https://doi.org/10.1016/j.cgh.2026.01.002"
       },
       {
-        "title": "Development and external validation of a novel online calculator for predicting long-term survival following radical hepatectomy in patients with BCLC stage 0/A hepatocellular carcinoma and clinically significant portal hypertension.",
-        "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+        "title": "EUS-Guided Liver Biopsy and Portal Pressure Measurement Compared With a Transjugular Approach: A Randomized Controlled Trial.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
         "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Validation Study / Multicenter Study",
-        "authors": "Shao T, Hu H, Li Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：肝细胞癌 (HCC) 和有临床意义的门脉高压 (CSPH) 患者在肝切除术 (Hx) 后预后较差。 临床提示：本研究旨在开发一种计算器来估计队列的生存结果。",
-        "abstract": "Patients with hepatocellular carcinoma (HCC) and clinically significant portal hypertension (CSPH) experience a poorer prognosis following hepatectomy (Hx). This study aimed to develop a calculator to estimate the survival outcomes of the cohort. This study collected data from patients with BCLC stage 0/A HCC and CSPH who underwent curative Hx at 12 medical centers between 2015 and 2020. Prognostic factors for overall survival (OS) were identified using the Cox proportional hazards model. The performance of the nomogram was primarily assessed through the concordance index (C-index), compared with the Model of End-Stage Liver Disease-alpha-fetoprotein-tumor burden (MELD-AFP-TBS) and Chinese U...",
-        "pmid": "42019372",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42019372/",
-        "doiUrl": "https://doi.org/10.1016/j.ejso.2026.111795",
-        "url": "https://doi.org/10.1016/j.ejso.2026.111795"
+        "studyType": "Journal Article / Randomized Controlled Trial / Comparative Study",
+        "authors": "Benmassaoud A, Bessissow A, Samoukovic G",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：推荐使用经颈静脉（TJ）技术分别通过肝静脉压力梯度（HVPG）和肝活检（LB）同时评估门静脉高压和肝纤维化。 临床提示：不幸的是，技术挑战限制了对 HVPG 的访问，而且 TJ LB 的质量通常不理想。",
+        "abstract": "The transjugular (TJ) technique is recommended for the simultaneous evaluation of portal hypertension and hepatic fibrosis, with the hepatic venous pressure gradient (HVPG) and liver biopsy (LB), respectively. Unfortunately, technical challenges have restricted access to HVPG, and TJ LB is often of suboptimal quality. Endoscopic ultrasound (EUS) is a novel approach capable of obtaining portal pressure gradient (PPG) and LB. Our aim was to compare EUS-guided PPG LB with TJ HVPG LB. Patients with chronic liver disease simultaneously evaluated for portal hypertension and liver fibrosis at the McGill University Health Centre were randomly assigned to EUS-guided PPG LB or TJ HVPG LB. The primary ...",
+        "pmid": "41046961",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41046961/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.09.025",
+        "url": "https://doi.org/10.1016/j.cgh.2025.09.025"
       },
       {
-        "title": "Carvedilol triggers ferroptosis in hepatic stellate cells via the ATF4/SAT1 axis promoting spermidine depletion to ameliorate liver fibrosis.",
-        "journal": "Cell death & disease",
-        "pubDate": "2026 May 22",
+        "title": "EXPRESS: Outcome of 4 cats with cIHPSS treated by a modified PTCE technique.",
+        "journal": "Journal of feline medicine and surgery",
+        "pubDate": "2026 May 23",
         "studyType": "Journal Article",
-        "authors": "Xia Y, Wang S, Zhu J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝纤维化是慢性肝损伤的主要病理后果，而卡维地洛是一种有效降低门脉高压的药物，最近的研究已显示其具有抗纤维化作用，但其确切的分子机制尚不清楚。 临床提示：肝纤维化是慢性肝损伤的主要病理后果，而卡维地洛作为一种有效降低门脉高压的药物，近年来的研究已显示其具有抗纤维化作用，但其临床应用尚不明确。",
-        "abstract": "Liver fibrosis is a major pathological consequence of chronic liver injury, and carvedilol, a drug effective in reducing portal hypertension, has been shown to exert anti-fibrotic effects in recent studies, yet the precise molecular mechanism underlying this activity remains elusive. This study aimed to investigate the core scientific question of whether carvedilol alleviates liver fibrosis by inducing ferroptosis in hepatic stellate cells (HSCs) and to clarify the corresponding regulatory mechanisms. Using a CCl 4 -induced mouse liver fibrosis model and human (LX-2)/rat (HSC-T6) HSC lines treated with carvedilol, mechanistic analyses were conducted via Western blot, quantitative real-time P...",
-        "pmid": "42173841",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42173841/",
-        "doiUrl": "https://doi.org/10.1038/s41419-026-08898-5",
-        "url": "https://doi.org/10.1038/s41419-026-08898-5"
+        "authors": "Tiffinger K, Gibson E, Ganjei J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本病例系列的目的是回顾性地描述猫 PTCE 技术的单导管改良，以避免与大血管鞘和血管相关的并发症。 临床提示：在弹簧圈部署过程中同时进行门静脉造影/静脉造影和连续门静脉压力监测是经皮经静脉弹簧圈栓塞 (PTCE) 期间用于先天性心脏病介入治疗的标准做法",
+        "abstract": "Simultaneous portogram/cavogram and continuous portal pressure monitoring during coil deployment are standard practices during percutaneous transvenous coil embolization (PTCE) for the interventional treatment of congenital intrahepatic shunts (cIHPSS). In cats, vascular access is more challenging due to their smaller size. The minimum vascular sheath size required to accommodate standard instrumentation for dual catheter PTCE is 9 Fr, which can be challenging to place in the feline jugular vein. The objective of this case series was to retrospectively describe a single catheter modification of the PTCE technique in cats to avoid complications associated with large vascular sheaths and the o...",
+        "pmid": "42175789",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42175789/",
+        "doiUrl": "https://doi.org/10.1177/1098612X261456677",
+        "url": "https://doi.org/10.1177/1098612X261456677"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "嫌疑人在白宫附近向特勤局开枪身亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“嫌疑人在白宫附近向特勤局开枪身亡”。核心要点：官员称，一名嫌疑人走近大楼附近的检查站并开枪，一名旁观者受伤。",
+        "titleZh": "油价下跌因美伊和平协议的希望而下跌",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“油价下跌因美伊和平协议的希望而下跌”。核心要点：特朗普周六表示，协议将包括重新开放霍尔木兹海峡，但没有透露更多细节。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 24 May 2026 05:06:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 03:38:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普称伊朗协议“很大程度上是通过谈判达成的”，包括重新开放霍尔木兹海峡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗协议“很大程度上是通过谈判达成的”，包括重新开放霍尔木兹海峡”。核心要点：德黑兰也表示谈判取得了进展，但表示核武器的关键问题并不是其正在制定的初步框架的一部分。",
+        "titleZh": "特朗普告诉美国谈判代表“不要急于”与伊朗达成协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普告诉美国谈判代表“不要急于”与伊朗达成协议”。核心要点：据美国媒体报道，正在讨论的协议将包括将停火期限延长 60 天，在此期间霍尔木兹海峡将重新开放。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 24 May 2026 01:18:31 GMT",
-        "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 04:16:33 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "罗森伯格：卢甘斯克罢工引发俄罗斯指控并誓言报复",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“罗森伯格：卢甘斯克罢工引发俄罗斯指控并誓言报复”。核心要点：俄罗斯占领的乌克兰东部小镇遭到袭击，造成 18 人死亡、42 人受伤。",
+        "titleZh": "她被告知要在一个禁止女孩接受教育的国家结婚。于是她坐上出租车逃跑了",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“她被告知要在一个禁止女孩接受教育的国家结婚。于是她坐上出租车逃跑了”。核心要点：学校禁令实施已近五年，年轻女性表示她们已经告别了自己的梦想。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 23 May 2026 23:34:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 24 May 2026 21:02:08 GMT",
+        "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我在霍尔木兹海峡的导弹袭击中幸存，但我的朋友还没有找到",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“我在霍尔木兹海峡的导弹袭击中幸存，但我的朋友还没有找到”。核心要点：伊朗战争爆发时，苏尼尔·普尼亚 (Sunil Puniya) 正在执行他的第一份海上工作，一枚导弹击中了油轮天窗号。",
+        "titleZh": "俄罗斯对乌克兰发动大规模袭击，造成四人死亡、数十人受伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对乌克兰发动大规模袭击，造成四人死亡、数十人受伤”。核心要点：俄罗斯证实，使用了据称飞行速度超过音速十倍的高超音速导弹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 23 May 2026 23:24:03 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 04:45:13 GMT",
+        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国煤矿爆炸至少82人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“中国煤矿爆炸至少82人死亡”。核心要点：山西省的爆炸是该国16年来最严重的矿难。",
+        "titleZh": "领导人被罢黜后土耳其防暴警察冲进反对派办公室",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“领导人被罢黜后土耳其防暴警察冲进反对派办公室”。核心要点：在该党发誓要无视法院罢免其领导人的裁决几天后，警察强行闯入大楼。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 24 May 2026 03:18:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 24 May 2026 19:49:39 GMT",
+        "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "亚马逊英国老板表示，不要再将失业归咎于年轻人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“亚马逊英国老板表示，不要再将失业归咎于年轻人”。核心要点：约翰·鲍弗莱 (John Boumphrey) 表示，教育系统“不一定能培养出做好工作准备的年轻人”。",
+        "titleZh": "油价下跌因美伊和平协议的希望而下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“油价下跌因美伊和平协议的希望而下跌”。核心要点：特朗普周六表示，协议将包括重新开放霍尔木兹海峡，但没有透露更多细节。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 10:56:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 03:38:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "银行老板在将员工描述为“低价值人力资本”后感到抱歉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“银行老板在将员工描述为“低价值人力资本”后感到抱歉”。核心要点：这位渣打银行老板表示，他重视所有同事，并致力于帮助他们应对变化。",
+        "titleZh": "“我生活在生存模式”：多职劳动力的崛起",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我生活在生存模式”：多职劳动力的崛起”。核心要点：随着成本上升和不稳定的工作重塑了我们的谋生方式，越来越多的人开始从事第二份工作。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 18:55:10 GMT",
-        "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 00:26:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人工智能可能会加速寻找治疗大脑疾病的药物",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能可能会加速寻找治疗大脑疾病的药物”。核心要点：研究人员希望这项工作将有助于找到负担得起的、有效的药物来治疗 MND 等疾病。",
+        "titleZh": "随着啤酒厂发出最后订单，啤酒热潮趋于平缓",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着啤酒厂发出最后订单，啤酒热潮趋于平缓”。核心要点：随着酒吧关门、成本上升和饮酒习惯的改变，英国的啤酒厂规模正在萎缩。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 21:30:06 GMT",
-        "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 00:21:24 GMT",
+        "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普希望新任美联储主席“完全独立”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普希望新任美联储主席“完全独立””。核心要点：这位美国总统向凯文·沃什的前任施加了巨大压力，要求其降息。",
+        "titleZh": "沙特阿拉伯的消费热潮是如何走到尽头的",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“沙特阿拉伯的消费热潮是如何走到尽头的”。核心要点：MBS 的 Vision 2030 项目似乎只是科幻小说中的情节。现在现实已经咬了一口",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 18:16:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 01:08:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "莫里森计划在未来几个月内关闭 100 家商店",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“莫里森计划在未来几个月内关闭 100 家商店”。核心要点：报告称，“政府政策选择导致成本大幅增加”，加剧了困难。",
+        "titleZh": "米尔本表示，年轻人花在福利上的钱多于工作上的钱是“可耻的”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“米尔本表示，年轻人花在福利上的钱多于工作上的钱是“可耻的””。核心要点：艾伦·米尔本表示，需要对福利制度进行改革，以解决大量年轻人没有工作或上学的问题。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 22 May 2026 12:28:35 GMT",
-        "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 24 May 2026 10:21:58 GMT",
+        "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
