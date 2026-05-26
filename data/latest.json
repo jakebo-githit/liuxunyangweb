@@ -1,122 +1,90 @@
 {
-  "updatedAt": "2026-05-25T05:48:50.225Z",
+  "updatedAt": "2026-05-26T05:13:08.807Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Zyxin deficiency aggravates podocyte injury in hypertensive nephropathy.",
-        "journal": "Experimental cell research",
-        "pubDate": "2026 May 22",
-        "studyType": "Journal Article",
-        "authors": "He FF, Chen YY, Wang YM",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：足细胞损伤和脱离是高血压肾病的早期细胞事件，但其潜在机制尚不清楚。 临床提示：Zyxin 是一种位于粘着斑的机械传感器，调节肌动蛋白细胞骨架重塑并表现出多种生物学功能。",
-        "abstract": "Podocyte injury and detachment are early cellular events in hypertensive nephropathy, yet their underlying mechanisms are not well clarified. Zyxin, a mechanotransducer located at focal adhesions, regulates actin cytoskeleton remodeling and exhibits diverse biological functions. However, its role in podocytes is poorly understood. In this study, we constructed a hypertensive nephropathy model in podocyte-specific zyxin knockout mice to explore the role of zyxin in hypertensive conditions. In vitro, mechanical stretch and Angiotensin II (AngII) were used to stimulate podocytes. Western blot, real-time PCR, and immunofluorescence were performed to underscore underlying mechanisms. We identifie...",
-        "pmid": "42176770",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42176770/",
-        "doiUrl": "https://doi.org/10.1016/j.yexcr.2026.115081",
-        "url": "https://doi.org/10.1016/j.yexcr.2026.115081"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Endovascular Interventions Reduce Rebleeding in Patients With Gastric Varices: An Individual Patient Data Meta-Analysis.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "title": "Spontaneous bacterial peritonitis in non-cirrhotic portal hypertension secondary to primary myelofibrosis: A rare case report.",
+        "journal": "iLIVER",
         "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Meta-Analysis / Review",
-        "authors": "Biswas S, Aggarwal A, Lo GH",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：关于肝硬化患者胃静脉曲张（GV）出血二级预防的最佳方式尚未达成共识。 临床提示：观察性研究和随机对照试验 (RCT) 比较血管内干预措施（球囊闭塞逆行经静脉闭塞术 (BRTO) 和经颈静脉肝内门体分流术 (TIPS)）与",
-        "abstract": "There is no consensus on the optimal modality of secondary prophylaxis for gastric variceal (GV) bleeding in patients with cirrhosis. Observational studies and randomized controlled trials (RCTs) comparing endovascular interventions-balloon-occluded retrograde transvenous obliteration (BRTO) and transjugular intrahepatic portosystemic shunt (TIPS)-with endoscopic cyanoacrylate injection (ECI) were considered for the aggregate data meta-analysis. Individual patient data were collected from RCTs to perform an individual patient data meta-analysis in a propensity score-matched cohort. The primary outcome was comparison of the rates of all-cause rebleeding between ECI, BRTO, and TIPS. Secondary ...",
-        "pmid": "41539349",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41539349/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.01.002",
-        "url": "https://doi.org/10.1016/j.cgh.2026.01.002"
-      },
-      {
-        "title": "EUS-Guided Liver Biopsy and Portal Pressure Measurement Compared With a Transjugular Approach: A Randomized Controlled Trial.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Randomized Controlled Trial / Comparative Study",
-        "authors": "Benmassaoud A, Bessissow A, Samoukovic G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：推荐使用经颈静脉（TJ）技术分别通过肝静脉压力梯度（HVPG）和肝活检（LB）同时评估门静脉高压和肝纤维化。 临床提示：不幸的是，技术挑战限制了对 HVPG 的访问，而且 TJ LB 的质量通常不理想。",
-        "abstract": "The transjugular (TJ) technique is recommended for the simultaneous evaluation of portal hypertension and hepatic fibrosis, with the hepatic venous pressure gradient (HVPG) and liver biopsy (LB), respectively. Unfortunately, technical challenges have restricted access to HVPG, and TJ LB is often of suboptimal quality. Endoscopic ultrasound (EUS) is a novel approach capable of obtaining portal pressure gradient (PPG) and LB. Our aim was to compare EUS-guided PPG LB with TJ HVPG LB. Patients with chronic liver disease simultaneously evaluated for portal hypertension and liver fibrosis at the McGill University Health Centre were randomly assigned to EUS-guided PPG LB or TJ HVPG LB. The primary ...",
-        "pmid": "41046961",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41046961/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.09.025",
-        "url": "https://doi.org/10.1016/j.cgh.2025.09.025"
-      },
-      {
-        "title": "EXPRESS: Outcome of 4 cats with cIHPSS treated by a modified PTCE technique.",
-        "journal": "Journal of feline medicine and surgery",
-        "pubDate": "2026 May 23",
-        "studyType": "Journal Article",
-        "authors": "Tiffinger K, Gibson E, Ganjei J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本病例系列的目的是回顾性地描述猫 PTCE 技术的单导管改良，以避免与大血管鞘和血管相关的并发症。 临床提示：在弹簧圈部署过程中同时进行门静脉造影/静脉造影和连续门静脉压力监测是经皮经静脉弹簧圈栓塞 (PTCE) 期间用于先天性心脏病介入治疗的标准做法",
-        "abstract": "Simultaneous portogram/cavogram and continuous portal pressure monitoring during coil deployment are standard practices during percutaneous transvenous coil embolization (PTCE) for the interventional treatment of congenital intrahepatic shunts (cIHPSS). In cats, vascular access is more challenging due to their smaller size. The minimum vascular sheath size required to accommodate standard instrumentation for dual catheter PTCE is 9 Fr, which can be challenging to place in the feline jugular vein. The objective of this case series was to retrospectively describe a single catheter modification of the PTCE technique in cats to avoid complications associated with large vascular sheaths and the o...",
-        "pmid": "42175789",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42175789/",
-        "doiUrl": "https://doi.org/10.1177/1098612X261456677",
-        "url": "https://doi.org/10.1177/1098612X261456677"
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Pradana FR, Nuramalia LS, Maimunah U",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：自发性细菌性腹膜炎 (SBP) 是一种危及生命的腹水感染，通常与肝硬化和晚期门脉高压相关，而其在非肝硬化门脉高压 (NCPH) 中的发生很少见，且常常未被充分认识。 临床提示：原发性骨髓纤维化 (PMF) 是一种骨髓增殖性肿瘤，可能通过高凝状态、髓外造血和脾肿大相关的血流动力学变化等机制导致 NCPH；然而，SBP 在这",
+        "abstract": "Spontaneous bacterial peritonitis (SBP) is a life-threatening infection of ascitic fluid, typically associated with cirrhosis and advanced portal hypertension, while its occurrence in non-cirrhotic portal hypertension (NCPH) is rare and often underrecognized. Primary myelofibrosis (PMF), a myeloproliferative neoplasm, may lead to NCPH through mechanisms such as hypercoagulability, extramedullary hematopoiesis, and splenomegaly-related hemodynamic changes; however, SBP in this setting is extremely uncommon. A 60-year-old woman who presented to Dr. Soetomo General Academic Hospital with progressive painful abdominal distension, fever, and bilateral lower limb edema. Laboratory evaluation revea...",
+        "pmid": "42179654",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42179654/",
+        "doiUrl": "https://doi.org/10.1016/j.iliver.2026.100239",
+        "url": "https://doi.org/10.1016/j.iliver.2026.100239"
       }
     ]
   },
   "news": {
     "world": [
       {
+        "titleZh": "美国对伊朗发动新的打击，目标是导弹基地和船只",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国对伊朗发动新的打击，目标是导弹基地和船只”。核心要点：美国中央司令部表示，此次袭击是出于“自卫”。伊朗高级谈判代表抵达卡塔尔进行结束战争的谈判。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 26 May 2026 04:31:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伊朗表示不会立即与美国达成协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗表示不会立即与美国达成协议”。核心要点：美国国务卿早些时候表示，可能会在周一达成协议。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 25 May 2026 22:05:29 GMT",
+        "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "titleZh": "油价下跌因美伊和平协议的希望而下跌",
         "summaryZh": "这是一条世界时事新闻，重点围绕“油价下跌因美伊和平协议的希望而下跌”。核心要点：特朗普周六表示，协议将包括重新开放霍尔木兹海峡，但没有透露更多细节。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 03:38:25 GMT",
+        "publishedAt": "Mon, 25 May 2026 13:05:56 GMT",
         "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普告诉美国谈判代表“不要急于”与伊朗达成协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普告诉美国谈判代表“不要急于”与伊朗达成协议”。核心要点：据美国媒体报道，正在讨论的协议将包括将停火期限延长 60 天，在此期间霍尔木兹海峡将重新开放。",
+        "titleZh": "俄罗斯威胁对基辅发动更多袭击并要求外国人离开",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯威胁对基辅发动更多袭击并要求外国人离开”。核心要点：此前，乌克兰首都周六夜间遭受了战争中最严重的空袭之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 04:16:33 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 03:06:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "她被告知要在一个禁止女孩接受教育的国家结婚。于是她坐上出租车逃跑了",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“她被告知要在一个禁止女孩接受教育的国家结婚。于是她坐上出租车逃跑了”。核心要点：学校禁令实施已近五年，年轻女性表示她们已经告别了自己的梦想。",
+        "titleZh": "内塔尼亚胡称以色列将加强对真主党的打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡称以色列将加强对真主党的打击”。核心要点：在总理宣布进一步袭击后，以色列军队袭击了黎巴嫩东部的目标。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 24 May 2026 21:02:08 GMT",
-        "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "俄罗斯对乌克兰发动大规模袭击，造成四人死亡、数十人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对乌克兰发动大规模袭击，造成四人死亡、数十人受伤”。核心要点：俄罗斯证实，使用了据称飞行速度超过音速十倍的高超音速导弹。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 04:45:13 GMT",
-        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "领导人被罢黜后土耳其防暴警察冲进反对派办公室",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“领导人被罢黜后土耳其防暴警察冲进反对派办公室”。核心要点：在该党发誓要无视法院罢免其领导人的裁决几天后，警察强行闯入大楼。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 24 May 2026 19:49:39 GMT",
-        "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 01:17:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "油价下跌因美伊和平协议的希望而下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“油价下跌因美伊和平协议的希望而下跌”。核心要点：特朗普周六表示，协议将包括重新开放霍尔木兹海峡，但没有透露更多细节。",
+        "titleZh": "下一任老板警告初级职位将“急剧”下降",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“下一任老板警告初级职位将“急剧”下降”。核心要点：沃尔夫森勋爵告诉 BBC Next，现在某个职位的申请者数量通常是两年前的两倍。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 03:38:25 GMT",
-        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 23:51:24 GMT",
+        "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我生活在生存模式”：多职劳动力的崛起",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我生活在生存模式”：多职劳动力的崛起”。核心要点：随着成本上升和不稳定的工作重塑了我们的谋生方式，越来越多的人开始从事第二份工作。",
+        "titleZh": "顶级医生表示，社交媒体对年轻人的危害与吸烟一样",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“顶级医生表示，社交媒体对年轻人的危害与吸烟一样”。核心要点：英国皇家医学院表示，医生在看诊年轻患者时应定期检查屏幕时间和社交媒体使用情况。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 00:26:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 01:13:57 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "法拉利推出首款全电动汽车",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法拉利推出首款全电动汽车”。核心要点：尽管来自中国电动汽车制造商的巨大压力，新的 Luce 车型在社交媒体上引起了不同的意见。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 26 May 2026 02:48:58 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "随着啤酒厂发出最后订单，啤酒热潮趋于平缓",
@@ -127,20 +95,12 @@
         "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "沙特阿拉伯的消费热潮是如何走到尽头的",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“沙特阿拉伯的消费热潮是如何走到尽头的”。核心要点：MBS 的 Vision 2030 项目似乎只是科幻小说中的情节。现在现实已经咬了一口",
+        "titleZh": "“我生活在生存模式”：多职劳动力的崛起",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我生活在生存模式”：多职劳动力的崛起”。核心要点：随着成本上升和不稳定的工作重塑了我们的谋生方式，越来越多的人开始从事第二份工作。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 01:08:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "米尔本表示，年轻人花在福利上的钱多于工作上的钱是“可耻的”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“米尔本表示，年轻人花在福利上的钱多于工作上的钱是“可耻的””。核心要点：艾伦·米尔本表示，需要对福利制度进行改革，以解决大量年轻人没有工作或上学的问题。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 24 May 2026 10:21:58 GMT",
-        "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 25 May 2026 00:26:38 GMT",
+        "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
