@@ -1,106 +1,132 @@
 {
-  "updatedAt": "2026-05-26T05:13:08.807Z",
+  "updatedAt": "2026-05-27T05:41:33.322Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Spontaneous bacterial peritonitis in non-cirrhotic portal hypertension secondary to primary myelofibrosis: A rare case report.",
-        "journal": "iLIVER",
-        "pubDate": "2026 Jun",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Pradana FR, Nuramalia LS, Maimunah U",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：自发性细菌性腹膜炎 (SBP) 是一种危及生命的腹水感染，通常与肝硬化和晚期门脉高压相关，而其在非肝硬化门脉高压 (NCPH) 中的发生很少见，且常常未被充分认识。 临床提示：原发性骨髓纤维化 (PMF) 是一种骨髓增殖性肿瘤，可能通过高凝状态、髓外造血和脾肿大相关的血流动力学变化等机制导致 NCPH；然而，SBP 在这",
-        "abstract": "Spontaneous bacterial peritonitis (SBP) is a life-threatening infection of ascitic fluid, typically associated with cirrhosis and advanced portal hypertension, while its occurrence in non-cirrhotic portal hypertension (NCPH) is rare and often underrecognized. Primary myelofibrosis (PMF), a myeloproliferative neoplasm, may lead to NCPH through mechanisms such as hypercoagulability, extramedullary hematopoiesis, and splenomegaly-related hemodynamic changes; however, SBP in this setting is extremely uncommon. A 60-year-old woman who presented to Dr. Soetomo General Academic Hospital with progressive painful abdominal distension, fever, and bilateral lower limb edema. Laboratory evaluation revea...",
-        "pmid": "42179654",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42179654/",
-        "doiUrl": "https://doi.org/10.1016/j.iliver.2026.100239",
-        "url": "https://doi.org/10.1016/j.iliver.2026.100239"
+        "title": "A multisociety consensus statement on a new common definition and diagnostic criteria for PSVD or NCPF.",
+        "journal": "Journal of hepatology",
+        "pubDate": "2026 May 27",
+        "studyType": "Journal Article / Practice Guideline",
+        "authors": "Hernández-Gea V, Paradis V, Guindi M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：历史上，非肝硬化门静脉高压症使用异质性和区域特异性术语进行描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉病和结节性再生性门脉高压症。 临床提示：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉高压症",
+        "abstract": "Non-cirrhotic portal hypertension has historically been described using heterogeneous and region-specific terminology, such as idiopathic portal hypertension (IPH), non-cirrhotic portal fibrosis (NCPF), obliterative portal venopathy, and nodular regenerative hyperplasia, leading to substantial variability in diagnosis, reporting, and international research collaboration. Differences in guideline definitions from major societies (AASLD, EASL, and APASL), together with the presence of characteristic histologic lesions in patients without clinically overt portal hypertension, have further complicated disease classification. To address these challenges, a large, multisociety, international initi...",
+        "pmid": "42191459",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191459/",
+        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.04.030",
+        "url": "https://doi.org/10.1016/j.jhep.2026.04.030"
+      },
+      {
+        "title": "A multisociety consensus statement on a new common definition and diagnostic criteria for PSVD or NCPF.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 May 27",
+        "studyType": "Journal Article / Practice Guideline",
+        "authors": "Hernandez-Gea V, Paradis V, Guindi M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉病和结节性再生性炒作 临床提示：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉高压症",
+        "abstract": "Noncirrhotic portal hypertension has historically been described using heterogeneous and region-specific terminology-such as idiopathic portal hypertension (IPH), noncirrhotic portal fibrosis (NCPF), obliterative portal venopathy, and nodular regenerative hyperplasia-leading to substantial variability in diagnosis, reporting, and international research collaboration. Differences in guideline definitions from major societies (AASLD, EASL, and APASL), together with the presence of characteristic histologic lesions in patients without clinically overt portal hypertension, have further complicated disease classification. To address these challenges, a large, multisociety, international initiativ...",
+        "pmid": "42191146",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191146/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102219",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102219"
+      },
+      {
+        "title": "A multisociety consensus statement on a new common definition and diagnostic criteria for PSVD or NCPF.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 May 26",
+        "studyType": "Journal Article",
+        "authors": "Hernandez-Gea V, Paradis V, Guindi M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉病和结节性再生性炒作 临床提示：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉高压症",
+        "abstract": "Noncirrhotic portal hypertension has historically been described using heterogeneous and region-specific terminology-such as idiopathic portal hypertension (IPH), noncirrhotic portal fibrosis (NCPF), obliterative portal venopathy, and nodular regenerative hyperplasia-leading to substantial variability in diagnosis, reporting, and international research collaboration. Differences in guideline definitions from major societies (AASLD, EASL, and APASL), together with the presence of characteristic histologic lesions in patients without clinically overt portal hypertension, have further complicated disease classification. To address these challenges, a large, multisociety, international initiativ...",
+        "pmid": "42191125",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42191125/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001768",
+        "url": "https://doi.org/10.1097/HEP.0000000000001768"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国对伊朗发动新的打击，目标是导弹基地和船只",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国对伊朗发动新的打击，目标是导弹基地和船只”。核心要点：美国中央司令部表示，此次袭击是出于“自卫”。伊朗高级谈判代表抵达卡塔尔进行结束战争的谈判。",
+        "titleZh": "以色列加强打击，黎巴嫩数十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列加强打击，黎巴嫩数十人死亡”。核心要点：以色列表示，在总理本杰明·内塔尼亚胡发誓要“粉碎”伊朗支持的真主党后，它袭击了黎巴嫩的 100 个真主党基础设施​​和武装人员。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 26 May 2026 04:31:31 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 27 May 2026 04:07:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗表示不会立即与美国达成协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗表示不会立即与美国达成协议”。核心要点：美国国务卿早些时候表示，可能会在周一达成协议。",
+        "titleZh": "伊朗谴责美国空袭“严重违反”停火协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗谴责美国空袭“严重违反”停火协议”。核心要点：袭击发生时，伊朗和卡塔尔谈判代表正在多哈进行和平谈判。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 22:05:29 GMT",
-        "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 15:15:29 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "油价下跌因美伊和平协议的希望而下跌",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“油价下跌因美伊和平协议的希望而下跌”。核心要点：特朗普周六表示，协议将包括重新开放霍尔木兹海峡，但没有透露更多细节。",
+        "titleZh": "欧盟能否找到一位俄罗斯耳语者来调解结束乌克兰战争？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧盟能否找到一位俄罗斯耳语者来调解结束乌克兰战争？”。核心要点：随着美国退出与俄罗斯和乌克兰的三边谈判，欧盟正在寻找潜在的候选人介入。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 13:05:56 GMT",
-        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 23:15:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯威胁对基辅发动更多袭击并要求外国人离开",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯威胁对基辅发动更多袭击并要求外国人离开”。核心要点：此前，乌克兰首都周六夜间遭受了战争中最严重的空袭之一。",
+        "titleZh": "第一批加纳人因反移民抗议将被从南非遣返",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“第一批加纳人因反移民抗议将被从南非遣返”。核心要点：此前，最近针对非法移民的抗议活动引发了人们对仇外暴力可能死灰复燃的担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 26 May 2026 03:06:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 27 May 2026 05:13:21 GMT",
+        "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "内塔尼亚胡称以色列将加强对真主党的打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡称以色列将加强对真主党的打击”。核心要点：在总理宣布进一步袭击后，以色列军队袭击了黎巴嫩东部的目标。",
+        "titleZh": "英国政府通讯总部称，俄罗斯“无情地瞄准”关键基础设施和民主",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“英国政府通讯总部称，俄罗斯“无情地瞄准”关键基础设施和民主”。核心要点：该间谍机构负责人将于周三阐述英国面临的威胁以及她认为需要采取的应对措施。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 26 May 2026 01:17:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 23:42:16 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "下一任老板警告初级职位将“急剧”下降",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“下一任老板警告初级职位将“急剧”下降”。核心要点：沃尔夫森勋爵告诉 BBC Next，现在某个职位的申请者数量通常是两年前的两倍。",
+        "titleZh": "凯恩和哈兰德的 Instagram 投注广告被禁止",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“凯恩和哈兰德的 Instagram 投注广告被禁止”。核心要点：广告监管机构表示，以顶级足球运动员为主角的广告对 18 岁以下青少年有很强的吸引力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 23:51:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 23:33:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "顶级医生表示，社交媒体对年轻人的危害与吸烟一样",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“顶级医生表示，社交媒体对年轻人的危害与吸烟一样”。核心要点：英国皇家医学院表示，医生在看诊年轻患者时应定期检查屏幕时间和社交媒体使用情况。",
+        "titleZh": "蓬勃发展的人工智能芯片需求帮助创造了两名新的 1 万亿美元俱乐部成员",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“蓬勃发展的人工智能芯片需求帮助创造了两名新的 1 万亿美元俱乐部成员”。核心要点：SK 海力士和美光科技是最新加入不断增长的高估值股票名单的科技公司。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 26 May 2026 01:13:57 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 27 May 2026 02:15:10 GMT",
+        "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法拉利推出首款全电动汽车",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法拉利推出首款全电动汽车”。核心要点：尽管来自中国电动汽车制造商的巨大压力，新的 Luce 车型在社交媒体上引起了不同的意见。",
+        "titleZh": "道德黑客冠军警告像 Mythos 这样的人工智能工具可能会让她破产",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“道德黑客冠军警告像 Mythos 这样的人工智能工具可能会让她破产”。核心要点：Chompie 是世界顶级道德黑客之一，她表示像 Claude Mythos 这样的人工智能将使像她这样的人更难竞争。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 26 May 2026 02:48:58 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 27 May 2026 00:43:55 GMT",
+        "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着啤酒厂发出最后订单，啤酒热潮趋于平缓",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着啤酒厂发出最后订单，啤酒热潮趋于平缓”。核心要点：随着酒吧关门、成本上升和饮酒习惯的改变，英国的啤酒厂规模正在萎缩。",
+        "titleZh": "英国石油公司董事长突然被免职背后的“欺凌”和“霸道”行为",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国石油公司董事长突然被免职背后的“欺凌”和“霸道”行为”。核心要点：英国石油公司拒绝评论欺凌行为是否是他立即被解雇的原因之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 00:21:24 GMT",
-        "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 23:57:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我生活在生存模式”：多职劳动力的崛起",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我生活在生存模式”：多职劳动力的崛起”。核心要点：随着成本上升和不稳定的工作重塑了我们的谋生方式，越来越多的人开始从事第二份工作。",
+        "titleZh": "警方警告称，邮局调查可能会推迟五年",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“警方警告称，邮局调查可能会推迟五年”。核心要点：领导国家警察调查的指挥官表示，为了满足目前的时间表，调查小组的规模需要增加一倍",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 25 May 2026 00:26:38 GMT",
-        "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 26 May 2026 19:38:56 GMT",
+        "url": "https://www.bbc.com/news/articles/c2422y4ldymo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
