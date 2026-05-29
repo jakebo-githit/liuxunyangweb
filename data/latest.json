@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-05-28T05:19:38.229Z",
+  "updatedAt": "2026-05-29T05:38:55.522Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Clinical outcomes after TIPS: comparison of patients with a history of partial splenic embolization vs splenectomy in cirrhosis.",
-        "journal": "European radiology",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Comparative Study",
-        "authors": "Zhao D, Liu J, Wan J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 240）。核心观点：比较有部分脾栓塞 (PSE) 病史的肝硬化患者经颈静脉肝内门体分流术 (TIPS) 与脾切除术的临床结果，重点关注分流道通畅、明显肝性脑病 (OHE)、再出血和生存情况。 临床提示：比较有部分脾栓塞 (PSE) 病史的肝硬化患者经颈静脉肝内门体分流术 (TIPS) 与脾切除术的临床结果，重点关注分流通畅性、明显的肝栓塞",
-        "abstract": "To compare clinical outcomes of transjugular intrahepatic portosystemic shunt (TIPS) in cirrhotic patients with a history of partial splenic embolization (PSE) vs splenectomy, focusing on shunt patency, overt hepatic encephalopathy (OHE), rebleeding, and survival. This retrospective study included 240 cirrhotic patients undergoing TIPS (TIPS + PSE: n = 126; TIPS + splenectomy: n = 114). After propensity score matching, 88 patients per group were analyzed. The primary endpoint was shunt dysfunction; secondary endpoints included OHE, rebleeding, and survival. TIPS + PSE group had lower rates of shunt dysfunction (10.2% vs 30.7%, p < 0.001) and OHE (17.1% vs 39.8%, p < 0.001) than TIPS+splenect...",
-        "pmid": "41565795",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41565795/",
-        "doiUrl": "https://doi.org/10.1007/s00330-025-12268-8",
-        "url": "https://doi.org/10.1007/s00330-025-12268-8"
+        "title": "A multisociety consensus statement on a new common definition and diagnostic criteria for PSVD or NCPF.",
+        "journal": "Hepatology international",
+        "pubDate": "2026 May 28",
+        "studyType": "Journal Article",
+        "authors": "Hernandez-Gea V, Paradis V, Guindi M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉病和结节性再生性炒作 临床提示：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉高压症",
+        "abstract": "Noncirrhotic portal hypertension has historically been described using heterogeneous and region-specific terminology-such as idiopathic portal hypertension (IPH), noncirrhotic portal fibrosis (NCPF), obliterative portal venopathy, and nodular regenerative hyperplasia-leading to substantial variability in diagnosis, reporting, and international research collaboration. Differences in guideline definitions from major societies (AASLD, EASL, and APASL), together with the presence of characteristic histologic lesions in patients without clinically overt portal hypertension, have further complicated disease classification. To address these challenges, a large, multisociety, international initiativ...",
+        "pmid": "42207228",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42207228/",
+        "doiUrl": "https://doi.org/10.1007/s12072-026-11105-4",
+        "url": "https://doi.org/10.1007/s12072-026-11105-4"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国三天内第二次袭击伊朗目标",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国三天内第二次袭击伊朗目标”。核心要点：敌对行动发生在美国和伊朗之间脆弱的停火期间，并且为结束三个月的战争而进行了旷日持久的谈判。",
+        "titleZh": "万斯表示，美国和伊朗“非常接近”达成协议，但“尚未达成”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“万斯表示，美国和伊朗“非常接近”达成协议，但“尚未达成””。核心要点：美国官员早些时候告诉英国广播公司，延长停火协议的框架已经商定，有待特朗普和伊朗领导人的批准。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 04:59:02 GMT",
-        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 23:32:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列向黎巴嫩南部大片地区发出撤离令",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列向黎巴嫩南部大片地区发出撤离令”。核心要点：军方表示，扎赫拉尼河以南地区现已成为“战区”，因为它威胁真主党发动新的袭击。",
+        "titleZh": "美国和伊朗是接近和平还是滑向战争？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗是接近和平还是滑向战争？”。核心要点：尽管最近发生了相互攻击，但双方似乎都没有兴趣恢复全面冲突。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 04:44:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 16:56:19 GMT",
+        "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "吉尔·拜登表示，她认为丈夫在 2024 年辩论中中风了",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“吉尔·拜登表示，她认为丈夫在 2024 年辩论中中风了”。核心要点：这位美国前第一夫人告诉哥伦比亚广播公司新闻，她对乔·拜登对阵唐纳德·特朗普的表现感到害怕。",
+        "titleZh": "加沙城医院称，以色列针对哈马斯领导人发动袭击，造成多人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加沙城医院称，以色列针对哈马斯领导人发动袭击，造成多人死亡”。核心要点：据报道，至少五名儿童在这次袭击中丧生，袭击目标似乎是一名哈马斯指挥官。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 04:53:51 GMT",
-        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 16:20:50 GMT",
+        "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "世卫组织警告称，遭受埃博拉病毒袭击的刚果民主共和国面临疾病与冲突的“灾难性碰撞”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“世卫组织警告称，遭受埃博拉病毒袭击的刚果民主共和国面临疾病与冲突的“灾难性碰撞””。核心要点：谭德塞表示，刚果民主共和国的战斗阻碍了阻止疫情蔓延的努力",
+        "titleZh": "吸取乌克兰战争教训，真主党现在使用光纤无人机袭击以色列",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“吸取乌克兰战争教训，真主党现在使用光纤无人机袭击以色列”。核心要点：光纤无人机现在是真主党针对以色列士兵和平民的主要武器。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 27 May 2026 18:50:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 16:39:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马修·佩里 (Matthew Perry) 助理因氯胺酮致死被判入狱 41 个月",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“马修·佩里 (Matthew Perry) 助理因氯胺酮致死被判入狱 41 个月”。核心要点：肯尼思·岩正(Kenneth Iwamasa)去年承认了一项共谋分发氯胺酮致人死亡的罪名，他表示，他“将永远后悔”自己的行为。",
+        "titleZh": "蓝色起源火箭在佛罗里达州测试期间爆炸的瞬间",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“蓝色起源火箭在佛罗里达州测试期间爆炸的瞬间”。核心要点：周四晚上，蓝色起源公司的一枚新格伦火箭在佛罗里达州卡纳维拉尔角的发射台上爆炸。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 27 May 2026 20:09:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 29 May 2026 03:02:48 GMT",
+        "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "报告警告说，如果不采取行动，六分之一的年轻人将在五年内无法工作或接受培训",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“报告警告说，如果不采取行动，六分之一的年轻人将在五年内无法工作或接受培训”。核心要点：一项对青年失业率上升原因进行的重大审查表明，对许多人来说，登上职业阶梯现在“遥不可及”。",
+        "titleZh": "关于“迷失的一代”的重要报告称太多年轻人的机会正在减少",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“关于“迷失的一代”的重要报告称太多年轻人的机会正在减少”。核心要点：一份报告警告称，到 2031 年，失业、教育或培训的 16 至 24 岁青少年人数将增至 125 万人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 27 May 2026 21:30:51 GMT",
+        "publishedAt": "Thu, 28 May 2026 15:09:57 GMT",
         "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "对性的不健康关注——一见钟情英国内部人士谈节目的“有毒”文化",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“对性的不健康关注——一见钟情英国内部人士谈节目的“有毒”文化”。核心要点：两名妇女告诉 BBC，她们在第四频道真人秀节目中被强奸后，又有新的消息曝光。",
+        "titleZh": "“我申请了400多个职位”——年轻人如何面对就业短缺",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我申请了400多个职位”——年轻人如何面对就业短缺”。核心要点：BBC 一直在听取那些正在努力寻找工作的年轻人讲述他们如何应对这一挑战。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 27 May 2026 23:08:25 GMT",
-        "url": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 15:56:03 GMT",
+        "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国对伊朗发动新的袭击后油价上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国对伊朗发动新的袭击后油价上涨”。核心要点：尽管德黑兰和华盛顿在举行和平谈判期间实现停火，但袭击还是发生了。",
+        "titleZh": "蓝色起源火箭在佛罗里达州发射台爆炸成巨大火球",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“蓝色起源火箭在佛罗里达州发射台爆炸成巨大火球”。核心要点：蓝色起源创始人、亚马逊亿万富翁杰夫·贝佐斯表示，这是“非常艰难的一天”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 04:30:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 29 May 2026 02:59:49 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "国际足联为何因世界杯门票价格受到调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“国际足联为何因世界杯门票价格受到调查”。核心要点：据报道，球迷在门票销售和座位位置上被“误导”，纽约和新泽西州正在调查该协会。",
+        "titleZh": "美国政府准备印制印有特朗普头像的250美元纸币",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国政府准备印制印有特朗普头像的250美元纸币”。核心要点：联邦法律禁止在美元上印刷活人图像，但特朗普在国会的盟友正在采取行动破例。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 00:14:24 GMT",
-        "url": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 18:24:15 GMT",
+        "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "谷歌员工被控利用内部数据赚取 120 万美元赌注",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“谷歌员工被控利用内部数据赚取 120 万美元赌注”。核心要点：这名谷歌长期员工因涉嫌违反内幕交易法而在纽约受到指控。",
+        "titleZh": "当贸易恶化时，这家美国酒类制造商搬到了加拿大",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“当贸易恶化时，这家美国酒类制造商搬到了加拿大”。核心要点：在各省禁止销售美国酒后，菲利普斯蒸馏公司失去了 70% 的加拿大业务。此后，它找到了再次在加拿大销售其产品的方法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 02:14:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 28 May 2026 23:29:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
