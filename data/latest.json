@@ -1,67 +1,104 @@
 {
-  "updatedAt": "2026-05-29T05:38:55.522Z",
+  "updatedAt": "2026-05-30T05:00:00.836Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "A multisociety consensus statement on a new common definition and diagnostic criteria for PSVD or NCPF.",
-        "journal": "Hepatology international",
-        "pubDate": "2026 May 28",
+        "title": "Coexistence of hepatopulmonary syndrome and portopulmonary hypertension before a liver transplantation: a case report and review of the literature.",
+        "journal": "European journal of gastroenterology & hepatology",
+        "pubDate": "2026 Jul 1",
+        "studyType": "Journal Article / Case Reports / Review",
+        "authors": "Tazibt D, Vacelet V, Vendeville S",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：有效治疗肺动脉高压后，肝移植成为可能，肝移植后 3 年取得了良好的结果。 临床提示：最后，我们的病例报告和文献综述表明，晚期肝病患者中 HPS 和 PoPH 的共存可能...",
+        "abstract": "Liver transplantation remains the treatment of choice for hepatopulmonary syndrome (HPS) with severe hypoxemia, but portopulmonary hypertension (PoPH) has traditionally been viewed as a contraindication to liver transplantation owing to its frequent posttransplant deterioration. We describe here the sequential presence of both pulmonary vascular disorders in a cirrhotic patient in the pretransplant period. Liver transplantation was made possible following effective management of pulmonary hypertension, with favorable outcome 3 years post-liver transplantation. Finally, our case report and literature review suggest that the coexistence of HPS and PoPH in patients with advanced liver disease c...",
+        "pmid": "41784424",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41784424/",
+        "doiUrl": "https://doi.org/10.1097/MEG.0000000000003167",
+        "url": "https://doi.org/10.1097/MEG.0000000000003167"
+      },
+      {
+        "title": "Massive bleeding from a Bricker ileal conduit during FOLFIRINOX therapy in noncirrhotic portal hypertension: suspected oxaliplatin-associated sinusoidal injury and presumed irinotecan-associated conduit mucositis: a case report.",
+        "journal": "BMC urology",
+        "pubDate": "2026 May 29",
         "studyType": "Journal Article",
-        "authors": "Hernandez-Gea V, Paradis V, Guindi M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉病和结节性再生性炒作 临床提示：历史上，非肝硬化门静脉高压症一直使用异质性和区域特异性术语来描述，例如特发性门静脉高压症 (IPH)、非肝硬化门静脉纤维化 (NCPF)、闭塞性门静脉高压症",
-        "abstract": "Noncirrhotic portal hypertension has historically been described using heterogeneous and region-specific terminology-such as idiopathic portal hypertension (IPH), noncirrhotic portal fibrosis (NCPF), obliterative portal venopathy, and nodular regenerative hyperplasia-leading to substantial variability in diagnosis, reporting, and international research collaboration. Differences in guideline definitions from major societies (AASLD, EASL, and APASL), together with the presence of characteristic histologic lesions in patients without clinically overt portal hypertension, have further complicated disease classification. To address these challenges, a large, multisociety, international initiativ...",
-        "pmid": "42207228",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42207228/",
-        "doiUrl": "https://doi.org/10.1007/s12072-026-11105-4",
-        "url": "https://doi.org/10.1007/s12072-026-11105-4"
+        "authors": "Drobot RB, Ślósarz T, Antoniewicz AA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：根治性膀胱切除术后回肠导管出血并不常见，通常归因于肿瘤复发、感染、结石或局部造口创伤。 临床提示：FOLFIRINOX 进一步增加了诊断的复杂性，因为奥沙利铂可能导致肝窦内皮损伤和非肝硬化性门静脉高压，而伊立替康可能损害胃肠粘膜。",
+        "abstract": "Bleeding from an ileal conduit after radical cystectomy is uncommon and is usually attributed to tumor recurrence, infection, stones, or local stomal trauma. Portal hypertensive stomal varices are rare. FOLFIRINOX adds further diagnostic complexity because oxaliplatin may cause sinusoidal endothelial injury and noncirrhotic portal hypertension, whereas irinotecan may damage gastrointestinal mucosa. We report a case of massive hemorrhage from a long-functioning Bricker ileal conduit during FOLFIRINOX therapy. A 72-year-old man with prior radical cystoprostatectomy with Bricker diversion in 2022, robot-assisted left adrenalectomy in 2023, and pancreatic head adenocarcinoma treated with FOLFIRI...",
+        "pmid": "42215991",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42215991/",
+        "doiUrl": "https://doi.org/10.1186/s12894-026-02204-3",
+        "url": "https://doi.org/10.1186/s12894-026-02204-3"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "万斯表示，美国和伊朗“非常接近”达成协议，但“尚未达成”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“万斯表示，美国和伊朗“非常接近”达成协议，但“尚未达成””。核心要点：美国官员早些时候告诉英国广播公司，延长停火协议的框架已经商定，有待特朗普和伊朗领导人的批准。",
+        "titleZh": "在网上向世界各地的人们出售有毒化学品的“毒贩”承认帮助自杀",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在网上向世界各地的人们出售有毒化学品的“毒贩”承认帮助自杀”。核心要点：肯尼思·劳 (Kenneth Law) 承认与加拿大受害者有关的指控，但家人表示，他也应该因英国 79 人死亡而在英国受到指控。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 23:32:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 29 May 2026 21:40:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国和伊朗是接近和平还是滑向战争？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗是接近和平还是滑向战争？”。核心要点：尽管最近发生了相互攻击，但双方似乎都没有兴趣恢复全面冲突。",
+        "titleZh": "无人机袭击罗马尼亚住宅区后北约和欧盟谴责俄罗斯",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“无人机袭击罗马尼亚住宅区后北约和欧盟谴责俄罗斯”。核心要点：罗马尼亚表示，俄罗斯无人机很可能在乌克兰上空被乌克兰防空系统击中，并改变了飞行轨迹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 16:56:19 GMT",
-        "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 29 May 2026 17:27:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加沙城医院称，以色列针对哈马斯领导人发动袭击，造成多人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“加沙城医院称，以色列针对哈马斯领导人发动袭击，造成多人死亡”。核心要点：据报道，至少五名儿童在这次袭击中丧生，袭击目标似乎是一名哈马斯指挥官。",
+        "titleZh": "特朗普会面就伊朗问题做出“最终决定”后未宣布任何协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普会面就伊朗问题做出“最终决定”后未宣布任何协议”。核心要点：在官员确认美国和伊朗已就协议框架达成一致后，美国总统会见了他的顾问。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 16:20:50 GMT",
-        "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 30 May 2026 04:19:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "吸取乌克兰战争教训，真主党现在使用光纤无人机袭击以色列",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“吸取乌克兰战争教训，真主党现在使用光纤无人机袭击以色列”。核心要点：光纤无人机现在是真主党针对以色列士兵和平民的主要武器。",
+        "titleZh": "老挝被洪水淹没的洞穴中发现的五名幸存者中的第一人获救",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“老挝被洪水淹没的洞穴中发现的五名幸存者中的第一人获救”。核心要点：这名浑身脏兮兮的男子在洞穴里被困九天后被救援人员带到安全地带",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 16:39:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 29 May 2026 18:21:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "蓝色起源火箭在佛罗里达州测试期间爆炸的瞬间",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“蓝色起源火箭在佛罗里达州测试期间爆炸的瞬间”。核心要点：周四晚上，蓝色起源公司的一枚新格伦火箭在佛罗里达州卡纳维拉尔角的发射台上爆炸。",
+        "titleZh": "加纳议会通过反 LGBTQ+ 法案",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加纳议会通过反 LGBTQ+ 法案”。核心要点：根据加纳针对男同性恋、女同性恋或跨性别者的新法案，同性性行为可被判处监禁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 03:02:48 GMT",
-        "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 30 May 2026 00:51:49 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "只有四分之三的头等邮件按时送达",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“只有四分之三的头等邮件按时送达”。核心要点：英国皇家邮政表示，其服务正在改善，有望实现监管机构 Ofcom 降低的目标",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 29 May 2026 15:51:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "环球公司拒绝亿万富翁比尔·阿克曼的收购要约",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“环球公司拒绝亿万富翁比尔·阿克曼的收购要约”。核心要点：这家音乐巨头表示，潘兴广场的报价从根本上低估了该业务的价值。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 29 May 2026 19:29:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "英国顶级厨师呼吁将酒吧和餐馆的增值税削减至 10%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国顶级厨师呼吁将酒吧和餐馆的增值税削减至 10%”。核心要点：Tom Kerridge、Yotam Ottolenghi、Ravneet Gill 和 Simon Rogan 告诉 BBC 新闻之夜，增值税应该减半，以缓解...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 29 May 2026 10:55:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "关于“迷失的一代”的重要报告称太多年轻人的机会正在减少",
         "summaryZh": "这是一条金融市场新闻，重点围绕“关于“迷失的一代”的重要报告称太多年轻人的机会正在减少”。核心要点：一份报告警告称，到 2031 年，失业、教育或培训的 16 至 24 岁青少年人数将增至 125 万人。",
@@ -77,30 +114,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 28 May 2026 15:56:03 GMT",
         "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "蓝色起源火箭在佛罗里达州发射台爆炸成巨大火球",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“蓝色起源火箭在佛罗里达州发射台爆炸成巨大火球”。核心要点：蓝色起源创始人、亚马逊亿万富翁杰夫·贝佐斯表示，这是“非常艰难的一天”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 02:59:49 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzl5wd8xeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国政府准备印制印有特朗普头像的250美元纸币",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国政府准备印制印有特朗普头像的250美元纸币”。核心要点：联邦法律禁止在美元上印刷活人图像，但特朗普在国会的盟友正在采取行动破例。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 18:24:15 GMT",
-        "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "当贸易恶化时，这家美国酒类制造商搬到了加拿大",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“当贸易恶化时，这家美国酒类制造商搬到了加拿大”。核心要点：在各省禁止销售美国酒后，菲利普斯蒸馏公司失去了 70% 的加拿大业务。此后，它找到了再次在加拿大销售其产品的方法。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 23:29:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
