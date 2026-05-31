@@ -1,80 +1,61 @@
 {
-  "updatedAt": "2026-05-30T05:00:00.836Z",
+  "updatedAt": "2026-05-31T05:45:22.525Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Coexistence of hepatopulmonary syndrome and portopulmonary hypertension before a liver transplantation: a case report and review of the literature.",
-        "journal": "European journal of gastroenterology & hepatology",
-        "pubDate": "2026 Jul 1",
-        "studyType": "Journal Article / Case Reports / Review",
-        "authors": "Tazibt D, Vacelet V, Vendeville S",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：有效治疗肺动脉高压后，肝移植成为可能，肝移植后 3 年取得了良好的结果。 临床提示：最后，我们的病例报告和文献综述表明，晚期肝病患者中 HPS 和 PoPH 的共存可能...",
-        "abstract": "Liver transplantation remains the treatment of choice for hepatopulmonary syndrome (HPS) with severe hypoxemia, but portopulmonary hypertension (PoPH) has traditionally been viewed as a contraindication to liver transplantation owing to its frequent posttransplant deterioration. We describe here the sequential presence of both pulmonary vascular disorders in a cirrhotic patient in the pretransplant period. Liver transplantation was made possible following effective management of pulmonary hypertension, with favorable outcome 3 years post-liver transplantation. Finally, our case report and literature review suggest that the coexistence of HPS and PoPH in patients with advanced liver disease c...",
-        "pmid": "41784424",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41784424/",
-        "doiUrl": "https://doi.org/10.1097/MEG.0000000000003167",
-        "url": "https://doi.org/10.1097/MEG.0000000000003167"
-      },
-      {
-        "title": "Massive bleeding from a Bricker ileal conduit during FOLFIRINOX therapy in noncirrhotic portal hypertension: suspected oxaliplatin-associated sinusoidal injury and presumed irinotecan-associated conduit mucositis: a case report.",
-        "journal": "BMC urology",
-        "pubDate": "2026 May 29",
-        "studyType": "Journal Article",
-        "authors": "Drobot RB, Ślósarz T, Antoniewicz AA",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：根治性膀胱切除术后回肠导管出血并不常见，通常归因于肿瘤复发、感染、结石或局部造口创伤。 临床提示：FOLFIRINOX 进一步增加了诊断的复杂性，因为奥沙利铂可能导致肝窦内皮损伤和非肝硬化性门静脉高压，而伊立替康可能损害胃肠粘膜。",
-        "abstract": "Bleeding from an ileal conduit after radical cystectomy is uncommon and is usually attributed to tumor recurrence, infection, stones, or local stomal trauma. Portal hypertensive stomal varices are rare. FOLFIRINOX adds further diagnostic complexity because oxaliplatin may cause sinusoidal endothelial injury and noncirrhotic portal hypertension, whereas irinotecan may damage gastrointestinal mucosa. We report a case of massive hemorrhage from a long-functioning Bricker ileal conduit during FOLFIRINOX therapy. A 72-year-old man with prior radical cystoprostatectomy with Bricker diversion in 2022, robot-assisted left adrenalectomy in 2023, and pancreatic head adenocarcinoma treated with FOLFIRI...",
-        "pmid": "42215991",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42215991/",
-        "doiUrl": "https://doi.org/10.1186/s12894-026-02204-3",
-        "url": "https://doi.org/10.1186/s12894-026-02204-3"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "在网上向世界各地的人们出售有毒化学品的“毒贩”承认帮助自杀",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“在网上向世界各地的人们出售有毒化学品的“毒贩”承认帮助自杀”。核心要点：肯尼思·劳 (Kenneth Law) 承认与加拿大受害者有关的指控，但家人表示，他也应该因英国 79 人死亡而在英国受到指控。",
+        "titleZh": "欧洲冠军联赛疯狂庆祝活动后，数百人在法国被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧洲冠军联赛疯狂庆祝活动后，数百人在法国被捕”。核心要点：数千名警察试图平息骚乱，而大批球迷（其中一些还发射了照明弹）庆祝巴黎圣日耳曼战胜阿森纳。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 21:40:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 31 May 2026 02:04:18 GMT",
+        "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "无人机袭击罗马尼亚住宅区后北约和欧盟谴责俄罗斯",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“无人机袭击罗马尼亚住宅区后北约和欧盟谴责俄罗斯”。核心要点：罗马尼亚表示，俄罗斯无人机很可能在乌克兰上空被乌克兰防空系统击中，并改变了飞行轨迹。",
+        "titleZh": "美国、英国和澳大利亚开发水下无人机技术",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国、英国和澳大利亚开发水下无人机技术”。核心要点：该技术是根据奥库斯军事协议开发的，旨在保护海底电缆并增强海军防御。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 17:27:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 30 May 2026 12:16:26 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普会面就伊朗问题做出“最终决定”后未宣布任何协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普会面就伊朗问题做出“最终决定”后未宣布任何协议”。核心要点：在官员确认美国和伊朗已就协议框架达成一致后，美国总统会见了他的顾问。",
+        "titleZh": "无国界医生警告说，埃博拉病毒在刚果民主共和国的传播“令人深感震惊”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“无国界医生警告说，埃博拉病毒在刚果民主共和国的传播“令人深感震惊””。核心要点：该医疗慈善机构发表上述言论之际，世界卫生组织总干事正在访问受病毒爆发影响最严重的地区。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 04:19:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 30 May 2026 21:10:06 GMT",
+        "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "老挝被洪水淹没的洞穴中发现的五名幸存者中的第一人获救",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“老挝被洪水淹没的洞穴中发现的五名幸存者中的第一人获救”。核心要点：这名浑身脏兮兮的男子在洞穴里被困九天后被救援人员带到安全地带",
+        "titleZh": "“现在没有人感到安全”：被无人机袭击的罗马尼亚城市居民也感到恐惧",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““现在没有人感到安全”：被无人机袭击的罗马尼亚城市居民也感到恐惧”。核心要点：人们刚刚开始返回周五凌晨遭受袭击的街区查看自己的房屋。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 18:21:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzxjrkvn8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 30 May 2026 17:34:30 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加纳议会通过反 LGBTQ+ 法案",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“加纳议会通过反 LGBTQ+ 法案”。核心要点：根据加纳针对男同性恋、女同性恋或跨性别者的新法案，同性性行为可被判处监禁。",
+        "titleZh": "出于安全考虑，意大利禁止坎耶·韦斯特和特拉维斯·斯科特举行音乐会",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“出于安全考虑，意大利禁止坎耶·韦斯特和特拉维斯·斯科特举行音乐会”。核心要点：地方当局表示，其他西方音乐会的取消也是这一决定的原因之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 00:51:49 GMT",
-        "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 30 May 2026 15:39:12 GMT",
+        "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "法拉利希望通过 Luce 来挑战中国电动汽车 - 然后强烈反对就开始了",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法拉利希望通过 Luce 来挑战中国电动汽车 - 然后强烈反对就开始了”。核心要点：该品牌的首款电动汽车受到了严厉批评，有人说它放弃了法拉利的根源。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 30 May 2026 22:23:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "只有四分之三的头等邮件按时送达",
         "summaryZh": "这是一条金融市场新闻，重点围绕“只有四分之三的头等邮件按时送达”。核心要点：英国皇家邮政表示，其服务正在改善，有望实现监管机构 Ofcom 降低的目标",
@@ -106,14 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 28 May 2026 15:09:57 GMT",
         "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "“我申请了400多个职位”——年轻人如何面对就业短缺",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我申请了400多个职位”——年轻人如何面对就业短缺”。核心要点：BBC 一直在听取那些正在努力寻找工作的年轻人讲述他们如何应对这一挑战。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 15:56:03 GMT",
-        "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
