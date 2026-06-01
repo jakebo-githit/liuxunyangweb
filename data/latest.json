@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-05-31T05:45:22.525Z",
+  "updatedAt": "2026-06-01T06:18:26.461Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Noninvasive diagnosis of clinically significant portal hypertension: current evidence and future directions.",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "pubDate": "2026 May 31",
+        "studyType": "Journal Article / Review",
+        "authors": "Papagiouvanni I, Tsochatzis EA",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：临床上显着的门脉高压（CSPH）与不良预后相关，其早期检测对于及时进行临床干预（例如开始使用非选择性β受体阻滞剂）至关重要。 临床提示：肝静脉压力梯度仍然是诊断CSPH的金标准；然而，无创测试（NIT）已被开发为有价值的替代方案。",
+        "abstract": "Clinically significant portal hypertension (CSPH) is related to poor prognosis and its early detection is crucial for timely clinical interventions, such as initiation of nonselective-beta-blockers. The hepatic vein pressure gradient remains the gold standard to diagnose CSPH; however, noninvasive tests (NITs) have been developed as valuable alternatives. In this review, we summarize the diagnostic performance and clinical utility of such techniques in patients with compensated advanced chronic liver disease (cACLD). A comprehensive literature search was performed, focusing on imaging methods, including elastographic techniques, ultrasound (US)-, magnetic resonance (MR)- and computed tomogra...",
+        "pmid": "42218810",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42218810/",
+        "doiUrl": "https://doi.org/10.1080/17474124.2026.2683676",
+        "url": "https://doi.org/10.1080/17474124.2026.2683676"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "欧洲冠军联赛疯狂庆祝活动后，数百人在法国被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧洲冠军联赛疯狂庆祝活动后，数百人在法国被捕”。核心要点：数千名警察试图平息骚乱，而大批球迷（其中一些还发射了照明弹）庆祝巴黎圣日耳曼战胜阿森纳。",
+        "titleZh": "伊朗和美国报告海湾地区新一轮袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗和美国报告海湾地区新一轮袭击”。核心要点：伊朗和美国表示，他们在霍尔木兹海峡周围发动了新的袭击，这是一周内已知的第三次升级。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 31 May 2026 02:04:18 GMT",
-        "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 06:17:47 GMT",
+        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国、英国和澳大利亚开发水下无人机技术",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国、英国和澳大利亚开发水下无人机技术”。核心要点：该技术是根据奥库斯军事协议开发的，旨在保护海底电缆并增强海军防御。",
+        "titleZh": "以色列扩大地面攻势夺取黎巴嫩城堡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列扩大地面攻势夺取黎巴嫩城堡”。核心要点：以色列总理本杰明·内塔尼亚胡称，占领战略要塞是以色列打击真主党行动的“决定性转变”，而欧洲各国政府则批评事态升级。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 12:16:26 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 31 May 2026 22:39:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "无国界医生警告说，埃博拉病毒在刚果民主共和国的传播“令人深感震惊”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“无国界医生警告说，埃博拉病毒在刚果民主共和国的传播“令人深感震惊””。核心要点：该医疗慈善机构发表上述言论之际，世界卫生组织总干事正在访问受病毒爆发影响最严重的地区。",
+        "titleZh": "哥伦比亚总统决选，左翼参议员与支持特朗普的竞争对手",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚总统决选，左翼参议员与支持特朗普的竞争对手”。核心要点：左翼参议员伊万·塞佩达 (Iván Cepeda) 将在 6 月 21 日的最后投票中对阵特朗普的崇拜者阿韦拉多·德拉埃斯普里埃拉 (Abelardo de l...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 21:10:06 GMT",
-        "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 01:53:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“现在没有人感到安全”：被无人机袭击的罗马尼亚城市居民也感到恐惧",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““现在没有人感到安全”：被无人机袭击的罗马尼亚城市居民也感到恐惧”。核心要点：人们刚刚开始返回周五凌晨遭受袭击的街区查看自己的房屋。",
+        "titleZh": "美国媒体报道，特朗普寻求修改美伊协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国媒体报道，特朗普寻求修改美伊协议”。核心要点：据美国媒体报道，要求的改变与霍尔木兹海峡和高浓缩铀的清除有关。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 17:34:30 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 31 May 2026 22:54:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "出于安全考虑，意大利禁止坎耶·韦斯特和特拉维斯·斯科特举行音乐会",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“出于安全考虑，意大利禁止坎耶·韦斯特和特拉维斯·斯科特举行音乐会”。核心要点：地方当局表示，其他西方音乐会的取消也是这一决定的原因之一。",
+        "titleZh": "缅甸叛军控制的村庄发生巨大爆炸，造成数十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“缅甸叛军控制的村庄发生巨大爆炸，造成数十人死亡”。核心要点：叛乱分子称，这是由于在中国边境附近采矿时使用爆炸物造成的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 15:39:12 GMT",
-        "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 05:36:08 GMT",
+        "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "法拉利希望通过 Luce 来挑战中国电动汽车 - 然后强烈反对就开始了",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法拉利希望通过 Luce 来挑战中国电动汽车 - 然后强烈反对就开始了”。核心要点：该品牌的首款电动汽车受到了严厉批评，有人说它放弃了法拉利的根源。",
+        "titleZh": "废物处理公司表示，购买电子烟需缴纳 5 英镑押金以阻止火灾",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“废物处理公司表示，购买电子烟需缴纳 5 英镑押金以阻止火灾”。核心要点：废物公司行业机构表示，可退还的押金将有助于促进电子烟回收，但其他人不同意。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 30 May 2026 22:23:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 00:33:49 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "只有四分之三的头等邮件按时送达",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“只有四分之三的头等邮件按时送达”。核心要点：英国皇家邮政表示，其服务正在改善，有望实现监管机构 Ofcom 降低的目标",
+        "titleZh": "英伟达宣布推出用于个人电脑的新型人工智能芯片",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英伟达宣布推出用于个人电脑的新型人工智能芯片”。核心要点：这家科技巨头的老板黄仁勋称此举为“计算机的重塑”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 15:51:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 05:48:27 GMT",
+        "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "环球公司拒绝亿万富翁比尔·阿克曼的收购要约",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“环球公司拒绝亿万富翁比尔·阿克曼的收购要约”。核心要点：这家音乐巨头表示，潘兴广场的报价从根本上低估了该业务的价值。",
+        "titleZh": "Lidl 为什么要开酒吧？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Lidl 为什么要开酒吧？”。核心要点：关于在探索商店著名的中间过道后喝一杯冷品脱啤酒这个看似奇怪的想法的争论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 19:29:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 31 May 2026 23:16:27 GMT",
+        "url": "https://www.bbc.com/news/articles/cze222z1300o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国顶级厨师呼吁将酒吧和餐馆的增值税削减至 10%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国顶级厨师呼吁将酒吧和餐馆的增值税削减至 10%”。核心要点：Tom Kerridge、Yotam Ottolenghi、Ravneet Gill 和 Simon Rogan 告诉 BBC 新闻之夜，增值税应该减半，以缓解...",
+        "titleZh": "一年的悲伤和等待：当飞机从天而降时剩下什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“一年的悲伤和等待：当飞机从天而降时剩下什么”。核心要点：一位母亲仍然用现在时谈论她在印度航空空难中丧生的儿子，一位兄弟则在等待答案。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 29 May 2026 10:55:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 00:24:47 GMT",
+        "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "关于“迷失的一代”的重要报告称太多年轻人的机会正在减少",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“关于“迷失的一代”的重要报告称太多年轻人的机会正在减少”。核心要点：一份报告警告称，到 2031 年，失业、教育或培训的 16 至 24 岁青少年人数将增至 125 万人。",
+        "titleZh": "秘密隧道和未登记工人：中国煤矿灾难提醒人们黑暗的日子",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“秘密隧道和未登记工人：中国煤矿灾难提醒人们黑暗的日子”。核心要点：中国雄心勃勃地转向绿色能源，却遭遇了15年来最严重的煤矿灾难。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 28 May 2026 15:09:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 31 May 2026 23:32:04 GMT",
+        "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
