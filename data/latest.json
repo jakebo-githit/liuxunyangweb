@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-06-01T06:18:26.461Z",
+  "updatedAt": "2026-06-02T06:01:50.548Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Noninvasive diagnosis of clinically significant portal hypertension: current evidence and future directions.",
-        "journal": "Expert review of gastroenterology & hepatology",
-        "pubDate": "2026 May 31",
-        "studyType": "Journal Article / Review",
-        "authors": "Papagiouvanni I, Tsochatzis EA",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：临床上显着的门脉高压（CSPH）与不良预后相关，其早期检测对于及时进行临床干预（例如开始使用非选择性β受体阻滞剂）至关重要。 临床提示：肝静脉压力梯度仍然是诊断CSPH的金标准；然而，无创测试（NIT）已被开发为有价值的替代方案。",
-        "abstract": "Clinically significant portal hypertension (CSPH) is related to poor prognosis and its early detection is crucial for timely clinical interventions, such as initiation of nonselective-beta-blockers. The hepatic vein pressure gradient remains the gold standard to diagnose CSPH; however, noninvasive tests (NITs) have been developed as valuable alternatives. In this review, we summarize the diagnostic performance and clinical utility of such techniques in patients with compensated advanced chronic liver disease (cACLD). A comprehensive literature search was performed, focusing on imaging methods, including elastographic techniques, ultrasound (US)-, magnetic resonance (MR)- and computed tomogra...",
-        "pmid": "42218810",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42218810/",
-        "doiUrl": "https://doi.org/10.1080/17474124.2026.2683676",
-        "url": "https://doi.org/10.1080/17474124.2026.2683676"
+        "title": "High Incidence of Anastomotic Stenosis in Pancreatoduodenectomy with Distal Portal Vein Resection: An Ileocolic Vein-Based Anatomical Definition.",
+        "journal": "Journal of the American College of Surgeons",
+        "pubDate": "2026 Jun 1",
+        "studyType": "Journal Article",
+        "authors": "Ito R, Ono Y, Kiritani S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：胰腺癌胰十二指肠切除术中门静脉切除术后的吻合口狭窄可导致门静脉高压相关并发症，尽管狭窄的解剖学决定因素仍不清楚。 临床提示：我们评估了肠系膜上静脉（SMV）横断的水平是否影响节段性门静脉切除术后门静脉狭窄。",
+        "abstract": "Anastomotic stenosis after portal vein resection during pancreaticoduodenectomy for pancreatic cancer can result in portal hypertension-related complications, although the anatomical determinants of stenosis remain poorly defined. We evaluated whether the level of superior mesenteric vein (SMV) transection influences postoperative portal vein stenosis after segmental portal vein resection. Patients who underwent pancreaticoduodenectomy with segmental portal vein resection for borderline resectable or locally advanced pancreatic cancer at two centers were retrospectively analyzed. Proximal transection was defined as SMV transection proximal to the ileocolic vein confluence, whereas distal tra...",
+        "pmid": "42223131",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42223131/",
+        "doiUrl": "https://doi.org/10.1097/XCS.0000000000002050",
+        "url": "https://doi.org/10.1097/XCS.0000000000002050"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗和美国报告海湾地区新一轮袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗和美国报告海湾地区新一轮袭击”。核心要点：伊朗和美国表示，他们在霍尔木兹海峡周围发动了新的袭击，这是一周内已知的第三次升级。",
+        "titleZh": "俄罗斯对乌克兰各城市发动大规模袭击，造成至少十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对乌克兰各城市发动大规模袭击，造成至少十人死亡”。核心要点：基辅市长维塔利·克里琴科表示，两栋高层公寓楼遭到袭击，人们担心有人被困在废墟下。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 06:17:47 GMT",
-        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 05:04:16 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列扩大地面攻势夺取黎巴嫩城堡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列扩大地面攻势夺取黎巴嫩城堡”。核心要点：以色列总理本杰明·内塔尼亚胡称，占领战略要塞是以色列打击真主党行动的“决定性转变”，而欧洲各国政府则批评事态升级。",
+        "titleZh": "黎巴嫩表示真主党同意相互停止对以色列的袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩表示真主党同意相互停止对以色列的袭击”。核心要点：宣布暂停几小时后，以色列军方表示拦截了从黎巴嫩发射的炮弹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 31 May 2026 22:39:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 23:50:03 GMT",
+        "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "哥伦比亚总统决选，左翼参议员与支持特朗普的竞争对手",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚总统决选，左翼参议员与支持特朗普的竞争对手”。核心要点：左翼参议员伊万·塞佩达 (Iván Cepeda) 将在 6 月 21 日的最后投票中对阵特朗普的崇拜者阿韦拉多·德拉埃斯普里埃拉 (Abelardo de l...",
+        "titleZh": "鲍文：特朗普需要结束这场战争，但伊朗不会退缩",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：特朗普需要结束这场战争，但伊朗不会退缩”。核心要点：英国广播公司国际编辑写道，在民意调查和海湾盟友的压力下，白宫正在推动达成协议，但伊朗希望做出让步。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 01:53:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 21:50:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国媒体报道，特朗普寻求修改美伊协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国媒体报道，特朗普寻求修改美伊协议”。核心要点：据美国媒体报道，要求的改变与霍尔木兹海峡和高浓缩铀的清除有关。",
+        "titleZh": "特朗普政府将遵守暂停 18 亿美元“反武器化”基金的裁决",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普政府将遵守暂停 18 亿美元“反武器化”基金的裁决”。核心要点：司法部表示“强烈反对”法院停止设立该基金的决定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 31 May 2026 22:54:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 23:03:39 GMT",
+        "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "缅甸叛军控制的村庄发生巨大爆炸，造成数十人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“缅甸叛军控制的村庄发生巨大爆炸，造成数十人死亡”。核心要点：叛乱分子称，这是由于在中国边境附近采矿时使用爆炸物造成的。",
+        "titleZh": "由于对疫情的担忧日益加剧，三种埃博拉疫苗正在开发中",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于对疫情的担忧日益加剧，三种埃博拉疫苗正在开发中”。核心要点：IAVI、Moderna 和牛津大学都在研究新疫苗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 05:36:08 GMT",
-        "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 14:30:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "废物处理公司表示，购买电子烟需缴纳 5 英镑押金以阻止火灾",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“废物处理公司表示，购买电子烟需缴纳 5 英镑押金以阻止火灾”。核心要点：废物公司行业机构表示，可退还的押金将有助于促进电子烟回收，但其他人不同意。",
+        "titleZh": "AI巨头Anthropic表示计划在美股上市",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“AI巨头Anthropic表示计划在美股上市”。核心要点：克劳德背后的人工智能公司将于今年某个时候公开发行股票。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 00:33:49 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 18:50:13 GMT",
+        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英伟达宣布推出用于个人电脑的新型人工智能芯片",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英伟达宣布推出用于个人电脑的新型人工智能芯片”。核心要点：这家科技巨头的老板黄仁勋称此举为“计算机的重塑”。",
+        "titleZh": "随着学生贷款调查的开始，三分之一的人表示大学学位不值得",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着学生贷款调查的开始，三分之一的人表示大学学位不值得”。核心要点：国会议员将听取毕业生对其学生债务规模和利率的担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 05:48:27 GMT",
-        "url": "https://www.bbc.com/news/articles/crmp9mppvzro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 23:09:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Lidl 为什么要开酒吧？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Lidl 为什么要开酒吧？”。核心要点：关于在探索商店著名的中间过道后喝一杯冷品脱啤酒这个看似奇怪的想法的争论。",
+        "titleZh": "安德玛 (Under Armour) 分手后，斯蒂芬·库里 (Steph Curry) 与中国品牌签约",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“安德玛 (Under Armour) 分手后，斯蒂芬·库里 (Steph Curry) 与中国品牌签约”。核心要点：中国企业在努力成为全球品牌的同时，一直在争夺与大明星的交易。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 31 May 2026 23:16:27 GMT",
-        "url": "https://www.bbc.com/news/articles/cze222z1300o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 05:11:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一年的悲伤和等待：当飞机从天而降时剩下什么",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“一年的悲伤和等待：当飞机从天而降时剩下什么”。核心要点：一位母亲仍然用现在时谈论她在印度航空空难中丧生的儿子，一位兄弟则在等待答案。",
+        "titleZh": "谈判失败后伦敦地铁继续罢工",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“谈判失败后伦敦地铁继续罢工”。核心要点：RMT 工会成员周二在工作时间连续罢工，并计划于周四采取进一步行动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 00:24:47 GMT",
-        "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 03:26:42 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "秘密隧道和未登记工人：中国煤矿灾难提醒人们黑暗的日子",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“秘密隧道和未登记工人：中国煤矿灾难提醒人们黑暗的日子”。核心要点：中国雄心勃勃地转向绿色能源，却遭遇了15年来最严重的煤矿灾难。",
+        "titleZh": "佛罗里达州诉讼称 OpenAI 让 ChatGPT 帮助和教唆大规模枪击事件",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“佛罗里达州诉讼称 OpenAI 让 ChatGPT 帮助和教唆大规模枪击事件”。核心要点：佛罗里达州总检察长 James Uthmeier 指控 OpenAI 和老板 Sam Altman 构建了一个“欺骗网”",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 31 May 2026 23:32:04 GMT",
-        "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 01 Jun 2026 18:58:26 GMT",
+        "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
