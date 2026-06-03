@@ -1,106 +1,92 @@
 {
-  "updatedAt": "2026-06-02T06:01:50.548Z",
+  "updatedAt": "2026-06-03T06:16:24.832Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "High Incidence of Anastomotic Stenosis in Pancreatoduodenectomy with Distal Portal Vein Resection: An Ileocolic Vein-Based Anatomical Definition.",
-        "journal": "Journal of the American College of Surgeons",
-        "pubDate": "2026 Jun 1",
-        "studyType": "Journal Article",
-        "authors": "Ito R, Ono Y, Kiritani S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：胰腺癌胰十二指肠切除术中门静脉切除术后的吻合口狭窄可导致门静脉高压相关并发症，尽管狭窄的解剖学决定因素仍不清楚。 临床提示：我们评估了肠系膜上静脉（SMV）横断的水平是否影响节段性门静脉切除术后门静脉狭窄。",
-        "abstract": "Anastomotic stenosis after portal vein resection during pancreaticoduodenectomy for pancreatic cancer can result in portal hypertension-related complications, although the anatomical determinants of stenosis remain poorly defined. We evaluated whether the level of superior mesenteric vein (SMV) transection influences postoperative portal vein stenosis after segmental portal vein resection. Patients who underwent pancreaticoduodenectomy with segmental portal vein resection for borderline resectable or locally advanced pancreatic cancer at two centers were retrospectively analyzed. Proximal transection was defined as SMV transection proximal to the ileocolic vein confluence, whereas distal tra...",
-        "pmid": "42223131",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42223131/",
-        "doiUrl": "https://doi.org/10.1097/XCS.0000000000002050",
-        "url": "https://doi.org/10.1097/XCS.0000000000002050"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "俄罗斯对乌克兰各城市发动大规模袭击，造成至少十人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对乌克兰各城市发动大规模袭击，造成至少十人死亡”。核心要点：基辅市长维塔利·克里琴科表示，两栋高层公寓楼遭到袭击，人们担心有人被困在废墟下。",
+        "titleZh": "以色列袭击黎巴嫩南部，但与真主党的部分休战似乎仍然有效",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列袭击黎巴嫩南部，但与真主党的部分休战似乎仍然有效”。核心要点：以色列继续在南部发动攻势，但在美国宣布达成协议后并未袭击贝鲁特。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 02 Jun 2026 05:04:16 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 21:51:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "黎巴嫩表示真主党同意相互停止对以色列的袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩表示真主党同意相互停止对以色列的袭击”。核心要点：宣布暂停几小时后，以色列军方表示拦截了从黎巴嫩发射的炮弹。",
+        "titleZh": "停火谈判陷入僵局，美国和伊朗发动新的打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“停火谈判陷入僵局，美国和伊朗发动新的打击”。核心要点：德黑兰称袭击了美国在海湾的基地，美国对伊朗和一艘油轮发动了新的袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 23:50:03 GMT",
-        "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 03 Jun 2026 03:40:53 GMT",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "鲍文：特朗普需要结束这场战争，但伊朗不会退缩",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：特朗普需要结束这场战争，但伊朗不会退缩”。核心要点：英国广播公司国际编辑写道，在民意调查和海湾盟友的压力下，白宫正在推动达成协议，但伊朗希望做出让步。",
+        "titleZh": "无人机袭击乌克兰俄控地区公交车 7人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“无人机袭击乌克兰俄控地区公交车 7人死亡”。核心要点：一名官员称，这辆巴士当时正在莫斯科和俄罗斯占领的克里米亚的辛菲罗波尔之间行驶。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 21:50:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 03 Jun 2026 05:42:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普政府将遵守暂停 18 亿美元“反武器化”基金的裁决",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普政府将遵守暂停 18 亿美元“反武器化”基金的裁决”。核心要点：司法部表示“强烈反对”法院停止设立该基金的决定。",
+        "titleZh": "普京在乌克兰问题上依然不妥协，但俄罗斯关于战争的公众言论是否正在发生变化？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“普京在乌克兰问题上依然不妥协，但俄罗斯关于战争的公众言论是否正在发生变化？”。核心要点：俄罗斯正在加紧对乌克兰的袭击，但四年多的战争甚至引起了普京忠诚者的担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 23:03:39 GMT",
-        "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 23:33:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于对疫情的担忧日益加剧，三种埃博拉疫苗正在开发中",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于对疫情的担忧日益加剧，三种埃博拉疫苗正在开发中”。核心要点：IAVI、Moderna 和牛津大学都在研究新疫苗。",
+        "titleZh": "“他们会修复建筑物，但不会修复我们的灵魂”：沉睡的基辅社区在俄罗斯罢工中遭到袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““他们会修复建筑物，但不会修复我们的灵魂”：沉睡的基辅社区在俄罗斯罢工中遭到袭击”。核心要点：俄罗斯发生重大袭击后，从地下避难所出来的居民看到了满目疮痍的景象。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 14:30:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 19:13:21 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "AI巨头Anthropic表示计划在美股上市",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“AI巨头Anthropic表示计划在美股上市”。核心要点：克劳德背后的人工智能公司将于今年某个时候公开发行股票。",
+        "titleZh": "报告显示，四分之三的工人无法获得“适度”养老金收入",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“报告显示，四分之三的工人无法获得“适度”养老金收入”。核心要点：一份新发布的报告显示，一个人过上适度的退休生活需要花费 32,700 英镑，两个人需要花费 45,400 英镑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 18:50:13 GMT",
-        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 23:02:23 GMT",
+        "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着学生贷款调查的开始，三分之一的人表示大学学位不值得",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着学生贷款调查的开始，三分之一的人表示大学学位不值得”。核心要点：国会议员将听取毕业生对其学生债务规模和利率的担忧。",
+        "titleZh": "海雀和大黄蜂等 18 种生物入围钞票印刷名单",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“海雀和大黄蜂等 18 种生物入围钞票印刷名单”。核心要点：英格兰银行正在向公众询问哪些动物应该出现在未来的钞票上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 23:09:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 23:02:18 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "安德玛 (Under Armour) 分手后，斯蒂芬·库里 (Steph Curry) 与中国品牌签约",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“安德玛 (Under Armour) 分手后，斯蒂芬·库里 (Steph Curry) 与中国品牌签约”。核心要点：中国企业在努力成为全球品牌的同时，一直在争夺与大明星的交易。",
+        "titleZh": "最年长的受害者说，金告诉我邮局丑闻“可怕”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“最年长的受害者说，金告诉我邮局丑闻“可怕””。核心要点：贝蒂·布朗表示，她代表所有丑闻受害者接受这一荣誉。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 02 Jun 2026 05:11:20 GMT",
-        "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 17:08:41 GMT",
+        "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "谈判失败后伦敦地铁继续罢工",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“谈判失败后伦敦地铁继续罢工”。核心要点：RMT 工会成员周二在工作时间连续罢工，并计划于周四采取进一步行动。",
+        "titleZh": "微软测试针对上班族的可穿戴人工智能设备",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“微软测试针对上班族的可穿戴人工智能设备”。核心要点：该公司表示，其员工正在测试“可穿戴访问徽章”和桌面设备。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 02 Jun 2026 03:26:42 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 21:47:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "佛罗里达州诉讼称 OpenAI 让 ChatGPT 帮助和教唆大规模枪击事件",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“佛罗里达州诉讼称 OpenAI 让 ChatGPT 帮助和教唆大规模枪击事件”。核心要点：佛罗里达州总检察长 James Uthmeier 指控 OpenAI 和老板 Sam Altman 构建了一个“欺骗网”",
+        "titleZh": "自来水公司因寄生虫爆发被罚款180万英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“自来水公司因寄生虫爆发被罚款180万英镑”。核心要点：德文郡有 140 多例疾病和腹泻病例，有 4 人住院治疗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 01 Jun 2026 18:58:26 GMT",
-        "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 02 Jun 2026 17:18:43 GMT",
+        "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
