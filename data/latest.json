@@ -1,145 +1,119 @@
 {
-  "updatedAt": "2026-06-04T06:06:55.295Z",
+  "updatedAt": "2026-06-05T05:48:04.141Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pediatric Budd-Chiari Syndrome: A Systematic Review of Etiology, Diagnosis, and Management.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 Jul-Aug",
-        "studyType": "Journal Article / Review",
-        "authors": "Rudra OS, Poyekar S, Nagral A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：布加综合征（BCS）或肝静脉流出道阻塞是儿童慢性肝病的罕见但重要原因。 临床提示：儿童 BCS 在病因学、临床表现、治疗策略和结果方面与成人疾病不同。",
-        "abstract": "Budd-Chiari syndrome (BCS), or hepatic venous outflow tract obstruction, is a rare but important cause of chronic liver disease in children. Pediatric BCS differs from adult disease in etiology, clinical presentation, management strategies, and outcomes. Because of its rarity, available data are limited and fragmented. This review summarizes current evidence on the epidemiology, clinical features, diagnostic approach, management, and outcomes of pediatric BCS. A comprehensive review of published literature was performed, including observational studies, case series, and reviews describing pediatric BCS. Data on demographics, etiology, clinical presentation, diagnostic modalities, radiologica...",
-        "pmid": "42232136",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42232136/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103559",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103559"
+        "title": "Post-splenectomy early biochemical trajectories and predictors in 935 patients with Wilson disease: a group-based trajectory modeling study.",
+        "journal": "BMC gastroenterology",
+        "pubDate": "2026 Jun 4",
+        "studyType": "Journal Article",
+        "authors": "Shi X, Zhu S, Sang N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在确定 WD 患者脾切除术后早期生化轨迹，并确定与不利轨迹模式相关的术前因素。 临床提示：脾切除术通常用于缓解威尔逊病（WD）肝硬化患者门静脉高压相关的脾功能亢进。",
+        "abstract": "Splenectomy is commonly used to alleviate portal hypertension-related hypersplenism in patients with Wilson's disease (WD) cirrhosis. However, early post-splenectomy biochemical responses vary substantially among individuals, and objective tools to characterize these dynamic patterns remain limited. This study aimed to identify early postoperative biochemical trajectories after splenectomy in patients with WD and to determine preoperative factors associated with unfavorable trajectory patterns. We retrospectively analyzed 935 WD patients undergoing splenectomy (2001-2019). Serial ALT, AST, TBIL, and ALB were measured preoperatively and on postoperative days 1, 7, 14, and 21. Group-based traj...",
+        "pmid": "42243705",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42243705/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-04994-0",
+        "url": "https://doi.org/10.1186/s12876-026-04994-0"
       },
       {
-        "title": "Post-TIPS Outcomes in Metabolic Dysfunction-Associated Steatotic Liver Disease: A Real-World Comparative Study.",
-        "journal": "Journal of clinical gastroenterology",
+        "title": "Fully self-gated dual-venc 5D flow MRI for simultaneous imaging of the cardiovascular and portal venous systems: a feasibility study.",
+        "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
         "pubDate": "2026 Jun 3",
         "studyType": "Journal Article",
-        "authors": "Bardak AE, El Naamani H, Teker G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉后肝内门体分流术 (TIPS) 结果数据主要来自酒精或病毒相关的肝硬化；代谢功能障碍相关的脂肪肝病（MASLD）的病因学特异性证据仍然有限。 临床提示：鉴于门脉高压生理学和心脏代谢负担的差异，MASLD 的 TIPS 后结果是否反映其他病因尚不确定。",
-        "abstract": "Post-transjugular intrahepatic portosystemic shunt (TIPS) outcome data are derived largely from alcohol- or viral-related cirrhosis; etiology-specific evidence in metabolic dysfunction-associated steatotic liver disease (MASLD) remains limited. Given differences in portal hypertension physiology and cardiometabolic burden, whether post-TIPS outcomes in MASLD mirror other etiologies is uncertain. Using the TriNetX US Collaborative Network, we identified adults with cirrhosis who underwent initial TIPS placement on or after January 1, 2015, and categorized them as MASLD versus alcohol- or viral-related cirrhosis. Propensity Score Matching was performed to balance the demographics, liver diseas...",
-        "pmid": "42235945",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42235945/",
-        "doiUrl": "https://doi.org/10.1097/MCG.0000000000002404",
-        "url": "https://doi.org/10.1097/MCG.0000000000002404"
-      },
-      {
-        "title": "An unusual superior mesenteric arteriovenous malformation causing obscure gastrointestinal bleeding: a case report.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 Jun 2",
-        "studyType": "Journal Article",
-        "authors": "Alashqar M, Abu Kamesh MI, Alsadi R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：多种可能的出血源（其中血管异常）的存在会增加复发性出血和临床上严重贫血的风险。 临床提示：肠系膜动静脉畸形（AVM）是一种罕见的高流量血管病变，可能因动脉血转移至静脉和静脉高压而导致胃肠道出血。",
-        "abstract": "Lower gastrointestinal bleeding (LGIB) frequently presents a diagnostic challenge, particularly in liver cirrhosis and portal hypertension patients, as it accounts for about 20-25% of major gastrointestinal bleeding cases. The presence of multiple possible sources of bleeding, among which vascular abnormalities, increases the risk of recurrent bleeding, and clinically significant anemia. Mesenteric arteriovenous malformations (AVMs) are one of the rare high-flow vascular lesions that may lead to gastrointestinal bleeding through arterial blood being diverted to the veins and venous hypertension. As the findings of an endoscopic examination can be unclear, cross-sectional angiographic imaging...",
-        "pmid": "42231181",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42231181/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-04976-2",
-        "url": "https://doi.org/10.1186/s12876-026-04976-2"
-      },
-      {
-        "title": "Demographic and regional trends of mortality associated with hepatic cirrhosis and chronic kidney disease, in the United States, 1999-2020: A CDC WONDER database analysis.",
-        "journal": "Journal of the National Medical Association",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Review",
-        "authors": "Ahmad M, Irshad A, Noor S",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝硬化门脉高压会损害肾血流量，增加 CKD 风险。 临床提示：本研究旨在强调 1999 年至 2020 年美国人群因肝硬化和 CKD 导致的死亡率的年度趋势和人口统计学差异 方法：肝硬化相关的 CKD 相关死亡率趋势为",
-        "abstract": "Hepatic cirrhosis and chronic kidney disease (CKD) often co-exist, exacerbating each other through shared inflammatory and hemodynamic pathways. Portal hypertension in cirrhosis impairs renal blood flow, increasing CKD risk. This study aims to highlight the annual trends and demographic differences in mortality due to hepatic cirrhosis and CKD in the US population from 1999-2020 METHODS: Cirrhosis associated CKD-related mortality trends were analyzed from 1999 to 2020 using the Centers for Disease Control and Prevention Wide-ranging ONline Data for Epidemiologic Research (CDC WONDER) multiple-cause of death database. Age-adjusted mortality rates (AAMRs) per 100,000 persons were calculated. T...",
-        "pmid": "42067485",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42067485/",
-        "doiUrl": "https://doi.org/10.1016/j.jnma.2026.03.010",
-        "url": "https://doi.org/10.1016/j.jnma.2026.03.010"
+        "authors": "Ren Y, Ye W, Yang W",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：开发和评估完全自门控双静脉 5D 血流 MRI 技术，用于联合评估自由呼吸下的心血管和门静脉血流动力学。 临床提示：实施了使用螺旋笛卡尔采样轨迹的双 venc 5D 流序列。",
+        "abstract": "To develop and evaluate a fully self-gated dual-venc 5D flow MRI technique for joint assessment of cardiovascular and portal venous hemodynamics under free breathing. A dual-venc 5D flow sequence using a spiral-in Cartesian sampling trajectory was implemented. Cardiac and respiratory motion were retrospectively resolved using principal component analysis of self-gating signals, followed by total variation regularized reconstruction. The technique was first tested in a custom-built phantom with steady flow and stationary parts, and compared with conventional 4D flow. It was then evaluated in healthy volunteers and in patients with cirrhosis or portal hypertension, including post-transjugular ...",
+        "pmid": "42242608",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42242608/",
+        "doiUrl": "https://doi.org/10.1016/j.jocmr.2026.102750",
+        "url": "https://doi.org/10.1016/j.jocmr.2026.102750"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "如果真主党停止袭击，以色列和黎巴嫩同意实施停火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“如果真主党停止袭击，以色列和黎巴嫩同意实施停火”。核心要点：美国国务院表示，两国拒绝“任何国家或非国家行为者企图将黎巴嫩的未来作为人质”。",
+        "titleZh": "泽连斯基在给普京的公开信中提议进行面对面会谈",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基在给普京的公开信中提议进行面对面会谈”。核心要点：乌克兰总统告诉俄罗斯领导人，只有两国之间的“直接接触”才能结束战争，而美国的重点是伊朗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 00:16:44 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 05:20:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国众议院投票限制特朗普的战争权力，以谴责伊朗问题",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国众议院投票限制特朗普的战争权力，以谴责伊朗问题”。核心要点：在 215 票对 208 票中，四名共和党人与民主党人一起通过了这项此前三次尝试均以失败告终的法案。",
+        "titleZh": "真主党拒绝以色列和黎巴嫩同意重新停火",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“真主党拒绝以色列和黎巴嫩同意重新停火”。核心要点：经过新一轮谈判后，美国于周三晚上宣布停火协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 03:36:10 GMT",
-        "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 01:44:16 GMT",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普和内塔尼亚胡之间的“疯狂”电话使伊朗谈判变得复杂",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普和内塔尼亚胡之间的“疯狂”电话使伊朗谈判变得复杂”。核心要点：以色列总理对有关摩擦的报道一笑置之，但他却考验了其他美国总统的耐心。",
+        "titleZh": "众议院就伊朗问题斥责特朗普后，特朗普回击“不爱国”投票",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“众议院就伊朗问题斥责特朗普后，特朗普回击“不爱国”投票”。核心要点：国会下议院通过了一项旨在停止进一步军事行动的措施，此次投票在很大程度上被视为象征性的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 03 Jun 2026 20:28:01 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 04 Jun 2026 14:46:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尽你所能：南海的新现实",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尽你所能：南海的新现实”。核心要点：在多年来目睹中国创造土地以支持其扩张的领土主张之后，其他国家也在做同样的事情。",
+        "titleZh": "检察官称迪拜统治者侄子的前妻被拘留",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“检察官称迪拜统治者侄子的前妻被拘留”。核心要点：自周二以来，泽纳布·贾瓦德利 (Zeynab Javadli) 就没有与她的任何朋友联系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 03 Jun 2026 22:00:21 GMT",
-        "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 05:44:44 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "普京旗舰经济论坛开幕之际乌克兰无人机袭击圣彼得堡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“普京旗舰经济论坛开幕之际乌克兰无人机袭击圣彼得堡”。核心要点：距离弗拉基米尔·普京发表讲话的几天前，几架远程无人机袭击了该市附近的石油储存设施。",
+        "titleZh": "经过几十年的人类破坏，红树林正在恢复",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“经过几十年的人类破坏，红树林正在恢复”。核心要点：沼泽红树林正在出人意料地卷土重来——这对沿海社区和气候来说是个好消息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 03 Jun 2026 11:34:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 04 Jun 2026 23:11:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "SpaceX 表示其即将上市，其估值为 1.75 兆美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“SpaceX 表示其即将上市，其估值为 1.75 兆美元”。核心要点：埃隆·马斯克的太空探索公司比预期更早地为买家设定了目标价格。",
+        "titleZh": "Anthropic 联合创始人警告说，人工智能需要一个“刹车踏板”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 联合创始人警告说，人工智能需要一个“刹车踏板””。核心要点：杰克·克拉克 (Jack Clark) 告诉 BBC 新闻之夜，人工智能可以在没有人类输入的情况下实现发展。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 02:05:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 04 Jun 2026 21:53:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国因强迫劳动担忧宣布新关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国因强迫劳动担忧宣布新关税”。核心要点：此前，美国最高法院在二月份撤销了美国总统唐纳德·特朗普的多项先前职责。",
+        "titleZh": "英国心脏基金会计划关闭150家慈善商店",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国心脏基金会计划关闭150家慈善商店”。核心要点：该慈善机构表示，它正面临“异常具有挑战性的交易环境”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 03 Jun 2026 15:12:28 GMT",
-        "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 02:32:16 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "报告显示，四分之三的工人无法获得“适度”养老金收入",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“报告显示，四分之三的工人无法获得“适度”养老金收入”。核心要点：一份新发布的报告显示，一个人过上适度的退休生活需要花费 32,700 英镑，两个人需要花费 45,400 英镑。",
+        "titleZh": "中国严厉打击病毒式微剧中的软色情、暴力和唯物主义",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国严厉打击病毒式微剧中的软色情、暴力和唯物主义”。核心要点：微剧人气飙升，但也因其耸人听闻的内容而招致批评。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 02 Jun 2026 23:02:23 GMT",
-        "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT",
+        "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "政府承诺投入 13 亿英镑，环球公园正式命名",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“政府承诺投入 13 亿英镑，环球公园正式命名”。核心要点：政府的贡献将用于升级当地基础设施和交通网络。",
+        "titleZh": "特朗普宣布利用战时权力投资 7 亿美元煤炭",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普宣布利用战时权力投资 7 亿美元煤炭”。核心要点：由于伊朗战争推高了美国人的能源成本，总统正在将资金投入煤炭领域。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 03 Jun 2026 13:30:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 00:03:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "有望出现在新钞票上的 18 种生物",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“有望出现在新钞票上的 18 种生物”。核心要点：英格兰银行正在向公众询问哪些动物应该出现在未来的钞票上。",
+        "titleZh": "20 多岁的单身人士需要人工智能在约会应用上迈出第一步 - Hinge 老板",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“20 多岁的单身人士需要人工智能在约会应用上迈出第一步 - Hinge 老板”。核心要点：杰基·詹托斯 (Jackie Jantos) 表示，孤独和缺乏自信是寻求人际关系的年轻人面临的挑战。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 02 Jun 2026 23:02:18 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 04 Jun 2026 23:05:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
