@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-06-05T05:48:04.141Z",
+  "updatedAt": "2026-06-06T05:04:34.325Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Post-splenectomy early biochemical trajectories and predictors in 935 patients with Wilson disease: a group-based trajectory modeling study.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 Jun 4",
+        "title": "Endoscopic Ultrasound-Guided Versus Transjugular Portal Pressure Measurements: Systematic Review and Meta-Analysis.",
+        "journal": "Digestive diseases and sciences",
+        "pubDate": "2026 Jun 5",
         "studyType": "Journal Article",
-        "authors": "Shi X, Zhu S, Sang N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在确定 WD 患者脾切除术后早期生化轨迹，并确定与不利轨迹模式相关的术前因素。 临床提示：脾切除术通常用于缓解威尔逊病（WD）肝硬化患者门静脉高压相关的脾功能亢进。",
-        "abstract": "Splenectomy is commonly used to alleviate portal hypertension-related hypersplenism in patients with Wilson's disease (WD) cirrhosis. However, early post-splenectomy biochemical responses vary substantially among individuals, and objective tools to characterize these dynamic patterns remain limited. This study aimed to identify early postoperative biochemical trajectories after splenectomy in patients with WD and to determine preoperative factors associated with unfavorable trajectory patterns. We retrospectively analyzed 935 WD patients undergoing splenectomy (2001-2019). Serial ALT, AST, TBIL, and ALB were measured preoperatively and on postoperative days 1, 7, 14, and 21. Group-based traj...",
-        "pmid": "42243705",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42243705/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-04994-0",
-        "url": "https://doi.org/10.1186/s12876-026-04994-0"
-      },
-      {
-        "title": "Fully self-gated dual-venc 5D flow MRI for simultaneous imaging of the cardiovascular and portal venous systems: a feasibility study.",
-        "journal": "Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance",
-        "pubDate": "2026 Jun 3",
-        "studyType": "Journal Article",
-        "authors": "Ren Y, Ye W, Yang W",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：开发和评估完全自门控双静脉 5D 血流 MRI 技术，用于联合评估自由呼吸下的心血管和门静脉血流动力学。 临床提示：实施了使用螺旋笛卡尔采样轨迹的双 venc 5D 流序列。",
-        "abstract": "To develop and evaluate a fully self-gated dual-venc 5D flow MRI technique for joint assessment of cardiovascular and portal venous hemodynamics under free breathing. A dual-venc 5D flow sequence using a spiral-in Cartesian sampling trajectory was implemented. Cardiac and respiratory motion were retrospectively resolved using principal component analysis of self-gating signals, followed by total variation regularized reconstruction. The technique was first tested in a custom-built phantom with steady flow and stationary parts, and compared with conventional 4D flow. It was then evaluated in healthy volunteers and in patients with cirrhosis or portal hypertension, including post-transjugular ...",
-        "pmid": "42242608",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42242608/",
-        "doiUrl": "https://doi.org/10.1016/j.jocmr.2026.102750",
-        "url": "https://doi.org/10.1016/j.jocmr.2026.102750"
+        "authors": "Hashimoto R, Tanaka T, Chang KJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：已发表的超声内镜引导门静脉压力梯度（EUS-PPG）评论强调了可行性和安全性。 临床提示：我们进行了系统回顾和荟萃分析，专门评估基于 EUS 的门静脉压力测量在前瞻性配对研究中跟踪侵入性比较器测量的紧密程度，并总结一致",
+        "abstract": "Published reviews of endoscopic ultrasound-guided portal pressure gradient (EUS-PPG) have emphasized feasibility and safety. We performed a systematic review and meta-analysis specifically to evaluate how closely EUS-based portal pressure measurements track invasive comparator measurements in prospective paired studies and to summarize agreement, technical success, and adverse events. We searched major databases through January 2026 for prospective cohorts reporting same-patient EUS-based portal pressure measurement and invasive hemodynamic measurements. Correlations were pooled with random-effects models and analyzed separately for studies comparing EUS-PPG with hepatic venous pressure grad...",
+        "pmid": "42249245",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42249245/",
+        "doiUrl": "https://doi.org/10.1007/s10620-026-10042-4",
+        "url": "https://doi.org/10.1007/s10620-026-10042-4"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "泽连斯基在给普京的公开信中提议进行面对面会谈",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基在给普京的公开信中提议进行面对面会谈”。核心要点：乌克兰总统告诉俄罗斯领导人，只有两国之间的“直接接触”才能结束战争，而美国的重点是伊朗。",
+        "titleZh": "普京表示，就结束乌克兰战争问题与泽伦斯基会面“毫无意义”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“普京表示，就结束乌克兰战争问题与泽伦斯基会面“毫无意义””。核心要点：俄罗斯总统拒绝之前，乌克兰总统写了一封公开信，呼吁进行面对面会谈。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 05:20:57 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 18:16:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "真主党拒绝以色列和黎巴嫩同意重新停火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“真主党拒绝以色列和黎巴嫩同意重新停火”。核心要点：经过新一轮谈判后，美国于周三晚上宣布停火协议。",
+        "titleZh": "乌克兰袭击货船并承认罗马尼亚无人机爆炸",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰袭击货船并承认罗马尼亚无人机爆炸”。核心要点：乌克兰表示，它在亚速海和俄罗斯占领领土的沿海水域袭击了五艘运载非法货物的船只。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 01:44:16 GMT",
-        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 15:29:39 GMT",
+        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "众议院就伊朗问题斥责特朗普后，特朗普回击“不爱国”投票",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“众议院就伊朗问题斥责特朗普后，特朗普回击“不爱国”投票”。核心要点：国会下议院通过了一项旨在停止进一步军事行动的措施，此次投票在很大程度上被视为象征性的。",
+        "titleZh": "宇航员在漏气修复尝试中避难后返回国际空间站",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“宇航员在漏气修复尝试中避难后返回国际空间站”。核心要点：俄罗斯试图修复隧道区域，引发了船上其他五名宇航员的避难程序。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 14:46:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 21:35:55 GMT",
+        "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "检察官称迪拜统治者侄子的前妻被拘留",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“检察官称迪拜统治者侄子的前妻被拘留”。核心要点：自周二以来，泽纳布·贾瓦德利 (Zeynab Javadli) 就没有与她的任何朋友联系。",
+        "titleZh": "儿童谋杀案嫌疑人犯罪记录公布后法国愤怒",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“儿童谋杀案嫌疑人犯罪记录公布后法国愤怒”。核心要点：记录显示，一名涉嫌谋杀一名 11 岁女孩的男子此前已被确定为潜在的儿童猥亵者。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 05:44:44 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 11:32:51 GMT",
+        "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "经过几十年的人类破坏，红树林正在恢复",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“经过几十年的人类破坏，红树林正在恢复”。核心要点：沼泽红树林正在出人意料地卷土重来——这对沿海社区和气候来说是个好消息。",
+        "titleZh": "撒哈拉沙漠卡车抛锚近50人渴死",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“撒哈拉沙漠卡车抛锚近50人渴死”。核心要点：在长途跋涉 50 多公里（30 英里）穿越沙漠向当局报警后，只有两人幸存。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 23:11:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 16:00:47 GMT",
+        "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "Anthropic 联合创始人警告说，人工智能需要一个“刹车踏板”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 联合创始人警告说，人工智能需要一个“刹车踏板””。核心要点：杰克·克拉克 (Jack Clark) 告诉 BBC 新闻之夜，人工智能可以在没有人类输入的情况下实现发展。",
+        "titleZh": "Anthropic 联合创始人表示，我们需要阻止人工智能在没有人类的情况下发展",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 联合创始人表示，我们需要阻止人工智能在没有人类的情况下发展”。核心要点：杰克·克拉克 (Jack Clark) 告诉 BBC 新闻之夜，人工智能可以在没有人类输入的情况下实现发展。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 21:53:25 GMT",
+        "publishedAt": "Fri, 05 Jun 2026 07:17:39 GMT",
         "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国心脏基金会计划关闭150家慈善商店",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国心脏基金会计划关闭150家慈善商店”。核心要点：该慈善机构表示，它正面临“异常具有挑战性的交易环境”。",
+        "titleZh": "特朗普将与人工智能领导人会面，讨论美国对其公司的投资",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普将与人工智能领导人会面，讨论美国对其公司的投资”。核心要点：美国总统周五表示，他预计下周将与顶级人工智能公司的领导人会面。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 02:32:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 19:36:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国严厉打击病毒式微剧中的软色情、暴力和唯物主义",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国严厉打击病毒式微剧中的软色情、暴力和唯物主义”。核心要点：微剧人气飙升，但也因其耸人听闻的内容而招致批评。",
+        "titleZh": "由于对大型科技公司的担忧震动华尔街，美国股市暴跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于对大型科技公司的担忧震动华尔街，美国股市暴跌”。核心要点：纳斯达克指数创下 2025 年初以来最大单日跌幅。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT",
-        "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 21:38:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普宣布利用战时权力投资 7 亿美元煤炭",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普宣布利用战时权力投资 7 亿美元煤炭”。核心要点：由于伊朗战争推高了美国人的能源成本，总统正在将资金投入煤炭领域。",
+        "titleZh": "谁可以购买埃隆·马斯克 (Elon Musk) 的 SpaceX 股票？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“谁可以购买埃隆·马斯克 (Elon Musk) 的 SpaceX 股票？”。核心要点：从下周开始，个人投资者可以入股马斯克的火箭人工智能公司。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 00:03:36 GMT",
-        "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 09:51:36 GMT",
+        "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "20 多岁的单身人士需要人工智能在约会应用上迈出第一步 - Hinge 老板",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“20 多岁的单身人士需要人工智能在约会应用上迈出第一步 - Hinge 老板”。核心要点：杰基·詹托斯 (Jackie Jantos) 表示，孤独和缺乏自信是寻求人际关系的年轻人面临的挑战。",
+        "titleZh": "随着美国备战世界杯，酒店业工作岗位激增",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着美国备战世界杯，酒店业工作岗位激增”。核心要点：这是美国就业数据连续第三个月超出预期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 04 Jun 2026 23:05:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 05 Jun 2026 16:02:17 GMT",
+        "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
