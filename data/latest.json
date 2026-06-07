@@ -1,64 +1,50 @@
 {
-  "updatedAt": "2026-06-06T05:04:34.325Z",
+  "updatedAt": "2026-06-07T05:51:32.747Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Endoscopic Ultrasound-Guided Versus Transjugular Portal Pressure Measurements: Systematic Review and Meta-Analysis.",
-        "journal": "Digestive diseases and sciences",
-        "pubDate": "2026 Jun 5",
-        "studyType": "Journal Article",
-        "authors": "Hashimoto R, Tanaka T, Chang KJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：已发表的超声内镜引导门静脉压力梯度（EUS-PPG）评论强调了可行性和安全性。 临床提示：我们进行了系统回顾和荟萃分析，专门评估基于 EUS 的门静脉压力测量在前瞻性配对研究中跟踪侵入性比较器测量的紧密程度，并总结一致",
-        "abstract": "Published reviews of endoscopic ultrasound-guided portal pressure gradient (EUS-PPG) have emphasized feasibility and safety. We performed a systematic review and meta-analysis specifically to evaluate how closely EUS-based portal pressure measurements track invasive comparator measurements in prospective paired studies and to summarize agreement, technical success, and adverse events. We searched major databases through January 2026 for prospective cohorts reporting same-patient EUS-based portal pressure measurement and invasive hemodynamic measurements. Correlations were pooled with random-effects models and analyzed separately for studies comparing EUS-PPG with hepatic venous pressure grad...",
-        "pmid": "42249245",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42249245/",
-        "doiUrl": "https://doi.org/10.1007/s10620-026-10042-4",
-        "url": "https://doi.org/10.1007/s10620-026-10042-4"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "普京表示，就结束乌克兰战争问题与泽伦斯基会面“毫无意义”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“普京表示，就结束乌克兰战争问题与泽伦斯基会面“毫无意义””。核心要点：俄罗斯总统拒绝之前，乌克兰总统写了一封公开信，呼吁进行面对面会谈。",
+        "titleZh": "赫格斯在诺曼底登陆日发表海滩“入侵”演讲，攻击欧洲移民问题",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格斯在诺曼底登陆日发表海滩“入侵”演讲，攻击欧洲移民问题”。核心要点：美国国防部长在诺曼底发表讲话，距盟军发起解放纳粹占领的西北欧行动已有 82 年。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 18:16:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 07 Jun 2026 05:47:28 GMT",
+        "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰袭击货船并承认罗马尼亚无人机爆炸",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰袭击货船并承认罗马尼亚无人机爆炸”。核心要点：乌克兰表示，它在亚速海和俄罗斯占领领土的沿海水域袭击了五艘运载非法货物的船只。",
+        "titleZh": "乌克兰无人机袭击圣彼得堡 俄罗斯称这是“前所未有的”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰无人机袭击圣彼得堡 俄罗斯称这是“前所未有的””。核心要点：自战争爆发以来，俄罗斯第二大城市的居民首次被敦促待在室内。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 15:29:39 GMT",
-        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 06 Jun 2026 20:50:40 GMT",
+        "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "宇航员在漏气修复尝试中避难后返回国际空间站",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“宇航员在漏气修复尝试中避难后返回国际空间站”。核心要点：俄罗斯试图修复隧道区域，引发了船上其他五名宇航员的避难程序。",
+        "titleZh": "美国和伊朗在海湾地区交锋，这是对停火的最新考验",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗在海湾地区交锋，这是对停火的最新考验”。核心要点：美国军方袭击了伊朗的无人机和雷达站，德黑兰称其目标是美国在科威特和巴林的基地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 21:35:55 GMT",
-        "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 06 Jun 2026 14:46:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "儿童谋杀案嫌疑人犯罪记录公布后法国愤怒",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“儿童谋杀案嫌疑人犯罪记录公布后法国愤怒”。核心要点：记录显示，一名涉嫌谋杀一名 11 岁女孩的男子此前已被确定为潜在的儿童猥亵者。",
+        "titleZh": "拉嘎斯与交响乐：50 年来，印度大师伊莱亚拉贾 (Ilaiyaraaja) 仍在重塑音乐",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“拉嘎斯与交响乐：50 年来，印度大师伊莱亚拉贾 (Ilaiyaraaja) 仍在重塑音乐”。核心要点：首次亮相五十年后，伊莱亚拉贾仍然是印度电影界最著名的作曲家之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 11:32:51 GMT",
-        "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 06 Jun 2026 22:27:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cm2pldw8x9zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "撒哈拉沙漠卡车抛锚近50人渴死",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“撒哈拉沙漠卡车抛锚近50人渴死”。核心要点：在长途跋涉 50 多公里（30 英里）穿越沙漠向当局报警后，只有两人幸存。",
+        "titleZh": "为在被占领的约旦河西岸被以色列军队枪杀的婴儿举行葬礼",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“为在被占领的约旦河西岸被以色列军队枪杀的婴儿举行葬礼”。核心要点：七个月大男孩的尸体裹着巴勒斯坦国旗，由父亲抬到墓地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 05 Jun 2026 16:00:47 GMT",
-        "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 06 Jun 2026 19:57:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
