@@ -1,145 +1,145 @@
 {
-  "updatedAt": "2026-06-10T05:48:00.246Z",
+  "updatedAt": "2026-06-11T06:04:43.288Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Post-TIPS Dynamics of von Willebrand Factor for Risk Stratification After TIPS Placement.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "title": "Metabolic and bariatric surgery in MAFLD: a meta-analysis of endocrine outcomes, fibrosis remission, and postoperative complications.",
+        "journal": "Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery",
         "pubDate": "2026 Jul",
-        "studyType": "Journal Article",
-        "authors": "Hintersteininger M, Gairing SJ, Kirsch K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（TIPS）放置用于治疗门脉高压并发症。 临床提示：本研究旨在评估 TIPS 放置后血管性血友病因子抗原 (VWF) 动态的预后价值。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) placement is used to treat complications of portal hypertension. This study aimed to evaluate the prognostic value of von Willebrand factor antigen (VWF) dynamics following TIPS placement. Patients with TIPS placement at the Medical University of Vienna (2018-2025) and University Medical Center Mainz (2022-2025) with available VWF at baseline (BL) were included. Patients from both cohorts with available VWF after 3 months (M3) were included in the combined longitudinal cohort (CLC). Meaningful VWF decrease (VWF-Response) was defined as a relative VWF change (ΔVWF) of at least -5% at M3. Patients were stratified by presence of VWF-Response ...",
-        "pmid": "42261128",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42261128/",
-        "doiUrl": "https://doi.org/10.1111/liv.70736",
-        "url": "https://doi.org/10.1111/liv.70736"
+        "studyType": "Journal Article / Review",
+        "authors": "Kopanos S, Hoyer A, Stoye FV",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 904）。核心观点：代谢功能障碍相关的脂肪肝（MAFLD）在代谢和减肥手术的候选者中越来越常见，但定义手术何时有益或禁忌的临床阈值仍不清楚。 临床提示：减肥手术与肝脏和内分泌的显着改善相关，脂肪性肝炎的汇总缓解率为 70%，纤维化的缓解率为 57%，2 型糖尿病的缓解率为 59%。",
+        "abstract": "Metabolic dysfunction-associated fatty liver disease (MAFLD) is increasingly common among candidates for metabolic and bariatric surgery, yet clinical thresholds defining when surgery is beneficial or contraindicated remain unclear. This systematic review and meta-analysis synthesized evidence from 29 studies including 71,904 patients with biopsy-confirmed or elastography-confirmed MAFLD undergoing sleeve gastrectomy, Roux-en-Y gastric bypass, or other metabolic procedures. Bariatric surgery was associated with marked hepatic and endocrine improvement, with pooled remission rates of 70% for steatohepatitis, 57% for fibrosis, and 59% for type 2 diabetes. Both sleeve gastrectomy and Roux-en-Y ...",
+        "pmid": "42000228",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42000228/",
+        "doiUrl": "https://doi.org/10.1016/j.soard.2026.03.020",
+        "url": "https://doi.org/10.1016/j.soard.2026.03.020"
       },
       {
-        "title": "Correlation of Grade of Esophageal Varices with Thrombocytopenia in Patients with Liver Cirrhosis.",
-        "journal": "Annals of African medicine",
+        "title": "Alpha 2A adrenergic receptor antagonism reduces fibrosis, inflammation and portal hypertension in models of chronic liver disease.",
+        "journal": "JHEP reports : innovation in hepatology",
         "pubDate": "2026 Jun 9",
         "studyType": "Journal Article",
-        "authors": "Kaur K, Brar HS",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：食管静脉曲张（EV）是肝硬化患者门静脉高压的主要后果，并且由于静脉曲张出血的风险而与大量发病率和死亡率相关。 临床提示：血小板减少症常见于肝硬化，并已被研究作为预测 EV 的存在和严重程度的潜在非侵入性标志物。",
-        "abstract": "Esophageal varices (EVs) are a major consequence of portal hypertension in patients with liver cirrhosis and are associated with substantial morbidity and mortality due to the risk of variceal hemorrhage. Early recognition of patients at increased risk for advanced varices is essential for preventing life-threatening bleeding. Thrombocytopenia is commonly observed in cirrhosis and has been investigated as a potential noninvasive marker for predicting the presence and severity of EVs. The objective of this study was to determine the correlation between platelet count and the grade of EVs in patients with liver cirrhosis. This hospital-based cross-sectional study was conducted in the Departmen...",
-        "pmid": "42262360",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42262360/",
-        "doiUrl": "https://doi.org/10.4103/aam.aam_145_26",
-        "url": "https://doi.org/10.4103/aam.aam_145_26"
+        "authors": "Thomsen KL, Sharma V, Jones H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 14）。核心观点：交感神经系统过度活跃与肝病进展和门静脉高压的发生有关，影响全身炎症。 临床提示：本研究探讨了交感神经信号传导 α 2a 肾上腺素受体 (ADRA2a) 的作用及其对肝星状细胞 (HSC) 激活的拮抗作用，这是实验代谢中纤维化进展的关键事件",
+        "abstract": "Sympathetic nervous system over-activity is associated with liver disease progression and development of portal hypertension, influencing systemic inflammation. This study examined the role of the sympathetic-signalling alpha 2a adrenergic receptor (ADRA2a) and its antagonism on hepatic stellate cell (HSC) activation, as a key event in fibrosis progression in experimental metabolic dysfunction-associated steatohepatitis (MASH) and portal pressure elevation in a cirrhotic-rat model. An established bile duct ligation (BDL)-induced cirrhosis model (n=14) assessed ADRA2a's influence on portal hypertension by acute treatment with two different ADRA2a antagonists (BRL44408 and Yohimbine). Human (h...",
+        "pmid": "42264035",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42264035/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101922",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.101922"
       },
       {
-        "title": "Tricuspid regurgitation predicts mortality after liver transplantation in patients with high MELD score: A retrospective cohort study.",
-        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
-        "pubDate": "2026 Jun 8",
+        "title": "Vascular Disease Patient Information Page: Portal vein thrombosis.",
+        "journal": "Vascular medicine (London, England)",
+        "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Cailes BC, Huber EL, Brick CR",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 1031）。核心观点：先前的研究表明，终末期肝病模型评分较高可能会影响三尖瓣反流与术后死亡率之间的关系。 临床提示：三尖瓣反流和肺动脉收缩压可能导致肝移植术后的发病率和死亡率。",
-        "abstract": "Tricuspid regurgitation and pulmonary artery systolic pressure may contribute to post-operative morbidity and mortality in liver transplantation. Previous studies suggest that a high Model for End-Stage Liver Disease score may influence the relationship between tricuspid regurgitation and post-operative mortality. Adult patients undergoing liver transplantation workup between 2010 and 2023 were included in this retrospective observational cohort study. Patients with significant portopulmonary hypertension were excluded. Transthoracic echocardiograms were completed pre-transplant and patients were followed up for one year post-operatively. 1031 patients (median MELD score 17, IQR 12-23) under...",
-        "pmid": "42263219",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42263219/",
-        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000921",
-        "url": "https://doi.org/10.1097/LVT.0000000000000921"
+        "authors": "Bedrouni W, Carlin S, Solomon AL",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：血管疾病患者信息页面：门静脉血栓形成。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42267765",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42267765/",
+        "doiUrl": "https://doi.org/10.1177/1358863X261446869",
+        "url": "https://doi.org/10.1177/1358863X261446869"
       },
       {
-        "title": "Mac-2 binding protein glycosylation isomer contributes to identify advanced Fontan-associated liver disease: A retrospective cohort study.",
-        "journal": "Medicine",
-        "pubDate": "2026 Jun 5",
-        "studyType": "Journal Article",
-        "authors": "Kitsugi K, Hosoda Y, Murohisa G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：据报道，几种非侵入性评估在评估 Fontan 相关肝病 (FALD) 中肝纤维化的有效性。 临床提示：然而，尚无研究报道 Mac-2 结合蛋白糖基化异构体 (M2BPGi) 在 FALD 中的作用。",
-        "abstract": "The usefulness of several noninvasive assessments for evaluating liver fibrosis has been reported in Fontan-associated liver disease (FALD). However, no studies have reported on the usefulness of Mac-2 binding protein glycosylation isomer (M2BPGi) in FALD. Here, we investigated the usefulness of M2BPGi in identifying advanced FALD. This retrospective study included patients diagnosed with FALD. Based on the clinical signs of portal hypertension, we defined advanced FALD as a varices, ascites, splenomegaly, and thrombocytopenia (VAST) score ≥ 2, and we compared the cardiac parameters, liver parameters, and serological fibrosis markers, including M2BPGi. The Mann-Whitney U and Fisher exact tes...",
-        "pmid": "42260893",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42260893/",
-        "doiUrl": "https://doi.org/10.1097/MD.0000000000049224",
-        "url": "https://doi.org/10.1097/MD.0000000000049224"
+        "title": "Pulmonary Arterial Hypertension Associated With Calcitonin Gene-Related Peptide Antagonist Therapy for Migraine: A Case Series.",
+        "journal": "Chest",
+        "pubDate": "2026 Jun",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Lu K, Barros LM, Murinova N",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：然而，人类 CGRP 通路抑制的心肺风险尚未得到系统研究。 临床提示：降钙素基因相关肽（CGRP）靶向疗法是偏头痛领域的最新进展。",
+        "abstract": "Calcitonin gene-related peptide (CGRP)-targeted therapies are a recent addition to the migraine field. Monoclonal antibodies became available in 2018 and gepants in 2020, both now widely used for migraine prevention and acute treatment. CGRP is also a potent endogenous pulmonary vasodilator, and its blockade worsens pulmonary hypertension in experimental models. Yet the cardiopulmonary risks of CGRP pathway inhibition in humans have not been studied systematically. We report 3 patients with hemodynamically confirmed pulmonary arterial hypertension (PAH) diagnosed while they were receiving CGRP-targeted therapy. Two patients lacked traditional PAH risk factors; the third patient had suspected...",
+        "pmid": "42264575",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42264575/",
+        "doiUrl": "https://doi.org/10.1016/j.chest.2025.12.032",
+        "url": "https://doi.org/10.1016/j.chest.2025.12.032"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "缅甸境内，武装分子正在节节败退，军队将男子编入军队",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“缅甸境内，武装分子正在节节败退，军队将男子编入军队”。核心要点：BBC 随叛乱分子前往缅甸前线阵地，了解战争的进展情况。",
+        "titleZh": "美国和伊朗连续第二天在中东地区交锋",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗连续第二天在中东地区交锋”。核心要点：美国对伊朗南部的军事目标进行打击。德黑兰的回应是瞄准美国在科威特、巴林和约旦的军事资产。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 21:13:17 GMT",
-        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 11 Jun 2026 05:15:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国因军用直升机被击落而袭击伊朗",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国因军用直升机被击落而袭击伊朗”。核心要点：美国总统唐纳德·特朗普早些时候指责伊朗在霍尔木兹海峡击落美国直升机，并誓言做出回应。",
+        "titleZh": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨”。核心要点：消费者越来越感受到美以战争在伊朗带来的压力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 05:29:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 11 Jun 2026 00:02:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "声称坎耶·维斯特掐死她的模特告诉 BBC，她感到“窒息和害怕”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“声称坎耶·维斯特掐死她的模特告诉 BBC，她感到“窒息和害怕””。核心要点：韦斯特声称，在音乐录影带中的遭遇是“挑衅性戏剧表演”的一部分。",
+        "titleZh": "印度航空171号航班坠毁原因引发激烈争论",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“印度航空171号航班坠毁原因引发激烈争论”。核心要点：调查的最终结论尚未公布，但未来几天可能会公布更多结论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 05:02:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 10 Jun 2026 23:10:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "全球最大芯片制造商不排除因成本增加而涨价",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“全球最大芯片制造商不排除因成本增加而涨价”。核心要点：在一次罕见的采访中，台积电的一位高管讨论了人工智能的繁荣、芯片的地缘政治及其对电子产品价格的影响。",
+        "titleZh": "美国称在阿曼湾击中油轮后三名印度水手失踪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国称在阿曼湾击中油轮后三名印度水手失踪”。核心要点：印度政府表示，阿曼海岸附近的塞特贝洛号遭遇袭击，造成 3 名印度水手失踪，21 名船员获救。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 22:00:24 GMT",
-        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 10 Jun 2026 17:48:54 GMT",
+        "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尽管伊朗警告停止袭击，以色列仍对黎巴嫩城市提尔发动空袭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尽管伊朗警告停止袭击，以色列仍对黎巴嫩城市提尔发动空袭”。核心要点：伊朗周一警告以色列，如果不停止对其黎巴嫩盟友真主党的袭击，伊朗可能会恢复敌对行动。",
+        "titleZh": "一名珠穆朗玛峰向导的奇迹生还给旅游业带来了疑问",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“一名珠穆朗玛峰向导的奇迹生还给旅游业带来了疑问”。核心要点：为什么厨师要带领顾客登上世界最高峰？为什么留下他来拯救自己？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 17:47:41 GMT",
-        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 10 Jun 2026 22:17:09 GMT",
+        "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "全球最大芯片制造商不排除因成本增加而涨价",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“全球最大芯片制造商不排除因成本增加而涨价”。核心要点：在一次罕见的采访中，台积电的一位高管讨论了人工智能的繁荣、芯片的地缘政治及其对电子产品价格的影响。",
+        "titleZh": "迈克·阿什利 (Mike Ashley) 旗下辉盛集团 (Frasers) 出价 17.3 亿英镑收购 Hugo Boss 的全部股份",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“迈克·阿什利 (Mike Ashley) 旗下辉盛集团 (Frasers) 出价 17.3 亿英镑收购 Hugo Boss 的全部股份”。核心要点：该零售集团已拥有该德国时尚品牌四分之一以上的股份，但希望收购其余股份。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 22:00:24 GMT",
-        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 10 Jun 2026 23:04:46 GMT",
+        "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如何享受世界杯——并让你的老板站在一边",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“如何享受世界杯——并让你的老板站在一边”。核心要点：球迷和老板分享他们平衡深夜开球和第二天工作的策略。",
+        "titleZh": "印度航空171号航班坠毁原因引发激烈争论",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“印度航空171号航班坠毁原因引发激烈争论”。核心要点：调查的最终结论尚未公布，但未来几天可能会公布更多结论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 23:03:08 GMT",
-        "url": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 10 Jun 2026 23:10:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "比尔债务飙升，但许多人不知道可以获得帮助",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“比尔债务飙升，但许多人不知道可以获得帮助”。核心要点：支出监管机构表示，大多数付款人并不知道水费和宽带的特殊关税。",
+        "titleZh": "商务大臣表示，我会否决英国科技巨头的海外出售",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“商务大臣表示，我会否决英国科技巨头的海外出售”。核心要点：彼得·凯尔发表此番言论之际，政府正在制定如何支持英国科技公司。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 23:03:32 GMT",
-        "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 10 Jun 2026 23:01:38 GMT",
+        "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Beauty Pie LED面膜广告因误导性抗皱声称被禁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Beauty Pie LED面膜广告因误导性抗皱声称被禁”。核心要点：广告监管机构发现，该面膜“没有经过临床证明可以在四个星期内减少皱纹”。",
+        "titleZh": "审判中的社交媒体：四个值得关注的重要案件",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“审判中的社交媒体：四个值得关注的重要案件”。核心要点：社交媒体公司面临数千起诉讼，英国广播公司 (BBC) 调查了四起可能影响重大的诉讼。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 23:03:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 11 Jun 2026 05:02:29 GMT",
+        "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人工智能工具版本“对公众来说太强大”向公众发布",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能工具版本“对公众来说太强大”向公众发布”。核心要点：Claude Fable 5 是 Anthropic 的 Claude Mythos 的一个版本，这是一个在技术、金融和政府领导人中引起轰动的人工智能程序。",
+        "titleZh": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨”。核心要点：消费者越来越感受到美以战争在伊朗带来的压力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 09 Jun 2026 18:35:59 GMT",
-        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 11 Jun 2026 00:02:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
