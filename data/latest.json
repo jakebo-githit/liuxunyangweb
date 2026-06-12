@@ -1,106 +1,165 @@
 {
-  "updatedAt": "2026-06-11T06:04:43.288Z",
+  "updatedAt": "2026-06-12T06:00:25.251Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Drugs to Slow Progression of Chronic Kidney Disease: It's a Whole New World!",
+        "journal": "Kidney & blood pressure research",
+        "pubDate": "2026 Jun 10",
+        "studyType": "Journal Article / Review",
+        "authors": "Schoonmaker JA, Bhasin-Chhabra B, Abow Alkhier A",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：肾素-血管紧张素-醛固酮系统 (RAAS) 阻滞剂仍然是基础药物，现在由钠-葡萄糖协同转运蛋白 2 抑制剂 (SGLT2i)、非甾体类药物进行补充... 临床提示：慢性肾病 (CKD) 影响着美国约 14% 的成年人和全球约 10% 的成年人，并且仍然是一个主要的公共卫生问题。",
+        "abstract": "Chronic kidney disease (CKD) affects approximately 14% of adults in the United States and about 10% worldwide and remains a major public health concern. Diabetes and hypertension are the leading causes of CKD and contribute to progressive nephron loss through disturbances in glomerular hemodynamics and filtration barrier, tubular and vascular function, and pathways of inflammation and fibrosis. Over the past two decades, an expanding set of therapeutic interventions has been developed that target key mechanisms of CKD progression. Renin-angiotensin-aldosterone system (RAAS) blockers remain foundational and are now complemented by sodium-glucose cotransporter-2 inhibitors (SGLT2i), non-steroi...",
+        "pmid": "42268775",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42268775/",
+        "doiUrl": "https://doi.org/10.1159/000552776",
+        "url": "https://doi.org/10.1159/000552776"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Metabolic and bariatric surgery in MAFLD: a meta-analysis of endocrine outcomes, fibrosis remission, and postoperative complications.",
-        "journal": "Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery",
+        "title": "Portosystemic shunt creation in hepatic malignancies: Evaluation of risk for pulmonary metastasis development and progression.",
+        "journal": "Clinical imaging",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Hegde K, Iqbal S, Zoppo C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：鉴于 TIPS/DIPS 后血管破裂和新的门脉直接流出至心脏，应考虑术后肺转移的风险。 临床提示：如果患者出现难治性或危及生命的症状，可以考虑进行经颈静脉肝内门体分流术（TIPS）或直接肝内门静脉分流术（DIPS）。",
+        "abstract": "Portal hypertension is a prognostically unfavorable complication in settings of hepatic malignancy. A transjugular intrahepatic portosystemic shunt (TIPS), or a direct intrahepatic portocaval shunt (DIPS), may be considered if a patient develops refractory or life-threatening symptoms. Given blood vessel disruption and new portal outflow directly to the heart after TIPS/DIPS, the risk of post-procedure pulmonary metastasis should be considered. This study evaluates the safety and efficacy of portosystemic shunt creation in patients with hepatic malignancy and the incidence of pulmonary metastases. In this retrospective study, data were collected on patients with hepatic malignancy who underw...",
+        "pmid": "42190470",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42190470/",
+        "doiUrl": "https://doi.org/10.1016/j.clinimag.2026.110842",
+        "url": "https://doi.org/10.1016/j.clinimag.2026.110842"
+      },
+      {
+        "title": "Pre-TIPS Liver and Spleen Volumetry Are Not Associated With Liver-Related Outcomes After TIPS Placement for Refractory Ascites.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
         "pubDate": "2026 Jul",
-        "studyType": "Journal Article / Review",
-        "authors": "Kopanos S, Hoyer A, Stoye FV",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 904）。核心观点：代谢功能障碍相关的脂肪肝（MAFLD）在代谢和减肥手术的候选者中越来越常见，但定义手术何时有益或禁忌的临床阈值仍不清楚。 临床提示：减肥手术与肝脏和内分泌的显着改善相关，脂肪性肝炎的汇总缓解率为 70%，纤维化的缓解率为 57%，2 型糖尿病的缓解率为 59%。",
-        "abstract": "Metabolic dysfunction-associated fatty liver disease (MAFLD) is increasingly common among candidates for metabolic and bariatric surgery, yet clinical thresholds defining when surgery is beneficial or contraindicated remain unclear. This systematic review and meta-analysis synthesized evidence from 29 studies including 71,904 patients with biopsy-confirmed or elastography-confirmed MAFLD undergoing sleeve gastrectomy, Roux-en-Y gastric bypass, or other metabolic procedures. Bariatric surgery was associated with marked hepatic and endocrine improvement, with pooled remission rates of 70% for steatohepatitis, 57% for fibrosis, and 59% for type 2 diabetes. Both sleeve gastrectomy and Roux-en-Y ...",
-        "pmid": "42000228",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42000228/",
-        "doiUrl": "https://doi.org/10.1016/j.soard.2026.03.020",
-        "url": "https://doi.org/10.1016/j.soard.2026.03.020"
+        "studyType": "Journal Article",
+        "authors": "Bedoya JU, Wagner M, Malézieux E",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝脏容量测定可以预测肝手术前的结果，但有关其在 TIPS 放置前的作用的数据很少。 临床提示：我们的目的是评估肝脏和脾脏体积测量是否与腹水患者放置 TIPS 后的预后相关。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) improves survival in refractory ascites. A careful patient's selection is mandatory as TIPS can lead to complications. Liver volumetry is predictive of outcomes before hepatic surgery, but data on its role before TIPS placement are scarce. We aimed to evaluate whether liver and spleen volume measurements are associated with prognosis after TIPS placement in patients with ascites. We analysed data from three French centers, treated with TIPS between 2017 and February 2022. Inclusion criteria encompassed a TIPS placement for refractory or recurrent ascites and availability of cross-sectional imaging. Exclusion criteria included non-cirrhotic...",
+        "pmid": "42274093",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42274093/",
+        "doiUrl": "https://doi.org/10.1111/liv.70691",
+        "url": "https://doi.org/10.1111/liv.70691"
       },
       {
-        "title": "Alpha 2A adrenergic receptor antagonism reduces fibrosis, inflammation and portal hypertension in models of chronic liver disease.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Jun 9",
+        "title": "Reframing portal vein thrombosis in cirrhosis: A metabolic-endothelial disease beyond Virchow's triad.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 Jun 11",
         "studyType": "Journal Article",
-        "authors": "Thomsen KL, Sharma V, Jones H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 14）。核心观点：交感神经系统过度活跃与肝病进展和门静脉高压的发生有关，影响全身炎症。 临床提示：本研究探讨了交感神经信号传导 α 2a 肾上腺素受体 (ADRA2a) 的作用及其对肝星状细胞 (HSC) 激活的拮抗作用，这是实验代谢中纤维化进展的关键事件",
-        "abstract": "Sympathetic nervous system over-activity is associated with liver disease progression and development of portal hypertension, influencing systemic inflammation. This study examined the role of the sympathetic-signalling alpha 2a adrenergic receptor (ADRA2a) and its antagonism on hepatic stellate cell (HSC) activation, as a key event in fibrosis progression in experimental metabolic dysfunction-associated steatohepatitis (MASH) and portal pressure elevation in a cirrhotic-rat model. An established bile duct ligation (BDL)-induced cirrhosis model (n=14) assessed ADRA2a's influence on portal hypertension by acute treatment with two different ADRA2a antagonists (BRL44408 and Yohimbine). Human (h...",
-        "pmid": "42264035",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42264035/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101922",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.101922"
-      },
-      {
-        "title": "Vascular Disease Patient Information Page: Portal vein thrombosis.",
-        "journal": "Vascular medicine (London, England)",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article",
-        "authors": "Bedrouni W, Carlin S, Solomon AL",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：血管疾病患者信息页面：门静脉血栓形成。",
+        "authors": "Beydaş Ö",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：重新定义肝硬化门静脉血栓形成：一种超出 Virchow 三联征的代谢内皮疾病。",
         "abstract": "No abstract available from PubMed.",
-        "pmid": "42267765",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42267765/",
-        "doiUrl": "https://doi.org/10.1177/1358863X261446869",
-        "url": "https://doi.org/10.1177/1358863X261446869"
+        "pmid": "42276324",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42276324/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102249",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102249"
       },
       {
-        "title": "Pulmonary Arterial Hypertension Associated With Calcitonin Gene-Related Peptide Antagonist Therapy for Migraine: A Case Series.",
-        "journal": "Chest",
-        "pubDate": "2026 Jun",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Lu K, Barros LM, Murinova N",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：然而，人类 CGRP 通路抑制的心肺风险尚未得到系统研究。 临床提示：降钙素基因相关肽（CGRP）靶向疗法是偏头痛领域的最新进展。",
-        "abstract": "Calcitonin gene-related peptide (CGRP)-targeted therapies are a recent addition to the migraine field. Monoclonal antibodies became available in 2018 and gepants in 2020, both now widely used for migraine prevention and acute treatment. CGRP is also a potent endogenous pulmonary vasodilator, and its blockade worsens pulmonary hypertension in experimental models. Yet the cardiopulmonary risks of CGRP pathway inhibition in humans have not been studied systematically. We report 3 patients with hemodynamically confirmed pulmonary arterial hypertension (PAH) diagnosed while they were receiving CGRP-targeted therapy. Two patients lacked traditional PAH risk factors; the third patient had suspected...",
-        "pmid": "42264575",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42264575/",
-        "doiUrl": "https://doi.org/10.1016/j.chest.2025.12.032",
-        "url": "https://doi.org/10.1016/j.chest.2025.12.032"
+        "title": "Hepatic venous pressure gradient, non-invasive tests, and prognosis across the subtypes of advanced steatotic liver disease.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "pubDate": "2026 Jun 11",
+        "studyType": "Journal Article",
+        "authors": "Hofer BS, Shalaby S, Kwanten W",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 696）。核心观点：脂肪性肝病（SLD）包括代谢功能障碍相关性肝病（MASLD）、酒精相关性肝病（ALD）和混合型肝病（MetALD）。 临床提示：我们研究了不同 SLD 亚型代偿性晚期慢性肝病 (cACLD) 的病程、具有临床意义的门脉高压 (CSPH) 的影响以及无创检测 (NIT) 的作用。",
+        "abstract": "Steatotic liver disease (SLD) encompasses metabolic dysfunction-associated liver disease (MASLD), alcohol-related liver disease (ALD), and a mixed type (MetALD). We investigated the course of compensated advanced chronic liver disease (cACLD) across SLD subtypes, the impact of clinically significant portal hypertension (CSPH), and the role of non-invasive tests (NITs). This study included SLD patients with cACLD from 17 centers undergoing hepatic venous pressure gradient (HVPG) and NIT assessment through December 2023. Primary outcomes were first hepatic decompensation and liver-related mortality. Among 696 patients (ALD 22%, MetALD 20%, MASLD 58%), 94% had Child-Pugh A, and 60% had CSPH. Ov...",
+        "pmid": "42276315",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42276315/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.05.033",
+        "url": "https://doi.org/10.1016/j.cgh.2026.05.033"
+      },
+      {
+        "title": "Evolution of liver disease severity and portal hypertension during REP 2139-Mg treatment in 3 patients with chronic hepatitis D : Case reports.",
+        "journal": "Wiener klinische Wochenschrift",
+        "pubDate": "2026 Jun 11",
+        "studyType": "Journal Article",
+        "authors": "Jachs M, Schwarz M, Mandorfer M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：REP 2139-Mg 的使用是一种新颖的治疗选择，最近在 2 期试验和同情访问计划中证明了有效性和安全性，该计划包括在维也纳总医院接受补偿的晚期慢性肝病的三名患者 临床提示：对于对布列韦肽±聚乙二醇化干扰素推荐治疗没有反应的患者，慢性丁型肝炎 (CHD) 的治疗选择有限。",
+        "abstract": "Treatment options for chronic hepatitis D (CHD) are limited in patients who do not respond to recommended treatment with bulevirtide ± pegylated interferon. The use of REP 2139-Mg is a novel treatment option that has recently demonstrated efficacy and safety in phase 2 trials and a compassionate access program that included three patients treated at the Vienna General Hospital with compensated advanced chronic liver disease and clinically significant portal hypertension (CSPH). Long-term outcome of CSPH patients treated with REP 2139-Mg is unknown; thus, surrogate endpoints are of interest in this population. In the 3 patients receiving REP 2139-Mg for 12 months at our center, we monitored t...",
+        "pmid": "42274764",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42274764/",
+        "doiUrl": "https://doi.org/10.1007/s00508-026-02748-2",
+        "url": "https://doi.org/10.1007/s00508-026-02748-2"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国和伊朗连续第二天在中东地区交锋",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗连续第二天在中东地区交锋”。核心要点：美国对伊朗南部的军事目标进行打击。德黑兰的回应是瞄准美国在科威特、巴林和约旦的军事资产。",
+        "titleZh": "特朗普声称结束伊朗战争的协议即将达成，但德黑兰表示“没有任何敲定”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普声称结束伊朗战争的协议即将达成，但德黑兰表示“没有任何敲定””。核心要点：美国总统表示，结束冲突的“伟大解决方案”已经达成。伊朗表示，有关达成协议的报道是“推测性的”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 05:15:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 05:53:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨”。核心要点：消费者越来越感受到美以战争在伊朗带来的压力。",
+        "titleZh": "随波逐流还是故意？ - 解读特朗普的伊朗战略",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随波逐流还是故意？ - 解读特朗普的伊朗战略”。核心要点：英国广播公司 (BBC) 的加里·奥多诺霍 (Gary O'Donoghue) 探讨了美国总统关于战争及其引发的问题的复杂信息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 00:02:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 11 Jun 2026 20:22:16 GMT",
+        "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度航空171号航班坠毁原因引发激烈争论",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印度航空171号航班坠毁原因引发激烈争论”。核心要点：调查的最终结论尚未公布，但未来几天可能会公布更多结论。",
+        "titleZh": "泰国公主Bajrakitiyabha在昏迷三年多后去世",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国公主Bajrakitiyabha在昏迷三年多后去世”。核心要点：国王的长女 Bajrakitiyabha 公主于 2022 年 12 月在遛狗时晕倒。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 23:10:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 00:45:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国称在阿曼湾击中油轮后三名印度水手失踪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国称在阿曼湾击中油轮后三名印度水手失踪”。核心要点：印度政府表示，阿曼海岸附近的塞特贝洛号遭遇袭击，造成 3 名印度水手失踪，21 名船员获救。",
+        "titleZh": "为什么经济因素让这届世界杯成为史上最疯狂的世界杯",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么经济因素让这届世界杯成为史上最疯狂的世界杯”。核心要点：从贸易战到飞涨的票价，2026 年世界杯与以往任何一届世界杯都不同。费萨尔·伊斯兰 (Faisal Islam) 探讨了本次锦标赛揭示的不断变化的全球经济。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 17:48:54 GMT",
-        "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 11 Jun 2026 23:07:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一名珠穆朗玛峰向导的奇迹生还给旅游业带来了疑问",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“一名珠穆朗玛峰向导的奇迹生还给旅游业带来了疑问”。核心要点：为什么厨师要带领顾客登上世界最高峰？为什么留下他来拯救自己？",
+        "titleZh": "“他们摧毁了未来”：巴勒斯坦人对以色列在东耶路撒冷的拆除行为感到愤怒",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““他们摧毁了未来”：巴勒斯坦人对以色列在东耶路撒冷的拆除行为感到愤怒”。核心要点：在被占领的东耶路撒冷，巴勒斯坦人的房屋正在被拆除，为公园让路。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 22:17:09 GMT",
-        "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 05:01:48 GMT",
+        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 在全球最大规模的股市上市前筹集了 750 亿美元资金",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克 (Elon Musk) 的 SpaceX 在全球最大规模的股市上市前筹集了 750 亿美元资金”。核心要点：此次公开出售也有望使埃隆·马斯克成为世界上第一位万亿富翁。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 11 Jun 2026 23:30:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "为什么经济因素让这届世界杯成为史上最疯狂的世界杯",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么经济因素让这届世界杯成为史上最疯狂的世界杯”。核心要点：从贸易战到飞涨的票价，2026 年世界杯与以往任何一届世界杯都不同。费萨尔·伊斯兰 (Faisal Islam) 探讨了本次锦标赛揭示的不断变化的全球经济。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 11 Jun 2026 23:07:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "我的朋友总是想平摊账单，我该如何拒绝呢？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我的朋友总是想平摊账单，我该如何拒绝呢？”。核心要点：当其他食客说“我们来分吧！”时，开口说话绝非易事。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 11 Jun 2026 23:00:29 GMT",
+        "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "瑞安航空因向父母收取与孩子坐在一起的费用而被调查",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“瑞安航空因向父母收取与孩子坐在一起的费用而被调查”。核心要点：英国竞争监管机构正在调查该航空公司对坐在孩子旁边的父母收取的费用。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 11 Jun 2026 16:58:39 GMT",
+        "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "迈克·阿什利 (Mike Ashley) 旗下辉盛集团 (Frasers) 出价 17.3 亿英镑收购 Hugo Boss 的全部股份",
         "summaryZh": "这是一条金融市场新闻，重点围绕“迈克·阿什利 (Mike Ashley) 旗下辉盛集团 (Frasers) 出价 17.3 亿英镑收购 Hugo Boss 的全部股份”。核心要点：该零售集团已拥有该德国时尚品牌四分之一以上的股份，但希望收购其余股份。",
@@ -108,38 +167,6 @@
         "sourceLang": "English",
         "publishedAt": "Wed, 10 Jun 2026 23:04:46 GMT",
         "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "印度航空171号航班坠毁原因引发激烈争论",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“印度航空171号航班坠毁原因引发激烈争论”。核心要点：调查的最终结论尚未公布，但未来几天可能会公布更多结论。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 23:10:11 GMT",
-        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "商务大臣表示，我会否决英国科技巨头的海外出售",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“商务大臣表示，我会否决英国科技巨头的海外出售”。核心要点：彼得·凯尔发表此番言论之际，政府正在制定如何支持英国科技公司。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 23:01:38 GMT",
-        "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "审判中的社交媒体：四个值得关注的重要案件",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“审判中的社交媒体：四个值得关注的重要案件”。核心要点：社交媒体公司面临数千起诉讼，英国广播公司 (BBC) 调查了四起可能影响重大的诉讼。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 05:02:29 GMT",
-        "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普表示他“喜欢通货膨胀”，因为美国物价以三年来最快的速度上涨”。核心要点：消费者越来越感受到美以战争在伊朗带来的压力。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 00:02:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
