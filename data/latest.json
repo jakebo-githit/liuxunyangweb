@@ -1,140 +1,150 @@
 {
-  "updatedAt": "2026-06-12T06:00:25.251Z",
+  "updatedAt": "2026-06-13T05:45:57.519Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Drugs to Slow Progression of Chronic Kidney Disease: It's a Whole New World!",
-        "journal": "Kidney & blood pressure research",
-        "pubDate": "2026 Jun 10",
-        "studyType": "Journal Article / Review",
-        "authors": "Schoonmaker JA, Bhasin-Chhabra B, Abow Alkhier A",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：肾素-血管紧张素-醛固酮系统 (RAAS) 阻滞剂仍然是基础药物，现在由钠-葡萄糖协同转运蛋白 2 抑制剂 (SGLT2i)、非甾体类药物进行补充... 临床提示：慢性肾病 (CKD) 影响着美国约 14% 的成年人和全球约 10% 的成年人，并且仍然是一个主要的公共卫生问题。",
-        "abstract": "Chronic kidney disease (CKD) affects approximately 14% of adults in the United States and about 10% worldwide and remains a major public health concern. Diabetes and hypertension are the leading causes of CKD and contribute to progressive nephron loss through disturbances in glomerular hemodynamics and filtration barrier, tubular and vascular function, and pathways of inflammation and fibrosis. Over the past two decades, an expanding set of therapeutic interventions has been developed that target key mechanisms of CKD progression. Renin-angiotensin-aldosterone system (RAAS) blockers remain foundational and are now complemented by sodium-glucose cotransporter-2 inhibitors (SGLT2i), non-steroi...",
-        "pmid": "42268775",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42268775/",
-        "doiUrl": "https://doi.org/10.1159/000552776",
-        "url": "https://doi.org/10.1159/000552776"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Portosystemic shunt creation in hepatic malignancies: Evaluation of risk for pulmonary metastasis development and progression.",
-        "journal": "Clinical imaging",
-        "pubDate": "2026 Aug",
+        "title": "Correlation of clinical and pathologic characteristics in Mexican patients with porto-sinusoidal vascular disease.",
+        "journal": "Revista de gastroenterologia de Mexico (English)",
+        "pubDate": "2026 Jun 12",
         "studyType": "Journal Article",
-        "authors": "Hegde K, Iqbal S, Zoppo C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：鉴于 TIPS/DIPS 后血管破裂和新的门脉直接流出至心脏，应考虑术后肺转移的风险。 临床提示：如果患者出现难治性或危及生命的症状，可以考虑进行经颈静脉肝内门体分流术（TIPS）或直接肝内门静脉分流术（DIPS）。",
-        "abstract": "Portal hypertension is a prognostically unfavorable complication in settings of hepatic malignancy. A transjugular intrahepatic portosystemic shunt (TIPS), or a direct intrahepatic portocaval shunt (DIPS), may be considered if a patient develops refractory or life-threatening symptoms. Given blood vessel disruption and new portal outflow directly to the heart after TIPS/DIPS, the risk of post-procedure pulmonary metastasis should be considered. This study evaluates the safety and efficacy of portosystemic shunt creation in patients with hepatic malignancy and the incidence of pulmonary metastases. In this retrospective study, data were collected on patients with hepatic malignancy who underw...",
-        "pmid": "42190470",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42190470/",
-        "doiUrl": "https://doi.org/10.1016/j.clinimag.2026.110842",
-        "url": "https://doi.org/10.1016/j.clinimag.2026.110842"
+        "authors": "Cordova-Gallardo J, Vargas-Beltrán AM, Bastida-Castro LA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门窦血管疾病（PSVD）是一种罕见的疾病，其特征是肝脏微血管改变和非肝硬化性门脉高压。 临床提示：它最近的重新定义包括患有和不患有门静脉高压的患者，即使同时存在肝病。",
+        "abstract": "Porto-sinusoidal vascular disease (PSVD) is an uncommon disorder characterized by hepatic microvascular alterations and noncirrhotic portal hypertension. Its recent redefinition includes patients with and without portal hypertension, even in the presence of concomitant liver disease. The present study aimed to correlate the clinical, radiologic, and histopathologic findings in Mexican patients with PSVD and identify key diagnostic challenges. A retrospective study was conducted on ten patients diagnosed with PSVD according to updated criteria, in whom liver biopsy showed no cirrhosis. Clinical, laboratory, imaging, and histopathologic data were collected. Upper gastrointestinal bleeding was ...",
+        "pmid": "42285869",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42285869/",
+        "doiUrl": "https://doi.org/10.1016/j.rgmxen.2026.06.002",
+        "url": "https://doi.org/10.1016/j.rgmxen.2026.06.002"
       },
       {
-        "title": "Pre-TIPS Liver and Spleen Volumetry Are Not Associated With Liver-Related Outcomes After TIPS Placement for Refractory Ascites.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Jul",
-        "studyType": "Journal Article",
-        "authors": "Bedoya JU, Wagner M, Malézieux E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝脏容量测定可以预测肝手术前的结果，但有关其在 TIPS 放置前的作用的数据很少。 临床提示：我们的目的是评估肝脏和脾脏体积测量是否与腹水患者放置 TIPS 后的预后相关。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) improves survival in refractory ascites. A careful patient's selection is mandatory as TIPS can lead to complications. Liver volumetry is predictive of outcomes before hepatic surgery, but data on its role before TIPS placement are scarce. We aimed to evaluate whether liver and spleen volume measurements are associated with prognosis after TIPS placement in patients with ascites. We analysed data from three French centers, treated with TIPS between 2017 and February 2022. Inclusion criteria encompassed a TIPS placement for refractory or recurrent ascites and availability of cross-sectional imaging. Exclusion criteria included non-cirrhotic...",
-        "pmid": "42274093",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42274093/",
-        "doiUrl": "https://doi.org/10.1111/liv.70691",
-        "url": "https://doi.org/10.1111/liv.70691"
-      },
-      {
-        "title": "Reframing portal vein thrombosis in cirrhosis: A metabolic-endothelial disease beyond Virchow's triad.",
+        "title": "Role of spot urine analyses in patients with cirrhosis and ascites as the single first decompensation event.",
         "journal": "Annals of hepatology",
-        "pubDate": "2026 Jun 11",
+        "pubDate": "2026 Jun 12",
         "studyType": "Journal Article",
-        "authors": "Beydaş Ö",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：重新定义肝硬化门静脉血栓形成：一种超出 Virchow 三联征的代谢内皮疾病。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42276324",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42276324/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102249",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102249"
+        "authors": "Balcars L, Wunderbaldinger A, Simonis L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评估了预测 180 天内复发性腹水的预后意义。 临床提示：因此，我们的目的是评估现场尿液参数在肝硬化腹水患者中的作用。",
+        "abstract": "Ascites is the most frequent complication in patients with cirrhosis. Although guidelines propose diuretic treatment monitoring through measuring spot urine sodium, data on its application in clinical care as well as its independent prognostic information are surprisingly scarce. We therefore aimed to evaluate the role of spot urine parameters in patients with cirrhosis and ascites. We analysed patients managed at the Medical University of Vienna between 2011 and 2024. Data on urine spot analyses were obtained within 30 days of first ascites development and longitudinally thereafter. The prognostic implication for predicting recurrent ascites within 180 days was evaluated. One-hundred and te...",
+        "pmid": "42285228",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42285228/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102248",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102248"
       },
       {
-        "title": "Hepatic venous pressure gradient, non-invasive tests, and prognosis across the subtypes of advanced steatotic liver disease.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "title": "Comprehensive review on the current management of upper-GI bleed.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
         "pubDate": "2026 Jun 11",
-        "studyType": "Journal Article",
-        "authors": "Hofer BS, Shalaby S, Kwanten W",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 696）。核心观点：脂肪性肝病（SLD）包括代谢功能障碍相关性肝病（MASLD）、酒精相关性肝病（ALD）和混合型肝病（MetALD）。 临床提示：我们研究了不同 SLD 亚型代偿性晚期慢性肝病 (cACLD) 的病程、具有临床意义的门脉高压 (CSPH) 的影响以及无创检测 (NIT) 的作用。",
-        "abstract": "Steatotic liver disease (SLD) encompasses metabolic dysfunction-associated liver disease (MASLD), alcohol-related liver disease (ALD), and a mixed type (MetALD). We investigated the course of compensated advanced chronic liver disease (cACLD) across SLD subtypes, the impact of clinically significant portal hypertension (CSPH), and the role of non-invasive tests (NITs). This study included SLD patients with cACLD from 17 centers undergoing hepatic venous pressure gradient (HVPG) and NIT assessment through December 2023. Primary outcomes were first hepatic decompensation and liver-related mortality. Among 696 patients (ALD 22%, MetALD 20%, MASLD 58%), 94% had Child-Pugh A, and 60% had CSPH. Ov...",
-        "pmid": "42276315",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42276315/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.05.033",
-        "url": "https://doi.org/10.1016/j.cgh.2026.05.033"
+        "studyType": "Journal Article / Review",
+        "authors": "Yadav A, Bayye R, Mahapatra SJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：内窥镜治疗、药物治疗和重症监护已取得显着进展，但结果似乎仍然存在差异，主要受潜在病因、合并症和干预时机的影响。 临床提示：上消化道出血可能表现为自限性出血至大量消化道出血，导致血流动力学不稳定和死亡。",
+        "abstract": "Upper gastrointestinal bleeding (UGIB) remains one of the common medical emergencies and a serious cause for morbidity and mortality worldwide. There have been significant advances in endoscopic therapy, pharmacological therapy and intensive care, but the outcome still seems to be variable and mainly influenced by the underlying etiology, comorbidities and timing of intervention. Vast regional differences exist in the epidemiological profile of UGIB in the Indian population. Upper GI bleed may manifest as self-limited bleeding to massive GI bleeding causing hemodynamic instability and mortality. The cornerstone of initial management includes early risk assessment, prompt resuscitation and ap...",
+        "pmid": "42270957",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42270957/",
+        "doiUrl": "https://doi.org/10.1007/s12664-026-02012-5",
+        "url": "https://doi.org/10.1007/s12664-026-02012-5"
       },
       {
-        "title": "Evolution of liver disease severity and portal hypertension during REP 2139-Mg treatment in 3 patients with chronic hepatitis D : Case reports.",
-        "journal": "Wiener klinische Wochenschrift",
-        "pubDate": "2026 Jun 11",
+        "title": "Portopulmonary hypertension and serum endothelin-1 levels in patients with liver cirrhosis.",
+        "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+        "pubDate": "2026 Jun 10",
         "studyType": "Journal Article",
-        "authors": "Jachs M, Schwarz M, Mandorfer M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：REP 2139-Mg 的使用是一种新颖的治疗选择，最近在 2 期试验和同情访问计划中证明了有效性和安全性，该计划包括在维也纳总医院接受补偿的晚期慢性肝病的三名患者 临床提示：对于对布列韦肽±聚乙二醇化干扰素推荐治疗没有反应的患者，慢性丁型肝炎 (CHD) 的治疗选择有限。",
-        "abstract": "Treatment options for chronic hepatitis D (CHD) are limited in patients who do not respond to recommended treatment with bulevirtide ± pegylated interferon. The use of REP 2139-Mg is a novel treatment option that has recently demonstrated efficacy and safety in phase 2 trials and a compassionate access program that included three patients treated at the Vienna General Hospital with compensated advanced chronic liver disease and clinically significant portal hypertension (CSPH). Long-term outcome of CSPH patients treated with REP 2139-Mg is unknown; thus, surrogate endpoints are of interest in this population. In the 3 patients receiving REP 2139-Mg for 12 months at our center, we monitored t...",
-        "pmid": "42274764",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42274764/",
-        "doiUrl": "https://doi.org/10.1007/s00508-026-02748-2",
-        "url": "https://doi.org/10.1007/s00508-026-02748-2"
+        "authors": "Pradhan A, Gupta A, Bajpai J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：大量证据表明内皮素-1 (ET-1) 在肺动脉高压病理生理学中的作用。 临床提示：此外，ET-1 作为门脉肺动脉高压 (POPH) 致病病理生理机制的作用一直受到关注。然而，缺乏令人满意的证据支持这一说法",
+        "abstract": "A broad body of evidence has accrued, demonstrating the role of endothelin-1 (ET-1) in the pathophysiology of pulmonary arterial hypertension. Furthermore, the role of ET-1 as a causative pathophysiological mechanism of portopulmonary hypertension (POPH) has been consistently implicated; however, there is a lack of satisfactory evidence supporting this assertion. Thus, the present study aims to determine the prevalence of POPH among patients with hepatic cirrhosis, determine the serum ET-1 levels among these patients, and investigate the association between ET-1 and POPH in subjects with hepatic cirrhosis. A prospective, observational study was conducted from September 2017 to August 2018. D...",
+        "pmid": "42274086",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42274086/",
+        "doiUrl": "https://doi.org/10.4081/monaldi.2026.3093",
+        "url": "https://doi.org/10.4081/monaldi.2026.3093"
+      },
+      {
+        "title": "Left Gastric Vein Anatomical Variation as a Determinant of Portal Vein Remodeling and Reconstructive Complexity in Infant Liver Transplantation.",
+        "journal": "Transplantation",
+        "pubDate": "2026 Jun 10",
+        "studyType": "Journal Article",
+        "authors": "Uchida H, Sakamoto S, Fujimoto T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 104）。核心观点：由于进行性 PV 发育不全和血流动力学改变，婴儿活体肝移植 (LDLT) 治疗胆道闭锁 (BA) 的门静脉 (PV) 重建在技术上具有挑战性。 临床提示：胃左静脉 (LGV) 流入的变化可能会影响 PV 形态和手术复杂性；然而，这种关系尚未得到系统评估。",
+        "abstract": "Portal vein (PV) reconstruction in infant living donor liver transplantation (LDLT) for biliary atresia (BA) is technically challenging because of progressive PV hypoplasia and altered hemodynamics. Variations in left gastric vein (LGV) inflow may influence the PV morphology and surgical complexity; however, this relationship has not been systematically evaluated. This single-center retrospective study included 104 infants (age <12 mo) who underwent LDLT for BA between April 2018 and September 2025. The LGV inflow type was classified intraoperatively as Trunk (termination into the main PV trunk), Confluence (termination at the superior mesenteric vein-splenic vein confluence), and SpV (termi...",
+        "pmid": "42269035",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42269035/",
+        "doiUrl": "https://doi.org/10.1097/TP.0000000000005796",
+        "url": "https://doi.org/10.1097/TP.0000000000005796"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普声称结束伊朗战争的协议即将达成，但德黑兰表示“没有任何敲定”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普声称结束伊朗战争的协议即将达成，但德黑兰表示“没有任何敲定””。核心要点：美国总统表示，结束冲突的“伟大解决方案”已经达成。伊朗表示，有关达成协议的报道是“推测性的”。",
+        "titleZh": "伊朗表示，结束战斗的协议将导致霍尔木兹重新开放",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗表示，结束战斗的协议将导致霍尔木兹重新开放”。核心要点：美国、伊朗和巴基斯坦调解人表示，这项将为结束敌对行动铺平道路的协议即将敲定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 05:53:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 13 Jun 2026 00:51:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随波逐流还是故意？ - 解读特朗普的伊朗战略",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随波逐流还是故意？ - 解读特朗普的伊朗战略”。核心要点：英国广播公司 (BBC) 的加里·奥多诺霍 (Gary O'Donoghue) 探讨了美国总统关于战争及其引发的问题的复杂信息。",
+        "titleZh": "埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升”。核心要点：根据彭博社富豪榜，马斯克目前的身价为 1.11 万亿美元，而 SpaceX 在纳斯达克证券交易所上市的市值为 2.2 万亿美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 20:22:16 GMT",
-        "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 22:00:52 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰国公主Bajrakitiyabha在昏迷三年多后去世",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国公主Bajrakitiyabha在昏迷三年多后去世”。核心要点：国王的长女 Bajrakitiyabha 公主于 2022 年 12 月在遛狗时晕倒。",
+        "titleZh": "法国小镇埋葬被害儿童，警方失职引发质疑",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国小镇埋葬被害儿童，警方失职引发质疑”。核心要点：杀害 11 岁莱哈娜的主要嫌疑人在九个月前向警方报案，但从未受到讯问。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 00:45:20 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 16:19:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么经济因素让这届世界杯成为史上最疯狂的世界杯",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么经济因素让这届世界杯成为史上最疯狂的世界杯”。核心要点：从贸易战到飞涨的票价，2026 年世界杯与以往任何一届世界杯都不同。费萨尔·伊斯兰 (Faisal Islam) 探讨了本次锦标赛揭示的不断变化的全球经济。",
+        "titleZh": "价值 120 万欧元珠宝的发现促使对西班牙前首相展开新调查",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“价值 120 万欧元珠宝的发现促使对西班牙前首相展开新调查”。核心要点：何塞·路易斯·罗德里格斯·萨帕特罗 (José Luis Rodriguez Zapatero) 涉嫌无法出示他为这些珠宝缴纳进口关税的证据。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 23:07:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
+        "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“他们摧毁了未来”：巴勒斯坦人对以色列在东耶路撒冷的拆除行为感到愤怒",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““他们摧毁了未来”：巴勒斯坦人对以色列在东耶路撒冷的拆除行为感到愤怒”。核心要点：在被占领的东耶路撒冷，巴勒斯坦人的房屋正在被拆除，为公园让路。",
+        "titleZh": "国际足联称球迷在大厅而不是座位上",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“国际足联称球迷在大厅而不是座位上”。核心要点：国际足联表示，在韩国队与捷克队之间的 A 组比赛中，观众席几乎全部售空，因为球迷们仍然留在大厅里，因此可以看到大量空座位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 05:01:48 GMT",
-        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
+        "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 在全球最大规模的股市上市前筹集了 750 亿美元资金",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克 (Elon Musk) 的 SpaceX 在全球最大规模的股市上市前筹集了 750 亿美元资金”。核心要点：此次公开出售也有望使埃隆·马斯克成为世界上第一位万亿富翁。",
+        "titleZh": "埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升”。核心要点：根据彭博社富豪榜，马斯克目前的身价为 1.11 万亿美元，而 SpaceX 在纳斯达克证券交易所上市的市值为 2.2 万亿美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 23:30:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 12 Jun 2026 22:00:52 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "英国誓言在新年之前逐步停止进口俄罗斯柴油和航空燃油",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国誓言在新年之前逐步停止进口俄罗斯柴油和航空燃油”。核心要点：由于与乌克兰的持续战争，该禁令是政府对莫斯科实施的一揽子制裁的一部分。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 12 Jun 2026 19:57:16 GMT",
+        "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“我是头号员工”：SpaceX 联合创始人对公司上市的反应",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我是头号员工”：SpaceX 联合创始人对公司上市的反应”。核心要点：BBC 的米歇尔·弗勒里 (Michelle Fleury) 采访了汤姆·穆勒 (Tom Mueller)，后者与埃隆·马斯克 (Elon Musk) 2002...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 12 Jun 2026 06:25:10 GMT",
+        "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "由于伊朗战争的影响，英国经济萎缩",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争的影响，英国经济萎缩”。核心要点：官方数据显示，随着伊朗战争开始对企业产生影响，四月份经济略有萎缩。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 12 Jun 2026 10:01:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "为什么经济因素让这届世界杯成为史上最疯狂的世界杯",
@@ -143,30 +153,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 11 Jun 2026 23:07:52 GMT",
         "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "我的朋友总是想平摊账单，我该如何拒绝呢？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我的朋友总是想平摊账单，我该如何拒绝呢？”。核心要点：当其他食客说“我们来分吧！”时，开口说话绝非易事。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 23:00:29 GMT",
-        "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "瑞安航空因向父母收取与孩子坐在一起的费用而被调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“瑞安航空因向父母收取与孩子坐在一起的费用而被调查”。核心要点：英国竞争监管机构正在调查该航空公司对坐在孩子旁边的父母收取的费用。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 16:58:39 GMT",
-        "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "迈克·阿什利 (Mike Ashley) 旗下辉盛集团 (Frasers) 出价 17.3 亿英镑收购 Hugo Boss 的全部股份",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“迈克·阿什利 (Mike Ashley) 旗下辉盛集团 (Frasers) 出价 17.3 亿英镑收购 Hugo Boss 的全部股份”。核心要点：该零售集团已拥有该德国时尚品牌四分之一以上的股份，但希望收购其余股份。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 10 Jun 2026 23:04:46 GMT",
-        "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
