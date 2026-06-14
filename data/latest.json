@@ -1,116 +1,91 @@
 {
-  "updatedAt": "2026-06-13T05:45:57.519Z",
+  "updatedAt": "2026-06-14T06:04:42.520Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Ultrasound-guided percutaneous renal biopsy: Free-hand versus puncture attachment.",
+        "journal": "The Journal of international medical research",
+        "pubDate": "2026 Jun",
+        "studyType": "Journal Article / Comparative Study",
+        "authors": "Lv Y, He G, Feng L",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 110）。核心观点：目的超声引导下经皮肾活检是肾脏疾病的常用诊断手段。 临床提示：两名患者在显微镜下未见肾小球，无法诊断...",
+        "abstract": "ObjectiveUltrasound-guided percutaneous renal biopsy is a common diagnostic tool for renal disease. This study investigated the safety and efficiency of free-hand and puncture attachment approaches for ultrasound-guided percutaneous renal biopsy.MethodsThis retrospective, single-center study included 110 patients who underwent ultrasound-guided percutaneous renal biopsy. The patients were divided into the free-hand or puncture attachment group, depending on whether a puncture attachment was used.ResultsThe number of glomeruli obtained in the free-hand group was similar to that in the puncture attachment group. Two patients had no glomeruli visible under the microscope and could not be diagno...",
+        "pmid": "42286857",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42286857/",
+        "doiUrl": "https://doi.org/10.1177/03000605261455146",
+        "url": "https://doi.org/10.1177/03000605261455146"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Correlation of clinical and pathologic characteristics in Mexican patients with porto-sinusoidal vascular disease.",
-        "journal": "Revista de gastroenterologia de Mexico (English)",
-        "pubDate": "2026 Jun 12",
+        "title": "Three-Dimensional Portal Vein Geometry Predicts Post-TIPS -Hepatic Encephalopathy and Variceal Rebleeding: A Multicenter Study.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Jul",
         "studyType": "Journal Article",
-        "authors": "Cordova-Gallardo J, Vargas-Beltrán AM, Bastida-Castro LA",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门窦血管疾病（PSVD）是一种罕见的疾病，其特征是肝脏微血管改变和非肝硬化性门脉高压。 临床提示：它最近的重新定义包括患有和不患有门静脉高压的患者，即使同时存在肝病。",
-        "abstract": "Porto-sinusoidal vascular disease (PSVD) is an uncommon disorder characterized by hepatic microvascular alterations and noncirrhotic portal hypertension. Its recent redefinition includes patients with and without portal hypertension, even in the presence of concomitant liver disease. The present study aimed to correlate the clinical, radiologic, and histopathologic findings in Mexican patients with PSVD and identify key diagnostic challenges. A retrospective study was conducted on ten patients diagnosed with PSVD according to updated criteria, in whom liver biopsy showed no cirrhosis. Clinical, laboratory, imaging, and histopathologic data were collected. Upper gastrointestinal bleeding was ...",
-        "pmid": "42285869",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42285869/",
-        "doiUrl": "https://doi.org/10.1016/j.rgmxen.2026.06.002",
-        "url": "https://doi.org/10.1016/j.rgmxen.2026.06.002"
+        "authors": "Wan S, Li J, Zhang X",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：TIPS 后明显肝性脑病 (OHE) 和静脉曲张再出血 (VRB) 仍然是严重的并发症，预测工具有限。 临床提示：本研究探讨了术前固有的三维门静脉几何形状 (3D-PVG) 是否可以作为接受经颈静脉肝内肝移植的患者 1 年 OHE 和 VRB 的独立预后生物标志物",
+        "abstract": "Post-TIPS overt hepatic encephalopathy (OHE) and variceal rebleeding (VRB) remain serious complications with limited predictive tools. This study investigates whether the inherent preoperative three-dimensional portal venous geometry (3D-PVG) serves as an independent prognostic biomarker for 1year OHE and VRB in patients undergoing transjugular intrahepatic portosystemic shunt (TIPS). In this multicenter retrospective study, 579 cirrhotic patients undergoing successful TIPS were enrolled. We extracted 3D-PVG features from routine computed tomography angiography (CTA) images before TIPS, quantifying bifurcation angles ('Near') and vessel segment tortuosity ('Far'). Cox regression identified p...",
+        "pmid": "42287031",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42287031/",
+        "doiUrl": "https://doi.org/10.1111/liv.70746",
+        "url": "https://doi.org/10.1111/liv.70746"
       },
       {
-        "title": "Role of spot urine analyses in patients with cirrhosis and ascites as the single first decompensation event.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Jun 12",
+        "title": "Impact of Breath Holding on Spleen Stiffness Measured by 100 Hz Vibration Controlled Transient Elastography.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Jul",
         "studyType": "Journal Article",
-        "authors": "Balcars L, Wunderbaldinger A, Simonis L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评估了预测 180 天内复发性腹水的预后意义。 临床提示：因此，我们的目的是评估现场尿液参数在肝硬化腹水患者中的作用。",
-        "abstract": "Ascites is the most frequent complication in patients with cirrhosis. Although guidelines propose diuretic treatment monitoring through measuring spot urine sodium, data on its application in clinical care as well as its independent prognostic information are surprisingly scarce. We therefore aimed to evaluate the role of spot urine parameters in patients with cirrhosis and ascites. We analysed patients managed at the Medical University of Vienna between 2011 and 2024. Data on urine spot analyses were obtained within 30 days of first ascites development and longitudinally thereafter. The prognostic implication for predicting recurrent ascites within 180 days was evaluated. One-hundred and te...",
-        "pmid": "42285228",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42285228/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102248",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102248"
-      },
-      {
-        "title": "Comprehensive review on the current management of upper-GI bleed.",
-        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
-        "pubDate": "2026 Jun 11",
-        "studyType": "Journal Article / Review",
-        "authors": "Yadav A, Bayye R, Mahapatra SJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：内窥镜治疗、药物治疗和重症监护已取得显着进展，但结果似乎仍然存在差异，主要受潜在病因、合并症和干预时机的影响。 临床提示：上消化道出血可能表现为自限性出血至大量消化道出血，导致血流动力学不稳定和死亡。",
-        "abstract": "Upper gastrointestinal bleeding (UGIB) remains one of the common medical emergencies and a serious cause for morbidity and mortality worldwide. There have been significant advances in endoscopic therapy, pharmacological therapy and intensive care, but the outcome still seems to be variable and mainly influenced by the underlying etiology, comorbidities and timing of intervention. Vast regional differences exist in the epidemiological profile of UGIB in the Indian population. Upper GI bleed may manifest as self-limited bleeding to massive GI bleeding causing hemodynamic instability and mortality. The cornerstone of initial management includes early risk assessment, prompt resuscitation and ap...",
-        "pmid": "42270957",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42270957/",
-        "doiUrl": "https://doi.org/10.1007/s12664-026-02012-5",
-        "url": "https://doi.org/10.1007/s12664-026-02012-5"
-      },
-      {
-        "title": "Portopulmonary hypertension and serum endothelin-1 levels in patients with liver cirrhosis.",
-        "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
-        "pubDate": "2026 Jun 10",
-        "studyType": "Journal Article",
-        "authors": "Pradhan A, Gupta A, Bajpai J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：大量证据表明内皮素-1 (ET-1) 在肺动脉高压病理生理学中的作用。 临床提示：此外，ET-1 作为门脉肺动脉高压 (POPH) 致病病理生理机制的作用一直受到关注。然而，缺乏令人满意的证据支持这一说法",
-        "abstract": "A broad body of evidence has accrued, demonstrating the role of endothelin-1 (ET-1) in the pathophysiology of pulmonary arterial hypertension. Furthermore, the role of ET-1 as a causative pathophysiological mechanism of portopulmonary hypertension (POPH) has been consistently implicated; however, there is a lack of satisfactory evidence supporting this assertion. Thus, the present study aims to determine the prevalence of POPH among patients with hepatic cirrhosis, determine the serum ET-1 levels among these patients, and investigate the association between ET-1 and POPH in subjects with hepatic cirrhosis. A prospective, observational study was conducted from September 2017 to August 2018. D...",
-        "pmid": "42274086",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42274086/",
-        "doiUrl": "https://doi.org/10.4081/monaldi.2026.3093",
-        "url": "https://doi.org/10.4081/monaldi.2026.3093"
-      },
-      {
-        "title": "Left Gastric Vein Anatomical Variation as a Determinant of Portal Vein Remodeling and Reconstructive Complexity in Infant Liver Transplantation.",
-        "journal": "Transplantation",
-        "pubDate": "2026 Jun 10",
-        "studyType": "Journal Article",
-        "authors": "Uchida H, Sakamoto S, Fujimoto T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 104）。核心观点：由于进行性 PV 发育不全和血流动力学改变，婴儿活体肝移植 (LDLT) 治疗胆道闭锁 (BA) 的门静脉 (PV) 重建在技术上具有挑战性。 临床提示：胃左静脉 (LGV) 流入的变化可能会影响 PV 形态和手术复杂性；然而，这种关系尚未得到系统评估。",
-        "abstract": "Portal vein (PV) reconstruction in infant living donor liver transplantation (LDLT) for biliary atresia (BA) is technically challenging because of progressive PV hypoplasia and altered hemodynamics. Variations in left gastric vein (LGV) inflow may influence the PV morphology and surgical complexity; however, this relationship has not been systematically evaluated. This single-center retrospective study included 104 infants (age <12 mo) who underwent LDLT for BA between April 2018 and September 2025. The LGV inflow type was classified intraoperatively as Trunk (termination into the main PV trunk), Confluence (termination at the superior mesenteric vein-splenic vein confluence), and SpV (termi...",
-        "pmid": "42269035",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42269035/",
-        "doiUrl": "https://doi.org/10.1097/TP.0000000000005796",
-        "url": "https://doi.org/10.1097/TP.0000000000005796"
+        "authors": "Atzori S, Meloni P, Arru M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：基于超声的脾硬度测量 (SSM) 是评估慢性肝病门脉高压 (PH) 的有效非侵入性工具。 临床提示：尽管呼吸相在肝脏硬度测量过程中的作用已经确定，但没有研究专门探讨呼吸如何通过瞬态弹性成像影响 SSM。",
+        "abstract": "Ultrasound-based spleen stiffness measurement (SSM) is a valid non-invasive tool to assess portal hypertension (PH) in chronic liver disease. Whereas the role of the respiratory phase during liver stiffness measurements is established, no study has specifically addressed how respiration influences SSM by transient elastography. To evaluate the influence of respiration on SSM assessed with FibroScan 630 (Echosens, Paris, France). Eighty-three patients with chronic liver disease of different aetiologies underwent SSM using vibration-controlled transient elastography (VCTE). SSM acquired during a normal respiratory cycle showed better diagnostic accuracy than measurements obtained during breath...",
+        "pmid": "42287016",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42287016/",
+        "doiUrl": "https://doi.org/10.1111/liv.70714",
+        "url": "https://doi.org/10.1111/liv.70714"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗表示，结束战斗的协议将导致霍尔木兹重新开放",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗表示，结束战斗的协议将导致霍尔木兹重新开放”。核心要点：美国、伊朗和巴基斯坦调解人表示，这项将为结束敌对行动铺平道路的协议即将敲定。",
+        "titleZh": "特朗普称美伊协议将于周日签署，德黑兰对时机表示怀疑",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称美伊协议将于周日签署，德黑兰对时机表示怀疑”。核心要点：美国总统发表上述言论之际，伊朗表示，具体日期尚未确定，但“不会是明天”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 13 Jun 2026 00:51:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 05:41:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升”。核心要点：根据彭博社富豪榜，马斯克目前的身价为 1.11 万亿美元，而 SpaceX 在纳斯达克证券交易所上市的市值为 2.2 万亿美元。",
+        "titleZh": "瑞士就人口限制在1000万的计划进行投票",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞士就人口限制在1000万的计划进行投票”。核心要点：右翼瑞士人民党称该计划为“可持续发展倡议”，但反对者称这会引发混乱。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 22:00:52 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 05:36:24 GMT",
+        "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国小镇埋葬被害儿童，警方失职引发质疑",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国小镇埋葬被害儿童，警方失职引发质疑”。核心要点：杀害 11 岁莱哈娜的主要嫌疑人在九个月前向警方报案，但从未受到讯问。",
+        "titleZh": "俄罗斯家庭利用人工智能“复活”在乌克兰遇害的亲人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯家庭利用人工智能“复活”在乌克兰遇害的亲人”。核心要点：这一备受争议的趋势出现在俄罗斯对乌克兰的战争、新的人工智能技术和悲伤的交汇点上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 16:19:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 13 Jun 2026 23:19:52 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "价值 120 万欧元珠宝的发现促使对西班牙前首相展开新调查",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“价值 120 万欧元珠宝的发现促使对西班牙前首相展开新调查”。核心要点：何塞·路易斯·罗德里格斯·萨帕特罗 (José Luis Rodriguez Zapatero) 涉嫌无法出示他为这些珠宝缴纳进口关税的证据。",
+        "titleZh": "纽约尼克斯队 50 多年来首次夺得 NBA 总冠军",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“纽约尼克斯队 50 多年来首次夺得 NBA 总冠军”。核心要点：在七场四胜制系列赛的第五场比赛中，尼克斯队以 94-90 战胜圣安东尼奥马刺队，夺得冠军。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
-        "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 04:59:01 GMT",
+        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "国际足联称球迷在大厅而不是座位上",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“国际足联称球迷在大厅而不是座位上”。核心要点：国际足联表示，在韩国队与捷克队之间的 A 组比赛中，观众席几乎全部售空，因为球迷们仍然留在大厅里，因此可以看到大量空座位。",
+        "titleZh": "尼日利亚作家指责医院拖延对她儿子死亡的审查",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚作家指责医院拖延对她儿子死亡的审查”。核心要点：Chimamanda Ngozi Adichie 21 个月大的儿子在拉各斯一家医院去世，她说这家医院正试图阻止对他死因的调查。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
-        "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 01:08:20 GMT",
+        "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
