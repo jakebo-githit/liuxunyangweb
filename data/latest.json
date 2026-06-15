@@ -1,133 +1,92 @@
 {
-  "updatedAt": "2026-06-14T06:04:42.520Z",
+  "updatedAt": "2026-06-15T06:37:33.319Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Ultrasound-guided percutaneous renal biopsy: Free-hand versus puncture attachment.",
-        "journal": "The Journal of international medical research",
-        "pubDate": "2026 Jun",
-        "studyType": "Journal Article / Comparative Study",
-        "authors": "Lv Y, He G, Feng L",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 110）。核心观点：目的超声引导下经皮肾活检是肾脏疾病的常用诊断手段。 临床提示：两名患者在显微镜下未见肾小球，无法诊断...",
-        "abstract": "ObjectiveUltrasound-guided percutaneous renal biopsy is a common diagnostic tool for renal disease. This study investigated the safety and efficiency of free-hand and puncture attachment approaches for ultrasound-guided percutaneous renal biopsy.MethodsThis retrospective, single-center study included 110 patients who underwent ultrasound-guided percutaneous renal biopsy. The patients were divided into the free-hand or puncture attachment group, depending on whether a puncture attachment was used.ResultsThe number of glomeruli obtained in the free-hand group was similar to that in the puncture attachment group. Two patients had no glomeruli visible under the microscope and could not be diagno...",
-        "pmid": "42286857",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42286857/",
-        "doiUrl": "https://doi.org/10.1177/03000605261455146",
-        "url": "https://doi.org/10.1177/03000605261455146"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "Three-Dimensional Portal Vein Geometry Predicts Post-TIPS -Hepatic Encephalopathy and Variceal Rebleeding: A Multicenter Study.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Jul",
-        "studyType": "Journal Article",
-        "authors": "Wan S, Li J, Zhang X",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：TIPS 后明显肝性脑病 (OHE) 和静脉曲张再出血 (VRB) 仍然是严重的并发症，预测工具有限。 临床提示：本研究探讨了术前固有的三维门静脉几何形状 (3D-PVG) 是否可以作为接受经颈静脉肝内肝移植的患者 1 年 OHE 和 VRB 的独立预后生物标志物",
-        "abstract": "Post-TIPS overt hepatic encephalopathy (OHE) and variceal rebleeding (VRB) remain serious complications with limited predictive tools. This study investigates whether the inherent preoperative three-dimensional portal venous geometry (3D-PVG) serves as an independent prognostic biomarker for 1year OHE and VRB in patients undergoing transjugular intrahepatic portosystemic shunt (TIPS). In this multicenter retrospective study, 579 cirrhotic patients undergoing successful TIPS were enrolled. We extracted 3D-PVG features from routine computed tomography angiography (CTA) images before TIPS, quantifying bifurcation angles ('Near') and vessel segment tortuosity ('Far'). Cox regression identified p...",
-        "pmid": "42287031",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42287031/",
-        "doiUrl": "https://doi.org/10.1111/liv.70746",
-        "url": "https://doi.org/10.1111/liv.70746"
-      },
-      {
-        "title": "Impact of Breath Holding on Spleen Stiffness Measured by 100 Hz Vibration Controlled Transient Elastography.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Jul",
-        "studyType": "Journal Article",
-        "authors": "Atzori S, Meloni P, Arru M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：基于超声的脾硬度测量 (SSM) 是评估慢性肝病门脉高压 (PH) 的有效非侵入性工具。 临床提示：尽管呼吸相在肝脏硬度测量过程中的作用已经确定，但没有研究专门探讨呼吸如何通过瞬态弹性成像影响 SSM。",
-        "abstract": "Ultrasound-based spleen stiffness measurement (SSM) is a valid non-invasive tool to assess portal hypertension (PH) in chronic liver disease. Whereas the role of the respiratory phase during liver stiffness measurements is established, no study has specifically addressed how respiration influences SSM by transient elastography. To evaluate the influence of respiration on SSM assessed with FibroScan 630 (Echosens, Paris, France). Eighty-three patients with chronic liver disease of different aetiologies underwent SSM using vibration-controlled transient elastography (VCTE). SSM acquired during a normal respiratory cycle showed better diagnostic accuracy than measurements obtained during breath...",
-        "pmid": "42287016",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42287016/",
-        "doiUrl": "https://doi.org/10.1111/liv.70714",
-        "url": "https://doi.org/10.1111/liv.70714"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普称美伊协议将于周日签署，德黑兰对时机表示怀疑",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称美伊协议将于周日签署，德黑兰对时机表示怀疑”。核心要点：美国总统发表上述言论之际，伊朗表示，具体日期尚未确定，但“不会是明天”。",
+        "titleZh": "特朗普宣布与伊朗达成协议，但问题和风险依然存在",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普宣布与伊朗达成协议，但问题和风险依然存在”。核心要点：伊朗协议的宣布对总统来说是一份受欢迎的生日礼物，但其成败可能取决于细节。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 05:41:07 GMT",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 15 Jun 2026 02:41:25 GMT",
+        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "瑞士就人口限制在1000万的计划进行投票",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞士就人口限制在1000万的计划进行投票”。核心要点：右翼瑞士人民党称该计划为“可持续发展倡议”，但反对者称这会引发混乱。",
+        "titleZh": "尚不清楚美伊协议是否会给黎巴嫩带来喘息之机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“尚不清楚美伊协议是否会给黎巴嫩带来喘息之机”。核心要点：巴基斯坦表示，该协议包括黎巴嫩，但黎巴嫩最近的停火未能落实。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 05:36:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 15 Jun 2026 01:37:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯家庭利用人工智能“复活”在乌克兰遇害的亲人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯家庭利用人工智能“复活”在乌克兰遇害的亲人”。核心要点：这一备受争议的趋势出现在俄罗斯对乌克兰的战争、新的人工智能技术和悲伤的交汇点上。",
+        "titleZh": "美伊协议宣布后油价下跌",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊协议宣布后油价下跌”。核心要点：美国总统唐纳德·特朗普表示，根据协议，重要的霍尔木兹海峡航道将重新开放。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 13 Jun 2026 23:19:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 15 Jun 2026 06:31:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "纽约尼克斯队 50 多年来首次夺得 NBA 总冠军",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“纽约尼克斯队 50 多年来首次夺得 NBA 总冠军”。核心要点：在七场四胜制系列赛的第五场比赛中，尼克斯队以 94-90 战胜圣安东尼奥马刺队，夺得冠军。",
+        "titleZh": "官员称，俄罗斯空袭导致乌克兰九人死亡，历史悠久的大教堂受损",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，俄罗斯空袭导致乌克兰九人死亡，历史悠久的大教堂受损”。核心要点：乌克兰无人机袭击了莫斯科以南的俄罗斯城市图拉，造成三人死亡、三人受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 04:59:01 GMT",
-        "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 15 Jun 2026 04:08:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尼日利亚作家指责医院拖延对她儿子死亡的审查",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚作家指责医院拖延对她儿子死亡的审查”。核心要点：Chimamanda Ngozi Adichie 21 个月大的儿子在拉各斯一家医院去世，她说这家医院正试图阻止对他死因的调查。",
+        "titleZh": "瑞士选民拒绝接受1000万人口上限",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞士选民拒绝接受1000万人口上限”。核心要点：结果显示，近 55% 的参与者投票反对通过减少移民来限制人口的提案。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 01:08:20 GMT",
-        "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 18:23:52 GMT",
+        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“埃隆·马斯克 (Elon Musk) 成为全球首位万亿富翁，SpaceX 首次上市股价飙升”。核心要点：根据彭博社富豪榜，马斯克目前的身价为 1.11 万亿美元，而 SpaceX 在纳斯达克证券交易所上市的市值为 2.2 万亿美元。",
+        "titleZh": "美伊协议宣布后油价下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊协议宣布后油价下跌”。核心要点：美国总统唐纳德·特朗普表示，根据协议，重要的霍尔木兹海峡航道将重新开放。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 22:00:52 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 15 Jun 2026 06:31:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国誓言在新年之前逐步停止进口俄罗斯柴油和航空燃油",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国誓言在新年之前逐步停止进口俄罗斯柴油和航空燃油”。核心要点：由于与乌克兰的持续战争，该禁令是政府对莫斯科实施的一揽子制裁的一部分。",
+        "titleZh": "数百万人可以获得账单折扣 - 方法如下",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“数百万人可以获得账单折扣 - 方法如下”。核心要点：较低的社会关税使许多领取福利的人能够以更便宜的价格获得水、宽带和电话服务。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 19:57:16 GMT",
-        "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 23:25:30 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我是头号员工”：SpaceX 联合创始人对公司上市的反应",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我是头号员工”：SpaceX 联合创始人对公司上市的反应”。核心要点：BBC 的米歇尔·弗勒里 (Michelle Fleury) 采访了汤姆·穆勒 (Tom Mueller)，后者与埃隆·马斯克 (Elon Musk) 2002...",
+        "titleZh": "诈骗者利用人工智能瞄准人群，诈骗数量激增",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“诈骗者利用人工智能瞄准人群，诈骗数量激增”。核心要点：英国平均每分钟报告近八起盗窃钱财的欺诈案件。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 06:25:10 GMT",
-        "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 23:25:15 GMT",
+        "url": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于伊朗战争的影响，英国经济萎缩",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于伊朗战争的影响，英国经济萎缩”。核心要点：官方数据显示，随着伊朗战争开始对企业产生影响，四月份经济略有萎缩。",
+        "titleZh": "敞篷车正在驶入日落吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“敞篷车正在驶入日落吗？”。核心要点：英国司机对这款 SUV 青睐有加，但敞篷车的命运能否逆转？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 12 Jun 2026 10:01:11 GMT",
-        "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 23:25:00 GMT",
+        "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么经济因素让这届世界杯成为史上最疯狂的世界杯",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么经济因素让这届世界杯成为史上最疯狂的世界杯”。核心要点：从贸易战到飞涨的票价，2026 年世界杯与以往任何一届世界杯都不同。费萨尔·伊斯兰 (Faisal Islam) 探讨了本次锦标赛揭示的不断变化的全球经济。",
+        "titleZh": "英国电动汽车销售目标将被削弱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国电动汽车销售目标将被削弱”。核心要点：据英国广播公司了解，新目标尚未确定，正在考虑不同的数字。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 11 Jun 2026 23:07:52 GMT",
-        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 14 Jun 2026 17:56:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
