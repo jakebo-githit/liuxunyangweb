@@ -1,92 +1,158 @@
 {
-  "updatedAt": "2026-06-15T06:37:33.319Z",
+  "updatedAt": "2026-06-16T06:42:43.741Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Gun-sight technique for recanalization of chronic noncirrhotic, nonmalignant extrahepatic portal vein obstruction.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Sep",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Leite TFO, Nunes TF, Gonçalves B",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：由非肝硬化肝外门静脉血栓形成引起的门静脉高压是一种罕见的原因，与门静脉高压并发症相关的发病率和死亡率很高。 临床提示：门静脉再通是一种旨在恢复肝血流的技术，然而，其可行性可能受到闭塞复杂性的限制。",
+        "abstract": "Portal hypertension resulting from thrombosis of the noncirrhotic extrahepatic portal vein is a rare cause with high morbidity and mortality related to complications of portal hypertension. Portal vein recanalization is a technique aimed at restoring hepatic blood flow, however, its viability may be limited by the complexity of the occlusion. This case report describes a portal vein recanalization using the gun-sight technique, which involves placing loops in the intrahepatic and extrahepatic portal veins to serve as targets for percutaneous needle advancement after failure of portal vein recanalization via conventional access. Percutaneous portal vein recanalization with transsplenic and tr...",
+        "pmid": "42293480",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42293480/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.05.045",
+        "url": "https://doi.org/10.1016/j.radcr.2026.05.045"
+      },
+      {
+        "title": "Limited association between liver stiffness and clinical outcomes in Fontan-associated liver disease: a retrospective analysis.",
+        "journal": "International journal of cardiology. Congenital heart disease",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article",
+        "authors": "Cai L, Choudhary P, Tanous D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：常规监测包括瞬时弹性成像 (TE) 和临床评估，但 Fontan 相关肝病 (FALD) 的纵向数据很少。 临床提示：Fontan 手术是针对单心室生理患者的姑息手术。",
+        "abstract": "The Fontan procedure is a palliative operation for patients with univentricular physiology. Liver complications post-surgery are inevitable and include liver cirrhosis and hepatocellular carcinoma (HCC). Routine surveillance includes transient elastography (TE) and clinical assessment, however longitudinal data on Fontan-associated liver disease (FALD) is scarce. This study aimed to describe the evolution of FALD and assess the correlation between liver stiffness measurement (LSM) and hepatic decompensation. This retrospective case series comprised all adult post-Fontan patients presenting to a tertiary hospital between January 2015 and December 2024. Demographic and clinical information, se...",
+        "pmid": "42293360",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42293360/",
+        "doiUrl": "https://doi.org/10.1016/j.ijcchd.2026.100685",
+        "url": "https://doi.org/10.1016/j.ijcchd.2026.100685"
+      },
+      {
+        "title": "Clinical Outcomes of Terlipressin Using Continuous Infusion Versus Bolus in Patients With Acute Variceal Hemorrhage-A Randomized Controlled Trial.",
+        "journal": "Journal of clinical gastroenterology",
+        "pubDate": "2026 Jul 1",
+        "studyType": "Journal Article / Randomized Controlled Trial / Comparative Study",
+        "authors": "Abid S, Butt N, Qasim C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：比较特利加压素连续输注与推注输注治疗急性静脉曲张出血的临床结果。 临床提示：特利加压素常用于治疗急性静脉曲张出血，但关于最佳给药方法（连续输注与间歇推注）的证据有限。",
+        "abstract": "To compare clinical outcomes of terlipressin as continuous versus bolus infusion for the management of acute variceal hemorrhage. Terlipressin is commonly used in the management of acute variceal bleeding, but evidence on the optimal method of administration-continuous infusion versus intermittent bolus-is limited. Patients presented with acute variceal bleeding were randomized into 2 arms: the intervention arm and the control arm received continuous and bolus infusion of terlipressin, respectively. Clinical endpoints included in-hospital mortality, 6-week mortality, the length of hospital stay, rebleeding and transfusion rates, and adverse events. Hemodynamic outcomes included were stabilit...",
+        "pmid": "41264338",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41264338/",
+        "doiUrl": "https://doi.org/10.1097/MCG.0000000000002287",
+        "url": "https://doi.org/10.1097/MCG.0000000000002287"
+      },
+      {
+        "title": "Model-informed dose optimization of carvedilol and nebivolol in cirrhotic patients: a pilot randomized clinical study.",
+        "journal": "Scientific reports",
+        "pubDate": "2026 Jun 16",
+        "studyType": "Journal Article / Randomized Controlled Trial",
+        "authors": "Tarek M, Ali AA, Biomy R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 44）。核心观点：在门静脉高压和动脉高压存在的情况下，肝硬化会导致生理和药代动力学改变，使抗高血压治疗变得复杂。 临床提示：本研究评估了 PBPK 指导下的卡维地洛和奈必洛尔给药方案对肝硬化患者的疗效和安全性。",
+        "abstract": "Liver cirrhosis causes physiological and pharmacokinetic alterations that complicate antihypertensive therapy, in the presence of portal and arterial hypertension. This study evaluated the efficacy and safety of PBPK-guided dosing of carvedilol and nebivolol in cirrhotic patients. First, PBPK models were validated using clinical pharmacokinetic data from healthy volunteers and optimized for cirrhosis, then applied to simulate untested cirrhotic populations and estimate unbound plasma exposure across disease stages. Second, a prospective, open-label, parallel randomized pilot study enrolled 44 cirrhotic patients (Child-Pugh; CP-A or B) with arterial hypertension, who received PBPK-guided dose...",
+        "pmid": "42297946",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42297946/",
+        "doiUrl": "https://doi.org/10.1038/s41598-026-56578-3",
+        "url": "https://doi.org/10.1038/s41598-026-56578-3"
+      },
+      {
+        "title": "Characterization of liver disease regression in murine models of liver fibrosis and portal hypertension.",
+        "journal": "Scientific reports",
+        "pubDate": "2026 Jun 14",
+        "studyType": "Journal Article",
+        "authors": "Königshofer P, Brusilovskaya K, Hofer BS",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：患病模型（8wTAA/12wTAA/8wCCl 4 /12wCCl 4 ）表现出明显的纤维化（CPA：3.03/3.87/8.5... 临床提示：毒素诱导的肝病消退小鼠模型的表征，重点是检测纤维化和门脉高压 (PH) 消退过程中合适的治疗窗口。",
+        "abstract": "Characterization of toxin-induced mouse models of regressive liver disease, focusing on the detecting of a suitable therapeutic window during fibrosis and portal hypertension (PH) regression. C57BL/6JRj mice were studied when exposed to thioacetamide (TAA) or carbon tetrachloride (CCl 4 ) for 8 or 12 weeks (8w/12w) and after one/two (+R1/+R2) week(s) of TAA/CCl 4 -free regression. Healthy controls received NaCl or olive oil (OO). Primary readouts included liver fibrosis (collagen proportionate area, CPA), portal pressure (PP), serum transaminases and hepatic fibrosis-related gene expression. The diseased models (8wTAA/12wTAA/8wCCl 4 /12wCCl 4 ) showed significant fibrosis (CPA: 3.03/3.87/8.5...",
+        "pmid": "42289450",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42289450/",
+        "doiUrl": "https://doi.org/10.1038/s41598-026-54627-5",
+        "url": "https://doi.org/10.1038/s41598-026-54627-5"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普宣布与伊朗达成协议，但问题和风险依然存在",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普宣布与伊朗达成协议，但问题和风险依然存在”。核心要点：伊朗协议的宣布对总统来说是一份受欢迎的生日礼物，但其成败可能取决于细节。",
+        "titleZh": "万斯表示，特朗普可能会在周五之前公布美伊协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“万斯表示，特朗普可能会在周五之前公布美伊协议”。核心要点：美国副总统表示，该协议“大约一页半”且“非常笼统”，这意味着许多细节将在稍后制定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 15 Jun 2026 02:41:25 GMT",
-        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 16 Jun 2026 06:16:09 GMT",
+        "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尚不清楚美伊协议是否会给黎巴嫩带来喘息之机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尚不清楚美伊协议是否会给黎巴嫩带来喘息之机”。核心要点：巴基斯坦表示，该协议包括黎巴嫩，但黎巴嫩最近的停火未能落实。",
+        "titleZh": "伊朗协议给内塔尼亚胡带来了政治噩梦",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗协议给内塔尼亚胡带来了政治噩梦”。核心要点：唐纳德·特朗普与伊朗的停火协议使以色列总理陷入了新的政治和安全困境。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 15 Jun 2026 01:37:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 16 Jun 2026 03:40:36 GMT",
+        "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美伊协议宣布后油价下跌",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊协议宣布后油价下跌”。核心要点：美国总统唐纳德·特朗普表示，根据协议，重要的霍尔木兹海峡航道将重新开放。",
+        "titleZh": "美国空军 B-52 轰炸机在加利福尼亚州坠毁，八人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国空军 B-52 轰炸机在加利福尼亚州坠毁，八人死亡”。核心要点：该事件发生在周一早上，当时飞机正在进行例行测试任务。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 15 Jun 2026 06:31:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 16 Jun 2026 01:49:03 GMT",
+        "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "官员称，俄罗斯空袭导致乌克兰九人死亡，历史悠久的大教堂受损",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，俄罗斯空袭导致乌克兰九人死亡，历史悠久的大教堂受损”。核心要点：乌克兰无人机袭击了莫斯科以南的俄罗斯城市图拉，造成三人死亡、三人受伤。",
+        "titleZh": "日本将利率提高至1995年以来最高水平",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“日本将利率提高至1995年以来最高水平”。核心要点：自 2024 年以来，日本央行一直在接近于零的水平上调利率。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 15 Jun 2026 04:08:58 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 16 Jun 2026 05:35:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "瑞士选民拒绝接受1000万人口上限",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞士选民拒绝接受1000万人口上限”。核心要点：结果显示，近 55% 的参与者投票反对通过减少移民来限制人口的提案。",
+        "titleZh": "加州州长加文·纽瑟姆声称司法部正在调查他的妻子和前工作人员",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加州州长加文·纽瑟姆声称司法部正在调查他的妻子和前工作人员”。核心要点：一位熟悉调查的消息人士称，调查已经持续了“大约一年”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 18:23:52 GMT",
-        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 15 Jun 2026 23:06:58 GMT",
+        "url": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "美伊协议宣布后油价下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊协议宣布后油价下跌”。核心要点：美国总统唐纳德·特朗普表示，根据协议，重要的霍尔木兹海峡航道将重新开放。",
+        "titleZh": "政府反对救援协议后，泰晤士水务公司距离国有化又近了一步",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“政府反对救援协议后，泰晤士水务公司距离国有化又近了一步”。核心要点：一位政府发言人告诉英国广播公司，目前的优惠“在保护消费者或环境方面做得不够”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 15 Jun 2026 06:31:32 GMT",
+        "publishedAt": "Tue, 16 Jun 2026 06:26:11 GMT",
+        "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "日本将利率提高至1995年以来最高水平",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“日本将利率提高至1995年以来最高水平”。核心要点：自 2024 年以来，日本央行一直在接近于零的水平上调利率。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 16 Jun 2026 05:35:57 GMT",
+        "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "美伊协议将如何影响油价和食品成本？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊协议将如何影响油价和食品成本？”。核心要点：专家警告称，战争的影响将在未来几个月继续影响全球经济。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 15 Jun 2026 15:20:09 GMT",
+        "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "SpaceX IPO筹集资金比想象的多100亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“SpaceX IPO筹集资金比想象的多100亿美元”。核心要点：该公司的上市筹集了 875 亿美元，而最初预计为 750 亿美元。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 15 Jun 2026 21:15:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cgrk21wnvy9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "美伊协议宣布后油价下跌，股价上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美伊协议宣布后油价下跌，股价上涨”。核心要点：美国总统唐纳德·特朗普表示，根据协议，重要的霍尔木兹海峡航道将重新开放。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 15 Jun 2026 14:21:22 GMT",
         "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "数百万人可以获得账单折扣 - 方法如下",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“数百万人可以获得账单折扣 - 方法如下”。核心要点：较低的社会关税使许多领取福利的人能够以更便宜的价格获得水、宽带和电话服务。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 23:25:30 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "诈骗者利用人工智能瞄准人群，诈骗数量激增",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“诈骗者利用人工智能瞄准人群，诈骗数量激增”。核心要点：英国平均每分钟报告近八起盗窃钱财的欺诈案件。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 23:25:15 GMT",
-        "url": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "敞篷车正在驶入日落吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“敞篷车正在驶入日落吗？”。核心要点：英国司机对这款 SUV 青睐有加，但敞篷车的命运能否逆转？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 23:25:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "英国电动汽车销售目标将被削弱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国电动汽车销售目标将被削弱”。核心要点：据英国广播公司了解，新目标尚未确定，正在考虑不同的数字。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 14 Jun 2026 17:56:07 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
