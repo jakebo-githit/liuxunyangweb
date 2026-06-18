@@ -1,184 +1,157 @@
 {
-  "updatedAt": "2026-06-17T06:26:27.097Z",
+  "updatedAt": "2026-06-18T06:09:00.715Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Association of HA130/KHA80 hemoperfusion combined with hemodialysis with survival outcomes in patients receiving maintenance hemodialysis: a time-dependent and propensity score-matched analysis.",
-        "journal": "BMC nephrology",
-        "pubDate": "2026 Jun 15",
-        "studyType": "Journal Article",
-        "authors": "Liu Y, Gang W, Chen W",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：接受维持性血液透析（MHD）的患者面临着很高的死亡率负担，心血管疾病仍然是死亡的主要原因。 临床提示：本研究旨在评估辅助血液灌流联合常规血液透析 (HD + HP) 与接受 MHD 患者的长期生存结果之间的关系。",
-        "abstract": "Patients receiving maintenance hemodialysis (MHD) experience a high mortality burden, with cardiovascular disease remaining a major cause of death. This study aimed to evaluate the association between adjunctive hemoperfusion combined with conventional hemodialysis (HD + HP) and long-term survival outcomes in patients receiving MHD. This single-center retrospective cohort study was conducted at Shanghai Changhai Hospital. Patients with end-stage renal disease who received MHD between January 2015 and December 2023 were retrospectively identified from the center's hemodialysis records. Among the 640 eligible patients, 419 (65.5%) received HD during the study period, whereas 221 (34.5%) receiv...",
-        "pmid": "42298491",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42298491/",
-        "doiUrl": "https://doi.org/10.1186/s12882-026-05124-4",
-        "url": "https://doi.org/10.1186/s12882-026-05124-4"
-      },
-      {
-        "title": "Kidney disease in patients with two APOL1 risk variants.",
-        "journal": "Kidney research and clinical practice",
-        "pubDate": "2026 Jun 11",
-        "studyType": "Journal Article",
-        "authors": "Freedman BI, Ma L",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：肾脏病专家经常要求基因检测小组来澄清具有不同表现的肾脏疾病患者的诊断。 临床提示：十年前，也就是当前精准医疗时代之前，情况并非如此。",
-        "abstract": "Nephrologists often order genetic testing panels to clarify diagnoses in patients with diverse presentations of kidney disease. This was not the case 10 years ago, prior to the current era of precision medicine. In the past, elevated blood sugars and blood pressures were felt to be the primary factors that initiated diabetic and mislabeled \"hypertensive\" nephropathy. In addition, the markedly higher incidence rates of kidney failure in African Americans relative to European, Asian, and Hispanic Americans were poorly understood. This changed with recognition of marked familial aggregation of kidney failure, particularly in the African American population. The 2010 discovery of the apolipoprot...",
-        "pmid": "42299451",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42299451/",
-        "doiUrl": "https://doi.org/10.23876/j.krcp.26.106",
-        "url": "https://doi.org/10.23876/j.krcp.26.106"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Bile acids as the silent harbinger: Early signals of portal hypertension after \"successful\" Kasai.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Jul 1",
-        "studyType": "Journal Article",
-        "authors": "Sidhu G",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：胆汁酸作为无声预兆：葛西“成功”后门静脉高压的早期信号。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42299511",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42299511/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001782",
-        "url": "https://doi.org/10.1097/HEP.0000000000001782"
+        "title": "Umbilical vein recanalization identified on contrast-enhanced ultrasound in a patient with hepatocellular carcinoma during TACE assessment.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Sep",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "KuonYeng-Escalante C, Liu JB, Xu J",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：我们描述了一位 62 岁的女性，她有代谢功能障碍相关的脂肪肝病史，并出现腹痛。 临床提示：本病例报告展示了对比增强超声作为先前在横截面成像中看到的血管异常发现的支持工具的潜在用途。",
+        "abstract": "This case report demonstrates the potential use of contrast-enhanced ultrasound as a support tool for vascular abnormality findings previously seen on cross-sectional imaging. We describe a 62-year-old woman with history of metabolic dysfunction-associated steatotic liver disease who presented abdominal pain. Ultrasound demonstrated cirrhosis and indeterminate liver lesions. With these findings, contrast-enhanced magnetic resonance imaging was performed and 2 LI-RADS 5 lesions < 3 cm and vascular changes consistent with portal hypertension were observed. Before transplant, the patient underwent transarterial-chemoembolization for bridging. Contrast-enhanced ultrasound was used to assess tumo...",
+        "pmid": "42305364",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42305364/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.05.055",
+        "url": "https://doi.org/10.1016/j.radcr.2026.05.055"
       },
       {
-        "title": "Endothelial-to-mesenchymal transition: A targetable mechanism that contributes to portal vein thrombosis in cirrhosis.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Jul 1",
-        "studyType": "Journal Article",
-        "authors": "Anton A, Shalaby S, Botero ML",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PVT 与内膜显着偏心增厚有关... 临床提示：门静脉血栓形成（PVT）是肝硬化的常见并发症，但其病理生理学仍然难以捉摸。",
-        "abstract": "Portal vein thrombosis (PVT) is a frequent complication of cirrhosis, yet its pathophysiology remains elusive. Unlike thrombosis in other vascular beds, anticoagulation often fails to completely recanalize PVT, highlighting the need for greater mechanistic insight and alternative therapeutic approaches. Our study aimed to characterize the structural and cellular changes in the portal venous vascular bed to identify novel physiologically driven therapeutic targets. Portal vein tissue specimens from explanted livers of patients with cirrhosis with and without PVT and from liver donors were histologically analyzed. PVT is associated with a remarkable eccentric thickening of the tunica intima du...",
-        "pmid": "41144554",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41144554/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001547",
-        "url": "https://doi.org/10.1097/HEP.0000000000001547"
+        "title": "Portopulmonary Hypertension: Current Perspectives.",
+        "journal": "Heart failure clinics",
+        "pubDate": "2026 Jul",
+        "studyType": "Journal Article / Review",
+        "authors": "John T, Stauber RE, Douschan P",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：这是一种严重的并发症，影响约 5% 的肝硬化患者。 临床提示：门脉性肺动脉高压（PoPH）是肝硬化或非肝硬化门脉高压情况下肺动脉高压的一种形式。",
+        "abstract": "Portopulmonary hypertension (PoPH) is a form of pulmonary arterial hypertension in the setting of cirrhotic or noncirrhotic portal hypertension. It is a significant complication affecting approximately 5% of patients with cirrhosis. PoPH contributes to morbidity and mortality of chronic liver disease by significantly increasing right cardiac afterload, ultimately leading to right heart failure and complicating disease management. We review the current literature of PoPH pathophysiology with special focus on cardiopulmonary hemodynamics, clinical presentation, diagnostic challenges, and management strategies. A central illustration should visually capture the summarized information.",
+        "pmid": "42309628",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42309628/",
+        "doiUrl": "https://doi.org/10.1016/j.hfc.2026.02.008",
+        "url": "https://doi.org/10.1016/j.hfc.2026.02.008"
       },
       {
-        "title": "Serum bile acid levels predict the development of portal hypertension and high-risk esophageal varices following successful Kasai in biliary atresia.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Jul 1",
-        "studyType": "Journal Article / Observational Study",
-        "authors": "Grimaud E, Gardin A, Ackermann O",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 60）。核心观点：尽管葛西手术 (KP) 成功，但胆道闭锁仍可导致门静脉高压 (PH)、高危食管静脉曲张 (HRV) 和肝移植。 临床提示：我们研究了 KP 后第一年测量的 sBA 对 KP 后 5 年内 PH 和 HRV 发展的预测价值。",
-        "abstract": "Biliary atresia can lead to portal hypertension (PH), high-risk esophageal varices (HRV), and liver transplantation, despite a successful Kasai procedure (KP). Serum bile acids (sBA) can reflect residual cholestasis in patients with successful KP. We investigated the predictive value of sBA measured during the first year after KP on the development of PH and HRV within 5 years after KP. In this retrospective monocentric observational study, we included patients with biliary atresia who underwent a successful KP, defined as a total serum bilirubin level of ≤25 μmol/L within 6 months after KP, and in whom sBA were measured during the first year after KP (n=60). We collected clinical, biologica...",
-        "pmid": "41129338",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41129338/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001592",
-        "url": "https://doi.org/10.1097/HEP.0000000000001592"
+        "title": "Liver Transplant Outcomes in Patients With Transjugular Intrahepatic Portosystemic Shunt: A Retrospective Cohort Study With Propensity Score Analysis.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Jul-Aug",
+        "studyType": "Journal Article",
+        "authors": "Biolato M, Lai Q, Galasso T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 263）。核心观点：经颈静脉肝内门体分流术（TIPS）用于治疗等待肝移植的患者的门静脉高压相关并发症。 临床提示：然而，移植前 TIPS 放置的作用仍然存在争议。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) is used to manage portal hypertension-related complications in patients awaiting liver transplantation. However, the role of pretransplant TIPS placement remains controversial. We conducted a retrospective, single-center cohort study to evaluate the impact of pretransplant TIPS on postoperative complications and in-hospital mortality. We included 263 cirrhotic patients who underwent liver transplantation from deceased donors between 2015 and 2023. Twenty-three patients (8.7%) underwent pretransplant TIPS placement. All TIPS were placed using controlled-expansion stents, with a median diameter of 8 ± 1 mm. Stent migration was identified int...",
+        "pmid": "42306237",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42306237/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103561",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103561"
       },
       {
-        "title": "Hepatocyte-derived extracellular vesicles promote endothelial dedifferentiation in chronic liver disease through the miR-153-3p-pyroptosis axis.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Jul 1",
+        "title": "Clip-Assisted Cyanoacrylate Injection for the Management of a Proximal Colonic Varix.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Jul-Aug",
         "studyType": "Journal Article",
-        "authors": "Abad-Jordà L, Andrés-Rozas M, Martínez-Alcocer A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 10）。核心观点：肝细胞通过细胞外囊泡 (EV) 进行旁分泌通讯。 临床提示：本研究调查了嵌入肝细胞源性 EV（hepEV）中的 microRNA（miRNA）在慢性肝病中调节内皮细胞去分化的作用。",
-        "abstract": "Liver cells communicate paracrinally through extracellular vesicles (EVs). This study investigated the role of microRNAs (miRNAs) embedded in hepatocyte-derived EVs (hepEVs) modulating endothelial cell dedifferentiation in chronic liver disease. EVs were purified from primary hepatocytes isolated from healthy (CT) and cirrhotic (CH) livers in both humans and rats. CT-rats were intravenously treated with fluorescence-labeled hepEVs-CT or hepEVs-CH (200 μg/d, 3 d, n=10/group) to assess biodistribution and LSECs phenotype. miRNA profiling of human hepEVs-CH was validated in rat models, and commonly altered miRNAs were overexpressed in CT-LSECs. Gene dysregulation was analyzed in primary CH-LSEC...",
-        "pmid": "41072000",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41072000/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001567",
-        "url": "https://doi.org/10.1097/HEP.0000000000001567"
+        "authors": "Giri S, Maheswari S, Praharaj DL",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：结肠静脉曲张是门静脉高压症的罕见表现，也是下消化道出血的罕见原因，尤其是累及近端结肠时。 临床提示：我们报告了一例肝曲静脉曲张出血的病例，患者为一名 23 岁男性，患有肝外门静脉阻塞 (EHPVO)，之前接受过脾切除术和脾肾分流术。",
+        "abstract": "Colonic varices are a rare manifestation of portal hypertension and an uncommon cause of lower gastrointestinal bleeding, particularly when involving the proximal colon. We report a case of bleeding hepatic flexure varices in a 23-year-old male with extrahepatic portal vein obstruction (EHPVO) and prior splenectomy with lienorenal shunt. The patient presented with recurrent hematochezia and severe anemia. Upper gastrointestinal endoscopy was negative for a bleeding source, while colonoscopy revealed large tortuous varices at the hepatic flexure with stigmata of recent hemorrhage. Contrast-enhanced CT confirmed cavernomatous transformation of the portal vein with extensive mesenteric collater...",
+        "pmid": "42306235",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42306235/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103560",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103560"
       },
       {
-        "title": "Sinusoidal injury and portal hypertension after hepatectomy for colorectal liver metastases: predictors, risk stratification, and clinical outcomes.",
-        "journal": "International journal of colorectal disease",
-        "pubDate": "2026 Jun 16",
+        "title": "Transmesenteric Extrahepatic Portosystemic Shunt for Cavernous Transformation of Portal Vein with Superior Mesenteric Vein Occlusion.",
+        "journal": "Cardiovascular and interventional radiology",
+        "pubDate": "2026 Jun 17",
         "studyType": "Journal Article",
-        "authors": "Hernández-Yagüe X, López-Ben S, Aula-Olivar A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 108）。核心观点：正弦波阻塞综合征 (SOS) 和早期门静脉高压 (ePHT) 是结直肠肝转移瘤 (CRLM) 术前化疗和肝切除术后明显的肝血管并发症。 临床提示：本研究旨在确定 SOS 和 ePHT 的预测因素，并开发术前分层的风险模型。",
-        "abstract": "Sinusoidal obstruction syndrome (SOS) and early portal hypertension (ePHT) represent significant hepatic vascular complications following preoperative chemotherapy and liver resection for colorectal liver metastases (CRLM). This study aimed to identify predictors of SOS and ePHT and to develop a risk model for preoperative stratification. A retrospective analysis was conducted in 108 patients undergoing hepatectomy for CRLM after ≥ 4 cycles of neoadjuvant chemotherapy combined with anti-EGFR or anti-VEGF therapy. SOS severity was graded histologically, and ePHT was defined by thrombocytopenia, splenomegaly, varices, or ascites within 3 months postoperatively. Logistic regression models ident...",
-        "pmid": "42301506",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42301506/",
-        "doiUrl": "https://doi.org/10.1007/s00384-026-05157-z",
-        "url": "https://doi.org/10.1007/s00384-026-05157-z"
+        "authors": "Li W, Zhang H, Mu K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评价经肠系膜肝外门体分流术治疗门静脉海绵样变性肠系膜上静脉闭塞患者的可行性、安全性和临床疗效。 临床提示：连续 21 例患者接受了经肠系膜肝外门体分流术，其中男性 13 例（62%），中位年龄 50 岁（四分位数范围，43.5-56.5 岁）。",
+        "abstract": "To evaluate the feasibility, safety, and clinical efficacy of transmesenteric extrahepatic portosystemic shunt in patients with cavernous transformation of the portal vein complicated by superior mesenteric vein occlusion. Twenty-one consecutive patients underwent transmesenteric extrahepatic portosystemic shunt, including 13 men (62%), with a median age of 50 years (interquartile range, 43.5-56.5 years). As a hybrid procedure, the superior mesenteric vein was accessed through a mini-laparotomy and recanalized when feasible. A direct extrahepatic portosystemic shunt was then created by puncturing the inferior vena cava, and mechanical thrombectomy with catheter-directed thrombolysis was perf...",
+        "pmid": "42310220",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42310220/",
+        "doiUrl": "https://doi.org/10.1007/s00270-026-04494-4",
+        "url": "https://doi.org/10.1007/s00270-026-04494-4"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "德黑兰与美国达成的协议被视为胜利——但对伊朗人来说这是必要的",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“德黑兰与美国达成的协议被视为胜利——但对伊朗人来说这是必要的”。核心要点：对于许多伊朗人来说，问题不在于该协议是否意味着胜利，而在于它是否会降低价格并减少对另一场战争的恐惧。",
+        "titleZh": "美伊协议有哪些内容？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊协议有哪些内容？”。核心要点：这份共 14 段的备忘录包括结束战斗、达成伊朗永远不会拥有核武器的协议，以及为伊朗提供 3000 亿美元的重建计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 16 Jun 2026 15:31:24 GMT",
-        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 18 Jun 2026 01:28:02 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美伊休战留下悬而未决的问题，黎巴嫩局势脆弱平静",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊休战留下悬而未决的问题，黎巴嫩局势脆弱平静”。核心要点：许多黎巴嫩人仍然怀疑该协议是否最终意味着以色列和真主党之间战斗的结束。",
+        "titleZh": "伊朗派遣满载石油的油轮突破美国军事封锁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗派遣满载石油的油轮突破美国军事封锁”。核心要点：船舶追踪数据显示，三艘满载原油的伊朗油轮已通过美国在阿曼湾的封锁线。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 16 Jun 2026 16:20:33 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 13:27:47 GMT",
+        "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国调查报告称俄罗斯军舰在英吉利海峡附近的游艇附近鸣枪示警",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“英国调查报告称俄罗斯军舰在英吉利海峡附近的游艇附近鸣枪示警”。核心要点：这对退休夫妇告诉英国广播公司《新闻之夜》，他们试图向军舰展示在开枪之前他们已经在英吉利海峡改变了航向。",
+        "titleZh": "日本防卫大臣小泉纯一郎告诉 BBC，日本加强防卫对于防止战争“至关重要”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“日本防卫大臣小泉纯一郎告诉 BBC，日本加强防卫对于防止战争“至关重要””。核心要点：小泉进二郎表示，日本需要重新审视自第二次世界大战以来定义的和平主义姿态。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 00:25:39 GMT",
-        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 22:36:13 GMT",
+        "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯艺术家和普京评论家在波兰被枪杀",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯艺术家和普京评论家在波兰被枪杀”。核心要点：罗伯特·库佐夫科夫（Robert Kuzovkov）使用笔名谢苗·斯克雷佩茨基（Semyon Skrepetsky），因其对弗拉基米尔·普京（Vladimir ...",
+        "titleZh": "以色列民族主义者无视规则，耶路撒冷圣地的现状受到威胁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列民族主义者无视规则，耶路撒冷圣地的现状受到威胁”。核心要点：以色列民族主义者越来越多地蔑视关于信仰如何共享阿克萨清真寺大院的公约。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 16 Jun 2026 17:33:50 GMT",
-        "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 09:13:34 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴西判定雅伊尔·博尔索纳罗的儿子在父亲的法律诉讼中寻求美国帮助",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴西判定雅伊尔·博尔索纳罗的儿子在父亲的法律诉讼中寻求美国帮助”。核心要点：爱德华多·博尔索纳罗称这一判决“毫无根据、毫无意义”。",
+        "titleZh": "武装人员冲进刚果民主共和国医院后寻找六岁埃博拉患者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“武装人员冲进刚果民主共和国医院后寻找六岁埃博拉患者”。核心要点：在当前的疫情爆发期间，由于错误信息和恐惧，卫生设施受到攻击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 00:31:35 GMT",
-        "url": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 16:50:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "吉百利巧克力所有者亿滋为留在俄罗斯辩护",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“吉百利巧克力所有者亿滋为留在俄罗斯辩护”。核心要点：亿滋国际老板德克·范德普特表示，在与乌克兰的战争后留下来是“正确的决定”。",
+        "titleZh": "预计英格兰银行将维持利率不变",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“预计英格兰银行将维持利率不变”。核心要点：央行上次降息是在 12 月份，但中东的动荡阻碍了进一步的降息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 16 Jun 2026 23:05:23 GMT",
-        "url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 23:01:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“这是一个独特的场景”——Lidl 的第一家酒吧内部",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““这是一个独特的场景”——Lidl 的第一家酒吧内部”。核心要点：连锁超市 Lidl 拥有并经营 The Middle Ale，这是该品牌的“世界第一”。",
+        "titleZh": "人工智能热潮推高芯片成本 苹果将提价",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能热潮推高芯片成本 苹果将提价”。核心要点：该公司即将卸任的老板蒂姆·库克没有透露价格何时上涨或哪些产品将受到影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 05:24:35 GMT",
-        "url": "https://www.bbc.com/news/articles/cj9gnljenpko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 18 Jun 2026 02:41:01 GMT",
+        "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马斯克旗下的 SpaceX 超越亚马逊，成为全球第五大最有价值公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“马斯克旗下的 SpaceX 超越亚马逊，成为全球第五大最有价值公司”。核心要点：埃隆·马斯克(Elon Musk)的火箭公司在股价飙升后，其价值已经超过了零售和媒体帝国。",
+        "titleZh": "驾驶考试等待时间目标要到明年秋季才能实现",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“驾驶考试等待时间目标要到明年秋季才能实现”。核心要点：运输部长的目标是到今年秋天将积压的订单减少到七周。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 01:27:26 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 15:37:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Helium-3 是什么？我们可以从月球上获取它吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Helium-3 是什么？我们可以从月球上获取它吗？”。核心要点：Hel-3 价格昂贵，而且需求预计会猛增，因此一些人计划在月球上开采它。",
+        "titleZh": "由于特朗普伊朗协议的不确定性仍然存在，美联储维持美国利率稳定",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于特朗普伊朗协议的不确定性仍然存在，美联储维持美国利率稳定”。核心要点：在凯文·沃什 (Kevin Warsh) 执掌美联储的第一次会议后，美联储将利率维持在 3.5% 至 3.75% 之间。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 16 Jun 2026 00:11:13 GMT",
-        "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 17 Jun 2026 18:41:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "通胀维持在2.8%，略低于预期",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“通胀维持在2.8%，略低于预期”。核心要点：运输成本上涨最快，而食品和非酒精饮料的成本略有下降。",
+        "titleZh": "食品价格缓慢上涨，通胀意外稳定",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“食品价格缓慢上涨，通胀意外稳定”。核心要点：英国国家统计局表示，汽油价格上涨被肉类、奶制品和蔬菜价格上涨放缓所抵消。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 06:25:18 GMT",
+        "publishedAt": "Wed, 17 Jun 2026 09:52:43 GMT",
         "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss"
       }
     ]
