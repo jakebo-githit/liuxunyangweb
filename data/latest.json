@@ -1,158 +1,159 @@
 {
-  "updatedAt": "2026-06-18T06:09:00.715Z",
+  "updatedAt": "2026-06-19T06:29:56.497Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Kidney transplantation in sub-Sahara African countries: challenges and lessons from the experience of Cameroon: a preliminary report of the first 17 pioneer cases.",
+        "journal": "Renal failure",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article",
+        "authors": "Djientcheu VP, Ashuntantang G, Nono A",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：本报告介绍了喀麦隆和中部非洲次区域首批 17 例肾移植 (KT) 病例的结果、挑战和经验教训。 临床提示：本研究包括在雅温得总医院 (YGH) 接受肾移植的所有患者。",
+        "abstract": "This report presents the outcomes, challenges, and lessons learned from the first 17 cases of kidney transplantation (KT) performed in Cameroon and the Central Africa sub-region. All patients who underwent kidney transplantation at the Yaoundé General Hospital (YGH) are included in this study. Seventeen kidney transplants were performed, nine females and eight males. All donors were family members. The underlying nephropathies were chronic glomerulonephritis (9 cases), hypertensive nephropathy (6 cases), and Unknown origin (4 cases). Immunological compatibility was categorized as follows: HLA-identical (7 pairs), HLA-different (3 pairs), haploidentical (6 pairs), homozygous twin sisters (1 p...",
+        "pmid": "42315970",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42315970/",
+        "doiUrl": "https://doi.org/10.1080/0886022X.2026.2684370",
+        "url": "https://doi.org/10.1080/0886022X.2026.2684370"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Umbilical vein recanalization identified on contrast-enhanced ultrasound in a patient with hepatocellular carcinoma during TACE assessment.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Sep",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "KuonYeng-Escalante C, Liu JB, Xu J",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：我们描述了一位 62 岁的女性，她有代谢功能障碍相关的脂肪肝病史，并出现腹痛。 临床提示：本病例报告展示了对比增强超声作为先前在横截面成像中看到的血管异常发现的支持工具的潜在用途。",
-        "abstract": "This case report demonstrates the potential use of contrast-enhanced ultrasound as a support tool for vascular abnormality findings previously seen on cross-sectional imaging. We describe a 62-year-old woman with history of metabolic dysfunction-associated steatotic liver disease who presented abdominal pain. Ultrasound demonstrated cirrhosis and indeterminate liver lesions. With these findings, contrast-enhanced magnetic resonance imaging was performed and 2 LI-RADS 5 lesions < 3 cm and vascular changes consistent with portal hypertension were observed. Before transplant, the patient underwent transarterial-chemoembolization for bridging. Contrast-enhanced ultrasound was used to assess tumo...",
-        "pmid": "42305364",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42305364/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.05.055",
-        "url": "https://doi.org/10.1016/j.radcr.2026.05.055"
-      },
-      {
-        "title": "Portopulmonary Hypertension: Current Perspectives.",
-        "journal": "Heart failure clinics",
-        "pubDate": "2026 Jul",
-        "studyType": "Journal Article / Review",
-        "authors": "John T, Stauber RE, Douschan P",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：这是一种严重的并发症，影响约 5% 的肝硬化患者。 临床提示：门脉性肺动脉高压（PoPH）是肝硬化或非肝硬化门脉高压情况下肺动脉高压的一种形式。",
-        "abstract": "Portopulmonary hypertension (PoPH) is a form of pulmonary arterial hypertension in the setting of cirrhotic or noncirrhotic portal hypertension. It is a significant complication affecting approximately 5% of patients with cirrhosis. PoPH contributes to morbidity and mortality of chronic liver disease by significantly increasing right cardiac afterload, ultimately leading to right heart failure and complicating disease management. We review the current literature of PoPH pathophysiology with special focus on cardiopulmonary hemodynamics, clinical presentation, diagnostic challenges, and management strategies. A central illustration should visually capture the summarized information.",
-        "pmid": "42309628",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42309628/",
-        "doiUrl": "https://doi.org/10.1016/j.hfc.2026.02.008",
-        "url": "https://doi.org/10.1016/j.hfc.2026.02.008"
-      },
-      {
-        "title": "Liver Transplant Outcomes in Patients With Transjugular Intrahepatic Portosystemic Shunt: A Retrospective Cohort Study With Propensity Score Analysis.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 Jul-Aug",
+        "title": "Association of Frailty With Waitlist and Post-Transplant Outcomes in Patients With Hepatopulmonary Syndrome and Portopulmonary Hypertension.",
+        "journal": "Transplantation proceedings",
+        "pubDate": "2026 Jun 18",
         "studyType": "Journal Article",
-        "authors": "Biolato M, Lai Q, Galasso T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 263）。核心观点：经颈静脉肝内门体分流术（TIPS）用于治疗等待肝移植的患者的门静脉高压相关并发症。 临床提示：然而，移植前 TIPS 放置的作用仍然存在争议。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) is used to manage portal hypertension-related complications in patients awaiting liver transplantation. However, the role of pretransplant TIPS placement remains controversial. We conducted a retrospective, single-center cohort study to evaluate the impact of pretransplant TIPS on postoperative complications and in-hospital mortality. We included 263 cirrhotic patients who underwent liver transplantation from deceased donors between 2015 and 2023. Twenty-three patients (8.7%) underwent pretransplant TIPS placement. All TIPS were placed using controlled-expansion stents, with a median diameter of 8 ± 1 mm. Stent migration was identified int...",
-        "pmid": "42306237",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42306237/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103561",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103561"
+        "authors": "Sharma A, Usman L, Lai JC",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝肺综合征 (HPS) 和门脉肺动脉高压 (PPHTN) 患者由于实验室 MELD 评分未捕获高死亡风险而获得 MELD 例外积分。 临床提示：我们的目的是确定卡诺夫斯基表现状态 (KPS) 是否可以预测 HPS/PPHTN 候选人的候补名单和移植后结果，并将结果与​​类似的低功能非例外候选人进行比较。",
+        "abstract": "Patients with hepatopulmonary syndrome (HPS) and portopulmonary hypertension (PPHTN) receive MELD exception points due to high mortality risk not captured by laboratory MELD scores. These patients are often excluded from frailty studies, leaving the prognostic significance of functional status unclear. We aimed to determine whether Karnofsky Performance Status (KPS) predicts waitlist and post-transplant outcomes among HPS/PPHTN candidates and to compare outcomes with similarly low-functioning non-exception candidates. We analyzed adult LT candidates in the UNOS/OPTN database (2013-2023) with MELD exception points for HPS/PPHTN and available KPS scores. KPS was categorized as low (10-40), int...",
+        "pmid": "42315389",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42315389/",
+        "doiUrl": "https://doi.org/10.1016/j.transproceed.2026.05.023",
+        "url": "https://doi.org/10.1016/j.transproceed.2026.05.023"
       },
       {
-        "title": "Clip-Assisted Cyanoacrylate Injection for the Management of a Proximal Colonic Varix.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2026 Jul-Aug",
+        "title": "Vascular Ultrasonographic Findings in Canine and Feline Patients with Leishmaniosis.",
+        "journal": "Veterinary journal (London, England : 1997)",
+        "pubDate": "2026 Jun 18",
         "studyType": "Journal Article",
-        "authors": "Giri S, Maheswari S, Praharaj DL",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：结肠静脉曲张是门静脉高压症的罕见表现，也是下消化道出血的罕见原因，尤其是累及近端结肠时。 临床提示：我们报告了一例肝曲静脉曲张出血的病例，患者为一名 23 岁男性，患有肝外门静脉阻塞 (EHPVO)，之前接受过脾切除术和脾肾分流术。",
-        "abstract": "Colonic varices are a rare manifestation of portal hypertension and an uncommon cause of lower gastrointestinal bleeding, particularly when involving the proximal colon. We report a case of bleeding hepatic flexure varices in a 23-year-old male with extrahepatic portal vein obstruction (EHPVO) and prior splenectomy with lienorenal shunt. The patient presented with recurrent hematochezia and severe anemia. Upper gastrointestinal endoscopy was negative for a bleeding source, while colonoscopy revealed large tortuous varices at the hepatic flexure with stigmata of recent hemorrhage. Contrast-enhanced CT confirmed cavernomatous transformation of the portal vein with extensive mesenteric collater...",
-        "pmid": "42306235",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42306235/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103560",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103560"
+        "authors": "Martín NG, Verdejo JIC, Chacón RB",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：血管超声检查广泛用于评估人类血管炎，但与利什曼病相关的血管壁变化的兽医数据有限。 临床提示：利什曼病是一种原虫病，可能诱发狗和猫的系统性血管炎、门静脉高压和血栓栓塞并发症。",
+        "abstract": "Leishmaniosis is a protozoal disease that may induce systemic vasculitis, portal hypertension and thromboembolic complications in dogs and cats. Vascular ultrasonography is widely used to assess vasculitis in people, but veterinary data on vascular wall changes associated with leishmaniosis are limited. This study aimed to establish reference values for abdominal vascular wall thickness in healthy dogs and cats and to characterise ultrasonographic vascular abnormalities in patients with leishmaniosis. The study combined a prospective cross-sectional control cohort with a retrospective case series. Ten healthy dogs and ten healthy cats were recruited as controls, and twenty-three dogs and sev...",
+        "pmid": "42314866",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42314866/",
+        "doiUrl": "https://doi.org/10.1016/j.tvjl.2026.106751",
+        "url": "https://doi.org/10.1016/j.tvjl.2026.106751"
       },
       {
-        "title": "Transmesenteric Extrahepatic Portosystemic Shunt for Cavernous Transformation of Portal Vein with Superior Mesenteric Vein Occlusion.",
-        "journal": "Cardiovascular and interventional radiology",
+        "title": "Clinical spectrum, genetic variants, and outcomes of autosomal recessive polycystic kidney disease in Omani children: two-center experience.",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "pubDate": "2026 Jun 18",
+        "studyType": "Journal Article",
+        "authors": "Al Riyami MS, Al Wahaibi K, Ahmed H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：常染色体隐性多囊肾病 (ARPKD) 是一种罕见的遗传性疾病，其特征是肾脏和肝脏受累，通常在生命早期出现。 临床提示：来自阿拉伯人群的数据有限，特别是在阿曼，血缘关系很常见，可能会影响基因型与表型的相关性。",
+        "abstract": "Autosomal recessive polycystic kidney disease (ARPKD) is a rare inherited disorder characterized by kidney and hepatic involvement, often presenting in early life. Data from Arab populations are limited, particularly in Oman, where consanguinity is common and may influence genotype-phenotype correlations. This retrospective study included Omani children (0-13 years) diagnosed with ARPKD between January 2011 and December 2024 at two national tertiary centers. Clinical features, genetic variants, kidney and hepatic outcomes, and mortality were analyzed. Kidney and hepatic severity were compared by genotype, and kidney and patient survival were assessed using Kaplan-Meier analysis. A total of 1...",
+        "pmid": "42313208",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42313208/",
+        "doiUrl": "https://doi.org/10.1007/s00467-026-07418-z",
+        "url": "https://doi.org/10.1007/s00467-026-07418-z"
+      },
+      {
+        "title": "Hospitalizations for schistosomiasis in Spain by sex: a population-based study using the national hospital discharge database (2016-2023).",
+        "journal": "BMC infectious diseases",
         "pubDate": "2026 Jun 17",
         "studyType": "Journal Article",
-        "authors": "Li W, Zhang H, Mu K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评价经肠系膜肝外门体分流术治疗门静脉海绵样变性肠系膜上静脉闭塞患者的可行性、安全性和临床疗效。 临床提示：连续 21 例患者接受了经肠系膜肝外门体分流术，其中男性 13 例（62%），中位年龄 50 岁（四分位数范围，43.5-56.5 岁）。",
-        "abstract": "To evaluate the feasibility, safety, and clinical efficacy of transmesenteric extrahepatic portosystemic shunt in patients with cavernous transformation of the portal vein complicated by superior mesenteric vein occlusion. Twenty-one consecutive patients underwent transmesenteric extrahepatic portosystemic shunt, including 13 men (62%), with a median age of 50 years (interquartile range, 43.5-56.5 years). As a hybrid procedure, the superior mesenteric vein was accessed through a mini-laparotomy and recanalized when feasible. A direct extrahepatic portosystemic shunt was then created by puncturing the inferior vena cava, and mechanical thrombectomy with catheter-directed thrombolysis was perf...",
-        "pmid": "42310220",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42310220/",
-        "doiUrl": "https://doi.org/10.1007/s00270-026-04494-4",
-        "url": "https://doi.org/10.1007/s00270-026-04494-4"
+        "authors": "Ramos-Belinchon A, Otero-Rodriguez S, Belinchon-Romero I",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：血吸虫病是欧洲新出现的输入性寄生虫病，但有关非流行国家住院患者临床负担的信息仍然有限。 临床提示：使用全国出院数据描述西班牙血吸虫病住院患者的流行病学、临床特征、并发症和结果，重点关注性别相关差异",
+        "abstract": "Schistosomiasis is an emerging imported parasitic disease in Europe, but information on its clinical burden among hospitalized patients in non-endemic countries remains limited. To describe the epidemiology, clinical characteristics, complications, and outcomes of patients hospitalized with schistosomiasis in Spain using nationwide hospital discharge data, with a focus on sex-related differences. We conducted a retrospective observational study using the Spanish National Hospital Discharge Database (SNHDD). All hospitalizations with schistosomiasis (ICD-10: B65) recorded between 2016 and 2023 were included. Demographic characteristics, country of birth, clinical conditions, complications, an...",
+        "pmid": "42310580",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42310580/",
+        "doiUrl": "https://doi.org/10.1186/s12879-026-13711-x",
+        "url": "https://doi.org/10.1186/s12879-026-13711-x"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美伊协议有哪些内容？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美伊协议有哪些内容？”。核心要点：这份共 14 段的备忘录包括结束战斗、达成伊朗永远不会拥有核武器的协议，以及为伊朗提供 3000 亿美元的重建计划。",
+        "titleZh": "伊朗最高领导人称特朗普“出于绝望”达成协议，美国解除海上封锁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗最高领导人称特朗普“出于绝望”达成协议，美国解除海上封锁”。核心要点：伊朗最高领导人表示，他不同意该协议，唐纳德·特朗普“出于绝望”签署了该协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 01:28:02 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 19 Jun 2026 01:34:00 GMT",
+        "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗派遣满载石油的油轮突破美国军事封锁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗派遣满载石油的油轮突破美国军事封锁”。核心要点：船舶追踪数据显示，三艘满载原油的伊朗油轮已通过美国在阿曼湾的封锁线。",
+        "titleZh": "鲍文：美伊协议引发了不可避免的问题：战争的目的是什么",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：美伊协议引发了不可避免的问题：战争的目的是什么”。核心要点：虽然人员伤亡是显而易见的，但伊朗政权不仅在战争中幸存下来，而且还获得了权力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 13:27:47 GMT",
-        "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 18 Jun 2026 15:53:55 GMT",
+        "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "日本防卫大臣小泉纯一郎告诉 BBC，日本加强防卫对于防止战争“至关重要”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“日本防卫大臣小泉纯一郎告诉 BBC，日本加强防卫对于防止战争“至关重要””。核心要点：小泉进二郎表示，日本需要重新审视自第二次世界大战以来定义的和平主义姿态。",
+        "titleZh": "伊朗和美国从协议中得到什么以及为什么双方都可能难以维持协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗和美国从协议中得到什么以及为什么双方都可能难以维持协议”。核心要点：英国广播公司(BBC)分析人士评估了华盛顿和德黑兰双方声称通过该协议赢得了结束战争的胜利的说法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 22:36:13 GMT",
-        "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 18 Jun 2026 20:04:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列民族主义者无视规则，耶路撒冷圣地的现状受到威胁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列民族主义者无视规则，耶路撒冷圣地的现状受到威胁”。核心要点：以色列民族主义者越来越多地蔑视关于信仰如何共享阿克萨清真寺大院的公约。",
+        "titleZh": "乌克兰最大的炼油厂袭击事件后，莫斯科居民抱怨下黑雨",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰最大的炼油厂袭击事件后，莫斯科居民抱怨下黑雨”。核心要点：近 200 架乌克兰无人机袭击了俄罗斯首都东南部的一个地区，一座炼油厂和一座购物中心被烧毁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 09:13:34 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 18 Jun 2026 15:46:36 GMT",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "武装人员冲进刚果民主共和国医院后寻找六岁埃博拉患者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“武装人员冲进刚果民主共和国医院后寻找六岁埃博拉患者”。核心要点：在当前的疫情爆发期间，由于错误信息和恐惧，卫生设施受到攻击。",
+        "titleZh": "武装分子袭击尼日尔最大机场 35 人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“武装分子袭击尼日尔最大机场 35 人死亡”。核心要点：尼日尔十年来一直在与激进的伊斯兰叛乱分子作战，今年一月，疑似圣战分子袭击了同一机场。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 16:50:42 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 18 Jun 2026 21:47:25 GMT",
+        "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "预计英格兰银行将维持利率不变",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“预计英格兰银行将维持利率不变”。核心要点：央行上次降息是在 12 月份，但中东的动荡阻碍了进一步的降息。",
+        "titleZh": "英国央行公司数据显示，脱欧使英国经济损失 6%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国央行公司数据显示，脱欧使英国经济损失 6%”。核心要点：分析显示，如果英国没有退出欧盟，英国的经济增长幅度是多少。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 23:01:11 GMT",
+        "publishedAt": "Thu, 18 Jun 2026 23:05:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“他隐藏了点菜菜单”：第一次约会谁应该付钱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““他隐藏了点菜菜单”：第一次约会谁应该付钱”。核心要点：有些人坚持分摊账单，另一些人则认为提出要求的人应该付钱，而许多人仍然认为男人付钱是浪漫的。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 18 Jun 2026 23:09:19 GMT",
+        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伊朗和平协议可能影响您和您的金钱的五种方式",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗和平协议可能影响您和您的金钱的五种方式”。核心要点：随着最近几天燃料和天然气价格的下跌，我们通过五张图表来了解敌对行动的结束可能对您产生的影响。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 18 Jun 2026 23:06:20 GMT",
+        "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "希思罗机场“关键”扩建蓝图发布",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“希思罗机场“关键”扩建蓝图发布”。核心要点：关于希思罗机场扩建的咨询已启动，概述了该项目继续进行的条件。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 18 Jun 2026 15:07:21 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "央行警告高能源价格的影响，维持利率不变",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“央行警告高能源价格的影响，维持利率不变”。核心要点：央行上次降息是在 12 月份，但中东的动荡阻碍了进一步的降息。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 18 Jun 2026 12:50:33 GMT",
         "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "人工智能热潮推高芯片成本 苹果将提价",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能热潮推高芯片成本 苹果将提价”。核心要点：该公司即将卸任的老板蒂姆·库克没有透露价格何时上涨或哪些产品将受到影响。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 02:41:01 GMT",
-        "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "驾驶考试等待时间目标要到明年秋季才能实现",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“驾驶考试等待时间目标要到明年秋季才能实现”。核心要点：运输部长的目标是到今年秋天将积压的订单减少到七周。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 15:37:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "由于特朗普伊朗协议的不确定性仍然存在，美联储维持美国利率稳定",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于特朗普伊朗协议的不确定性仍然存在，美联储维持美国利率稳定”。核心要点：在凯文·沃什 (Kevin Warsh) 执掌美联储的第一次会议后，美联储将利率维持在 3.5% 至 3.75% 之间。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 18:41:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "食品价格缓慢上涨，通胀意外稳定",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“食品价格缓慢上涨，通胀意外稳定”。核心要点：英国国家统计局表示，汽油价格上涨被肉类、奶制品和蔬菜价格上涨放缓所抵消。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 17 Jun 2026 09:52:43 GMT",
-        "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
