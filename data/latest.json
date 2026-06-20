@@ -1,120 +1,85 @@
 {
-  "updatedAt": "2026-06-19T06:29:56.497Z",
+  "updatedAt": "2026-06-20T05:43:01.060Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Kidney transplantation in sub-Sahara African countries: challenges and lessons from the experience of Cameroon: a preliminary report of the first 17 pioneer cases.",
-        "journal": "Renal failure",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article",
-        "authors": "Djientcheu VP, Ashuntantang G, Nono A",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：本报告介绍了喀麦隆和中部非洲次区域首批 17 例肾移植 (KT) 病例的结果、挑战和经验教训。 临床提示：本研究包括在雅温得总医院 (YGH) 接受肾移植的所有患者。",
-        "abstract": "This report presents the outcomes, challenges, and lessons learned from the first 17 cases of kidney transplantation (KT) performed in Cameroon and the Central Africa sub-region. All patients who underwent kidney transplantation at the Yaoundé General Hospital (YGH) are included in this study. Seventeen kidney transplants were performed, nine females and eight males. All donors were family members. The underlying nephropathies were chronic glomerulonephritis (9 cases), hypertensive nephropathy (6 cases), and Unknown origin (4 cases). Immunological compatibility was categorized as follows: HLA-identical (7 pairs), HLA-different (3 pairs), haploidentical (6 pairs), homozygous twin sisters (1 p...",
-        "pmid": "42315970",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42315970/",
-        "doiUrl": "https://doi.org/10.1080/0886022X.2026.2684370",
-        "url": "https://doi.org/10.1080/0886022X.2026.2684370"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "Association of Frailty With Waitlist and Post-Transplant Outcomes in Patients With Hepatopulmonary Syndrome and Portopulmonary Hypertension.",
-        "journal": "Transplantation proceedings",
-        "pubDate": "2026 Jun 18",
-        "studyType": "Journal Article",
-        "authors": "Sharma A, Usman L, Lai JC",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝肺综合征 (HPS) 和门脉肺动脉高压 (PPHTN) 患者由于实验室 MELD 评分未捕获高死亡风险而获得 MELD 例外积分。 临床提示：我们的目的是确定卡诺夫斯基表现状态 (KPS) 是否可以预测 HPS/PPHTN 候选人的候补名单和移植后结果，并将结果与​​类似的低功能非例外候选人进行比较。",
-        "abstract": "Patients with hepatopulmonary syndrome (HPS) and portopulmonary hypertension (PPHTN) receive MELD exception points due to high mortality risk not captured by laboratory MELD scores. These patients are often excluded from frailty studies, leaving the prognostic significance of functional status unclear. We aimed to determine whether Karnofsky Performance Status (KPS) predicts waitlist and post-transplant outcomes among HPS/PPHTN candidates and to compare outcomes with similarly low-functioning non-exception candidates. We analyzed adult LT candidates in the UNOS/OPTN database (2013-2023) with MELD exception points for HPS/PPHTN and available KPS scores. KPS was categorized as low (10-40), int...",
-        "pmid": "42315389",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42315389/",
-        "doiUrl": "https://doi.org/10.1016/j.transproceed.2026.05.023",
-        "url": "https://doi.org/10.1016/j.transproceed.2026.05.023"
-      },
-      {
-        "title": "Vascular Ultrasonographic Findings in Canine and Feline Patients with Leishmaniosis.",
-        "journal": "Veterinary journal (London, England : 1997)",
-        "pubDate": "2026 Jun 18",
-        "studyType": "Journal Article",
-        "authors": "Martín NG, Verdejo JIC, Chacón RB",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：血管超声检查广泛用于评估人类血管炎，但与利什曼病相关的血管壁变化的兽医数据有限。 临床提示：利什曼病是一种原虫病，可能诱发狗和猫的系统性血管炎、门静脉高压和血栓栓塞并发症。",
-        "abstract": "Leishmaniosis is a protozoal disease that may induce systemic vasculitis, portal hypertension and thromboembolic complications in dogs and cats. Vascular ultrasonography is widely used to assess vasculitis in people, but veterinary data on vascular wall changes associated with leishmaniosis are limited. This study aimed to establish reference values for abdominal vascular wall thickness in healthy dogs and cats and to characterise ultrasonographic vascular abnormalities in patients with leishmaniosis. The study combined a prospective cross-sectional control cohort with a retrospective case series. Ten healthy dogs and ten healthy cats were recruited as controls, and twenty-three dogs and sev...",
-        "pmid": "42314866",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42314866/",
-        "doiUrl": "https://doi.org/10.1016/j.tvjl.2026.106751",
-        "url": "https://doi.org/10.1016/j.tvjl.2026.106751"
-      },
-      {
-        "title": "Clinical spectrum, genetic variants, and outcomes of autosomal recessive polycystic kidney disease in Omani children: two-center experience.",
-        "journal": "Pediatric nephrology (Berlin, Germany)",
-        "pubDate": "2026 Jun 18",
-        "studyType": "Journal Article",
-        "authors": "Al Riyami MS, Al Wahaibi K, Ahmed H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：常染色体隐性多囊肾病 (ARPKD) 是一种罕见的遗传性疾病，其特征是肾脏和肝脏受累，通常在生命早期出现。 临床提示：来自阿拉伯人群的数据有限，特别是在阿曼，血缘关系很常见，可能会影响基因型与表型的相关性。",
-        "abstract": "Autosomal recessive polycystic kidney disease (ARPKD) is a rare inherited disorder characterized by kidney and hepatic involvement, often presenting in early life. Data from Arab populations are limited, particularly in Oman, where consanguinity is common and may influence genotype-phenotype correlations. This retrospective study included Omani children (0-13 years) diagnosed with ARPKD between January 2011 and December 2024 at two national tertiary centers. Clinical features, genetic variants, kidney and hepatic outcomes, and mortality were analyzed. Kidney and hepatic severity were compared by genotype, and kidney and patient survival were assessed using Kaplan-Meier analysis. A total of 1...",
-        "pmid": "42313208",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42313208/",
-        "doiUrl": "https://doi.org/10.1007/s00467-026-07418-z",
-        "url": "https://doi.org/10.1007/s00467-026-07418-z"
-      },
-      {
-        "title": "Hospitalizations for schistosomiasis in Spain by sex: a population-based study using the national hospital discharge database (2016-2023).",
-        "journal": "BMC infectious diseases",
-        "pubDate": "2026 Jun 17",
-        "studyType": "Journal Article",
-        "authors": "Ramos-Belinchon A, Otero-Rodriguez S, Belinchon-Romero I",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：血吸虫病是欧洲新出现的输入性寄生虫病，但有关非流行国家住院患者临床负担的信息仍然有限。 临床提示：使用全国出院数据描述西班牙血吸虫病住院患者的流行病学、临床特征、并发症和结果，重点关注性别相关差异",
-        "abstract": "Schistosomiasis is an emerging imported parasitic disease in Europe, but information on its clinical burden among hospitalized patients in non-endemic countries remains limited. To describe the epidemiology, clinical characteristics, complications, and outcomes of patients hospitalized with schistosomiasis in Spain using nationwide hospital discharge data, with a focus on sex-related differences. We conducted a retrospective observational study using the Spanish National Hospital Discharge Database (SNHDD). All hospitalizations with schistosomiasis (ICD-10: B65) recorded between 2016 and 2023 were included. Demographic characteristics, country of birth, clinical conditions, complications, an...",
-        "pmid": "42310580",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42310580/",
-        "doiUrl": "https://doi.org/10.1186/s12879-026-13711-x",
-        "url": "https://doi.org/10.1186/s12879-026-13711-x"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗最高领导人称特朗普“出于绝望”达成协议，美国解除海上封锁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗最高领导人称特朗普“出于绝望”达成协议，美国解除海上封锁”。核心要点：伊朗最高领导人表示，他不同意该协议，唐纳德·特朗普“出于绝望”签署了该协议。",
+        "titleZh": "美国表示，以色列和真主党同意停火，据报道黎巴嫩发生更多袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国表示，以色列和真主党同意停火，据报道黎巴嫩发生更多袭击”。核心要点：该协议达成之前，人们担心持续的冲突将破坏结束美国和伊朗之间战争的协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 19 Jun 2026 01:34:00 GMT",
-        "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 19 Jun 2026 19:27:12 GMT",
+        "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "鲍文：美伊协议引发了不可避免的问题：战争的目的是什么",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：美伊协议引发了不可避免的问题：战争的目的是什么”。核心要点：虽然人员伤亡是显而易见的，但伊朗政权不仅在战争中幸存下来，而且还获得了权力。",
+        "titleZh": "意大利的梅洛尼称特朗普“编造”了她“恳求”他在七国集团峰会上合影的故事",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“意大利的梅洛尼称特朗普“编造”了她“恳求”他在七国集团峰会上合影的故事”。核心要点：这种高度公开的交流表明，自特朗普决定与伊朗开战以来，他们早先的密切关系已经出现紧张。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 15:53:55 GMT",
-        "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 19 Jun 2026 19:36:10 GMT",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗和美国从协议中得到什么以及为什么双方都可能难以维持协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗和美国从协议中得到什么以及为什么双方都可能难以维持协议”。核心要点：英国广播公司(BBC)分析人士评估了华盛顿和德黑兰双方声称通过该协议赢得了结束战争的胜利的说法。",
+        "titleZh": "美国将停止资助南非的艾滋病毒项目",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国将停止资助南非的艾滋病毒项目”。核心要点：超过八百万南非人感染艾滋病毒——是世界上感染艾滋病毒人数最多的国家。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 20:04:40 GMT",
-        "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 19 Jun 2026 23:35:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰最大的炼油厂袭击事件后，莫斯科居民抱怨下黑雨",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰最大的炼油厂袭击事件后，莫斯科居民抱怨下黑雨”。核心要点：近 200 架乌克兰无人机袭击了俄罗斯首都东南部的一个地区，一座炼油厂和一座购物中心被烧毁。",
+        "titleZh": "观看：世界杯球迷对美国击败澳大利亚进入淘汰赛的反应",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“观看：世界杯球迷对美国击败澳大利亚进入淘汰赛的反应”。核心要点：美国队以 2-0 战胜澳大利亚队后，美国球迷很高兴，而澳大利亚球迷则感到失望，但仍然充满希望。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 15:46:36 GMT",
-        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 20 Jun 2026 03:13:18 GMT",
+        "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "武装分子袭击尼日尔最大机场 35 人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“武装分子袭击尼日尔最大机场 35 人死亡”。核心要点：尼日尔十年来一直在与激进的伊斯兰叛乱分子作战，今年一月，疑似圣战分子袭击了同一机场。",
+        "titleZh": "泽连斯基因二战陆军单位名称被剥夺波兰最高荣誉",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基因二战陆军单位名称被剥夺波兰最高荣誉”。核心要点：乌克兰谴责此举，称其为“战略错误”和“不尊重”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 21:47:25 GMT",
-        "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 19 Jun 2026 21:46:07 GMT",
+        "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "计划在房屋销售重组中通过具有约束力的协议来结束加注行为",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“计划在房屋销售重组中通过具有约束力的协议来结束加注行为”。核心要点：销售协议将更快地具有法律约束力，并要求卖家预先提供更多的房屋信息，这些都是计划中的变更的一部分。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 19 Jun 2026 11:41:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "奥利里与瑞安航空续约，这笔交易可能让他净赚超过 1.3 亿英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“奥利里与瑞安航空续约，这笔交易可能让他净赚超过 1.3 亿英镑”。核心要点：这位瑞安航空老板将合同延长至 2032 年，其中一项奖金计划可以让他赚取超过 1.5 亿欧元（1.3 亿英镑）。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 19 Jun 2026 15:27:27 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "随着借贷增加，公共财政“脆弱”警告",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着借贷增加，公共财政“脆弱”警告”。核心要点：根据官方数据，英国 5 月份借款 233 亿英镑，比去年同月增加近三分之一。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 19 Jun 2026 08:37:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“如果他要求分摊，我会推迟”：第一次约会谁应该付钱？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““如果他要求分摊，我会推迟”：第一次约会谁应该付钱？”。核心要点：有些人坚持分摊账单，另一些人则认为提出要求的人应该付钱，而许多人仍然认为男人付钱是浪漫的。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 19 Jun 2026 06:52:40 GMT",
+        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "英国央行公司数据显示，脱欧使英国经济损失 6%",
         "summaryZh": "这是一条金融市场新闻，重点围绕“英国央行公司数据显示，脱欧使英国经济损失 6%”。核心要点：分析显示，如果英国没有退出欧盟，英国的经济增长幅度是多少。",
@@ -122,38 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 18 Jun 2026 23:05:05 GMT",
         "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "“他隐藏了点菜菜单”：第一次约会谁应该付钱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““他隐藏了点菜菜单”：第一次约会谁应该付钱”。核心要点：有些人坚持分摊账单，另一些人则认为提出要求的人应该付钱，而许多人仍然认为男人付钱是浪漫的。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 23:09:19 GMT",
-        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "伊朗和平协议可能影响您和您的金钱的五种方式",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗和平协议可能影响您和您的金钱的五种方式”。核心要点：随着最近几天燃料和天然气价格的下跌，我们通过五张图表来了解敌对行动的结束可能对您产生的影响。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 23:06:20 GMT",
-        "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "希思罗机场“关键”扩建蓝图发布",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“希思罗机场“关键”扩建蓝图发布”。核心要点：关于希思罗机场扩建的咨询已启动，概述了该项目继续进行的条件。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 15:07:21 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "央行警告高能源价格的影响，维持利率不变",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“央行警告高能源价格的影响，维持利率不变”。核心要点：央行上次降息是在 12 月份，但中东的动荡阻碍了进一步的降息。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 12:50:33 GMT",
-        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
