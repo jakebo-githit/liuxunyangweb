@@ -1,0 +1,384 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>雷克萨斯 ES350 议价工具</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      .pricing-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9em;
+      }
+      .pricing-table th,
+      .pricing-table td {
+        border: 1.5px solid var(--border);
+        padding: 10px 12px;
+        text-align: center;
+        vertical-align: middle;
+      }
+      .pricing-table th {
+        background: #e6f3f9;
+        color: var(--accent);
+        font-weight: 700;
+      }
+      .pricing-table .label-col {
+        text-align: left;
+        font-weight: 600;
+        background: #f7fbfd;
+        white-space: nowrap;
+      }
+      .pricing-table tr:nth-child(even) td:not(.label-col) {
+        background: #fafcff;
+      }
+      .pricing-table .section-header td {
+        background: #0f6d92;
+        color: #fff;
+        font-weight: 700;
+        text-align: left;
+        padding: 8px 12px;
+      }
+      .pricing-table .total-row td {
+        font-weight: 700;
+        background: #d9edf6;
+        color: #0b4f71;
+        font-size: 1.05em;
+      }
+      .pricing-table [contenteditable="true"] {
+        outline: none;
+        min-width: 100px;
+        cursor: text;
+      }
+      .pricing-table [contenteditable="true"]:focus {
+        background: #fffde7;
+        outline: 2px solid var(--accent);
+        border-radius: 4px;
+      }
+      .tip-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      .tip-list li {
+        padding: 10px 0 10px 1.5em;
+        border-bottom: 1px solid var(--border);
+        position: relative;
+      }
+      .tip-list li::before {
+        content: "✓";
+        position: absolute;
+        left: 0;
+        color: #2e8b57;
+        font-weight: 700;
+      }
+      .tip-list li:last-child {
+        border-bottom: none;
+      }
+      .back-link {
+        display: inline-block;
+        color: var(--accent);
+        text-decoration: none;
+        font-weight: 700;
+        margin-bottom: 1rem;
+      }
+      .back-link:hover {
+        text-decoration: underline;
+      }
+      .scroll-hint {
+        font-size: 0.8em;
+        color: var(--muted);
+        margin: 0 0 0.5rem;
+      }
+      .save-btn {
+        background: var(--accent);
+        color: #fff;
+        border-color: var(--accent);
+      }
+      .save-btn:hover {
+        background: #0b4f71;
+        border-color: #0b4f71;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="hero">
+      <h1>雷克萨斯 ES350 议价工具</h1>
+      <p>三家经销商报价对比 · 议价策略参考</p>
+    </header>
+
+    <main class="container">
+      <a href="./index.html" class="back-link">← 返回主页</a>
+
+      <!-- 报价对比表 -->
+      <section class="card">
+        <div class="card-head">
+          <h2>三家经销商报价对比</h2>
+          <button id="saveBtn" class="control-btn save-btn" type="button">保存到本地</button>
+        </div>
+        <p class="topic-desc">点击单元格可直接编辑，点击「保存到本地」后数据将保留在本设备浏览器中。</p>
+        <p class="scroll-hint">（手机端可左右滑动表格）</p>
+
+        <div style="overflow-x: auto;">
+          <table class="pricing-table" id="pricingTable">
+            <thead>
+              <tr>
+                <th class="label-col">项目</th>
+                <th>经销商 A</th>
+                <th>经销商 B</th>
+                <th>经销商 C</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="section-header"><td colspan="4">基本信息</td></tr>
+              <tr>
+                <td class="label-col">经销商名称</td>
+                <td contenteditable="true" data-key="a-name"></td>
+                <td contenteditable="true" data-key="b-name"></td>
+                <td contenteditable="true" data-key="c-name"></td>
+              </tr>
+              <tr>
+                <td class="label-col">销售顾问</td>
+                <td contenteditable="true" data-key="a-contact"></td>
+                <td contenteditable="true" data-key="b-contact"></td>
+                <td contenteditable="true" data-key="c-contact"></td>
+              </tr>
+              <tr>
+                <td class="label-col">联系电话</td>
+                <td contenteditable="true" data-key="a-phone"></td>
+                <td contenteditable="true" data-key="b-phone"></td>
+                <td contenteditable="true" data-key="c-phone"></td>
+              </tr>
+              <tr>
+                <td class="label-col">车型 / 配置</td>
+                <td contenteditable="true" data-key="a-model">ES350 豪华版</td>
+                <td contenteditable="true" data-key="b-model">ES350 豪华版</td>
+                <td contenteditable="true" data-key="c-model">ES350 豪华版</td>
+              </tr>
+              <tr>
+                <td class="label-col">颜色</td>
+                <td contenteditable="true" data-key="a-color"></td>
+                <td contenteditable="true" data-key="b-color"></td>
+                <td contenteditable="true" data-key="c-color"></td>
+              </tr>
+              <tr>
+                <td class="label-col">是否现车</td>
+                <td contenteditable="true" data-key="a-stock"></td>
+                <td contenteditable="true" data-key="b-stock"></td>
+                <td contenteditable="true" data-key="c-stock"></td>
+              </tr>
+              <tr>
+                <td class="label-col">交车周期</td>
+                <td contenteditable="true" data-key="a-delivery"></td>
+                <td contenteditable="true" data-key="b-delivery"></td>
+                <td contenteditable="true" data-key="c-delivery"></td>
+              </tr>
+
+              <tr class="section-header"><td colspan="4">价格明细（元）</td></tr>
+              <tr>
+                <td class="label-col">官方指导价</td>
+                <td contenteditable="true" data-key="a-msrp">399,800</td>
+                <td contenteditable="true" data-key="b-msrp">399,800</td>
+                <td contenteditable="true" data-key="c-msrp">399,800</td>
+              </tr>
+              <tr>
+                <td class="label-col">优惠后裸车价</td>
+                <td contenteditable="true" data-key="a-price"></td>
+                <td contenteditable="true" data-key="b-price"></td>
+                <td contenteditable="true" data-key="c-price"></td>
+              </tr>
+              <tr>
+                <td class="label-col">优惠幅度</td>
+                <td contenteditable="true" data-key="a-discount"></td>
+                <td contenteditable="true" data-key="b-discount"></td>
+                <td contenteditable="true" data-key="c-discount"></td>
+              </tr>
+              <tr>
+                <td class="label-col">购置税</td>
+                <td contenteditable="true" data-key="a-tax"></td>
+                <td contenteditable="true" data-key="b-tax"></td>
+                <td contenteditable="true" data-key="c-tax"></td>
+              </tr>
+              <tr>
+                <td class="label-col">保险（首年）</td>
+                <td contenteditable="true" data-key="a-insurance"></td>
+                <td contenteditable="true" data-key="b-insurance"></td>
+                <td contenteditable="true" data-key="c-insurance"></td>
+              </tr>
+              <tr>
+                <td class="label-col">上牌 / 牌照费</td>
+                <td contenteditable="true" data-key="a-plate"></td>
+                <td contenteditable="true" data-key="b-plate"></td>
+                <td contenteditable="true" data-key="c-plate"></td>
+              </tr>
+              <tr>
+                <td class="label-col">金融手续费</td>
+                <td contenteditable="true" data-key="a-finance"></td>
+                <td contenteditable="true" data-key="b-finance"></td>
+                <td contenteditable="true" data-key="c-finance"></td>
+              </tr>
+              <tr>
+                <td class="label-col">强制加装精品</td>
+                <td contenteditable="true" data-key="a-extras"></td>
+                <td contenteditable="true" data-key="b-extras"></td>
+                <td contenteditable="true" data-key="c-extras"></td>
+              </tr>
+              <tr>
+                <td class="label-col">赠品估值</td>
+                <td contenteditable="true" data-key="a-gifts"></td>
+                <td contenteditable="true" data-key="b-gifts"></td>
+                <td contenteditable="true" data-key="c-gifts"></td>
+              </tr>
+              <tr class="total-row">
+                <td class="label-col">综合落地价估算</td>
+                <td contenteditable="true" data-key="a-total"></td>
+                <td contenteditable="true" data-key="b-total"></td>
+                <td contenteditable="true" data-key="c-total"></td>
+              </tr>
+
+              <tr class="section-header"><td colspan="4">贷款方案（如按揭）</td></tr>
+              <tr>
+                <td class="label-col">首付金额</td>
+                <td contenteditable="true" data-key="a-downpay"></td>
+                <td contenteditable="true" data-key="b-downpay"></td>
+                <td contenteditable="true" data-key="c-downpay"></td>
+              </tr>
+              <tr>
+                <td class="label-col">贷款期数（月）</td>
+                <td contenteditable="true" data-key="a-term"></td>
+                <td contenteditable="true" data-key="b-term"></td>
+                <td contenteditable="true" data-key="c-term"></td>
+              </tr>
+              <tr>
+                <td class="label-col">月供金额</td>
+                <td contenteditable="true" data-key="a-monthly"></td>
+                <td contenteditable="true" data-key="b-monthly"></td>
+                <td contenteditable="true" data-key="c-monthly"></td>
+              </tr>
+              <tr>
+                <td class="label-col">贷款利率 / 年化</td>
+                <td contenteditable="true" data-key="a-rate"></td>
+                <td contenteditable="true" data-key="b-rate"></td>
+                <td contenteditable="true" data-key="c-rate"></td>
+              </tr>
+
+              <tr class="section-header"><td colspan="4">附加条款</td></tr>
+              <tr>
+                <td class="label-col">售后保养套餐</td>
+                <td contenteditable="true" data-key="a-service"></td>
+                <td contenteditable="true" data-key="b-service"></td>
+                <td contenteditable="true" data-key="c-service"></td>
+              </tr>
+              <tr>
+                <td class="label-col">延保政策</td>
+                <td contenteditable="true" data-key="a-warranty"></td>
+                <td contenteditable="true" data-key="b-warranty"></td>
+                <td contenteditable="true" data-key="c-warranty"></td>
+              </tr>
+              <tr>
+                <td class="label-col">综合评分（1-10）</td>
+                <td contenteditable="true" data-key="a-score"></td>
+                <td contenteditable="true" data-key="b-score"></td>
+                <td contenteditable="true" data-key="c-score"></td>
+              </tr>
+              <tr>
+                <td class="label-col">备注</td>
+                <td contenteditable="true" data-key="a-note"></td>
+                <td contenteditable="true" data-key="b-note"></td>
+                <td contenteditable="true" data-key="c-note"></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p id="saveStatus" style="margin-top: 8px; color: var(--accent); font-weight: 700; min-height: 1.4em;"></p>
+      </section>
+
+      <!-- 议价策略 -->
+      <section class="card">
+        <div class="card-head">
+          <h2>议价策略与注意事项</h2>
+        </div>
+        <ul class="tip-list">
+          <li>让三家同时报价，明确告知销售你在多家对比，制造竞争氛围</li>
+          <li>重点谈裸车价，而非落地价（落地价含税费，浮动空间较小）</li>
+          <li>务必询问有无隐性费用：出库费、服务费、按揭手续费等</li>
+          <li>拒绝强制加装精品（内饰膜、隔热膜等）；若无法避免，要求直接抵扣裸车价</li>
+          <li>确认是否为在库现车，调车或订单车议价力度不同</li>
+          <li>月末、季末是最佳议价时机，销售有冲量压力，优惠力度更大</li>
+          <li>口头报价要求书面或微信截图确认，防止后续反悔</li>
+          <li>对比全款与贷款方案：全款有时可争取更大优惠</li>
+          <li>询问首保、保养套餐、道路救援是否可赠送或折扣</li>
+          <li>签合同前再次逐项核对费用明细，确保与口头承诺一致</li>
+          <li>购置税 = 裸车价 ÷ 1.13 × 10%，自行计算避免被多收</li>
+          <li>车险不一定要在4S店办理，自行投保可能更划算</li>
+        </ul>
+      </section>
+
+      <!-- ES350 关键参数 -->
+      <section class="card">
+        <div class="card-head">
+          <h2>ES350 关键参数参考</h2>
+        </div>
+        <div style="overflow-x: auto;">
+          <table class="pricing-table">
+            <thead>
+              <tr>
+                <th class="label-col" style="width: 50%">参数</th>
+                <th>规格</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td class="label-col">发动机</td><td>3.5L V6 自然吸气</td></tr>
+              <tr><td class="label-col">最大功率</td><td>221 kW（300 PS）/ 6600 rpm</td></tr>
+              <tr><td class="label-col">最大扭矩</td><td>378 N·m / 4700 rpm</td></tr>
+              <tr><td class="label-col">变速箱</td><td>8速手自一体</td></tr>
+              <tr><td class="label-col">驱动方式</td><td>前轮驱动（FWD）</td></tr>
+              <tr><td class="label-col">0–100 km/h</td><td>约 6.6 秒</td></tr>
+              <tr><td class="label-col">综合油耗</td><td>约 10.5 L/100 km</td></tr>
+              <tr><td class="label-col">轴距</td><td>2870 mm</td></tr>
+              <tr><td class="label-col">车身尺寸（长×宽×高）</td><td>4975 × 1865 × 1445 mm</td></tr>
+              <tr><td class="label-col">整备质量</td><td>约 1790 kg</td></tr>
+              <tr><td class="label-col">官方指导价范围</td><td>约 39.98 万元起（豪华版）</td></tr>
+              <tr><td class="label-col">购置税计算公式</td><td>裸车价 ÷ 1.13 × 10%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>本页数据仅供参考，以实际合同为准 | <a href="./index.html" style="color: var(--accent);">返回主页</a></p>
+    </footer>
+
+    <script>
+      const STORAGE_KEY = "lexus_es350_pricing";
+
+      function loadData() {
+        try {
+          const saved = localStorage.getItem(STORAGE_KEY);
+          if (!saved) return;
+          const data = JSON.parse(saved);
+          document.querySelectorAll("[data-key]").forEach((el) => {
+            const key = el.dataset.key;
+            if (data[key] !== undefined && data[key] !== "") el.textContent = data[key];
+          });
+        } catch (e) {}
+      }
+
+      function saveData() {
+        const data = {};
+        document.querySelectorAll("[data-key]").forEach((el) => {
+          data[el.dataset.key] = el.textContent.trim();
+        });
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+        const status = document.getElementById("saveStatus");
+        status.textContent = "已保存 (" + new Date().toLocaleTimeString("zh-CN") + ")";
+        setTimeout(() => { status.textContent = ""; }, 3000);
+      }
+
+      document.getElementById("saveBtn").addEventListener("click", saveData);
+      loadData();
+    </script>
+  </body>
+</html>
