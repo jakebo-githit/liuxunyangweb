@@ -1,92 +1,119 @@
 {
-  "updatedAt": "2026-06-21T06:17:34.235Z",
+  "updatedAt": "2026-06-22T06:40:14.960Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "ERAS (enhanced recovery after surgery) protocol improves recovery in surgical management of pediatric non-cirrhotic portal hypertension: evaluating results of pre and post-ERAS implementation.",
+        "journal": "Pediatric surgery international",
+        "pubDate": "2026 Jun 21",
+        "studyType": "Journal Article",
+        "authors": "Hasan S, Çeltik Ü, Ergün O",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：需要复杂门体分流手术的儿童非肝硬化门静脉高压症 (PHT) 的标准化围手术期途径仍然缺乏。 临床提示：加速康复外科 (ERAS) 方案旨在减少手术压力并优化术后恢复。",
+        "abstract": "Standardized perioperative pathways for pediatric non-cirrhotic portal hypertension (PHT) requiring complex portosystemic shunt surgery remain scarce. Enhanced Recovery After Surgery (ERAS) protocols aim to reduce surgical stress and optimize postoperative recovery. This study evaluates the impact of ERAS implementation on outcomes in children undergoing shunt procedures for PHT. A retrospective cohort study was conducted over 18 years. Patients were divided into two groups: Group I (pre-ERAS,2006-2016) and Group II (post-ERAS,2016-2024). Demographics, surgical type, time to oral feeding, mobilization, drain usage, ICU stay, hospital stay, and 30-day readmissions were analyzed. A total of 10...",
+        "pmid": "42323737",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42323737/",
+        "doiUrl": "https://doi.org/10.1007/s00383-026-06505-4",
+        "url": "https://doi.org/10.1007/s00383-026-06505-4"
+      },
+      {
+        "title": "Numerical study on the impacts of shunt pathway presence, anatomical characteristics, and occlusion degree in patients with spontaneous splenorenal shunt.",
+        "journal": "Computer methods in biomechanics and biomedical engineering",
+        "pubDate": "2026 Jun 20",
+        "studyType": "Journal Article",
+        "authors": "Cao X, Liu F, Zhao P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：自发性脾肾分流术（SSRS）很复杂，并且与肝性脑病发病率增加相关。 临床提示：SSRS 治疗不当可能会导致门脉高压 (PH) 恶化。",
+        "abstract": "Spontaneous splenorenal shunts (SSRSs) are complex and associated with increased hepatic encephalopathy incidence. Improper treatments of SSRSs may cause portal hypertension (PH) deterioration. This study aims to evaluate the effects of the presence and various characteristics of SSRS on portal venous system hemodynamics and to explore the impacts of SSRS occlusion by investigating dynamic changes of portal venous pressure (PVP) before and after occlusion. Numerical simulations are performed through patient-specific models constructed from computed tomography angiography images and boundary conditions obtained from ultrasound velocity and balloon manometry measurements. SSRS models with diff...",
+        "pmid": "42322630",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42322630/",
+        "doiUrl": "https://doi.org/10.1080/10255842.2026.2687652",
+        "url": "https://doi.org/10.1080/10255842.2026.2687652"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "德黑兰称已关闭霍尔木兹海峡，美伊会谈将在瑞士开始",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“德黑兰称已关闭霍尔木兹海峡，美伊会谈将在瑞士开始”。核心要点：美国对伊朗声称关闭水道的说法提出质疑，德黑兰称此举是对以色列袭击黎巴嫩的回应。",
+        "titleZh": "调解员表示，第一轮美伊谈判以“令人鼓舞的进展”结束",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“调解员表示，第一轮美伊谈判以“令人鼓舞的进展”结束”。核心要点：美国与伊朗的谈判于周日在瑞士开始，上周达成协议，其中包括承诺在 60 天内达成最终协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 04:34:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 04:45:26 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "BBC 看到以色列占领的黎巴嫩南部村庄被毁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC 看到以色列占领的黎巴嫩南部村庄被毁”。核心要点：英国广播公司 (BBC) 的雨果·巴切加 (Hugo Bachega) 与人道主义车队一起罕见地进入以色列占领下的黎巴嫩部分地区。",
+        "titleZh": "初步统计显示，特朗普支持的政治局外人赢得了哥伦比亚选举",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“初步统计显示，特朗普支持的政治局外人赢得了哥伦比亚选举”。核心要点：阿韦拉多·德拉埃斯普里埃拉似乎以微弱优势击败了他的竞争对手伊万·塞佩达，后者表示初步统计“尚未正式或具有约束力”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 20 Jun 2026 16:37:03 GMT",
-        "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 03:31:40 GMT",
+        "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "黎巴嫩海龟保护主义者莫娜·哈利勒在以色列袭击中丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“黎巴嫩海龟保护主义者莫娜·哈利勒在以色列袭击中丧生”。核心要点：莫娜·哈利勒拒绝离开她多年来保护的海滩，在以色列袭击后因伤重不治身亡。",
+        "titleZh": "俄罗斯军队集结威胁被视为夺取乌克兰顿巴斯关键的城市",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯军队集结威胁被视为夺取乌克兰顿巴斯关键的城市”。核心要点：如果科斯特扬季尼夫卡陷落，俄罗斯军队将能够向乌克兰东部仅存的最后据点推进。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 20 Jun 2026 17:40:43 GMT",
-        "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 21 Jun 2026 23:57:59 GMT",
+        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "哥伦比亚不断升级的残酷内部冲突正在决定其总统选举",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚不断升级的残酷内部冲突正在决定其总统选举”。核心要点：一位支持与武装团伙谈判的左翼参议员面临着特朗普支持的局外人。",
+        "titleZh": "防弹少年团粉丝因复出巡演门票战中诈骗而损失数千美元",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“防弹少年团粉丝因复出巡演门票战中诈骗而损失数千美元”。核心要点：由于门票供不应求的比例为 15 比 1，绝望的球迷很容易成为目标。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 20 Jun 2026 23:17:51 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 21 Jun 2026 23:44:31 GMT",
+        "url": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着争吵升级，梅洛尼告诉特朗普“专注于自己的受欢迎程度”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着争吵升级，梅洛尼告诉特朗普“专注于自己的受欢迎程度””。核心要点：美国总统早些时候在暗示梅洛尼在七国集团峰会上“乞求”合影后质疑她的受欢迎程度",
+        "titleZh": "佛得角球迷在 BBC 新闻节目中疯狂直播，因为他的国家得分",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“佛得角球迷在 BBC 新闻节目中疯狂直播，因为他的国家得分”。核心要点：在 BBC 新闻直播中，记者 Paul Njie 采访了一名佛得角球迷，当时佛得角在 2026 年世界杯对阵乌拉圭的比赛中突然攻入了世界杯首个进球。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 20 Jun 2026 15:31:12 GMT",
-        "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 21 Jun 2026 23:53:13 GMT",
+        "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
+        "titleZh": "虚假浪漫到错过送货：如何保护自己免受三种常见骗局的侵害",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“虚假浪漫到错过送货：如何保护自己免受三种常见骗局的侵害”。核心要点：浪漫和投资欺诈已达到创纪录的水平，但您可以采取什么措施来防止被抓住。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 21 Jun 2026 23:10:16 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "《玩具总动员 5》创下系列首周末票房纪录",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“《玩具总动员 5》创下系列首周末票房纪录”。核心要点：这部电影的上映标志着迪士尼和皮克斯在近年来面临巨大挑战后的回归。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 22 Jun 2026 03:13:05 GMT",
+        "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "“当我听说最后一家银行要关门时，我睡不着”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““当我听说最后一家银行要关门时，我睡不着””。核心要点：当 84 岁的玛吉·多德 (Maggie Dodd) 发现洛赫吉尔普黑德仅存的最后一家银行即将关闭时，她开始恐慌。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 21 Jun 2026 23:03:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "Wowcher 对“不可接受的”鳄鱼攻击电子邮件表示歉意",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Wowcher 对“不可接受的”鳄鱼攻击电子邮件表示歉意”。核心要点：该公司的营销电子邮件似乎提到了动物园里涉及一名幼儿的事件。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 21 Jun 2026 19:12:32 GMT",
+        "url": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "titleZh": "计划在房屋销售重组中通过具有约束力的协议来结束加注行为",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“计划在房屋销售重组中通过具有约束力的协议来结束加注行为”。核心要点：销售协议将更快地具有法律约束力，并要求卖家预先提供更多的房屋信息，这些都是计划中的变更的一部分。",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“计划在房屋销售重组中通过具有约束力的协议来结束加注行为”。核心要点：销售协议将更快地具有法律约束力，并且让卖家预先提供更多的房屋信息是计划中的变更的一部分。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 19 Jun 2026 11:41:14 GMT",
         "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "奥利里与瑞安航空续约，这笔交易可能让他净赚超过 1.3 亿英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“奥利里与瑞安航空续约，这笔交易可能让他净赚超过 1.3 亿英镑”。核心要点：这位瑞安航空老板将合同延长至 2032 年，其中一项奖金计划可以让他赚取超过 1.5 亿欧元（1.3 亿英镑）。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 19 Jun 2026 15:27:27 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "随着借贷增加，公共财政“脆弱”警告",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着借贷增加，公共财政“脆弱”警告”。核心要点：根据官方数据，英国 5 月份借款 233 亿英镑，比去年同月增加近三分之一。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 19 Jun 2026 08:37:31 GMT",
-        "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "“如果他要求分摊，我会推迟”：第一次约会谁应该付钱？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““如果他要求分摊，我会推迟”：第一次约会谁应该付钱？”。核心要点：有些人坚持分摊账单，另一些人则认为提出要求的人应该付钱，而许多人仍然认为男人付钱是浪漫的。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 19 Jun 2026 06:52:40 GMT",
-        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "英国央行公司数据显示，脱欧使英国经济损失 6%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国央行公司数据显示，脱欧使英国经济损失 6%”。核心要点：分析显示，如果英国没有退出欧盟，英国的经济增长幅度是多少。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 18 Jun 2026 23:05:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
