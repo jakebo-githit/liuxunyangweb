@@ -1,53 +1,69 @@
 {
-  "updatedAt": "2026-06-22T06:40:14.960Z",
+  "updatedAt": "2026-06-23T05:14:00.753Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "ERAS (enhanced recovery after surgery) protocol improves recovery in surgical management of pediatric non-cirrhotic portal hypertension: evaluating results of pre and post-ERAS implementation.",
-        "journal": "Pediatric surgery international",
-        "pubDate": "2026 Jun 21",
-        "studyType": "Journal Article",
-        "authors": "Hasan S, Çeltik Ü, Ergün O",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：需要复杂门体分流手术的儿童非肝硬化门静脉高压症 (PHT) 的标准化围手术期途径仍然缺乏。 临床提示：加速康复外科 (ERAS) 方案旨在减少手术压力并优化术后恢复。",
-        "abstract": "Standardized perioperative pathways for pediatric non-cirrhotic portal hypertension (PHT) requiring complex portosystemic shunt surgery remain scarce. Enhanced Recovery After Surgery (ERAS) protocols aim to reduce surgical stress and optimize postoperative recovery. This study evaluates the impact of ERAS implementation on outcomes in children undergoing shunt procedures for PHT. A retrospective cohort study was conducted over 18 years. Patients were divided into two groups: Group I (pre-ERAS,2006-2016) and Group II (post-ERAS,2016-2024). Demographics, surgical type, time to oral feeding, mobilization, drain usage, ICU stay, hospital stay, and 30-day readmissions were analyzed. A total of 10...",
-        "pmid": "42323737",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42323737/",
-        "doiUrl": "https://doi.org/10.1007/s00383-026-06505-4",
-        "url": "https://doi.org/10.1007/s00383-026-06505-4"
+        "title": "Pregnancy After In Vitro Fertilization in Budd-Chiari Syndrome Secondary to Polycythemia Vera: Multidisciplinary Management and Perioperative Considerations.",
+        "journal": "Journal of medical cases",
+        "pubDate": "2026 Jul",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Musulin N, Krofak S, Jokic A",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：布加综合征 (BCS) 是一种罕见的肝血管疾病，通常与骨髓增生性肿瘤等血栓前病症相关。 临床提示：怀孕和辅助生殖技术进一步增加了血栓形成和门静脉高压的风险。",
+        "abstract": "Budd-Chiari syndrome (BCS) is a rare hepatic vascular disorder frequently associated with prothrombotic conditions such as myeloproliferative neoplasms. Pregnancy and assisted reproductive technologies further increase thrombotic and portal-hypertensive risk. We report a successful in vitro fertilization-conceived pregnancy in a 35-year-old woman with chronic BCS secondary to JAK2-positive polycythemia vera. The pregnancy was complicated by ovarian hyperstimulation syndrome and severe intrahepatic cholestasis of pregnancy. Progressive portal hypertension with worsening esophageal varices prompted planned preterm delivery at 34 weeks' gestation. A multidisciplinary team performed cesarean del...",
+        "pmid": "42327866",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42327866/",
+        "doiUrl": "https://doi.org/10.14740/jmc5319",
+        "url": "https://doi.org/10.14740/jmc5319"
       },
       {
-        "title": "Numerical study on the impacts of shunt pathway presence, anatomical characteristics, and occlusion degree in patients with spontaneous splenorenal shunt.",
-        "journal": "Computer methods in biomechanics and biomedical engineering",
-        "pubDate": "2026 Jun 20",
+        "title": "Recompensation and Further Decompensation After Index Decompensation in Patients with Autoimmune Hepatitis: A Real-World Study.",
+        "journal": "Digestive diseases and sciences",
+        "pubDate": "2026 Jun 22",
         "studyType": "Journal Article",
-        "authors": "Cao X, Liu F, Zhao P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：自发性脾肾分流术（SSRS）很复杂，并且与肝性脑病发病率增加相关。 临床提示：SSRS 治疗不当可能会导致门脉高压 (PH) 恶化。",
-        "abstract": "Spontaneous splenorenal shunts (SSRSs) are complex and associated with increased hepatic encephalopathy incidence. Improper treatments of SSRSs may cause portal hypertension (PH) deterioration. This study aims to evaluate the effects of the presence and various characteristics of SSRS on portal venous system hemodynamics and to explore the impacts of SSRS occlusion by investigating dynamic changes of portal venous pressure (PVP) before and after occlusion. Numerical simulations are performed through patient-specific models constructed from computed tomography angiography images and boundary conditions obtained from ultrasound velocity and balloon manometry measurements. SSRS models with diff...",
-        "pmid": "42322630",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42322630/",
-        "doiUrl": "https://doi.org/10.1080/10255842.2026.2687652",
-        "url": "https://doi.org/10.1080/10255842.2026.2687652"
+        "authors": "Aggarwal A, Biswas S, Saxena S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们评估了再代偿和进一步失代偿的发生率和预测因素，并评估了再代偿对生存的影响。 临床提示：关于自身免疫性肝炎（AIH）相关失代偿性肝硬化的肝脏再代偿的数据有限。",
+        "abstract": "There are limited data on hepatic recompensation in autoimmune hepatitis (AIH)-related decompensated cirrhosis. We evaluated incidence and predictors of recompensation and further decompensation, and assessed the impact of recompensation on survival. In this retrospective analysis of a prospectively maintained database, we included patients with AIH-related decompensated cirrhosis, confirmed by liver biopsy, who were treated with immunosuppression. Recompensation, defined by Baveno VII criteria (including etiological suppression), was analyzed using Fine and Gray competing-risk model with death as competing events. Secondary outcomes were all-cause mortality and further decompensation. Among...",
+        "pmid": "42332158",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42332158/",
+        "doiUrl": "https://doi.org/10.1007/s10620-026-10056-y",
+        "url": "https://doi.org/10.1007/s10620-026-10056-y"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "调解员表示，第一轮美伊谈判以“令人鼓舞的进展”结束",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“调解员表示，第一轮美伊谈判以“令人鼓舞的进展”结束”。核心要点：美国与伊朗的谈判于周日在瑞士开始，上周达成协议，其中包括承诺在 60 天内达成最终协议。",
+        "titleZh": "伊朗否认万斯对核检查员的指控，美国放松石油制裁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗否认万斯对核检查员的指控，美国放松石油制裁”。核心要点：伊朗外交部表示，在瑞士会谈后，伊朗“没有就核检查做出新的承诺”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 04:45:26 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 23:07:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "初步统计显示，特朗普支持的政治局外人赢得了哥伦比亚选举",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“初步统计显示，特朗普支持的政治局外人赢得了哥伦比亚选举”。核心要点：阿韦拉多·德拉埃斯普里埃拉似乎以微弱优势击败了他的竞争对手伊万·塞佩达，后者表示初步统计“尚未正式或具有约束力”。",
+        "titleZh": "卡塔尔天然气爆炸造成至少13人死亡、数十人受伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卡塔尔天然气爆炸造成至少13人死亡、数十人受伤”。核心要点：该市主要液化天然气（LNG）加工基地位于拉斯拉凡工业区遭遇“技术事故”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 03:31:40 GMT",
-        "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 15:15:42 GMT",
+        "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "勒索信声称南希·格思里在绑架后死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“勒索信声称南希·格思里在绑架后死亡”。核心要点：据报道，可能的绑架者在信中表示，他们并不是故意要她死，并向家人道歉。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 23 Jun 2026 01:59:39 GMT",
+        "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "联合国称缅甸军队在六个月内杀害了700多名平民",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“联合国称缅甸军队在六个月内杀害了700多名平民”。核心要点：联合国新报告称，去年六个月内有 702 名平民死亡，其中包括 153 名儿童。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 22 Jun 2026 15:31:55 GMT",
+        "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "俄罗斯军队集结威胁被视为夺取乌克兰顿巴斯关键的城市",
@@ -56,64 +72,48 @@
         "sourceLang": "English",
         "publishedAt": "Sun, 21 Jun 2026 23:57:59 GMT",
         "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "防弹少年团粉丝因复出巡演门票战中诈骗而损失数千美元",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“防弹少年团粉丝因复出巡演门票战中诈骗而损失数千美元”。核心要点：由于门票供不应求的比例为 15 比 1，绝望的球迷很容易成为目标。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 23:44:31 GMT",
-        "url": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "佛得角球迷在 BBC 新闻节目中疯狂直播，因为他的国家得分",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“佛得角球迷在 BBC 新闻节目中疯狂直播，因为他的国家得分”。核心要点：在 BBC 新闻直播中，记者 Paul Njie 采访了一名佛得角球迷，当时佛得角在 2026 年世界杯对阵乌拉圭的比赛中突然攻入了世界杯首个进球。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 23:53:13 GMT",
-        "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "虚假浪漫到错过送货：如何保护自己免受三种常见骗局的侵害",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“虚假浪漫到错过送货：如何保护自己免受三种常见骗局的侵害”。核心要点：浪漫和投资欺诈已达到创纪录的水平，但您可以采取什么措施来防止被抓住。",
+        "titleZh": "造成一名女性死亡的特​​斯拉事故正在接受美国联邦调查",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“造成一名女性死亡的特​​斯拉事故正在接受美国联邦调查”。核心要点：周五，一名特斯拉司机表示，在他的车辆冲进德克萨斯州的一户人家后，他正在使用“自动驾驶”技术。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 23:10:16 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 22:20:07 GMT",
+        "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "《玩具总动员 5》创下系列首周末票房纪录",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“《玩具总动员 5》创下系列首周末票房纪录”。核心要点：这部电影的上映标志着迪士尼和皮克斯在近年来面临巨大挑战后的回归。",
+        "titleZh": "科技巨头甲骨文因拥抱人工智能而裁员 21,000 人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“科技巨头甲骨文因拥抱人工智能而裁员 21,000 人”。核心要点：这些削减是科技公司更广泛趋势的一部分，因为它们在人工智能上花费了数千亿美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 03:13:05 GMT",
-        "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 02:21:14 GMT",
+        "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“当我听说最后一家银行要关门时，我睡不着”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““当我听说最后一家银行要关门时，我睡不着””。核心要点：当 84 岁的玛吉·多德 (Maggie Dodd) 发现洛赫吉尔普黑德仅存的最后一家银行即将关闭时，她开始恐慌。",
+        "titleZh": "伊朗否认万斯对核检查员的指控，美国放松石油制裁",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗否认万斯对核检查员的指控，美国放松石油制裁”。核心要点：伊朗外交部表示，在瑞士会谈后，伊朗“没有就核检查做出新的承诺”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 23:03:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 23:07:45 GMT",
+        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Wowcher 对“不可接受的”鳄鱼攻击电子邮件表示歉意",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Wowcher 对“不可接受的”鳄鱼攻击电子邮件表示歉意”。核心要点：该公司的营销电子邮件似乎提到了动物园里涉及一名幼儿的事件。",
+        "titleZh": "该组织在联合国新案件中称澳大利亚煤炭和天然气出口侵犯了我们的人权",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该组织在联合国新案件中称澳大利亚煤炭和天然气出口侵犯了我们的人权”。核心要点：该组织表示，澳大利亚在不保护其公民的情况下继续批准化石燃料出口是非法的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 19:12:32 GMT",
-        "url": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 03:55:00 GMT",
+        "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "计划在房屋销售重组中通过具有约束力的协议来结束加注行为",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“计划在房屋销售重组中通过具有约束力的协议来结束加注行为”。核心要点：销售协议将更快地具有法律约束力，并且让卖家预先提供更多的房屋信息是计划中的变更的一部分。",
+        "titleZh": "易捷航空表示，美国竞购者拒绝 47 亿英镑的报价，试图“低价”收购该公司",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空表示，美国竞购者拒绝 47 亿英镑的报价，试图“低价”收购该公司”。核心要点：该航空公司将卡斯尔莱克的最新投标方式描述为“高度机会主义”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 19 Jun 2026 11:41:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 22 Jun 2026 10:29:11 GMT",
+        "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
