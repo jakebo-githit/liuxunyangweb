@@ -1,119 +1,119 @@
 {
-  "updatedAt": "2026-06-23T05:14:00.753Z",
+  "updatedAt": "2026-06-24T05:11:02.813Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pregnancy After In Vitro Fertilization in Budd-Chiari Syndrome Secondary to Polycythemia Vera: Multidisciplinary Management and Perioperative Considerations.",
-        "journal": "Journal of medical cases",
-        "pubDate": "2026 Jul",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Musulin N, Krofak S, Jokic A",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：布加综合征 (BCS) 是一种罕见的肝血管疾病，通常与骨髓增生性肿瘤等血栓前病症相关。 临床提示：怀孕和辅助生殖技术进一步增加了血栓形成和门静脉高压的风险。",
-        "abstract": "Budd-Chiari syndrome (BCS) is a rare hepatic vascular disorder frequently associated with prothrombotic conditions such as myeloproliferative neoplasms. Pregnancy and assisted reproductive technologies further increase thrombotic and portal-hypertensive risk. We report a successful in vitro fertilization-conceived pregnancy in a 35-year-old woman with chronic BCS secondary to JAK2-positive polycythemia vera. The pregnancy was complicated by ovarian hyperstimulation syndrome and severe intrahepatic cholestasis of pregnancy. Progressive portal hypertension with worsening esophageal varices prompted planned preterm delivery at 34 weeks' gestation. A multidisciplinary team performed cesarean del...",
-        "pmid": "42327866",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42327866/",
-        "doiUrl": "https://doi.org/10.14740/jmc5319",
-        "url": "https://doi.org/10.14740/jmc5319"
+        "title": "Risk factors and predictive model for transjugular intrahepatic portosystemic shunt dysfunction in cirrhotic patients.",
+        "journal": "European journal of gastroenterology & hepatology",
+        "pubDate": "2026 Aug 1",
+        "studyType": "Journal Article",
+        "authors": "Zhao Y, Xiong T, Hu S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在确定 TIPS 功能障碍的危险因素并开发预测模型来评估这种并发症。 临床提示：经颈静脉肝内门体分流术（TIPS）已被广泛用于治疗肝硬化患者失代偿性门静脉高压。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) has been widely adopted for the management of decompensated portal hypertension in cirrhotic patients. However, TIPS dysfunction remains a critical clinical challenge. This study aimed to identify risk factors for TIPS dysfunction and develop a predictive model to assess this complication. A retrospective study was conducted involving cirrhotic patients who underwent TIPS between 2017 and 2024. Among 1052 initially screened patients, 676 were finally included in the analysis. TIPS dysfunction was diagnosed using ultrasound and angiographic evaluations. The dataset was randomly divided into a training set and a validation set at a ratio of ...",
+        "pmid": "42065989",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42065989/",
+        "doiUrl": "https://doi.org/10.1097/MEG.0000000000003203",
+        "url": "https://doi.org/10.1097/MEG.0000000000003203"
       },
       {
-        "title": "Recompensation and Further Decompensation After Index Decompensation in Patients with Autoimmune Hepatitis: A Real-World Study.",
-        "journal": "Digestive diseases and sciences",
-        "pubDate": "2026 Jun 22",
-        "studyType": "Journal Article",
-        "authors": "Aggarwal A, Biswas S, Saxena S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们评估了再代偿和进一步失代偿的发生率和预测因素，并评估了再代偿对生存的影响。 临床提示：关于自身免疫性肝炎（AIH）相关失代偿性肝硬化的肝脏再代偿的数据有限。",
-        "abstract": "There are limited data on hepatic recompensation in autoimmune hepatitis (AIH)-related decompensated cirrhosis. We evaluated incidence and predictors of recompensation and further decompensation, and assessed the impact of recompensation on survival. In this retrospective analysis of a prospectively maintained database, we included patients with AIH-related decompensated cirrhosis, confirmed by liver biopsy, who were treated with immunosuppression. Recompensation, defined by Baveno VII criteria (including etiological suppression), was analyzed using Fine and Gray competing-risk model with death as competing events. Secondary outcomes were all-cause mortality and further decompensation. Among...",
-        "pmid": "42332158",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42332158/",
-        "doiUrl": "https://doi.org/10.1007/s10620-026-10056-y",
-        "url": "https://doi.org/10.1007/s10620-026-10056-y"
+        "title": "AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "pubDate": "2026 Jul",
+        "studyType": "Journal Article / Practice Guideline",
+        "authors": "Qureshi W, Hoang S, Frye J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：痔疮是一个常见问题。 临床提示：诊断和治疗可能具有挑战性。",
+        "abstract": "Hemorrhoids are a common problem. The diagnosis and treatment can be challenging. Gastroenterologists have much to offer these patients. The purpose of this American Gastroenterological Association (AGA) Clinical Practice Update Expert Review is to provide best practice advice (BPA) covering the diagnosis and treatment of hemorrhoid disease. This expert review was commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership and underwent internal peer review by the CPUC and external peer review through standard procedures of Clinical Gastroenterolog...",
+        "pmid": "42067175",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42067175/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.04.008",
+        "url": "https://doi.org/10.1016/j.cgh.2026.04.008"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗否认万斯对核检查员的指控，美国放松石油制裁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗否认万斯对核检查员的指控，美国放松石油制裁”。核心要点：伊朗外交部表示，在瑞士会谈后，伊朗“没有就核检查做出新的承诺”。",
+        "titleZh": "国会首次通过战争权力措施，谴责特朗普与伊朗的战争",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“国会首次通过战争权力措施，谴责特朗普与伊朗的战争”。核心要点：该决议在很大程度上是象征性的，但它增加了白宫一劳永逸结束冲突的压力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 23:07:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 03:57:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卡塔尔天然气爆炸造成至少13人死亡、数十人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卡塔尔天然气爆炸造成至少13人死亡、数十人受伤”。核心要点：该市主要液化天然气（LNG）加工基地位于拉斯拉凡工业区遭遇“技术事故”。",
+        "titleZh": "欧洲遭遇热浪高峰，法国溺水死亡人数激增",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧洲遭遇热浪高峰，法国溺水死亡人数激增”。核心要点：法国总理塞巴斯蒂安·勒科尔努表示，自上周四以来，法国已有 40 人因热浪而溺水身亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 15:15:42 GMT",
-        "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 16:27:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "勒索信声称南希·格思里在绑架后死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“勒索信声称南希·格思里在绑架后死亡”。核心要点：据报道，可能的绑架者在信中表示，他们并不是故意要她死，并向家人道歉。",
+        "titleZh": "卢比奥警告不要过路费 联合国表示将疏散滞留在霍尔木兹海峡的水手",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卢比奥警告不要过路费 联合国表示将疏散滞留在霍尔木兹海峡的水手”。核心要点：美国国务卿卢比奥警告伊朗，任何国家都不能向通过该海峡的船只收取费用。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 01:59:39 GMT",
-        "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 21:04:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "联合国称缅甸军队在六个月内杀害了700多名平民",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“联合国称缅甸军队在六个月内杀害了700多名平民”。核心要点：联合国新报告称，去年六个月内有 702 名平民死亡，其中包括 153 名儿童。",
+        "titleZh": "马姆达尼支持的候选人在纽约民主党初选中大获全胜",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“马姆达尼支持的候选人在纽约民主党初选中大获全胜”。核心要点：布拉德·兰德 (Brad Lander) 在一场竞选中击败丹·戈德曼 (Dan Goldman)，暴露了该市在以色列-加沙战争问题上的分歧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 15:31:55 GMT",
-        "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 05:07:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯军队集结威胁被视为夺取乌克兰顿巴斯关键的城市",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯军队集结威胁被视为夺取乌克兰顿巴斯关键的城市”。核心要点：如果科斯特扬季尼夫卡陷落，俄罗斯军队将能够向乌克兰东部仅存的最后据点推进。",
+        "titleZh": "悉尼女子遭鲨鱼袭击一周多后从昏迷中醒来",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“悉尼女子遭鲨鱼袭击一周多后从昏迷中醒来”。核心要点：34 岁的利亚·斯图尔特 (Leah Stewart) 在库吉海滩游泳时被咬伤，一只手臂被截肢。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 21 Jun 2026 23:57:59 GMT",
-        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 01:42:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "造成一名女性死亡的特​​斯拉事故正在接受美国联邦调查",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“造成一名女性死亡的特​​斯拉事故正在接受美国联邦调查”。核心要点：周五，一名特斯拉司机表示，在他的车辆冲进德克萨斯州的一户人家后，他正在使用“自动驾驶”技术。",
+        "titleZh": "下一任首相面临的经济挑战",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“下一任首相面临的经济挑战”。核心要点：尽管国家负责人会发生变化，但财政问题却没有改变。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 22:20:07 GMT",
-        "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 23:01:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "科技巨头甲骨文因拥抱人工智能而裁员 21,000 人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“科技巨头甲骨文因拥抱人工智能而裁员 21,000 人”。核心要点：这些削减是科技公司更广泛趋势的一部分，因为它们在人工智能上花费了数千亿美元。",
+        "titleZh": "十年过去了，英国脱欧的经济影响变得更加明显",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“十年过去了，英国脱欧的经济影响变得更加明显”。核心要点：十年前，许多经济学家认为，英国退出欧盟将导致长期经济损失。那么到底发生了什么？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 02:21:14 GMT",
-        "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 23:07:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗否认万斯对核检查员的指控，美国放松石油制裁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗否认万斯对核检查员的指控，美国放松石油制裁”。核心要点：伊朗外交部表示，在瑞士会谈后，伊朗“没有就核检查做出新的承诺”。",
+        "titleZh": "斯坦福大学是他们的黄金门票——人工智能会帮助还是阻碍这一点？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“斯坦福大学是他们的黄金门票——人工智能会帮助还是阻碍这一点？”。核心要点：BBC 采访了斯坦福大学的毕业生，了解他们对人工智能的真实看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 23:07:45 GMT",
-        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 23:16:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该组织在联合国新案件中称澳大利亚煤炭和天然气出口侵犯了我们的人权",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该组织在联合国新案件中称澳大利亚煤炭和天然气出口侵犯了我们的人权”。核心要点：该组织表示，澳大利亚在不保护其公民的情况下继续批准化石燃料出口是非法的。",
+        "titleZh": "由于对人工智能支出的担忧，科技股暴跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于对人工智能支出的担忧，科技股暴跌”。核心要点：主要科技股的突然抛售潮引发了人们对人工智能热潮可持续​​性的怀疑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 03:55:00 GMT",
-        "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 23 Jun 2026 17:34:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "易捷航空表示，美国竞购者拒绝 47 亿英镑的报价，试图“低价”收购该公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空表示，美国竞购者拒绝 47 亿英镑的报价，试图“低价”收购该公司”。核心要点：该航空公司将卡斯尔莱克的最新投标方式描述为“高度机会主义”。",
+        "titleZh": "谁可能成为英国下一任财政大臣？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“谁可能成为英国下一任财政大臣？”。核心要点：首相的辞职打响了英国财政主管竞赛的发令枪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 22 Jun 2026 10:29:11 GMT",
-        "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 00:43:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
