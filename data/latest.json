@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-06-24T05:11:02.813Z",
+  "updatedAt": "2026-06-25T05:15:03.008Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Risk factors and predictive model for transjugular intrahepatic portosystemic shunt dysfunction in cirrhotic patients.",
-        "journal": "European journal of gastroenterology & hepatology",
-        "pubDate": "2026 Aug 1",
-        "studyType": "Journal Article",
-        "authors": "Zhao Y, Xiong T, Hu S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究旨在确定 TIPS 功能障碍的危险因素并开发预测模型来评估这种并发症。 临床提示：经颈静脉肝内门体分流术（TIPS）已被广泛用于治疗肝硬化患者失代偿性门静脉高压。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) has been widely adopted for the management of decompensated portal hypertension in cirrhotic patients. However, TIPS dysfunction remains a critical clinical challenge. This study aimed to identify risk factors for TIPS dysfunction and develop a predictive model to assess this complication. A retrospective study was conducted involving cirrhotic patients who underwent TIPS between 2017 and 2024. Among 1052 initially screened patients, 676 were finally included in the analysis. TIPS dysfunction was diagnosed using ultrasound and angiographic evaluations. The dataset was randomly divided into a training set and a validation set at a ratio of ...",
-        "pmid": "42065989",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42065989/",
-        "doiUrl": "https://doi.org/10.1097/MEG.0000000000003203",
-        "url": "https://doi.org/10.1097/MEG.0000000000003203"
-      },
-      {
-        "title": "AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 Jul",
-        "studyType": "Journal Article / Practice Guideline",
-        "authors": "Qureshi W, Hoang S, Frye J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：痔疮是一个常见问题。 临床提示：诊断和治疗可能具有挑战性。",
-        "abstract": "Hemorrhoids are a common problem. The diagnosis and treatment can be challenging. Gastroenterologists have much to offer these patients. The purpose of this American Gastroenterological Association (AGA) Clinical Practice Update Expert Review is to provide best practice advice (BPA) covering the diagnosis and treatment of hemorrhoid disease. This expert review was commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership and underwent internal peer review by the CPUC and external peer review through standard procedures of Clinical Gastroenterolog...",
-        "pmid": "42067175",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42067175/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.04.008",
-        "url": "https://doi.org/10.1016/j.cgh.2026.04.008"
+        "title": "Value of Albumin Bilirubin and Platelet Albumin Bilirubin scores in predicting the outcome of portal hypertension-related acute upper gastrointestinal bleeding in cirrhotic patients.",
+        "journal": "La Clinica terapeutica",
+        "pubDate": "2026 Jul-Aug",
+        "studyType": "Journal Article / Observational Study",
+        "authors": "Ghait SS, K Abdel Wahab A, M El Saeed K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化中门脉高压相关的急性上消化道出血（AUGIB）具有很高的发病率和死亡率，需要客观的早期风险分层工具。 临床提示：评估 ALBI 和 PALBI 评分对出现 AUGIB 的肝硬化患者的预测价值。",
+        "abstract": "Portal hypertension-related acute upper gastrointestinal bleeding (AUGIB) in cirrhosis carries high morbidity and mortality, requiring objective early risk-stratification tools. The Albumin-Bilirubin (ALBI) and Platelet-Albumin-Bilirubin (PALBI) scores have been proposed as prognostic markers. To assess the predictive value of ALBI and PALBI scores in cirrhotic patients presenting with AUGIB. A prospective cohort of 100 cirrhotic patients admitted with AUGIB to Ain Shams University Hospitals was evaluated. ALBI and PALBI scores were calculated at admission, and patients were followed for length of stay, hepatic encephalopathy, transfusion requirements, ICU admission, and mortality, however, ...",
+        "pmid": "42340773",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42340773/",
+        "doiUrl": "https://doi.org/10.7417/CT.2026.2066",
+        "url": "https://doi.org/10.7417/CT.2026.2066"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "国会首次通过战争权力措施，谴责特朗普与伊朗的战争",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“国会首次通过战争权力措施，谴责特朗普与伊朗的战争”。核心要点：该决议在很大程度上是象征性的，但它增加了白宫一劳永逸结束冲突的压力。",
+        "titleZh": "“我所感受到的最强烈的地震”——委内瑞拉人描述恐慌",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““我所感受到的最强烈的地震”——委内瑞拉人描述恐慌”。核心要点：两次地震相隔数秒发生，第一次震级为 7.2 级，第二次为 7.5 级。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 03:57:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 02:27:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "欧洲遭遇热浪高峰，法国溺水死亡人数激增",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧洲遭遇热浪高峰，法国溺水死亡人数激增”。核心要点：法国总理塞巴斯蒂安·勒科尔努表示，自上周四以来，法国已有 40 人因热浪而溺水身亡。",
+        "titleZh": "热浪席卷西欧，法国、英国和西班牙气温创历史新高",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“热浪席卷西欧，法国、英国和西班牙气温创历史新高”。核心要点：数以千万计的人们正在努力应对严酷的气温，这导致整个非洲大陆出现了高温警报。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 16:27:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 21:39:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卢比奥警告不要过路费 联合国表示将疏散滞留在霍尔木兹海峡的水手",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卢比奥警告不要过路费 联合国表示将疏散滞留在霍尔木兹海峡的水手”。核心要点：美国国务卿卢比奥警告伊朗，任何国家都不能向通过该海峡的船只收取费用。",
+        "titleZh": "特朗普向国会请求 870 亿美元，主要用于“紧急”的伊朗战争费用",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普向国会请求 870 亿美元，主要用于“紧急”的伊朗战争费用”。核心要点：但在立法者谴责特朗普的军事行动的第二天，预算面临着一场艰苦的战斗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 21:04:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 00:51:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马姆达尼支持的候选人在纽约民主党初选中大获全胜",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“马姆达尼支持的候选人在纽约民主党初选中大获全胜”。核心要点：布拉德·兰德 (Brad Lander) 在一场竞选中击败丹·戈德曼 (Dan Goldman)，暴露了该市在以色列-加沙战争问题上的分歧。",
+        "titleZh": "法国创下最热天气后空调引发政治分歧",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国创下最热天气后空调引发政治分歧”。核心要点：随着气温飙升，法国被迫重新考虑其长期以来对空调的保留态度。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 05:07:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 13:51:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "悉尼女子遭鲨鱼袭击一周多后从昏迷中醒来",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“悉尼女子遭鲨鱼袭击一周多后从昏迷中醒来”。核心要点：34 岁的利亚·斯图尔特 (Leah Stewart) 在库吉海滩游泳时被咬伤，一只手臂被截肢。",
+        "titleZh": "菲律宾禁止涉嫌高中射手玩的电子游戏",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“菲律宾禁止涉嫌高中射手玩的电子游戏”。核心要点：罕见的校园枪击事件导致3名学生死亡、20人受伤，震惊全国。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 01:42:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 22:14:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "下一任首相面临的经济挑战",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“下一任首相面临的经济挑战”。核心要点：尽管国家负责人会发生变化，但财政问题却没有改变。",
+        "titleZh": "我从事招聘工作 30 年 - 这就是找到工作的方法",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我从事招聘工作 30 年 - 这就是找到工作的方法”。核心要点：这位招聘机构老板分享了他在严峻的就业市场中获得关注的秘诀。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 23:01:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 23:06:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "十年过去了，英国脱欧的经济影响变得更加明显",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“十年过去了，英国脱欧的经济影响变得更加明显”。核心要点：十年前，许多经济学家认为，英国退出欧盟将导致长期经济损失。那么到底发生了什么？",
+        "titleZh": "主题公园和儿童餐增值税减税生效",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“主题公园和儿童餐增值税减税生效”。核心要点：随着学校开始解散，政府将把一系列景点的税收从 20% 降至 5%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 23:07:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 23:02:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "斯坦福大学是他们的黄金门票——人工智能会帮助还是阻碍这一点？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“斯坦福大学是他们的黄金门票——人工智能会帮助还是阻碍这一点？”。核心要点：BBC 采访了斯坦福大学的毕业生，了解他们对人工智能的真实看法。",
+        "titleZh": "莫恩男爵夫人等被起诉要求追回数百万美元的 PPE Medpro",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“莫恩男爵夫人等被起诉要求追回数百万美元的 PPE Medpro”。核心要点：男爵夫人和她的丈夫道格·巴罗曼（Doug Barrowman）等人被起诉，以追回该企业欠政府的部分资金。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 23:16:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 17:32:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于对人工智能支出的担忧，科技股暴跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于对人工智能支出的担忧，科技股暴跌”。核心要点：主要科技股的突然抛售潮引发了人们对人工智能热潮可持续​​性的怀疑。",
+        "titleZh": "Anthropic 指责中国竞争对手阿里巴巴非法提取人工智能能力",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 指责中国竞争对手阿里巴巴非法提取人工智能能力”。核心要点：该公司声称阿里巴巴使用欺诈账户来访问其 Claude AI 模型的数据。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 23 Jun 2026 17:34:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 03:12:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "谁可能成为英国下一任财政大臣？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“谁可能成为英国下一任财政大臣？”。核心要点：首相的辞职打响了英国财政主管竞赛的发令枪。",
+        "titleZh": "得克萨斯州家庭因致命撞车事故起诉特斯拉",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“得克萨斯州家庭因致命撞车事故起诉特斯拉”。核心要点：一名 70 多岁的妇女在一辆特斯拉直接撞入她家后丧生。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 00:43:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 24 Jun 2026 22:33:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
