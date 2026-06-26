@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-06-25T05:15:03.008Z",
+  "updatedAt": "2026-06-26T05:21:10.575Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Value of Albumin Bilirubin and Platelet Albumin Bilirubin scores in predicting the outcome of portal hypertension-related acute upper gastrointestinal bleeding in cirrhotic patients.",
-        "journal": "La Clinica terapeutica",
-        "pubDate": "2026 Jul-Aug",
-        "studyType": "Journal Article / Observational Study",
-        "authors": "Ghait SS, K Abdel Wahab A, M El Saeed K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化中门脉高压相关的急性上消化道出血（AUGIB）具有很高的发病率和死亡率，需要客观的早期风险分层工具。 临床提示：评估 ALBI 和 PALBI 评分对出现 AUGIB 的肝硬化患者的预测价值。",
-        "abstract": "Portal hypertension-related acute upper gastrointestinal bleeding (AUGIB) in cirrhosis carries high morbidity and mortality, requiring objective early risk-stratification tools. The Albumin-Bilirubin (ALBI) and Platelet-Albumin-Bilirubin (PALBI) scores have been proposed as prognostic markers. To assess the predictive value of ALBI and PALBI scores in cirrhotic patients presenting with AUGIB. A prospective cohort of 100 cirrhotic patients admitted with AUGIB to Ain Shams University Hospitals was evaluated. ALBI and PALBI scores were calculated at admission, and patients were followed for length of stay, hepatic encephalopathy, transfusion requirements, ICU admission, and mortality, however, ...",
-        "pmid": "42340773",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42340773/",
-        "doiUrl": "https://doi.org/10.7417/CT.2026.2066",
-        "url": "https://doi.org/10.7417/CT.2026.2066"
+        "title": "Characteristics and treatment outcomes of portal hypertension after living donor liver transplantation.",
+        "journal": "Surgery today",
+        "pubDate": "2026 Jul",
+        "studyType": "Journal Article",
+        "authors": "Mita A, Ohno Y, Masuda Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 325）。核心观点：PoH 患者的 10 年和 20 年移植物存活率显着低于非 PoH 患者（69.1% vs. 临床提示：肝移植后门静脉高压（​​PoH）是一种严重的并发症，会导致移植物丢失。",
+        "abstract": "Portal hypertension (PoH) after liver transplantation is a severe complication that results in graft loss. We investigated the characteristics and evaluated the treatment outcomes of PoH after living donor liver transplantation (LDLT). This single-center, retrospective cohort study included 325 LDLT recipients. Of the subjects, 37 (11.4%) had a PoH. The 10- and 20-year graft survival rates were significantly lower in patients with PoH than in those without PoH (69.1% vs. 90.8% and 42.1% vs. 84.7%, respectively; p < 0.0001). The types of PoH were pre-hepatic, hepatic, and post-hepatic in 16, 13, and 8 patients, respectively. Interventional radiology was performed for PoH in all post-hepatic P...",
+        "pmid": "41498971",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41498971/",
+        "doiUrl": "https://doi.org/10.1007/s00595-025-03222-8",
+        "url": "https://doi.org/10.1007/s00595-025-03222-8"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "“我所感受到的最强烈的地震”——委内瑞拉人描述恐慌",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““我所感受到的最强烈的地震”——委内瑞拉人描述恐慌”。核心要点：两次地震相隔数秒发生，第一次震级为 7.2 级，第二次为 7.5 级。",
+        "titleZh": "委内瑞拉地震造成至少 235 人死亡，救援人员在废墟中搜寻幸存者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震造成至少 235 人死亡，救援人员在废墟中搜寻幸存者”。核心要点：两次相隔数秒的七级以上浅层地震已造成至少 4,300 人受伤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 02:27:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 03:24:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "热浪席卷西欧，法国、英国和西班牙气温创历史新高",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“热浪席卷西欧，法国、英国和西班牙气温创历史新高”。核心要点：数以千万计的人们正在努力应对严酷的气温，这导致整个非洲大陆出现了高温警报。",
+        "titleZh": "在充满不确定性的时期，地震对委内瑞拉造成毁灭性打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在充满不确定性的时期，地震对委内瑞拉造成毁灭性打击”。核心要点：这两次地震发生在委内瑞拉时任领导人尼古拉斯·马杜罗被美军抓获后不到六个月。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 21:39:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 02:12:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普向国会请求 870 亿美元，主要用于“紧急”的伊朗战争费用",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普向国会请求 870 亿美元，主要用于“紧急”的伊朗战争费用”。核心要点：但在立法者谴责特朗普的军事行动的第二天，预算面临着一场艰苦的战斗。",
+        "titleZh": "加拉加斯郊区建筑物倒塌，人们逃离",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加拉加斯郊区建筑物倒塌，人们逃离”。核心要点：首都及其周边地区在 7.2 级和 7.5 级地震中遭受了最严重的损失，两次地震的发生时间相隔一分钟。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 00:51:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 12:08:30 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国创下最热天气后空调引发政治分歧",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国创下最热天气后空调引发政治分歧”。核心要点：随着气温飙升，法国被迫重新考虑其长期以来对空调的保留态度。",
+        "titleZh": "随着欧洲热浪东移，巴黎限制酒类消费和销售",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着欧洲热浪东移，巴黎限制酒类消费和销售”。核心要点：德国部分地区气温可能达到 40 摄氏度，而法国官员则实施酒精限制措施以缓解医院压力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 13:51:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 00:06:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "菲律宾禁止涉嫌高中射手玩的电子游戏",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“菲律宾禁止涉嫌高中射手玩的电子游戏”。核心要点：罕见的校园枪击事件导致3名学生死亡、20人受伤，震惊全国。",
+        "titleZh": "货船遇袭后联合国暂停霍尔木兹海峡疏散计划",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“货船遇袭后联合国暂停霍尔木兹海峡疏散计划”。核心要点：据报道，该船在阿曼附近被“不明弹丸”击中，但没有人员伤亡的报道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 22:14:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 00:28:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "我从事招聘工作 30 年 - 这就是找到工作的方法",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我从事招聘工作 30 年 - 这就是找到工作的方法”。核心要点：这位招聘机构老板分享了他在严峻的就业市场中获得关注的秘诀。",
+        "titleZh": "暑假开始，航班充电宝起火风险警告",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“暑假开始，航班充电宝起火风险警告”。核心要点：锂电池火灾是飞机面临的头号安全风险，但托运行李中发现的设备数量在一年内几乎增加了一倍。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 23:06:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "主题公园和儿童餐增值税减税生效",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“主题公园和儿童餐增值税减税生效”。核心要点：随着学校开始解散，政府将把一系列景点的税收从 20% 降至 5%。",
+        "titleZh": "是的，确实有过争吵，但这就是我如何让搬回家变得可行",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“是的，确实有过争吵，但这就是我如何让搬回家变得可行”。核心要点：不断上涨的生活成本迫使更多的年轻人与父母住在一起，以下是如何避免打架的方法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 23:02:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 23:03:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "莫恩男爵夫人等被起诉要求追回数百万美元的 PPE Medpro",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“莫恩男爵夫人等被起诉要求追回数百万美元的 PPE Medpro”。核心要点：男爵夫人和她的丈夫道格·巴罗曼（Doug Barrowman）等人被起诉，以追回该企业欠政府的部分资金。",
+        "titleZh": "警方在网络攻击发生前几年就知道黑客入侵伦敦交通局的青少年",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“警方在网络攻击发生前几年就知道黑客入侵伦敦交通局的青少年”。核心要点：欧文·弗劳尔斯（Owen Flowers）和塔哈·朱贝尔（Thalha Jubair）因参与袭击而被定罪，这给伦敦交通局带来了巨额损失。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 17:32:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 23:19:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Anthropic 指责中国竞争对手阿里巴巴非法提取人工智能能力",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 指责中国竞争对手阿里巴巴非法提取人工智能能力”。核心要点：该公司声称阿里巴巴使用欺诈账户来访问其 Claude AI 模型的数据。",
+        "titleZh": "瑞安航空表示不会向坐在孩子旁边的父母收取费用",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“瑞安航空表示不会向坐在孩子旁边的父母收取费用”。核心要点：该航空公司通常向成人收取单程 8 英镑的费用，以便与年幼的孩子坐在一起。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 03:12:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 12:08:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "得克萨斯州家庭因致命撞车事故起诉特斯拉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“得克萨斯州家庭因致命撞车事故起诉特斯拉”。核心要点：一名 70 多岁的妇女在一辆特斯拉直接撞入她家后丧生。",
+        "titleZh": "苹果将​​部分产品价格提高近 20%，而 Xbox 则提高了主机成本",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果将​​部分产品价格提高近 20%，而 Xbox 则提高了主机成本”。核心要点：苹果表示，“从未见过零部件价格上涨如此之快”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 24 Jun 2026 22:33:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 19:41:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
