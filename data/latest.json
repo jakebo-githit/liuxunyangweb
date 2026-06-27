@@ -1,106 +1,92 @@
 {
-  "updatedAt": "2026-06-26T05:21:10.575Z",
+  "updatedAt": "2026-06-27T05:03:14.274Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Characteristics and treatment outcomes of portal hypertension after living donor liver transplantation.",
-        "journal": "Surgery today",
-        "pubDate": "2026 Jul",
-        "studyType": "Journal Article",
-        "authors": "Mita A, Ohno Y, Masuda Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 325）。核心观点：PoH 患者的 10 年和 20 年移植物存活率显着低于非 PoH 患者（69.1% vs. 临床提示：肝移植后门静脉高压（​​PoH）是一种严重的并发症，会导致移植物丢失。",
-        "abstract": "Portal hypertension (PoH) after liver transplantation is a severe complication that results in graft loss. We investigated the characteristics and evaluated the treatment outcomes of PoH after living donor liver transplantation (LDLT). This single-center, retrospective cohort study included 325 LDLT recipients. Of the subjects, 37 (11.4%) had a PoH. The 10- and 20-year graft survival rates were significantly lower in patients with PoH than in those without PoH (69.1% vs. 90.8% and 42.1% vs. 84.7%, respectively; p < 0.0001). The types of PoH were pre-hepatic, hepatic, and post-hepatic in 16, 13, and 8 patients, respectively. Interventional radiology was performed for PoH in all post-hepatic P...",
-        "pmid": "41498971",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41498971/",
-        "doiUrl": "https://doi.org/10.1007/s00595-025-03222-8",
-        "url": "https://doi.org/10.1007/s00595-025-03222-8"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "委内瑞拉地震造成至少 235 人死亡，救援人员在废墟中搜寻幸存者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震造成至少 235 人死亡，救援人员在废墟中搜寻幸存者”。核心要点：两次相隔数秒的七级以上浅层地震已造成至少 4,300 人受伤。",
+        "titleZh": "货船遇袭后美国对伊朗实施打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“货船遇袭后美国对伊朗实施打击”。核心要点：美国中央司令部表示，它已经袭击了导弹和无人机储存设施以及沿海雷达阵地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 03:24:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 02:48:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在充满不确定性的时期，地震对委内瑞拉造成毁灭性打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“在充满不确定性的时期，地震对委内瑞拉造成毁灭性打击”。核心要点：这两次地震发生在委内瑞拉时任领导人尼古拉斯·马杜罗被美军抓获后不到六个月。",
+        "titleZh": "国际救援队抵达委内瑞拉地震已造成 920 人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“国际救援队抵达委内瑞拉地震已造成 920 人死亡”。核心要点：数百人仍担心被困在废墟下，家人迫切需要消息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 02:12:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 04:09:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加拉加斯郊区建筑物倒塌，人们逃离",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“加拉加斯郊区建筑物倒塌，人们逃离”。核心要点：首都及其周边地区在 7.2 级和 7.5 级地震中遭受了最严重的损失，两次地震的发生时间相隔一分钟。",
+        "titleZh": "委内瑞拉地震中母亲救女儿身亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震中母亲救女儿身亡”。核心要点：埃克托·贝洛在社交媒体上写道，在这场造成至少 920 人死亡的地震中，“你们为我们的女儿献出了自己的生命”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 12:08:30 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着欧洲热浪东移，巴黎限制酒类消费和销售",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着欧洲热浪东移，巴黎限制酒类消费和销售”。核心要点：德国部分地区气温可能达到 40 摄氏度，而法国官员则实施酒精限制措施以缓解医院压力。",
+        "titleZh": "梅洛尼和特朗普：事实证明，这是一个非常公开的分歧，很难修复",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“梅洛尼和特朗普：事实证明，这是一个非常公开的分歧，很难修复”。核心要点：意大利总理不久前还被称为“特朗普耳语者”，但他们的关系却从公开攻击变成了人身侮辱。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 00:06:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 23:01:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "货船遇袭后联合国暂停霍尔木兹海峡疏散计划",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“货船遇袭后联合国暂停霍尔木兹海峡疏散计划”。核心要点：据报道，该船在阿曼附近被“不明弹丸”击中，但没有人员伤亡的报道。",
+        "titleZh": "欧洲致命热浪打破德国记录并导致公共活动暂停",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧洲致命热浪打破德国记录并导致公共活动暂停”。核心要点：德国有史以来最高气温为 41.3 摄氏度，暂时记录在与法国接壤的萨尔布吕肯。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 00:28:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "暑假开始，航班充电宝起火风险警告",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“暑假开始，航班充电宝起火风险警告”。核心要点：锂电池火灾是飞机面临的头号安全风险，但托运行李中发现的设备数量在一年内几乎增加了一倍。",
+        "titleZh": "特朗普威胁对欧洲国家征收100%的科技税关税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普威胁对欧洲国家征收100%的科技税关税”。核心要点：美国总统表示，“许多欧洲国家”一直在讨论征收此类税。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 01:37:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "是的，确实有过争吵，但这就是我如何让搬回家变得可行",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“是的，确实有过争吵，但这就是我如何让搬回家变得可行”。核心要点：不断上涨的生活成本迫使更多的年轻人与父母住在一起，以下是如何避免打架的方法。",
+        "titleZh": "国王税单的三个不寻常之处",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“国王税单的三个不寻常之处”。核心要点：查尔斯国王在 2024 年至 2025 年期间缴纳了 1290 万英镑的税款 - 以下是我们对他独特的纳税情况的了解。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 26 Jun 2026 23:00:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "大学毕业后我再次回到家 - 这就是我如何让它发挥作用",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“大学毕业后我再次回到家 - 这就是我如何让它发挥作用”。核心要点：不断上涨的生活成本迫使更多的年轻人与父母住在一起，以下是如何避免打架的方法。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Thu, 25 Jun 2026 23:03:48 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "警方在网络攻击发生前几年就知道黑客入侵伦敦交通局的青少年",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“警方在网络攻击发生前几年就知道黑客入侵伦敦交通局的青少年”。核心要点：欧文·弗劳尔斯（Owen Flowers）和塔哈·朱贝尔（Thalha Jubair）因参与袭击而被定罪，这给伦敦交通局带来了巨额损失。",
+        "titleZh": "充电宝和电子烟现在是飞机上最大的火灾风险",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“充电宝和电子烟现在是飞机上最大的火灾风险”。核心要点：锂电池火灾是飞机面临的头号安全风险，但托运行李中发现的设备数量在一年内几乎增加了一倍。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 23:19:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "瑞安航空表示不会向坐在孩子旁边的父母收取费用",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“瑞安航空表示不会向坐在孩子旁边的父母收取费用”。核心要点：该航空公司通常向成人收取单程 8 英镑的费用，以便与年幼的孩子坐在一起。",
+        "titleZh": "随着科技股暴跌，亚洲股市下滑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着科技股暴跌，亚洲股市下滑”。核心要点：韩国综合股价指数交易本周第三次暂停，以防止恐慌性抛售。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 12:08:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "苹果将​​部分产品价格提高近 20%，而 Xbox 则提高了主机成本",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果将​​部分产品价格提高近 20%，而 Xbox 则提高了主机成本”。核心要点：苹果表示，“从未见过零部件价格上涨如此之快”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 19:41:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 26 Jun 2026 07:33:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
