@@ -1,50 +1,64 @@
 {
-  "updatedAt": "2026-06-27T05:03:14.274Z",
+  "updatedAt": "2026-06-28T05:43:56.826Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Curcumin analogue C66 attenuates hypertensive nephropathy by inhibiting JNK-mediated inflammation.",
+        "journal": "International immunopharmacology",
+        "pubDate": "2026 Jun 26",
+        "studyType": "Journal Article",
+        "authors": "Yang Y, He H, Jin L",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压肾病（HTN）是高血压的常见、高度致残和致命的并发症之一，其特征是纤维化、氧化应激和慢性炎症增加。 临床提示：在本研究中，我们推测 C66 可以通过抑制 JNK 介导的炎症来预防 HTN。",
+        "abstract": "Hypertensive nephropathy (HTN) is one of the common, highly disabling, and lethal complication of hypertension and is characterized by increased fibrosis, oxidative stress, and chronic inflammation. Notably, chronic inflammation is throughout the pathogenesis of HTN, even renin-angiotensin-aldosterone system (RAAS) was blocked. Our previous study demonstrated that C66, an anti-inflammatory curcumin derivative compound, prevented various metabolic diseases via inhibiting c-Jun N-terminal kinase (JNK), a key inflammatory target. In the present study, we speculate that C66 could prevent HTN by suppressing JNK-mediated inflammation. Mice were implanted with Ang II mini pump for 4 weeks to develo...",
+        "pmid": "42361529",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42361529/",
+        "doiUrl": "https://doi.org/10.1016/j.intimp.2026.117052",
+        "url": "https://doi.org/10.1016/j.intimp.2026.117052"
+      }
+    ],
     "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "货船遇袭后美国对伊朗实施打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“货船遇袭后美国对伊朗实施打击”。核心要点：美国中央司令部表示，它已经袭击了导弹和无人机储存设施以及沿海雷达阵地。",
+        "titleZh": "“每个人获救都是一个奇迹”：委内瑞拉地震灾区的家人致电被困亲人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““每个人获救都是一个奇迹”：委内瑞拉地震灾区的家人致电被困亲人”。核心要点：家人在建筑物前守夜，担心亲人被困，但搬运沉重的废墟却是一项不可能完成的任务。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 27 Jun 2026 02:48:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 21:12:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "国际救援队抵达委内瑞拉地震已造成 920 人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“国际救援队抵达委内瑞拉地震已造成 920 人死亡”。核心要点：数百人仍担心被困在废墟下，家人迫切需要消息。",
+        "titleZh": "在加拉加斯，这感觉像是委内瑞拉现代历史上最艰难的时刻",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“在加拉加斯，这感觉像是委内瑞拉现代历史上最艰难的时刻”。核心要点：救援队正在不断努力救援被困在瓦砾下的人们。但随着希望的破灭，愤怒却与日俱增。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 27 Jun 2026 04:09:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 14:22:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "委内瑞拉地震中母亲救女儿身亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震中母亲救女儿身亡”。核心要点：埃克托·贝洛在社交媒体上写道，在这场造成至少 920 人死亡的地震中，“你们为我们的女儿献出了自己的生命”。",
+        "titleZh": "美国和伊朗交锋并指责对方违反停火协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗交锋并指责对方违反停火协议”。核心要点：伊朗表示，在美国表示袭击了伊朗境内的多个目标后，伊朗已对美国在科威特和巴林的基础设施发动了报复性袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 28 Jun 2026 04:54:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "梅洛尼和特朗普：事实证明，这是一个非常公开的分歧，很难修复",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“梅洛尼和特朗普：事实证明，这是一个非常公开的分歧，很难修复”。核心要点：意大利总理不久前还被称为“特朗普耳语者”，但他们的关系却从公开攻击变成了人身侮辱。",
+        "titleZh": "真主党谴责新协议，以色列袭击黎巴嫩南部",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“真主党谴责新协议，以色列袭击黎巴嫩南部”。核心要点：黎巴嫩和以色列签署框架协议一天后，官方媒体称，袭击已造成至少一人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 23:01:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "欧洲致命热浪打破德国记录并导致公共活动暂停",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧洲致命热浪打破德国记录并导致公共活动暂停”。核心要点：德国有史以来最高气温为 41.3 摄氏度，暂时记录在与法国接壤的萨尔布吕肯。",
+        "titleZh": "为什么金正恩从不谈论他的母亲或她有争议的血统",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么金正恩从不谈论他的母亲或她有争议的血统”。核心要点：很少有朝鲜人了解她，因为她的出身可能会威胁到该政权的合法性。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 27 Jun 2026 23:10:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
