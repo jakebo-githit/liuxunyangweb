@@ -1,64 +1,50 @@
 {
-  "updatedAt": "2026-06-28T05:43:56.826Z",
+  "updatedAt": "2026-06-29T06:04:50.561Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Curcumin analogue C66 attenuates hypertensive nephropathy by inhibiting JNK-mediated inflammation.",
-        "journal": "International immunopharmacology",
-        "pubDate": "2026 Jun 26",
-        "studyType": "Journal Article",
-        "authors": "Yang Y, He H, Jin L",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：高血压肾病（HTN）是高血压的常见、高度致残和致命的并发症之一，其特征是纤维化、氧化应激和慢性炎症增加。 临床提示：在本研究中，我们推测 C66 可以通过抑制 JNK 介导的炎症来预防 HTN。",
-        "abstract": "Hypertensive nephropathy (HTN) is one of the common, highly disabling, and lethal complication of hypertension and is characterized by increased fibrosis, oxidative stress, and chronic inflammation. Notably, chronic inflammation is throughout the pathogenesis of HTN, even renin-angiotensin-aldosterone system (RAAS) was blocked. Our previous study demonstrated that C66, an anti-inflammatory curcumin derivative compound, prevented various metabolic diseases via inhibiting c-Jun N-terminal kinase (JNK), a key inflammatory target. In the present study, we speculate that C66 could prevent HTN by suppressing JNK-mediated inflammation. Mice were implanted with Ang II mini pump for 4 weeks to develo...",
-        "pmid": "42361529",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42361529/",
-        "doiUrl": "https://doi.org/10.1016/j.intimp.2026.117052",
-        "url": "https://doi.org/10.1016/j.intimp.2026.117052"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "“每个人获救都是一个奇迹”：委内瑞拉地震灾区的家人致电被困亲人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““每个人获救都是一个奇迹”：委内瑞拉地震灾区的家人致电被困亲人”。核心要点：家人在建筑物前守夜，担心亲人被困，但搬运沉重的废墟却是一项不可能完成的任务。",
+        "titleZh": "周末从委内瑞拉地震废墟中获救的 33 人中，有两名男孩被救出",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“周末从委内瑞拉地震废墟中获救的 33 人中，有两名男孩被救出”。核心要点：随着数万人失踪，随着寻找幸存者的关键窗口关闭，亲属们又要面临另一个夜晚，等待亲人的消息。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 27 Jun 2026 21:12:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 29 Jun 2026 05:13:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在加拉加斯，这感觉像是委内瑞拉现代历史上最艰难的时刻",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“在加拉加斯，这感觉像是委内瑞拉现代历史上最艰难的时刻”。核心要点：救援队正在不断努力救援被困在瓦砾下的人们。但随着希望的破灭，愤怒却与日俱增。",
+        "titleZh": "塔利班官员称巴基斯坦空袭在阿富汗造成数十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“塔利班官员称巴基斯坦空袭在阿富汗造成数十人死亡”。核心要点：巴基斯坦称其袭击是对“恐怖袭击”的回应。塔利班称他们为“懦夫”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 27 Jun 2026 14:22:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 29 Jun 2026 04:39:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国和伊朗交锋并指责对方违反停火协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国和伊朗交锋并指责对方违反停火协议”。核心要点：伊朗表示，在美国表示袭击了伊朗境内的多个目标后，伊朗已对美国在科威特和巴林的基础设施发动了报复性袭击。",
+        "titleZh": "世界卫生组织称，欧洲热浪导致 1,300 人死亡，德国气温达到创纪录的 41.7 摄氏度",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“世界卫生组织称，欧洲热浪导致 1,300 人死亡，德国气温达到创纪录的 41.7 摄氏度”。核心要点：世卫组织总干事谭德塞警告称，欧洲尚未做好应对高温的准备。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 28 Jun 2026 04:54:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 28 Jun 2026 19:37:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "真主党谴责新协议，以色列袭击黎巴嫩南部",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“真主党谴责新协议，以色列袭击黎巴嫩南部”。核心要点：黎巴嫩和以色列签署框架协议一天后，官方媒体称，袭击已造成至少一人死亡。",
+        "titleZh": "韩国足球教练辞职，总统呼吁调查世界杯失利",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“韩国足球教练辞职，总统呼吁调查世界杯失利”。核心要点：韩国队在八支表现最好的第三名球队中失利后被淘汰。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 29 Jun 2026 03:34:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么金正恩从不谈论他的母亲或她有争议的血统",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么金正恩从不谈论他的母亲或她有争议的血统”。核心要点：很少有朝鲜人了解她，因为她的出身可能会威胁到该政权的合法性。",
+        "titleZh": "澳大利亚男子在泰国手提箱中发现死去女孩后被控谋杀",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚男子在泰国手提箱中发现死去女孩后被控谋杀”。核心要点：警方称，周六，17 岁的 Tunchanok Donhomla 的尸体被发现被丢弃在铁轨附近。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 27 Jun 2026 23:10:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 29 Jun 2026 01:58:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
@@ -71,36 +57,36 @@
         "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
       },
       {
+        "titleZh": "有网球病吗？如何在不付费的情况下进行体育运动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“有网球病吗？如何在不付费的情况下进行体育运动”。核心要点：当世界上最优秀的球员开始在温布尔登比赛时，您如何才能在预算有限的情况下参加体育运动呢？",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 28 Jun 2026 23:06:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "流氓建筑商让我们的屋顶漏水，并花了我们在兰萨罗特岛给他的 3 万英镑",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“流氓建筑商让我们的屋顶漏水，并花了我们在兰萨罗特岛给他的 3 万英镑”。核心要点：克里斯蒂安·威廉姆斯因违规行为获得了 16 万英镑的收益，但只需要偿还 1 英镑。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 29 Jun 2026 05:05:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "你能承受20多个小时的飞行吗？这家航空公司指望它",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“你能承受20多个小时的飞行吗？这家航空公司指望它”。核心要点：一些分析人士表示，首个伦敦直飞悉尼的航班是一个重要的里程碑，但您会买机票吗？",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 26 Jun 2026 23:02:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "titleZh": "国王税单的三个不寻常之处",
         "summaryZh": "这是一条金融市场新闻，重点围绕“国王税单的三个不寻常之处”。核心要点：查尔斯国王在 2024 年至 2025 年期间缴纳了 1290 万英镑的税款 - 以下是我们对他独特的纳税情况的了解。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 26 Jun 2026 23:00:30 GMT",
         "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "大学毕业后我再次回到家 - 这就是我如何让它发挥作用",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“大学毕业后我再次回到家 - 这就是我如何让它发挥作用”。核心要点：不断上涨的生活成本迫使更多的年轻人与父母住在一起，以下是如何避免打架的方法。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 23:03:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "充电宝和电子烟现在是飞机上最大的火灾风险",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“充电宝和电子烟现在是飞机上最大的火灾风险”。核心要点：锂电池火灾是飞机面临的头号安全风险，但托运行李中发现的设备数量在一年内几乎增加了一倍。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 25 Jun 2026 23:28:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "随着科技股暴跌，亚洲股市下滑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着科技股暴跌，亚洲股市下滑”。核心要点：韩国综合股价指数交易本周第三次暂停，以防止恐慌性抛售。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 26 Jun 2026 07:33:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
