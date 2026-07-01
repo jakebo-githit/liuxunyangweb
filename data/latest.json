@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-06-30T05:16:59.230Z",
+  "updatedAt": "2026-07-01T05:53:43.613Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Clinical Characteristics and Technical Outcomes of Microballoon Catheter-assisted Partial Splenic Embolization.",
+        "journal": "In vivo (Athens, Greece)",
+        "pubDate": "2026 Jul-Aug",
+        "studyType": "Journal Article",
+        "authors": "Ishikawa T, Goto M, Sato R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 279）。核心观点：部分脾栓塞（PSE）是一种针对门静脉高压症的既定介入放射学手术。 临床提示：然而，在脾肿大且血管解剖结构复杂的情况下，在脾动脉中放置引导导管可能很困难。",
+        "abstract": "Partial splenic embolization (PSE) is an established interventional radiology procedure for portal hypertension. However, in cases of splenomegaly with complex vascular anatomy, guide catheter placement in the splenic artery may be difficult. We aimed to evaluate the clinical characteristics and technical feasibility of microballoon catheter-assisted PSE in such challenging cases. Among 279 patients who underwent PSE at our institution between November 2007 and March 2026, we retrospectively analyzed 12 patients in whom conventional guide catheter insertion into the main splenic artery was unsuccessful and required microballoon catheter assistance. The study population included nine men and ...",
+        "pmid": "42379780",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42379780/",
+        "doiUrl": "https://doi.org/10.21873/invivo.14379",
+        "url": "https://doi.org/10.21873/invivo.14379"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "愤怒的委内瑞拉人指责政府疏忽和冷漠",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“愤怒的委内瑞拉人指责政府疏忽和冷漠”。核心要点：遭受两次地震破坏的地区的人们表示，他们需要政府的更多支持。",
+        "titleZh": "特朗普上任第一年就从加密货币中赚取了超过 10 亿美元",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普上任第一年就从加密货币中赚取了超过 10 亿美元”。核心要点：总统的加密货币收入远远超过了他从房地产和手表等特朗普主题商品中获得的收入。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 30 Jun 2026 03:53:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Jul 2026 03:31:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "余震让人紧张，许多委内瑞拉人只能自生自灭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“余震让人紧张，许多委内瑞拉人只能自生自灭”。核心要点：在遭受两次地震破坏的地区，人们使用撬棍、镐和徒手试图接近幸存者。",
+        "titleZh": "委内瑞拉地震六天后，三岁儿童获救并送往医院",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震六天后，三岁儿童获救并送往医院”。核心要点：视频片段显示，当孩子从拉瓜伊拉州的废墟中被救出时，救援人员欢呼雀跃。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 30 Jun 2026 04:21:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 30 Jun 2026 21:30:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "南非领导人在非官方截止日期之前警告反移民抗议者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“南非领导人在非官方截止日期之前警告反移民抗议者”。核心要点：来自其他非洲国家的数千人在反移民组织规定的周二最后期限之前离开南非。",
+        "titleZh": "美国最高法院维持与生俱来的公民身份，对特朗普造成打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国最高法院维持与生俱来的公民身份，对特朗普造成打击”。核心要点：这项裁决是唐纳德·特朗普移民议程的重大挫折，并受到民权组织的欢迎。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 29 Jun 2026 19:16:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Jul 2026 05:32:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "摩纳哥发生爆炸 造成三人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“摩纳哥发生爆炸 造成三人受伤”。核心要点：摩纳哥政府首脑告诉法新社，一栋住宅楼的爆炸“很可能是一次袭击”。",
+        "titleZh": "美国最高法院惨败特朗普，同时扩大其权力",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国最高法院惨败特朗普，同时扩大其权力”。核心要点：与生俱来的权利裁决结束了最高法院的任期，该任期为总统带来了一些关键的胜利。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 30 Jun 2026 05:12:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 30 Jun 2026 22:29:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普在最高法院戏剧性的一天取得了一场大胜和三场失败",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在最高法院戏剧性的一天取得了一场大胜和三场失败”。核心要点：虽然特朗普庆祝扩大总统权力以罢免和更换监管机构的裁决，但其他决定却是重大挫折。",
+        "titleZh": "一架飞机撞上北京的一座塔楼，但中国没有透露发生了什么",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“一架飞机撞上北京的一座塔楼，但中国没有透露发生了什么”。核心要点：碰撞在塔的一侧留下了洞，但北京已经清除了该事件的其他明显痕迹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 29 Jun 2026 20:34:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 30 Jun 2026 23:24:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "高抵押贷款利率令买家沮丧，房屋更难出售",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“高抵押贷款利率令买家沮丧，房屋更难出售”。核心要点：房地产门户网站 Zoopla 表示，自 1 月份以来挂牌出售的房屋中，有五分之三仍在市场上。",
+        "titleZh": "特朗普上任第一年就从加密货币中赚取了超过 10 亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普上任第一年就从加密货币中赚取了超过 10 亿美元”。核心要点：总统的加密货币收入远远超过了他从房地产和手表等特朗普主题商品中获得的收入。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 29 Jun 2026 23:08:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Jul 2026 03:31:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "10年来我们每天都吃盒装午餐，40岁就退休了",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“10年来我们每天都吃盒装午餐，40岁就退休了”。核心要点：Fire（经济独立，提前退休）运动要求追随者尽可能多地储蓄。",
+        "titleZh": "随着价格上涨，呼吁家庭阅读电表",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着价格上涨，呼吁家庭阅读电表”。核心要点：随着监管机构 Ofgem 的最新价格上限生效，家庭能源价格每年上涨 13%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 29 Jun 2026 23:03:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 30 Jun 2026 23:02:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国富豪在美国被判30年监禁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国富豪在美国被判30年监禁”。核心要点：郭文贵将自己标榜为中国批评者，赢得了支持其欺诈计划的追随者。",
+        "titleZh": "Anthropic 称美国取消对其先进人工智能工具的出口禁令",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 称美国取消对其先进人工智能工具的出口禁令”。核心要点：由于担心黑客可能利用《寓言》和《神话》，它们在 6 月份突然被暂停。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 30 Jun 2026 02:08:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Jul 2026 03:39:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "好莱坞导演因诈骗 Netflix 被判两年半监禁",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“好莱坞导演因诈骗 Netflix 被判两年半监禁”。核心要点：他被指控用 Netflix 节目的钱购买劳斯莱斯和法拉利等奢侈品。",
+        "titleZh": "为什么 Z 世代正在规划没有国家养老金的生活",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么 Z 世代正在规划没有国家养老金的生活”。核心要点：许多年轻人不相信当他们年长时国家养老金还会存在",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 29 Jun 2026 20:41:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 30 Jun 2026 23:05:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度最大的份额销售讲述了一个痴迷于手机的国家的故事",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“印度最大的份额销售讲述了一个痴迷于手机的国家的故事”。核心要点：NSE 和 Jio 平台体现了过去十年印度消费、投资和交易方式的巨大变化。",
+        "titleZh": "澳大利亚起诉亚马逊涉嫌与订户签订不公平合同",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“澳大利亚起诉亚马逊涉嫌与订户签订不公平合同”。核心要点：澳大利亚竞争与消费者委员会（ACCC）称亚马逊违反了消费者保护法",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 30 Jun 2026 03:42:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 01 Jul 2026 01:04:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
