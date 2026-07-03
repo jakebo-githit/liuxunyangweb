@@ -1,158 +1,106 @@
 {
-  "updatedAt": "2026-07-02T05:09:16.326Z",
+  "updatedAt": "2026-07-03T04:55:56.285Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Multifocal autoimmune pancreatitis complicated by pancreatic insufficiency and segmental portal hypertension: A case report and review of the literature.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Sep",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Ennejjari N, Abouchiba S, Abdourabbih Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：自身免疫性胰腺炎是一种日益被认可的慢性胰腺炎变体，根据国际共识诊断标准分为 2 种亚型：1 型，与 IgG4（免疫球蛋白 G4）相关疾病相关；2 型，胰腺特异性疾病 临床提示：自身免疫性胰腺炎是一种日益被认可的慢性胰腺炎变体，根据国际共识诊断标准分为 2 种亚型： 1 型，与 IgG4（免疫球蛋白 G4）相关",
-        "abstract": "Autoimmune pancreatitis is an increasingly recognized variant of chronic pancreatitis, classified into 2 subtypes by the international consensus diagnostic criteria: type 1, associated with IgG4 (Immunoglobulin G4)-related disease, and type 2, a pancreas-specific disorder often linked to inflammatory bowel disease. The diagnosis is based on histology, imaging of pancreatic parenchyma/ducts, serology (serum IgG4 levels), other organ involvement or extrapancreatic manifestations, and response to the steroid treatment. Cross-sectional imaging, including computed tomography (CT) and magnetic resonance imaging (MRI), is crucial for diagnosing both autoimmune pancreatitis subtypes, which exhibit a...",
-        "pmid": "42381741",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42381741/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.06.022",
-        "url": "https://doi.org/10.1016/j.radcr.2026.06.022"
-      },
-      {
-        "title": "FIGThe Efficacy and Safety of Clip-Assisted Endoscopic Cyanoacrylate Injection for Gastric Varices: A Systematic Review and Meta-Analysis.",
-        "journal": "Digestive diseases and sciences",
-        "pubDate": "2026 Jul 2",
-        "studyType": "Journal Article / Review",
-        "authors": "Abuelazm M, Hawas Y, Hamed BM",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：传统的内镜氰基丙烯酸酯注射（Con-ECI）是一种有效的治疗方法，但它与再出血和全身异位栓塞的显着风险相关。 临床提示：胃静脉曲张（GV）出血是门静脉高压症的严重并发症。",
-        "abstract": "Bleeding from gastric varices (GVs) is a severe complication of portal hypertension. Conventional endoscopic cyanoacrylate injection (Con-ECI) is an effective treatment, but it is associated with significant risks of rebleeding and systemic ectopic embolism. Clip-assisted ECI (Clip-ECI), where clips are deployed before glue injection, has been developed to mitigate these risks, but its efficacy remains debatable. A comprehensive search of PubMed, Embase, Web of Science, and Scopus was conducted for studies up to August 2025. The primary outcomes were all-cause rebleeding and ectopic embolism. Secondary outcomes included variceal obliteration, mortality, and procedure-related complications. R...",
-        "pmid": "42387146",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42387146/",
-        "doiUrl": "https://doi.org/10.1007/s10620-026-10071-z",
-        "url": "https://doi.org/10.1007/s10620-026-10071-z"
-      },
-      {
-        "title": "Accuracy of splenic stiffness measurement for predicting clinically significant varices in children with portal hypertension: a systematic review and diagnostic test accuracy meta-analysis.",
-        "journal": "BMJ open gastroenterology",
-        "pubDate": "2026 Jul 1",
-        "studyType": "Journal Article / Systematic Review / Meta-Analysis",
-        "authors": "Kumar A, Patel RK, Kumar Krishnegowda V",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：评估脾硬度测量 (SSM) 对门脉高压 (PHTN) 儿童（包括非肝硬化门脉高压 (NCPH) 和慢性肝病 (CLD)）临床显着静脉曲张 (CSV) 检测的诊断准确性。 临床提示：系统审查和诊断测试准确性荟萃分析。",
-        "abstract": "To evaluate the diagnostic accuracy of splenic stiffness measurement (SSM) for detecting clinically significant varices (CSV) in children with portal hypertension (PHTN), including non-cirrhotic portal hypertension (NCPH) and chronic liver disease (CLD). Systematic review and diagnostic test accuracy meta-analysis. MEDLINE (via PubMed), Embase and Scopus were searched from inception to 31 July 2025. No language or time limitations were applied. We included prospective and retrospective studies which had children (<18 years) with clinically, radiologically, biochemically or histologically diagnosed PHTN. The index test was SSM (transient elastography, 2D-shear wave elastography (SWE) or point...",
-        "pmid": "42386350",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42386350/",
-        "doiUrl": "https://doi.org/10.1136/bmjgast-2026-002246",
-        "url": "https://doi.org/10.1136/bmjgast-2026-002246"
-      },
-      {
-        "title": "Anemia and Hypoalbuminemia are Associated with Hepatic Encephalopathy and Mortality after Portal Hypertension-Related Bleeding.",
-        "journal": "Gastroenterologia y hepatologia",
+        "title": "Suspected Khat-associated Cirrhosis: Clinical Characteristics of a 28-patient Case Series from a Khat-endemic Region.",
+        "journal": "Annals of African medicine",
         "pubDate": "2026 Jul 1",
         "studyType": "Journal Article",
-        "authors": "Bordoy L, Brujats A, Camps M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝脏相关的危险因素... 临床提示：可改变的因素可能会影响肝硬化和门脉高压相关出血（PHB）患者的预后。",
-        "abstract": "Modifiable factors may influence prognosis in patients with cirrhosis and portal hypertension-related bleeding (PHB). This study characterized metabolic and hematological profiles during and after PHB and evaluated their impact on liver-related events and mortality. Observational, single-center, retrospective cohort study including patients with cirrhosis admitted for PHB and followed for 1 year. Epidemiological, clinical, analytical, and hemodynamic data were collected. Anemia was defined according to World Health Organization criteria, and the hypoalbuminemia threshold was established using receiver operating characteristic (ROC) curves and the Youden index. Risk factors for liver-related ...",
-        "pmid": "42385956",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42385956/",
-        "doiUrl": "https://doi.org/10.1016/j.gastrohep.2026.502828",
-        "url": "https://doi.org/10.1016/j.gastrohep.2026.502828"
-      },
-      {
-        "title": "Porto Sinusoidal Vascular Disorder Manifesting as Diffuse Arterio-Portal Fistulae and Portal Hypertension After Donation-After-Circulatory-Death Liver Transplantation.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Jul",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Castleberry DT, Mashal FA, Meek J",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：缺血性胆管病 (ICP) 是原位肝移植 (LT) 的一种罕见并发症，在死后捐献 (DCD) 受者中发生率增加，特别是在没有机器灌注的情况下。 临床提示：随着 DCD 利用率的增加，挑战也随之出现。",
-        "abstract": "Ischemic cholangiopathy (ICP) is a rare complication of orthotopic liver transplantation (LT), with an increased incidence in donation-after-circulatory-death (DCD) recipients, particularly without machine perfusion. As DCD utilization increases, challenges arise. We report a rare case of DCD-LT resulting in ICP, complicated by diffuse intrahepatic arterio-portal fistulae (APF) leading to portal hypertension and refractory ascites without any other cause. The candidate was relisted for LT, and the explant revealed diffuse intrahepatic APF and porto-sinusoidal vascular disorder (PSVD) without cirrhosis. To the best of our knowledge, no similar reports exist of LT recipients developing PSVD or...",
-        "pmid": "42383215",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42383215/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002224",
-        "url": "https://doi.org/10.14309/crj.0000000000002224"
+        "authors": "Someili A, Mohrag M, Hakami K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们的目的是描述阿拉伯茶流行地区疑似阿拉伯茶相关肝硬化患者的临床特征。 临床提示：卡塔叶 (Catha edulis) 在东非和阿拉伯半岛的部分地区被广泛消费。",
+        "abstract": "Khat (Catha edulis) is widely consumed in parts of East Africa and the Arabian Peninsula. Although khat-related liver injury has been described, data on the clinical presentation of cirrhosis in patients with chronic khat exposure remain limited. We aimed to describe the clinical characteristics of patients with suspected khat-associated cirrhosis in a khat-endemic region. We conducted a retrospective case series at a tertiary referral center in southern Saudi Arabia between January 2020 and December 2024. Adult patients with confirmed cirrhosis and documented chronic khat use, in the absence of an alternative dominant etiology, were included. Demographic data, comorbidities, laboratory find...",
+        "pmid": "42390243",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42390243/",
+        "doiUrl": "https://doi.org/10.4103/aam.aam_313_26",
+        "url": "https://doi.org/10.4103/aam.aam_313_26"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "俄罗斯大规模导弹和无人机袭击基辅 至少10人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯大规模导弹和无人机袭击基辅 至少10人死亡”。核心要点：乌克兰官员表示，俄罗斯对该市发动了几周来最大规模的袭击，伤亡人数“相当多”是儿童。",
+        "titleZh": "委内瑞拉地震幸存者八天后生还",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震幸存者八天后生还”。核心要点：埃尔南·吉尔被困在倒塌的多层停车场下。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 05:00:57 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 02:07:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "俄罗斯对基辅的“最大规模”袭击造成至少30人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对基辅的“最大规模”袭击造成至少30人死亡”。核心要点：最新的攻击在首都部署了最多数量的武器，打击了大范围的地点。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 03 Jul 2026 04:41:05 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "从废墟中救出的委内瑞拉男孩的姨妈告诉BBC，她会给他“母亲的温暖”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“从废墟中救出的委内瑞拉男孩的姨妈告诉BBC，她会给他“母亲的温暖””。核心要点：周三，也就是上周发生致命地震六天后，两岁的克莱伯·莫兰 (Kleiber Moran) 获救。",
+        "titleZh": "叙利亚官方媒体称，大马士革咖啡馆发生爆炸，造成六人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“叙利亚官方媒体称，大马士革咖啡馆发生爆炸，造成六人死亡”。核心要点：目前还没有立即就发生在主要政府大楼司法宫附近的一家咖啡馆发生的爆炸事件提出索赔。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 00:26:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 17:56:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "从杜鲁门的养老金到特朗普的数十亿美元——白宫的意外之财是任何总统都无法比拟的",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“从杜鲁门的养老金到特朗普的数十亿美元——白宫的意外之财是任何总统都无法比拟的”。核心要点：历史学家表示，特朗普去年 22 亿美元的收入是史无前例的，模糊了利益冲突的界限。",
+        "titleZh": "梵蒂冈将全球天主教教派的追随者逐出教会",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“梵蒂冈将全球天主教教派的追随者逐出教会”。核心要点：天主教教派圣庇护十世协会的大约 60 万名追随者受到影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Jul 2026 22:36:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 17:27:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "这段AI禁毒视频让毒品看起来有魅力吗？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“这段AI禁毒视频让毒品看起来有魅力吗？”。核心要点：香港惩教署删除了一段由人工智能生成的韩国流行音乐视频，此前该视频遭到强烈反对，认为该视频使物质看起来太有吸引力。",
+        "titleZh": "中国称飞行员出于“个人原因”将小型飞机撞向摩天大楼",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“中国称飞行员出于“个人原因”将小型飞机撞向摩天大楼”。核心要点：这位在车祸中丧生的 66 岁老人感到焦虑，并在日记中提到“结束生命”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 01:54:26 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "乌克兰人因北溪爆炸在德国受到指控",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰人因北溪爆炸在德国受到指控”。核心要点：乌克兰否认参与此案，这可能对其与德国的关系产生严重影响。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 01 Jul 2026 18:19:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "圣经、小鬼当家和香水：特朗普 2025 年财政的六大要点",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“圣经、小鬼当家和香水：特朗普 2025 年财政的六大要点”。核心要点：官方文件显示，美国总统回到白宫后赚了数十亿美元。",
+        "titleZh": "“我们最多赠送 400 英镑”：您应该在婚礼上赠送多少礼物？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我们最多赠送 400 英镑”：您应该在婚礼上赠送多少礼物？”。核心要点：婚礼清单正在被现金要求所取代，但客人们对于捐赠多少存在分歧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Jul 2026 17:22:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 23:01:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "专家表示，不要指望追踪器能够拯救你被盗的汽车",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“专家表示，不要指望追踪器能够拯救你被盗的汽车”。核心要点：起亚告诉英国广播公司，英国法律禁止其位置跟踪功能用于实时跟踪车辆。",
+        "titleZh": "英格兰墨西哥队比赛期间酒吧允许营业至凌晨 5 点",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英格兰墨西哥队比赛期间酒吧允许营业至凌晨 5 点”。核心要点：政府最初表示不会进一步放宽世界杯的许可法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Jul 2026 23:31:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 20:49:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "173年后哈利法克斯品牌将被废弃",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“173年后哈利法克斯品牌将被废弃”。核心要点：劳埃德银行表示，它仍然致力于哈利法克斯镇，对客户来说不会有什么改变。",
+        "titleZh": "数以百万计的“羊肉”烤肉串中的山羊和皮与马肉千层面丑闻相比",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“数以百万计的“羊肉”烤肉串中的山羊和皮与马肉千层面丑闻相比”。核心要点：数百万人可能吃过实际上是用山羊、皮和脂肪制成的“羊肉”烤肉串。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Jul 2026 20:09:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 20:34:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国阻止北美贸易协议长期续签",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国阻止北美贸易协议长期续签”。核心要点：美国阻止续签16年北美贸易协定，引发年度滚动审查",
+        "titleZh": "瑞安航空警告新的欧盟边境系统将导致“排队混乱”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“瑞安航空警告新的欧盟边境系统将导致“排队混乱””。核心要点：该航空公司呼吁欧洲各国政府将 EES 系统推迟到暑假之后。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 01 Jul 2026 18:56:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 17:17:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着价格上涨，呼吁家庭阅读电表",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着价格上涨，呼吁家庭阅读电表”。核心要点：随着监管机构 Ofgem 的最新价格上限生效，家庭能源价格每年上涨 13%。",
+        "titleZh": "六月份美国酒店业就业岗位减少，世界杯热潮减弱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“六月份美国酒店业就业岗位减少，世界杯热潮减弱”。核心要点：锦标赛带来的就业繁荣已有初步迹象，但 6 月份酒店业就业岗位有所下降。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 30 Jun 2026 23:02:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 02 Jul 2026 13:36:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
