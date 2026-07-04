@@ -1,106 +1,92 @@
 {
-  "updatedAt": "2026-07-03T04:55:56.285Z",
+  "updatedAt": "2026-07-04T04:50:11.714Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Suspected Khat-associated Cirrhosis: Clinical Characteristics of a 28-patient Case Series from a Khat-endemic Region.",
-        "journal": "Annals of African medicine",
-        "pubDate": "2026 Jul 1",
-        "studyType": "Journal Article",
-        "authors": "Someili A, Mohrag M, Hakami K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们的目的是描述阿拉伯茶流行地区疑似阿拉伯茶相关肝硬化患者的临床特征。 临床提示：卡塔叶 (Catha edulis) 在东非和阿拉伯半岛的部分地区被广泛消费。",
-        "abstract": "Khat (Catha edulis) is widely consumed in parts of East Africa and the Arabian Peninsula. Although khat-related liver injury has been described, data on the clinical presentation of cirrhosis in patients with chronic khat exposure remain limited. We aimed to describe the clinical characteristics of patients with suspected khat-associated cirrhosis in a khat-endemic region. We conducted a retrospective case series at a tertiary referral center in southern Saudi Arabia between January 2020 and December 2024. Adult patients with confirmed cirrhosis and documented chronic khat use, in the absence of an alternative dominant etiology, were included. Demographic data, comorbidities, laboratory find...",
-        "pmid": "42390243",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42390243/",
-        "doiUrl": "https://doi.org/10.4103/aam.aam_313_26",
-        "url": "https://doi.org/10.4103/aam.aam_313_26"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "委内瑞拉地震幸存者八天后生还",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“委内瑞拉地震幸存者八天后生还”。核心要点：埃尔南·吉尔被困在倒塌的多层停车场下。",
+        "titleZh": "摩纳哥炸弹袭击后被警方追捕的乌克兰嫌疑人“伪装成男人”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“摩纳哥炸弹袭击后被警方追捕的乌克兰嫌疑人“伪装成男人””。核心要点：官员们认为，嫌疑人可能并非单独行动，他花了数天时间搜寻袭击现场。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Jul 2026 02:07:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Jul 2026 15:20:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯对基辅的“最大规模”袭击造成至少30人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对基辅的“最大规模”袭击造成至少30人死亡”。核心要点：最新的攻击在首都部署了最多数量的武器，打击了大范围的地点。",
+        "titleZh": "波兰总理警告未来几个月面临俄罗斯威胁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“波兰总理警告未来几个月面临俄罗斯威胁”。核心要点：图斯克表示，在媒体报道俄罗斯计划发动袭击后，波兰正在为“各种”情况做准备。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Jul 2026 04:41:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Jul 2026 16:41:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "叙利亚官方媒体称，大马士革咖啡馆发生爆炸，造成六人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“叙利亚官方媒体称，大马士革咖啡馆发生爆炸，造成六人死亡”。核心要点：目前还没有立即就发生在主要政府大楼司法宫附近的一家咖啡馆发生的爆炸事件提出索赔。",
+        "titleZh": "法国在热浪高峰期超额死亡 2,025 人，欧洲正准备迎接更极端的天气",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国在热浪高峰期超额死亡 2,025 人，欧洲正准备迎接更极端的天气”。核心要点：预报员警告未来几天非洲大陆将出现进一步的极端气温。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 17:56:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Jul 2026 10:23:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "梵蒂冈将全球天主教教派的追随者逐出教会",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“梵蒂冈将全球天主教教派的追随者逐出教会”。核心要点：天主教教派圣庇护十世协会的大约 60 万名追随者受到影响。",
+        "titleZh": "悲痛的家庭在临时太平间寻找委内瑞拉地震遇难者的身份",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“悲痛的家庭在临时太平间寻找委内瑞拉地震遇难者的身份”。核心要点：这场灾难使当地服务不堪重负，尸体被放在外面或帐篷里进行身份识别。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 17:27:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 03 Jul 2026 21:00:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国称飞行员出于“个人原因”将小型飞机撞向摩天大楼",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“中国称飞行员出于“个人原因”将小型飞机撞向摩天大楼”。核心要点：这位在车祸中丧生的 66 岁老人感到焦虑，并在日记中提到“结束生命”。",
+        "titleZh": "伊朗开始公开哀悼二月份遇害的阿亚图拉",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗开始公开哀悼二月份遇害的阿亚图拉”。核心要点：阿里·哈梅内伊的遗体将于周五起在德黑兰大摩萨拉安放，随后举行为期数天的葬礼。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 04 Jul 2026 04:12:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“我们最多赠送 400 英镑”：您应该在婚礼上赠送多少礼物？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我们最多赠送 400 英镑”：您应该在婚礼上赠送多少礼物？”。核心要点：婚礼清单正在被现金要求所取代，但客人们对于捐赠多少存在分歧。",
+        "titleZh": "“11点开始工作”——但其他老板会对英格兰队凌晨1点的比赛如此灵活吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““11点开始工作”——但其他老板会对英格兰队凌晨1点的比赛如此灵活吗？”。核心要点：雇主被敦促运用他们的“常识”，让员工在力所能及的范围内灵活工作。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 23:01:24 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 16:13:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "泰勒·斯威夫特（Taylor Swift）无礼物政策，但在婚礼上你应该送多少礼物？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“泰勒·斯威夫特（Taylor Swift）无礼物政策，但在婚礼上你应该送多少礼物？”。核心要点：婚礼清单正在被现金要求所取代，但客人们对于捐赠多少存在分歧。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 03 Jul 2026 10:46:34 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英格兰墨西哥队比赛期间酒吧允许营业至凌晨 5 点",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英格兰墨西哥队比赛期间酒吧允许营业至凌晨 5 点”。核心要点：政府最初表示不会进一步放宽世界杯的许可法。",
+        "titleZh": "前约翰刘易斯老板表示，解决职场疾病可以释放隐藏的增长",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“前约翰刘易斯老板表示，解决职场疾病可以释放隐藏的增长”。核心要点：超过 250 家英国最大的雇主已签署加入他的“让英国工作”工作组。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 03 Jul 2026 09:50:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伯纳姆表示税收还有一些调整空间",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆表示税收还有一些调整空间”。核心要点：但可能的下一任首相表示，他将遵守工党的承诺，不提高增值税、所得税或国民保险。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 03 Jul 2026 12:44:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "英格兰墨西哥队比赛期间酒吧允许营业至周一凌晨 5 点",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英格兰墨西哥队比赛期间酒吧允许营业至周一凌晨 5 点”。核心要点：政府最初表示不会进一步放宽世界杯的许可法。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Thu, 02 Jul 2026 20:49:17 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "数以百万计的“羊肉”烤肉串中的山羊和皮与马肉千层面丑闻相比",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“数以百万计的“羊肉”烤肉串中的山羊和皮与马肉千层面丑闻相比”。核心要点：数百万人可能吃过实际上是用山羊、皮和脂肪制成的“羊肉”烤肉串。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 20:34:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "瑞安航空警告新的欧盟边境系统将导致“排队混乱”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“瑞安航空警告新的欧盟边境系统将导致“排队混乱””。核心要点：该航空公司呼吁欧洲各国政府将 EES 系统推迟到暑假之后。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 17:17:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "六月份美国酒店业就业岗位减少，世界杯热潮减弱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“六月份美国酒店业就业岗位减少，世界杯热潮减弱”。核心要点：锦标赛带来的就业繁荣已有初步迹象，但 6 月份酒店业就业岗位有所下降。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 13:36:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
