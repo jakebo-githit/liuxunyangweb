@@ -1,50 +1,64 @@
 {
-  "updatedAt": "2026-07-05T05:07:42.505Z",
+  "updatedAt": "2026-07-06T05:35:35.658Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Restoration of hepatopetal portal flow in a cat with left hepatic arteriovenous malformation following left hepatic division resection and staged attenuation of acquired portosystemic shunts.",
+        "journal": "The Journal of veterinary medical science",
+        "pubDate": "2026 Jul 6",
+        "studyType": "Journal Article",
+        "authors": "Miki S, Hosoya K, Sasaki N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：术后，临床症状改善，肝门血流恢复，肝功能生化参数正常化。 临床提示：一只 5 个月大的芒奇金猫因血尿被转诊。",
+        "abstract": "A 5-month-old Munchkin cat was referred for hematuria. Computed tomographic angiography revealed hepatic arteriovenous malformation (HAVM) within the left lateral liver lobe and multiple acquired portosystemic shunts (APSSs), in addition to a bladder calculus. Following medical management, the cat underwent attenuation of arterioportal communications. Because ligation of the left hepatic artery did not normalize portal pressure, the left hepatic division was resected. Surgical ligation of a subset of the APSSs was performed 1 month later. Postoperatively, clinical signs improved, hepatopetal portal flow was restored, and biochemical liver function parameters normalized. The remaining APSSs r...",
+        "pmid": "42402412",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42402412/",
+        "doiUrl": "https://doi.org/10.1292/jvms.25-0600",
+        "url": "https://doi.org/10.1292/jvms.25-0600"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国以烟花、天桥和极端天气庆祝建国 250 周年",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国以烟花、天桥和极端天气庆祝建国 250 周年”。核心要点：美国总统唐纳德·特朗普的讲话包括他的一些政治议程，但也向退伍军人和美国历史致敬。",
+        "titleZh": "北约土耳其峰会前夕，俄罗斯对基辅发动空袭，造成九人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“北约土耳其峰会前夕，俄罗斯对基辅发动空袭，造成九人死亡”。核心要点：俄罗斯一周内第二次空袭基辅，救援人员正在废墟下寻找幸存者。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Jul 2026 04:38:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 04:36:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰袭击俄罗斯圣彼得堡主要石油码头",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰袭击俄罗斯圣彼得堡主要石油码头”。核心要点：乌克兰总统泽连斯基表示，目标是“为俄罗斯战争带来收入”的关键基础设施。",
+        "titleZh": "被困地震废墟下32小时的委内瑞拉女孩说：“我吃了番茄酱和奶酪”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“被困地震废墟下32小时的委内瑞拉女孩说：“我吃了番茄酱和奶酪””。核心要点：六月委内瑞拉发生两次地震后，法比亚娜被困在一栋 10 层住宅楼的废墟中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Jul 2026 18:41:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 05:04:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国勒庞的命运时刻将决定她在总统竞选中的未来",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国勒庞的命运时刻将决定她在总统竞选中的未来”。核心要点：极右翼领导人马琳·勒庞正在对一项判决提出上诉，该判决判定她犯有滥用欧盟资金罪。",
+        "titleZh": "伊朗最高领袖缺席高级官员出席阿亚图拉葬礼",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗最高领袖缺席高级官员出席阿亚图拉葬礼”。核心要点：自从美以与伊朗战争爆发时，哈梅内伊的父亲被袭击身亡后，他就再也没有在公开场合露面过。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Jul 2026 17:58:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿亚图拉哈梅内伊葬礼第一天，大量人群聚集在德黑兰",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿亚图拉哈梅内伊葬礼第一天，大量人群聚集在德黑兰”。核心要点：阿里·哈梅内伊的遗体将在德黑兰大摩萨拉安放至周一，然后穿越伊朗和伊拉克。",
+        "titleZh": "观看：莉丝·杜塞特 (Lyse Doucet) 在德黑兰前最高领导人葬礼上谈论情感和政治",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“观看：莉丝·杜塞特 (Lyse Doucet) 在德黑兰前最高领导人葬礼上谈论情感和政治”。核心要点：英国广播公司首席国际记者从德黑兰报道，那里正在举行葬礼活动，纪念伊朗前领导人阿亚图拉·阿里·哈梅内伊。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Jul 2026 09:45:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Jul 2026 17:54:47 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "前国际象棋冠军克拉姆尼克因作弊言论被禁赛",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“前国际象棋冠军克拉姆尼克因作弊言论被禁赛”。核心要点：这位前俄罗斯国际象棋世界冠军指责其他棋手作弊，其中包括已故的丹尼尔·纳罗季茨基。",
+        "titleZh": "澳大利亚总理为凯莉·米洛的“不当”言论道歉",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚总理为凯莉·米洛的“不当”言论道歉”。核心要点：阿尔巴内塞的言论引发强烈反对后，他已“明确”道歉。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 04 Jul 2026 15:45:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 01:46:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
@@ -53,40 +67,40 @@
         "summaryZh": "这是一条金融市场新闻，重点围绕““11点开始工作”——但其他老板会对英格兰队凌晨1点的比赛如此灵活吗？”。核心要点：雇主被敦促运用他们的“常识”，让员工在力所能及的范围内灵活工作。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Jul 2026 16:13:14 GMT",
+        "publishedAt": "Sun, 05 Jul 2026 13:55:34 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰勒·斯威夫特（Taylor Swift）无礼物政策，但在婚礼上你应该送多少礼物？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“泰勒·斯威夫特（Taylor Swift）无礼物政策，但在婚礼上你应该送多少礼物？”。核心要点：婚礼清单正在被现金要求所取代，但客人们对于捐赠多少存在分歧。",
+        "titleZh": "您可以采取三件事来阻止机场的欧盟边境检查，让您付出代价",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“您可以采取三件事来阻止机场的欧盟边境检查，让您付出代价”。核心要点：由于欧盟新的数字边境管制系统，预计今年夏天机场将出现排队现象。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Jul 2026 10:46:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Jul 2026 23:18:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "前约翰刘易斯老板表示，解决职场疾病可以释放隐藏的增长",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“前约翰刘易斯老板表示，解决职场疾病可以释放隐藏的增长”。核心要点：超过 250 家英国最大的雇主已签署加入他的“让英国工作”工作组。",
+        "titleZh": "Wegovy 减肥药现已在英国上市 - 这是您需要了解的信息",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Wegovy 减肥药现已在英国上市 - 这是您需要了解的信息”。核心要点：这种每日一次的药丸由 Wegovy 减肥疫苗的制造商生产，现在可以在英国药店私人购买。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Jul 2026 09:50:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 00:06:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伯纳姆表示税收还有一些调整空间",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆表示税收还有一些调整空间”。核心要点：但可能的下一任首相表示，他将遵守工党的承诺，不提高增值税、所得税或国民保险。",
+        "titleZh": "中国珍珠奶茶公司被勒令向路易威登支付 150 万美元后遭到强烈反对",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国珍珠奶茶公司被勒令向路易威登支付 150 万美元后遭到强烈反对”。核心要点：中国一家法院裁定莫莉茶侵犯了该奢侈品牌的四瓣花设计。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 03 Jul 2026 12:44:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 02:19:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英格兰墨西哥队比赛期间酒吧允许营业至周一凌晨 5 点",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英格兰墨西哥队比赛期间酒吧允许营业至周一凌晨 5 点”。核心要点：政府最初表示不会进一步放宽世界杯的许可法。",
+        "titleZh": "易捷航空就潜在收购达成“原则协议”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空就潜在收购达成“原则协议””。核心要点：这家低成本航空公司此前拒绝了美国投资公司 Castlelake 的四次收购要约。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 02 Jul 2026 20:49:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 05 Jul 2026 17:30:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
