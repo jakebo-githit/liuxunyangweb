@@ -1,106 +1,119 @@
 {
-  "updatedAt": "2026-07-06T05:35:35.658Z",
+  "updatedAt": "2026-07-07T05:05:39.600Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Restoration of hepatopetal portal flow in a cat with left hepatic arteriovenous malformation following left hepatic division resection and staged attenuation of acquired portosystemic shunts.",
-        "journal": "The Journal of veterinary medical science",
+        "title": "Short-term mortality is reduced and low grade ACLF reversed by TIPS in patients with fluid overload: a case-control study.",
+        "journal": "Clinical and translational gastroenterology",
         "pubDate": "2026 Jul 6",
         "studyType": "Journal Article",
-        "authors": "Miki S, Hosoya K, Sasaki N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：术后，临床症状改善，肝门血流恢复，肝功能生化参数正常化。 临床提示：一只 5 个月大的芒奇金猫因血尿被转诊。",
-        "abstract": "A 5-month-old Munchkin cat was referred for hematuria. Computed tomographic angiography revealed hepatic arteriovenous malformation (HAVM) within the left lateral liver lobe and multiple acquired portosystemic shunts (APSSs), in addition to a bladder calculus. Following medical management, the cat underwent attenuation of arterioportal communications. Because ligation of the left hepatic artery did not normalize portal pressure, the left hepatic division was resected. Surgical ligation of a subset of the APSSs was performed 1 month later. Postoperatively, clinical signs improved, hepatopetal portal flow was restored, and biochemical liver function parameters normalized. The remaining APSSs r...",
-        "pmid": "42402412",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42402412/",
-        "doiUrl": "https://doi.org/10.1292/jvms.25-0600",
-        "url": "https://doi.org/10.1292/jvms.25-0600"
+        "authors": "Cervantes-Alvarez E, Gu W, Byrtus J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 1324）。核心观点：门脉高压是失代偿性肝硬化及其并发症的特征。 临床提示：它可能引发慢性肝衰竭（ACLF），死亡率很高。",
+        "abstract": "Portal hypertension characterizes decompensated cirrhosis and its complications. It may trigger acute-on-chronic liver failure (ACLF) which carries a high mortality. Transjugular intrahepatic portosystemic shunt (TIPS) is the most efficient therapy for most portal hypertension-related complications including fluid overload (FO) defined as refractory or recurrent ascites, hepatorenal syndrome and/or hydrothorax. However, TIPS for FO in ACLF is questioned. In this case-control study, patients from the prospective cohorts CANONIC (n= 1324) and German TIPS-Registry (n= 724) were screened for cases of FO and matched 1:1 by sex, age, MELD and presence and grade of ACLF. Clinical outcomes, ACLF sta...",
+        "pmid": "42407083",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42407083/",
+        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001071",
+        "url": "https://doi.org/10.14309/ctg.0000000000001071"
+      },
+      {
+        "title": "Alcohol-Related Liver Disease: A Review.",
+        "journal": "JAMA",
+        "pubDate": "2026 Jul 6",
+        "studyType": "Journal Article",
+        "authors": "Krag A, Åberg F, Mellinger J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：酒精相关性肝病（ALD）是肝脏相关发病率和死亡率的主要原因，也是欧洲和美国肝移植最常见的适应症。 临床提示：在美国，ALD 相关死亡率从 1999 年的每 10 万人 6.7 人死亡增加到 2022 年每 10 万人 12.5 人死亡。",
+        "abstract": "Alcohol-related liver disease (ALD) is the leading cause of liver-related morbidity and mortality, and the most common indication for liver transplant in Europe and the US. In the US, ALD-related mortality increased from 6.7 deaths per 100 000 people in 1999 to 12.5 deaths per 100 000 people in 2022. ALD can develop with long-term daily alcohol consumption of more than 20 g per day for women (1.4 standard drinks/d) and more than 30 g per day for men (2.1 standard drinks/d), with 1 standard drink containing 14 g of ethanol, equivalent to approximately 12 oz of beer, 5 oz of wine, or 1.5 oz of distilled spirits. ALD encompasses reversible steatosis; steatohepatitis, which can cause alcohol-ass...",
+        "pmid": "42406571",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42406571/",
+        "doiUrl": "https://doi.org/10.1001/jama.2026.12038",
+        "url": "https://doi.org/10.1001/jama.2026.12038"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "北约土耳其峰会前夕，俄罗斯对基辅发动空袭，造成九人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“北约土耳其峰会前夕，俄罗斯对基辅发动空袭，造成九人死亡”。核心要点：俄罗斯一周内第二次空袭基辅，救援人员正在废墟下寻找幸存者。",
+        "titleZh": "俄罗斯猛烈袭击后泽连斯基敦促北约提供防空系统",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯猛烈袭击后泽连斯基敦促北约提供防空系统”。核心要点：乌克兰总统将利用在土耳其举行的北约会议来表明他需要更多拦截导弹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 04:36:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 04:18:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "被困地震废墟下32小时的委内瑞拉女孩说：“我吃了番茄酱和奶酪”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“被困地震废墟下32小时的委内瑞拉女孩说：“我吃了番茄酱和奶酪””。核心要点：六月委内瑞拉发生两次地震后，法比亚娜被困在一栋 10 层住宅楼的废墟中。",
+        "titleZh": "特朗普证实他要求国际足联审查巴洛贡禁令",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普证实他要求国际足联审查巴洛贡禁令”。核心要点：唐纳德·特朗普总统证实，他要求国际足联审查美国前锋福拉林·巴洛贡在世界杯上停赛一场的决定。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 05:04:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 19:06:34 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗最高领袖缺席高级官员出席阿亚图拉葬礼",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗最高领袖缺席高级官员出席阿亚图拉葬礼”。核心要点：自从美以与伊朗战争爆发时，哈梅内伊的父亲被袭击身亡后，他就再也没有在公开场合露面过。",
+        "titleZh": "英国广播公司 (BBC) 曝光俄罗斯在乌克兰“酷刑监狱”的狱卒和官员",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“英国广播公司 (BBC) 曝光俄罗斯在乌克兰“酷刑监狱”的狱卒和官员”。核心要点：前囚犯指控这些人在拘留中心实施虐待，并希望看到他们受到审判。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Jul 2026 17:58:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 23:55:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "观看：莉丝·杜塞特 (Lyse Doucet) 在德黑兰前最高领导人葬礼上谈论情感和政治",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“观看：莉丝·杜塞特 (Lyse Doucet) 在德黑兰前最高领导人葬礼上谈论情感和政治”。核心要点：英国广播公司首席国际记者从德黑兰报道，那里正在举行葬礼活动，纪念伊朗前领导人阿亚图拉·阿里·哈梅内伊。",
+        "titleZh": "抵抗与报复——伊朗想通过告别哈梅内伊传递一个信息",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“抵抗与报复——伊朗想通过告别哈梅内伊传递一个信息”。核心要点：BBC 国际记者 Lyse Doucet 写道，德黑兰为期三天的公众哀悼是伊朗领导人希望全世界看到的政治奇观。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Jul 2026 17:54:47 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 00:46:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "澳大利亚总理为凯莉·米洛的“不当”言论道歉",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚总理为凯莉·米洛的“不当”言论道歉”。核心要点：阿尔巴内塞的言论引发强烈反对后，他已“明确”道歉。",
+        "titleZh": "查理·柯克的家人出席被指控谋杀的嫌疑人的听证会",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“查理·柯克的家人出席被指控谋杀的嫌疑人的听证会”。核心要点：听证会将决定泰勒·罗宾逊是否会因特朗普的重要盟友柯克被枪杀而接受审判。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 01:46:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 02:33:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“11点开始工作”——但其他老板会对英格兰队凌晨1点的比赛如此灵活吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““11点开始工作”——但其他老板会对英格兰队凌晨1点的比赛如此灵活吗？”。核心要点：雇主被敦促运用他们的“常识”，让员工在力所能及的范围内灵活工作。",
+        "titleZh": "银行被指控辜负了最脆弱的客户",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“银行被指控辜负了最脆弱的客户”。核心要点：无家可归者或经济困难的人被迫在线申请并远离基本银行账户。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Jul 2026 13:55:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 23:29:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "您可以采取三件事来阻止机场的欧盟边境检查，让您付出代价",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“您可以采取三件事来阻止机场的欧盟边境检查，让您付出代价”。核心要点：由于欧盟新的数字边境管制系统，预计今年夏天机场将出现排队现象。",
+        "titleZh": "亚马逊禁止母乳喂养老板参加商业课程",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“亚马逊禁止母乳喂养老板参加商业课程”。核心要点：雷切尔·比尤斯 (Rachel Bews) 说，她在路上告诉她，她的孩子不被允许出现在现场。亚马逊因没有明确传达其政策而道歉。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Jul 2026 23:18:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 23:31:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Wegovy 减肥药现已在英国上市 - 这是您需要了解的信息",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Wegovy 减肥药现已在英国上市 - 这是您需要了解的信息”。核心要点：这种每日一次的药丸由 Wegovy 减肥疫苗的制造商生产，现在可以在英国药店私人购买。",
+        "titleZh": "议员们表示，电话合同比较“相当于不当销售”学生贷款",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“议员们表示，电话合同比较“相当于不当销售”学生贷款”。核心要点：一份新的报告称，学生们并没有充分了解他们的贷款条款可能会追溯改变。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 00:06:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 23:08:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国珍珠奶茶公司被勒令向路易威登支付 150 万美元后遭到强烈反对",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国珍珠奶茶公司被勒令向路易威登支付 150 万美元后遭到强烈反对”。核心要点：中国一家法院裁定莫莉茶侵犯了该奢侈品牌的四瓣花设计。",
+        "titleZh": "AI芯片销量飙升，三星利润猛增1800%",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“AI芯片销量飙升，三星利润猛增1800%”。核心要点：由于一些投资者预期业绩会更加强劲，该公司股价周二大幅下跌。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 02:19:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 03:24:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "易捷航空就潜在收购达成“原则协议”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空就潜在收购达成“原则协议””。核心要点：这家低成本航空公司此前拒绝了美国投资公司 Castlelake 的四次收购要约。",
+        "titleZh": "“我把它戴在中指上”：挑衅性离婚戒指的兴起",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我把它戴在中指上”：挑衅性离婚戒指的兴起”。核心要点：世界各地的女性都用新的或重新设计的订婚戒指来纪念她们的分手。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 05 Jul 2026 17:30:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 06 Jul 2026 23:30:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
