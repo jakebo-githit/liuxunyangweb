@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-07-07T05:05:39.600Z",
+  "updatedAt": "2026-07-08T04:30:51.980Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Short-term mortality is reduced and low grade ACLF reversed by TIPS in patients with fluid overload: a case-control study.",
-        "journal": "Clinical and translational gastroenterology",
-        "pubDate": "2026 Jul 6",
-        "studyType": "Journal Article",
-        "authors": "Cervantes-Alvarez E, Gu W, Byrtus J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 1324）。核心观点：门脉高压是失代偿性肝硬化及其并发症的特征。 临床提示：它可能引发慢性肝衰竭（ACLF），死亡率很高。",
-        "abstract": "Portal hypertension characterizes decompensated cirrhosis and its complications. It may trigger acute-on-chronic liver failure (ACLF) which carries a high mortality. Transjugular intrahepatic portosystemic shunt (TIPS) is the most efficient therapy for most portal hypertension-related complications including fluid overload (FO) defined as refractory or recurrent ascites, hepatorenal syndrome and/or hydrothorax. However, TIPS for FO in ACLF is questioned. In this case-control study, patients from the prospective cohorts CANONIC (n= 1324) and German TIPS-Registry (n= 724) were screened for cases of FO and matched 1:1 by sex, age, MELD and presence and grade of ACLF. Clinical outcomes, ACLF sta...",
-        "pmid": "42407083",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42407083/",
-        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001071",
-        "url": "https://doi.org/10.14309/ctg.0000000000001071"
-      },
-      {
-        "title": "Alcohol-Related Liver Disease: A Review.",
-        "journal": "JAMA",
-        "pubDate": "2026 Jul 6",
-        "studyType": "Journal Article",
-        "authors": "Krag A, Åberg F, Mellinger J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：酒精相关性肝病（ALD）是肝脏相关发病率和死亡率的主要原因，也是欧洲和美国肝移植最常见的适应症。 临床提示：在美国，ALD 相关死亡率从 1999 年的每 10 万人 6.7 人死亡增加到 2022 年每 10 万人 12.5 人死亡。",
-        "abstract": "Alcohol-related liver disease (ALD) is the leading cause of liver-related morbidity and mortality, and the most common indication for liver transplant in Europe and the US. In the US, ALD-related mortality increased from 6.7 deaths per 100 000 people in 1999 to 12.5 deaths per 100 000 people in 2022. ALD can develop with long-term daily alcohol consumption of more than 20 g per day for women (1.4 standard drinks/d) and more than 30 g per day for men (2.1 standard drinks/d), with 1 standard drink containing 14 g of ethanol, equivalent to approximately 12 oz of beer, 5 oz of wine, or 1.5 oz of distilled spirits. ALD encompasses reversible steatosis; steatohepatitis, which can cause alcohol-ass...",
-        "pmid": "42406571",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42406571/",
-        "doiUrl": "https://doi.org/10.1001/jama.2026.12038",
-        "url": "https://doi.org/10.1001/jama.2026.12038"
+        "title": "Diffuse Intense Pancreatic Uptake on 99m Tc-HYNIC-TOC SPECT/CT in a Rare Case of Diffuse Pancreatic Neuroendocrine Tumor.",
+        "journal": "Clinical nuclear medicine",
+        "pubDate": "2026 Aug 1",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Elahifard H, Samadi MH, Saberifar M",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：在治疗肝硬化相关并发症期间，影像学显示弥漫性胰腺肿大并伴有多个囊性病变，最初提示自身免疫性胰腺炎或淋巴瘤。 临床提示：我们报告了一名 52 岁的肝硬化女性，表现为腹痛和体重减轻。",
+        "abstract": "We report a 52-year-old woman with cirrhosis presenting with abdominal pain, and weight loss. During management of cirrhosis-related complications, imaging revealed diffuse pancreatic enlargement with multiple cystic lesions, initially suggesting autoimmune pancreatitis or lymphoma. Subsequent endoscopic ultrasound-guided biopsy confirmed the diagnosis of well-differentiated pancreatic neuroendocrine tumor (PNET). Somatostatin receptor imaging demonstrated intense, diffuse uptake throughout pancreas (Krenning score 4) without local or distant metastases. Despite medical management, her condition deteriorated due to portal hypertension and portal vein thrombosis. This case highlights the impo...",
+        "pmid": "41428476",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41428476/",
+        "doiUrl": "https://doi.org/10.1097/RLU.0000000000006288",
+        "url": "https://doi.org/10.1097/RLU.0000000000006288"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "俄罗斯猛烈袭击后泽连斯基敦促北约提供防空系统",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯猛烈袭击后泽连斯基敦促北约提供防空系统”。核心要点：乌克兰总统将利用在土耳其举行的北约会议来表明他需要更多拦截导弹。",
+        "titleZh": "油轮在霍尔木兹海峡遭遇袭击后，美国对伊朗发动打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“油轮在霍尔木兹海峡遭遇袭击后，美国对伊朗发动打击”。核心要点：美国表示，袭击旨在造成“沉重代价”，而伊朗则警告称，将“采取果断措施”作为回应。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 04:18:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 04:18:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普证实他要求国际足联审查巴洛贡禁令",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普证实他要求国际足联审查巴洛贡禁令”。核心要点：唐纳德·特朗普总统证实，他要求国际足联审查美国前锋福拉林·巴洛贡在世界杯上停赛一场的决定。",
+        "titleZh": "勒庞会再次崛起吗？法国民族主义领袖对法院裁决表示蔑视",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“勒庞会再次崛起吗？法国民族主义领袖对法院裁决表示蔑视”。核心要点：在上诉法院确认有罪判决后的几个小时内，马琳·勒庞就已经开始了她的总统竞选活动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 19:06:34 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 03:22:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国广播公司 (BBC) 曝光俄罗斯在乌克兰“酷刑监狱”的狱卒和官员",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“英国广播公司 (BBC) 曝光俄罗斯在乌克兰“酷刑监狱”的狱卒和官员”。核心要点：前囚犯指控这些人在拘留中心实施虐待，并希望看到他们受到审判。",
+        "titleZh": "北约盟国宣布斥资370亿英镑用于新导弹项目",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“北约盟国宣布斥资370亿英镑用于新导弹项目”。核心要点：总理基尔·斯塔默爵士将在安卡拉召集十几位领导人讨论该计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 23:55:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 03:12:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "抵抗与报复——伊朗想通过告别哈梅内伊传递一个信息",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“抵抗与报复——伊朗想通过告别哈梅内伊传递一个信息”。核心要点：BBC 国际记者 Lyse Doucet 写道，德黑兰为期三天的公众哀悼是伊朗领导人希望全世界看到的政治奇观。",
+        "titleZh": "“水来得太快了”：台风在中国引发洪水和罕见的龙卷风",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““水来得太快了”：台风在中国引发洪水和罕见的龙卷风”。核心要点：家人被困的村民告诉英国广播公司，他们正在努力获取食物和帮助。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 00:46:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 00:49:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "查理·柯克的家人出席被指控谋杀的嫌疑人的听证会",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“查理·柯克的家人出席被指控谋杀的嫌疑人的听证会”。核心要点：听证会将决定泰勒·罗宾逊是否会因特朗普的重要盟友柯克被枪杀而接受审判。",
+        "titleZh": "涉嫌摩纳哥炸弹袭击的妇女在乌克兰被发现死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“涉嫌摩纳哥炸弹袭击的妇女在乌克兰被发现死亡”。核心要点：一名乌克兰百万富翁在爆炸中受伤后，警方一直在追捕阿纳斯塔西娅·别列佐夫斯卡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 02:33:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 17:58:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "银行被指控辜负了最脆弱的客户",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“银行被指控辜负了最脆弱的客户”。核心要点：无家可归者或经济困难的人被迫在线申请并远离基本银行账户。",
+        "titleZh": "约翰刘易斯计划削减一些服务，数百个工作岗位面临风险",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“约翰刘易斯计划削减一些服务，数百个工作岗位面临风险”。核心要点：目前尚未做出最终决定，但如果裁员计划获得批准，裁员将在秋季进行。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 23:29:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 01:04:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "亚马逊禁止母乳喂养老板参加商业课程",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“亚马逊禁止母乳喂养老板参加商业课程”。核心要点：雷切尔·比尤斯 (Rachel Bews) 说，她在路上告诉她，她的孩子不被允许出现在现场。亚马逊因没有明确传达其政策而道歉。",
+        "titleZh": "从漱口水到染发剂：减肥针如何改变购物习惯",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“从漱口水到染发剂：减肥针如何改变购物习惯”。核心要点：英国广播公司（BBC）研究了随着用户报告感觉饥饿感减轻，消费习惯发生了怎样的变化。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 23:31:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 23:11:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "议员们表示，电话合同比较“相当于不当销售”学生贷款",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“议员们表示，电话合同比较“相当于不当销售”学生贷款”。核心要点：一份新的报告称，学生们并没有充分了解他们的贷款条款可能会追溯改变。",
+        "titleZh": "法官裁定 23andMe 数据泄露受害者可获得 4700 万美元赔偿",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法官裁定 23andMe 数据泄露受害者可获得 4700 万美元赔偿”。核心要点：23andMe 通过 DNA 测试套件编译人们的基因图谱，但在 2023 年的一次黑客攻击后受到严厉批评。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 23:08:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 23:47:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "AI芯片销量飙升，三星利润猛增1800%",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“AI芯片销量飙升，三星利润猛增1800%”。核心要点：由于一些投资者预期业绩会更加强劲，该公司股价周二大幅下跌。",
+        "titleZh": "澳大利亚码头工人在人工智能谈判中呼吁每周工作 28 小时",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“澳大利亚码头工人在人工智能谈判中呼吁每周工作 28 小时”。核心要点：一个工会表示，随着人工智能正在跨港口进行测试，工人们正处于自动化的“十字准线”中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 03:24:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 01:48:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我把它戴在中指上”：挑衅性离婚戒指的兴起",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我把它戴在中指上”：挑衅性离婚戒指的兴起”。核心要点：世界各地的女性都用新的或重新设计的订婚戒指来纪念她们的分手。",
+        "titleZh": "随着欧洲价格上涨，前往迪拜和埃及的度假套餐更便宜",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着欧洲价格上涨，前往迪拜和埃及的度假套餐更便宜”。核心要点：由于旅行紧张导致预订放缓，今年夏天前往许多非欧洲目的地的家庭优惠价格比去年便宜。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 06 Jul 2026 23:30:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 07 Jul 2026 23:34:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
