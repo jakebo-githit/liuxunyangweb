@@ -1,106 +1,172 @@
 {
-  "updatedAt": "2026-07-08T04:30:51.980Z",
+  "updatedAt": "2026-07-09T05:04:55.310Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "The SGLT2i \"canagliflozin\" and the DPP-4i \"sitagliptin\" mitigate hypertensive nephropathy in adult male rats by modulating the Ang II/RAGE/Nox4/NLRP3 cascade.",
+        "journal": "Frontiers in physiology",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Hassan FE, Al-Shahed FAN, Selmy A",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：伴有进行性肾损伤的高血压肾病（HN）是动脉高血压（HTN）的常见后果。 临床提示：本研究探讨了钠-葡萄糖协同转运蛋白 2 抑制剂卡格列净 (Cana) 和二肽基肽酶 4 抑制剂西他列汀 (Sita) 对 HN 的肾脏保护作用。",
+        "abstract": "Hypertensive nephropathy (HN) with progressive renal damage is a common consequence of arterial hypertension (HTN). This study addresses the renoprotective attributes of the sodium-glucose cotransporter-2 inhibitor canagliflozin (Cana) and the dipeptidyl peptidase-4 inhibitor sitagliptin (Sita) on HN. Twenty-four adult male Wistar rats were categorized into four groups (six per group): control (CTRL), hypertensive nephropathy (HN); rats were given L-NAME (50 mg/kg, i.p., once a day), HN + Cana; rats were given L-NAME injections alongside oral Cana 10 mg/kg, and HN + Sita; rats were provided Sita 10 mg/kg concurrently with L-NAME injection. All regimens were given once a day for five consecut...",
+        "pmid": "42416408",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42416408/",
+        "doiUrl": "https://doi.org/10.3389/fphys.2026.1885144",
+        "url": "https://doi.org/10.3389/fphys.2026.1885144"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Diffuse Intense Pancreatic Uptake on 99m Tc-HYNIC-TOC SPECT/CT in a Rare Case of Diffuse Pancreatic Neuroendocrine Tumor.",
-        "journal": "Clinical nuclear medicine",
-        "pubDate": "2026 Aug 1",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Elahifard H, Samadi MH, Saberifar M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：在治疗肝硬化相关并发症期间，影像学显示弥漫性胰腺肿大并伴有多个囊性病变，最初提示自身免疫性胰腺炎或淋巴瘤。 临床提示：我们报告了一名 52 岁的肝硬化女性，表现为腹痛和体重减轻。",
-        "abstract": "We report a 52-year-old woman with cirrhosis presenting with abdominal pain, and weight loss. During management of cirrhosis-related complications, imaging revealed diffuse pancreatic enlargement with multiple cystic lesions, initially suggesting autoimmune pancreatitis or lymphoma. Subsequent endoscopic ultrasound-guided biopsy confirmed the diagnosis of well-differentiated pancreatic neuroendocrine tumor (PNET). Somatostatin receptor imaging demonstrated intense, diffuse uptake throughout pancreas (Krenning score 4) without local or distant metastases. Despite medical management, her condition deteriorated due to portal hypertension and portal vein thrombosis. This case highlights the impo...",
-        "pmid": "41428476",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41428476/",
-        "doiUrl": "https://doi.org/10.1097/RLU.0000000000006288",
-        "url": "https://doi.org/10.1097/RLU.0000000000006288"
+        "title": "Catecholamines Activate a Tumour Progression Program in Differentiated Tumour Hepatocytes.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Lelou E, Rauch C, Dubois-Pot-Schneider H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：交感神经系统参与多种癌症的进展和侵袭性，包括肝细胞癌 (HCC)。 临床提示：然而，交感神经支配和儿茶酚胺对肿瘤肝细胞行为的具体影响仍知之甚少。",
+        "abstract": "The sympathetic nervous system is involved in the progression and aggressiveness of several cancers, including hepatocellular carcinoma (HCC). However, the specific effects of sympathetic innervation and catecholamines on tumour hepatocyte behaviour remain poorly understood. In this study, we aimed to investigate the role of sympathetic fibres and catecholamines in the progression of HCC. The distribution of sympathetic nerves was mapped in 10 human HCC samples using multiplex immunofluorescence labeling. Adrenergic receptors (ADR) and enzymes involved in catecholamine degradation were assessed in three HCC (HepaRG, BC2, Huh-7) and one hepatoblastoma (HepG2) cell lines. The impact of catecho...",
+        "pmid": "42415409",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42415409/",
+        "doiUrl": "https://doi.org/10.1111/liv.70775",
+        "url": "https://doi.org/10.1111/liv.70775"
+      },
+      {
+        "title": "The utility of STRIATIN as a novel diagnostic marker in cirrhosis.",
+        "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+        "pubDate": "2026 Jul 8",
+        "studyType": "Journal Article",
+        "authors": "Vairappan B, Venkatesan V, Mohan P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：内皮功能障碍和内皮一氧化氮合酶 (eNOS) 介导的一氧化氮 (NO) 生物利用度降低是与肝硬化相关的门静脉高压 (PHT) 发病机制的关键。 临床提示：Striatin 是一种调节 eNOS 激活的支架蛋白，在这方面可能发挥着至关重要但尚未探索的作用。",
+        "abstract": "Endothelial dysfunction and endothelial nitric oxide synthase (eNOS) mediated reduction in nitric oxide (NO) bioavailability are pivotal in the pathogenesis of portal hypertension (PHT) associated with liver cirrhosis. Striatin, a scaffolding protein that regulates eNOS activation, may play a crucial but unexplored role in this context. This study aimed to investigate hepatic striatin expression and its association with eNOS in cirrhosis, assess systemic striatin concentrations in cirrhotic patients, and evaluate its potential as a diagnostic biomarker for PHT. A case-control study was conducted including 40 cirrhotic patients and 40 age- and sex-matched healthy controls. Hepatic striatin an...",
+        "pmid": "42420133",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42420133/",
+        "doiUrl": "https://doi.org/10.1016/j.ajg.2026.06.003",
+        "url": "https://doi.org/10.1016/j.ajg.2026.06.003"
+      },
+      {
+        "title": "Validation of a pan-ELastography Machine-learning (ELM) score to predict clinically significant portal hypertension in compensated advanced chronic liver disease.",
+        "journal": "Journal of hepatology",
+        "pubDate": "2026 Jul 8",
+        "studyType": "Journal Article",
+        "authors": "Giuffrè M, Kresevic S, Ravaioli F",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：临床上显着的门脉高压 (CSPH) 会导致晚期慢性肝病 (ACLD) 的失代偿和死亡。 临床提示：尽管非选择性β受体阻滞剂（NSBB）可降低风险，但准确识别CSPH患者需要有创肝静脉压力梯度（HVPG）测量。",
+        "abstract": "Clinically significant portal hypertension (CSPH) drives decompensation and mortality in advanced chronic liver disease (ACLD). Although non-selective β-blockers (NSBB) reduce risk, accurate identification of patients with CSPH requires invasive hepatic venous pressure gradient (HVPG) measurement. The non-invasive Baveno-VII CSPH criteria based on liver stiffness measurement (LSM) and platelet count (PLT)-yield 40-50% indeterminate (\"gray-zone\") results and vary across etiologies and elastography techniques. Spleen stiffness measurement (SSM) has been proposed to improve the accuracy of the Baveno-VII CSPH criteria. We developed and validated a machine-learning (ML) model integrating pan-ela...",
+        "pmid": "42419604",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42419604/",
+        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.06.032",
+        "url": "https://doi.org/10.1016/j.jhep.2026.06.032"
+      },
+      {
+        "title": "Comparison of left lateral and supine positioning for EUS-guided portal pressure gradient measurements.",
+        "journal": "Gastrointestinal endoscopy",
+        "pubDate": "2026 Jul 7",
+        "studyType": "Journal Article",
+        "authors": "Lei Z, Luo S, Lu H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：EUS 引导的门静脉压力梯度 (EUS-PPG) 通常在仰卧位进行，而左侧卧位是常规 EUS 的标准姿势。 临床提示：本研究旨在比较在左侧卧位和仰卧位获得的 EUS-PPG 测量结果。",
+        "abstract": "EUS-guided portal pressure gradient (EUS-PPG) is typically performed in the supine position, whereas the left lateral position is standard for routine EUS. This study aimed to compare EUS-PPG measurements obtained in the left lateral and supine positions. In this prospective single-center study, patients with portal hypertension underwent EUS-PPG under moderate sedation. Portal vein and hepatic vein pressures were measured sequentially in both positions without repeat puncture. PPG was calculated as mean portal vein minus mean hepatic venous pressure. Feasibility and adverse events were recorded. Of 35 screened patients, 31 consented and 29 completed measurements in both positions; in 2 pati...",
+        "pmid": "42413835",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42413835/",
+        "doiUrl": "https://doi.org/10.1016/j.gie.2026.06.069",
+        "url": "https://doi.org/10.1016/j.gie.2026.06.069"
+      },
+      {
+        "title": "EUS Versus Transjugular Approaches for Portal Pressure Measurement and Liver Biopsy: A Cost-Effectiveness Analysis.",
+        "journal": "Gastrointestinal endoscopy",
+        "pubDate": "2026 Jul 7",
+        "studyType": "Journal Article",
+        "authors": "Magahis PT, Ramai D, Wang TJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们评估了 EUS PPG-LB 与 TJ HVPG-LB 同步 PPG 测量和 LB 采购的成本效益。 临床提示：虽然经颈静脉 (TJ) 方法是肝静脉压力梯度 (HVPG) 测量的黄金标准，但内镜超声 (EUS) 引导的门静脉压力梯度 (PPG) 测量已成为一种可行的替代方法",
+        "abstract": "While a transjugular (TJ) approach is the gold standard for hepatic venous pressure gradient (HVPG) measurement, endoscopic ultrasound (EUS)-guided portal pressure gradient (PPG) measurement has emerged as a viable alternative. A randomized trial demonstrated EUS outperforms TJ in achieving reliable PPG and adequate liver biopsy (LB). We evaluated cost-effectiveness of EUS PPG-LB versus TJ HVPG-LB for simultaneous PPG measurement and LB procurement. A decision tree model compared EUS PPG-LB and TJ HVPG-LB over a 1-year time horizon from the U.S. healthcare payer's perspective. Probabilities were derived from randomized trial data. Costs were sourced from Centers for Medicare & Medicaid Servi...",
+        "pmid": "42413833",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42413833/",
+        "doiUrl": "https://doi.org/10.1016/j.gie.2026.06.068",
+        "url": "https://doi.org/10.1016/j.gie.2026.06.068"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "油轮在霍尔木兹海峡遭遇袭击后，美国对伊朗发动打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“油轮在霍尔木兹海峡遭遇袭击后，美国对伊朗发动打击”。核心要点：美国表示，袭击旨在造成“沉重代价”，而伊朗则警告称，将“采取果断措施”作为回应。",
+        "titleZh": "美国对伊朗发动更多打击，据报道该国南部发生爆炸",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国对伊朗发动更多打击，据报道该国南部发生爆炸”。核心要点：特朗普表示，这些袭击是“对伊朗昨天轰炸船只的报复”。伊朗早些时候承诺将进行强烈报复。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 04:18:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Jul 2026 03:58:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "勒庞会再次崛起吗？法国民族主义领袖对法院裁决表示蔑视",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“勒庞会再次崛起吗？法国民族主义领袖对法院裁决表示蔑视”。核心要点：在上诉法院确认有罪判决后的几个小时内，马琳·勒庞就已经开始了她的总统竞选活动。",
+        "titleZh": "民主党人格雷厄姆·普拉特纳暂停在缅因州参加美国参议院关键竞选活动",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“民主党人格雷厄姆·普拉特纳暂停在缅因州参加美国参议院关键竞选活动”。核心要点：这一决定是在一名妇女指控他性侵犯几天后做出的，他说这一指控“绝对是错误的”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 03:22:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Jul 2026 02:18:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "北约盟国宣布斥资370亿英镑用于新导弹项目",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“北约盟国宣布斥资370亿英镑用于新导弹项目”。核心要点：总理基尔·斯塔默爵士将在安卡拉召集十几位领导人讨论该计划。",
+        "titleZh": "普拉特纳灾难性的候选资格暴露了可能削弱民主党参议院希望的分歧",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“普拉特纳灾难性的候选资格暴露了可能削弱民主党参议院希望的分歧”。核心要点：格雷厄姆·普拉特纳的退出除了在民主党必胜的竞选中制造骚乱之外，还暴露了该党左翼和温和派之间的分歧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 03:12:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Jul 2026 03:13:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“水来得太快了”：台风在中国引发洪水和罕见的龙卷风",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““水来得太快了”：台风在中国引发洪水和罕见的龙卷风”。核心要点：家人被困的村民告诉英国广播公司，他们正在努力获取食物和帮助。",
+        "titleZh": "这是对他们收养的孩子的“一见钟情”。然后他们被告知他可能被拐卖了",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“这是对他们收养的孩子的“一见钟情”。然后他们被告知他可能被拐卖了”。核心要点：该案件凸显了印度尼西亚的儿童贩卖问题，并引发了新加坡为何未能发现这一问题的疑问。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 00:49:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 23:31:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "涉嫌摩纳哥炸弹袭击的妇女在乌克兰被发现死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“涉嫌摩纳哥炸弹袭击的妇女在乌克兰被发现死亡”。核心要点：一名乌克兰百万富翁在爆炸中受伤后，警方一直在追捕阿纳斯塔西娅·别列佐夫斯卡。",
+        "titleZh": "蜜蜂有感情吗？研究揭示了昆虫的“内心生活”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“蜜蜂有感情吗？研究揭示了昆虫的“内心生活””。核心要点：新的研究发现，大黄蜂表现出以前只在哺乳动物中看到的“类似情感的行为”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 17:58:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 09 Jul 2026 00:28:16 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "约翰刘易斯计划削减一些服务，数百个工作岗位面临风险",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“约翰刘易斯计划削减一些服务，数百个工作岗位面临风险”。核心要点：目前尚未做出最终决定，但如果裁员计划获得批准，裁员将在秋季进行。",
+        "titleZh": "为什么电动汽车的保险成本更高 - 以及对此采取的措施",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么电动汽车的保险成本更高 - 以及对此采取的措施”。核心要点：电动汽车的保险费用仍然让许多潜在购买者望而却步。那么对此可以做什么呢？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 01:04:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 23:09:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "我经营英国最大的银行，这里有五种管理资金的方法",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我经营英国最大的银行，这里有五种管理资金的方法”。核心要点：劳埃德银行首席执行官谈论如何在恋爱关系中储蓄、制定预算、避免诈骗和管理资金。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 08 Jul 2026 23:10:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "维珍媒体因挂断试图取消合同的客户而被罚款",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“维珍媒体因挂断试图取消合同的客户而被罚款”。核心要点：监管机构表示，在近三年的时间里，数以百万计的客户电话“可能遭到不当处理”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 08 Jul 2026 11:24:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "从漱口水到染发剂：减肥针如何改变购物习惯",
         "summaryZh": "这是一条金融市场新闻，重点围绕“从漱口水到染发剂：减肥针如何改变购物习惯”。核心要点：英国广播公司（BBC）研究了随着用户报告感觉饥饿感减轻，消费习惯发生了怎样的变化。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 23:11:48 GMT",
+        "publishedAt": "Wed, 08 Jul 2026 09:31:56 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法官裁定 23andMe 数据泄露受害者可获得 4700 万美元赔偿",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法官裁定 23andMe 数据泄露受害者可获得 4700 万美元赔偿”。核心要点：23andMe 通过 DNA 测试套件编译人们的基因图谱，但在 2023 年的一次黑客攻击后受到严厉批评。",
+        "titleZh": "在线市场仍在销售数十种不安全的婴儿产品，哪些？发现",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“在线市场仍在销售数十种不安全的婴儿产品，哪些？发现”。核心要点：在亚马逊和 TikTok 等网站上发现了受安全通知限制的枕头、睡袋和喂食器。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 23:47:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "澳大利亚码头工人在人工智能谈判中呼吁每周工作 28 小时",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“澳大利亚码头工人在人工智能谈判中呼吁每周工作 28 小时”。核心要点：一个工会表示，随着人工智能正在跨港口进行测试，工人们正处于自动化的“十字准线”中。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 01:48:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "随着欧洲价格上涨，前往迪拜和埃及的度假套餐更便宜",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着欧洲价格上涨，前往迪拜和埃及的度假套餐更便宜”。核心要点：由于旅行紧张导致预订放缓，今年夏天前往许多非欧洲目的地的家庭优惠价格比去年便宜。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 07 Jul 2026 23:34:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 08 Jul 2026 19:23:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
