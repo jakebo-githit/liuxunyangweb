@@ -1,93 +1,83 @@
 {
-  "updatedAt": "2026-07-10T05:06:35.627Z",
+  "updatedAt": "2026-07-11T04:26:45.964Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": [
+    "htn_kidney": [
       {
-        "title": "Changes in SSM Assessed via 100 Hz-VCTE Are Associated With Acute HVPG-Response to i.v. Propranolol: A European Multicentre Study.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Thöne P, Saltini D, Calvão J",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：普萘洛尔可预测晚期慢性肝病 (ACLD) 和有临床意义的门脉高压 (CSPH) 患者的预后。 临床提示：急性肝静脉压力梯度（HVPG）对静脉注射的反应",
-        "abstract": "The acute hepatic venous pressure gradient (HVPG)-response to i.v. propranolol predicts outcomes in patients with advanced chronic liver disease (ACLD) and clinically significant portal hypertension (CSPH). While non-invasive tests (NIT) to monitor non-selective beta-blocker (NSBB)-induced HVPG changes are lacking, spleen stiffness measurement (SSM) has shown promising results as a surrogate for HVPG. This study aimed to assess the correlation between changes in SSM at 100 Hz and HVPG upon acute i.v. propranolol. ACLD patients with CSPH undergoing paired HVPG and SSM-100 Hz assessments pre- and post-i.v. propranolol (0.15 mg/kg) at three expert centres between 2019 and 2024 were included. HV...",
-        "pmid": "42424093",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42424093/",
-        "doiUrl": "https://doi.org/10.1111/liv.70778",
-        "url": "https://doi.org/10.1111/liv.70778"
-      },
-      {
-        "title": "Imaging assessment and interventional management of paediatric portal hypertension: an update.",
-        "journal": "Pediatric radiology",
-        "pubDate": "2026 Jul 9",
-        "studyType": "Journal Article / Review",
-        "authors": "Jürgens J, Marra P, Valle C",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：与成人相比，儿童门静脉高压症具有独特的病因、临床表现和治疗策略，因此准确的影像学评估在整个诊断和治疗途径中至关重要。 临床提示：超声仍然是一线检查方式，可实时评估血管解剖结构、血流动力学、脾脏受累和门体循环。",
-        "abstract": "Portal hypertension in children presents distinct etiologies, clinical manifestations, and management strategies compared with adults, making accurate imaging evaluation essential across the diagnostic and therapeutic pathway. Ultrasound remains the first-line modality, providing real-time assessment of vascular anatomy, haemodynamics, splenic involvement, and portosystemic collaterals. Colour Doppler ultrasound and pulsed-wave Doppler ultrasound, along with systematic scanning protocols, enable early identification of portal vein obstruction, cavernous transformation, and hepatofugal flow patterns. Elastography techniques, particularly spleen stiffness measurement, provide valuable non-inva...",
-        "pmid": "42423771",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42423771/",
-        "doiUrl": "https://doi.org/10.1007/s00247-026-06680-5",
-        "url": "https://doi.org/10.1007/s00247-026-06680-5"
-      },
-      {
-        "title": "Therapeutic endoscopic ultrasound with a novel adaptable endoscopic ultrasound probe and vision system.",
-        "journal": "VideoGIE : an official video journal of the American Society for Gastrointestinal Endoscopy",
-        "pubDate": "2026 Jul",
+        "title": "The Spectrum of Biopsy-Proven Renal Diseases in Chinese Elderly Patients and Its Temporal Shift Over 20 Years: A Retrospective Cohort Study.",
+        "journal": "Aging medicine (Milton (N.S.W))",
+        "pubDate": "2026 Jun",
         "studyType": "Journal Article",
-        "authors": "Robles-Medranda C, Arevalo-Mora M, Del Valle R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：EUS 受到成本、复杂性和交叉污染风险的限制。 临床提示：一次性 EUS (DP-EUS) 探头可以扩大可及性，同时保持诊断和治疗能力。",
-        "abstract": "EUS is limited by cost, complexity, and cross-contamination risks. Disposable EUS (DP-EUS) probes may expand accessibility while maintaining diagnostic and therapeutic capabilities. We report the use of a novel DP-EUS for diverse GI procedures. DP-EUS was used in 3 cases: (1) a 63-year-old male patient with a pancreatic head mass and failed ERCP underwent DP-EUS-guided fine-needle biopsy (FNB) and biliary/gallbladder drainage using a 10- × 60-mm partially covered metallic stent and 6- × 8-mm electrocautery-enhanced lumen-apposing metal stent; (2) a 72-year-old male patient with a 3-cm gastric subepithelial lesion underwent DP-EUS-guided FNB with color Doppler; and (3) a 6-year-old female pat...",
-        "pmid": "42421811",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42421811/",
-        "doiUrl": "https://doi.org/10.1016/j.vgie.2025.11.011",
-        "url": "https://doi.org/10.1016/j.vgie.2025.11.011"
+        "authors": "Han S, Xu L, Sun Y",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：调查过去 20 年来中国单一中心老年患者活检证实的肾脏疾病谱的纵向病理变化。 临床提示：我们回顾性纳入2005年1月至2024年12月期间在北京医院接受肾活检的年龄≥60岁的患者。",
+        "abstract": "To investigate the longitudinal pathological changes in the spectrum of biopsy-proven renal diseases among elderly patients over the past 20 years at a single center in China. We retrospectively enrolled patients aged ≥ 60 years who underwent renal biopsy at Beijing Hospital between January 2005 and December 2024. Patients were stratified into four 5-year periods (2005-2009, 2010-2014, 2015-2019, and 2020-2024) based on biopsy date. The frequency and distribution of biopsy-proven renal diseases across these periods were analyzed. A total of 594 elderly patients were included, accounting for 29.2% of all native biopsies in our cohort. The mean age was 67.9 ± 5.7 years, with a male-to-female r...",
+        "pmid": "42428678",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42428678/",
+        "doiUrl": "https://doi.org/10.1002/agm2.70093",
+        "url": "https://doi.org/10.1002/agm2.70093"
       }
-    ]
+    ],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "哈梅内伊下葬后，美国和伊朗相互袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哈梅内伊下葬后，美国和伊朗相互袭击”。核心要点：中央司令部表示，在最新一轮袭击中，袭击了 90 个伊朗目标，伊朗卫生部表示，自周二以来已有 14 人死亡。",
+        "titleZh": "美国希望伊朗承诺停止向霍尔木兹海峡的船只开枪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国希望伊朗承诺停止向霍尔木兹海峡的船只开枪”。核心要点：副总统万斯是预计将参加周六在阿曼恢复的谈判的美国官员之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 04:18:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Jul 2026 01:24:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "南欧热浪持续，西班牙山火造成十二人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“南欧热浪持续，西班牙山火造成十二人死亡”。核心要点：阿尔梅里亚省洛斯加拉多斯的火灾造成六人受伤。",
+        "titleZh": "西班牙正在努力遏制最致命的野火之一，造成至少 12 人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙正在努力遏制最致命的野火之一，造成至少 12 人死亡”。核心要点：据信至少有 4 名英国人在火灾中遇难，另有 23 人失踪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 02:44:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Jul 2026 04:06:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "被指控谋杀摩纳哥炸弹嫌疑人的乌克兰特工改变了故事",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“被指控谋杀摩纳哥炸弹嫌疑人的乌克兰特工改变了故事”。核心要点：两名与乌克兰安全部门有联系的男子被指控杀害阿纳斯塔西娅·别列佐夫斯卡并将她的尸体扔在树林里。",
+        "titleZh": "认识一下加密货币亿万富翁，他们正在建设一个金钱可以为你买票的世界",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“认识一下加密货币亿万富翁，他们正在建设一个金钱可以为你买票的世界”。核心要点：他们认为民主已经走到了尽头，所以他们正在建立自己的国家。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Jul 2026 20:47:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Jul 2026 23:03:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴勒斯坦人哀悼在以色列袭击中丧生的加沙世界杯放映组织者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴勒斯坦人哀悼在以色列袭击中丧生的加沙世界杯放映组织者”。核心要点：援助工作者穆罕默德·瓦希迪在以色列-哈马斯战争期间成为了一位杰出的人道主义人物。",
+        "titleZh": "菲律宾山体滑坡造成15人死亡，东亚地区正准备迎接破坏性台风",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“菲律宾山体滑坡造成15人死亡，东亚地区正准备迎接破坏性台风”。核心要点：预计宽达 1,000 公里的巴威风暴将前往台湾和中国东南部，成为数十年来最强的风暴之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 09 Jul 2026 21:04:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "芯片巨头 SK 海力士在美国大规模发售股票筹集 265 亿美元",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“芯片巨头 SK 海力士在美国大规模发售股票筹集 265 亿美元”。核心要点：该股将于周五在纳斯达克开始交易，这将是外国公司有史以来规模最大的首次公开募股。",
+        "titleZh": "马琳·勒庞的副手巴尔德拉被迫等待，重返阴影",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“马琳·勒庞的副手巴尔德拉被迫等待，重返阴影”。核心要点：三十岁的乔丹·巴尔德拉 (Jordan Bardella) 已成为法国下一任极右翼领导人的成功人士。他现在必须等待更长时间。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 02:48:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "大型汽车公司被发现没有安装排放作弊装置",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“大型汽车公司被发现没有安装排放作弊装置”。核心要点：高等法院法官表示，一些主要汽车制造商没有安装欺骗排放测试的装置。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 10 Jul 2026 16:18:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "易捷航空同意出人意料地收购美国竞争对手公司",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空同意出人意料地收购美国竞争对手公司”。核心要点：该航空公司表示，美国阿波罗公司的出价已经超过了卡斯尔莱克最近提出的收购要约。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 10 Jul 2026 15:02:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "“90秒制冷”——假冒移动空调席卷网络",
         "summaryZh": "这是一条金融市场新闻，重点围绕““90秒制冷”——假冒移动空调席卷网络”。核心要点：ASA 表示，声称小型设备可以快速冷却房间的广告好得令人难以置信。",
@@ -97,36 +87,20 @@
         "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "根据英国计划，电子烟将采用不太吸引人的名称来保护儿童",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“根据英国计划，电子烟将采用不太吸引人的名称来保护儿童”。核心要点：人们正在就阻止电子烟公司使用“吸引”儿童尝试的诱人风味描述的计划进行咨询。",
+        "titleZh": "乘客称男子在瑞安航空飞机上差点被吸出窗外",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“乘客称男子在瑞安航空飞机上差点被吸出窗外”。核心要点：官员称，该男子的妻子按住他的腿大约五分钟，以阻止他被吸出来。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 02:15:38 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "为了保护儿童，电子烟的名称和口味不再那么诱人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为了保护儿童，电子烟的名称和口味不再那么诱人”。核心要点：人们正在就阻止电子烟公司使用诱人的口味描述“吸引”儿童尝试的计划进行咨询。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 10 Jul 2026 09:54:49 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "通过与陌生人交换房屋，我们在假期节省了 6,000 英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“通过与陌生人交换房屋，我们在假期节省了 6,000 英镑”。核心要点：英国广播公司 (BBC) 关注人们为了降低度假成本而更换房屋的日益增长的趋势。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 09 Jul 2026 23:00:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "芯片巨头 SK 海力士在美国大规模发售股票筹集 265 亿美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“芯片巨头 SK 海力士在美国大规模发售股票筹集 265 亿美元”。核心要点：该股将于周五在纳斯达克开始交易，这将是外国公司有史以来规模最大的首次公开募股。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 02:48:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "为什么电动汽车的保险成本更高 - 以及对此采取的措施",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么电动汽车的保险成本更高 - 以及对此采取的措施”。核心要点：电动汽车的保险费用仍然让许多潜在买家望而却步。那么对此可以做什么呢？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 08 Jul 2026 23:09:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
