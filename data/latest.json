@@ -1,67 +1,88 @@
 {
-  "updatedAt": "2026-07-11T04:26:45.964Z",
+  "updatedAt": "2026-07-12T04:37:28.690Z",
   "topics": {
-    "htn_kidney": [
+    "htn_kidney": [],
+    "portal_hypertension": [
       {
-        "title": "The Spectrum of Biopsy-Proven Renal Diseases in Chinese Elderly Patients and Its Temporal Shift Over 20 Years: A Retrospective Cohort Study.",
-        "journal": "Aging medicine (Milton (N.S.W))",
-        "pubDate": "2026 Jun",
+        "title": "Albumin-to-creatinine ratio as non-invasive marker for prediction of non- bleeding esophageal varices. a cross-sectional observational study.",
+        "journal": "BMC gastroenterology",
+        "pubDate": "2026 Jul 10",
         "studyType": "Journal Article",
-        "authors": "Han S, Xu L, Sun Y",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：调查过去 20 年来中国单一中心老年患者活检证实的肾脏疾病谱的纵向病理变化。 临床提示：我们回顾性纳入2005年1月至2024年12月期间在北京医院接受肾活检的年龄≥60岁的患者。",
-        "abstract": "To investigate the longitudinal pathological changes in the spectrum of biopsy-proven renal diseases among elderly patients over the past 20 years at a single center in China. We retrospectively enrolled patients aged ≥ 60 years who underwent renal biopsy at Beijing Hospital between January 2005 and December 2024. Patients were stratified into four 5-year periods (2005-2009, 2010-2014, 2015-2019, and 2020-2024) based on biopsy date. The frequency and distribution of biopsy-proven renal diseases across these periods were analyzed. A total of 594 elderly patients were included, accounting for 29.2% of all native biopsies in our cohort. The mean age was 67.9 ± 5.7 years, with a male-to-female r...",
-        "pmid": "42428678",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42428678/",
-        "doiUrl": "https://doi.org/10.1002/agm2.70093",
-        "url": "https://doi.org/10.1002/agm2.70093"
+        "authors": "Mousa N, Elmetwalli A, Abdelsalam M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 260）。核心观点：非侵入性生物标志物可以帮助识别应立即接受内窥镜评估的高危患者。 临床提示：虽然上消化道内窥镜检查是检测 EV 的首选方法，但它可能并非在所有情况下都可行。",
+        "abstract": "Esophageal varices (EV) are a frequent complication of liver cirrhosis and a leading cause of gastrointestinal bleeding and mortality. While upper gastrointestinal endoscopy is the preferred method for detecting EV, it may not be feasible in all settings. Non-invasive biomarkers could assist in identifying high-risk patients who should undergo prompt endoscopic evaluation. This study assessed the accuracy of the albumin-to-creatinine ratio (ACR) as a non-invasive predictor of EV in individuals with liver cirrhosis. This cross-sectional observational study included 260 adult patients with liver cirrhosis who had not undergone endoscopic screening before. All patients underwent upper gastroint...",
+        "pmid": "42432532",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42432532/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-05029-4",
+        "url": "https://doi.org/10.1186/s12876-026-05029-4"
+      },
+      {
+        "title": "Early-onset extrahepatic cholangiocarcinoma in a young adult with a resected congenital biliary cyst: a rare case report.",
+        "journal": "Annals of medicine and surgery (2012)",
+        "pubDate": "2026 Jul",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Hraib M, Alkasem B, Mahasny L",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：先天性胆总管囊肿是公认的后续肝胆恶性肿瘤（尤其是胆管癌）的危险因素，即使在手术切除后也是如此。 临床提示：然而，新生儿先天性胆管囊肿切除后在成年早期发生肝外胆管癌（eCCA）的情况极为罕见。",
+        "abstract": "Congenital choledochal cysts are well-recognized risk factors for subsequent hepatobiliary malignancy, particularly cholangiocarcinoma, even after surgical excision. However, the development of extrahepatic cholangiocarcinoma (eCCA) in early adulthood following neonatal resection of a congenital biliary cyst is exceptionally rare. We report a case of early-onset eCCA in a young woman who was previously treated surgically in the neonatal period. A 25-year-old woman with a history of neonatal resection of a congenital biliary cyst, cholecystectomy, and biliary-enteric jejunal anastomosis presented with progressive epigastric and left upper quadrant pain, postprandial vomiting, and marked weigh...",
+        "pmid": "42433857",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42433857/",
+        "doiUrl": "https://doi.org/10.1097/MS9.0000000000005280",
+        "url": "https://doi.org/10.1097/MS9.0000000000005280"
       }
-    ],
-    "portal_hypertension": []
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国希望伊朗承诺停止向霍尔木兹海峡的船只开枪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国希望伊朗承诺停止向霍尔木兹海峡的船只开枪”。核心要点：副总统万斯是预计将参加周六在阿曼恢复的谈判的美国官员之一。",
+        "titleZh": "伊朗关闭霍尔木兹海峡，美国发动新一轮打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗关闭霍尔木兹海峡，美国发动新一轮打击”。核心要点：此次袭击是在一艘穿越关键水道的悬挂塞浦路斯国旗的船只遭到袭击之后发生的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Jul 2026 01:24:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Jul 2026 04:17:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙正在努力遏制最致命的野火之一，造成至少 12 人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙正在努力遏制最致命的野火之一，造成至少 12 人死亡”。核心要点：据信至少有 4 名英国人在火灾中遇难，另有 23 人失踪。",
+        "titleZh": "一周内第二次台风登陆中国",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“一周内第二次台风登陆中国”。核心要点：浙江省东部近200万人被疏散，温州市靠近风暴路径。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Jul 2026 04:06:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Jul 2026 01:22:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "认识一下加密货币亿万富翁，他们正在建设一个金钱可以为你买票的世界",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“认识一下加密货币亿万富翁，他们正在建设一个金钱可以为你买票的世界”。核心要点：他们认为民主已经走到了尽头，所以他们正在建立自己的国家。",
+        "titleZh": "霸王龙可能成为有史以来最昂贵的化石 - 但这对科学家来说是一个问题",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“霸王龙可能成为有史以来最昂贵的化石 - 但这对科学家来说是一个问题”。核心要点：一只拥有 6700 万年历史的霸王龙将在纽约拍卖，预售价为 3000 万美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 23:03:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "菲律宾山体滑坡造成15人死亡，东亚地区正准备迎接破坏性台风",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“菲律宾山体滑坡造成15人死亡，东亚地区正准备迎接破坏性台风”。核心要点：预计宽达 1,000 公里的巴威风暴将前往台湾和中国东南部，成为数十年来最强的风暴之一。",
+        "titleZh": "多伦多街头音乐节枪击案 至少两人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“多伦多街头音乐节枪击案 至少两人死亡”。核心要点：警方称，节日期间两人发生交火，现场起获两把枪支。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Jul 2026 03:56:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "马琳·勒庞的副手巴尔德拉被迫等待，重返阴影",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“马琳·勒庞的副手巴尔德拉被迫等待，重返阴影”。核心要点：三十岁的乔丹·巴尔德拉 (Jordan Bardella) 已成为法国下一任极右翼领导人的成功人士。他现在必须等待更长时间。",
+        "titleZh": "特朗普政府就空军一号的报道向《纽约时报》记者发出传票",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普政府就空军一号的报道向《纽约时报》记者发出传票”。核心要点：记者们在报道卡塔尔赠送的总统新飞机涉嫌安全问题后收到了法律传票。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 11 Jul 2026 16:11:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "特朗普账户能为美国儿童带来好处吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普账户能为美国儿童带来好处吗？”。核心要点：白宫称赞该项目让新一代在美国梦中占有一席之地，但该计划也遭到批评。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 11 Jul 2026 07:41:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "大型汽车公司被发现没有安装排放作弊装置",
         "summaryZh": "这是一条金融市场新闻，重点围绕“大型汽车公司被发现没有安装排放作弊装置”。核心要点：高等法院法官表示，一些主要汽车制造商没有安装欺骗排放测试的装置。",
@@ -93,14 +114,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "为了保护儿童，电子烟的名称和口味不再那么诱人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为了保护儿童，电子烟的名称和口味不再那么诱人”。核心要点：人们正在就阻止电子烟公司使用诱人的口味描述“吸引”儿童尝试的计划进行咨询。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 09:54:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
