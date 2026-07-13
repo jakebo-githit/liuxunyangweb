@@ -1,80 +1,125 @@
 {
-  "updatedAt": "2026-07-12T04:37:28.690Z",
+  "updatedAt": "2026-07-13T04:45:27.728Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Albumin-to-creatinine ratio as non-invasive marker for prediction of non- bleeding esophageal varices. a cross-sectional observational study.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 Jul 10",
+        "title": "Preoperative vascular parameters and proximal splenorenal shunt patency in pediatric extrahepatic portal vein thrombosis.",
+        "journal": "Pediatric surgery international",
+        "pubDate": "2026 Jul 12",
         "studyType": "Journal Article",
-        "authors": "Mousa N, Elmetwalli A, Abdelsalam M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 260）。核心观点：非侵入性生物标志物可以帮助识别应立即接受内窥镜评估的高危患者。 临床提示：虽然上消化道内窥镜检查是检测 EV 的首选方法，但它可能并非在所有情况下都可行。",
-        "abstract": "Esophageal varices (EV) are a frequent complication of liver cirrhosis and a leading cause of gastrointestinal bleeding and mortality. While upper gastrointestinal endoscopy is the preferred method for detecting EV, it may not be feasible in all settings. Non-invasive biomarkers could assist in identifying high-risk patients who should undergo prompt endoscopic evaluation. This study assessed the accuracy of the albumin-to-creatinine ratio (ACR) as a non-invasive predictor of EV in individuals with liver cirrhosis. This cross-sectional observational study included 260 adult patients with liver cirrhosis who had not undergone endoscopic screening before. All patients underwent upper gastroint...",
-        "pmid": "42432532",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42432532/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-05029-4",
-        "url": "https://doi.org/10.1186/s12876-026-05029-4"
+        "authors": "Akdulum İ, Narin M, Yazol M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们评估了术前血管参数是否与术后 PSRS 通畅相关。 临床提示：分流血栓是肝外门静脉血栓（EHPVT）儿童近端脾肾分流（PSRS）后的重要并发症。",
+        "abstract": "Shunt thrombosis is an important complication after proximal splenorenal shunt (PSRS) in children with extrahepatic portal vein thrombosis (EHPVT). We evaluated whether preoperative vascular parameters are associated with postoperative PSRS patency. Of 139 non-cirrhotic patients who underwent PSRS for EHPVT, 86 with adequate preoperative imaging and follow-up were included in this retrospective single-center study. The aortomesenteric angle, splenic and left renal vein diameter were measured on preoperative CT, and spontaneous splenorenal shunt presence was recorded. Shunt patency was assessed from postoperative imaging. Correlation, Firth penalized logistic regression, and ROC analyses were...",
+        "pmid": "42437424",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42437424/",
+        "doiUrl": "https://doi.org/10.1007/s00383-026-06531-2",
+        "url": "https://doi.org/10.1007/s00383-026-06531-2"
       },
       {
-        "title": "Early-onset extrahepatic cholangiocarcinoma in a young adult with a resected congenital biliary cyst: a rare case report.",
-        "journal": "Annals of medicine and surgery (2012)",
-        "pubDate": "2026 Jul",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Hraib M, Alkasem B, Mahasny L",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：先天性胆总管囊肿是公认的后续肝胆恶性肿瘤（尤其是胆管癌）的危险因素，即使在手术切除后也是如此。 临床提示：然而，新生儿先天性胆管囊肿切除后在成年早期发生肝外胆管癌（eCCA）的情况极为罕见。",
-        "abstract": "Congenital choledochal cysts are well-recognized risk factors for subsequent hepatobiliary malignancy, particularly cholangiocarcinoma, even after surgical excision. However, the development of extrahepatic cholangiocarcinoma (eCCA) in early adulthood following neonatal resection of a congenital biliary cyst is exceptionally rare. We report a case of early-onset eCCA in a young woman who was previously treated surgically in the neonatal period. A 25-year-old woman with a history of neonatal resection of a congenital biliary cyst, cholecystectomy, and biliary-enteric jejunal anastomosis presented with progressive epigastric and left upper quadrant pain, postprandial vomiting, and marked weigh...",
-        "pmid": "42433857",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42433857/",
-        "doiUrl": "https://doi.org/10.1097/MS9.0000000000005280",
-        "url": "https://doi.org/10.1097/MS9.0000000000005280"
+        "title": "Heparin combined with urokinase therapy for the treatment of acute portal vein thrombosis in children.",
+        "journal": "Pediatric surgery international",
+        "pubDate": "2026 Jul 12",
+        "studyType": "Journal Article",
+        "authors": "JinShan Z, TaiJi K, Long L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：急性门静脉血栓（PVT）对生命构成重大威胁，死亡率为20%至50%。 临床提示：然而，对于儿童急性PVT的治疗缺乏明确的共识，治疗策略通常依赖于为成人制定的方案。",
+        "abstract": "Acute portal vein thrombosis (PVT) poses a significant threat to life, with mortality rates ranging from 20% to 50%. However, a clear consensus on the management of acute PVT in children is lacking, and treatment strategies often rely on protocols established for adults. This study summarizes our experience and results in treating acute PVT with heparin combined with urokinase, providing reference data for the diagnosis and treatment of pediatric acute PVT. From November 2017 to February 2026, 5 children (2 males and 3 females) experienced acute PVT after surgery in our hospital. The ages of these children ranged from 2 to 14 years (median: 13 years). Among the 5 patients, one had hereditary...",
+        "pmid": "42437407",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42437407/",
+        "doiUrl": "https://doi.org/10.1007/s00383-026-06536-x",
+        "url": "https://doi.org/10.1007/s00383-026-06536-x"
+      },
+      {
+        "title": "Correlation of Serum-ascites Albumin Gradient with Occurrence and Severity of Esophageal Varices in Decompensated Chronic Liver Disease: An Observational Study.",
+        "journal": "Annals of African medicine",
+        "pubDate": "2026 Jul 10",
+        "studyType": "Journal Article",
+        "authors": "Durgam V, Marandi S, Guria RT",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究评估了血清腹水白蛋白梯度 (SAAG) 作为 EV 发生和严重程度的无创预测因子。 临床提示：在兰契 RIMS 进行的前瞻性横断面研究（2023 年 1 月至 2024 年 5 月）对 76 名患有 DCLD 和腹水的成人（≥18 岁）进行。",
+        "abstract": "Esophageal varices (EV) are a major complication of portal hypertension in decompensated chronic liver disease (DCLD), but endoscopy is invasive and resource-limited. This study assessed serum-ascites albumin gradient (SAAG) as a noninvasive predictor of EV occurrence and severity. Prospective cross-sectional study (January 2023-May 2024) of 76 adults (≥18 years) with DCLD and ascites at RIMS, Ranchi. SAAG was calculated postparacentesis; EV graded via endoscopy (Westaby: Grade 0-3). SPSS v23 analyzed data: t-tests, Analysis of Variance (ANOVA), correlations (r), logistic regression, and receiver operating characteristics (ROC) (P < 0.05). Mean age 43.66 ± 10.16 years; 68.4% male; 67.1% alco...",
+        "pmid": "42437720",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42437720/",
+        "doiUrl": "https://doi.org/10.4103/aam.aam_296_26",
+        "url": "https://doi.org/10.4103/aam.aam_296_26"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗关闭霍尔木兹海峡，美国发动新一轮打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗关闭霍尔木兹海峡，美国发动新一轮打击”。核心要点：此次袭击是在一艘穿越关键水道的悬挂塞浦路斯国旗的船只遭到袭击之后发生的。",
+        "titleZh": "曼谷酒吧火灾 至少27人死亡、8人重伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“曼谷酒吧火灾 至少27人死亡、8人重伤”。核心要点：消防队员到达乍都乍地区的现场，发现顾客正在冒着火焰逃跑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 04:17:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 02:28:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一周内第二次台风登陆中国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“一周内第二次台风登陆中国”。核心要点：浙江省东部近200万人被疏散，温州市靠近风暴路径。",
+        "titleZh": "霍尔木兹海峡紧张局势升级，美国和伊朗交火",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“霍尔木兹海峡紧张局势升级，美国和伊朗交火”。核心要点：在美国发动新一轮袭击后数小时内，伊朗表示袭击了美国在科威特、约旦和巴林的军事基地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 01:22:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 04:30:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "霸王龙可能成为有史以来最昂贵的化石 - 但这对科学家来说是一个问题",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“霸王龙可能成为有史以来最昂贵的化石 - 但这对科学家来说是一个问题”。核心要点：一只拥有 6700 万年历史的霸王龙将在纽约拍卖，预售价为 3000 万美元。",
+        "titleZh": "美国参议员兼特朗普亲密盟友林赛·格雷厄姆因“短暂且突发的疾病”去世",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国参议员兼特朗普亲密盟友林赛·格雷厄姆因“短暂且突发的疾病”去世”。核心要点：这位 71 岁的南卡罗来纳州参议员的发言人表示，初步调查结果表明格雷厄姆的死因与心脏有关。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Jul 2026 22:08:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "多伦多街头音乐节枪击案 至少两人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“多伦多街头音乐节枪击案 至少两人死亡”。核心要点：警方称，节日期间两人发生交火，现场起获两把枪支。",
+        "titleZh": "飞机被派去扑灭巴黎附近“异常规模”的野火",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“飞机被派去扑灭巴黎附近“异常规模”的野火”。核心要点：这是消防飞机首次从通常较为干燥和炎热的南部地区派出前往巴黎地区扑灭火灾。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 03:56:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 03:36:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普政府就空军一号的报道向《纽约时报》记者发出传票",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普政府就空军一号的报道向《纽约时报》记者发出传票”。核心要点：记者们在报道卡塔尔赠送的总统新飞机涉嫌安全问题后收到了法律传票。",
+        "titleZh": "安东尼·祖彻：从特朗普批评者到盟友，林赛·格雷厄姆是马加时代的政治幸存者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“安东尼·祖彻：从特朗普批评者到盟友，林赛·格雷厄姆是马加时代的政治幸存者”。核心要点：英国广播公司驻北美记者写道，这位参议员职业生涯的特点是愿意适应美国急剧变化的政治气候。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Jul 2026 16:11:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 12 Jul 2026 19:42:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "为什么转向省钱比您想象的更容易",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么转向省钱比您想象的更容易”。核心要点：改变你的宽带或能源供应商，甚至你的银行，以获得更好的交易比以前更简单。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 12 Jul 2026 23:28:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "《Pokémon Go》问世 10 周年，数百万人仍在尝试捕捉它们",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“《Pokémon Go》问世 10 周年，数百万人仍在尝试捕捉它们”。核心要点：手机游戏所有者 Scopely 的副总裁迈克尔·斯特兰卡 (Michael Steranka) 表示，这款游戏一直致力于将人们聚集在一起。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 13 Jul 2026 00:07:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "Aldi 如何用 4 美元的杏仁黄油挑战美国超市",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Aldi 如何用 4 美元的杏仁黄油挑战美国超市”。核心要点：这家德国超市在美国投入 90 亿美元，目标是曼哈顿等城市中心。其折扣模式能与沃尔玛媲美吗？",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 12 Jul 2026 05:00:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "里夫斯告诉 BBC：伯纳姆需要从一开始就制定完善的治理计划",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“里夫斯告诉 BBC：伯纳姆需要从一开始就制定完善的治理计划”。核心要点：德国总理告诉劳拉·昆斯伯格，她将把稳定的经济交给即将上任的总理。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 11 Jul 2026 12:00:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "特朗普账户能为美国儿童带来好处吗？",
         "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普账户能为美国儿童带来好处吗？”。核心要点：白宫称赞该项目让新一代在美国梦中占有一席之地，但该计划也遭到批评。",
@@ -82,38 +127,6 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 11 Jul 2026 07:41:18 GMT",
         "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "大型汽车公司被发现没有安装排放作弊装置",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“大型汽车公司被发现没有安装排放作弊装置”。核心要点：高等法院法官表示，一些主要汽车制造商没有安装欺骗排放测试的装置。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 16:18:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "易捷航空同意出人意料地收购美国竞争对手公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空同意出人意料地收购美国竞争对手公司”。核心要点：该航空公司表示，美国阿波罗公司的出价已经超过了卡斯尔莱克最近提出的收购要约。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 15:02:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "“90秒制冷”——假冒移动空调席卷网络",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““90秒制冷”——假冒移动空调席卷网络”。核心要点：ASA 表示，声称小型设备可以快速冷却房间的广告好得令人难以置信。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 01:33:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "乘客称男子在瑞安航空飞机上差点被吸出窗外",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“乘客称男子在瑞安航空飞机上差点被吸出窗外”。核心要点：官员称，该男子的妻子按住他的腿大约五分钟，以阻止他被吸出来。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
