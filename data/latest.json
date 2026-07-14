@@ -1,132 +1,145 @@
 {
-  "updatedAt": "2026-07-13T04:45:27.728Z",
+  "updatedAt": "2026-07-14T04:16:29.794Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Preoperative vascular parameters and proximal splenorenal shunt patency in pediatric extrahepatic portal vein thrombosis.",
-        "journal": "Pediatric surgery international",
-        "pubDate": "2026 Jul 12",
-        "studyType": "Journal Article",
-        "authors": "Akdulum İ, Narin M, Yazol M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们评估了术前血管参数是否与术后 PSRS 通畅相关。 临床提示：分流血栓是肝外门静脉血栓（EHPVT）儿童近端脾肾分流（PSRS）后的重要并发症。",
-        "abstract": "Shunt thrombosis is an important complication after proximal splenorenal shunt (PSRS) in children with extrahepatic portal vein thrombosis (EHPVT). We evaluated whether preoperative vascular parameters are associated with postoperative PSRS patency. Of 139 non-cirrhotic patients who underwent PSRS for EHPVT, 86 with adequate preoperative imaging and follow-up were included in this retrospective single-center study. The aortomesenteric angle, splenic and left renal vein diameter were measured on preoperative CT, and spontaneous splenorenal shunt presence was recorded. Shunt patency was assessed from postoperative imaging. Correlation, Firth penalized logistic regression, and ROC analyses were...",
-        "pmid": "42437424",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42437424/",
-        "doiUrl": "https://doi.org/10.1007/s00383-026-06531-2",
-        "url": "https://doi.org/10.1007/s00383-026-06531-2"
+        "title": "Drug Development for MASH-Related Compensated Cirrhosis: Past, Present and Future.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article / Review",
+        "authors": "Zeng RQ, Shao YX, Lin RT",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：代谢功能障碍相关脂肪性肝炎（MASH）引起的代偿性肝硬化是肝病学领域未满足的主要需求，迄今为止尚无批准的治疗方法。 临床提示：与非肝硬化MASH相比，代偿期肝硬化具有并发代谢功能障碍、持续性炎症、稳定纤维化和门静脉高压的特点，使得治疗开发具有实质性意义。",
+        "abstract": "Compensated cirrhosis due to metabolic dysfunction-associated steatohepatitis (MASH) represents a major unmet need in hepatology, with no approved treatment to date. Compared with non-cirrhotic MASH, compensated cirrhosis is characterized by concurrent metabolic dysfunction, persistent inflammation, stabilized fibrosis and portal hypertension, making therapeutic development substantially more challenging. In recent years, several agents initially developed for non-cirrhotic disease have advanced into compensated MASH-related cirrhosis, including fibroblast growth factor 21 analogues, glucagon-like peptide-1 receptor/glucagon receptor dual agonists, thyroid hormone receptor-beta agonists and ...",
+        "pmid": "42438128",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42438128/",
+        "doiUrl": "https://doi.org/10.1111/liv.70784",
+        "url": "https://doi.org/10.1111/liv.70784"
       },
       {
-        "title": "Heparin combined with urokinase therapy for the treatment of acute portal vein thrombosis in children.",
-        "journal": "Pediatric surgery international",
-        "pubDate": "2026 Jul 12",
+        "title": "Characterization of the stages of chronic liver disease based on plasma proteins involved in systemic inflammation.",
+        "journal": "Revista espanola de enfermedades digestivas",
+        "pubDate": "2026 Jul 13",
         "studyType": "Journal Article",
-        "authors": "JinShan Z, TaiJi K, Long L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：急性门静脉血栓（PVT）对生命构成重大威胁，死亡率为20%至50%。 临床提示：然而，对于儿童急性PVT的治疗缺乏明确的共识，治疗策略通常依赖于为成人制定的方案。",
-        "abstract": "Acute portal vein thrombosis (PVT) poses a significant threat to life, with mortality rates ranging from 20% to 50%. However, a clear consensus on the management of acute PVT in children is lacking, and treatment strategies often rely on protocols established for adults. This study summarizes our experience and results in treating acute PVT with heparin combined with urokinase, providing reference data for the diagnosis and treatment of pediatric acute PVT. From November 2017 to February 2026, 5 children (2 males and 3 females) experienced acute PVT after surgery in our hospital. The ages of these children ranged from 2 to 14 years (median: 13 years). Among the 5 patients, one had hereditary...",
-        "pmid": "42437407",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42437407/",
-        "doiUrl": "https://doi.org/10.1007/s00383-026-06536-x",
-        "url": "https://doi.org/10.1007/s00383-026-06536-x"
+        "authors": "Fortuny M, Torner M, Bermúdez-Ramos M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化的特征是进行性纤维化、门静脉高压和肝硬化相关的免疫功能障碍，同时伴有全身炎症和免疫缺陷。 临床提示：尽管全身炎症在疾病进展和并发症中起着核心作用，但目前的预后评分并未纳入炎症生物标志物。",
+        "abstract": "Cirrhosis is characterized by progressive fibrosis, portal hypertension, and cirrhosis-associated immune dysfunction, combining systemic inflammation and immunodeficiency. Although systemic inflammation plays a central role in disease progression and complications, current prognostic scores do not incorporate inflammatory biomarkers. This study aimed to characterize stages of chronic liver disease (CLD) according to a panel of plasma proteins involved in systemic inflammation in patients with and without bacterial infection. Patients with CLD were classified according to clinical stages of cirrhosis and assigned to NON-INFECTION or INFECTION cohort. Baseline characteristics and routine infla...",
+        "pmid": "42439390",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42439390/",
+        "doiUrl": "https://doi.org/10.17235/reed.2026.12075/2026",
+        "url": "https://doi.org/10.17235/reed.2026.12075/2026"
       },
       {
-        "title": "Correlation of Serum-ascites Albumin Gradient with Occurrence and Severity of Esophageal Varices in Decompensated Chronic Liver Disease: An Observational Study.",
-        "journal": "Annals of African medicine",
-        "pubDate": "2026 Jul 10",
+        "title": "An interpretable machine learning model for outpatient referral risk assessment in pediatric biliary atresia after Kasai portoenterostomy.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "pubDate": "2026 Jul 13",
         "studyType": "Journal Article",
-        "authors": "Durgam V, Marandi S, Guria RT",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：本研究评估了血清腹水白蛋白梯度 (SAAG) 作为 EV 发生和严重程度的无创预测因子。 临床提示：在兰契 RIMS 进行的前瞻性横断面研究（2023 年 1 月至 2024 年 5 月）对 76 名患有 DCLD 和腹水的成人（≥18 岁）进行。",
-        "abstract": "Esophageal varices (EV) are a major complication of portal hypertension in decompensated chronic liver disease (DCLD), but endoscopy is invasive and resource-limited. This study assessed serum-ascites albumin gradient (SAAG) as a noninvasive predictor of EV occurrence and severity. Prospective cross-sectional study (January 2023-May 2024) of 76 adults (≥18 years) with DCLD and ascites at RIMS, Ranchi. SAAG was calculated postparacentesis; EV graded via endoscopy (Westaby: Grade 0-3). SPSS v23 analyzed data: t-tests, Analysis of Variance (ANOVA), correlations (r), logistic regression, and receiver operating characteristics (ROC) (P < 0.05). Mean age 43.66 ± 10.16 years; 68.4% male; 67.1% alco...",
-        "pmid": "42437720",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42437720/",
-        "doiUrl": "https://doi.org/10.4103/aam.aam_296_26",
-        "url": "https://doi.org/10.4103/aam.aam_296_26"
+        "authors": "Zhang Y, Ke X, Liu J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 512）。核心观点：使用常规门诊数据开发可解释的模型，以协助 Kasai 门肠造口术 (KPE) 后胆道闭锁 (BA) 儿童的风险分层和转诊评估。 临床提示：这项多中心回顾性研究包括 512 名 III BA 儿童，他们在 8 个儿科中心接受了 KPE。",
+        "abstract": "To develop an interpretable model using routine outpatient data to assist risk stratification and referral assessment in children with biliary atresia (BA) after Kasai portoenterostomy (KPE). This multicenter retrospective study included 512 children with type III BA who underwent KPE across eight pediatric centers. Clinical, laboratory, and ultrasonographic variables collected during outpatient follow-up were analyzed. Feature selection was performed using least absolute shrinkage and selection operator, and eight machine learning algorithms were evaluated. Model performance was assessed using discrimination, calibration, and decision curve analysis. The optimal model was further interprete...",
+        "pmid": "42439215",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42439215/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70505",
+        "url": "https://doi.org/10.1002/jpn3.70505"
+      },
+      {
+        "title": "Ten-year progression of Caroli's disease with portal hypertension despite endoscopic and pharmacological therapy: Implications for liver transplantation-A case report.",
+        "journal": "SAGE open medical case reports",
+        "pubDate": "2026",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Meng H, Xie R, Yang C",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：非选择性β受体阻滞剂治疗后症状改善；然而，纵向随访显示持续性门静脉高压、复发性胃... 临床提示：卡罗利氏病是一种罕见的肝内胆管先天性疾病，可能并发先天性肝纤维化、门静脉高压和复发性静脉曲张出血。",
+        "abstract": "Caroli's disease is a rare congenital disorder of the intrahepatic bile ducts that may be complicated by congenital hepatic fibrosis, portal hypertension, and recurrent variceal bleeding. We report the 10-year clinical course of a 29-year-old woman with Caroli's disease and portal hypertension who was managed in the Department of Gastroenterology. At initial presentation in 2015, she had splenomegaly, severe esophagogastric fundal varices, preserved liver biochemistry, Child-Pugh class A disease, and a low model for end-stage liver disease score. Symptoms improved after nonselective beta-blocker therapy; however, longitudinal follow-up showed persistent portal hypertension, recurrent gastroi...",
+        "pmid": "42438734",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42438734/",
+        "doiUrl": "https://doi.org/10.1177/2050313X261467162",
+        "url": "https://doi.org/10.1177/2050313X261467162"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "曼谷酒吧火灾 至少27人死亡、8人重伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“曼谷酒吧火灾 至少27人死亡、8人重伤”。核心要点：消防队员到达乍都乍地区的现场，发现顾客正在冒着火焰逃跑。",
+        "titleZh": "阿联酋谴责伊朗对油轮的“无耻”袭击，美国发动新的打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿联酋谴责伊朗对油轮的“无耻”袭击，美国发动新的打击”。核心要点：美国连续第三晚对伊朗发动打击，此时特朗普宣布对伊朗进行 20% 的打击，作为霍尔木兹海峡新封锁的一部分。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 02:28:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 04:05:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "霍尔木兹海峡紧张局势升级，美国和伊朗交火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“霍尔木兹海峡紧张局势升级，美国和伊朗交火”。核心要点：在美国发动新一轮袭击后数小时内，伊朗表示袭击了美国在科威特、约旦和巴林的军事基地。",
+        "titleZh": "“没有出路”：目击者描述致命的大火如何席卷曼谷酒吧",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““没有出路”：目击者描述致命的大火如何席卷曼谷酒吧”。核心要点：火灾发生时，一名正在表演的音乐家说，他爬向出口，但当东西爆炸时，他被从酒吧扔了出去。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 04:30:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 13:01:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国参议员兼特朗普亲密盟友林赛·格雷厄姆因“短暂且突发的疾病”去世",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国参议员兼特朗普亲密盟友林赛·格雷厄姆因“短暂且突发的疾病”去世”。核心要点：这位 71 岁的南卡罗来纳州参议员的发言人表示，初步调查结果表明格雷厄姆的死因与心脏有关。",
+        "titleZh": "英国人讲述了西班牙野火中幸存的汽车，妻子和朋友在试图逃生时丧生",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“英国人讲述了西班牙野火中幸存的汽车，妻子和朋友在试图逃生时丧生”。核心要点：马尔科姆·廷布雷尔（Malcolm Timbrell）的妻子和他们的朋友被认为在一场毁灭性的野火席卷西班牙村庄时丧生。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 22:08:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 17:31:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "飞机被派去扑灭巴黎附近“异常规模”的野火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“飞机被派去扑灭巴黎附近“异常规模”的野火”。核心要点：这是消防飞机首次从通常较为干燥和炎热的南部地区派出前往巴黎地区扑灭火灾。",
+        "titleZh": "哥伦比亚国民在缅因州行动期间被 ICE 特工杀害",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚国民在缅因州行动期间被 ICE 特工杀害”。核心要点：不到一周前，一名无证移民在休斯敦被移民代理枪杀。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 03:36:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 01:50:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "安东尼·祖彻：从特朗普批评者到盟友，林赛·格雷厄姆是马加时代的政治幸存者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“安东尼·祖彻：从特朗普批评者到盟友，林赛·格雷厄姆是马加时代的政治幸存者”。核心要点：英国广播公司驻北美记者写道，这位参议员职业生涯的特点是愿意适应美国急剧变化的政治气候。",
+        "titleZh": "面临 329 起虐待儿童罪行的悉尼日托工作者身份曝光",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“面临 329 起虐待儿童罪行的悉尼日托工作者身份曝光”。核心要点：哈米什·泰特 (Hamish Tait) 被指控在 16 年间在 5 个托儿所虐待了 136 名儿童。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 19:42:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 01:43:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "为什么转向省钱比您想象的更容易",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么转向省钱比您想象的更容易”。核心要点：改变你的宽带或能源供应商，甚至你的银行，以获得更好的交易比以前更简单。",
+        "titleZh": "由法拉奇最大捐助者支持的秘密加密货币公司",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由法拉奇最大捐助者支持的秘密加密货币公司”。核心要点：Tether 是加密货币领域的巨头，奈杰尔·法拉奇 (Nigel Farage) 认为英国应该拥抱这个行业。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 23:28:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 23:00:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "《Pokémon Go》问世 10 周年，数百万人仍在尝试捕捉它们",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“《Pokémon Go》问世 10 周年，数百万人仍在尝试捕捉它们”。核心要点：手机游戏所有者 Scopely 的副总裁迈克尔·斯特兰卡 (Michael Steranka) 表示，这款游戏一直致力于将人们聚集在一起。",
+        "titleZh": "“我不想显得紧”：你应该给年终老师捐款多少钱？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我不想显得紧”：你应该给年终老师捐款多少钱？”。核心要点：筹集共同礼物的钱可能会克服竞争性送礼的问题，但它仍然会引起摩擦。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 00:07:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 23:02:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Aldi 如何用 4 美元的杏仁黄油挑战美国超市",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Aldi 如何用 4 美元的杏仁黄油挑战美国超市”。核心要点：这家德国超市在美国投入 90 亿美元，目标是曼哈顿等城市中心。其折扣模式能与沃尔玛媲美吗？",
+        "titleZh": "加利福尼亚州提起诉讼，阻止派拉蒙华纳兄弟大型合并",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“加利福尼亚州提起诉讼，阻止派拉蒙华纳兄弟大型合并”。核心要点：两家电影公司总部所在的州已与其他 11 个州一起叫停了这笔交易。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 12 Jul 2026 05:00:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 23:17:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "里夫斯告诉 BBC：伯纳姆需要从一开始就制定完善的治理计划",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“里夫斯告诉 BBC：伯纳姆需要从一开始就制定完善的治理计划”。核心要点：德国总理告诉劳拉·昆斯伯格，她将把稳定的经济交给即将上任的总理。",
+        "titleZh": "美国墨西哥卷饼连锁店 Chipotle 在墨西哥开设第一家分店",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国墨西哥卷饼连锁店 Chipotle 在墨西哥开设第一家分店”。核心要点：其他美国快餐品牌在其菜肴的起源国一直难以取得成功。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Jul 2026 12:00:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 02:42:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普账户能为美国儿童带来好处吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普账户能为美国儿童带来好处吗？”。核心要点：白宫称赞该项目让新一代在美国梦中占有一席之地，但该计划也遭到批评。",
+        "titleZh": "大众汽车计划在全球范围内裁员至多10万人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“大众汽车计划在全球范围内裁员至多10万人”。核心要点：该集团包括保时捷和奥迪，面临着利润大幅下滑和来自中国的激烈竞争。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 11 Jul 2026 07:41:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 13 Jul 2026 16:19:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
