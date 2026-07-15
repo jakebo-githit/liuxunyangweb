@@ -1,145 +1,159 @@
 {
-  "updatedAt": "2026-07-14T04:16:29.794Z",
+  "updatedAt": "2026-07-15T04:16:12.861Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Combined podocyte, fibrotic and echocardiographic correlates of an operationally defined subclinical cardiorenal phenotype in chronic kidney disease: an exploratory study.",
+        "journal": "Renal failure",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article / Observational Study",
+        "authors": "Akhmedova N, Tukhtaev D, Narziev B",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 127）。核心观点：除了静息时和运动后的经胸超声心动图外，足细胞损伤（尿去氧肾上腺素）、纤维化（尿 IV 型胶原和血清半乳糖凝集素 3）、心壁应力（血清 NT-proBNP）和肾滤过/心血管风险的生物标志物 临床提示：尽管心血管并发症是慢性肾脏病（CKD）发病和死亡的最常见原因，但亚临床心肾重塑的检测仍然有限。",
+        "abstract": "Although cardiovascular complications are the most common cause of morbidity and mortality in chronic kidney disease (CKD), the detection of subclinical cardiorenal remodeling is still limited. This is a single-center, exploratory observational study of 127 patients with CKD of various etiologies (hypertensive nephropathy, diabetic nephropathy and chronic glomerulonephritis) and 30 healthy controls. In addition to transthoracic echocardiography at rest and after exercise, biomarkers of podocyte injury (urinary nephrin), fibrosis (urinary type IV collagen and serum galectin-3), cardiac wall stress (serum NT-proBNP) and renal filtration/cardiovascular risk integration (serum cystatin C) were a...",
+        "pmid": "42443716",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42443716/",
+        "doiUrl": "https://doi.org/10.1080/0886022X.2026.2698902",
+        "url": "https://doi.org/10.1080/0886022X.2026.2698902"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Drug Development for MASH-Related Compensated Cirrhosis: Past, Present and Future.",
+        "title": "Does Hepatic Venous Pressure Gradient Underestimate Direct Portal Pressure Gradient? A Focused Meta-Analysis.",
         "journal": "Liver international : official journal of the International Association for the Study of the Liver",
         "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Review",
-        "authors": "Zeng RQ, Shao YX, Lin RT",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：代谢功能障碍相关脂肪性肝炎（MASH）引起的代偿性肝硬化是肝病学领域未满足的主要需求，迄今为止尚无批准的治疗方法。 临床提示：与非肝硬化MASH相比，代偿期肝硬化具有并发代谢功能障碍、持续性炎症、稳定纤维化和门静脉高压的特点，使得治疗开发具有实质性意义。",
-        "abstract": "Compensated cirrhosis due to metabolic dysfunction-associated steatohepatitis (MASH) represents a major unmet need in hepatology, with no approved treatment to date. Compared with non-cirrhotic MASH, compensated cirrhosis is characterized by concurrent metabolic dysfunction, persistent inflammation, stabilized fibrosis and portal hypertension, making therapeutic development substantially more challenging. In recent years, several agents initially developed for non-cirrhotic disease have advanced into compensated MASH-related cirrhosis, including fibroblast growth factor 21 analogues, glucagon-like peptide-1 receptor/glucagon receptor dual agonists, thyroid hormone receptor-beta agonists and ...",
-        "pmid": "42438128",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42438128/",
-        "doiUrl": "https://doi.org/10.1111/liv.70784",
-        "url": "https://doi.org/10.1111/liv.70784"
+        "studyType": "Journal Article",
+        "authors": "Zeng Y, Shen Y, Fan X",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：肝静脉压力梯度是否低估了直接门静脉压力梯度？重点荟萃分析。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42444571",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42444571/",
+        "doiUrl": "https://doi.org/10.1111/liv.70800",
+        "url": "https://doi.org/10.1111/liv.70800"
       },
       {
-        "title": "Characterization of the stages of chronic liver disease based on plasma proteins involved in systemic inflammation.",
-        "journal": "Revista espanola de enfermedades digestivas",
+        "title": "Feasibility and acceptability of pharmacist-led remote patient monitoring for carvedilol dose titration in clinically significant portal hypertension.",
+        "journal": "International journal of clinical pharmacy",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Rodda S, McAinch C, Hunter J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：卡维地洛可降低代偿性肝硬化和临床显着门脉高压（CSPH）患者肝代偿失调的风险并提高生存率。 临床提示：远程患者监测 (RPM) 已在其他慢性病中显示出益处，但尚未针对 CSPH 中的卡维地洛滴定进行研究。",
+        "abstract": "Carvedilol reduces the risk of hepatic decompensation and improves survival in patients with compensated cirrhosis and clinically significant portal hypertension (CSPH). Remote patient monitoring (RPM) has demonstrated benefits in other chronic conditions but has yet to be investigated for carvedilol titration in CSPH. We aimed to evaluate the feasibility and acceptability of a novel pharmacist-led, technology enabled model of care called Optimising One Medication for Patients with Cirrhosis (OOMPa-C). In this prospective mixed-methods feasibility study, participants were provided with a Bluetooth-enabled blood pressure (BP) and heart rate (HR) monitor linked to a smartphone app during a hom...",
+        "pmid": "42047935",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42047935/",
+        "doiUrl": "https://doi.org/10.1007/s11096-026-02151-x",
+        "url": "https://doi.org/10.1007/s11096-026-02151-x"
+      },
+      {
+        "title": "Masked polycythemia vera presenting as non-cirrhotic portal hypertension with isolated gastric varices: a case report.",
+        "journal": "BMC gastroenterology",
         "pubDate": "2026 Jul 13",
         "studyType": "Journal Article",
-        "authors": "Fortuny M, Torner M, Bermúdez-Ramos M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化的特征是进行性纤维化、门静脉高压和肝硬化相关的免疫功能障碍，同时伴有全身炎症和免疫缺陷。 临床提示：尽管全身炎症在疾病进展和并发症中起着核心作用，但目前的预后评分并未纳入炎症生物标志物。",
-        "abstract": "Cirrhosis is characterized by progressive fibrosis, portal hypertension, and cirrhosis-associated immune dysfunction, combining systemic inflammation and immunodeficiency. Although systemic inflammation plays a central role in disease progression and complications, current prognostic scores do not incorporate inflammatory biomarkers. This study aimed to characterize stages of chronic liver disease (CLD) according to a panel of plasma proteins involved in systemic inflammation in patients with and without bacterial infection. Patients with CLD were classified according to clinical stages of cirrhosis and assigned to NON-INFECTION or INFECTION cohort. Baseline characteristics and routine infla...",
-        "pmid": "42439390",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42439390/",
-        "doiUrl": "https://doi.org/10.17235/reed.2026.12075/2026",
-        "url": "https://doi.org/10.17235/reed.2026.12075/2026"
+        "authors": "Jallad H, Khaled A, Qabaja H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：骨髓增生性肿瘤 (MPN) 是非肝硬化门脉高压 (NCPH) 的一种罕见但重要的原因，可能表现为静脉曲张出血，而不是明显的血液学异常。 临床提示：当真性红细胞增多症 (PV) 被缺铁或既往静脉切开术掩盖时，尽管存在潜在的 JAK2 阳性肿瘤，但导致血红蛋白不升高，诊断可能会进一步延迟。",
+        "abstract": "Myeloproliferative neoplasms (MPN) are an uncommon but important cause of non-cirrhotic portal hypertension (NCPH) and may present with variceal bleeding rather than overt hematologic abnormalities. Diagnosis may be further delayed when polycythemia vera (PV) is masked by iron deficiency or prior venesection, resulting in non-elevated hemoglobin despite an underlying JAK2-positive neoplasm. We report a rare case of isolated gastric variceal bleeding as the presenting manifestation of presinusoidal NCPH in a patient with early myelofibrosis evolving from iron-deficient PV. A 57-year-old man presented with intermittent rectal bleeding and melena. His history was notable for prior erythrocytosi...",
+        "pmid": "42443774",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42443774/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-05111-x",
+        "url": "https://doi.org/10.1186/s12876-026-05111-x"
       },
       {
-        "title": "An interpretable machine learning model for outpatient referral risk assessment in pediatric biliary atresia after Kasai portoenterostomy.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "title": "Prognosis of pediatric hepatic Wilson disease with ATP7B loss of function variants.",
+        "journal": "Clinical and experimental pediatrics",
         "pubDate": "2026 Jul 13",
         "studyType": "Journal Article",
-        "authors": "Zhang Y, Ke X, Liu J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 512）。核心观点：使用常规门诊数据开发可解释的模型，以协助 Kasai 门肠造口术 (KPE) 后胆道闭锁 (BA) 儿童的风险分层和转诊评估。 临床提示：这项多中心回顾性研究包括 512 名 III BA 儿童，他们在 8 个儿科中心接受了 KPE。",
-        "abstract": "To develop an interpretable model using routine outpatient data to assist risk stratification and referral assessment in children with biliary atresia (BA) after Kasai portoenterostomy (KPE). This multicenter retrospective study included 512 children with type III BA who underwent KPE across eight pediatric centers. Clinical, laboratory, and ultrasonographic variables collected during outpatient follow-up were analyzed. Feature selection was performed using least absolute shrinkage and selection operator, and eight machine learning algorithms were evaluated. Model performance was assessed using discrimination, calibration, and decision curve analysis. The optimal model was further interprete...",
-        "pmid": "42439215",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42439215/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70505",
-        "url": "https://doi.org/10.1002/jpn3.70505"
-      },
-      {
-        "title": "Ten-year progression of Caroli's disease with portal hypertension despite endoscopic and pharmacological therapy: Implications for liver transplantation-A case report.",
-        "journal": "SAGE open medical case reports",
-        "pubDate": "2026",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Meng H, Xie R, Yang C",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：非选择性β受体阻滞剂治疗后症状改善；然而，纵向随访显示持续性门静脉高压、复发性胃... 临床提示：卡罗利氏病是一种罕见的肝内胆管先天性疾病，可能并发先天性肝纤维化、门静脉高压和复发性静脉曲张出血。",
-        "abstract": "Caroli's disease is a rare congenital disorder of the intrahepatic bile ducts that may be complicated by congenital hepatic fibrosis, portal hypertension, and recurrent variceal bleeding. We report the 10-year clinical course of a 29-year-old woman with Caroli's disease and portal hypertension who was managed in the Department of Gastroenterology. At initial presentation in 2015, she had splenomegaly, severe esophagogastric fundal varices, preserved liver biochemistry, Child-Pugh class A disease, and a low model for end-stage liver disease score. Symptoms improved after nonselective beta-blocker therapy; however, longitudinal follow-up showed persistent portal hypertension, recurrent gastroi...",
-        "pmid": "42438734",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42438734/",
-        "doiUrl": "https://doi.org/10.1177/2050313X261467162",
-        "url": "https://doi.org/10.1177/2050313X261467162"
+        "authors": "Mishra AK, Sen Sarma M, Dubey A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：计算机分析用于预测变异的致病性。 临床提示：具有功能丧失 (LOF) 的 ATP7B 变体可能具有不同的轨迹。",
+        "abstract": "Genotype-phenotype correlations in Wilson disease (WD) have so far been inconclusive. ATP7B variants with loss of function (LOF) may have a different trajectory. Since genotypes in Asia differ from the West, we aimed to correlate LOF variants of ATP7B with the severity and outcome of hepatic WD. Patients with a confirmed diagnosis of WD (Leipzig criteria ≥4) were prospectively enrolled. Genetic sequencing of ATP7B mutations was assessed by Whole- exome sequencing. For patients with variants of uncertain significance, Sanger sequencing was additionally performed on their parents to identify the inherited variants. In silico analyses were used to predict the pathogenicity of variants. Mutation...",
+        "pmid": "42442737",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42442737/",
+        "doiUrl": "https://doi.org/10.3345/cep.2026.00689",
+        "url": "https://doi.org/10.3345/cep.2026.00689"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "阿联酋谴责伊朗对油轮的“无耻”袭击，美国发动新的打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿联酋谴责伊朗对油轮的“无耻”袭击，美国发动新的打击”。核心要点：美国连续第三晚对伊朗发动打击，此时特朗普宣布对伊朗进行 20% 的打击，作为霍尔木兹海峡新封锁的一部分。",
+        "titleZh": "特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂”。核心要点：特朗普的言论是在两国连续第四天交火之际发表的，美国恢复了封锁伊朗港口。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 04:05:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 03:57:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“没有出路”：目击者描述致命的大火如何席卷曼谷酒吧",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““没有出路”：目击者描述致命的大火如何席卷曼谷酒吧”。核心要点：火灾发生时，一名正在表演的音乐家说，他爬向出口，但当东西爆炸时，他被从酒吧扔了出去。",
+        "titleZh": "特朗普在霍尔木兹海峡伤亡问题上的退缩表明他正在努力结束伊朗战争",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在霍尔木兹海峡伤亡问题上的退缩表明他正在努力结束伊朗战争”。核心要点：美国总统的突然转变是这场已经持续四个多月的冲突的最新转折。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 13:01:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 23:17:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国人讲述了西班牙野火中幸存的汽车，妻子和朋友在试图逃生时丧生",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“英国人讲述了西班牙野火中幸存的汽车，妻子和朋友在试图逃生时丧生”。核心要点：马尔科姆·廷布雷尔（Malcolm Timbrell）的妻子和他们的朋友被认为在一场毁灭性的野火席卷西班牙村庄时丧生。",
+        "titleZh": "霍尔木兹海峡“断层线”暴露美伊协议的弱点",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“霍尔木兹海峡“断层线”暴露美伊协议的弱点”。核心要点：随着停火协议的动摇，对水道的控制已成为美国和伊朗之间的一个关键争论点。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 17:31:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 19:13:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "哥伦比亚国民在缅因州行动期间被 ICE 特工杀害",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚国民在缅因州行动期间被 ICE 特工杀害”。核心要点：不到一周前，一名无证移民在休斯敦被移民代理枪杀。",
+        "titleZh": "西班牙山火造成七名英国人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙山火造成七名英国人死亡”。核心要点：西班牙当局周二表示，13 名受害者中有 12 人是外国人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 01:50:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 01:03:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "面临 329 起虐待儿童罪行的悉尼日托工作者身份曝光",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“面临 329 起虐待儿童罪行的悉尼日托工作者身份曝光”。核心要点：哈米什·泰特 (Hamish Tait) 被指控在 16 年间在 5 个托儿所虐待了 136 名儿童。",
+        "titleZh": "官员称，以色列对加沙北部警察哨所的袭击造成七人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，以色列对加沙北部警察哨所的袭击造成七人死亡”。核心要点：哈马斯管理的警察部队的一名高级官员在这次袭击中丧生，以色列军方称这次袭击的目标是“恐怖分子”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 01:43:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 17:13:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "由法拉奇最大捐助者支持的秘密加密货币公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由法拉奇最大捐助者支持的秘密加密货币公司”。核心要点：Tether 是加密货币领域的巨头，奈杰尔·法拉奇 (Nigel Farage) 认为英国应该拥抱这个行业。",
+        "titleZh": "取暖油客户在涨价后获得补偿",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“取暖油客户在涨价后获得补偿”。核心要点：美以与伊朗的战争迫使原油价格上涨，导致油价飙升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 23:00:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 23:00:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我不想显得紧”：你应该给年终老师捐款多少钱？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我不想显得紧”：你应该给年终老师捐款多少钱？”。核心要点：筹集共同礼物的钱可能会克服竞争性送礼的问题，但它仍然会引起摩擦。",
+        "titleZh": "“先买后付”规则带来退款和拒绝",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““先买后付”规则带来退款和拒绝”。核心要点：消费者应该得到更好的保护，因为“先买后付”贷方现在需要授权才能运营。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 23:02:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 23:01:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "加利福尼亚州提起诉讼，阻止派拉蒙华纳兄弟大型合并",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“加利福尼亚州提起诉讼，阻止派拉蒙华纳兄弟大型合并”。核心要点：两家电影公司总部所在的州已与其他 11 个州一起叫停了这笔交易。",
+        "titleZh": "为了得到我想要的职业，我在10年里换了10次工作",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“为了得到我想要的职业，我在10年里换了10次工作”。核心要点：百合趋势中，年轻人不断地跳槽，试图在工作场所获得晋升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 23:17:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 23:04:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国墨西哥卷饼连锁店 Chipotle 在墨西哥开设第一家分店",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国墨西哥卷饼连锁店 Chipotle 在墨西哥开设第一家分店”。核心要点：其他美国快餐品牌在其菜肴的起源国一直难以取得成功。",
+        "titleZh": "中国经济增速大幅下滑，未达目标",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国经济增速大幅下滑，未达目标”。核心要点：国内需求疲软以及伊朗战争对油价的影响掩盖了该国强劲的出口。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 02:42:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 03:26:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "大众汽车计划在全球范围内裁员至多10万人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“大众汽车计划在全球范围内裁员至多10万人”。核心要点：该集团包括保时捷和奥迪，面临着利润大幅下滑和来自中国的激烈竞争。",
+        "titleZh": "从温布尔登毛巾到苏格兰威士忌：印英贸易协议对购物者意味着什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“从温布尔登毛巾到苏格兰威士忌：印英贸易协议对购物者意味着什么”。核心要点：全球第五大和第六大经济体之间的自由贸易协定已经生效——它能兑现吗？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 13 Jul 2026 16:19:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 14 Jul 2026 22:17:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
