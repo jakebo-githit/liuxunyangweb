@@ -1,159 +1,119 @@
 {
-  "updatedAt": "2026-07-15T04:16:12.861Z",
+  "updatedAt": "2026-07-16T04:24:12.071Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Combined podocyte, fibrotic and echocardiographic correlates of an operationally defined subclinical cardiorenal phenotype in chronic kidney disease: an exploratory study.",
-        "journal": "Renal failure",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article / Observational Study",
-        "authors": "Akhmedova N, Tukhtaev D, Narziev B",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 127）。核心观点：除了静息时和运动后的经胸超声心动图外，足细胞损伤（尿去氧肾上腺素）、纤维化（尿 IV 型胶原和血清半乳糖凝集素 3）、心壁应力（血清 NT-proBNP）和肾滤过/心血管风险的生物标志物 临床提示：尽管心血管并发症是慢性肾脏病（CKD）发病和死亡的最常见原因，但亚临床心肾重塑的检测仍然有限。",
-        "abstract": "Although cardiovascular complications are the most common cause of morbidity and mortality in chronic kidney disease (CKD), the detection of subclinical cardiorenal remodeling is still limited. This is a single-center, exploratory observational study of 127 patients with CKD of various etiologies (hypertensive nephropathy, diabetic nephropathy and chronic glomerulonephritis) and 30 healthy controls. In addition to transthoracic echocardiography at rest and after exercise, biomarkers of podocyte injury (urinary nephrin), fibrosis (urinary type IV collagen and serum galectin-3), cardiac wall stress (serum NT-proBNP) and renal filtration/cardiovascular risk integration (serum cystatin C) were a...",
-        "pmid": "42443716",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42443716/",
-        "doiUrl": "https://doi.org/10.1080/0886022X.2026.2698902",
-        "url": "https://doi.org/10.1080/0886022X.2026.2698902"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Does Hepatic Venous Pressure Gradient Underestimate Direct Portal Pressure Gradient? A Focused Meta-Analysis.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Aug",
+        "title": "Natural History of Treated and Untreated Bland Portal Vein Thrombosis in Patients with Hepatocellular Carcinoma.",
+        "journal": "Cancers",
+        "pubDate": "2026 Jul 3",
         "studyType": "Journal Article",
-        "authors": "Zeng Y, Shen Y, Fan X",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：肝静脉压力梯度是否低估了直接门静脉压力梯度？重点荟萃分析。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42444571",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42444571/",
-        "doiUrl": "https://doi.org/10.1111/liv.70800",
-        "url": "https://doi.org/10.1111/liv.70800"
+        "authors": "Weber T, Antonenko A, Schropp J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 638）。核心观点：背景/目标：肝细胞癌（HCC）患者中温和（非肿瘤性）门静脉血栓（PVT）的患病率和治疗选择尚不清楚，数据仍然有限。 临床提示：方法：我们对前瞻性收集的 638 名 HCC 患者的单中心队列进行了回顾性分析。",
+        "abstract": "Background/Objectives : The prevalence and management options of bland (non-neoplastic) portal vein thrombosis (PVT) in patients with hepatocellular carcinoma (HCC) are poorly characterized and data remain limited. Methods : We performed a retrospective analysis of a prospectively collected single-center cohort of 638 patients with HCC. Bland PVT was identified at baseline or during follow-up. Treatment exposure was modeled as time-varying to account for differences in timing of anticoagulation initiation. Results : Bland PVT was identified in 39 patients (25 at baseline and 14 during follow-up). Patients with PVT showed features of more advanced portal hypertension (lower platelet count and...",
+        "pmid": "42449691",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42449691/",
+        "doiUrl": "https://doi.org/10.3390/cancers18132148",
+        "url": "https://doi.org/10.3390/cancers18132148"
       },
       {
-        "title": "Feasibility and acceptability of pharmacist-led remote patient monitoring for carvedilol dose titration in clinically significant portal hypertension.",
-        "journal": "International journal of clinical pharmacy",
-        "pubDate": "2026 Aug",
+        "title": "Hepatic stellate cell enriched Asporin drives liver fibrosis by stabilizing ERH to promote IL-17/MAPK11 signaling.",
+        "journal": "Acta pharmaceutica Sinica. B",
+        "pubDate": "2026 Jul",
         "studyType": "Journal Article",
-        "authors": "Rodda S, McAinch C, Hunter J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：卡维地洛可降低代偿性肝硬化和临床显着门脉高压（CSPH）患者肝代偿失调的风险并提高生存率。 临床提示：远程患者监测 (RPM) 已在其他慢性病中显示出益处，但尚未针对 CSPH 中的卡维地洛滴定进行研究。",
-        "abstract": "Carvedilol reduces the risk of hepatic decompensation and improves survival in patients with compensated cirrhosis and clinically significant portal hypertension (CSPH). Remote patient monitoring (RPM) has demonstrated benefits in other chronic conditions but has yet to be investigated for carvedilol titration in CSPH. We aimed to evaluate the feasibility and acceptability of a novel pharmacist-led, technology enabled model of care called Optimising One Medication for Patients with Cirrhosis (OOMPa-C). In this prospective mixed-methods feasibility study, participants were provided with a Bluetooth-enabled blood pressure (BP) and heart rate (HR) monitor linked to a smartphone app during a hom...",
-        "pmid": "42047935",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42047935/",
-        "doiUrl": "https://doi.org/10.1007/s11096-026-02151-x",
-        "url": "https://doi.org/10.1007/s11096-026-02151-x"
-      },
-      {
-        "title": "Masked polycythemia vera presenting as non-cirrhotic portal hypertension with isolated gastric varices: a case report.",
-        "journal": "BMC gastroenterology",
-        "pubDate": "2026 Jul 13",
-        "studyType": "Journal Article",
-        "authors": "Jallad H, Khaled A, Qabaja H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：骨髓增生性肿瘤 (MPN) 是非肝硬化门脉高压 (NCPH) 的一种罕见但重要的原因，可能表现为静脉曲张出血，而不是明显的血液学异常。 临床提示：当真性红细胞增多症 (PV) 被缺铁或既往静脉切开术掩盖时，尽管存在潜在的 JAK2 阳性肿瘤，但导致血红蛋白不升高，诊断可能会进一步延迟。",
-        "abstract": "Myeloproliferative neoplasms (MPN) are an uncommon but important cause of non-cirrhotic portal hypertension (NCPH) and may present with variceal bleeding rather than overt hematologic abnormalities. Diagnosis may be further delayed when polycythemia vera (PV) is masked by iron deficiency or prior venesection, resulting in non-elevated hemoglobin despite an underlying JAK2-positive neoplasm. We report a rare case of isolated gastric variceal bleeding as the presenting manifestation of presinusoidal NCPH in a patient with early myelofibrosis evolving from iron-deficient PV. A 57-year-old man presented with intermittent rectal bleeding and melena. His history was notable for prior erythrocytosi...",
-        "pmid": "42443774",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42443774/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-05111-x",
-        "url": "https://doi.org/10.1186/s12876-026-05111-x"
-      },
-      {
-        "title": "Prognosis of pediatric hepatic Wilson disease with ATP7B loss of function variants.",
-        "journal": "Clinical and experimental pediatrics",
-        "pubDate": "2026 Jul 13",
-        "studyType": "Journal Article",
-        "authors": "Mishra AK, Sen Sarma M, Dubey A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：计算机分析用于预测变异的致病性。 临床提示：具有功能丧失 (LOF) 的 ATP7B 变体可能具有不同的轨迹。",
-        "abstract": "Genotype-phenotype correlations in Wilson disease (WD) have so far been inconclusive. ATP7B variants with loss of function (LOF) may have a different trajectory. Since genotypes in Asia differ from the West, we aimed to correlate LOF variants of ATP7B with the severity and outcome of hepatic WD. Patients with a confirmed diagnosis of WD (Leipzig criteria ≥4) were prospectively enrolled. Genetic sequencing of ATP7B mutations was assessed by Whole- exome sequencing. For patients with variants of uncertain significance, Sanger sequencing was additionally performed on their parents to identify the inherited variants. In silico analyses were used to predict the pathogenicity of variants. Mutation...",
-        "pmid": "42442737",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42442737/",
-        "doiUrl": "https://doi.org/10.3345/cep.2026.00689",
-        "url": "https://doi.org/10.3345/cep.2026.00689"
+        "authors": "Sun J, Yang R, Liu M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：从功能上来说，Asporin 促进 HSC 活化和细胞外基质 (ECM) 重塑，而其消耗可减少 CCl 4 诱导的小鼠模型中的纤维化。 临床提示：肝纤维化是主要由活化的肝星状细胞（HSC）驱动的病理过程。",
+        "abstract": "Liver fibrosis is a pathological process primarily driven by activated hepatic stellate cell (HSC). Single-cell transcriptomics of human fibrotic livers identified ASPN (Asporin) as highly expressed in inflammatory and fibrogenic HSC subsets. Clinically, Asporin was markedly elevated in liver tissue and serum, correlating with fibrosis stage across datasets and cohorts, supporting its potential as a non-invasive biomarker. Functionally, Asporin promoted HSC activation and extracellular matrix (ECM) remodeling, whereas its depletion reduced fibrosis in CCl 4 -induced mouse models. Mechanistically, Asporin bound directly to ERH and stabilized it by preventing ubiquitin-mediated degradation. St...",
+        "pmid": "42453400",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42453400/",
+        "doiUrl": "https://doi.org/10.1016/j.apsb.2026.03.045",
+        "url": "https://doi.org/10.1016/j.apsb.2026.03.045"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁称，除非伊朗恢复谈判，否则将轰炸桥梁和发电厂”。核心要点：特朗普的言论是在两国连续第四天交火之际发表的，美国恢复了封锁伊朗港口。",
+        "titleZh": "特朗普警告德黑兰“表现得更好”，美国对伊朗发动新的打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普警告德黑兰“表现得更好”，美国对伊朗发动新的打击”。核心要点：美国总统唐纳德·特朗普表示，他尚未决定是否“消灭”伊朗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 03:57:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 04:06:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普在霍尔木兹海峡伤亡问题上的退缩表明他正在努力结束伊朗战争",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在霍尔木兹海峡伤亡问题上的退缩表明他正在努力结束伊朗战争”。核心要点：美国总统的突然转变是这场已经持续四个多月的冲突的最新转折。",
+        "titleZh": "阿根廷挥舞福克兰群岛旗帜后面临行动",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿根廷挥舞福克兰群岛旗帜后面临行动”。核心要点：阿根廷球员在世界杯半决赛战胜英格兰后举起横幅支持阿根廷对福克兰群岛的主权，因此他们可能面临国际足联的纪律处分。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 23:17:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 22:49:47 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "霍尔木兹海峡“断层线”暴露美伊协议的弱点",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“霍尔木兹海峡“断层线”暴露美伊协议的弱点”。核心要点：随着停火协议的动摇，对水道的控制已成为美国和伊朗之间的一个关键争论点。",
+        "titleZh": "热那亚大桥灾难 43 名遇难者家属等待判决",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“热那亚大桥灾难 43 名遇难者家属等待判决”。核心要点：巨大的莫兰迪高速公路桥的很大一部分崩塌并倒塌到下面的铁轨上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 19:13:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 23:02:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙山火造成七名英国人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙山火造成七名英国人死亡”。核心要点：西班牙当局周二表示，13 名受害者中有 12 人是外国人。",
+        "titleZh": "皮尤研究中心显示，现在世界上越来越多的人支持中国而不是美国",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“皮尤研究中心显示，现在世界上越来越多的人支持中国而不是美国”。核心要点：美国智库的调查显示，人们对习近平的信心比对唐纳德·特朗普的信心更高。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 01:03:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 17:02:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "官员称，以色列对加沙北部警察哨所的袭击造成七人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，以色列对加沙北部警察哨所的袭击造成七人死亡”。核心要点：哈马斯管理的警察部队的一名高级官员在这次袭击中丧生，以色列军方称这次袭击的目标是“恐怖分子”。",
+        "titleZh": "赫格斯说，美国军方将开始筛查睾酮缺乏症",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格斯说，美国军方将开始筛查睾酮缺乏症”。核心要点：赫格斯表示，他正在授权进行激素筛查，以确保美军“以绝对最佳状态作战”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 17:13:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 02:33:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "取暖油客户在涨价后获得补偿",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“取暖油客户在涨价后获得补偿”。核心要点：美以与伊朗的战争迫使原油价格上涨，导致油价飙升。",
+        "titleZh": "名人影响者支付高达 100 万英镑在 Instagram 上为除臭剂做广告",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“名人影响者支付高达 100 万英镑在 Instagram 上为除臭剂做广告”。核心要点：Wild 首席执行官揭示了社交媒体帖子幕后发生的事情。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 23:00:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 23:00:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“先买后付”规则带来退款和拒绝",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““先买后付”规则带来退款和拒绝”。核心要点：消费者应该得到更好的保护，因为“先买后付”贷方现在需要授权才能运营。",
+        "titleZh": "SpaceX 股价跌破上市首日价",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“SpaceX 股价跌破上市首日价”。核心要点：埃隆·马斯克的火箭公司自一个月前上市以来，其股票交易一直波动较大。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 23:01:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 18:11:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为了得到我想要的职业，我在10年里换了10次工作",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为了得到我想要的职业，我在10年里换了10次工作”。核心要点：百合趋势中，年轻人不断地跳槽，试图在工作场所获得晋升。",
+        "titleZh": "巴菲特称比尔盖茨与爱泼斯坦的关系“令人厌恶”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“巴菲特称比尔盖茨与爱泼斯坦的关系“令人厌恶””。核心要点：这位亿万富翁投资者的公司已停止向微软联合创始人的慈善机构捐款。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 23:04:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 22:25:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国经济增速大幅下滑，未达目标",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国经济增速大幅下滑，未达目标”。核心要点：国内需求疲软以及伊朗战争对油价的影响掩盖了该国强劲的出口。",
+        "titleZh": "根据新法律，薪资信息将显示在招聘广告上",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“根据新法律，薪资信息将显示在招聘广告上”。核心要点：政府认为此举将帮助求职者并减少薪酬歧视指控。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 03:26:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 18:46:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "从温布尔登毛巾到苏格兰威士忌：印英贸易协议对购物者意味着什么",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“从温布尔登毛巾到苏格兰威士忌：印英贸易协议对购物者意味着什么”。核心要点：全球第五大和第六大经济体之间的自由贸易协定已经生效——它能兑现吗？",
+        "titleZh": "随着第11名的争夺仍在继续，伯纳姆面临着财政大臣的关键选择",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着第11名的争夺仍在继续，伯纳姆面临着财政大臣的关键选择”。核心要点：伊恩·沃森写道，无论伯纳姆任命谁担任关键角色，都会发出他的意图信号。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 14 Jul 2026 22:17:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 15 Jul 2026 17:13:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
