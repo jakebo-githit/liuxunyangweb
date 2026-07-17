@@ -1,119 +1,119 @@
 {
-  "updatedAt": "2026-07-16T04:24:12.071Z",
+  "updatedAt": "2026-07-17T04:23:32.002Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Natural History of Treated and Untreated Bland Portal Vein Thrombosis in Patients with Hepatocellular Carcinoma.",
-        "journal": "Cancers",
-        "pubDate": "2026 Jul 3",
+        "title": "Spleen volume-to-platelet count ratio correlates with portal pressure and is associated with blood loss in laparoscopic non-anatomical hepatectomy.",
+        "journal": "Updates in surgery",
+        "pubDate": "2026 Jul 15",
         "studyType": "Journal Article",
-        "authors": "Weber T, Antonenko A, Schropp J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 638）。核心观点：背景/目标：肝细胞癌（HCC）患者中温和（非肿瘤性）门静脉血栓（PVT）的患病率和治疗选择尚不清楚，数据仍然有限。 临床提示：方法：我们对前瞻性收集的 638 名 HCC 患者的单中心队列进行了回顾性分析。",
-        "abstract": "Background/Objectives : The prevalence and management options of bland (non-neoplastic) portal vein thrombosis (PVT) in patients with hepatocellular carcinoma (HCC) are poorly characterized and data remain limited. Methods : We performed a retrospective analysis of a prospectively collected single-center cohort of 638 patients with HCC. Bland PVT was identified at baseline or during follow-up. Treatment exposure was modeled as time-varying to account for differences in timing of anticoagulation initiation. Results : Bland PVT was identified in 39 patients (25 at baseline and 14 during follow-up). Patients with PVT showed features of more advanced portal hypertension (lower platelet count and...",
-        "pmid": "42449691",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42449691/",
-        "doiUrl": "https://doi.org/10.3390/cancers18132148",
-        "url": "https://doi.org/10.3390/cancers18132148"
+        "authors": "Kawasaki Y, Yamasaki Y, Fukuda K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 20）。核心观点：门脉高压会增加肝切除过程中的出血风险，但直接测量在常规实践中具有侵入性且不切实际。 临床提示：因此，我们研究了脾脏体积与血小板计数比（SVPR）（一种非侵入性替代指标）是否与门静脉压力相关以及与腹腔镜肝切除术期间的失血量相关。",
+        "abstract": "Portal hypertension increases bleeding risk during liver resection, but direct measurement is invasive and impractical in routine practice. Therefore, we investigated whether the spleen volume-to-platelet count ratio (SVPR), a non-invasive surrogate, correlates with portal pressure and is associated with blood loss during laparoscopic hepatectomy. The correlation between portal pressure and SVPR was examined in 20 patients undergoing open hepatectomy with direct portal pressure measurement. Receiver operating characteristic (ROC) curve analysis was used to determine the optimal SVPR cutoff for clinically significant portal hypertension (≥ 10 mmHg) with bootstrap internal validation. We then ...",
+        "pmid": "42458146",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42458146/",
+        "doiUrl": "https://doi.org/10.1007/s13304-026-02775-8",
+        "url": "https://doi.org/10.1007/s13304-026-02775-8"
       },
       {
-        "title": "Hepatic stellate cell enriched Asporin drives liver fibrosis by stabilizing ERH to promote IL-17/MAPK11 signaling.",
-        "journal": "Acta pharmaceutica Sinica. B",
-        "pubDate": "2026 Jul",
+        "title": "Oral anticoagulants and hepatic decompensation in patients with cirrhosis and atrial fibrillation: observational study.",
+        "journal": "Clinical and molecular hepatology",
+        "pubDate": "2026 Jul 15",
         "studyType": "Journal Article",
-        "authors": "Sun J, Yang R, Liu M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：从功能上来说，Asporin 促进 HSC 活化和细胞外基质 (ECM) 重塑，而其消耗可减少 CCl 4 诱导的小鼠模型中的纤维化。 临床提示：肝纤维化是主要由活化的肝星状细胞（HSC）驱动的病理过程。",
-        "abstract": "Liver fibrosis is a pathological process primarily driven by activated hepatic stellate cell (HSC). Single-cell transcriptomics of human fibrotic livers identified ASPN (Asporin) as highly expressed in inflammatory and fibrogenic HSC subsets. Clinically, Asporin was markedly elevated in liver tissue and serum, correlating with fibrosis stage across datasets and cohorts, supporting its potential as a non-invasive biomarker. Functionally, Asporin promoted HSC activation and extracellular matrix (ECM) remodeling, whereas its depletion reduced fibrosis in CCl 4 -induced mouse models. Mechanistically, Asporin bound directly to ERH and stabilized it by preventing ubiquitin-mediated degradation. St...",
-        "pmid": "42453400",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42453400/",
-        "doiUrl": "https://doi.org/10.1016/j.apsb.2026.03.045",
-        "url": "https://doi.org/10.1016/j.apsb.2026.03.045"
+        "authors": "Wester A, Grip ET, Rajani R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：口服抗凝剂可能会降低代偿性肝硬化患者肝功能失代偿的风险，但缺乏有力的随机试验。 临床提示：我们的目的是评估口服抗凝剂对代偿性肝硬化和心房颤动患者肝代偿失调和大出血风险的影响。",
+        "abstract": "Oral anticoagulants may reduce risk of hepatic decompensation in patients with compensated cirrhosis, but well-powered randomized trials are missing. We aimed to estimate the effect of oral anticoagulants on risk of hepatic decompensation and major bleeding in patients with compensated cirrhosis and atrial fibrillation. Observational data from Swedish healthcare registers 2011-2022 were used to emulate a target trial of oral anticoagulants in patients with compensated cirrhosis and newly diagnosed atrial fibrillation. Inverse-probability weighted marginal structural models were used to compare 5-year risks of hepatic decompensation and non-portal hypertension-related major bleeding in initia...",
+        "pmid": "42457162",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42457162/",
+        "doiUrl": "https://doi.org/10.3350/cmh.2026.0286",
+        "url": "https://doi.org/10.3350/cmh.2026.0286"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普警告德黑兰“表现得更好”，美国对伊朗发动新的打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普警告德黑兰“表现得更好”，美国对伊朗发动新的打击”。核心要点：美国总统唐纳德·特朗普表示，他尚未决定是否“消灭”伊朗。",
+        "titleZh": "伊朗称民用基础设施遭到袭击，美国发动新一波打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称民用基础设施遭到袭击，美国发动新一波打击”。核心要点：伊朗表示，美国袭击该国桥梁的行动明显升级，而美国则登上了霍尔木兹海峡的一艘船只。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Jul 2026 04:06:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Jul 2026 04:02:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿根廷挥舞福克兰群岛旗帜后面临行动",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿根廷挥舞福克兰群岛旗帜后面临行动”。核心要点：阿根廷球员在世界杯半决赛战胜英格兰后举起横幅支持阿根廷对福克兰群岛的主权，因此他们可能面临国际足联的纪律处分。",
+        "titleZh": "泽连斯基罢免受欢迎的国防部长引发乌克兰抗议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽连斯基罢免受欢迎的国防部长引发乌克兰抗议”。核心要点：费多罗夫和总司令亚历山大·西尔斯基之间的分歧显然是泽连斯基做出这一决定的核心原因。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 22:49:47 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 16:36:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "热那亚大桥灾难 43 名遇难者家属等待判决",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“热那亚大桥灾难 43 名遇难者家属等待判决”。核心要点：巨大的莫兰迪高速公路桥的很大一部分崩塌并倒塌到下面的铁轨上。",
+        "titleZh": "青少年被指控在波兰为俄罗斯进行破坏活动",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“青少年被指控在波兰为俄罗斯进行破坏活动”。核心要点：波兰安全部门表示，此举的目的是煽动波兰和乌克兰之间的种族紧张关系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 23:02:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 13:08:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "皮尤研究中心显示，现在世界上越来越多的人支持中国而不是美国",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“皮尤研究中心显示，现在世界上越来越多的人支持中国而不是美国”。核心要点：美国智库的调查显示，人们对习近平的信心比对唐纳德·特朗普的信心更高。",
+        "titleZh": "超过 500 名罗兴亚人在海上失踪——到底发生了什么？",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“超过 500 名罗兴亚人在海上失踪——到底发生了什么？”。核心要点：自 6 月 29 日离开缅甸以来，两艘载有约 530 名罗辛亚人的船只失踪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 17:02:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Jul 2026 03:07:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "赫格斯说，美国军方将开始筛查睾酮缺乏症",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“赫格斯说，美国军方将开始筛查睾酮缺乏症”。核心要点：赫格斯表示，他正在授权进行激素筛查，以确保美军“以绝对最佳状态作战”。",
+        "titleZh": "国际足联在福克兰群岛旗帜上“评估比赛报告”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“国际足联在福克兰群岛旗帜上“评估比赛报告””。核心要点：在球员们举着横幅支持阿根廷对福克兰群岛的主权主张后，国际足联正在“评估比赛报道”，然后再决定是否惩罚阿根廷。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 16 Jul 2026 02:33:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 18:44:43 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "名人影响者支付高达 100 万英镑在 Instagram 上为除臭剂做广告",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“名人影响者支付高达 100 万英镑在 Instagram 上为除臭剂做广告”。核心要点：Wild 首席执行官揭示了社交媒体帖子幕后发生的事情。",
+        "titleZh": "中国猛烈抨击英国钢铁公司国有化",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国猛烈抨击英国钢铁公司国有化”。核心要点：英国政府表示，将该公司纳入公众手中将维护“重要的国家能力”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 23:00:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Jul 2026 02:50:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "SpaceX 股价跌破上市首日价",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“SpaceX 股价跌破上市首日价”。核心要点：埃隆·马斯克的火箭公司自一个月前上市以来，其股票交易一直波动较大。",
+        "titleZh": "世界杯的经济赢家和输家",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“世界杯的经济赢家和输家”。核心要点：2026 年锦标赛在场外赚得盆满钵满，但谁赚得最多呢？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 18:11:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 23:16:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴菲特称比尔盖茨与爱泼斯坦的关系“令人厌恶”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“巴菲特称比尔盖茨与爱泼斯坦的关系“令人厌恶””。核心要点：这位亿万富翁投资者的公司已停止向微软联合创始人的慈善机构捐款。",
+        "titleZh": "在他还清债务之前我不会嫁给他，现在我负责我们的钱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“在他还清债务之前我不会嫁给他，现在我负责我们的钱”。核心要点：莎拉和她的丈夫共用一个账户已有 25 年，但她说管理这个账户的责任落在了她的身上。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 22:25:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 23:14:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "根据新法律，薪资信息将显示在招聘广告上",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“根据新法律，薪资信息将显示在招聘广告上”。核心要点：政府认为此举将帮助求职者并减少薪酬歧视指控。",
+        "titleZh": "特朗普媒体将出售对关键社交帖子的早期访问权",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普媒体将出售对关键社交帖子的早期访问权”。核心要点：特朗普媒体正在为华尔街交易员推出其最有影响力的帖子的快速付费提要。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 18:46:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 17 Jul 2026 01:27:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着第11名的争夺仍在继续，伯纳姆面临着财政大臣的关键选择",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着第11名的争夺仍在继续，伯纳姆面临着财政大臣的关键选择”。核心要点：伊恩·沃森写道，无论伯纳姆任命谁担任关键角色，都会发出他的意图信号。",
+        "titleZh": "英国钢铁公司纳入公有制以保护英国“重要”供应",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国钢铁公司纳入公有制以保护英国“重要”供应”。核心要点：根据本周通过的新政府权力，斯肯索普钢厂已正式国有化。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 15 Jul 2026 17:13:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 16 Jul 2026 11:31:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
