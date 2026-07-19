@@ -1,119 +1,102 @@
 {
-  "updatedAt": "2026-07-18T04:13:32.875Z",
+  "updatedAt": "2026-07-19T04:33:35.236Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Emerging roles of SIRT6 and its modulators in kidney diseases.",
+        "journal": "Cell death discovery",
+        "pubDate": "2026 Jul 17",
+        "studyType": "Journal Article / Review",
+        "authors": "Ren F, Wang Y, Zhang Y",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：全球肾脏疾病的发病率和患病率持续上升，对公共卫生构成严峻挑战。 临床提示：SIRT6 是一种 NAD⁺ 依赖性组蛋白脱乙酰酶，在各种病理生理过程中具有广泛的重要调节作用，包括 DNA 修复、染色质可及性、端粒稳定性和糖脂代谢",
+        "abstract": "The global incidence and prevalence of kidney diseases continue to rise, posing a serious public health challenge. SIRT6 is an NAD⁺-dependent histone deacetylase with broad essential regulatory roles across various pathophysiological processes, including DNA repair, chromatin accessibility, telomere stability, and glycolipid metabolism. As an epigenetic regulator specifically expressed in kidney tissues, SIRT6 serves as a central mediator of kidney homeostasis. Notably, accumulating evidence has implicated aberrant SIRT6 expression in the onset and development of various kidney diseases, such as acute kidney injury, diabetic kidney disease, hypertensive nephropathy, renal fibrosis, and renal...",
+        "pmid": "42469212",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42469212/",
+        "doiUrl": "https://doi.org/10.1038/s41420-026-03264-y",
+        "url": "https://doi.org/10.1038/s41420-026-03264-y"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Laparoscopy-assisted mesenteric vein access for portal vein recanalization and Transjugular intrahepatic portosystemic shunt: A novel TIPS approach for cavernous transformation of the portal vein.",
-        "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-        "pubDate": "2026 Aug",
+        "title": "Mathematical Modeling of HDV RNA, HBsAg, and ALT Kinetics in Patients with Compensated Cirrhosis: Insights from 96 Weeks of Bulevirtide Monotherapy.",
+        "journal": "Antiviral research",
+        "pubDate": "2026 Jul 17",
         "studyType": "Journal Article",
-        "authors": "Dongfang L, Zichao Q, Zhendong Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评估腹腔镜辅助肠系膜静脉入路门静脉再通-经颈静脉肝内门体分流术（LAmTIPS）对有症状的门静脉高压和海绵样变患者的可行性和疗效。 临床提示：在这些病例中，经颈静脉肝内门体分流术 (TIPS) 无法通过传统的脾静脉引导或肝内门静脉引导的方法完成，这主要归因于肝内 p",
-        "abstract": "To evaluate the feasibility and efficacy of Laparoscopy-Assisted mesenteric vein access for portal vein recanalization-transjugular intrahepatic portosystemic shunt (LAmTIPS) in patients with symptomatic portal hypertension and Cavernous Transformation. A total of five patients (5 male, mean age: 41.4 years; range, 15-63 years) with chronic portal vein thrombosis (PVT) complicated by cavernous transformation of the portal vein (CTPV) were included in this study. Transjugular intrahepatic portosystemic shunt (TIPS) could not be accomplished via the conventional splenic vein-guided or intrahepatic portal vein-guided approaches in these cases, primarily attributed to intrahepatic portal vein oc...",
-        "pmid": "42218053",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42218053/",
-        "doiUrl": "https://doi.org/10.1016/j.dld.2026.05.007",
-        "url": "https://doi.org/10.1016/j.dld.2026.05.007"
+        "authors": "Mhlanga A, Shekhtman L, Cotler SJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：38 名患有代偿性肝硬化和临床显着门脉高压 (CSPH) 的 HDV 感染患者接受了 BLV。 临床提示：布勒韦肽 (BLV) 2 mg/天在欧洲被批准用于治疗代偿性慢性丁型肝炎病毒 (HDV) 感染；然而，了解 BLV 单一疗法 96 周下 HDV-RNA、HBsAg 和 ALT 动态的了解还不够",
+        "abstract": "Bulevirtide (BLV) 2 mg/day is approved for the treatment of compensated chronic hepatitis D virus (HDV) infection in Europe; however, understanding HDV-RNA, HBsAg and ALT dynamics under 96 weeks of BLV monotherapy is lacking. 38 HDV-infected patients with compensated cirrhosis and clinically significant portal hypertension (CSPH) received BLV. HDV, ALT, and HBsAg were measured at baseline, weeks 4, 8 and every 8 weeks thereafter. Mathematical modeling was used to explain the observed HDV, ALT, and HBsAg kinetics. Median baseline HDV, HBsAg, and ALT were 5.1 log IU/ml [IQR:4.0-5.8], 3.7 log IU/ml [IQR:3.4-3.9] and 90 U/L [IQR:55-150], respectively. During therapy, patients fit into four main ...",
+        "pmid": "42468832",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42468832/",
+        "doiUrl": "https://doi.org/10.1016/j.antiviral.2026.106489",
+        "url": "https://doi.org/10.1016/j.antiviral.2026.106489"
       },
       {
-        "title": "Propofol pharmacodynamics in a pregnant patient with portal hypertension: a case report.",
-        "journal": "International journal of obstetric anesthesia",
-        "pubDate": "2026 Aug",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Lacassie HJ, Cortínez LI, Gálvez A",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：本病例报告描述了一名患有严重合并症、接受选择性非产科手术的妊娠晚期孕妇使用 Eleveld 药代动力学-药效模型进行靶控异丙酚麻醉。 临床提示：一名31岁女性，孕35周，因胃绕道术后门静脉血栓继发门静脉高压，在全凭静脉麻醉下行内镜下食管静脉曲张套扎术。",
-        "abstract": "This case report describes target-controlled propofol anesthesia using the Eleveld pharmacokinetic-pharmacodynamic model in a third-trimester pregnant woman with significant comorbidity undergoing elective non-obstetric surgery. A 31-year-old woman, 35 weeks pregnant with portal hypertension secondary to portal vein thrombosis after gastric bypass, underwent endoscopic esophageal variceal ligation under total intravenous anesthesia with remifentanil and propofol, guided by Bispectral Index monitoring. Propofol was administered via effect-site target-controlled infusion using the Eleveld model, with an initial stepwise increase in target concentration followed by adjustments guided by the Bis...",
-        "pmid": "42035514",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42035514/",
-        "doiUrl": "https://doi.org/10.1016/j.ijoa.2026.105188",
-        "url": "https://doi.org/10.1016/j.ijoa.2026.105188"
-      },
-      {
-        "title": "The value of hepatic venous pressure gradient in patients with pyrrolidine alkaloid-induced hepatic sinusoidal obstruction syndrome.",
-        "journal": "Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract",
-        "pubDate": "2026 Aug",
+        "title": "Predictive Value of Preoperative Thromboelastography, C-Reactive Protein, and Thrombomodulin for Postoperative Complications Following Hepatectomy in Patients With Hepatocellular Carcinoma.",
+        "journal": "Annali italiani di chirurgia",
+        "pubDate": "2026 Jul 14",
         "studyType": "Journal Article",
-        "authors": "Cai Z, Li R, Zhang F",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：吡咯烷生物碱诱导的肝窦阻塞综合征（PA-HSOS）的特点是快速进行性门静脉高压。 临床提示：肝静脉压力梯度（HVPG）是诊断窦性门静脉高压的金标准。",
-        "abstract": "Pyrrolidine alkaloid-induced hepatic sinusoidal obstruction syndrome (PA-HSOS) is characterized by rapidly progressive portal hypertension. Hepatic venous pressure gradient (HVPG) is the gold standard for the diagnosis of sinusoidal portal hypertension. However, the role of HVPG in evaluating disease severity and treatment choice in patients with PA-HSOS needs further verification. This study aimed to investigate the clinical value of HVPG in patients with PA-HSOS. Patients who were diagnosed with PA-HSOS according to the \"Nanjing criteria\" and received HVPG measurements in our hospital between January 2016 and April 2020 were retrospectively reviewed. Multivariate logistic regression analys...",
-        "pmid": "41771345",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41771345/",
-        "doiUrl": "https://doi.org/10.1016/j.gassur.2026.102376",
-        "url": "https://doi.org/10.1016/j.gassur.2026.102376"
-      },
-      {
-        "title": "Unmet needs in diagnosis and management of portopulmonary hypertension: How far have we reached?",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Aug 1",
-        "studyType": "Journal Article / Review",
-        "authors": "Krowka MJ, DuBrock HM, Raevens S",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：医疗管理与肝移植相结合，为POPH“治愈”提供了独特的机会；然而，移植风险可能很大，因为它与 POPH 的严重程度有关。 临床提示：除了最近的 POPH 实践指南外，还可以建议继续努力提高我们对预后因素的理解，研究新的治疗方法并改善 POPH 的结果。",
-        "abstract": "Portopulmonary hypertension (POPH), a form of pulmonary artery hypertension, occurs because of portal hypertension. Pulmonary hemodynamics and right heart function are key entities that are considered when diagnosing and treating POPH. Medical management, combined with liver transplantation, offers a unique opportunity for POPH \"cure\"; however, transplant risk can be significant as it relates to the severity of POPH. In addition to recent POPH practice guidelines, continued efforts can be suggested to improve our understanding of prognostic factors, investigate newer medical treatments, and improve outcomes of POPH. Herein, we identify specific \"unmet needs\" that focus on expanding and compl...",
-        "pmid": "39723999",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39723999/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001218",
-        "url": "https://doi.org/10.1097/HEP.0000000000001218"
-      },
-      {
-        "title": "A machine learning approach to non-invasive prediction of hepatic decompensation in compensated advanced chronic liver disease: the CIRI model.",
-        "journal": "Journal of hepatology",
-        "pubDate": "2026 Jul 16",
-        "studyType": "Journal Article",
-        "authors": "Kramer G, Hildeman A, Tozzi C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们开发并验证了肝硬化风险识别器 (CIRI) 模型，这是一种机器学习工具，使用 11 个人口统计和常规实验室参数进行训练，用于预测首次失代偿；并将其性能与 HVPG、肝硬度 m 进行基准测试 临床提示：肝静脉压力梯度（HVPG）是评估代偿性晚期慢性肝病（cACLD）预后的金标准，但其侵入性限制了广泛的临床应用。",
-        "abstract": "Hepatic venous pressure gradient (HVPG) is the gold standard for assessment of prognosis in compensated advanced chronic liver disease (cACLD), yet its invasiveness limits broad clinical use. We developed and validated the Cirrhosis Risk Identifier (CIRI) model, a machine-learning tool using 11 demographic and routine laboratory parameters trained to prognosticate first decompensation; and benchmarked its performance against HVPG, liver stiffness measurement (LSM), FIB-4 and MELD. cACLD patients were identified in the U.S. Optum Clinformatics Data Mart (Optum CDM) for model development and internal validation and externally validated in a prospective European tertiary care cohort. The primar...",
-        "pmid": "42462822",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42462822/",
-        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.06.042",
-        "url": "https://doi.org/10.1016/j.jhep.2026.06.042"
+        "authors": "Hu Y, Shen W, Zhou H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 195）。核心观点：肝切除术后并发症仍然很常见，并且与患者预后密切相关。 临床提示：传统的术前评估可能无法充分捕捉围手术期凝血障碍、全身炎症和内皮损伤。",
+        "abstract": "Postoperative complications following hepatectomy remain common and are closely associated with patient prognosis. Conventional preoperative assessment may not adequately capture perioperative coagulation disturbances, systemic inflammation, and endothelial injury. This study aimed to develop and internally validate a multidimensional preoperative prediction model integrating thromboelastography (TEG)-related parameters with inflammatory and endothelial biomarkers. This single-center retrospective cohort study included 195 consecutive patients who underwent elective hepatectomy between March 2022 and May 2025. The cohort was randomly divided into a training set (n = 136) and a validation set...",
+        "pmid": "42464831",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42464831/",
+        "doiUrl": "https://doi.org/10.62713/aic.4609",
+        "url": "https://doi.org/10.62713/aic.4609"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普威胁对加拿大征收新关税，因为大火将“肮脏”空气带入美国城市",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁对加拿大征收新关税，因为大火将“肮脏”空气带入美国城市”。核心要点：加拿大领导人马克·卡尼表示，美国和加拿大在应对气候变化方面负有同等责任，专家称气候变化正在加剧野火状况。",
+        "titleZh": "伊朗袭击约旦后，两名美军丧生，一人失踪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击约旦后，两名美军丧生，一人失踪”。核心要点：随着本周敌对行动重新升级，伊朗和美国进行了相互打击，德黑兰将目标瞄准了海湾地区的美国军事设施。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Jul 2026 01:29:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 00:18:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国连续第七晚对伊朗发动空袭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国连续第七晚对伊朗发动空袭”。核心要点：美国司令部表示，随着伊朗报告霍尔木兹海峡附近发生爆炸，美国正在发动更多打击，以削弱伊朗武装力量。",
+        "titleZh": "安德鲁·泰特和兄弟在英国受到更多指控后在美国被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“安德鲁·泰特和兄弟在英国受到更多指控后在美国被捕”。核心要点：皇家检察署表示已要求从美国引渡他们，而他们的律师则表示他们“无辜”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Jul 2026 03:02:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 02:17:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "军队告诉BBC，许多乌克兰士兵对国防部长被免职感到愤怒",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“军队告诉BBC，许多乌克兰士兵对国防部长被免职感到愤怒”。核心要点：米哈伊洛·费多罗夫被免职后，乌克兰周四爆发了抗议活动，现在士兵们也批评了这一举动。",
+        "titleZh": "俄罗斯人转向现金，给战时经济放缓带来更大压力",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯人转向现金，给战时经济放缓带来更大压力”。核心要点：俄罗斯人受到移动互联网关闭的打击，在与乌克兰四年多的战争后，越来越多的企业正在寻求逃税。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 19:04:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Jul 2026 23:59:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "白宫为阿根廷队捍卫福克兰群岛旗帜",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“白宫为阿根廷队捍卫福克兰群岛旗帜”。核心要点：这些言论可能会进一步加剧这一事件的争论，唐宁街已回绝要求国际足联进行调查的呼吁。",
+        "titleZh": "俄罗斯在线零售仓库遭受乌克兰致命袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯在线零售仓库遭受乌克兰致命袭击”。核心要点：无人机袭击了莫斯科附近和坦波夫的 Wildberry 设施。乌克兰领导人称它们为供应“受制裁零部件”的“主要物流设施”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 22:12:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Jul 2026 13:06:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯镇压异见，一名反战评论家被罚款，另一名被拘留",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯镇压异见，一名反战评论家被罚款，另一名被拘留”。核心要点：鲍里斯·纳杰日丁 (Boris Nadezhdin) 被禁止竞选议会议员，而博主伊利亚·雷梅斯洛 (Ilya Remeslo) 则被还押候审。",
+        "titleZh": "议会支持罢免匈牙利总统同意辞职",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“议会支持罢免匈牙利总统同意辞职”。核心要点：塔马斯·苏约克被视为欧尔班的忠实拥护者，他必须在周六晚上之前同意结束自己的任期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 20:00:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 18 Jul 2026 19:34:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "“我的买家在交易前一天将报价降低了 15,000 英镑”：凝视以及如何避免这种情况",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我的买家在交易前一天将报价降低了 15,000 英镑”：凝视以及如何避免这种情况”。核心要点：这是房地产市场上一个小但日益严重的问题 - 以下是如何保护自己。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 18 Jul 2026 01:14:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "伯纳姆的“曼彻斯特主义”让他排名第十——但这对英国有用吗？",
         "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆的“曼彻斯特主义”让他排名第十——但这对英国有用吗？”。核心要点：经济学编辑费萨尔·伊斯兰探讨了这座西北城市是否可以成为整个国家的模板。",
@@ -145,14 +128,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 17 Jul 2026 16:53:04 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "中国猛烈抨击英国钢铁公司国有化",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国猛烈抨击英国钢铁公司国有化”。核心要点：英国政府表示，将该公司纳入公众手中将维护“重要的国家能力”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 16:44:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
