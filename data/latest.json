@@ -1,133 +1,132 @@
 {
-  "updatedAt": "2026-07-19T04:33:35.236Z",
+  "updatedAt": "2026-07-20T04:51:04.972Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Emerging roles of SIRT6 and its modulators in kidney diseases.",
-        "journal": "Cell death discovery",
-        "pubDate": "2026 Jul 17",
-        "studyType": "Journal Article / Review",
-        "authors": "Ren F, Wang Y, Zhang Y",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：全球肾脏疾病的发病率和患病率持续上升，对公共卫生构成严峻挑战。 临床提示：SIRT6 是一种 NAD⁺ 依赖性组蛋白脱乙酰酶，在各种病理生理过程中具有广泛的重要调节作用，包括 DNA 修复、染色质可及性、端粒稳定性和糖脂代谢",
-        "abstract": "The global incidence and prevalence of kidney diseases continue to rise, posing a serious public health challenge. SIRT6 is an NAD⁺-dependent histone deacetylase with broad essential regulatory roles across various pathophysiological processes, including DNA repair, chromatin accessibility, telomere stability, and glycolipid metabolism. As an epigenetic regulator specifically expressed in kidney tissues, SIRT6 serves as a central mediator of kidney homeostasis. Notably, accumulating evidence has implicated aberrant SIRT6 expression in the onset and development of various kidney diseases, such as acute kidney injury, diabetic kidney disease, hypertensive nephropathy, renal fibrosis, and renal...",
-        "pmid": "42469212",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42469212/",
-        "doiUrl": "https://doi.org/10.1038/s41420-026-03264-y",
-        "url": "https://doi.org/10.1038/s41420-026-03264-y"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Mathematical Modeling of HDV RNA, HBsAg, and ALT Kinetics in Patients with Compensated Cirrhosis: Insights from 96 Weeks of Bulevirtide Monotherapy.",
-        "journal": "Antiviral research",
-        "pubDate": "2026 Jul 17",
+        "title": "Impact of adding statins to non-selective beta-blockers in cirrhosis with portal hypertension: a systematic review and meta-analysis of randomized controlled trials.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 Jul 19",
         "studyType": "Journal Article",
-        "authors": "Mhlanga A, Shekhtman L, Cotler SJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：38 名患有代偿性肝硬化和临床显着门脉高压 (CSPH) 的 HDV 感染患者接受了 BLV。 临床提示：布勒韦肽 (BLV) 2 mg/天在欧洲被批准用于治疗代偿性慢性丁型肝炎病毒 (HDV) 感染；然而，了解 BLV 单一疗法 96 周下 HDV-RNA、HBsAg 和 ALT 动态的了解还不够",
-        "abstract": "Bulevirtide (BLV) 2 mg/day is approved for the treatment of compensated chronic hepatitis D virus (HDV) infection in Europe; however, understanding HDV-RNA, HBsAg and ALT dynamics under 96 weeks of BLV monotherapy is lacking. 38 HDV-infected patients with compensated cirrhosis and clinically significant portal hypertension (CSPH) received BLV. HDV, ALT, and HBsAg were measured at baseline, weeks 4, 8 and every 8 weeks thereafter. Mathematical modeling was used to explain the observed HDV, ALT, and HBsAg kinetics. Median baseline HDV, HBsAg, and ALT were 5.1 log IU/ml [IQR:4.0-5.8], 3.7 log IU/ml [IQR:3.4-3.9] and 90 U/L [IQR:55-150], respectively. During therapy, patients fit into four main ...",
-        "pmid": "42468832",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42468832/",
-        "doiUrl": "https://doi.org/10.1016/j.antiviral.2026.106489",
-        "url": "https://doi.org/10.1016/j.antiviral.2026.106489"
+        "authors": "Wu Q, Yang Y, Wu Q",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 95）。核心观点：尽管使用非选择性β受体阻滞剂（NSBB），肝硬化和门脉高压（PH）患者仍然面临很大的死亡风险。 临床提示：他汀类药物可以改善肝内微循环，并可能补充 NSBB 效应。",
+        "abstract": "Despite non-selective beta-blockers (NSBBs), patients with cirrhosis and portal hypertension (PH) remain at substantial risk of death. Statins may improve intrahepatic microcirculation and potentially complement NSBB effects. We searched PubMed, Web of Science, Embase, Cochrane Library, and ClinicalTrials.gov from inception to October 2025 for randomized controlled trials (RCTs) comparing NSBB-based therapy plus statins versus NSBB-based therapy alone. Rare events were synthesized using fixed-effect Peto odds ratios; other outcomes were pooled with random-effects models, with prediction intervals (PI) reported. Prespecified subgroup and sensitivity analyses were performed. Seven RCTs (n = 95...",
+        "pmid": "42472575",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42472575/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102259",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102259"
       },
       {
-        "title": "Predictive Value of Preoperative Thromboelastography, C-Reactive Protein, and Thrombomodulin for Postoperative Complications Following Hepatectomy in Patients With Hepatocellular Carcinoma.",
-        "journal": "Annali italiani di chirurgia",
-        "pubDate": "2026 Jul 14",
+        "title": "Crosstalk between TFF2(+) HCC cells and regulatory T cells drives hepatocellular carcinoma prometastatic niche formation and portal vein tumor thrombosis.",
+        "journal": "Cellular signalling",
+        "pubDate": "2026 Jul 18",
         "studyType": "Journal Article",
-        "authors": "Hu Y, Shen W, Zhou H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 195）。核心观点：肝切除术后并发症仍然很常见，并且与患者预后密切相关。 临床提示：传统的术前评估可能无法充分捕捉围手术期凝血障碍、全身炎症和内皮损伤。",
-        "abstract": "Postoperative complications following hepatectomy remain common and are closely associated with patient prognosis. Conventional preoperative assessment may not adequately capture perioperative coagulation disturbances, systemic inflammation, and endothelial injury. This study aimed to develop and internally validate a multidimensional preoperative prediction model integrating thromboelastography (TEG)-related parameters with inflammatory and endothelial biomarkers. This single-center retrospective cohort study included 195 consecutive patients who underwent elective hepatectomy between March 2022 and May 2025. The cohort was randomly divided into a training set (n = 136) and a validation set...",
-        "pmid": "42464831",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42464831/",
-        "doiUrl": "https://doi.org/10.62713/aic.4609",
-        "url": "https://doi.org/10.62713/aic.4609"
+        "authors": "Shi S, Li J, Zhang M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉肿瘤血栓形成（PVTT）是促进肝内播散、诱发门静脉高压、恶化肝细胞癌（HCC）预后的关键事件，但其形成机制仍知之甚少。 临床提示：通过分析 5 名患有 PVTT 的 HCC 患者的 15 个单细胞 RNA 测序样本，在肝细胞癌中鉴定出 TFF2 + HCC 细胞。",
+        "abstract": "Portal vein tumor thrombosis (PVTT) is a critical event that promotes intrahepatic dissemination, induces portal hypertension, and worsens the prognosis of hepatocellular carcinoma (HCC), yet its formation mechanism remains poorly understood. TFF2 + HCC cells were identified in hepatocellular carcinoma by analyzing 15 single-cell RNA sequencing samples from 5 HCC patients with PVTT. The stemness and invasive characteristics of these cells were then assessed via bioinformatic analysis of public HCC cohorts and experimental validation. Spatial transcriptomic analysis of 15 HCC samples revealed the cellular interactions between TFF2 + HCC cells and the tumor microenvironment, findings that were...",
+        "pmid": "42471073",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42471073/",
+        "doiUrl": "https://doi.org/10.1016/j.cellsig.2026.112748",
+        "url": "https://doi.org/10.1016/j.cellsig.2026.112748"
+      },
+      {
+        "title": "Efficacy and Safety of Statins in Patients with Liver Cirrhosis: A Systematic Review and Meta-Analysis of Randomized Controlled Trials with Trial Sequential Analysis.",
+        "journal": "Advances in therapy",
+        "pubDate": "2026 Jul 18",
+        "studyType": "Journal Article",
+        "authors": "Deng H, Wang R, Yin Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：最近的证据表明他汀类药物由于其多效性而对肝硬化有益。 临床提示：肝硬化是全球健康负担，发病率和死亡率很高。",
+        "abstract": "Liver cirrhosis is a global health burden with high morbidity and mortality. Recent evidence suggests the benefits of statins in liver cirrhosis due to its pleiotropic effects. This systematic review and meta-analysis was conducted to evaluate the efficacy and safety of statins in patients with liver cirrhosis. PubMed, EMBASE, and Cochrane Library databases were systematically searched to identify all relevant randomized controlled trials (RCTs) regarding use of statins in cirrhosis. Risk ratios (RRs) or mean differences (MDs) with their 95% confidence intervals (CIs) were pooled for the outcomes, including overall mortality, hepatic venous pressure gradient (HVPG), cirrhosis-related complic...",
+        "pmid": "42470600",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42470600/",
+        "doiUrl": "https://doi.org/10.1007/s12325-026-03682-5",
+        "url": "https://doi.org/10.1007/s12325-026-03682-5"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗袭击约旦后，两名美军丧生，一人失踪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击约旦后，两名美军丧生，一人失踪”。核心要点：随着本周敌对行动重新升级，伊朗和美国进行了相互打击，德黑兰将目标瞄准了海湾地区的美国军事设施。",
+        "titleZh": "伊朗袭击伊拉克后，美军士兵死亡，一人受伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗袭击伊拉克后，美军士兵死亡，一人受伤”。核心要点：两名士兵在约旦被杀后一天，美国军方报告又有一人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 19 Jul 2026 00:18:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 19:45:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "安德鲁·泰特和兄弟在英国受到更多指控后在美国被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“安德鲁·泰特和兄弟在英国受到更多指控后在美国被捕”。核心要点：皇家检察署表示已要求从美国引渡他们，而他们的律师则表示他们“无辜”。",
+        "titleZh": "送餐骑手荣获中国最高文学奖",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“送餐骑手荣获中国最高文学奖”。核心要点：王吉兵是中国蓝领工人之一，因其文学作品而受到更广泛的关注。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 19 Jul 2026 02:17:07 GMT",
+        "publishedAt": "Mon, 20 Jul 2026 03:53:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "挪威为 2011 年大屠杀受害者开设新纪念碑",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“挪威为 2011 年大屠杀受害者开设新纪念碑”。核心要点：这件艺术品于周日在袭击 15 周年纪念日之前在首都奥斯陆揭幕。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 20 Jul 2026 01:11:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "泰特兄弟在美国被捕，英国进一步指控总数达 59 人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泰特兄弟在美国被捕，英国进一步指控总数达 59 人”。核心要点：皇家检察署表示已要求从美国引渡他们，而他们的律师则表示他们是无辜的。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 19 Jul 2026 12:53:20 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯人转向现金，给战时经济放缓带来更大压力",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯人转向现金，给战时经济放缓带来更大压力”。核心要点：俄罗斯人受到移动互联网关闭的打击，在与乌克兰四年多的战争后，越来越多的企业正在寻求逃税。",
+        "titleZh": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯对乌克兰城市发动大规模弹道导弹袭击”。核心要点：多个城市遭到导弹和无人机袭击，造成八人死亡、数十人受伤，而基辅则继续袭击俄罗斯基础设施。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Jul 2026 23:59:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "俄罗斯在线零售仓库遭受乌克兰致命袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯在线零售仓库遭受乌克兰致命袭击”。核心要点：无人机袭击了莫斯科附近和坦波夫的 Wildberry 设施。乌克兰领导人称它们为供应“受制裁零部件”的“主要物流设施”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 18 Jul 2026 13:06:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "议会支持罢免匈牙利总统同意辞职",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“议会支持罢免匈牙利总统同意辞职”。核心要点：塔马斯·苏约克被视为欧尔班的忠实拥护者，他必须在周六晚上之前同意结束自己的任期。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 18 Jul 2026 19:34:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 18:25:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "“我的买家在交易前一天将报价降低了 15,000 英镑”：凝视以及如何避免这种情况",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我的买家在交易前一天将报价降低了 15,000 英镑”：凝视以及如何避免这种情况”。核心要点：这是房地产市场上一个小但日益严重的问题 - 以下是如何保护自己。",
+        "titleZh": "作为家长，您是否错过了每周 27 英镑的收入？检查方法如下",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“作为家长，您是否错过了每周 27 英镑的收入？检查方法如下”。核心要点：英国税务海关总署表示，成千上万的新父母未能申请儿童福利，直到为时已晚，无法收到部分资金。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 18 Jul 2026 01:14:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 23:16:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伯纳姆的“曼彻斯特主义”让他排名第十——但这对英国有用吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆的“曼彻斯特主义”让他排名第十——但这对英国有用吗？”。核心要点：经济学编辑费萨尔·伊斯兰探讨了这座西北城市是否可以成为整个国家的模板。",
+        "titleZh": "泰晤士水务银行准备对伯纳姆国有化提出法律挑战",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“泰晤士水务银行准备对伯纳姆国有化提出法律挑战”。核心要点：据英国广播公司了解，债权人将要求全额偿还数十亿英镑的未偿债务。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 05:00:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 18:35:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "安迪·伯纳姆（Andy Burnham）作为总理必须处理的五个头痛问题",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“安迪·伯纳姆（Andy Burnham）作为总理必须处理的五个头痛问题”。核心要点：从国防支出到住房——下一任英国领导人需要应对一系列挑战。",
+        "titleZh": "我的健身追踪器在我怀孕之前就知道我怀孕了",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我的健身追踪器在我怀孕之前就知道我怀孕了”。核心要点：拉维卡是数百名通过健身追踪器数据注意到早孕迹象的女性之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 05:59:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 23:09:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Brewdog 创始人因回购公司的努力而面临数据投诉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Brewdog 创始人因回购公司的努力而面临数据投诉”。核心要点：据报道，詹姆斯·瓦特联系前股东后，英国数据监管机构收到了投诉。",
+        "titleZh": "机场老板表示，新的欧盟边境系统将护照检查时间延长了两倍",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“机场老板表示，新的欧盟边境系统将护照检查时间延长了两倍”。核心要点：瑞安航空还警告今年夏天前往欧洲的乘客做好长时间等待的准备。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 16:44:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国的Moonshot AI声称Kimi K3可以与OpenAI和Anthropic相媲美",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国的Moonshot AI声称Kimi K3可以与OpenAI和Anthropic相媲美”。核心要点：该公司推出了一个大规模的新人工智能模型，据称可以与美国顶尖公司抗衡。",
+        "titleZh": "中国公司就英国钢铁国有化寻求赔偿",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国公司就英国钢铁国有化寻求赔偿”。核心要点：敬业表示，在英国政府将英国钢铁公司国有化后，敬业将“通过合法手段采取行动到底”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 17 Jul 2026 16:53:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 19 Jul 2026 10:59:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
