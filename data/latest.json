@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-07-21T04:30:46.852Z",
+  "updatedAt": "2026-07-22T04:32:54.971Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Endovascular management of extrahepatic portal vein obstruction (EHPVO): expanding beyond surgical shunts.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 Jul 20",
-        "studyType": "Journal Article / Review",
-        "authors": "Patel RK, Tripathy T, Sasidharan R",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝外门静脉阻塞（EHPVO）是非肝硬化门静脉高压的主要原因，特别是在儿童和年轻人中。 临床提示：传统上，明确的治疗依赖于外科分流术，例如近端脾肾分流术和 meso-Rex 旁路术。然而，广泛的门肠系膜血栓形成、不利的解剖结构、围手术期发病率和限制",
-        "abstract": "Extrahepatic portal vein obstruction (EHPVO) is a major cause of noncirrhotic portal hypertension, particularly in children and young adults. Traditionally, definitive management relied on surgical shunts such as proximal splenorenal shunt and meso-Rex bypass; however, extensive porto-mesenteric thrombosis, unfavorable anatomy, perioperative morbidity, and limited surgical expertise may restrict surgical feasibility in many patients. Over the last decade, advances in interventional radiology have substantially expanded therapeutic options beyond surgery. Portal vein recanalization (PVR) is increasingly considered a physiological endovascular treatment strategy in anatomically suitable patien...",
-        "pmid": "42474715",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42474715/",
-        "doiUrl": "https://doi.org/10.1007/s00261-026-05695-8",
-        "url": "https://doi.org/10.1007/s00261-026-05695-8"
-      },
-      {
-        "title": "A case of portal hypertension associated with a giant hepatic arterioportal fistula successfully treated with partial hepatic arterial embolization.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Jul 20",
-        "studyType": "Journal Article",
-        "authors": "Ueno M, Ojiro K, Nakadai Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：影像学检查显示肝内 HAPF 在门静脉后段分支与右肝动脉和右膈下动脉的动脉流入之间存在多处异常交通，导致诊断为 临床提示：影像学研究显示肝内 HAPF，门静脉后段分支与右肝动脉和右下膈的动脉流入之间存在多处异常交通",
-        "abstract": "Adult-onset symptomatic hepatic arterioportal fistula (HAPF) is a rare vascular abnormality for which optimal treatment strategies have not been established. We report a case of a symptomatic giant HAPF successfully treated with interventional radiology. A woman in her 60 s presented with massive ascites. Imaging studies revealed an intrahepatic HAPF with multiple abnormal communications between the posterior segmental branch of the portal vein and arterial inflow from the right hepatic artery and the right inferior phrenic artery, leading to a diagnosis of portal hypertension associated with HAPF. Due to the high surgical risk associated with massive ascites, partial transcatheter arterial ...",
-        "pmid": "42474651",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42474651/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02403-3",
-        "url": "https://doi.org/10.1007/s12328-026-02403-3"
+        "title": "Laparoscopic or Open Liver Resection Versus Multibipolar Radiofrequency Ablation of HCC Within Milan Criteria on Cirrhosis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article / Multicenter Study / Comparative Study",
+        "authors": "Hobeika C, Cauchy F, Rode A",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：使用多变量回归对 HCC 大小/数量、性别、年龄、ASA、HCV、HBV、代谢综合征、慢性酒精摄入、MELD 评分、血清 AFP 水平、APRI 评分、肝硬化、显着门脉高压和 HCC 定位进行调整 临床提示：我们对米兰境内 HCC 患者的多极射频消融 (mbpRFA) 与开腹肝切除术 (OLR) 或腹腔镜肝切除术 (LLR) 进行了比较。",
+        "abstract": "We compared multibipolar radiofrequency ablation (mbpRFA) with open liver resection (OLR) or laparoscopic liver resection (LLR) in patients with HCCs within Milan. This multicenter cohort study included patients treated by mbpRFA, OLR or LLR for HCC within the Milan Criteria, developed on advanced fibrosis in nine French centres between 2008 and 2018. Adjustments on HCC size/number, gender, age, ASA, HCV, HBV, metabolic syndrome, chronic alcohol intake, MELD score, serum AFP level, APRI score, cirrhosis, significant portal hypertension and HCC localization were performed using multivariable regressions with centre-robust variance and propensity score-based matching (3:1 nearest-neighbour wit...",
+        "pmid": "42478167",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42478167/",
+        "doiUrl": "https://doi.org/10.1111/liv.70802",
+        "url": "https://doi.org/10.1111/liv.70802"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普对加拿大征收 50% 关税，卡尼誓言“加强”贸易谈判",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普对加拿大征收 50% 关税，卡尼誓言“加强”贸易谈判”。核心要点：这些关税标志着北美邻国之间的贸易紧张局势大幅升级。",
+        "titleZh": "经过数天的抗议后，泽伦斯基解雇了乌克兰最高陆军司令",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“经过数天的抗议后，泽伦斯基解雇了乌克兰最高陆军司令”。核心要点：亚历山大·西尔斯基 (Oleksandr Syrskyi) 在因受欢迎的国防部长米哈伊洛·费多罗夫 (Mykhailo Fedorov) 免职而遭到强烈反对后被...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 00:34:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Jul 2026 23:59:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国对伊朗发动新的打击，特朗普警告将对士兵死亡进行报复",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国对伊朗发动新的打击，特朗普警告将对士兵死亡进行报复”。核心要点：美国表示，这些袭击旨在削弱伊朗攻击霍尔木兹海峡船只的能力。",
+        "titleZh": "特朗普威胁攻击地下核设施，美国再次对伊朗发动打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁攻击地下核设施，美国再次对伊朗发动打击”。核心要点：在连续 11 晚发生袭击之前，美国总统威胁要袭击伊朗的一个重要核设施。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 02:41:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 03:05:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "也门胡塞武装宣布对沙特阿拉伯实施“海上禁运”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“也门胡塞武装宣布对沙特阿拉伯实施“海上禁运””。核心要点：胡塞武装表示，禁运立即开始，是对沙特封锁也门港口和机场的回应。",
+        "titleZh": "法国通过法律禁止15岁以下青少年使用社交媒体",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国通过法律禁止15岁以下青少年使用社交媒体”。核心要点：该法律将要求法国的社交媒体平台从一月份起验证所有用户的年龄。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 21:30:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 03:50:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰特兄弟出庭接受引渡诉讼",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泰特兄弟出庭接受引渡诉讼”。核心要点：周六，在英国宣布了数十项新指控后，他们被捕，其中包括强奸和性交易，但他们否认了这些指控。",
+        "titleZh": "东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰””。核心要点：东京都政府希望工人们抛弃西装和领带，改穿 T 恤、运动鞋和短裤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 19:05:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Jul 2026 22:26:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "臭名昭著的贩毒集团头目伊斯梅尔·赞巴达在美国监狱被判处终身监禁",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“臭名昭著的贩毒集团头目伊斯梅尔·赞巴达在美国监狱被判处终身监禁”。核心要点：被称为“El Mayo”的锡那罗亚贩毒集团联合创始人在承认向美国运送大量毒品后也被勒令支付 150 亿美元。",
+        "titleZh": "米其林星级餐厅老板因使用蚂蚁作为甜点装饰而面临牢狱之灾",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“米其林星级餐厅老板因使用蚂蚁作为甜点装饰而面临牢狱之灾”。核心要点：官员称，这家韩国餐厅四年来在各种菜肴中使用了约 49,000 只蚂蚁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 21:03:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 03:32:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "为什么安迪·伯纳姆会发现统一英国如此棘手",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“为什么安迪·伯纳姆会发现统一英国如此棘手”。核心要点：还有什么共同点吗？",
+        "titleZh": "人工智能会帮助你完成你的工作还是取代你？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能会帮助你完成你的工作还是取代你？”。核心要点：人工智能公司大肆宣称他们的工具可以取代人类劳动力——我们的图表显示了正在发生的事情。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 23:49:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Jul 2026 23:04:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我一天在 TikTok 上的销售额就达到了 10 万英镑”：直播购物业务",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我一天在 TikTok 上的销售额就达到了 10 万英镑”：直播购物业务”。核心要点：在社交媒体直播上购物正迅速成为许多人的常规消费行为。",
+        "titleZh": "“我开不起烤箱”：740万家庭难以购买必需品",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我开不起烤箱”：740万家庭难以购买必需品”。核心要点：由于安迪·伯纳姆承诺为家庭提供“喘息空间”，数百万人无法购买衣服、暖气和食品等物品。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 23:06:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Jul 2026 23:57:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "约翰·希利在令人震惊地辞去国防工作几周后就任总理",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“约翰·希利在令人震惊地辞去国防工作几周后就任总理”。核心要点：这位前国防部长被视为可靠的助手，现在负责政府的财务。",
+        "titleZh": "法国通过法律禁止15岁以下青少年使用社交媒体",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法国通过法律禁止15岁以下青少年使用社交媒体”。核心要点：该法律将要求法国的社交媒体平台从一月份起验证所有用户的年龄。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 18:44:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 03:50:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伯纳姆有伟大的想法 - 但它们的成本是多少？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆有伟大的想法 - 但它们的成本是多少？”。核心要点：每一个棘手的决定和权衡都受到国家和市场的同时关注",
+        "titleZh": "东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰””。核心要点：东京都政府希望工人们抛弃西装和领带，改穿 T 恤、运动鞋和短裤。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 21:47:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Jul 2026 22:26:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "20 多岁的年轻人大举押注科技股",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“20 多岁的年轻人大举押注科技股”。核心要点：英国广播公司 (BBC) 向人们讲述了投资科技股的风险和回报。",
+        "titleZh": "国会议员敦促通过削减雇主的国民保险来增加青年就业",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“国会议员敦促通过削减雇主的国民保险来增加青年就业”。核心要点：一个特别委员会表示，它听到了“压倒性的证据”，表明就业成本上升正在减少培训和职位空缺。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 20 Jul 2026 22:00:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 21 Jul 2026 23:17:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
