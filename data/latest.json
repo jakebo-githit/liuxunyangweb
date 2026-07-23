@@ -1,106 +1,92 @@
 {
-  "updatedAt": "2026-07-22T04:32:54.971Z",
+  "updatedAt": "2026-07-23T04:32:15.196Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Laparoscopic or Open Liver Resection Versus Multibipolar Radiofrequency Ablation of HCC Within Milan Criteria on Cirrhosis.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Multicenter Study / Comparative Study",
-        "authors": "Hobeika C, Cauchy F, Rode A",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：使用多变量回归对 HCC 大小/数量、性别、年龄、ASA、HCV、HBV、代谢综合征、慢性酒精摄入、MELD 评分、血清 AFP 水平、APRI 评分、肝硬化、显着门脉高压和 HCC 定位进行调整 临床提示：我们对米兰境内 HCC 患者的多极射频消融 (mbpRFA) 与开腹肝切除术 (OLR) 或腹腔镜肝切除术 (LLR) 进行了比较。",
-        "abstract": "We compared multibipolar radiofrequency ablation (mbpRFA) with open liver resection (OLR) or laparoscopic liver resection (LLR) in patients with HCCs within Milan. This multicenter cohort study included patients treated by mbpRFA, OLR or LLR for HCC within the Milan Criteria, developed on advanced fibrosis in nine French centres between 2008 and 2018. Adjustments on HCC size/number, gender, age, ASA, HCV, HBV, metabolic syndrome, chronic alcohol intake, MELD score, serum AFP level, APRI score, cirrhosis, significant portal hypertension and HCC localization were performed using multivariable regressions with centre-robust variance and propensity score-based matching (3:1 nearest-neighbour wit...",
-        "pmid": "42478167",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42478167/",
-        "doiUrl": "https://doi.org/10.1111/liv.70802",
-        "url": "https://doi.org/10.1111/liv.70802"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "经过数天的抗议后，泽伦斯基解雇了乌克兰最高陆军司令",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“经过数天的抗议后，泽伦斯基解雇了乌克兰最高陆军司令”。核心要点：亚历山大·西尔斯基 (Oleksandr Syrskyi) 在因受欢迎的国防部长米哈伊洛·费多罗夫 (Mykhailo Fedorov) 免职而遭到强烈反对后被...",
+        "titleZh": "美国与沙特阿拉伯签署具有里程碑意义的核协议",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国与沙特阿拉伯签署具有里程碑意义的核协议”。核心要点：美国能源部表示，“和平”合作协议将为美国公司提供参与沙特核能计划的“绝佳机会”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 23:59:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Jul 2026 00:21:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普威胁攻击地下核设施，美国再次对伊朗发动打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁攻击地下核设施，美国再次对伊朗发动打击”。核心要点：在连续 11 晚发生袭击之前，美国总统威胁要袭击伊朗的一个重要核设施。",
+        "titleZh": "随着美国对伊朗发动更多打击，胡塞武装声称袭击了油轮",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着美国对伊朗发动更多打击，胡塞武装声称袭击了油轮”。核心要点：这是自伊朗支持的胡塞武装宣布对沙特阿拉伯实施“海上禁运”以来，胡塞武装在红海发动的首次袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Jul 2026 03:05:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 23 Jul 2026 03:48:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法国通过法律禁止15岁以下青少年使用社交媒体",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国通过法律禁止15岁以下青少年使用社交媒体”。核心要点：该法律将要求法国的社交媒体平台从一月份起验证所有用户的年龄。",
+        "titleZh": "胡塞武装航运威胁后油轮急转",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“胡塞武装航运威胁后油轮急转”。核心要点：船舶跟踪数据显示，所有船舶在改变航线之前都曾往返于沙特港口。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Jul 2026 03:50:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 14:42:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰””。核心要点：东京都政府希望工人们抛弃西装和领带，改穿 T 恤、运动鞋和短裤。",
+        "titleZh": "俄罗斯企业因乌克兰对野莓的袭击而承受压力",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯企业因乌克兰对野莓的袭击而承受压力”。核心要点：乌克兰无人机在几天内袭击了俄罗斯最大在线零售商 Wildberry 旗下的多个零售仓库。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 22:26:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 23:06:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "米其林星级餐厅老板因使用蚂蚁作为甜点装饰而面临牢狱之灾",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“米其林星级餐厅老板因使用蚂蚁作为甜点装饰而面临牢狱之灾”。核心要点：官员称，这家韩国餐厅四年来在各种菜肴中使用了约 49,000 只蚂蚁。",
+        "titleZh": "秘鲁警方称火灾导致同一家庭10名成员死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“秘鲁警方称火灾导致同一家庭10名成员死亡”。核心要点：当局正在调查利马火灾的原因，当地媒体报道称可能是人为纵火。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 22 Jul 2026 03:32:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 20:56:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "人工智能会帮助你完成你的工作还是取代你？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能会帮助你完成你的工作还是取代你？”。核心要点：人工智能公司大肆宣称他们的工具可以取代人类劳动力——我们的图表显示了正在发生的事情。",
+        "titleZh": "部分食品价格下跌，但通胀预计将由此上升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“部分食品价格下跌，但通胀预计将由此上升”。核心要点：六月通胀下降将受到新首相的欢迎，但分析师警告称，通胀下降是暂时的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 23:04:42 GMT",
+        "publishedAt": "Wed, 22 Jul 2026 10:10:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "机场送机费上涨了三分之一 - 这是最贵的",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“机场送机费上涨了三分之一 - 这是最贵的”。核心要点：在英国最繁忙的两个机场，距离航站楼最近的停车场几分钟的停车费已达到 10 英镑。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 22 Jul 2026 23:21:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "特朗普技术顾问称，中国的 Moonshot AI 窃取了 Anthropic 的技术",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普技术顾问称，中国的 Moonshot AI 窃取了 Anthropic 的技术”。核心要点：这些指控发生之际，中国人工智能公司正面临美国政府越来越严格的审查。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 23 Jul 2026 01:52:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "你的工作会被人工智能取代吗？以下是受影响最严重的角色",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“你的工作会被人工智能取代吗？以下是受影响最严重的角色”。核心要点：人工智能公司大肆宣称他们的工具可以取代人类劳动力——我们的图表显示了正在发生的事情。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 22 Jul 2026 07:40:33 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我开不起烤箱”：740万家庭难以购买必需品",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我开不起烤箱”：740万家庭难以购买必需品”。核心要点：由于安迪·伯纳姆承诺为家庭提供“喘息空间”，数百万人无法购买衣服、暖气和食品等物品。",
+        "titleZh": "公司表示，伦敦劳合社前老板的关系违反了规定",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“公司表示，伦敦劳合社前老板的关系违反了规定”。核心要点：保险市场主席表示，首席执行官的行为“明显低于对他的预期标准”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 23:57:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "法国通过法律禁止15岁以下青少年使用社交媒体",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法国通过法律禁止15岁以下青少年使用社交媒体”。核心要点：该法律将要求法国的社交媒体平台从一月份起验证所有用户的年龄。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 22 Jul 2026 03:50:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“东京敦促男性穿短裤上班，但一些女性称这是“腿毛骚扰””。核心要点：东京都政府希望工人们抛弃西装和领带，改穿 T 恤、运动鞋和短裤。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 22:26:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "国会议员敦促通过削减雇主的国民保险来增加青年就业",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“国会议员敦促通过削减雇主的国民保险来增加青年就业”。核心要点：一个特别委员会表示，它听到了“压倒性的证据”，表明就业成本上升正在减少培训和职位空缺。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 21 Jul 2026 23:17:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 22 Jul 2026 17:08:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
