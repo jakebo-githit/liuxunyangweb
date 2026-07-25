@@ -1,132 +1,119 @@
 {
-  "updatedAt": "2026-07-24T04:31:01.080Z",
+  "updatedAt": "2026-07-25T04:26:32.386Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Primary Biliary Cholangitis.",
-        "journal": "Clinics in liver disease",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Review",
-        "authors": "Bolis F, Carbone M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：熊去氧胆酸（UDCA）仍然是一线药物，治疗生化反应可预测长期预后。 临床提示：原发性胆汁性胆管炎（PBC）是一种慢性自身免疫性胆汁淤积性肝病，其特征是持续性胆汁淤积和进行性纤维化。",
-        "abstract": "Primary biliary cholangitis (PBC) is a chronic autoimmune cholestatic liver disease characterized by persistent cholestasis and progressive fibrosis. Diagnosis relies on cholestatic biochemistry with AMA or PBC-specific antinuclear antibodies positivity; biopsy is reserved for atypical cases. Ursodeoxycholic acid (UDCA) remains first-line, with on treatment biochemical response predicting long-term prognosis. Symptom management-particularly for pruritus, fatigue, and sicca-is crucial to address patient's quality of life. Long-term care includes surveillance for treatment response, development of fibrosis, portal hypertension, bone disease, and hepatocellular carcinoma. Liver transplantation ...",
-        "pmid": "42486597",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42486597/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.04.003",
-        "url": "https://doi.org/10.1016/j.cld.2026.04.003"
+        "title": "Urostomy-associated stomal variceal hemorrhage secondary to portal hypertension: A case report and interventional radiology-guided management.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Oct",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Sun C, Mangio H, Bryan H 3rd",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：造口静脉曲张出血与显着的发病率、高再出血率和每次出血约3%-4%的死亡率相关。 临床提示：迄今为止，关于尿路造口相关造口静脉曲张的治疗策略的讨论有限。",
+        "abstract": "Stomal varices are a rare manifestation of ectopic portosystemic collateralization in patients with portal hypertension and are most commonly reported in association with ileostomies and colostomies. Stomal variceal hemorrhages are associated with significant morbidity, high rebleeding rates, and mortality of approximately 3%-4% per bleeding episode. To date, there has been limited discussion on treatment strategies for urostomy-associated stomal varices. We report a case of recurrent, transfusion-dependent bleeding from an ileal conduit urostomy in a 58-year-old man with portal hypertension secondary to metabolic dysfunction-associated steatohepatitis (MASH) and alcohol-related cirrhosis. D...",
+        "pmid": "42494883",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42494883/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.06.139",
+        "url": "https://doi.org/10.1016/j.radcr.2026.06.139"
       },
       {
-        "title": "Chronic Kidney Disease Does Not Influence Response to Terlipressin in Hepatorenal Syndrome-Acute Kidney Injury.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Multicenter Study / Observational Study",
-        "authors": "Uschner FE, Schleicher EM, Passenberg M",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 395）。核心观点：特利加压素治疗肝肾综合征-急性肾损伤（HRS-AKI）和慢性肾脏病（CKD）患者的疗效及其对预后的影响尚不清楚。 临床提示：这项多中心、回顾性、观察性研究旨在调查特利加压素（+白蛋白）对 HRS-AKI 和 CKD 患者与非 CKD 患者的治疗反应。",
-        "abstract": "Efficacy of treatment with terlipressin and its impact on outcome in patients with hepatorenal syndrome-acute kidney injury (HRS-AKI) and chronic kidney disease (CKD) is unknown. This multicenter, retrospective, observational study aimed to investigate treatment response of terlipressin (+ albumin) in patients with HRS-AKI and CKD compared with patients without CKD. A total of 395 patients who received albumin/terlipressin were retrospectively analyzed and stratified according to presence of CKD at baseline. The primary endpoint was a complete response to terlipressin treatment. Secondary endpoints included adverse events, need for renal replacement therapy and 12-month liver transplantation...",
-        "pmid": "41265546",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41265546/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.11.006",
-        "url": "https://doi.org/10.1016/j.cgh.2025.11.006"
-      },
-      {
-        "title": "Artificial Intelligence and Generative Models in Hepatology: From Large Language Models to Digital Pathology in Liver Disease Diagnosis and Treatment.",
-        "journal": "Clinical and molecular hepatology",
+        "title": "Combined Access Strategies for Portal Vein Recanalization with TIPS in Pediatric Chronic Portal Vein Thrombosis: A Series of Three Cases.",
+        "journal": "Journal of vascular and interventional radiology : JVIR",
         "pubDate": "2026 Jul 23",
-        "studyType": "Journal Article / Review",
-        "authors": "Peng N, Wang MY, Song SJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：人工智能（AI），特别是基础模型和生成模型，正在通过增强知识综合、多模式数据的定量和可重复分析以及个性化临床决策支持来重塑肝病学实践。 临床提示：我们综合来自代谢功能障碍相关脂肪肝病的原始研究和验证研究、临床评估和基准研究以及专家评审和监管框架的证据",
-        "abstract": "Artificial intelligence (AI), particularly foundation and generative models, is reshaping the practice of hepatology through enhanced knowledge synthesis, quantitative and reproducible analysis of multimodal data, and personalized clinical decision support. This narrative review examines the transition from task-specific discrimination AI to large language models (LLMs), multimodal foundation models, and agentic AI. We synthesize evidence from original and validation studies, clinical evaluations, and benchmark studies, as well as expert reviews and regulatory frameworks across metabolic dysfunction-associated steatotic liver disease, chronic hepatitis B, cirrhosis and portal hypertension, h...",
-        "pmid": "42487578",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42487578/",
-        "doiUrl": "https://doi.org/10.3350/cmh.2026.0258",
-        "url": "https://doi.org/10.3350/cmh.2026.0258"
+        "studyType": "Journal Article",
+        "authors": "Al Akoum M, Tarhini H, Noun P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（PVR-TIPS）的门静脉再通是一种新兴的血管内选择，用于治疗伴有海绵样变的儿童慢性门静脉血栓形成。 临床提示：我们描述了三名儿科患者（11 个月至 11 岁），他们使用个性化的经脾、经肝和经颈静脉通路策略成功接受了 PVR-TIPS。",
+        "abstract": "Portal vein recanalization with transjugular intrahepatic portosystemic shunt (PVR-TIPS) is an emerging endovascular option for pediatric chronic portal vein thrombosis with cavernous transformation. We describe three pediatric patients (11 months-11 years) who underwent successful PVR-TIPS using individualized transsplenic, transhepatic, and transjugular access strategies. Technical success was achieved in all cases, with restoration of portal venous flow, decompression of portal venous collaterals, and TIPS creation to maintain portal vein patency after recanalization. During follow-up, two patients developed shunt-related complications (stenosis or partial thrombosis) requiring successful...",
+        "pmid": "42492773",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42492773/",
+        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.108976",
+        "url": "https://doi.org/10.1016/j.jvir.2026.108976"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美国以强迫劳动为由对数十个贸易伙伴征收关税",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国以强迫劳动为由对数十个贸易伙伴征收关税”。核心要点：此次关税针对 60 个贸易伙伴，理由是它们未能妥善制止强迫劳动。",
+        "titleZh": "法国和西班牙超过22万人因山火疏散",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国和西班牙超过22万人因山火疏散”。核心要点：法国消防员正在前往波尔多与大火搏斗，而马德里官员则表示，他们面临着“该地区历史上最严重的火灾”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 04:27:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Jul 2026 02:29:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "油价自5月以来首次触及100美元",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“油价自5月以来首次触及100美元”。核心要点：随着中东战事持续升级，布伦特原油价格周四上涨逾6%。",
+        "titleZh": "俄罗斯袭击基辅附近的无人机展览，造成十人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯袭击基辅附近的无人机展览，造成十人死亡”。核心要点：乌克兰国防工业的知名人士参加了这次活动，但在中午遭到弹道导弹袭击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 15:31:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度尼西亚婴儿被贩卖到新加坡。他们现在怎么样了？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印度尼西亚婴儿被贩卖到新加坡。他们现在怎么样了？”。核心要点：至少有 12 名婴儿从印度尼西亚被拐卖到新加坡，但他们的命运仍不清楚。",
+        "titleZh": "泽伦斯基试图解决因国防部长免职而引发的危机并计算成本",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基试图解决因国防部长免职而引发的危机并计算成本”。核心要点：对泽伦斯基解雇米哈伊洛·费多罗夫的决定的抗议仍在继续，一些评论员认为他在政治上受到了损害。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 23:19:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示，沙特必须承认以色列的核协议",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，沙特必须承认以色列的核协议”。核心要点：美国总统表示，帮助沙特发展核能的里程碑式协议取决于其加入《亚伯拉罕协议》。",
+        "titleZh": "短信显示涉嫌被歌手 D4vd 谋杀的 14 岁少女怀孕并堕胎",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“短信显示涉嫌被歌手 D4vd 谋杀的 14 岁少女怀孕并堕胎”。核心要点：检察官称，D4vd 在女孩 13 岁时开始虐待她，她威胁要揭发他。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 17:58:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 25 Jul 2026 02:14:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "野火在西南部蔓延 法国疏散2万人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“野火在西南部蔓延 法国疏散2万人”。核心要点：大多数被疏散的人是来自法国吉伦特省阿卡雄湾周围露营地的游客。",
+        "titleZh": "特朗普发誓要调查欧盟对美国科技公司的罚款",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普发誓要调查欧盟对美国科技公司的罚款”。核心要点：美国总统表示，针对谷歌、苹果、Meta 和亚马逊的罚款应该“完全撤销”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 19:17:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "美国以强迫劳动为由对数十个贸易伙伴征收关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国以强迫劳动为由对数十个贸易伙伴征收关税”。核心要点：此次关税针对 60 个贸易伙伴，理由是它们未能妥善制止强迫劳动。",
+        "titleZh": "ADHD 改变了工作场所。这对老板和工人来说意味着什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“ADHD 改变了工作场所。这对老板和工人来说意味着什么”。核心要点：随着多动症诊断的增加，工作场所是否满足了劳动力的需求？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 04:27:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 23:23:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国国防部长警告说，英国对战争威胁感到自满",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国国防部长警告说，英国对战争威胁感到自满”。核心要点：欧洲最大国防承包商的老板警告说，攻击的威胁从未如此之高。查尔斯·伍德伯恩博士",
+        "titleZh": "姗姗来迟、改变生活还是无聊？您对婚礼规则变化的看法",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“姗姗来迟、改变生活还是无聊？您对婚礼规则变化的看法”。核心要点：政府希望放宽婚礼法，以便情侣几乎可以在任何地方结婚。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 23:04:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 23:31:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "即使我们中的一个人赚得多，我们也会平均分摊账单",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“即使我们中的一个人赚得多，我们也会平均分摊账单”。核心要点：麦克斯被解雇后，汉娜和麦克斯继续筹集资金，但采取了“严厉措施”来削减开支。",
+        "titleZh": "特朗普发誓要调查欧盟对美国科技公司的罚款",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普发誓要调查欧盟对美国科技公司的罚款”。核心要点：美国总统表示，针对谷歌、苹果、Meta 和亚马逊的罚款应该“完全撤销”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 23:01:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国抵押贷款利率升至一个月来最高水平",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国抵押贷款利率升至一个月来最高水平”。核心要点：中东重新出现的紧张局势加剧了贷款机构面临的成本，推高了借贷成本。",
+        "titleZh": "费萨尔·伊斯兰：英国的特朗普贸易协议看起来不再是世界一流的",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：英国的特朗普贸易协议看起来不再是世界一流的”。核心要点：尽管美国对英国征收的关税实际上没有变化，但其他国家现在有了更好的协议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 23:02:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 14:02:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "油价自5月以来首次触及100美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“油价自5月以来首次触及100美元”。核心要点：随着中东战事持续升级，布伦特原油价格周四上涨逾6%。",
+        "titleZh": "观看：又一天，特朗普征收更多关税——但它们有效吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“观看：又一天，特朗普征收更多关税——但它们有效吗？”。核心要点：BBC 的萨米拉·侯赛因 (Samira Hussain) 解释了特朗普总统的关税如何影响美国经济、谁付出了代价，以及这些关税是否有效。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 23 Jul 2026 15:31:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 24 Jul 2026 10:21:31 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
