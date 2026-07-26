@@ -1,45 +1,108 @@
 {
-  "updatedAt": "2026-07-25T04:26:32.386Z",
+  "updatedAt": "2026-07-26T04:40:01.274Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Urostomy-associated stomal variceal hemorrhage secondary to portal hypertension: A case report and interventional radiology-guided management.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Oct",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Sun C, Mangio H, Bryan H 3rd",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：造口静脉曲张出血与显着的发病率、高再出血率和每次出血约3%-4%的死亡率相关。 临床提示：迄今为止，关于尿路造口相关造口静脉曲张的治疗策略的讨论有限。",
-        "abstract": "Stomal varices are a rare manifestation of ectopic portosystemic collateralization in patients with portal hypertension and are most commonly reported in association with ileostomies and colostomies. Stomal variceal hemorrhages are associated with significant morbidity, high rebleeding rates, and mortality of approximately 3%-4% per bleeding episode. To date, there has been limited discussion on treatment strategies for urostomy-associated stomal varices. We report a case of recurrent, transfusion-dependent bleeding from an ileal conduit urostomy in a 58-year-old man with portal hypertension secondary to metabolic dysfunction-associated steatohepatitis (MASH) and alcohol-related cirrhosis. D...",
-        "pmid": "42494883",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42494883/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.06.139",
-        "url": "https://doi.org/10.1016/j.radcr.2026.06.139"
+        "title": "Overlap of Primary Biliary Cholangitis and Systemic Sclerosis: A Case of Reynolds Syndrome.",
+        "journal": "Clinical case reports",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Gohar A, Abid I, Fatima SE",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：对于持续胆汁淤积性肝酶的 CREST 患者，应怀疑雷诺综合征，因为延迟诊断会导致门脉高压和静脉曲张出血。 临床提示：早期抗线粒体抗体筛查和及时熊去氧胆酸治疗可改善预后，这些患者需要对肺部和甲状腺疾病进行多学科随访。",
+        "abstract": "Reynolds Syndrome should be suspected in CREST patients with persistent cholestatic liver enzymes, since delayed diagnosis allows portal hypertension and variceal bleeding to develop. Early anti-mitochondrial antibody screening and prompt ursodeoxycholic acid therapy improve outcomes, and these patients need multidisciplinary follow-up for lung and thyroid disease.",
+        "pmid": "42499963",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42499963/",
+        "doiUrl": "https://doi.org/10.1002/ccr3.73201",
+        "url": "https://doi.org/10.1002/ccr3.73201"
       },
       {
-        "title": "Combined Access Strategies for Portal Vein Recanalization with TIPS in Pediatric Chronic Portal Vein Thrombosis: A Series of Three Cases.",
-        "journal": "Journal of vascular and interventional radiology : JVIR",
-        "pubDate": "2026 Jul 23",
+        "title": "Cumulative Metformin Use and Hepatocellular Carcinoma Risk After HCV SVR: A Multicentre Cohort Study.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article / Multicenter Study",
+        "authors": "Calvo-Sánchez H, Jara-Fernández L, Encijo-Heredia R",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 1531）。核心观点：尽管丙型肝炎病毒治疗后的持续病毒学应答（SVR）可降低肝细胞癌（HCC）的发病率，但残留风险仍然存在。 临床提示：二甲双胍与较低的 HCC 风险相关，但累积二甲双胍暴露 (CME) 是否会降低 SVR 后的风险仍不清楚。",
+        "abstract": "Although sustained virological response (SVR) after hepatitis C virus treatment reduces hepatocellular carcinoma (HCC) incidence, residual risk persists. Metformin has been associated with lower HCC risk, but whether cumulative metformin exposure (CME) lowers post-SVR risk remains unclear. We evaluated whether CME was associated with lower HCC risk after SVR. We analysed a multicentre cohort of 1531 patients who achieved SVR after direct-acting antiviral therapy (median follow-up, 75.5 months). Metformin exposure was modelled as a time-updated cumulative variable in start-stop Cox models to control for immortal-time bias. Stabilised inverse probability weighting addressed confounding by indi...",
+        "pmid": "42499017",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42499017/",
+        "doiUrl": "https://doi.org/10.1111/liv.70798",
+        "url": "https://doi.org/10.1111/liv.70798"
+      },
+      {
+        "title": "Refining the role of liver transplantation as a curative treatment for hepatocellular carcinoma.",
+        "journal": "International journal of clinical oncology",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article / Review",
+        "authors": "Yoh T, Ito T, Ogiso S",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：虽然LR在肝功能保留的患者中被广泛接受，但其疗效受到术后肝代偿失调风险和相对较高的复发率的限制。 临床提示：肝切除（LR）和肝移植（LT）是公认的肝细胞癌（HCC）“治愈”疗法，各自都有优点和局限性。",
+        "abstract": "Liver resection (LR) and liver transplantation (LT) are well-established \"curative\" treatments for hepatocellular carcinoma (HCC), each with advantages and limitations. While LR is widely accepted for patients with preserved liver function, its efficacy is constrained by the risk of postoperative hepatic decompensation and a relatively high recurrence rate. In contrast, LT offers a comprehensive cure by addressing both the tumor itself and underlying liver disease; however, its clinical application is limited by donor shortages, immunosuppression-related complications, and perioperative risks. Recent advancements in perioperative care and immunosuppressive strategies have improved LT outcome...",
+        "pmid": "41085608",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41085608/",
+        "doiUrl": "https://doi.org/10.1007/s10147-025-02898-9",
+        "url": "https://doi.org/10.1007/s10147-025-02898-9"
+      },
+      {
+        "title": "Outcomes of splenic artery embolization in patients with portal hypertension: a single center experience.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "pubDate": "2026 Jul 25",
         "studyType": "Journal Article",
-        "authors": "Al Akoum M, Tarhini H, Noun P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（PVR-TIPS）的门静脉再通是一种新兴的血管内选择，用于治疗伴有海绵样变的儿童慢性门静脉血栓形成。 临床提示：我们描述了三名儿科患者（11 个月至 11 岁），他们使用个性化的经脾、经肝和经颈静脉通路策略成功接受了 PVR-TIPS。",
-        "abstract": "Portal vein recanalization with transjugular intrahepatic portosystemic shunt (PVR-TIPS) is an emerging endovascular option for pediatric chronic portal vein thrombosis with cavernous transformation. We describe three pediatric patients (11 months-11 years) who underwent successful PVR-TIPS using individualized transsplenic, transhepatic, and transjugular access strategies. Technical success was achieved in all cases, with restoration of portal venous flow, decompression of portal venous collaterals, and TIPS creation to maintain portal vein patency after recanalization. During follow-up, two patients developed shunt-related complications (stenosis or partial thrombosis) requiring successful...",
-        "pmid": "42492773",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42492773/",
-        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.108976",
-        "url": "https://doi.org/10.1016/j.jvir.2026.108976"
+        "authors": "Waern J, Hreinsson JP, Mahdavian A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化（CPH）和非肝硬化门静脉高压（​​NCPH）可导致严重的并发症，包括静脉曲张出血、腹水和脾功能亢进。 临床提示：然而，关于脾动脉栓塞（SAE）对门静脉高压症的长期临床影响的证据仍然有限。",
+        "abstract": "Cirrhotic (CPH) and non-cirrhotic portal hypertension (NCPH) can result in severe complications, including variceal bleeding, ascites, and hypersplenism. However, evidence regarding the long-term clinical impact of splenic artery embolization (SAE) in portal hypertension remains limited. We conducted a retrospective single-center study including consecutive patients who underwent SAE for complications of portal hypertension at Sahlgrenska University Hospital, Gothenburg, Sweden, between January 2016 and December 2024. Clinical, radiological, and laboratory data were collected at baseline and during follow-up. Overall survival, gastrointestinal bleeding, complications, and changes in clinical...",
+        "pmid": "42500908",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42500908/",
+        "doiUrl": "https://doi.org/10.1080/00365521.2026.2707980",
+        "url": "https://doi.org/10.1080/00365521.2026.2707980"
+      },
+      {
+        "title": "Endoscopic variceal ligation-induced ulcer bleeding: incidence by indication, real-world treatment, and outcomes.",
+        "journal": "BMC gastroenterology",
+        "pubDate": "2026 Jul 24",
+        "studyType": "Journal Article",
+        "authors": "Vasilakis T, Schauer S, Grajecki D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：内镜下静脉曲张结扎术（EVL）引起的溃疡出血是一种罕见但可能危及生命的并发症。 临床提示：虽然选择性和紧急 EVL 的发生率已有报道，但尚未单独检查住院期间因肝硬化急性失代偿而进行的半选择性手术。",
+        "abstract": "Endoscopic variceal ligation (EVL) - induced ulcer bleeding is a rare but potentially life-threatening complication. While the incidence following elective and emergency EVL has been reported, semi-elective procedures performed during hospitalization for acute decompensation of cirrhosis have not been separately examined. Additionally, real-world data on endoscopic treatment strategies, hemostasis rates and outcomes are scarce. We conducted a retrospective cohort study analyzing all ligation procedures performed in adults with portal hypertension and esophageal varices at Charité University Hospital, Campus Virchow and Campus Mitte, from 01/01/2016 until 06/30/2023. We assessed incidence and...",
+        "pmid": "42498927",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498927/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-05141-5",
+        "url": "https://doi.org/10.1186/s12876-026-05141-5"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "法国和西班牙超过22万人因山火疏散",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国和西班牙超过22万人因山火疏散”。核心要点：法国消防员正在前往波尔多与大火搏斗，而马德里官员则表示，他们面临着“该地区历史上最严重的火灾”。",
+        "titleZh": "法国和西班牙超过30万人逃离山火",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国和西班牙超过30万人逃离山火”。核心要点：西班牙首相警告称，未来“形势复杂”，法国当局表示，他们还远未控制住波尔多附近的大火。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Jul 2026 02:29:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Jul 2026 00:54:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "特朗普在白宫记者晚宴上猛烈抨击媒体",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在白宫记者晚宴上猛烈抨击媒体”。核心要点：第一次晚宴因四月份的枪击事件而取消后，这次活动庆祝了新闻自由。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "印度教育部长辞职后取消“蟑螂”抗议活动",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“印度教育部长辞职后取消“蟑螂”抗议活动”。核心要点：CJP 的抗议是近年来公众对纳伦德拉·莫迪总理政府愤怒最明显的表达。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "伊朗支持的胡塞武装声称对沙特阿拉伯发动导弹袭击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗支持的胡塞武装声称对沙特阿拉伯发动导弹袭击”。核心要点：美国军方表示，一艘试图逃避美国对伊朗港口封锁的油轮被击落。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "俄罗斯袭击基辅附近的无人机展览，造成十人死亡",
@@ -48,33 +111,17 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "泽伦斯基试图解决因国防部长免职而引发的危机并计算成本",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基试图解决因国防部长免职而引发的危机并计算成本”。核心要点：对泽伦斯基解雇米哈伊洛·费多罗夫的决定的抗议仍在继续，一些评论员认为他在政治上受到了损害。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "短信显示涉嫌被歌手 D4vd 谋杀的 14 岁少女怀孕并堕胎",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“短信显示涉嫌被歌手 D4vd 谋杀的 14 岁少女怀孕并堕胎”。核心要点：检察官称，D4vd 在女孩 13 岁时开始虐待她，她威胁要揭发他。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 25 Jul 2026 02:14:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普发誓要调查欧盟对美国科技公司的罚款",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普发誓要调查欧盟对美国科技公司的罚款”。核心要点：美国总统表示，针对谷歌、苹果、Meta 和亚马逊的罚款应该“完全撤销”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "法律修改后，宠物友好型房产的出租搜索量下降",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法律修改后，宠物友好型房产的出租搜索量下降”。核心要点：中介表示，一些租客错误地认为养宠物是有保证的。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 26 Jul 2026 00:00:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "ADHD 改变了工作场所。这对老板和工人来说意味着什么",
         "summaryZh": "这是一条金融市场新闻，重点围绕“ADHD 改变了工作场所。这对老板和工人来说意味着什么”。核心要点：随着多动症诊断的增加，工作场所是否满足了劳动力的需求？",
@@ -106,14 +153,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 24 Jul 2026 14:02:26 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "观看：又一天，特朗普征收更多关税——但它们有效吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“观看：又一天，特朗普征收更多关税——但它们有效吗？”。核心要点：BBC 的萨米拉·侯赛因 (Samira Hussain) 解释了特朗普总统的关税如何影响美国经济、谁付出了代价，以及这些关税是否有效。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 10:21:31 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
