@@ -1,119 +1,151 @@
 {
-  "updatedAt": "2026-07-26T04:40:01.274Z",
+  "updatedAt": "2026-07-27T04:50:49.953Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Overlap of Primary Biliary Cholangitis and Systemic Sclerosis: A Case of Reynolds Syndrome.",
-        "journal": "Clinical case reports",
-        "pubDate": "2026 Aug",
+        "title": "Quantitative MRI to Assess Portal Pressure in Patients With Liver Disease: Validation at 3 T.",
+        "journal": "NMR in biomedicine",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article / Validation Study",
+        "authors": "Bradley CR, Scott R, Cox EF",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 40）。核心观点：数据来自 40 名参与者（15 名代谢功能障碍相关脂肪肝病 [MASLD]/13 名酒精相关性肝病 [ArLD]/12 名其他，55 ± 14 岁）在 1.5 T 下扫描（回顾性）和 42 名参与者（21 名 MASLD/14 ArLD/7 名其他，60 ± 12 岁）扫描数据 临床提示：数据来自 40 名参与者（15 名代谢功能障碍相关脂肪性肝病 [MASLD]/13 名酒精相关性肝病 [ArLD]/12 名其他，55 ± 14 岁），以 1.5 T（回顾性）扫描，42 名参与者（21 MAS）",
+        "abstract": "Hepatic venous pressure gradient (HVPG) is the gold standard for assessing portal hypertension (PH). We previously demonstrated that a bivariate MRI model combining liver T 1 and splenic artery velocity at 1.5 T correlates with HVPG. This study aimed to evaluate this model at 3 T and investigate additional splanchnic MRI measures as potential non-invasive markers of portal pressure. Data from 40 participants (15 metabolic dysfunction-associated steatotic liver disease [MASLD]/13 alcohol-related liver disease [ArLD]/12 other, 55 ± 14 years) scanned at 1.5 T (retrospective) and 42 participants (21 MASLD/14 ArLD/7 other, 60 ± 12 years) scanned prospectively at 3 T who underwent clinical HVPG me...",
+        "pmid": "42503440",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42503440/",
+        "doiUrl": "https://doi.org/10.1002/nbm.70363",
+        "url": "https://doi.org/10.1002/nbm.70363"
+      },
+      {
+        "title": "Successful staged endoscopic treatment of multiple gastrointestinal varices caused by oxaliplatin-induced sinusoidal obstruction syndrome.",
+        "journal": "Clinical journal of gastroenterology",
+        "pubDate": "2026 Jul 26",
         "studyType": "Journal Article",
-        "authors": "Gohar A, Abid I, Fatima SE",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：对于持续胆汁淤积性肝酶的 CREST 患者，应怀疑雷诺综合征，因为延迟诊断会导致门脉高压和静脉曲张出血。 临床提示：早期抗线粒体抗体筛查和及时熊去氧胆酸治疗可改善预后，这些患者需要对肺部和甲状腺疾病进行多学科随访。",
-        "abstract": "Reynolds Syndrome should be suspected in CREST patients with persistent cholestatic liver enzymes, since delayed diagnosis allows portal hypertension and variceal bleeding to develop. Early anti-mitochondrial antibody screening and prompt ursodeoxycholic acid therapy improve outcomes, and these patients need multidisciplinary follow-up for lung and thyroid disease.",
-        "pmid": "42499963",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42499963/",
-        "doiUrl": "https://doi.org/10.1002/ccr3.73201",
-        "url": "https://doi.org/10.1002/ccr3.73201"
+        "authors": "Kinsho N, Kato T, Hikichi T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：正弦波阻塞综合征是一种与奥沙利铂化疗相关的众所周知的肝血管损伤，可导致非肝硬化门静脉高压。 临床提示：尽管脾肿大和血小板减少是常见的临床表现，但临床上显着的胃肠静脉曲张可能在奥沙利铂停药后持续存在或新出现。",
+        "abstract": "Sinusoidal obstruction syndrome is a well-known hepatic vascular injury associated with oxaliplatin-based chemotherapy and can lead to non-cirrhotic portal hypertension. Although splenomegaly and thrombocytopenia are common clinical manifestations, clinically significant gastrointestinal varices may persist or newly develop after oxaliplatin cessation. The optimal therapeutic strategy for multiple gastrointestinal varices caused by oxaliplatin-induced sinusoidal obstruction syndrome remains unclear. Here, we report a case of a 71-year-old man who developed non-cirrhotic portal hypertension after oxaliplatin-based adjuvant chemotherapy for rectal cancer. Contrast-enhanced computed tomography ...",
+        "pmid": "42503157",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42503157/",
+        "doiUrl": "https://doi.org/10.1007/s12328-026-02411-3",
+        "url": "https://doi.org/10.1007/s12328-026-02411-3"
       },
       {
-        "title": "Cumulative Metformin Use and Hepatocellular Carcinoma Risk After HCV SVR: A Multicentre Cohort Study.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Calvo-Sánchez H, Jara-Fernández L, Encijo-Heredia R",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 1531）。核心观点：尽管丙型肝炎病毒治疗后的持续病毒学应答（SVR）可降低肝细胞癌（HCC）的发病率，但残留风险仍然存在。 临床提示：二甲双胍与较低的 HCC 风险相关，但累积二甲双胍暴露 (CME) 是否会降低 SVR 后的风险仍不清楚。",
-        "abstract": "Although sustained virological response (SVR) after hepatitis C virus treatment reduces hepatocellular carcinoma (HCC) incidence, residual risk persists. Metformin has been associated with lower HCC risk, but whether cumulative metformin exposure (CME) lowers post-SVR risk remains unclear. We evaluated whether CME was associated with lower HCC risk after SVR. We analysed a multicentre cohort of 1531 patients who achieved SVR after direct-acting antiviral therapy (median follow-up, 75.5 months). Metformin exposure was modelled as a time-updated cumulative variable in start-stop Cox models to control for immortal-time bias. Stabilised inverse probability weighting addressed confounding by indi...",
-        "pmid": "42499017",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42499017/",
-        "doiUrl": "https://doi.org/10.1111/liv.70798",
-        "url": "https://doi.org/10.1111/liv.70798"
-      },
-      {
-        "title": "Refining the role of liver transplantation as a curative treatment for hepatocellular carcinoma.",
-        "journal": "International journal of clinical oncology",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Review",
-        "authors": "Yoh T, Ito T, Ogiso S",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：虽然LR在肝功能保留的患者中被广泛接受，但其疗效受到术后肝代偿失调风险和相对较高的复发率的限制。 临床提示：肝切除（LR）和肝移植（LT）是公认的肝细胞癌（HCC）“治愈”疗法，各自都有优点和局限性。",
-        "abstract": "Liver resection (LR) and liver transplantation (LT) are well-established \"curative\" treatments for hepatocellular carcinoma (HCC), each with advantages and limitations. While LR is widely accepted for patients with preserved liver function, its efficacy is constrained by the risk of postoperative hepatic decompensation and a relatively high recurrence rate. In contrast, LT offers a comprehensive cure by addressing both the tumor itself and underlying liver disease; however, its clinical application is limited by donor shortages, immunosuppression-related complications, and perioperative risks. Recent advancements in perioperative care and immunosuppressive strategies have improved LT outcome...",
-        "pmid": "41085608",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41085608/",
-        "doiUrl": "https://doi.org/10.1007/s10147-025-02898-9",
-        "url": "https://doi.org/10.1007/s10147-025-02898-9"
-      },
-      {
-        "title": "Outcomes of splenic artery embolization in patients with portal hypertension: a single center experience.",
-        "journal": "Scandinavian journal of gastroenterology",
-        "pubDate": "2026 Jul 25",
+        "title": "Sustained normalization of hydrogen-positive small intestinal bacterial overgrowth after polyethylene glycol bowel preparation.",
+        "journal": "Clinical journal of gastroenterology",
+        "pubDate": "2026 Jul 26",
         "studyType": "Journal Article",
-        "authors": "Waern J, Hreinsson JP, Mahdavian A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化（CPH）和非肝硬化门静脉高压（​​NCPH）可导致严重的并发症，包括静脉曲张出血、腹水和脾功能亢进。 临床提示：然而，关于脾动脉栓塞（SAE）对门静脉高压症的长期临床影响的证据仍然有限。",
-        "abstract": "Cirrhotic (CPH) and non-cirrhotic portal hypertension (NCPH) can result in severe complications, including variceal bleeding, ascites, and hypersplenism. However, evidence regarding the long-term clinical impact of splenic artery embolization (SAE) in portal hypertension remains limited. We conducted a retrospective single-center study including consecutive patients who underwent SAE for complications of portal hypertension at Sahlgrenska University Hospital, Gothenburg, Sweden, between January 2016 and December 2024. Clinical, radiological, and laboratory data were collected at baseline and during follow-up. Overall survival, gastrointestinal bleeding, complications, and changes in clinical...",
-        "pmid": "42500908",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42500908/",
-        "doiUrl": "https://doi.org/10.1080/00365521.2026.2707980",
-        "url": "https://doi.org/10.1080/00365521.2026.2707980"
+        "authors": "Yokoyama K, Tominaga K, Kojima Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们报告一例44岁男性，患有代谢功能障碍相关的脂肪性肝炎，并发肝内门静脉血栓和食管胃静脉曲张。 临床提示：小肠细菌过度生长 (SIBO) 是慢性肝病合并门脉高压的常见并发症，尽管经过标准治疗，该病通常持续存在或复发。",
+        "abstract": "Small intestinal bacterial overgrowth (SIBO) is a frequent complication of chronic liver disease with portal hypertension that often persists or recurs despite standard treatments. Polyethylene glycol (PEG)-based bowel preparations are routinely used before colonoscopy; however, their effects on SIBO have not yet been systematically evaluated. We report the case of a 44-year-old man with metabolic dysfunction-associated steatohepatitis, complicated by intrahepatic portal vein thrombosis and esophagogastric varices. Before colonoscopy, hydrogen and methane breath testing revealed hydrogen-positive and methane-negative SIBO, while the gastrointestinal symptoms were mild, with a Gastrointestina...",
+        "pmid": "42503155",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42503155/",
+        "doiUrl": "https://doi.org/10.1007/s12328-026-02412-2",
+        "url": "https://doi.org/10.1007/s12328-026-02412-2"
       },
       {
-        "title": "Endoscopic variceal ligation-induced ulcer bleeding: incidence by indication, real-world treatment, and outcomes.",
-        "journal": "BMC gastroenterology",
+        "title": "Discordant 2D shear wave elastography values in post-Fontan patients with ascites: a potential interpretive pitfall.",
+        "journal": "Journal of ultrasound",
         "pubDate": "2026 Jul 24",
         "studyType": "Journal Article",
-        "authors": "Vasilakis T, Schauer S, Grajecki D",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：内镜下静脉曲张结扎术（EVL）引起的溃疡出血是一种罕见但可能危及生命的并发症。 临床提示：虽然选择性和紧急 EVL 的发生率已有报道，但尚未单独检查住院期间因肝硬化急性失代偿而进行的半选择性手术。",
-        "abstract": "Endoscopic variceal ligation (EVL) - induced ulcer bleeding is a rare but potentially life-threatening complication. While the incidence following elective and emergency EVL has been reported, semi-elective procedures performed during hospitalization for acute decompensation of cirrhosis have not been separately examined. Additionally, real-world data on endoscopic treatment strategies, hemostasis rates and outcomes are scarce. We conducted a retrospective cohort study analyzing all ligation procedures performed in adults with portal hypertension and esophageal varices at Charité University Hospital, Campus Virchow and Campus Mitte, from 01/01/2016 until 06/30/2023. We assessed incidence and...",
-        "pmid": "42498927",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498927/",
-        "doiUrl": "https://doi.org/10.1186/s12876-026-05141-5",
-        "url": "https://doi.org/10.1186/s12876-026-05141-5"
+        "authors": "Abdulla M, Al-Hashimi H, Kalis N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Fontan 相关肝病 (FALD) 可能进展为门静脉高压、腹水和结节性肝重塑。 临床提示：这些案例表明，实质性...",
+        "abstract": "Fontan-associated liver disease (FALD) may progress to portal hypertension, ascites, and nodular liver remodelling. Two-dimensional shear wave elastography (2D-SWE) can be performed in patients with ascites, but its reliability in this setting remains uncertain. We report two post-Fontan patients with ascites and nodular liver morphology on B-mode ultrasound who showed markedly discordant liver stiffness values. The pediatric patient had high stiffness (median 24.25 kPa; IQR/median 3.4%), whereas the adult patient with clinical decompensation, large-volume ascites, and pleural effusion had unexpectedly low stiffness (median 9.55 kPa; IQR/median 23.6%). These cases suggest that substantial as...",
+        "pmid": "42498898",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498898/",
+        "doiUrl": "https://doi.org/10.1007/s40477-026-01204-1",
+        "url": "https://doi.org/10.1007/s40477-026-01204-1"
+      },
+      {
+        "title": "Downregulation of COX-2 expression in liver sinusoidal endothelial cell prevented the formation of liver sinusoidal microthrombi through the AKT/mTOR/TSP-1 axis.",
+        "journal": "Pharmacological research",
+        "pubDate": "2026 Jul 24",
+        "studyType": "Journal Article",
+        "authors": "Qian S, Gan C, Zhao C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝窦微血栓形成（LST）被认为是慢性肝病纤维形成和门静脉高压的起始事件。 临床提示：肝窦内皮细胞 (LSEC) 衍生的化学引诱剂招募中性粒细胞和巨噬细胞，促进充血性肝病 (CH) 中的 LST。",
+        "abstract": "Liver sinusoidal microthrombosis (LST) is recognized as an initiating event in fibrogenesis and portal hypertension in chronic liver diseases. Liver sinusoidal endothelial cell (LSEC)-derived chemoattractants recruit neutrophils and macrophages, promoting LST in congestive hepatopathy (CH). However, the driving molecules from LSECs for LST remain unclear. This study aims to elucidate that LSECs inflammatory via cyclooxygenase-2 (COX-2) upregulation triggers metabolic reprogramming promoting thrombospondin-1 (TSP-1)-mediated LST and portal hypertension. A murine model of LST and portal hypertension was established by partial inferior vena cava ligation (pIVCL). LST and portal hypertension wer...",
+        "pmid": "42498146",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498146/",
+        "doiUrl": "https://doi.org/10.1016/j.phrs.2026.108356",
+        "url": "https://doi.org/10.1016/j.phrs.2026.108356"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "法国和西班牙超过30万人逃离山火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国和西班牙超过30万人逃离山火”。核心要点：西班牙首相警告称，未来“形势复杂”，法国当局表示，他们还远未控制住波尔多附近的大火。",
+        "titleZh": "波尔多附近数万人撤离，消防队员与野火搏斗",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“波尔多附近数万人撤离，消防队员与野火搏斗”。核心要点：目前，法国和西班牙已有超过 33 万人从山火中撤离。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 00:54:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普在白宫记者晚宴上猛烈抨击媒体",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普在白宫记者晚宴上猛烈抨击媒体”。核心要点：第一次晚宴因四月份的枪击事件而取消后，这次活动庆祝了新闻自由。",
+        "titleZh": "内塔尼亚胡指责纽约市市长马姆达尼在逮捕威胁后“煽动仇恨”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡指责纽约市市长马姆达尼在逮捕威胁后“煽动仇恨””。核心要点：马姆达尼上周收回了他的威胁，承认他没有法律权力根据国际刑事法院发出的逮捕令逮捕内塔尼亚胡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 27 Jul 2026 00:27:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "印度教育部长辞职后取消“蟑螂”抗议活动",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“印度教育部长辞职后取消“蟑螂”抗议活动”。核心要点：CJP 的抗议是近年来公众对纳伦德拉·莫迪总理政府愤怒最明显的表达。",
+        "titleZh": "柏林骄傲袭击嫌疑人在警方行动中被枪杀",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“柏林骄傲袭击嫌疑人在警方行动中被枪杀”。核心要点：警方称，阿卜杜勒·巴鲁特在柏林西部一个行政区持刀冲向警察后被枪杀。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Jul 2026 19:21:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伊朗支持的胡塞武装声称对沙特阿拉伯发动导弹袭击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗支持的胡塞武装声称对沙特阿拉伯发动导弹袭击”。核心要点：美国军方表示，一艘试图逃避美国对伊朗港口封锁的油轮被击落。",
+        "titleZh": "迄今为止我们对柏林骄傲撞车事件的了解",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“迄今为止我们对柏林骄傲撞车事件的了解”。核心要点：德国总理弗里德里希·梅尔茨谴责这起袭击事件是“令人发指的”，一名嫌疑人驾驶汽车冲向蒂尔加滕公园附近的人群。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯袭击基辅附近的无人机展览，造成十人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯袭击基辅附近的无人机展览，造成十人死亡”。核心要点：乌克兰国防工业的知名人士参加了这次活动，但在中午遭到弹道导弹袭击。",
+        "titleZh": "巴勒斯坦人称，以色列定居者放火烧毁约旦河西岸的清真寺、汽车和农田",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴勒斯坦人称，以色列定居者放火烧毁约旦河西岸的清真寺、汽车和农田”。核心要点：两天前，定居者与巴勒斯坦人在塔尔村附近发生冲突，造成四名巴勒斯坦人和两名以色列人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 26 Jul 2026 21:23:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "由于特朗普关税影响销售，Shein 亏损 9900 万美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于特朗普关税影响销售，Shein 亏损 9900 万美元”。核心要点：这一消息发布之际，这家快时尚巨头正准备在香港上市。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 27 Jul 2026 02:08:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "盖特威克机场大停水后供水恢复",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“盖特威克机场大停水后供水恢复”。核心要点：盖特威克机场面临一天的混乱，厕所和餐厅对乘客关闭。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 26 Jul 2026 21:15:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "芯片制造商长鑫存储成为中国大陆最具价值上市公司",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“芯片制造商长鑫存储成为中国大陆最具价值上市公司”。核心要点：随着人工智能热潮带动芯片需求，该公司股价在上市首日飙升470%。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 27 Jul 2026 04:25:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "如果你选择 100 万英镑，你会选择 5 万英镑吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“如果你选择 100 万英镑，你会选择 5 万英镑吗？”。核心要点：绝大多数人——尤其是女性——在接受一项调查时表示，他们更愿意相信确定性而不是偶然性。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 26 Jul 2026 23:11:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "法律修改后，宠物友好型房产的出租搜索量下降",
         "summaryZh": "这是一条金融市场新闻，重点围绕“法律修改后，宠物友好型房产的出租搜索量下降”。核心要点：中介表示，一些租客错误地认为养宠物是有保证的。",
@@ -121,38 +153,6 @@
         "sourceLang": "English",
         "publishedAt": "Sun, 26 Jul 2026 00:00:49 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "ADHD 改变了工作场所。这对老板和工人来说意味着什么",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“ADHD 改变了工作场所。这对老板和工人来说意味着什么”。核心要点：随着多动症诊断的增加，工作场所是否满足了劳动力的需求？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 23:23:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "姗姗来迟、改变生活还是无聊？您对婚礼规则变化的看法",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“姗姗来迟、改变生活还是无聊？您对婚礼规则变化的看法”。核心要点：政府希望放宽婚礼法，以便情侣几乎可以在任何地方结婚。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 23:31:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普发誓要调查欧盟对美国科技公司的罚款",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普发誓要调查欧盟对美国科技公司的罚款”。核心要点：美国总统表示，针对谷歌、苹果、Meta 和亚马逊的罚款应该“完全撤销”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "费萨尔·伊斯兰：英国的特朗普贸易协议看起来不再是世界一流的",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：英国的特朗普贸易协议看起来不再是世界一流的”。核心要点：尽管美国对英国征收的关税实际上没有变化，但其他国家现在有了更好的协议。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 24 Jul 2026 14:02:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
