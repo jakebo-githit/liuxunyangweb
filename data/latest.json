@@ -1,158 +1,92 @@
 {
-  "updatedAt": "2026-07-27T04:50:49.953Z",
+  "updatedAt": "2026-07-28T04:26:22.298Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Quantitative MRI to Assess Portal Pressure in Patients With Liver Disease: Validation at 3 T.",
-        "journal": "NMR in biomedicine",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article / Validation Study",
-        "authors": "Bradley CR, Scott R, Cox EF",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 40）。核心观点：数据来自 40 名参与者（15 名代谢功能障碍相关脂肪肝病 [MASLD]/13 名酒精相关性肝病 [ArLD]/12 名其他，55 ± 14 岁）在 1.5 T 下扫描（回顾性）和 42 名参与者（21 名 MASLD/14 ArLD/7 名其他，60 ± 12 岁）扫描数据 临床提示：数据来自 40 名参与者（15 名代谢功能障碍相关脂肪性肝病 [MASLD]/13 名酒精相关性肝病 [ArLD]/12 名其他，55 ± 14 岁），以 1.5 T（回顾性）扫描，42 名参与者（21 MAS）",
-        "abstract": "Hepatic venous pressure gradient (HVPG) is the gold standard for assessing portal hypertension (PH). We previously demonstrated that a bivariate MRI model combining liver T 1 and splenic artery velocity at 1.5 T correlates with HVPG. This study aimed to evaluate this model at 3 T and investigate additional splanchnic MRI measures as potential non-invasive markers of portal pressure. Data from 40 participants (15 metabolic dysfunction-associated steatotic liver disease [MASLD]/13 alcohol-related liver disease [ArLD]/12 other, 55 ± 14 years) scanned at 1.5 T (retrospective) and 42 participants (21 MASLD/14 ArLD/7 other, 60 ± 12 years) scanned prospectively at 3 T who underwent clinical HVPG me...",
-        "pmid": "42503440",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42503440/",
-        "doiUrl": "https://doi.org/10.1002/nbm.70363",
-        "url": "https://doi.org/10.1002/nbm.70363"
-      },
-      {
-        "title": "Successful staged endoscopic treatment of multiple gastrointestinal varices caused by oxaliplatin-induced sinusoidal obstruction syndrome.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Jul 26",
-        "studyType": "Journal Article",
-        "authors": "Kinsho N, Kato T, Hikichi T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：正弦波阻塞综合征是一种与奥沙利铂化疗相关的众所周知的肝血管损伤，可导致非肝硬化门静脉高压。 临床提示：尽管脾肿大和血小板减少是常见的临床表现，但临床上显着的胃肠静脉曲张可能在奥沙利铂停药后持续存在或新出现。",
-        "abstract": "Sinusoidal obstruction syndrome is a well-known hepatic vascular injury associated with oxaliplatin-based chemotherapy and can lead to non-cirrhotic portal hypertension. Although splenomegaly and thrombocytopenia are common clinical manifestations, clinically significant gastrointestinal varices may persist or newly develop after oxaliplatin cessation. The optimal therapeutic strategy for multiple gastrointestinal varices caused by oxaliplatin-induced sinusoidal obstruction syndrome remains unclear. Here, we report a case of a 71-year-old man who developed non-cirrhotic portal hypertension after oxaliplatin-based adjuvant chemotherapy for rectal cancer. Contrast-enhanced computed tomography ...",
-        "pmid": "42503157",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42503157/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02411-3",
-        "url": "https://doi.org/10.1007/s12328-026-02411-3"
-      },
-      {
-        "title": "Sustained normalization of hydrogen-positive small intestinal bacterial overgrowth after polyethylene glycol bowel preparation.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Jul 26",
-        "studyType": "Journal Article",
-        "authors": "Yokoyama K, Tominaga K, Kojima Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们报告一例44岁男性，患有代谢功能障碍相关的脂肪性肝炎，并发肝内门静脉血栓和食管胃静脉曲张。 临床提示：小肠细菌过度生长 (SIBO) 是慢性肝病合并门脉高压的常见并发症，尽管经过标准治疗，该病通常持续存在或复发。",
-        "abstract": "Small intestinal bacterial overgrowth (SIBO) is a frequent complication of chronic liver disease with portal hypertension that often persists or recurs despite standard treatments. Polyethylene glycol (PEG)-based bowel preparations are routinely used before colonoscopy; however, their effects on SIBO have not yet been systematically evaluated. We report the case of a 44-year-old man with metabolic dysfunction-associated steatohepatitis, complicated by intrahepatic portal vein thrombosis and esophagogastric varices. Before colonoscopy, hydrogen and methane breath testing revealed hydrogen-positive and methane-negative SIBO, while the gastrointestinal symptoms were mild, with a Gastrointestina...",
-        "pmid": "42503155",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42503155/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02412-2",
-        "url": "https://doi.org/10.1007/s12328-026-02412-2"
-      },
-      {
-        "title": "Discordant 2D shear wave elastography values in post-Fontan patients with ascites: a potential interpretive pitfall.",
-        "journal": "Journal of ultrasound",
-        "pubDate": "2026 Jul 24",
-        "studyType": "Journal Article",
-        "authors": "Abdulla M, Al-Hashimi H, Kalis N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：Fontan 相关肝病 (FALD) 可能进展为门静脉高压、腹水和结节性肝重塑。 临床提示：这些案例表明，实质性...",
-        "abstract": "Fontan-associated liver disease (FALD) may progress to portal hypertension, ascites, and nodular liver remodelling. Two-dimensional shear wave elastography (2D-SWE) can be performed in patients with ascites, but its reliability in this setting remains uncertain. We report two post-Fontan patients with ascites and nodular liver morphology on B-mode ultrasound who showed markedly discordant liver stiffness values. The pediatric patient had high stiffness (median 24.25 kPa; IQR/median 3.4%), whereas the adult patient with clinical decompensation, large-volume ascites, and pleural effusion had unexpectedly low stiffness (median 9.55 kPa; IQR/median 23.6%). These cases suggest that substantial as...",
-        "pmid": "42498898",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498898/",
-        "doiUrl": "https://doi.org/10.1007/s40477-026-01204-1",
-        "url": "https://doi.org/10.1007/s40477-026-01204-1"
-      },
-      {
-        "title": "Downregulation of COX-2 expression in liver sinusoidal endothelial cell prevented the formation of liver sinusoidal microthrombi through the AKT/mTOR/TSP-1 axis.",
-        "journal": "Pharmacological research",
-        "pubDate": "2026 Jul 24",
-        "studyType": "Journal Article",
-        "authors": "Qian S, Gan C, Zhao C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝窦微血栓形成（LST）被认为是慢性肝病纤维形成和门静脉高压的起始事件。 临床提示：肝窦内皮细胞 (LSEC) 衍生的化学引诱剂招募中性粒细胞和巨噬细胞，促进充血性肝病 (CH) 中的 LST。",
-        "abstract": "Liver sinusoidal microthrombosis (LST) is recognized as an initiating event in fibrogenesis and portal hypertension in chronic liver diseases. Liver sinusoidal endothelial cell (LSEC)-derived chemoattractants recruit neutrophils and macrophages, promoting LST in congestive hepatopathy (CH). However, the driving molecules from LSECs for LST remain unclear. This study aims to elucidate that LSECs inflammatory via cyclooxygenase-2 (COX-2) upregulation triggers metabolic reprogramming promoting thrombospondin-1 (TSP-1)-mediated LST and portal hypertension. A murine model of LST and portal hypertension was established by partial inferior vena cava ligation (pIVCL). LST and portal hypertension wer...",
-        "pmid": "42498146",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42498146/",
-        "doiUrl": "https://doi.org/10.1016/j.phrs.2026.108356",
-        "url": "https://doi.org/10.1016/j.phrs.2026.108356"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "波尔多附近数万人撤离，消防队员与野火搏斗",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“波尔多附近数万人撤离，消防队员与野火搏斗”。核心要点：目前，法国和西班牙已有超过 33 万人从山火中撤离。",
+        "titleZh": "市长警告说，野火距法国波尔多市九英里",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“市长警告说，野火距法国波尔多市九英里”。核心要点：托马斯·卡泽纳夫表示，他们正在准备是否进一步疏散，附近一个城镇的市长称情况是“灾难性的”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 27 Jul 2026 20:34:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "内塔尼亚胡指责纽约市市长马姆达尼在逮捕威胁后“煽动仇恨”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡指责纽约市市长马姆达尼在逮捕威胁后“煽动仇恨””。核心要点：马姆达尼上周收回了他的威胁，承认他没有法律权力根据国际刑事法院发出的逮捕令逮捕内塔尼亚胡。",
+        "titleZh": "特朗普称伊朗战争谈判是在罢工间歇期进行的",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗战争谈判是在罢工间歇期进行的”。核心要点：美国总统表示“很有可能发生一些事情”，因为伊朗否认正在进行直接谈判。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 00:27:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 27 Jul 2026 21:10:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "柏林骄傲袭击嫌疑人在警方行动中被枪杀",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“柏林骄傲袭击嫌疑人在警方行动中被枪杀”。核心要点：警方称，阿卜杜勒·巴鲁特在柏林西部一个行政区持刀冲向警察后被枪杀。",
+        "titleZh": "强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼”。核心要点：拟议的和解协议旨在结束长达数年的关于其滑石粉产品致癌的法律纠纷。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 19:21:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 01:53:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "迄今为止我们对柏林骄傲撞车事件的了解",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“迄今为止我们对柏林骄傲撞车事件的了解”。核心要点：德国总理弗里德里希·梅尔茨谴责这起袭击事件是“令人发指的”，一名嫌疑人驾驶汽车冲向蒂尔加滕公园附近的人群。",
+        "titleZh": "美国歌手 D4vd 因谋杀 14 岁青少年而受审",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国歌手 D4vd 因谋杀 14 岁青少年而受审”。核心要点：这位明星被指控杀害了塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez)，他的遗体在登记在他地址的一辆特斯拉汽车中被发现。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 01:39:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴勒斯坦人称，以色列定居者放火烧毁约旦河西岸的清真寺、汽车和农田",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴勒斯坦人称，以色列定居者放火烧毁约旦河西岸的清真寺、汽车和农田”。核心要点：两天前，定居者与巴勒斯坦人在塔尔村附近发生冲突，造成四名巴勒斯坦人和两名以色列人死亡。",
+        "titleZh": "自然灾害来袭，中国面临的新挑战——假人工智能视频",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“自然灾害来袭，中国面临的新挑战——假人工智能视频”。核心要点：过去几个月的风暴和洪水事件导致虚假视频充斥社交媒体。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 21:23:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 27 Jul 2026 22:07:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "由于特朗普关税影响销售，Shein 亏损 9900 万美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于特朗普关税影响销售，Shein 亏损 9900 万美元”。核心要点：这一消息发布之际，这家快时尚巨头正准备在香港上市。",
+        "titleZh": "伯纳姆表示英格兰学生需要更清晰的就业途径",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆表示英格兰学生需要更清晰的就业途径”。核心要点：政府希望学生学习人工智能和制造等与当地工作相关的科目。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 02:08:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 02:56:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "盖特威克机场大停水后供水恢复",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“盖特威克机场大停水后供水恢复”。核心要点：盖特威克机场面临一天的混乱，厕所和餐厅对乘客关闭。",
+        "titleZh": "强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼”。核心要点：拟议的和解协议旨在结束长达数年的关于其滑石粉产品致癌的法律纠纷。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 21:15:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 01:53:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "芯片制造商长鑫存储成为中国大陆最具价值上市公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“芯片制造商长鑫存储成为中国大陆最具价值上市公司”。核心要点：随着人工智能热潮带动芯片需求，该公司股价在上市首日飙升470%。",
+        "titleZh": "由于人工智能的不安让投资者不安，美国和亚洲的芯片公司纷纷下跌",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于人工智能的不安让投资者不安，美国和亚洲的芯片公司纷纷下跌”。核心要点：韩国综合股价指数 (Kospi) 交易在周二上午下跌 8% 后暂时暂停。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 04:25:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 03:49:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如果你选择 100 万英镑，你会选择 5 万英镑吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“如果你选择 100 万英镑，你会选择 5 万英镑吗？”。核心要点：绝大多数人——尤其是女性——在接受一项调查时表示，他们更愿意相信确定性而不是偶然性。",
+        "titleZh": "一些人与 Claude AI 的聊天记录在网上被发现",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“一些人与 Claude AI 的聊天记录在网上被发现”。核心要点：与 Anthropic 聊天机器人的数百个对话被发现可以公开访问。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 23:11:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 27 Jul 2026 22:14:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "法律修改后，宠物友好型房产的出租搜索量下降",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法律修改后，宠物友好型房产的出租搜索量下降”。核心要点：中介表示，一些租客错误地认为养宠物是有保证的。",
+        "titleZh": "Cracker Barrel 首席执行官在品牌重塑混乱一年后辞职",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Cracker Barrel 首席执行官在品牌重塑混乱一年后辞职”。核心要点：由于客户对现代标志重新设计的强烈反对，Cracker Barrel 首席执行官朱莉·马西诺 (Julie Masino) 将辞职。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 26 Jul 2026 00:00:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 27 Jul 2026 18:49:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
