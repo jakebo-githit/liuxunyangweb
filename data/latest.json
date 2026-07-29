@@ -1,92 +1,145 @@
 {
-  "updatedAt": "2026-07-28T04:26:22.298Z",
+  "updatedAt": "2026-07-29T04:30:07.263Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Extrahepatic Portal Venous Obstruction: Revisiting an Old Entity With NewPerspectives.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Sep-Oct",
+        "studyType": "Journal Article",
+        "authors": "Singh S, Yadav RR, Dhiman RK",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝外门静脉阻塞（EHPVO）仍然是发展中国家非肝硬化门静脉高压的主要原因，尤其是儿童和青少年。 临床提示：其特点是慢性肝外门静脉血栓形成伴海绵状瘤样变，导致反复静脉曲张出血、脾功能亢进和门胆病。",
+        "abstract": "Extrahepatic portal venous obstruction (EHPVO) remains a leading cause of non-cirrhotic portal hypertension in developing countries, especially among children and adolescents. Characterized by chronic extrahepatic portal vein thrombosis with cavernomatous transformation, it leads to recurrent variceal bleeding, hypersplenism, and portal biliopathy. Advances in imaging and interventional techniques have revolutionized management. This review synthesizes recent evidence on epidemiology, etiopathogenesis, diagnostic approaches, and therapeutic strategies, with emphasis on contemporary endovascular recanalization techniques, updated management of portal cavernoma cholangiopathy based on recent s...",
+        "pmid": "42519551",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42519551/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103587",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103587"
+      },
+      {
+        "title": "Advanced MRI methods for children and young adults with autosomal recessive polycystic kidney disease (ARPKD) to support future multi-center clinical trials.",
+        "journal": "Pediatric radiology",
+        "pubDate": "2026 Jul 28",
+        "studyType": "Journal Article / Review",
+        "authors": "MacAskill CJ, Smothers JB, Kretzler ME",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：常染色体隐性多囊肾病 (ARPKD) 是一种罕见的遗传性纤毛病，发病率和死亡率显着相关。 临床提示：ARPKD 肾脏疾病的特征是弥漫性肾梭形集合管扩张（微囊），导致进行性肾功能障碍。",
+        "abstract": "Autosomal recessive polycystic kidney disease (ARPKD) is a rare, genetic ciliopathy with significant associated morbidity and mortality. ARPKD kidney disease is characterized by diffuse kidney fusiform collecting duct dilatations (microcysts) leading to progressive kidney dysfunction. Patients with ARPKD can also develop clinically-significant congenital hepatic fibrosis and portal hypertension. Despite advances in clinical management, there are currently no disease-modifying therapies approved for ARPKD, and the development of clinical trials has been limited by the lack of sensitive, non-invasive biomarkers capable of detecting early disease progression in both the kidney and liver. MRI pr...",
+        "pmid": "42517885",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42517885/",
+        "doiUrl": "https://doi.org/10.1007/s00247-026-06737-5",
+        "url": "https://doi.org/10.1007/s00247-026-06737-5"
+      },
+      {
+        "title": "Histomorphometry indicates distinct contributions of myofibroblast activation and sinusoidal capillarization to portal hypertension.",
+        "journal": "Hepatology international",
+        "pubDate": "2026 Jul 27",
+        "studyType": "Journal Article",
+        "authors": "Sorz-Nechay T, Hofer BS, Königshofer P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 102）。核心观点：门脉高压（PH）是肝硬化的严重后果，也是肝功能失代偿的主要驱动因素。 临床提示：我们的目的是研究组织学肌成纤维细胞激活（α-平滑肌肌动蛋白：αSMA）和肝窦毛细血管化（CD34）标记物与慢性肝病（CLD）患者PH严重程度之间的联系。",
+        "abstract": "Portal hypertension (PH) is a severe consequence of cirrhosis and the primary driver of hepatic decompensation. We aimed to investigate the link between histological myofibroblast activation (alpha-smooth-muscle-actin: αSMA) and sinusoidal capillarization (CD34) markers to PH severity in patients with chronic liver disease (CLD). Patients with CLD underwent hepatic venous pressure gradient (HVPG) measurement and liver biopsy. Liver samples were stained by picrosirius-red for collagen proportionate area (CPA) and for αSMA/CD34. Quantitative histomorphometry was performed on full-slide scans. 102 patients (63.7% male, median age 56.4 years, mainly steatotic liver disease: 58.8%) were included....",
+        "pmid": "42509396",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42509396/",
+        "doiUrl": "https://doi.org/10.1007/s12072-026-11133-0",
+        "url": "https://doi.org/10.1007/s12072-026-11133-0"
+      },
+      {
+        "title": "Long-term follow-up, complications and outcomes of Meso-Rex bypass for extrahepatic portal vein obstruction (EHPVO): a systematic review.",
+        "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+        "pubDate": "2026 Jul 27",
+        "studyType": "Journal Article / Review",
+        "authors": "Riva P, Pio L, Zarfati A",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝外门静脉阻塞 (EHPVO) 是儿童肝前性门静脉高压的主要原因，可导致胃肠道 (GI) 出血、脾肿大和血小板减少。 临床提示：Meso-Rex 旁路术 (MRB) 可恢复肝血流，但长期结果的报道仍不一致。",
+        "abstract": "Extrahepatic Portal Vein Obstruction (EHPVO) is the leading cause of prehepatic portal hypertension in children, causing gastrointestinal (GI) bleeding, splenomegaly, and thrombocytopenia. Meso-Rex Bypass (MRB) restores hepatopetal flow, but long-term outcomes remain inconsistently reported. We conducted the first systematic review of long-term outcomes after MRB in pediatric EHPVO. Following PRISMA guidelines, six databases were systematically searched. Prospective and retrospective studies on pediatric EHPVO patients (0-18 years) undergoing MRB were included. Technical aspects, complications, and functional outcomes were analyzed. Forty studies (1998-2024), encompassing 1403 MRB operations...",
+        "pmid": "42509118",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42509118/",
+        "doiUrl": "https://doi.org/10.1016/j.dld.2026.07.006",
+        "url": "https://doi.org/10.1016/j.dld.2026.07.006"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "市长警告说，野火距法国波尔多市九英里",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“市长警告说，野火距法国波尔多市九英里”。核心要点：托马斯·卡泽纳夫表示，他们正在准备是否进一步疏散，附近一个城镇的市长称情况是“灾难性的”。",
+        "titleZh": "观看：日本地震的那一刻",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“观看：日本地震的那一刻”。核心要点：视频显示 7 月 28 日日本九州岛发生强烈地震的地区各地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 20:34:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 15:32:37 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普称伊朗战争谈判是在罢工间歇期进行的",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普称伊朗战争谈判是在罢工间歇期进行的”。核心要点：美国总统表示“很有可能发生一些事情”，因为伊朗否认正在进行直接谈判。",
+        "titleZh": "伊朗和美国的贸易打击打破了短暂的战斗平静",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗和美国的贸易打击打破了短暂的战斗平静”。核心要点：美国中央司令部表示，它拦截了伊朗发射的“多枚”弹道导弹。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 21:10:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Jul 2026 02:47:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼”。核心要点：拟议的和解协议旨在结束长达数年的关于其滑石粉产品致癌的法律纠纷。",
+        "titleZh": "墨西哥贩毒集团如何将冰毒实验室外包给尼日利亚",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“墨西哥贩毒集团如何将冰毒实验室外包给尼日利亚”。核心要点：西非对那些想要制造和出口非法药物的人越来越有吸引力。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Jul 2026 01:53:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 23:25:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国歌手 D4vd 因谋杀 14 岁青少年而受审",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国歌手 D4vd 因谋杀 14 岁青少年而受审”。核心要点：这位明星被指控杀害了塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez)，他的遗体在登记在他地址的一辆特斯拉汽车中被发现。",
+        "titleZh": "特朗普政府禁止新型中国人形机器人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普政府禁止新型中国人形机器人”。核心要点：美国和中国正在争夺机器人和人工智能领域的世界领先地位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Jul 2026 01:39:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Jul 2026 02:30:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "自然灾害来袭，中国面临的新挑战——假人工智能视频",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“自然灾害来袭，中国面临的新挑战——假人工智能视频”。核心要点：过去几个月的风暴和洪水事件导致虚假视频充斥社交媒体。",
+        "titleZh": "法国西南部野火爆发，该地区正准备迎接新的40摄氏度热浪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国西南部野火爆发，该地区正准备迎接新的40摄氏度热浪”。核心要点：周三，消防队员准备应对气温急剧上升的情况，这可能会使吉伦特省野火的控制变得更加复杂。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 22:07:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 16:14:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "伯纳姆表示英格兰学生需要更清晰的就业途径",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆表示英格兰学生需要更清晰的就业途径”。核心要点：政府希望学生学习人工智能和制造等与当地工作相关的科目。",
+        "titleZh": "智库警告伯纳姆没有增加借贷的余地",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“智库警告伯纳姆没有增加借贷的余地”。核心要点：总理自上任以来宣布了一系列生活成本措施，但面临着如何为其提供资金的问题。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Jul 2026 02:56:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 23:00:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼”。核心要点：拟议的和解协议旨在结束长达数年的关于其滑石粉产品致癌的法律纠纷。",
+        "titleZh": "敦促英国人今年夏天避免使用危险的插头适配器——要注意什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“敦促英国人今年夏天避免使用危险的插头适配器——要注意什么”。核心要点：活动组织“电气安全第一”敦促那些“今年夏天出国的人在购买之前要三思”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Jul 2026 01:53:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 23:00:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于人工智能的不安让投资者不安，美国和亚洲的芯片公司纷纷下跌",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于人工智能的不安让投资者不安，美国和亚洲的芯片公司纷纷下跌”。核心要点：韩国综合股价指数 (Kospi) 交易在周二上午下跌 8% 后暂时暂停。",
+        "titleZh": "草率、笨拙但势不可挡 - 流氓 ChatGPT 黑客内部",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“草率、笨拙但势不可挡 - 流氓 ChatGPT 黑客内部”。核心要点：一家科技公司遭到 ChatGPT 黑客攻击后，数百名网络安全专家进行了紧急通话，相关细节已被公布。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 28 Jul 2026 03:49:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 23:00:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "一些人与 Claude AI 的聊天记录在网上被发现",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“一些人与 Claude AI 的聊天记录在网上被发现”。核心要点：与 Anthropic 聊天机器人的数百个对话被发现可以公开访问。",
+        "titleZh": "特朗普政府禁止新型中国人形机器人",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普政府禁止新型中国人形机器人”。核心要点：美国和中国正在争夺机器人和人工智能领域的世界领先地位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 22:14:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 29 Jul 2026 02:30:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Cracker Barrel 首席执行官在品牌重塑混乱一年后辞职",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Cracker Barrel 首席执行官在品牌重塑混乱一年后辞职”。核心要点：由于客户对现代标志重新设计的强烈反对，Cracker Barrel 首席执行官朱莉·马西诺 (Julie Masino) 将辞职。",
+        "titleZh": "eBay 就骚扰案件与博主达成 5600 万美元和解协议",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“eBay 就骚扰案件与博主达成 5600 万美元和解协议”。核心要点：eBay 前高管因一份批评新闻通讯而遭受“史无前例”的骚扰。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 27 Jul 2026 18:49:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 28 Jul 2026 21:49:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
