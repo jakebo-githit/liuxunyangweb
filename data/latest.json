@@ -1,132 +1,106 @@
 {
-  "updatedAt": "2026-07-30T04:18:47.579Z",
+  "updatedAt": "2026-07-31T04:37:56.243Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Iliac venous conduit interposition for temporary portocaval shunt during liver transplantation.",
-        "journal": "Updates in surgery",
+        "title": "Incidental intrahepatic cholangiocarcinoma detected in the explant liver after living-donor liver transplantation for polycystic liver disease.",
+        "journal": "Clinical journal of gastroenterology",
         "pubDate": "2026 Aug",
-        "studyType": "Journal Article",
-        "authors": "Addeo P, De Mathelin P, Paul C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：与 PCS 形成困难相关的其他情况包括门静脉连接时的肝脏晚期再移植... 临床提示：全肝切除术仍然是肝移植（LT）过程中技术上最困难的步骤。",
-        "abstract": "Total hepatectomy remains the most technically difficult step during liver transplantation (LT). The presence of portal hypertension, coagulopathy and the liver morphology make difficult the dissection of the native liver especially when native inferior vena cava preservation is planned. Fashioning of a temporary portocaval shunt (PCS) reduce portal hypertension, perioperative bleeding and improve hemodynamics during LT. Temporary PCS is not always easy to be performed. In obese patients and when the segment I is largely hypertrophic the access to the recipient IVC is quite narrow. Other conditions associated with difficult PCS fashioning are liver late retransplantation when portal vein cou...",
-        "pmid": "40788567",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40788567/",
-        "doiUrl": "https://doi.org/10.1007/s13304-025-02345-4",
-        "url": "https://doi.org/10.1007/s13304-025-02345-4"
-      },
-      {
-        "title": "A composite Doppler ultrasound score for early identification of TIPS dysfunction in cirrhosis.",
-        "journal": "Journal of ultrasound",
-        "pubDate": "2026 Jul 29",
-        "studyType": "Journal Article",
-        "authors": "Zanconato M, Senzolo M, Zanetto A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（TIPS）是门脉高压并发症的一种既定治疗方法，但疗效可能因分流功能障碍而受到限制。 临床提示：本研究评估了早期术后多普勒超声检测肝硬化患者 TIPS 功能障碍的效用。",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) is an established treatment for portal hypertension complications, but efficacy may be limited by shunt dysfunction. This study evaluated the utility of early post-procedural Doppler ultrasound for detecting TIPS dysfunction in patients with cirrhosis. This prospective single-centre observational study included patients with cirrhosis undergoing TIPS placement at Padova University Hospital between December 2023 and September 2025 and had Doppler ultrasound examination in 8-30 days after procedure. Doppler assessment included intra-shunt flow and flow direction in intrahepatic portal branches. Early TIPS dysfunction was angiographically def...",
-        "pmid": "42525340",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42525340/",
-        "doiUrl": "https://doi.org/10.1007/s40477-026-01186-0",
-        "url": "https://doi.org/10.1007/s40477-026-01186-0"
-      },
-      {
-        "title": "Determinants of Early Renal Function Recovery After TIPS in Patients With Portal Hypertension.",
-        "journal": "The Kaohsiung journal of medical sciences",
-        "pubDate": "2026 Jul 29",
-        "studyType": "Journal Article",
-        "authors": "Jia M, Luo Y, Tan ZY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：经颈静脉肝内门体分流术（TIPS）有可能通过门脉减压增强肾脏灌注；然而，预测肾功能早期改善的因素仍不明确。 临床提示：门脉高压患者经常出现肾功能障碍，并与不良的临床结果相关。",
-        "abstract": "Renal dysfunction frequently occurs in patients with portal hypertension and is linked to unfavorable clinical outcomes. Transjugular intrahepatic portosystemic shunt (TIPS) has the potential to enhance renal perfusion through portal decompression; however, factors predicting early improvement in renal function remain insufficiently defined. This retrospective, single-center study analyzed 188 consecutive patients with portal hypertension who underwent TIPS. Patients receiving renal replacement therapy or with baseline eGFR < 15 mL/min/1.73 m 2 were excluded. The primary endpoint was early renal function improvement, defined as a > 10% reduction in serum creatinine within 7 days. Early renal...",
-        "pmid": "42522849",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42522849/",
-        "doiUrl": "https://doi.org/10.1002/kjm2.70268",
-        "url": "https://doi.org/10.1002/kjm2.70268"
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Asanuma S, Haruki K, Furukawa K",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：活体肝移植（LDLT）被考虑用于治疗伴有门脉高压或生活质量恶化的多囊肝病（PLD）。 临床提示：然而，PLD 中伴随恶性肿瘤的情况极为罕见。",
+        "abstract": "Living-donor liver transplantation (LDLT) is considered for polycystic liver disease (PLD) with portal hypertension or quality of life deterioration. However, concomitant malignant tumors are extremely rare in PLD. The recipient was a 68-year-old female who had been followed for PLD. She developed progressive jaundice with ascites and lower leg edema. Computed tomography revealed portal hypertension with intrahepatic portal vein stenosis and splenorenal shunt. The liver was replaced by numerous cysts, but no obvious tumorous lesions were identified. Tumor markers were CEA of 7.9 ng/ml and CA19-9 of 420 U/ml. With a MELD score of 12 and Child-Pugh grade C, LDLT was planned. The living liver d...",
+        "pmid": "42043748",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42043748/",
+        "doiUrl": "https://doi.org/10.1007/s12328-026-02343-y",
+        "url": "https://doi.org/10.1007/s12328-026-02343-y"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "美军企图袭击伊朗后，美国对伊朗发动“猛烈”打击",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美军企图袭击伊朗后，美国对伊朗发动“猛烈”打击”。核心要点：美国军方表示，此次袭击是为了回应伊朗周二向驻中东美军发射导弹的事件。",
+        "titleZh": "哈马斯表示已同意在特朗普宣布和平委员会计划后解除武装",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“哈马斯表示已同意在特朗普宣布和平委员会计划后解除武装”。核心要点：一名哈马斯高级官员告诉英国广播公司，他们已同意和平委员会的计划。以色列尚未发表评论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 03:33:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 03:24:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "沙特阿拉伯试图远离美伊战争的困境",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“沙特阿拉伯试图远离美伊战争的困境”。核心要点：沙特面临着一个选择：是继续反击以起到威慑作用，还是试图缓和局势。",
+        "titleZh": "西班牙派遣军队，数千人从摩洛哥进入休达飞地",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙派遣军队，数千人从摩洛哥进入休达飞地”。核心要点：边境一片混乱，移民试图游向西班牙领土，导致至少 15 人溺水身亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 02:41:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "野火威胁南欧部分地区，三名希腊消防员死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“野火威胁南欧部分地区，三名希腊消防员死亡”。核心要点：克里特岛的强风引发了大火，促使几个村庄撤离，而非洲大陆部分地区仍在继续扑灭火灾。",
+        "titleZh": "Nirmal Purja 等 10 名登山者在雪崩后可能失踪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“Nirmal Purja 等 10 名登山者在雪崩后可能失踪”。核心要点：据称，在巴基斯坦失踪的这群人中，有一名美国人、一名中国人、一名阿曼人和五名尼泊尔人。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 01:53:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 00:52:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“这是我们的家，这是我们的森林”：BBC 与当地人抗击法国野火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““这是我们的家，这是我们的森林”：BBC 与当地人抗击法国野火”。核心要点：消防队员正在吉伦特省的 40 摄氏度高温中与突发的火灾作斗争，因为一些当地人拒绝注意疏散。",
+        "titleZh": "如果国际足联计划获得批准，欧足联将抵制世界杯",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“如果国际足联计划获得批准，欧足联将抵制世界杯”。核心要点：欧足联表示，如果国际足联及其主席詹尼·因凡蒂诺不放弃其投资提议，其 55 个成员协会投票抵制未来的赛事，欧足联表示“世界杯是非卖品”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 16:49:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Jul 2026 16:47:40 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "赞达亚谈与汤姆·霍兰德在《蜘蛛侠》中的合作：“当你们是最好的朋友时，这很容易”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“赞达亚谈与汤姆·霍兰德在《蜘蛛侠》中的合作：“当你们是最好的朋友时，这很容易””。核心要点：这对夫妇在他们最新电影《蜘蛛侠：崭新的一天》的伦敦首映式上走在白色地毯上。",
+        "titleZh": "Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织”。核心要点：就在几天前，竞争对手 OpenAI 表示，流氓人工智能代理已经侵入了其他公司的网络。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 20:21:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 04:31:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "预计英国央行将再次维持利率不变",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“预计英国央行将再次维持利率不变”。核心要点：这将是连续第五次维持利率不变，央行利率为 3.75%，为 2023 年 2 月以来的最低水平。",
+        "titleZh": "泰晤士水务公司老板表示泄漏目标“不现实”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“泰晤士水务公司老板表示泄漏目标“不现实””。核心要点：克里斯·韦斯顿表示，泰晤士河希望“做得更好”，但其中一些目标无法实现。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 23:01:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Jul 2026 23:06:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "这里发生的事情对你的钱有很大影响",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“这里发生的事情对你的钱有很大影响”。核心要点：BBC 商业记者 Dearbail Jordan 解释了英格兰银行内部的运作方式。",
+        "titleZh": "Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织”。核心要点：就在几天前，竞争对手 OpenAI 表示，流氓人工智能代理已经侵入了其他公司的网络。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 16:00:24 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 04:31:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伯纳姆表示核潜艇投资将保护英国并增加就业",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆表示核潜艇投资将保护英国并增加就业”。核心要点：在访问巴罗因弗内斯之前，总理试图强调国防支出的经济效益。",
+        "titleZh": "“我每月支付 580 英镑住在废弃的护理院”：财产监护人带我们参观",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我每月支付 580 英镑住在废弃的护理院”：财产监护人带我们参观”。核心要点：你能住在一栋废弃的建筑里，以换取大幅折扣的租金吗？财产监护人带我们四处参观。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 02:36:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Jul 2026 23:05:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我从大学退学，创办了五家美容企业。我是这样做的",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我从大学退学，创办了五家美容企业。我是这样做的”。核心要点：Beauty Pie 创始人 Marcia Kilgore 分享了她关于如何创建成功企业的重要秘诀。",
+        "titleZh": "我们从大型科技公司的财报中了解到有关人工智能的三件事",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我们从大型科技公司的财报中了解到有关人工智能的三件事”。核心要点：数十亿美元正在投入新一波的人工智能技术。但它会得到回报吗？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 23:02:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 01:31:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美联储主席表示，美国利率维持不变，“没有魔杖”可以解决高物价问题",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美联储主席表示，美国利率维持不变，“没有魔杖”可以解决高物价问题”。核心要点：美联储的决定符合市场普遍预期，意味着利率维持在 3.5% 至 3.75% 之间。",
+        "titleZh": "苹果警告 Mac、iPhone、iPad 未来将出现“供应限制”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果警告 Mac、iPhone、iPad 未来将出现“供应限制””。核心要点：由于未来几个月销售放缓的警告，苹果股价暴跌。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 29 Jul 2026 20:32:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 30 Jul 2026 23:25:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
