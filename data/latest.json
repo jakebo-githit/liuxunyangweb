@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-07-31T04:37:56.243Z",
+  "updatedAt": "2026-08-01T04:34:06.186Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": [
+    "htn_kidney": [
       {
-        "title": "Incidental intrahepatic cholangiocarcinoma detected in the explant liver after living-donor liver transplantation for polycystic liver disease.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Asanuma S, Haruki K, Furukawa K",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：活体肝移植（LDLT）被考虑用于治疗伴有门脉高压或生活质量恶化的多囊肝病（PLD）。 临床提示：然而，PLD 中伴随恶性肿瘤的情况极为罕见。",
-        "abstract": "Living-donor liver transplantation (LDLT) is considered for polycystic liver disease (PLD) with portal hypertension or quality of life deterioration. However, concomitant malignant tumors are extremely rare in PLD. The recipient was a 68-year-old female who had been followed for PLD. She developed progressive jaundice with ascites and lower leg edema. Computed tomography revealed portal hypertension with intrahepatic portal vein stenosis and splenorenal shunt. The liver was replaced by numerous cysts, but no obvious tumorous lesions were identified. Tumor markers were CEA of 7.9 ng/ml and CA19-9 of 420 U/ml. With a MELD score of 12 and Child-Pugh grade C, LDLT was planned. The living liver d...",
-        "pmid": "42043748",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42043748/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02343-y",
-        "url": "https://doi.org/10.1007/s12328-026-02343-y"
+        "title": "Albuminuria Not Attributable to Diabetic or Hypertensive Kidney Disease: Adult-Onset Minimal Change Disease Presenting With Nephrotic Syndrome in a Woman With Prediabetes and Hypertension.",
+        "journal": "Cureus",
+        "pubDate": "2026 Jun",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Shawket Al-Shakrchy H, Zwain Z",
+        "zhSummary": "该文聚焦高血压肾病，属于病例研究。核心观点：一名 45 岁女性，患有长期高血压和过早绝经，出现进行性双侧凹陷性腿部水肿。 临床提示：初步评估显示蛋白尿、镜下血尿和脓尿、严重混合性血脂异常和糖尿病前期。",
+        "abstract": "A 45-year-old woman with long-standing hypertension and premature menopause presented with progressive bilateral pitting leg edema. Initial evaluation showed albuminuria, microscopic hematuria and pyuria, severe mixed dyslipidemia, and prediabetes. Despite optimization of blood pressure and cardiometabolic therapy, edema progressed to the thighs, and urinary protein excretion increased. Renal ultrasonography showed increased parenchymal echogenicity, with scarring of the lower half of the left kidney. Subsequent evaluation revealed hypoalbuminemia and nephrotic-range proteinuria of 8.64 g/day. Autoimmune and viral hepatitis screening was negative, and a right renal biopsy confirmed minimal c...",
+        "pmid": "42534885",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42534885/",
+        "doiUrl": "https://doi.org/10.7759/cureus.111816",
+        "url": "https://doi.org/10.7759/cureus.111816"
       }
-    ]
+    ],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "哈马斯表示已同意在特朗普宣布和平委员会计划后解除武装",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哈马斯表示已同意在特朗普宣布和平委员会计划后解除武装”。核心要点：一名哈马斯高级官员告诉英国广播公司，他们已同意和平委员会的计划。以色列尚未发表评论。",
+        "titleZh": "6万名移民从摩洛哥抵达休达后，西班牙总理指责人口贩子",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“6万名移民从摩洛哥抵达休达后，西班牙总理指责人口贩子”。核心要点：西班牙表示，由于意大利暂停了与马德里的自由流动申根协议，大多数人在周五晚上已返回摩洛哥。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 03:24:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 17:03:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙派遣军队，数千人从摩洛哥进入休达飞地",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙派遣军队，数千人从摩洛哥进入休达飞地”。核心要点：边境一片混乱，移民试图游向西班牙领土，导致至少 15 人溺水身亡。",
+        "titleZh": "鲍文：哈马斯解除武装计划面临巨大障碍，但为加沙带来了难得的希望",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：哈马斯解除武装计划面临巨大障碍，但为加沙带来了难得的希望”。核心要点：政治、战争、零信任、数千人的死亡以及加沙的破坏等现实将使任何协议变得非常复杂。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 02:41:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Nirmal Purja 等 10 名登山者在雪崩后可能失踪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“Nirmal Purja 等 10 名登山者在雪崩后可能失踪”。核心要点：据称，在巴基斯坦失踪的这群人中，有一名美国人、一名中国人、一名阿曼人和五名尼泊尔人。",
+        "titleZh": "巴基斯坦雪崩后最新发现的美国登山者尸体",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦雪崩后最新发现的美国登山者尸体”。核心要点：另外两名登山者的尸体已经从山上找到，而其他登山者的尸体仍然下落不明。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 00:52:54 GMT",
+        "publishedAt": "Fri, 31 Jul 2026 20:22:46 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如果国际足联计划获得批准，欧足联将抵制世界杯",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“如果国际足联计划获得批准，欧足联将抵制世界杯”。核心要点：欧足联表示，如果国际足联及其主席詹尼·因凡蒂诺不放弃其投资提议，其 55 个成员协会投票抵制未来的赛事，欧足联表示“世界杯是非卖品”。",
+        "titleZh": "秘鲁前总统因腐败15年徒刑被推翻后出狱",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“秘鲁前总统因腐败15年徒刑被推翻后出狱”。核心要点：奥兰塔·乌马拉 (Ollanta Humala) 于 2025 年与妻子一起被判犯有洗钱罪。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 16:47:40 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 01 Aug 2026 02:21:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织”。核心要点：就在几天前，竞争对手 OpenAI 表示，流氓人工智能代理已经侵入了其他公司的网络。",
+        "titleZh": "随着欧洲大火持续蔓延，数百人通过海上逃离希腊野火",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着欧洲大火持续蔓延，数百人通过海上逃离希腊野火”。核心要点：大约 500 人被困后从 Agios Vasileios 乘船撤离，其中大部分是游客。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 04:31:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 14:26:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "泰晤士水务公司老板表示泄漏目标“不现实”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“泰晤士水务公司老板表示泄漏目标“不现实””。核心要点：克里斯·韦斯顿表示，泰晤士河希望“做得更好”，但其中一些目标无法实现。",
+        "titleZh": "Snapchat 与其他流行平台一起对抗“人工智能滥用”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Snapchat 与其他流行平台一起对抗“人工智能滥用””。核心要点：Snapchat、YouTube、LinkedIn 和 Substack 正在努力打击虚假人工智能内容的扩散。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 23:06:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 21:57:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Anthropic 表示 Claude AI 在网络测试期间入侵了三个组织”。核心要点：就在几天前，竞争对手 OpenAI 表示，流氓人工智能代理已经侵入了其他公司的网络。",
+        "titleZh": "英国航空求救航班上的乘客描述了恐惧并大喊“我不想死”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国航空求救航班上的乘客描述了恐惧并大喊“我不想死””。核心要点：本月早些时候，爱德华·基利威克乘坐的航班在希思罗机场安全降落之前发出了求救信号。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 04:31:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 12:19:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我每月支付 580 英镑住在废弃的护理院”：财产监护人带我们参观",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我每月支付 580 英镑住在废弃的护理院”：财产监护人带我们参观”。核心要点：你能住在一栋废弃的建筑里，以换取大幅折扣的租金吗？财产监护人带我们四处参观。",
+        "titleZh": "被黑公司老板表示，人工智能公司必须对流氓机器人负责",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“被黑公司老板表示，人工智能公司必须对流氓机器人负责”。核心要点：克莱门特·德兰格表示，他不希望针对其他公司的网络攻击变得“常态化”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 23:05:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 18:10:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我们从大型科技公司的财报中了解到有关人工智能的三件事",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我们从大型科技公司的财报中了解到有关人工智能的三件事”。核心要点：数十亿美元正在投入新一波的人工智能技术。但它会得到回报吗？",
+        "titleZh": "Sainsbury's 同意以 1.2 亿英镑出售 Argos",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Sainsbury's 同意以 1.2 亿英镑出售 Argos”。核心要点：根据交易条款，Argos 仍将在 Sainsbury 的商店中运营、销售 Habitat 产品并提供 Nectar 积分。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 01:31:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 31 Jul 2026 12:42:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "苹果警告 Mac、iPhone、iPad 未来将出现“供应限制”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果警告 Mac、iPhone、iPad 未来将出现“供应限制””。核心要点：由于未来几个月销售放缓的警告，苹果股价暴跌。",
+        "titleZh": "希利宣布预算将于十月举行",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“希利宣布预算将于十月举行”。核心要点：新任财政大臣承诺将资金和权力从威斯敏斯特转移到英国各地的每个邮政编码区。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 30 Jul 2026 23:25:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 01 Aug 2026 03:34:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
