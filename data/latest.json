@@ -1,67 +1,75 @@
 {
-  "updatedAt": "2026-08-01T04:34:06.186Z",
+  "updatedAt": "2026-08-02T04:36:32.017Z",
   "topics": {
-    "htn_kidney": [
+    "htn_kidney": [],
+    "portal_hypertension": [
       {
-        "title": "Albuminuria Not Attributable to Diabetic or Hypertensive Kidney Disease: Adult-Onset Minimal Change Disease Presenting With Nephrotic Syndrome in a Woman With Prediabetes and Hypertension.",
-        "journal": "Cureus",
-        "pubDate": "2026 Jun",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Shawket Al-Shakrchy H, Zwain Z",
-        "zhSummary": "该文聚焦高血压肾病，属于病例研究。核心观点：一名 45 岁女性，患有长期高血压和过早绝经，出现进行性双侧凹陷性腿部水肿。 临床提示：初步评估显示蛋白尿、镜下血尿和脓尿、严重混合性血脂异常和糖尿病前期。",
-        "abstract": "A 45-year-old woman with long-standing hypertension and premature menopause presented with progressive bilateral pitting leg edema. Initial evaluation showed albuminuria, microscopic hematuria and pyuria, severe mixed dyslipidemia, and prediabetes. Despite optimization of blood pressure and cardiometabolic therapy, edema progressed to the thighs, and urinary protein excretion increased. Renal ultrasonography showed increased parenchymal echogenicity, with scarring of the lower half of the left kidney. Subsequent evaluation revealed hypoalbuminemia and nephrotic-range proteinuria of 8.64 g/day. Autoimmune and viral hepatitis screening was negative, and a right renal biopsy confirmed minimal c...",
-        "pmid": "42534885",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42534885/",
-        "doiUrl": "https://doi.org/10.7759/cureus.111816",
-        "url": "https://doi.org/10.7759/cureus.111816"
+        "title": "Nephropathy Following Portosystemic Shunt Surgery in Children With Extrahepatic Portal Venous Obstruction: An Unusual Complication.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Sep-Oct",
+        "studyType": "Journal Article",
+        "authors": "Nair A, Sen Sarma M, Mandelia A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门体分流术（PSS）手术是治疗儿童门静脉高压和肝外门静脉阻塞（EHPVO）相关并发症的成熟手术。 临床提示：然而，长期肾脏影响尚未得到系统研究。",
+        "abstract": "Portosystemic shunt (PSS) surgery is a well-established procedure for managing portal hypertension and associated complications of extrahepatic portal venous obstruction (EHPVO) in children. However, the long-term renal effects have not been systematically studied. We aimed to evaluate the prevalence, clinical spectrum, histopathology, treatment response, and outcomes of nephropathy developing after PSS in children with EHPVO. We conducted an ambispective observational cohort study of 315 EHPVO children undergoing non-selective PSS (August 1996-December 2024). Patients were followed with monitoring and Doppler ultrasonography to assess shunt patency. If the clinician suspected urinary protei...",
+        "pmid": "42540397",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42540397/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103606",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103606"
       }
-    ],
-    "portal_hypertension": []
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "6万名移民从摩洛哥抵达休达后，西班牙总理指责人口贩子",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“6万名移民从摩洛哥抵达休达后，西班牙总理指责人口贩子”。核心要点：西班牙表示，由于意大利暂停了与马德里的自由流动申根协议，大多数人在周五晚上已返回摩洛哥。",
+        "titleZh": "特朗普表示，如果“迅速”达成协议，他将取消对伊朗的打击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，如果“迅速”达成协议，他将取消对伊朗的打击”。核心要点：美国总统发出这一消息之际，有媒体报道称，他正计划在周末对伊朗发动新的、猛烈的打击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 17:03:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 02 Aug 2026 03:05:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "鲍文：哈马斯解除武装计划面临巨大障碍，但为加沙带来了难得的希望",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“鲍文：哈马斯解除武装计划面临巨大障碍，但为加沙带来了难得的希望”。核心要点：政治、战争、零信任、数千人的死亡以及加沙的破坏等现实将使任何协议变得非常复杂。",
+        "titleZh": "西班牙移民危机如何引发社交媒体引发的政治风暴",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙移民危机如何引发社交媒体引发的政治风暴”。核心要点：英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 写道，休达过境点在政治上震动了欧洲，暴露了在移民这一敏感问题上的分歧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 02 Aug 2026 00:55:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴基斯坦雪崩后最新发现的美国登山者尸体",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴基斯坦雪崩后最新发现的美国登山者尸体”。核心要点：另外两名登山者的尸体已经从山上找到，而其他登山者的尸体仍然下落不明。",
+        "titleZh": "欧盟召开紧急会议讨论休达移民过境问题",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧盟召开紧急会议讨论休达移民过境问题”。核心要点：由于移民涌入休达飞地，西班牙和其他欧盟国家之间的交流紧张。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 20:22:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 01 Aug 2026 20:09:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "秘鲁前总统因腐败15年徒刑被推翻后出狱",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“秘鲁前总统因腐败15年徒刑被推翻后出狱”。核心要点：奥兰塔·乌马拉 (Ollanta Humala) 于 2025 年与妻子一起被判犯有洗钱罪。",
+        "titleZh": "雇佣年轻枪手——招募青少年杀手在欧洲各地杀人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“雇佣年轻枪手——招募青少年杀手在欧洲各地杀人”。核心要点：Foxtrot Network 被认为对欧洲大约 35 起谋杀案负有责任，并采用暴力即服务策略。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 01 Aug 2026 02:21:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 01 Aug 2026 23:03:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着欧洲大火持续蔓延，数百人通过海上逃离希腊野火",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着欧洲大火持续蔓延，数百人通过海上逃离希腊野火”。核心要点：大约 500 人被困后从 Agios Vasileios 乘船撤离，其中大部分是游客。",
+        "titleZh": "《黑道家族》明星文森特·帕斯托雷去世，享年 80 岁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“《黑道家族》明星文森特·帕斯托雷去世，享年 80 岁”。核心要点：据美国媒体报道，帕斯托雷在美国热门电视剧中饰演萨尔瓦托·“大猫”邦彭西耶罗，他被发现在纽约市的家中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 31 Jul 2026 14:26:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 01 Aug 2026 22:57:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "费萨尔·伊斯兰：国际足联世界杯计划从未实现的四个原因",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“费萨尔·伊斯兰：国际足联世界杯计划从未实现的四个原因”。核心要点：国际足联将世界杯部分私有化的计划的实际表述引发的问题多于其答案。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 01 Aug 2026 12:41:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "Snapchat 与其他流行平台一起对抗“人工智能滥用”",
         "summaryZh": "这是一条金融市场新闻，重点围绕“Snapchat 与其他流行平台一起对抗“人工智能滥用””。核心要点：Snapchat、YouTube、LinkedIn 和 Substack 正在努力打击虚假人工智能内容的扩散。",
@@ -93,14 +101,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 31 Jul 2026 12:42:22 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "希利宣布预算将于十月举行",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“希利宣布预算将于十月举行”。核心要点：新任财政大臣承诺将资金和权力从威斯敏斯特转移到英国各地的每个邮政编码区。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 01 Aug 2026 03:34:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
