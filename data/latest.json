@@ -1,132 +1,92 @@
 {
-  "updatedAt": "2026-08-05T04:28:08.281Z",
+  "updatedAt": "2026-08-06T04:29:37.800Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Hepatic sarcoidosis presenting with portal hypertension without histologically established cirrhosis and reticular hepatic imaging features.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Aug 4",
-        "studyType": "Journal Article",
-        "authors": "Yamamoto K, Itoh S, Sahara K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们报告了一名 50 岁男性，在手术期间偶然在肝脏表面发现非干酪样肉芽肿后，他被转诊进行疑似肝结节病评估。 临床提示：实验室检查显示胆汁淤积模式，伴有碱性磷酸酶和 γ-谷氨酰转肽酶升高、轻度血小板减少、血管紧张素转换酶和可溶性白细胞介素 2 受体升高",
-        "abstract": "We report a 50-year-old man who was referred for evaluation of suspected hepatic sarcoidosis after non-caseating granulomas were incidentally identified on the liver surface during surgery. Laboratory tests showed a cholestatic pattern with elevated alkaline phosphatase and gamma-glutamyl transpeptidase, mild thrombocytopenia, and increased angiotensin-converting enzyme and soluble interleukin-2 receptor levels. Contrast-enhanced computed tomography demonstrated marked surface irregularity and reticular hypoattenuated linear structures within the liver. Gadoxetic acid-enhanced magnetic resonance imaging and contrast-enhanced ultrasonography revealed non-enhancing septum-like structures, wher...",
-        "pmid": "42550407",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42550407/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02410-4",
-        "url": "https://doi.org/10.1007/s12328-026-02410-4"
-      },
-      {
-        "title": "Early-onset severe sinusoidal obstruction syndrome following adjuvant CAPOX: clinicoradiological diagnosis and favourable outcome after treatment with defibrotide.",
-        "journal": "Revista espanola de enfermedades digestivas",
-        "pubDate": "2026 Aug 4",
-        "studyType": "Journal Article",
-        "authors": "Soldado-Serrano A, Zamorano-García E, Alarcón-Blanco PA",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝窦阻塞综合征 (SOS) 是一种罕见的肝血管并发症，通常与造血干细胞移植相关，但也可能发生在基于奥沙利铂的化疗后。 临床提示：我们报道了一名患有 III 期结肠腺癌的 52 岁女性患者，接受 CAPOX 辅助治疗后三周出现黄疸、腹水、体重快速增加、血小板减少和严重肝功能障碍",
-        "abstract": "Sinusoidal obstruction syndrome (SOS) is an uncommon hepatic vascular complication classically associated with haematopoietic stem cell transplantation, although it may also occur following oxaliplatin-based chemotherapy. We report the case of a 52-year-old woman with stage III colon adenocarcinoma treated with adjuvant CAPOX who developed jaundice, ascites, rapid weight gain, thrombocytopenia, and severe liver dysfunction three weeks after completing chemotherapy. After other causes of acute liver injury had been excluded, Doppler ultrasound demonstrated reversal of portal venous flow and signs of portal hypertension consistent with SOS. Given the severity and rapid progression of the condi...",
-        "pmid": "42549748",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42549748/",
-        "doiUrl": "https://doi.org/10.17235/reed.2026.12068/2026",
-        "url": "https://doi.org/10.17235/reed.2026.12068/2026"
-      },
-      {
-        "title": "Esophagogastric intramural hematoma mimicking varices and a gastric fundal mass.",
-        "journal": "Revista espanola de enfermedades digestivas",
-        "pubDate": "2026 Aug 4",
-        "studyType": "Journal Article",
-        "authors": "Guo A, Lv R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：食管胃壁内血肿很少见，可能类似于静脉曲张或上消化道肿瘤。 临床提示：我们报告了一名血流动力学稳定的患者，接受长期阿司匹林治疗，在转诊医院进行胃镜检查和结肠镜检查后出现黑便。",
-        "abstract": "Esophagogastric intramural hematoma is rare and may mimic varices or an upper gastrointestinal neoplasm. We report a hemodynamically stable patient receiving long-term aspirin therapy who developed melena after gastroscopy and colonoscopy at a referring hospital. Contrast-enhanced computed tomography showed a continuous hyperattenuating mural lesion extending approximately 16 cm from the distal esophagus across the esophagogastric junction into the cardia and gastric fundus, with a 3.8 × 2.6 cm mass-like fundal component and no active contrast extravasation, perforation or radiological evidence of portal hypertension. Endoscopy revealed bluish, varix-like submucosal bulging. Conservative tre...",
-        "pmid": "42549746",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42549746/",
-        "doiUrl": "https://doi.org/10.17235/reed.2026.12136/2026",
-        "url": "https://doi.org/10.17235/reed.2026.12136/2026"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "视频显示俄罗斯无人机在“人类狩猎”袭击中追逐乌克兰街头小贩",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“视频显示俄罗斯无人机在“人类狩猎”袭击中追逐乌克兰街头小贩”。核心要点：乌克兰表示，这段视频显示一名受惊的平民被遥控无人机追赶，构成战争罪。",
+        "titleZh": "伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段”。核心要点：美国和阿曼都没有对拟议的重要水道协议发表评论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 04 Aug 2026 17:26:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 01:19:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普表示，如果油价下跌，霍尔木兹海峡不尽快开放，伊朗将受到“严重打击”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，如果油价下跌，霍尔木兹海峡不尽快开放，伊朗将受到“严重打击””。核心要点：美国国务卿马可·卢比奥和财政部长斯科特·贝森特均宣布谈判已取得进展，允许恢复运输。",
+        "titleZh": "因凡蒂诺对错误表示歉意，但继续担任国际足联主席",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“因凡蒂诺对错误表示歉意，但继续担任国际足联主席”。核心要点：在获得高级管理人员的支持后，詹尼·因凡蒂诺将继续担任国际足联主席，但他对其有争议的私人投资计划中所犯的错误“真诚地道歉”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 03:44:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 21:37:08 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "官员称，俄罗斯弹道导弹袭击基辅，造成两人死亡、多人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称，俄罗斯弹道导弹袭击基辅，造成两人死亡、多人受伤”。核心要点：基辅军事当局负责人表示，俄罗斯“再次大规模袭击”并袭击了居民楼。",
+        "titleZh": "基辅致命袭击后，乌克兰警告拦截弹短缺正在造成人员伤亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅致命袭击后，乌克兰警告拦截弹短缺正在造成人员伤亡”。核心要点：如果没有爱国者拦截机，乌克兰的天空将是敞开的，人们将完全暴露在俄罗斯导弹的攻击之下。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 03:37:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 18:19:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "欧盟赞扬西班牙对休达移民危机的“迅速反应”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧盟赞扬西班牙对休达移民危机的“迅速反应””。核心要点：西班牙表示，上周非法进入休达的 72,000 人中约有 70,000 人已返回摩洛哥。",
+        "titleZh": "被禁止在家踢球的阿富汗女足在8000英里外重聚",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“被禁止在家踢球的阿富汗女足在8000英里外重聚”。核心要点：这支受到国际足联认可的女队队员表示，足球给了她们自由和独立。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 04 Aug 2026 21:45:20 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 23:28:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "总统访问前，一名武装男子在特朗普高尔夫球场附近被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“总统访问前，一名武装男子在特朗普高尔夫球场附近被捕”。核心要点：这次逮捕发生在特朗普总统即将在加利福尼亚州沿海高尔夫球场举办筹款晚宴之前不久。",
+        "titleZh": "警方称德国机场发现携带爆炸物的无人机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“警方称德国机场发现携带爆炸物的无人机”。核心要点：这架无人机在乌克兰货机附近被发现，随后另一个物体在半空中与一架货机相撞。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 00:19:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 20:01:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "时尚品牌 Jaded 因“美化吸烟”而被禁广告",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“时尚品牌 Jaded 因“美化吸烟”而被禁广告”。核心要点：广告监管机构表示，贾德·伦敦的营销电子邮件让吸烟看起来很有吸引力。",
+        "titleZh": "伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段”。核心要点：美国和阿曼都没有对拟议的重要水道协议发表评论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 04 Aug 2026 23:20:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 01:19:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "人工智能利用新水平的“自主性和欺骗性”在安全测试中欺骗人们",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能利用新水平的“自主性和欺骗性”在安全测试中欺骗人们”。核心要点：英国人工智能安全研究所表示，Anthropic 和 OpenAI 模型最近的行为是恶意的，而且是史无前例的。",
+        "titleZh": "短裤、系带上衣和凉鞋：我的老板能告诉我夏天穿什么吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“短裤、系带上衣和凉鞋：我的老板能告诉我夏天穿什么吗？”。核心要点：以下是如何在保持冷静的同时打造成功的风格——以及你和你的老板对衣柜的看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 00:02:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 23:22:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "沙特领导的集团以 550 亿美元完成对游戏巨头 EA 的收购",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“沙特领导的集团以 550 亿美元完成对游戏巨头 EA 的收购”。核心要点：这笔交易将包括《The Sims》和 EA FC 在内的游戏开发商纳入私有制，并使其背上了债务。",
+        "titleZh": "Meta 称人工智能模型访问了互联网并入侵了另一家公司",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 称人工智能模型访问了互联网并入侵了另一家公司”。核心要点：Meta 是最新一家披露人工智能代理漏洞的公司，引发了网络安全担忧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 04 Aug 2026 23:09:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 02:33:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "单身的代价——以及朋友们如何联合起来克服单身",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“单身的代价——以及朋友们如何联合起来克服单身”。核心要点：许多单身人士面临住房、账单、食物和假期的额外费用，但有一些方法可以减轻负担。",
+        "titleZh": "因凡蒂诺对错误表示歉意，但继续担任国际足联主席",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“因凡蒂诺对错误表示歉意，但继续担任国际足联主席”。核心要点：在获得高级管理人员的支持后，詹尼·因凡蒂诺将继续担任国际足联主席，但他对其有争议的私人投资计划中所犯的错误“真诚地道歉”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 04 Aug 2026 23:21:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 21:37:08 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我感觉就像我挖了自己的坟墓”：陷入人工智能转型的工人",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““我感觉就像我挖了自己的坟墓”：陷入人工智能转型的工人”。核心要点：人工智能正在重塑菲律宾的外包行业，引发了对该行业未来的质疑。",
+        "titleZh": "迪士尼同意允许 TikTokers 在视频中使用其电影和电视节目",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“迪士尼同意允许 TikTokers 在视频中使用其电影和电视节目”。核心要点：双方达成的协议将允许一些创作者在他们的视频中使用迪士尼电影和电视节目的剪辑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 04 Aug 2026 22:10:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 05 Aug 2026 13:06:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
