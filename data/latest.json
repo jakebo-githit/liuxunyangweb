@@ -1,92 +1,158 @@
 {
-  "updatedAt": "2026-08-06T04:29:37.800Z",
+  "updatedAt": "2026-08-07T04:02:59.627Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Machine learning-derived clinical phenotypes of ascites in cirrhosis: A multi-center latent class analysis with external validation.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "pubDate": "2026 Aug 6",
+        "studyType": "Journal Article",
+        "authors": "Cullaro G, Lai JC, Liu T",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 625）。核心观点：肝硬化腹水使五年生存率从 80% 降低至 30%，但腹水严重程度相当的患者之间存在很大的异质性。 临床提示：这项多中心回顾性队列研究包括美国四个中心（2015-2024 年）患有腹水的成人肝移植候选者。",
+        "abstract": "Ascites development in cirrhosis reduces five-year survival from 80% to 30%, yet substantial heterogeneity exists among patients with comparable ascites severity. This multicenter retrospective cohort study included adult liver transplant candidates with ascites at four United States centers (2015-2024). Latent class analysis was performed using seven clinical variables: ascites grade, bilirubin, albumin, platelet count, estimated glomerular filtration rate, systolic blood pressure, and portal vein thrombosis. The derivation cohort (n=625) from University of California San Francisco and Columbia University was randomly split 80/20 for model development and internal validation. External valid...",
+        "pmid": "42560069",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42560069/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000942",
+        "url": "https://doi.org/10.1097/LVT.0000000000000942"
+      },
+      {
+        "title": "VITRO score dynamics after liver transplantation predict portal-hypertensive events and post-transplant mortality.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "pubDate": "2026 Aug 6",
+        "studyType": "Journal Article",
+        "authors": "Dominik N, Dinjar Kujundzic P, Kristandl F",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝移植（LT）后门静脉高压（​​PH）很少见，但与并发症和死亡率相关。 临床提示：VITRO 评分（结合血管性血友病因子抗原 (vWF) 除以血小板计数 (PLT)）反映了肝硬化中 PH 的严重程度，但其在 LT 后的预后价值仍不清楚。",
+        "abstract": "Portal hypertension (PH) after liver transplantation (LT) is rare but associated with complications and mortality. The VITRO score - combining von Willebrand Factor antigen (vWF) divided by platelet count (PLT) - reflects PH severity in cirrhosis, yet its prognostic value after LT remains unknown. VITRO score dynamics and clinical outcomes were evaluated in 272 consecutive adult patients with available vWF-Ag measurements undergoing LT between 2016 and 2022 at the Medical University of Vienna. Laboratory parameters were assessed at listing, pre-LT, and at 3-6 and 12 months post-LT. Endpoints included overall mortality and a composite endpoint of PH events and/or liver-related death within 12...",
+        "pmid": "42560060",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42560060/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000965",
+        "url": "https://doi.org/10.1097/LVT.0000000000000965"
+      },
+      {
+        "title": "Robotic Whole-graft Liver Transplant: Lesson Learned And Outcomes After 45 Cases.",
+        "journal": "Annals of surgery",
+        "pubDate": "2026 Aug 6",
+        "studyType": "Journal Article",
+        "authors": "Di Benedetto F, Magistri P, Coelho JS",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：机器人肝移植（RLT）代表了实体器官移植的最新发展。 临床提示：虽然早期报告证明了全移植物 RLT 的技术可行性，但以既定标准为基准的临床结果证据仍然有限。",
+        "abstract": "Robotic liver transplantation (RLT) represents the latest evolution in solid organ transplantation. While early reports demonstrated technical feasibility of whole-graft RLT, evidence on clinical outcomes benchmarked against established standards remains limited. This study aimed to evaluate perioperative post-transplant outcomes of whole-graft RLT and to assess whether benchmark performance can be achieved in clinical practice. This retrospective multicenter cohort study included consecutive patients undergoing whole-graft RLT at 2 European centers between February 2024 and October 2025. Preoperative, perioperative, and follow-up data were retrieved from prospectively maintained databases. ...",
+        "pmid": "42557614",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557614/",
+        "doiUrl": "https://doi.org/10.1097/SLA.0000000000007181",
+        "url": "https://doi.org/10.1097/SLA.0000000000007181"
+      },
+      {
+        "title": "Comparison of underdilated versus standard transjugular intrahepatic portosystemic shunt in preventing rebleeding from oesophagogastric varices in patients with cirrhosis in Chinese tertiary hospitals: protocol for a multicentre randomised controlled trial (UVR-TIPS trial).",
+        "journal": "BMJ open",
+        "pubDate": "2026 Aug 5",
+        "studyType": "Journal Article / Clinical Trial Protocol",
+        "authors": "Liu L, Wei B, Zhang F",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床试验（样本量约为 648）。核心观点：肝性脑病（HE）是经颈静脉肝内门体分流术（TIPS）放置后的主要并发症，显着影响患者的生活质量和长期预后。 临床提示：本研究旨在比较扩张不足的 TIPS 与标准 TIPS 在预防肝硬化门脉高压患者静脉曲张再出血方面的功效，并评估术后 HE 的发生率。",
+        "abstract": "Hepatic encephalopathy (HE) is a major complication following transjugular intrahepatic portosystemic shunt (TIPS) placement, significantly affecting patients' quality of life and long-term prognosis. This study aims to compare the efficacy of underdilated TIPS versus standard TIPS in preventing variceal rebleeding in patients with cirrhosis and portal hypertension and to evaluate the incidence of post-procedural HE. This multicentre randomised controlled trial will be conducted across five Grade A tertiary hospitals in China. A total of 648 patients with portal hypertension-related oesophagogastric variceal bleeding undergoing TIPS will be enrolled and randomly assigned in a 1:1 ratio to ei...",
+        "pmid": "42556834",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556834/",
+        "doiUrl": "https://doi.org/10.1136/bmjopen-2025-115218",
+        "url": "https://doi.org/10.1136/bmjopen-2025-115218"
+      },
+      {
+        "title": "Slc26a9 guards gastric mucosa against portal hypertension by reducing ER stress-induced apoptosis.",
+        "journal": "Life sciences",
+        "pubDate": "2026 Aug 5",
+        "studyType": "Journal Article",
+        "authors": "Ma Z, Yi Z, Ji B",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在这项研究中，人类 PHG 样本显示 Slc 显着降低... 临床提示：Slc26a9是Slc26a家族的成员，在胃中高表达，是维持胃粘膜稳态的关键调节因子。",
+        "abstract": "Slc26a9 is a member of the Slc26a family that is highly expressed in the stomach and is a key regulator for maintaining gastric mucosal homeostasis. Slc26a9 deletion in mice impairs the gastric mucosal barrier. However, the role of Slc26a9 in PHG has never been investigated. Slc26a9 expression was analyzed in human PHG and control gastric tissues. A PVL-induced PHG model was established in Slc26a9 fl/fl and parietal cell-specific Slc26a9 knockout mice to evaluate mucosal injury, ER stress, and apoptosis. Adenoviral overexpression in vivo and gene silencing in GES-1 cells were used to explore the underlying mechanisms. In this study, the Human PHG samples showed both significantly reduced Slc...",
+        "pmid": "42556711",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556711/",
+        "doiUrl": "https://doi.org/10.1016/j.lfs.2026.124620",
+        "url": "https://doi.org/10.1016/j.lfs.2026.124620"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段”。核心要点：美国和阿曼都没有对拟议的重要水道协议发表评论。",
+        "titleZh": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元”。核心要点：新墨西哥州的一名法官命令 Instagram、Facebook 和 Whatsapp 母公司为其伤害儿童的行为再支付 5.67 亿美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 01:19:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 00:54:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "因凡蒂诺对错误表示歉意，但继续担任国际足联主席",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“因凡蒂诺对错误表示歉意，但继续担任国际足联主席”。核心要点：在获得高级管理人员的支持后，詹尼·因凡蒂诺将继续担任国际足联主席，但他对其有争议的私人投资计划中所犯的错误“真诚地道歉”。",
+        "titleZh": "特朗普否认美国武器短缺并称信息“泄密者”正在被“追捕”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普否认美国武器短缺并称信息“泄密者”正在被“追捕””。核心要点：虽然精确数据属于机密，但公开信息表明美国已经用掉了许多难以制造的武器。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 21:37:08 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 18:53:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "基辅致命袭击后，乌克兰警告拦截弹短缺正在造成人员伤亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅致命袭击后，乌克兰警告拦截弹短缺正在造成人员伤亡”。核心要点：如果没有爱国者拦截机，乌克兰的天空将是敞开的，人们将完全暴露在俄罗斯导弹的攻击之下。",
+        "titleZh": "欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行”。核心要点：欧洲管理机构欧足联表示，国际足联在周三的一次会议上对主席詹尼·因凡蒂诺的支持“没有改变任何事情”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 18:19:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 01:57:02 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "被禁止在家踢球的阿富汗女足在8000英里外重聚",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“被禁止在家踢球的阿富汗女足在8000英里外重聚”。核心要点：这支受到国际足联认可的女队队员表示，足球给了她们自由和独立。",
+        "titleZh": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚航空机组人员在仲冬进行大胆的南极洲救援”。核心要点：飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 23:28:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 04:02:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "警方称德国机场发现携带爆炸物的无人机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“警方称德国机场发现携带爆炸物的无人机”。核心要点：这架无人机在乌克兰货机附近被发现，随后另一个物体在半空中与一架货机相撞。",
+        "titleZh": "特朗普再次试图通过新的行政命令限制美国出生公民权",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普再次试图通过新的行政命令限制美国出生公民权”。核心要点：该行政命令禁止生育旅游，并扩大了其子女不符合美国出生公民权的现有定义。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 20:01:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 00:34:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伊朗称与阿曼就霍尔木兹海峡达成协议已进入最后阶段”。核心要点：美国和阿曼都没有对拟议的重要水道协议发表评论。",
+        "titleZh": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元”。核心要点：新墨西哥州的一名法官命令 Instagram、Facebook 和 Whatsapp 母公司为其伤害儿童的行为再支付 5.67 亿美元。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 01:19:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 00:54:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "短裤、系带上衣和凉鞋：我的老板能告诉我夏天穿什么吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“短裤、系带上衣和凉鞋：我的老板能告诉我夏天穿什么吗？”。核心要点：以下是如何在保持冷静的同时打造成功的风格——以及你和你的老板对衣柜的看法。",
+        "titleZh": "Argos 正在进行改造 - 但它能吸引新的购物者吗？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Argos 正在进行改造 - 但它能吸引新的购物者吗？”。核心要点：这家零售商已有 50 年历史，但在与亚马逊等新竞争对手的竞争中举步维艰。它的新主人能否扭转局面？",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 23:22:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 23:03:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Meta 称人工智能模型访问了互联网并入侵了另一家公司",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 称人工智能模型访问了互联网并入侵了另一家公司”。核心要点：Meta 是最新一家披露人工智能代理漏洞的公司，引发了网络安全担忧。",
+        "titleZh": "特朗普对关键芯片材料征收15%关税以对抗中国",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普对关键芯片材料征收15%关税以对抗中国”。核心要点：此举旨在保护美国公司，因为它们面临着来自中国芯片行业日益激烈的竞争。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 02:33:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 01:03:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "因凡蒂诺对错误表示歉意，但继续担任国际足联主席",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“因凡蒂诺对错误表示歉意，但继续担任国际足联主席”。核心要点：在获得高级管理人员的支持后，詹尼·因凡蒂诺将继续担任国际足联主席，但他对其有争议的私人投资计划中所犯的错误“真诚地道歉”。",
+        "titleZh": "易捷航空同意美国公司以 57 亿英镑收购",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空同意美国公司以 57 亿英镑收购”。核心要点：在竞争对手退出后，这家朴实无华的航空公司同意被美国阿波罗公司收购。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 21:37:08 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 16:35:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "迪士尼同意允许 TikTokers 在视频中使用其电影和电视节目",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“迪士尼同意允许 TikTokers 在视频中使用其电影和电视节目”。核心要点：双方达成的协议将允许一些创作者在他们的视频中使用迪士尼电影和电视节目的剪辑。",
+        "titleZh": "先是 OpenAI，现在是 Meta——为什么 AI 黑客攻击不断发生？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“先是 OpenAI，现在是 Meta——为什么 AI 黑客攻击不断发生？”。核心要点：大量公司正在透露人工智能模型已接入互联网，并带来了真正的后果。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 05 Aug 2026 13:06:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 06 Aug 2026 15:59:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
