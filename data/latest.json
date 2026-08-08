@@ -1,125 +1,149 @@
 {
-  "updatedAt": "2026-08-07T04:02:59.627Z",
+  "updatedAt": "2026-08-08T03:00:15.158Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Machine learning-derived clinical phenotypes of ascites in cirrhosis: A multi-center latent class analysis with external validation.",
-        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
-        "pubDate": "2026 Aug 6",
-        "studyType": "Journal Article",
-        "authors": "Cullaro G, Lai JC, Liu T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 625）。核心观点：肝硬化腹水使五年生存率从 80% 降低至 30%，但腹水严重程度相当的患者之间存在很大的异质性。 临床提示：这项多中心回顾性队列研究包括美国四个中心（2015-2024 年）患有腹水的成人肝移植候选者。",
-        "abstract": "Ascites development in cirrhosis reduces five-year survival from 80% to 30%, yet substantial heterogeneity exists among patients with comparable ascites severity. This multicenter retrospective cohort study included adult liver transplant candidates with ascites at four United States centers (2015-2024). Latent class analysis was performed using seven clinical variables: ascites grade, bilirubin, albumin, platelet count, estimated glomerular filtration rate, systolic blood pressure, and portal vein thrombosis. The derivation cohort (n=625) from University of California San Francisco and Columbia University was randomly split 80/20 for model development and internal validation. External valid...",
-        "pmid": "42560069",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42560069/",
-        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000942",
-        "url": "https://doi.org/10.1097/LVT.0000000000000942"
+        "title": "Management of parastomal variceal bleeding in an adult with metastatic liver cancer: A case-based review.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Oct",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Bruinsma J, Temperley HC, Cronin P",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：造口旁静脉曲张出血是门静脉高压症和肠造口患者的一种罕见但可能危及生命的并发症，对此基于证据的治疗策略仍然不明确。 临床提示：进行了基于病例的审查，综合了现有文献和机构经验，以评估造口旁静脉曲张出血的诊断方法和治疗方式，重点是急性控制",
+        "abstract": "Parastomal variceal bleeding is a rare but potentially life-threatening complication in patients with portal hypertension and intestinal stomas, for which evidence-based management strategies remain poorly defined. A case-based review was performed synthesizing available literature and institutional experience to evaluate diagnostic approaches and treatment modalities for parastomal variceal bleeding, with emphasis on acute control, prevention of recurrence, and multidisciplinary management. Reported management strategies include medical optimization of portal hypertension, local measures, endovascular embolization, transjugular intrahepatic portosystemic shunt placement, and surgical revisi...",
+        "pmid": "42564834",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42564834/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.07.024",
+        "url": "https://doi.org/10.1016/j.radcr.2026.07.024"
       },
       {
-        "title": "VITRO score dynamics after liver transplantation predict portal-hypertensive events and post-transplant mortality.",
-        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
-        "pubDate": "2026 Aug 6",
-        "studyType": "Journal Article",
-        "authors": "Dominik N, Dinjar Kujundzic P, Kristandl F",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝移植（LT）后门静脉高压（​​PH）很少见，但与并发症和死亡率相关。 临床提示：VITRO 评分（结合血管性血友病因子抗原 (vWF) 除以血小板计数 (PLT)）反映了肝硬化中 PH 的严重程度，但其在 LT 后的预后价值仍不清楚。",
-        "abstract": "Portal hypertension (PH) after liver transplantation (LT) is rare but associated with complications and mortality. The VITRO score - combining von Willebrand Factor antigen (vWF) divided by platelet count (PLT) - reflects PH severity in cirrhosis, yet its prognostic value after LT remains unknown. VITRO score dynamics and clinical outcomes were evaluated in 272 consecutive adult patients with available vWF-Ag measurements undergoing LT between 2016 and 2022 at the Medical University of Vienna. Laboratory parameters were assessed at listing, pre-LT, and at 3-6 and 12 months post-LT. Endpoints included overall mortality and a composite endpoint of PH events and/or liver-related death within 12...",
-        "pmid": "42560060",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42560060/",
-        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000965",
-        "url": "https://doi.org/10.1097/LVT.0000000000000965"
+        "title": "Validation of the \"protective flow attenuation\" hypothesis: Numerical and clinical insights into helical flow and thrombotic risk in cirrhosis.",
+        "journal": "Computer methods and programs in biomedicine",
+        "pubDate": "2026 Oct",
+        "studyType": "Journal Article / Validation Study",
+        "authors": "Xiong Z, Xu R, Shi C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉血栓形成（PVT）是肝硬化门脉高压患者的常见并发症，与不良的临床结果相关。 临床提示：然而，仍然缺乏早期识别 PVT 高风险患者的可靠方法。",
+        "abstract": "Portal vein thrombosis (PVT) is a common complication in cirrhosis patients with portal hypertension and is associated with unfavorable clinical outcomes. However, reliable methods for early identification of patients at high risk of PVT remain lacking. We propose the protective flow attenuation hypothesis, which postulates that attenuation of helical flow within the portal vein (PV) promotes thrombus formation. This primary objective of this study was to evaluate this hypothesis through computational fluid dynamics simulations and patient-specific analyses, while the secondarily objective was to assess the potential of Helical intensity (H 2 ) as a biomarker for PVT risk stratification. A t...",
+        "pmid": "42308715",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42308715/",
+        "doiUrl": "https://doi.org/10.1016/j.cmpb.2026.109513",
+        "url": "https://doi.org/10.1016/j.cmpb.2026.109513"
       },
       {
-        "title": "Robotic Whole-graft Liver Transplant: Lesson Learned And Outcomes After 45 Cases.",
-        "journal": "Annals of surgery",
-        "pubDate": "2026 Aug 6",
+        "title": "Portal hypertension mortality in the United States (1999-2023): Insights from the CDC WONDER database.",
+        "journal": "Medicine",
+        "pubDate": "2026 Aug 7",
         "studyType": "Journal Article",
-        "authors": "Di Benedetto F, Magistri P, Coelho JS",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：机器人肝移植（RLT）代表了实体器官移植的最新发展。 临床提示：虽然早期报告证明了全移植物 RLT 的技术可行性，但以既定标准为基准的临床结果证据仍然有限。",
-        "abstract": "Robotic liver transplantation (RLT) represents the latest evolution in solid organ transplantation. While early reports demonstrated technical feasibility of whole-graft RLT, evidence on clinical outcomes benchmarked against established standards remains limited. This study aimed to evaluate perioperative post-transplant outcomes of whole-graft RLT and to assess whether benchmark performance can be achieved in clinical practice. This retrospective multicenter cohort study included consecutive patients undergoing whole-graft RLT at 2 European centers between February 2024 and October 2025. Preoperative, perioperative, and follow-up data were retrieved from prospectively maintained databases. ...",
-        "pmid": "42557614",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42557614/",
-        "doiUrl": "https://doi.org/10.1097/SLA.0000000000007181",
-        "url": "https://doi.org/10.1097/SLA.0000000000007181"
+        "authors": "Haward R, Duseja N, Hirpara H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门脉高压是晚期慢性肝病发病和死亡的主要驱动因素，但由于死亡证明上的漏报，其对死亡的贡献经常被低估。 临床提示：美国有关门静脉高压相关死亡率趋势和差异的人口数据仍然有限。",
+        "abstract": "Portal hypertension is a central driver of morbidity and mortality in advanced chronic liver disease, yet its contribution to death is frequently underestimated owing to underreporting on death certificates. Population-level data on portal hypertension-related mortality trends and disparities in the United States remain limited. We conducted a retrospective, population-based mortality study using the Centers for Disease Control and Prevention Wide-ranging Online Data for Epidemiologic Research Multiple Cause of Death database, identifying deaths with International Statistical Classification of Diseases and Related Health Problems, 10th Revision code K76.6 listed in any cause-of-death field f...",
+        "pmid": "42566608",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42566608/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000050127",
+        "url": "https://doi.org/10.1097/MD.0000000000050127"
       },
       {
-        "title": "Comparison of underdilated versus standard transjugular intrahepatic portosystemic shunt in preventing rebleeding from oesophagogastric varices in patients with cirrhosis in Chinese tertiary hospitals: protocol for a multicentre randomised controlled trial (UVR-TIPS trial).",
-        "journal": "BMJ open",
+        "title": "Effects of laparoscopic splenectomy and azygoportal disconnection on liver reserve function for cirrhosis patients: a 1-year prospective study.",
+        "journal": "Surgical endoscopy",
+        "pubDate": "2026 Aug 7",
+        "studyType": "Journal Article",
+        "authors": "Ding S, Zhou LX, Gao TM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 68）。核心观点：在亚洲，腹腔镜脾切除术和奇点门静脉离断术（LSD）是肝硬化门脉高压患者的主要且有效的治疗方法。 临床提示：虽然LSD被广泛认为可以改善肝硬化患者的肝功能，但其对肝脏储备功能的具体作用仍有待探索。",
+        "abstract": "In Asia, laparoscopic splenectomy and azygoportal disconnection (LSD) is a primary and effective treatment for patients with cirrhotic portal hypertension. While LSD is widely recognized to improve liver function in cirrhosis, its specific effect on liver reserve function remains underexplored. This prospective study aimed to evaluate whether LSD enhances liver reserve function in these patients. Clinical data were collected over a 1-year follow-up after LSD, including the Child-Pugh score and class, albumin-bilirubin (ALBI) score and grade, indocyanine green retention rate at 15 min (ICG-R15), its plasma clearance rate (ICG-K), and its half-life (ICG-T1/2). After screening, 68 patients were...",
+        "pmid": "42566007",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42566007/",
+        "doiUrl": "https://doi.org/10.1007/s00464-026-13274-7",
+        "url": "https://doi.org/10.1007/s00464-026-13274-7"
+      },
+      {
+        "title": "Long-term outcome of sinusoidal obstruction syndrome secondary to hematopoietic stem cell transplantation.",
+        "journal": "JHEP reports : innovation in hepatology",
         "pubDate": "2026 Aug 5",
-        "studyType": "Journal Article / Clinical Trial Protocol",
-        "authors": "Liu L, Wei B, Zhang F",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床试验（样本量约为 648）。核心观点：肝性脑病（HE）是经颈静脉肝内门体分流术（TIPS）放置后的主要并发症，显着影响患者的生活质量和长期预后。 临床提示：本研究旨在比较扩张不足的 TIPS 与标准 TIPS 在预防肝硬化门脉高压患者静脉曲张再出血方面的功效，并评估术后 HE 的发生率。",
-        "abstract": "Hepatic encephalopathy (HE) is a major complication following transjugular intrahepatic portosystemic shunt (TIPS) placement, significantly affecting patients' quality of life and long-term prognosis. This study aims to compare the efficacy of underdilated TIPS versus standard TIPS in preventing variceal rebleeding in patients with cirrhosis and portal hypertension and to evaluate the incidence of post-procedural HE. This multicentre randomised controlled trial will be conducted across five Grade A tertiary hospitals in China. A total of 648 patients with portal hypertension-related oesophagogastric variceal bleeding undergoing TIPS will be enrolled and randomly assigned in a 1:1 ratio to ei...",
-        "pmid": "42556834",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556834/",
-        "doiUrl": "https://doi.org/10.1136/bmjopen-2025-115218",
-        "url": "https://doi.org/10.1136/bmjopen-2025-115218"
-      },
-      {
-        "title": "Slc26a9 guards gastric mucosa against portal hypertension by reducing ER stress-induced apoptosis.",
-        "journal": "Life sciences",
-        "pubDate": "2026 Aug 5",
         "studyType": "Journal Article",
-        "authors": "Ma Z, Yi Z, Ji B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：在这项研究中，人类 PHG 样本显示 Slc 显着降低... 临床提示：Slc26a9是Slc26a家族的成员，在胃中高表达，是维持胃粘膜稳态的关键调节因子。",
-        "abstract": "Slc26a9 is a member of the Slc26a family that is highly expressed in the stomach and is a key regulator for maintaining gastric mucosal homeostasis. Slc26a9 deletion in mice impairs the gastric mucosal barrier. However, the role of Slc26a9 in PHG has never been investigated. Slc26a9 expression was analyzed in human PHG and control gastric tissues. A PVL-induced PHG model was established in Slc26a9 fl/fl and parietal cell-specific Slc26a9 knockout mice to evaluate mucosal injury, ER stress, and apoptosis. Adenoviral overexpression in vivo and gene silencing in GES-1 cells were used to explore the underlying mechanisms. In this study, the Human PHG samples showed both significantly reduced Slc...",
-        "pmid": "42556711",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556711/",
-        "doiUrl": "https://doi.org/10.1016/j.lfs.2026.124620",
-        "url": "https://doi.org/10.1016/j.lfs.2026.124620"
+        "authors": "Alvarado-Tapias E, Sayadi A, Bertin L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 22）。核心观点：正弦阻塞综合征（SOS）是造血干细胞移植（HSCT）预处理方案的潜在严重并发症。 临床提示：其长期结果尚不清楚。",
+        "abstract": "Sinusoidal obstruction syndrome (SOS) is a potentially severe complication of conditioning regimens in hematopoietic stem cell transplantation (HSCT). Its long-term outcome is unknown. The aim of this study was to investigate the long-term liver outcome of patients with SOS. We retrospectively analyzed the outcome of all patients with histologically proven SOS related to HSCT conditioning who survived 6 months or more after HSCT. 22 patients with SOS were included. Median follow-up after SOS was 6.1 years. During this period, 10 patients (45%) developed signs of portal hypertension and 8 (36%) of them liver-related complications (ascites, n=8; spontaneous bacterial peritonitis, n=1; hepatic ...",
+        "pmid": "42556644",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556644/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101986",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.101986"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元”。核心要点：新墨西哥州的一名法官命令 Instagram、Facebook 和 Whatsapp 母公司为其伤害儿童的行为再支付 5.67 亿美元。",
+        "titleZh": "由于休达移民涌入问题加剧，西班牙对意大利实施边境管制",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于休达移民涌入问题加剧，西班牙对意大利实施边境管制”。核心要点：在大约 78,000 名摩洛哥移民涌入邻近的西班牙飞地休达后，意大利实施了边境管制。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 00:54:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 22:13:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普否认美国武器短缺并称信息“泄密者”正在被“追捕”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普否认美国武器短缺并称信息“泄密者”正在被“追捕””。核心要点：虽然精确数据属于机密，但公开信息表明美国已经用掉了许多难以制造的武器。",
+        "titleZh": "枪击事件造成八人死亡后，泰国总理誓言要出台更严格的枪支法",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“枪击事件造成八人死亡后，泰国总理誓言要出台更严格的枪支法”。核心要点：一名 14 岁少年向自家和学校开枪，然后开枪自杀，造成 8 人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 18:53:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 21:19:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“欧足联表示，随着英足总撤回对因凡蒂诺的支持，抵制活动仍可能继续进行”。核心要点：欧洲管理机构欧足联表示，国际足联在周三的一次会议上对主席詹尼·因凡蒂诺的支持“没有改变任何事情”。",
+        "titleZh": "泰国学生说，当我的老师被枪杀时，我正站在她面前",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国学生说，当我的老师被枪杀时，我正站在她面前”。核心要点：这名学生说，在袭击造成五名老师死亡后，她担心再也见不到她的母亲了。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 01:57:02 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 14:20:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "澳大利亚航空机组人员在仲冬进行大胆的南极洲救援",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“澳大利亚航空机组人员在仲冬进行大胆的南极洲救援”。核心要点：飞机在完全黑暗和 -43°C 的温度下着陆后，团队从麦克默多站疏散了一名患者。",
+        "titleZh": "沙特阿拉伯、土耳其和巴基斯坦签署防务协定",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“沙特阿拉伯、土耳其和巴基斯坦签署防务协定”。核心要点：巴基斯坦表示，在中东冲突中，对三人中任何一个人的攻击都相当于对所有人的攻击。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 04:02:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 17:42:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普再次试图通过新的行政命令限制美国出生公民权",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普再次试图通过新的行政命令限制美国出生公民权”。核心要点：该行政命令禁止生育旅游，并扩大了其子女不符合美国出生公民权的现有定义。",
+        "titleZh": "西班牙警方破获“最大”走私网络，逮捕 78 人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙警方破获“最大”走私网络，逮捕 78 人”。核心要点：该团伙将合成毒品从西班牙运往阿尔及利亚，然后利用回程走私移民和武器。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 00:34:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 07 Aug 2026 16:13:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元”。核心要点：新墨西哥州的一名法官命令 Instagram、Facebook 和 Whatsapp 母公司为其伤害儿童的行为再支付 5.67 亿美元。",
+        "titleZh": "90秒停电如何给铁路通勤者带来混乱",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“90秒停电如何给铁路通勤者带来混乱”。核心要点：这一事件引发了人们的疑问：电力供应中断为何会产生如此广泛的影响。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 00:54:03 GMT",
+        "publishedAt": "Fri, 07 Aug 2026 16:11:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "古德温考虑出售部分国防业务",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“古德温考虑出售部分国防业务”。核心要点：该公司是英国和美国护卫舰和潜艇项目零部件的主要供应商。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 07 Aug 2026 15:22:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "由于夏季持续缓慢，上个月美国就业岗位意外下降",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于夏季持续缓慢，上个月美国就业岗位意外下降”。核心要点：分析师原本预计新增就业岗位数量会增加，但 7 月份岗位数量减少了 23,000 个。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 07 Aug 2026 14:03:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Meta 在针对社交媒体巨头的最大儿童安全裁决中被罚款 5.67 亿美元”。核心要点：除了该裁决之外，Meta 还被勒令在此案中支付 3.75 亿美元的罚款，总计 9.42 亿美元。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 07 Aug 2026 09:22:03 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -129,30 +153,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 06 Aug 2026 23:03:48 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普对关键芯片材料征收15%关税以对抗中国",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普对关键芯片材料征收15%关税以对抗中国”。核心要点：此举旨在保护美国公司，因为它们面临着来自中国芯片行业日益激烈的竞争。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 01:03:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "易捷航空同意美国公司以 57 亿英镑收购",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“易捷航空同意美国公司以 57 亿英镑收购”。核心要点：在竞争对手退出后，这家朴实无华的航空公司同意被美国阿波罗公司收购。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 16:35:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "先是 OpenAI，现在是 Meta——为什么 AI 黑客攻击不断发生？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“先是 OpenAI，现在是 Meta——为什么 AI 黑客攻击不断发生？”。核心要点：大量公司正在透露人工智能模型已接入互联网，并带来了真正的后果。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 15:59:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
