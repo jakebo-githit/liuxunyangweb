@@ -1,119 +1,61 @@
 {
-  "updatedAt": "2026-08-08T03:00:15.158Z",
+  "updatedAt": "2026-08-09T03:07:52.527Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Management of parastomal variceal bleeding in an adult with metastatic liver cancer: A case-based review.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Oct",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Bruinsma J, Temperley HC, Cronin P",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：造口旁静脉曲张出血是门静脉高压症和肠造口患者的一种罕见但可能危及生命的并发症，对此基于证据的治疗策略仍然不明确。 临床提示：进行了基于病例的审查，综合了现有文献和机构经验，以评估造口旁静脉曲张出血的诊断方法和治疗方式，重点是急性控制",
-        "abstract": "Parastomal variceal bleeding is a rare but potentially life-threatening complication in patients with portal hypertension and intestinal stomas, for which evidence-based management strategies remain poorly defined. A case-based review was performed synthesizing available literature and institutional experience to evaluate diagnostic approaches and treatment modalities for parastomal variceal bleeding, with emphasis on acute control, prevention of recurrence, and multidisciplinary management. Reported management strategies include medical optimization of portal hypertension, local measures, endovascular embolization, transjugular intrahepatic portosystemic shunt placement, and surgical revisi...",
-        "pmid": "42564834",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42564834/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.07.024",
-        "url": "https://doi.org/10.1016/j.radcr.2026.07.024"
-      },
-      {
-        "title": "Validation of the \"protective flow attenuation\" hypothesis: Numerical and clinical insights into helical flow and thrombotic risk in cirrhosis.",
-        "journal": "Computer methods and programs in biomedicine",
-        "pubDate": "2026 Oct",
-        "studyType": "Journal Article / Validation Study",
-        "authors": "Xiong Z, Xu R, Shi C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门静脉血栓形成（PVT）是肝硬化门脉高压患者的常见并发症，与不良的临床结果相关。 临床提示：然而，仍然缺乏早期识别 PVT 高风险患者的可靠方法。",
-        "abstract": "Portal vein thrombosis (PVT) is a common complication in cirrhosis patients with portal hypertension and is associated with unfavorable clinical outcomes. However, reliable methods for early identification of patients at high risk of PVT remain lacking. We propose the protective flow attenuation hypothesis, which postulates that attenuation of helical flow within the portal vein (PV) promotes thrombus formation. This primary objective of this study was to evaluate this hypothesis through computational fluid dynamics simulations and patient-specific analyses, while the secondarily objective was to assess the potential of Helical intensity (H 2 ) as a biomarker for PVT risk stratification. A t...",
-        "pmid": "42308715",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42308715/",
-        "doiUrl": "https://doi.org/10.1016/j.cmpb.2026.109513",
-        "url": "https://doi.org/10.1016/j.cmpb.2026.109513"
-      },
-      {
-        "title": "Portal hypertension mortality in the United States (1999-2023): Insights from the CDC WONDER database.",
-        "journal": "Medicine",
-        "pubDate": "2026 Aug 7",
-        "studyType": "Journal Article",
-        "authors": "Haward R, Duseja N, Hirpara H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：门脉高压是晚期慢性肝病发病和死亡的主要驱动因素，但由于死亡证明上的漏报，其对死亡的贡献经常被低估。 临床提示：美国有关门静脉高压相关死亡率趋势和差异的人口数据仍然有限。",
-        "abstract": "Portal hypertension is a central driver of morbidity and mortality in advanced chronic liver disease, yet its contribution to death is frequently underestimated owing to underreporting on death certificates. Population-level data on portal hypertension-related mortality trends and disparities in the United States remain limited. We conducted a retrospective, population-based mortality study using the Centers for Disease Control and Prevention Wide-ranging Online Data for Epidemiologic Research Multiple Cause of Death database, identifying deaths with International Statistical Classification of Diseases and Related Health Problems, 10th Revision code K76.6 listed in any cause-of-death field f...",
-        "pmid": "42566608",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42566608/",
-        "doiUrl": "https://doi.org/10.1097/MD.0000000000050127",
-        "url": "https://doi.org/10.1097/MD.0000000000050127"
-      },
-      {
-        "title": "Effects of laparoscopic splenectomy and azygoportal disconnection on liver reserve function for cirrhosis patients: a 1-year prospective study.",
-        "journal": "Surgical endoscopy",
-        "pubDate": "2026 Aug 7",
-        "studyType": "Journal Article",
-        "authors": "Ding S, Zhou LX, Gao TM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 68）。核心观点：在亚洲，腹腔镜脾切除术和奇点门静脉离断术（LSD）是肝硬化门脉高压患者的主要且有效的治疗方法。 临床提示：虽然LSD被广泛认为可以改善肝硬化患者的肝功能，但其对肝脏储备功能的具体作用仍有待探索。",
-        "abstract": "In Asia, laparoscopic splenectomy and azygoportal disconnection (LSD) is a primary and effective treatment for patients with cirrhotic portal hypertension. While LSD is widely recognized to improve liver function in cirrhosis, its specific effect on liver reserve function remains underexplored. This prospective study aimed to evaluate whether LSD enhances liver reserve function in these patients. Clinical data were collected over a 1-year follow-up after LSD, including the Child-Pugh score and class, albumin-bilirubin (ALBI) score and grade, indocyanine green retention rate at 15 min (ICG-R15), its plasma clearance rate (ICG-K), and its half-life (ICG-T1/2). After screening, 68 patients were...",
-        "pmid": "42566007",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42566007/",
-        "doiUrl": "https://doi.org/10.1007/s00464-026-13274-7",
-        "url": "https://doi.org/10.1007/s00464-026-13274-7"
-      },
-      {
-        "title": "Long-term outcome of sinusoidal obstruction syndrome secondary to hematopoietic stem cell transplantation.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Aug 5",
-        "studyType": "Journal Article",
-        "authors": "Alvarado-Tapias E, Sayadi A, Bertin L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 22）。核心观点：正弦阻塞综合征（SOS）是造血干细胞移植（HSCT）预处理方案的潜在严重并发症。 临床提示：其长期结果尚不清楚。",
-        "abstract": "Sinusoidal obstruction syndrome (SOS) is a potentially severe complication of conditioning regimens in hematopoietic stem cell transplantation (HSCT). Its long-term outcome is unknown. The aim of this study was to investigate the long-term liver outcome of patients with SOS. We retrospectively analyzed the outcome of all patients with histologically proven SOS related to HSCT conditioning who survived 6 months or more after HSCT. 22 patients with SOS were included. Median follow-up after SOS was 6.1 years. During this period, 10 patients (45%) developed signs of portal hypertension and 8 (36%) of them liver-related complications (ascites, n=8; spontaneous bacterial peritonitis, n=1; hepatic ...",
-        "pmid": "42556644",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42556644/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101986",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.101986"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "由于休达移民涌入问题加剧，西班牙对意大利实施边境管制",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“由于休达移民涌入问题加剧，西班牙对意大利实施边境管制”。核心要点：在大约 78,000 名摩洛哥移民涌入邻近的西班牙飞地休达后，意大利实施了边境管制。",
+        "titleZh": "阿曼表示霍尔木兹会谈积极，伊朗警告协议不会打开海峡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“阿曼表示霍尔木兹会谈积极，伊朗警告协议不会打开海峡”。核心要点：双方均表示谈判已取得进展，以商定穿过海峡的新航线，但取得突破仍不明朗。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 22:13:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 08 Aug 2026 19:18:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "枪击事件造成八人死亡后，泰国总理誓言要出台更严格的枪支法",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“枪击事件造成八人死亡后，泰国总理誓言要出台更严格的枪支法”。核心要点：一名 14 岁少年向自家和学校开枪，然后开枪自杀，造成 8 人死亡。",
+        "titleZh": "特朗普前律师托德·布兰奇以微弱优势当选美国司法部长",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普前律师托德·布兰奇以微弱优势当选美国司法部长”。核心要点：尽管遭到一些共和党人的罕见反对，这次投票巩固了特朗普前刑事辩护律师作为美国最高执法官员的地位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 21:19:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 08 Aug 2026 15:56:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰国学生说，当我的老师被枪杀时，我正站在她面前",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泰国学生说，当我的老师被枪杀时，我正站在她面前”。核心要点：这名学生说，在袭击造成五名老师死亡后，她担心再也见不到她的母亲了。",
+        "titleZh": "新右翼总统上任第一天美国向哥伦比亚提供10亿美元",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“新右翼总统上任第一天美国向哥伦比亚提供10亿美元”。核心要点：阿韦拉多·德拉埃斯普里埃拉在他的首次演讲中承诺对他所谓的“毒品恐怖主义”进行“全面战争”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 14:20:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 08 Aug 2026 17:58:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "沙特阿拉伯、土耳其和巴基斯坦签署防务协定",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“沙特阿拉伯、土耳其和巴基斯坦签署防务协定”。核心要点：巴基斯坦表示，在中东冲突中，对三人中任何一个人的攻击都相当于对所有人的攻击。",
+        "titleZh": "梅西父亲豪尔赫因病去世，享年68岁",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“梅西父亲豪尔赫因病去世，享年68岁”。核心要点：莱昂内尔·梅西 (Lionel Messi) 的父亲兼经纪人豪尔赫 (Jorge) 因长期患病去世，享年 68 岁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 17:42:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 08 Aug 2026 15:51:11 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙警方破获“最大”走私网络，逮捕 78 人",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙警方破获“最大”走私网络，逮捕 78 人”。核心要点：该团伙将合成毒品从西班牙运往阿尔及利亚，然后利用回程走私移民和武器。",
+        "titleZh": "麦当娜向“天才、超凡脱俗”的制作人威廉·奥尔比特致敬",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“麦当娜向“天才、超凡脱俗”的制作人威廉·奥尔比特致敬”。核心要点：这位流行天后多年来与 Orbit 多次合作，最引人注目的是她的格莱美奖获奖专辑《Ray of Light》。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 16:13:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 08 Aug 2026 17:23:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "足球能防人工智能吗？为什么科技投资者想从世界杯中分一杯羹",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“足球能防人工智能吗？为什么科技投资者想从世界杯中分一杯羹”。核心要点：支持现在这个计划的投资者是怎么想的？这样的提议在未来是否不可避免？",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 08 Aug 2026 13:41:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "90秒停电如何给铁路通勤者带来混乱",
         "summaryZh": "这是一条金融市场新闻，重点围绕“90秒停电如何给铁路通勤者带来混乱”。核心要点：这一事件引发了人们的疑问：电力供应中断为何会产生如此广泛的影响。",
@@ -145,14 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 07 Aug 2026 09:22:03 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "Argos 正在进行改造 - 但它能吸引新的购物者吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Argos 正在进行改造 - 但它能吸引新的购物者吗？”。核心要点：这家零售商已有 50 年历史，但在与亚马逊等新竞争对手的竞争中举步维艰。它的新主人能否扭转局面？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 06 Aug 2026 23:03:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
