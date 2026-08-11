@@ -1,146 +1,119 @@
 {
-  "updatedAt": "2026-08-10T03:18:24.055Z",
+  "updatedAt": "2026-08-11T03:10:50.597Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Urinary nephrin as an early biomarker of podocyte dysfunction in essential hypertension: a stage-stratified study from Bukhara, Uzbekistan.",
-        "journal": "Frontiers in cardiovascular medicine",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Amonov MKO",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 60）。核心观点：原发性高血压是慢性肾脏疾病的主要原因，但传统的肾脏标志物只有在肾单位大量损失后才能检测到损伤。 临床提示：尿肾病蛋白是足细胞损伤期间释放的一种裂隙隔膜蛋白，已被提议作为高血压肾病的早期生物标志物，但特定阶段的数据很少，特别是来自中亚的数据。",
-        "abstract": "Essential hypertension is a leading cause of chronic kidney disease, but conventional renal markers detect injury only after substantial nephron loss. Urinary nephrin, a slit-diaphragm protein released during podocyte injury, has been proposed as an early biomarker of hypertensive nephropathy, yet stage-specific data are scarce, particularly from Central Asia. In this single-centre, prospective study, we enrolled 60 adults with essential hypertension stratified by stage (I, II, III; n = 20 per group) in Bukhara, Uzbekistan; patients with diabetes, heart failure, primary kidney disease, or prior SARS-CoV-2 infection were excluded. Urinary nephrin, serum cystatin-C, TGF- β 1, aldosterone, and ...",
-        "pmid": "42571325",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42571325/",
-        "doiUrl": "https://doi.org/10.3389/fcvm.2026.1878203",
-        "url": "https://doi.org/10.3389/fcvm.2026.1878203"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Course of Portal Hypertension and Its Prognostic Impact After Liver Transplantation.",
-        "journal": "United European gastroenterology journal",
-        "pubDate": "2026 Sep",
+        "title": "Four-dimensional flow MRI demonstrates portal flow redistribution associated with hepatic function after retrograde transvenous obliteration.",
+        "journal": "European journal of radiology",
+        "pubDate": "2026 Oct",
         "studyType": "Journal Article",
-        "authors": "Dominik N, Dinjar Kujundzic P, Lovrekovic S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：虽然门脉高压 (PH) 通常在肝移植 (LT) 后得到缓解，但 PH 的持续存在可能会影响移植后的结果。 临床提示：我们评估了 LT 后 PH 的演变及其对不良后果的影响。",
-        "abstract": "While portal hypertension (PH) typically resolves after liver transplantation (LT), persistence of PH may affect post-transplant outcomes. We assessed the evolution of PH after LT and its impact on adverse outcomes. We recorded clinical, laboratory, and imaging parameters of LT recipients between 2016 and 2022 in Vienna and Zagreb. Persistent features of CSPH were defined as the presence of portosystemic collaterals, platelet count (PLT) ≤ 110 G/L, and/or splenomegaly (≥ 13 cm). PH-related clinical events were defined as variceal bleeding, ascites requiring intervention, hepatic hydrothorax, portal vein thrombosis, or liver-related death within 12 months post-LT. Post-LT outcomes were analyz...",
-        "pmid": "42570327",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42570327/",
-        "doiUrl": "https://doi.org/10.1002/ueg2.70268",
-        "url": "https://doi.org/10.1002/ueg2.70268"
+        "authors": "Hyodo R, Ishizu Y, Horiguchi R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：使用四维血流 MRI 量化逆行经静脉闭塞 (RTO) 后门脉血流重新分布，并评估其与肝功能变化的关系。 临床提示：这项前瞻性研究使用四维血流 MRI 评估了 RTO 之前和一周后的门静脉血流动力学。",
+        "abstract": "To quantify portal flow redistribution after retrograde transvenous obliteration (RTO) using four-dimensional flow MRI and to evaluate its association with hepatic functional changes. This prospective study evaluated portal hemodynamics before RTO and one week afterward using four-dimensional flow MRI. Measurements included hepatic parenchymal flow (HPF), superior mesenteric vein (SMV)- and splenic vein (SV)-derived shunt inflow, and main portal vein wall shear stress (MPV-WSS). Percentage changes in HPF and WSS were calculated. Hepatic function was assessed 2-6 months after RTO. Participants were classified by complete disappearance of SMV- or SV-derived shunt inflow (SMV-0, SV-0). Paired c...",
+        "pmid": "42365739",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42365739/",
+        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.113044",
+        "url": "https://doi.org/10.1016/j.ejrad.2026.113044"
       },
       {
-        "title": "Sleep Irregularity is Associated with Reduced Wellbeing in Patients with Cirrhosis.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Aug 8",
+        "title": "Gastric Variceal Bleed in Pregnancy.",
+        "journal": "Annals of African medicine",
+        "pubDate": "2026 Aug 10",
         "studyType": "Journal Article",
-        "authors": "Buckholz AP, Mallick H, Thuluvath A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 119）。核心观点：肝硬化 HRQoL 降低的最关键因素之一是睡眠障碍。 临床提示：使用可穿戴技术进行远程监测可以促进睡眠评估和有针对性的干预。",
-        "abstract": "Health-related quality of life (HRQoL) is frequently impaired in cirrhosis. Among the most critical components of reduced HRQoL in cirrhosis is disturbed sleep. Despite the importance of sleep in cirrhosis and overall health, sleep is rarely clinically assessed and the specific aspects of sleep which drive reduced wellbeing are understudied. Remote monitoring with wearable technology may facilitate sleep assessment and targeted intervention. We enrolled 119 participants with cirrhosis across two academic medical centers and collected baseline clinical, cognitive and laboratory assessment and 6 months of longitudinal wearable tracking with an Oura Ring. HRQoL was assessed with the Chronic Liv...",
-        "pmid": "42570697",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42570697/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101990",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.101990"
-      },
-      {
-        "title": "Portal vein invasion and cavernous transformation secondary to hepatic echinococcosis successfully managed by TIPS: a case report and literature review.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Aug 8",
-        "studyType": "Journal Article",
-        "authors": "Yingjun B, Yuan Z, Diwen Z",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：包虫病是一种由棘球蚴幼虫引起的人畜共患寄生虫病，肝包虫病有时表现出恶性样行为，包括血管侵犯。 临床提示：门静脉侵犯是一种罕见的并发症，目前尚无成功治疗包虫引起门静脉侵犯和海绵样变性导致门静脉高压导致消化道出血的报道。",
-        "abstract": "Hydatid disease is a zoonotic parasitic disease caused by Echinococcus larvae, with hepatic echinococcosis sometimes exhibiting malignant-like behavior including vascular invasion. Portal vein invasion is a rare complication, and no prior report has described gastrointestinal hemorrhage due to portal hypertension from hydatid-induced portal vein invasion and cavernous transformation successfully treated by transjugular intrahepatic portosystemic shunt (TIPS). A 44-year-old female with recurrent gastrointestinal bleeding and a history of right hepatectomy for hepatic alveolar echinococcosis was admitted. CT and ultrasound revealed portal vein invasion and cavernous transformation. TIPS was su...",
-        "pmid": "42570184",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42570184/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02418-w",
-        "url": "https://doi.org/10.1007/s12328-026-02418-w"
+        "authors": "Ahmed J, Dandi K, Dahale AS",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：胃静脉曲张出血是一种罕见但危及生命的门静脉高压并发症，给妊娠期间的治疗带来重大挑战。 临床提示：我们报告一例 25 岁的初产妇，在妊娠 18 周时出现呕血和黑便。",
+        "abstract": "Gastric variceal bleeding is a rare but life-threatening complication of portal hypertension, posing significant management challenges during pregnancy. We report the case of a 25-year-old primigravida at 18 weeks of gestation who presented with hematemesis and melena. On examination, she was pale and tachycardic, with splenomegaly noted. Laboratory investigations revealed anemia and thrombocytopenia. Doppler ultrasound confirmed the presence of a portal cavernoma and splenomegaly. Upper gastrointestinal endoscopy showed large esophageal varices (EV) and fundal gastric varices (GOV2) with stigmata of recent bleeding, along with portal hypertensive gastropathy. Endoscopic management was carri...",
+        "pmid": "42573576",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42573576/",
+        "doiUrl": "https://doi.org/10.4103/aam.aam_285_26",
+        "url": "https://doi.org/10.4103/aam.aam_285_26"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "犯罪头目嫌疑人丹尼尔·基纳汉引渡后出庭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“犯罪头目嫌疑人丹尼尔·基纳汉引渡后出庭”。核心要点：爱尔兰监狱管理局购买了一辆防弹防弹面包车，在这名 49 岁的男子从迪拜引渡后将其送往法庭。",
+        "titleZh": "哥伦比亚发生多年来最严重地震 至少132人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚发生多年来最严重地震 至少132人死亡”。核心要点：这次7.4级地震的震中位于靠近太平洋海岸的乔科省，但数百公里外的城市也能感受到。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 09 Aug 2026 20:58:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 01:59:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "内塔尼亚胡表示，以色列拒绝特朗普针对加沙的15点计划",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡表示，以色列拒绝特朗普针对加沙的15点计划”。核心要点：以色列总理表示，在哈马斯“真正”解除武装之前，以色列军队不会从加沙撤军。",
+        "titleZh": "儿童拒绝系安全带 加拿大航班取消",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“儿童拒绝系安全带 加拿大航班取消”。核心要点：该事件引发了关于商用飞机上儿童安全和纪律的争论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 09 Aug 2026 21:25:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 21:06:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "BBC 分享南非特种部队谋杀顶级侦探的证据",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC 分享南非特种部队谋杀顶级侦探的证据”。核心要点：弗兰斯·马蒂帕 (Frans Mathipa) 在开车时被枪杀 - 我们了解了针对八名被告的起诉案件。",
+        "titleZh": "乌克兰无人机深入俄罗斯境内发动袭击 至少13人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰无人机深入俄罗斯境内发动袭击 至少13人死亡”。核心要点：俄罗斯官员称，此次袭击造成另外 75 人受伤，这是自莫斯科全面入侵以来最致命的乌克兰无人机袭击之一。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 09 Aug 2026 23:05:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 14:34:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "莱比锡炸弹事件发生几天后，在德国基地上空发现了无人机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“莱比锡炸弹事件发生几天后，在德国基地上空发现了无人机”。核心要点：警方正在调查在军事基地上空目击无人机的事件，据报道该基地用于存放爱国者导弹系统零件。",
+        "titleZh": "内塔尼亚胡拒绝特朗普15点加沙计划不太可能成为最终决定",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡拒绝特朗普15点加沙计划不太可能成为最终决定”。核心要点：据称，特朗普政府对以色列总理拒绝该协议并不在意，认为这是大选前的竞选言论。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 09 Aug 2026 16:18:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 14:43:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西西里岛海岸发现古罗马沉船",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西西里岛海岸发现古罗马沉船”。核心要点：意大利文化部长表示，这是多年来最重要的水下考古发现之一。",
+        "titleZh": "“我们有很多千钧一发的机会”：加拿大山火撤离者想知道他们是否还有家",
+        "summaryZh": "这是一条世界时事新闻，重点围绕““我们有很多千钧一发的机会”：加拿大山火撤离者想知道他们是否还有家”。核心要点：一场野火席卷了加拿大风景如画的奥肯那根地区，超过 12,000 人被迫撤离，一些房屋被毁。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 09 Aug 2026 12:27:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 19:17:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "足球能防人工智能吗？为什么科技投资者想从世界杯中分一杯羹",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“足球能防人工智能吗？为什么科技投资者想从世界杯中分一杯羹”。核心要点：支持现在这个计划的投资者是怎么想的？这样的提议在未来是否不可避免？",
+        "titleZh": "Nvidia 从主要投资者那里获得 5000 亿美元用于开发人工智能基础设施",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Nvidia 从主要投资者那里获得 5000 亿美元用于开发人工智能基础设施”。核心要点：这笔资金将用于开发新的数据中心，以容纳、运行​​和冷却数英里长的堆叠计算机芯片，这些芯片用于处理人工智能数据和操作。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 08 Aug 2026 13:41:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 22:31:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "您可能会错过 150 英镑的能源账单折扣 - 以下是查看方法",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“您可能会错过 150 英镑的能源账单折扣 - 以下是查看方法”。核心要点：有些人需要确保在截止日期之前将自己的名字写在能源账单上，才有资格获得帮助。",
+        "titleZh": "特朗普媒体报道加密货币下跌导致损失 2.38 亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普媒体报道加密货币下跌导致损失 2.38 亿美元”。核心要点：该公司表示，将重新关注社交媒体，其中包括一项出售特朗普帖子更快访问权限的计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 09 Aug 2026 23:47:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 02:21:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "90秒停电如何给铁路通勤者带来混乱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“90秒停电如何给铁路通勤者带来混乱”。核心要点：这一事件引发了人们的疑问：电力供应中断为何会产生如此广泛的影响。",
+        "titleZh": "总理宣布，议会将获得更多权力来阻止电子烟和博彩店",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“总理宣布，议会将获得更多权力来阻止电子烟和博彩店”。核心要点：总理安迪·伯纳姆（Andy Burnham）表示，数十年的衰退导致城镇中心“空洞化”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 16:11:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 21:33:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "古德温考虑出售部分国防业务",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“古德温考虑出售部分国防业务”。核心要点：该公司是英国和美国护卫舰和潜艇项目零部件的主要供应商。",
+        "titleZh": "泰晤士水务公司向财务主管支付了 100 万英镑的签约费",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“泰晤士水务公司向财务主管支付了 100 万英镑的签约费”。核心要点：作为说服史蒂夫·巴克加入这家陷入困境的公用事业公司一揽子计划的一部分，这笔七位数的款项被支付给史蒂夫·巴克。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 15:22:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 14:49:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于夏季持续缓慢，上个月美国就业岗位意外下降",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于夏季持续缓慢，上个月美国就业岗位意外下降”。核心要点：分析师原本预计新增就业岗位数量会增加，但 7 月份岗位数量减少了 23,000 个。",
+        "titleZh": "“订阅陷阱”禁令提前三个月",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““订阅陷阱”禁令提前三个月”。核心要点：首相即将开始英国之行，并宣布了一系列旨在缓解生活成本的公告。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 07 Aug 2026 14:03:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 09:57:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
