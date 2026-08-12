@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-08-11T03:10:50.597Z",
+  "updatedAt": "2026-08-12T03:29:04.661Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Four-dimensional flow MRI demonstrates portal flow redistribution associated with hepatic function after retrograde transvenous obliteration.",
-        "journal": "European journal of radiology",
-        "pubDate": "2026 Oct",
-        "studyType": "Journal Article",
-        "authors": "Hyodo R, Ishizu Y, Horiguchi R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：使用四维血流 MRI 量化逆行经静脉闭塞 (RTO) 后门脉血流重新分布，并评估其与肝功能变化的关系。 临床提示：这项前瞻性研究使用四维血流 MRI 评估了 RTO 之前和一周后的门静脉血流动力学。",
-        "abstract": "To quantify portal flow redistribution after retrograde transvenous obliteration (RTO) using four-dimensional flow MRI and to evaluate its association with hepatic functional changes. This prospective study evaluated portal hemodynamics before RTO and one week afterward using four-dimensional flow MRI. Measurements included hepatic parenchymal flow (HPF), superior mesenteric vein (SMV)- and splenic vein (SV)-derived shunt inflow, and main portal vein wall shear stress (MPV-WSS). Percentage changes in HPF and WSS were calculated. Hepatic function was assessed 2-6 months after RTO. Participants were classified by complete disappearance of SMV- or SV-derived shunt inflow (SMV-0, SV-0). Paired c...",
-        "pmid": "42365739",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42365739/",
-        "doiUrl": "https://doi.org/10.1016/j.ejrad.2026.113044",
-        "url": "https://doi.org/10.1016/j.ejrad.2026.113044"
-      },
-      {
-        "title": "Gastric Variceal Bleed in Pregnancy.",
-        "journal": "Annals of African medicine",
+        "title": "Fish-scale skin changes combined with hematemesis and melena.",
+        "journal": "Gastroenterology",
         "pubDate": "2026 Aug 10",
         "studyType": "Journal Article",
-        "authors": "Ahmed J, Dandi K, Dahale AS",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：胃静脉曲张出血是一种罕见但危及生命的门静脉高压并发症，给妊娠期间的治疗带来重大挑战。 临床提示：我们报告一例 25 岁的初产妇，在妊娠 18 周时出现呕血和黑便。",
-        "abstract": "Gastric variceal bleeding is a rare but life-threatening complication of portal hypertension, posing significant management challenges during pregnancy. We report the case of a 25-year-old primigravida at 18 weeks of gestation who presented with hematemesis and melena. On examination, she was pale and tachycardic, with splenomegaly noted. Laboratory investigations revealed anemia and thrombocytopenia. Doppler ultrasound confirmed the presence of a portal cavernoma and splenomegaly. Upper gastrointestinal endoscopy showed large esophageal varices (EV) and fundal gastric varices (GOV2) with stigmata of recent bleeding, along with portal hypertensive gastropathy. Endoscopic management was carri...",
-        "pmid": "42573576",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42573576/",
-        "doiUrl": "https://doi.org/10.4103/aam.aam_285_26",
-        "url": "https://doi.org/10.4103/aam.aam_285_26"
+        "authors": "Tie J, Zhen W, Shi Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：鱼鳞状皮肤改变并伴有呕血和黑便。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42575325",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42575325/",
+        "doiUrl": "https://doi.org/10.1053/j.gastro.2026.07.032",
+        "url": "https://doi.org/10.1053/j.gastro.2026.07.032"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "哥伦比亚发生多年来最严重地震 至少132人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚发生多年来最严重地震 至少132人死亡”。核心要点：这次7.4级地震的震中位于靠近太平洋海岸的乔科省，但数百公里外的城市也能感受到。",
+        "titleZh": "哥伦比亚地震已造成 180 人死亡，救援人员全力搜寻幸存者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“哥伦比亚地震已造成 180 人死亡，救援人员全力搜寻幸存者”。核心要点：哥伦比亚周二经历了多次余震，人们仍在努力营救被困在瓦砾和建筑物中的幸存者。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 11 Aug 2026 01:59:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 19:09:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "儿童拒绝系安全带 加拿大航班取消",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“儿童拒绝系安全带 加拿大航班取消”。核心要点：该事件引发了关于商用飞机上儿童安全和纪律的争论。",
+        "titleZh": "特朗普戏剧性的飞机交换暗示伊朗战争的个人利害关系",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普戏剧性的飞机交换暗示伊朗战争的个人利害关系”。核心要点：英国广播公司 (BBC) 的安东尼·祖彻 (Anthony Zurcher) 写道，这标志着他与伊朗关系的动荡历史中又一个引人注目的插曲。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 21:06:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 12 Aug 2026 00:14:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰无人机深入俄罗斯境内发动袭击 至少13人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰无人机深入俄罗斯境内发动袭击 至少13人死亡”。核心要点：俄罗斯官员称，此次袭击造成另外 75 人受伤，这是自莫斯科全面入侵以来最致命的乌克兰无人机袭击之一。",
+        "titleZh": "特朗普表示，由于可能存在威胁，他在北约峰会后更换了飞机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，由于可能存在威胁，他在北约峰会后更换了飞机”。核心要点：但总统表示，他乘坐的这架飞机比诱饵空军一号面临“更大的风险”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 14:34:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 12 Aug 2026 02:45:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "内塔尼亚胡拒绝特朗普15点加沙计划不太可能成为最终决定",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“内塔尼亚胡拒绝特朗普15点加沙计划不太可能成为最终决定”。核心要点：据称，特朗普政府对以色列总理拒绝该协议并不在意，认为这是大选前的竞选言论。",
+        "titleZh": "美国称直升机发射导弹使突破伊朗封锁的船只失灵",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国称直升机发射导弹使突破伊朗封锁的船只失灵”。核心要点：美国中央司令部表示，其直升机击中了阿曼湾一艘悬挂巴拿马国旗的货船的发动机舱。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 14:43:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 21:14:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“我们有很多千钧一发的机会”：加拿大山火撤离者想知道他们是否还有家",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““我们有很多千钧一发的机会”：加拿大山火撤离者想知道他们是否还有家”。核心要点：一场野火席卷了加拿大风景如画的奥肯那根地区，超过 12,000 人被迫撤离，一些房屋被毁。",
+        "titleZh": "新西兰总理在大选前第二次领导力挑战中幸存",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“新西兰总理在大选前第二次领导力挑战中幸存”。核心要点：克里斯托弗·卢克森 (Christopher Luxon) 表示，在大选前 12 周进行信任投票后，他“全力支持”自己的政党。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 19:17:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 12 Aug 2026 02:51:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "Nvidia 从主要投资者那里获得 5000 亿美元用于开发人工智能基础设施",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Nvidia 从主要投资者那里获得 5000 亿美元用于开发人工智能基础设施”。核心要点：这笔资金将用于开发新的数据中心，以容纳、运行​​和冷却数英里长的堆叠计算机芯片，这些芯片用于处理人工智能数据和操作。",
+        "titleZh": "第一个“以英镑换电塔”能源账单折扣网站揭晓",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“第一个“以英镑换电塔”能源账单折扣网站揭晓”。核心要点：居住在升级后的铁塔 1600 英尺范围内的家庭每年可节省 250 英镑的电费。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 22:31:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 23:03:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普媒体报道加密货币下跌导致损失 2.38 亿美元",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普媒体报道加密货币下跌导致损失 2.38 亿美元”。核心要点：该公司表示，将重新关注社交媒体，其中包括一项出售特朗普帖子更快访问权限的计划。",
+        "titleZh": "晒黑的花椰菜和多节土豆——热浪时吃的蔬菜",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“晒黑的花椰菜和多节土豆——热浪时吃的蔬菜”。核心要点：由于反复的热浪，英国购物者应该会看到更多不稳定的蔬菜。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 11 Aug 2026 02:21:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 23:00:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "总理宣布，议会将获得更多权力来阻止电子烟和博彩店",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“总理宣布，议会将获得更多权力来阻止电子烟和博彩店”。核心要点：总理安迪·伯纳姆（Andy Burnham）表示，数十年的衰退导致城镇中心“空洞化”。",
+        "titleZh": "“我从 20 多岁开始，赚了 8,000 英镑”：为什么女性往往比男性更适合投资",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我从 20 多岁开始，赚了 8,000 英镑”：为什么女性往往比男性更适合投资”。核心要点：女性可以获得更高的回报，但只有约四分之一的英国女性进行了投资，而男性的这一比例约为 40%。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 21:33:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 10 Aug 2026 23:32:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "泰晤士水务公司向财务主管支付了 100 万英镑的签约费",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“泰晤士水务公司向财务主管支付了 100 万英镑的签约费”。核心要点：作为说服史蒂夫·巴克加入这家陷入困境的公用事业公司一揽子计划的一部分，这笔七位数的款项被支付给史蒂夫·巴克。",
+        "titleZh": "向约翰·派伊拍卖行联合创始人致敬",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“向约翰·派伊拍卖行联合创始人致敬”。核心要点：该公司发表的一份声明称，“约翰过着美好的生活，充满欢笑和努力工作”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 14:49:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 20:22:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“订阅陷阱”禁令提前三个月",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““订阅陷阱”禁令提前三个月”。核心要点：首相即将开始英国之行，并宣布了一系列旨在缓解生活成本的公告。",
+        "titleZh": "AI 代理入侵健身房，让用户参加普拉提课程",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“AI 代理入侵健身房，让用户参加普拉提课程”。核心要点：该事件被视为人工智能工具不遗余力完成任务的最新例子。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 10 Aug 2026 09:57:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 11 Aug 2026 12:09:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
