@@ -1,145 +1,132 @@
 {
-  "updatedAt": "2026-08-13T03:32:46.652Z",
+  "updatedAt": "2026-08-14T03:29:22.657Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Occult hepatitis B: the masked driver of portal hypertension and life-threatening variceal hemorrhage.",
-        "journal": "Annals of medicine and surgery (2012)",
-        "pubDate": "2026 Aug",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Kaphle P, Koirala RK, Upadhyaya M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该患者缺乏乙型肝炎的典型危险因素，并且最初的病毒血清学结果为 HBsAg 和抗 HBc 阴性。 临床提示：隐匿性乙型肝炎感染 (OBI) 的特点是无法检测到乙型肝炎表面抗原 (HBsAg)，但可检测到 HBV DNA，它是导致慢性肝损伤和门脉高压的一个未被充分认识的因素。",
-        "abstract": "Occult hepatitis B infection (OBI), characterized by undetectable hepatitis B surface antigen (HBsAg) but detectable HBV DNA, is an underrecognized contributor to chronic liver injury and portal hypertension. Portal hypertension (PHT) commonly complicates chronic liver disease, often in the setting of cirrhosis, and can lead to life-threatening variceal hemorrhage without typical biochemical or imaging abnormalities. We report a case of a 30-year-old Bangladeshi male with acute upper gastrointestinal bleeding and esophageal varices in the setting of occult HBV infection. The patient lacked classical risk factors for hepatitis B, and initial viral serology was negative for HBsAg and anti-HBc....",
-        "pmid": "42583552",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42583552/",
-        "doiUrl": "https://doi.org/10.1097/MS9.0000000000005295",
-        "url": "https://doi.org/10.1097/MS9.0000000000005295"
-      },
-      {
-        "title": "Efficacy of simvastatin as adjunctive therapy in liver cirrhosis: an updated meta-analysis of randomized controlled trials.",
-        "journal": "Annals of medicine and surgery (2012)",
-        "pubDate": "2026 Aug",
+        "title": "Cardiovascular magnetic resonance reveals stable myocardial tissue characteristics despite cardiac remodelling after transjugular intrahepatic portosystemic shunt in liver cirrhosis.",
+        "journal": "European heart journal. Cardiovascular Imaging",
+        "pubDate": "2026 Aug 13",
         "studyType": "Journal Article",
-        "authors": "Iqbal Khan MF, Afridi Z, Haris Khan M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 966）。核心观点：辛伐他汀对全因死亡率没有统计学上的显着影响，但... 临床提示：辛伐他汀作为肝硬化辅助治疗的临床益处仍不确定，在有关该主题的最大规模试验发表后，先前的合成已过时。",
-        "abstract": "The clinical benefit of simvastatin as an adjunctive treatment in liver cirrhosis remains inconclusive, with prior syntheses becoming outdated after the publication of the largest trial on the topic. This updated meta-analysis aimed to evaluate the therapeutic impact of simvastatin in cirrhotic patients. A systematic search was conducted in PubMed, Embase, Cochrane Library, and ClinicalTrials.gov using MeSH terms related to \"Simvastatin\" and \"Liver Cirrhosis.\" Randomized controlled trials (RCTs) comparing simvastatin to placebo or any other drugs were included. Nine RCTs, including 966 patients, were analyzed. Simvastatin showed no statistically significant effect on all-cause mortality, alt...",
-        "pmid": "42583510",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42583510/",
-        "doiUrl": "https://doi.org/10.1097/MS9.0000000000005302",
-        "url": "https://doi.org/10.1097/MS9.0000000000005302"
+        "authors": "Zange L, Gröschel J, Abdalla H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 20）。核心观点：经颈静脉肝内门体分流术（TIPS）可降低肝硬化患者的门静脉高压，但会急剧增加心脏前负荷。 临床提示：本研究旨在使用心血管磁共振 (CMR) 前瞻性评估 TIPS 后心脏功能、重塑和心肌组织特征的变化。",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) reduces portal hypertension in liver cirrhosis but acutely increases cardiac preload. The present study aimed to prospectively assess changes in cardiac function, remodelling, and myocardial tissue characteristics after TIPS using cardiovascular magnetic resonance (CMR). Of the 45 screened patients with advanced liver cirrhosis, 23 patients [median (IQR) age 65 (56-69) years, 70% male, 87% Child-Pugh class B, MELD score 14 (12-20)] were prospectively included and underwent multiparametric CMR before TIPS implantation (CMR-1), as well as follow-up imaging after 3 (2-4) days (CMR-2, n = 20) and 100 (87-122) days (CMR-3, n = 10). Biventricula...",
+        "pmid": "42592738",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42592738/",
+        "doiUrl": "https://doi.org/10.1093/ehjci/jeag207",
+        "url": "https://doi.org/10.1093/ehjci/jeag207"
       },
       {
-        "title": "Hereditary hemorrhagic telangiectasia in a 72-year-old woman presenting with recurrent epistaxis and liver cirrhosis: a case report.",
-        "journal": "Annals of medicine and surgery (2012)",
-        "pubDate": "2026 Aug",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Jha R, Subedi P, Sinha A",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：遗传性出血性毛细血管扩张症（HHT）是一种罕见的遗传性血管疾病，其特征是皮肤粘膜毛细血管扩张和内脏动静脉畸形（AVM）。 临床提示：真正的肝硬化并不常见，但可能会掩盖诊断，这凸显了早期识别和多学科治疗的必要性。",
-        "abstract": "Hereditary hemorrhagic telangiectasia (HHT) is a rare inherited vascular disorder characterized by mucocutaneous telangiectasias and visceral arteriovenous malformations (AVMs). Although epistaxis often begins in childhood, serious complications, particularly hepatic involvement and, rarely, cirrhosis, manifest later. Hepatic AVMs can cause portal hypertension, high-output cardiac failure, and regenerative liver changes mimicking cirrhosis. True cirrhosis is uncommon but may obscure diagnosis, underscoring the need for early recognition and multidisciplinary management. A 72 year-old woman with lifelong recurrent epistaxis and melena presented with chronic anemia. Examination revealed pallor...",
-        "pmid": "42583367",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42583367/",
-        "doiUrl": "https://doi.org/10.1097/MS9.0000000000005385",
-        "url": "https://doi.org/10.1097/MS9.0000000000005385"
+        "title": "Self-expandable metal stent versus transjugular intrahepatic portosystemic shunt in refractory post-endoscopic variceal ligation ulcer bleeding: a retrospective cohort analysis of efficacy, safety, and quality-of-life outcomes from a tertiary care center in India.",
+        "journal": "Clinical endoscopy",
+        "pubDate": "2026 Aug 13",
+        "studyType": "Journal Article",
+        "authors": "Mehta V, Goyal MK, Gupta YK",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 15）。核心观点：虽然经颈静脉肝内门体分流术（TIPS）是有效的，但其复杂性和肝性脑病的风险限制了其使用。 临床提示：内镜下静脉曲张结扎溃疡出血（PEBU）是一种罕见但危及生命的肝硬化并发症，通常对标准治疗无效。",
+        "abstract": "Post-endoscopic variceal ligation ulcer bleeding (PEBU) is a rare but life-threatening complication in cirrhosis, often refractory to standard therapy. While transjugular intrahepatic portosystemic shunt (TIPS) is effective, its complexity and risk of hepatic encephalopathy limit its use. Self-expandable metal stent (SEMS) offers a minimally invasive alternative, but comparative data are limited. This study evaluated SEMS versus TIPS in refractory PEBU. In this retrospective cohort study, 30 cirrhotic patients with refractory PEBU at a tertiary Indian center were treated with either SEMS (n=15) or TIPS (n=15). The primary endpoint was hemostasis within 72 hours without rebleeding within 5 da...",
+        "pmid": "42592675",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42592675/",
+        "doiUrl": "https://doi.org/10.5946/ce.2025.393",
+        "url": "https://doi.org/10.5946/ce.2025.393"
       },
       {
-        "title": "Clinical applications of 4D flow magnetic resonance imaging in hepatic vascular disorders: practical biomarkers, protocol design, and translational implementation.",
-        "journal": "Quantitative imaging in medicine and surgery",
+        "title": "Age-Stratified Mortality Outcomes Associated with Nonselective Beta-Blocker Use in Patients with Decompensated Cirrhosis.",
+        "journal": "Journal of clinical medicine",
         "pubDate": "2026 Aug 1",
-        "studyType": "Journal Article / Review",
-        "authors": "Liu H, Xu L, Yang J",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：多普勒超声、计算机断层扫描血管造影（CTA）和数字减影血管造影（DSA）在当前临床实践中广泛使用，但每种技术对于全面的血流动力学评估都有明显的局限性，并且重复随访可能难以实施 临床提示：肝血管疾病包括肝硬化门脉高压、布加综合征（BCS）、肝血管畸形和肝移植后的血管并发症。",
-        "abstract": "Hepatic vascular disorders include portal hypertension in cirrhosis, Budd-Chiari syndrome (BCS), hepatic vascular malformations, and vascular complications after liver transplantation. These diseases depend on blood-flow direction, flow redistribution, and pressure transmission, and not only on gross vessel shape. Doppler ultrasound, computed tomography angiography (CTA), and digital subtraction angiography (DSA) are widely used in current clinical practice, but each has distinct limits for full hemodynamic assessment, and repeated follow-up can be difficult to implement effectively in daily clinical work. Four-dimensional flow magnetic resonance imaging (4D flow MRI) is a time-resolved thre...",
-        "pmid": "42582390",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42582390/",
-        "doiUrl": "https://doi.org/10.21037/qims-2026-0699",
-        "url": "https://doi.org/10.21037/qims-2026-0699"
+        "studyType": "Journal Article",
+        "authors": "Nawaz A, Kaur A, Chaar A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：背景/目标：非选择性β受体阻滞剂（NSBB）广泛用于治疗肝硬化门脉高压症，但其在失代偿性肝硬化老年人中的安全性仍不确定。 临床提示：方法：我们利用 TriNetX 研究网络进行了一项回顾性多中心队列研究。",
+        "abstract": "Background/Objectives: Nonselective beta blockers (NSBBs) are widely used in cirrhosis for portal hypertension, but their safety in older adults with decompensated cirrhosis remains uncertain. Methods: We conducted a retrospective multicenter cohort study using the TriNetX Research Network. Adults aged 30-90 years with decompensated cirrhosis were stratified into three groups: 30-60 years, 61-90 years, and a prespecified subgroup of 81-90 years. NSBB exposure (propranolol, nadolol, or carvedilol) within 30 days of decompensation was assessed, and 1:1 propensity score matching was performed within each age group. The primary outcome was 12-month all-cause mortality. Secondary outcomes include...",
+        "pmid": "42590100",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42590100/",
+        "doiUrl": "https://doi.org/10.3390/jcm15155998",
+        "url": "https://doi.org/10.3390/jcm15155998"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "俄罗斯主要粮食出口码头在乌克兰黑海港口袭击中受损",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯主要粮食出口码头在乌克兰黑海港口袭击中受损”。核心要点：由于俄罗斯和乌克兰互相攻击对方的航运设施和港口，两国的粮食出口都在下降。",
+        "titleZh": "巴勒斯坦人被告知离开以色列定居者围困房屋的村庄",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴勒斯坦人被告知离开以色列定居者围困房屋的村庄”。核心要点：库斯拉市长表示，以色列军队一直要求家庭离开自己的房屋，并将一些房屋用作营房。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 13 Aug 2026 03:28:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 20:12:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列定居者围攻约旦河西岸村庄的巴勒斯坦家庭",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列定居者围攻约旦河西岸村庄的巴勒斯坦家庭”。核心要点：据报道，以色列安全部队已经撤出，大约十几名定居者据说仍留在自周日以来两个家庭被围困的地方。",
+        "titleZh": "美国称数十个国家帮助中国规避特朗普关税",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“美国称数十个国家帮助中国规避特朗普关税”。核心要点：美国的一份新报告称，中国已通过关税较低的国家运送货物，以躲避更高的关税。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 16:14:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 14 Aug 2026 03:09:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "世卫组织总干事称埃博拉疫情可能是有史以来最致命的",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“世卫组织总干事称埃博拉疫情可能是有史以来最致命的”。核心要点：5 月 15 日宣布爆发疫情，已造成 2,000 多人死亡，另有数千人报告病例。",
+        "titleZh": "高温导致多瑙河水位大幅下降，罗马尼亚仅关闭核电站",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“高温导致多瑙河水位大幅下降，罗马尼亚仅关闭核电站”。核心要点：切尔纳沃德发电厂生产罗马尼亚 20% 的电力，预计不会在未来 10 天内重新启动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 13 Aug 2026 01:31:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 19:46:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国死刑加重，三名男子将在同一天被处决",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国死刑加重，三名男子将在同一天被处决”。核心要点：尽管反对死刑的呼声越来越高，但死刑人数不断上升的背后却有一个州。",
+        "titleZh": "报道称，瑞安航空发动机部件砸碎窗户，男子头被吸出",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“报道称，瑞安航空发动机部件砸碎窗户，男子头被吸出”。核心要点：美国调查人员的一份初步报告称，上个月从希腊飞往德国的航班上，一个发动机风扇叶片断裂。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 20:52:20 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 21:43:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "为什么日本会卖“人体冰箱”？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“为什么日本会卖“人体冰箱”？”。核心要点：日本正经历酷暑，BBC 驻东京记者森久美尝试了一种新的降温方法。",
+        "titleZh": "使用雾号唤醒熟睡的北极熊后被罚款的人",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“使用雾号唤醒熟睡的北极熊后被罚款的人”。核心要点：根据该地区的当地法规，“禁止不必要地打扰、吸引或追逐北极熊”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 22:07:47 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 15:30:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "特朗普就Truth Social 10万美元的抢先体验服务提起诉讼",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普就Truth Social 10万美元的抢先体验服务提起诉讼”。核心要点：该诉讼对“真相社会”计划出售早期访问特朗普影响市场的帖子的计划提出了挑战。",
+        "titleZh": "我获得了 89 英镑的退款 – 如何取消和避免不需要的订阅",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我获得了 89 英镑的退款 – 如何取消和避免不需要的订阅”。核心要点：在总理宣布打击订阅陷阱后，读者分享了他们如何进入和退出不受欢迎的计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 17:48:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 23:03:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Discord 被勒令暂停在巴西的直播",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Discord 被勒令暂停在巴西的直播”。核心要点：Discord 告诉 BBC，它正在“认真审查”巴西数据保护机构的命令，并且“致力于用户安全”",
+        "titleZh": "“我一个月内损失了 14,000 美元”：投资者受到韩国股市剧烈波动的打击",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““我一个月内损失了 14,000 美元”：投资者受到韩国股市剧烈波动的打击”。核心要点：韩国股市大幅调整后，一些交易员遭受了严重损失。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 17:10:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 22:00:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "伯纳姆警告伊朗战争可能会影响明年英国经济增长",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“伯纳姆警告伊朗战争可能会影响明年英国经济增长”。核心要点：中东冲突推高了石油和燃料价格，也扰乱了供应链。",
+        "titleZh": "在公司允许额外资金后，许多人的水费将上涨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“在公司允许额外资金后，许多人的水费将上涨”。核心要点：Ofwat 已临时批准 13 家水务公司向客户收取更高费用以支付投资费用。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 14:17:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 13:38:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Twitch 因亚马逊在用户直播中训练人工智能而面临强烈反对",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Twitch 因亚马逊在用户直播中训练人工智能而面临强烈反对”。核心要点：Twitch 的高管表示，用户可以选择退出人工智能培训，这已成为行业的普遍做法。",
+        "titleZh": "Harvey Nichols 被 Sports Direct 所有者收购",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“Harvey Nichols 被 Sports Direct 所有者收购”。核心要点：这家因情景喜剧《绝对精彩》而闻名的百货公司警告称将停止营业。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 13 Aug 2026 02:46:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 14:27:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着食品和燃料成本降温，美国通胀有所缓解",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着食品和燃料成本降温，美国通胀有所缓解”。核心要点：7 月份美国年度通胀率降至 3.4%，食品成本放缓，住房价格小幅上涨。",
+        "titleZh": "羊群老板承认监控公司花了太长时间才对警察滥用职权采取行动",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“羊群老板承认监控公司花了太长时间才对警察滥用职权采取行动”。核心要点：美国警察因使用车牌读取摄像头追踪恋人而辞职。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 12 Aug 2026 17:03:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 13 Aug 2026 13:02:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
