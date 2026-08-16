@@ -1,116 +1,64 @@
 {
-  "updatedAt": "2026-08-15T02:18:46.276Z",
+  "updatedAt": "2026-08-16T02:34:33.482Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Use of a recanalized umbilical vein to embolize bleeding varices: A case report.",
-        "journal": "Radiology case reports",
-        "pubDate": "2026 Oct",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Sarhan A, Cucchiara J, Biswal R",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：本病例报告详细介绍了一名 60 多岁失代偿性肝硬化女性危及生命的胃静脉曲张出血的成功治疗。 临床提示：患者出现吐血和失血性休克。",
-        "abstract": "This case report details the successful management of life-threatening gastric variceal bleeding in a female in her 60s with decompensated liver cirrhosis. The patient presented with hematemesis and hemorrhagic shock. After initial resuscitation, an esophagogastroduodenoscopy identified large gastric varices with signs of recent bleeding. A conventional transfemoral endovascular attempt to embolize the varix failed due to tortuous venous anatomy. Given the failure, an alternative approach was utilized by accessing a patent, recanalized umbilical vein. Under ultrasound guidance, this percutaneous transumbilical route provided direct access to the portal venous system. A catheter was successfu...",
-        "pmid": "42598604",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42598604/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.07.072",
-        "url": "https://doi.org/10.1016/j.radcr.2026.07.072"
-      },
-      {
-        "title": "On the History of Hepatic Vein Catheterization.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article / Historical Article / Review",
-        "authors": "Henriksen JH, Bendtsen F, Møller S",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：80 年前，继右侧心导管插入术之后，首次对男性进行了肝静脉导管插入术 (HVC)。 临床提示：随后出现了几种新的方法、认识和概念，特别是用于测定内脏血流量的间接菲克法。",
-        "abstract": "Hepatic vein catheterization (HVC) in man was first performed 80 years ago in the wake of right-sided heart catheterization. Several new methods, recognitions and concepts followed, especially the indirect Fick-method for determination of splanchnic blood flow. Five years passed before pressure measurements were performed and routine HVCs were done in liver patients. Later came splanchnic kinetics of test substances, dyes, metabolites, hormones and bioactive material and counter current wedged and balloon occlusion pressure. HVC has been a prerequisite for our understanding of the pathogenesis of portal hypertension and variceal bleeding leading to serial measurements, stratification, quanti...",
-        "pmid": "42599960",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42599960/",
-        "doiUrl": "https://doi.org/10.1111/liv.70827",
-        "url": "https://doi.org/10.1111/liv.70827"
-      },
-      {
-        "title": "Refractory Esophageal Varices Requiring Transjugular Intrahepatic Portosystemic Shunt Placement in Oxaliplatin-Induced Portosinusoidal Vascular Disorder.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Aug",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Vu J, Aggarwal A, Morshedi M",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：我们报告了一个罕见的奥沙利铂相关 PSVD 病例，表现为食管静脉曲张难以套扎，最终需要经颈静脉肝内门体分流术放置静脉曲张栓塞。 临床提示：结直肠癌是美国癌症相关死亡的主要原因。",
-        "abstract": "Colorectal carcinoma is a leading cause of cancer-related mortality in the United States. Capecitabine and oxaliplatin, a standard first-line chemotherapy regimen contains oxaliplatin, which rarely causes sinusoidal injury leading to portosinusoidal vascular disorder (PSVD). We report a rare case of oxaliplatin-associated PSVD presenting with esophageal varices refractory to banding, ultimately requiring transjugular intrahepatic portosystemic shunt placement with variceal embolization. With few similar cases reported in the literature and in the absence of guidelines on managing refractory esophageal varices in PSVD, this case demonstrates a successful outcome with transjugular intrahepatic...",
-        "pmid": "42598378",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42598378/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002280",
-        "url": "https://doi.org/10.14309/crj.0000000000002280"
-      },
-      {
-        "title": "Beyond consensus: Identifying divergences in the care of children with portal hypertension.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
-        "pubDate": "2026 Aug 13",
-        "studyType": "Journal Article",
-        "authors": "Mercadal-Hally M, Ilhardt T, Ackermann O",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：正如欧洲儿科胃肠病学、肝病学和营养学会之前所报告的那样，门脉高压 (PHT) 对儿童构成了重大的临床挑战，不同医疗中心的管理方法差异很大。 临床提示：正如欧洲儿科胃病学会之前报告的那样，门脉高压 (PHT) 对儿童构成了重大的临床挑战，不同医疗中心的管理方法差异很大",
-        "abstract": "Portal hypertension (PHT) poses a significant clinical challenge in children, with management approaches varying widely across different medical centres, as previously reported by the European Society for Paediatric Gastroenterology, Hepatology and Nutrition Portal Hypertension Special Interest Group (PHT-SIG). This brief communication reviews the results of a follow-up questionnaire-based study carried out by the PHT-SIG to explore further management issues not covered in the initial survey. While most clinicians concur on key definitions and regularly use oesophagogastroduodenoscopy for both primary and secondary prophylaxis, notable differences remain in the application of non-selective b...",
-        "pmid": "42596615",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42596615/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70530",
-        "url": "https://doi.org/10.1002/jpn3.70530"
-      },
-      {
-        "title": "AI-assisted ascites volumetry for prognostic stratification in HCC treated with Atezolizumab/Bevacizumab.",
-        "journal": "Cancer imaging : the official publication of the International Cancer Imaging Society",
-        "pubDate": "2026 Aug 11",
-        "studyType": "Journal Article",
-        "authors": "Moos M, Bender D, Foerster F",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 90）。核心观点：腹水一直与预后受损相关。 临床提示：已知门脉高压相关参数对肝细胞癌 (HCC) 患者具有重要的预后意义。",
-        "abstract": "Portal hypertension-related parameters are known to have important prognostic implications in patients with hepatocellular carcinoma (HCC). Ascites has consistently been associated with impaired outcomes. However, the prognostic relevance of quantified ascites volume in patients undergoing Atezolizumab/Bevacizumab remains unclear. 90 patients with HCC treated with Atezolizumab/Bevacizumab between 2020 and 2024 were retrospectively included. Ascites was assessed on baseline contrast-enhanced CT imaging using AI-based pre-segmentation followed by manual correction to quantify ascites volume. Overall survival (OS) was analyzed using Kaplan-Meier analysis and Cox regression. Ascites volume was a...",
-        "pmid": "42596020",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42596020/",
-        "doiUrl": "https://doi.org/10.1186/s40644-026-01105-w",
-        "url": "https://doi.org/10.1186/s40644-026-01105-w"
+        "title": "Recent Development of Endo-hepatology.",
+        "journal": "DEN open",
+        "pubDate": "2027 Apr",
+        "studyType": "Journal Article / Review",
+        "authors": "Yamamiya A, Irisawa A, Inaba Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝内病学是一个快速发展的领域，涵盖肝胆疾病的内镜诊断和治疗，主要使用内镜超声 (EUS)。 临床提示：自 2012 年概念化以来，随着介入性 EUS 的进步，该领域得到了显着扩展。",
+        "abstract": "Endo-hepatology is a rapidly evolving field encompassing endoscopic diagnosis and treatment of hepatobiliary diseases, primarily using endoscopic ultrasound (EUS). Since its conceptualization in 2012, the field has expanded dramatically alongside advances in interventional EUS. A landmark 2024 review broadened the concept to include endoscopic management of hepatobiliary diseases using interventional EUS/endoscopic retrograde cholangiopancreatography and advanced imaging technologies. In portal hypertension (PH), diagnostic applications include EUS-based variceal hemodynamic assessment, EUS-guided shear wave elastography, EUS-guided porto-systemic pressure gradient measurement (EUS-PPGM), EU...",
+        "pmid": "42602295",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42602295/",
+        "doiUrl": "https://doi.org/10.1002/deo2.70404",
+        "url": "https://doi.org/10.1002/deo2.70404"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "曼吉奥内承认杀害医疗保健首席执行官并对联邦指控认罪",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“曼吉奥内承认杀害医疗保健首席执行官并对联邦指控认罪”。核心要点：“我在曼哈顿枪杀了汤普森先生，他死了，”这位 28 岁的男子在承认跟踪导致死亡的指控后说道。",
+        "titleZh": "救援人员搜寻印度尼西亚强烈地震的幸存者",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“救援人员搜寻印度尼西亚强烈地震的幸存者”。核心要点：官员们表示，正在对地震造成的影响进行快速评估，这场地震摧毁了数百座建筑物并造成 47 人死亡。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 19:20:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 15 Aug 2026 21:49:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "阿富汗妇女告诉 BBC，塔利班统治五年后她们的生活变得面目全非",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“阿富汗妇女告诉 BBC，塔利班统治五年后她们的生活变得面目全非”。核心要点：全国各地的妇女都谈到了公开鞭打、失去工作以及危及生命的医疗保健障碍。",
+        "titleZh": "报道称，摩洛哥拘留了数十名试图进入休达的移民",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“报道称，摩洛哥拘留了数十名试图进入休达的移民”。核心要点：由于社交媒体上建议周六进行第二次大规模穿越，安全措施得到加强。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 18:25:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 15 Aug 2026 20:58:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "在林肯号航空母舰报告出现问题后，美国航空母舰正在前往救援的途中",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“在林肯号航空母舰报告出现问题后，美国航空母舰正在前往救援的途中”。核心要点：据报道，林肯号上的数千名水手面临食物短缺和管道破损的问题，其中一些人考虑跳海。",
+        "titleZh": "当局称，以色列对黎巴嫩南部的袭击造成 11 人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“当局称，以色列对黎巴嫩南部的袭击造成 11 人死亡”。核心要点：以色列军方表示，它袭击了“真主党的恐怖基础设施”，以回应之前针对其士兵的行动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 17:36:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 15 Aug 2026 20:21:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "Instagram 账户通过付费建议帮助穿越，加剧了休达危机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“Instagram 账户通过付费建议帮助穿越，加剧了休达危机”。核心要点：BBC 的热门评论播客发现了一个 Instagram 个人资料网络，对围绕摩洛哥-休达边境围栏的游泳进行美化。",
+        "titleZh": "列支敦士登改变继承规则允许女性登上王位",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“列支敦士登改变继承规则允许女性登上王位”。核心要点：该声明是在这个人口仅有 44,000 的中欧国家的国庆日发表的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 12:19:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 15 Aug 2026 19:41:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "活动人士试图向被以色列定居者围困的巴勒斯坦人提供援助",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“活动人士试图向被以色列定居者围困的巴勒斯坦人提供援助”。核心要点：两个家庭被困在被占领的约旦河西岸的家中已经好几天了。",
+        "titleZh": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卡塔尔否认在击落战斗机后抓获三名伊朗飞行员”。核心要点：伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们就一直被扣押。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 17:03:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 15 Aug 2026 21:03:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
@@ -123,11 +71,19 @@
         "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "因山火风险临时禁止销售一次性烧烤炉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“因山火风险临时禁止销售一次性烧烤炉”。核心要点：政府警告说，在当前的干旱和热浪条件下，一次性烤架对公众构成“重大风险”。",
+        "titleZh": "我在一款热门新游戏中当了两年首相 - 然后我的内阁抛弃了我",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我在一款热门新游戏中当了两年首相 - 然后我的内阁抛弃了我”。核心要点：手游第 10 名：Full Confidence 最近在英国 App Store 付费游戏排行榜上排名高于 Minecraft",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 19:17:16 GMT",
+        "publishedAt": "Sat, 15 Aug 2026 23:45:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "由于军队部署帮助扑灭野火，暂时禁止使用一次性烧烤炉",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于军队部署帮助扑灭野火，暂时禁止使用一次性烧烤炉”。核心要点：政府警告说，在当前的干旱和热浪条件下，一次性烤架对公众构成“重大风险”。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 15 Aug 2026 03:58:31 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -145,14 +101,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 14 Aug 2026 07:45:51 GMT",
         "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国称数十个国家帮助中国规避特朗普关税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国称数十个国家帮助中国规避特朗普关税”。核心要点：美国的一份新报告称，中国已通过关税较低的国家运送货物，以躲避更高的关税。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 08:39:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
