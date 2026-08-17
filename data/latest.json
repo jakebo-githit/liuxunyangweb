@@ -1,74 +1,90 @@
 {
-  "updatedAt": "2026-08-16T02:34:33.482Z",
+  "updatedAt": "2026-08-17T02:33:35.834Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Recent Development of Endo-hepatology.",
-        "journal": "DEN open",
-        "pubDate": "2027 Apr",
+        "title": "Splenic Steatopathy: A Clinical and Experimental Framework for Lipid-Associated Splenic Pathology.",
+        "journal": "Clinical and experimental gastroenterology",
+        "pubDate": "2026",
         "studyType": "Journal Article / Review",
-        "authors": "Yamamiya A, Irisawa A, Inaba Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：肝内病学是一个快速发展的领域，涵盖肝胆疾病的内镜诊断和治疗，主要使用内镜超声 (EUS)。 临床提示：自 2012 年概念化以来，随着介入性 EUS 的进步，该领域得到了显着扩展。",
-        "abstract": "Endo-hepatology is a rapidly evolving field encompassing endoscopic diagnosis and treatment of hepatobiliary diseases, primarily using endoscopic ultrasound (EUS). Since its conceptualization in 2012, the field has expanded dramatically alongside advances in interventional EUS. A landmark 2024 review broadened the concept to include endoscopic management of hepatobiliary diseases using interventional EUS/endoscopic retrograde cholangiopancreatography and advanced imaging technologies. In portal hypertension (PH), diagnostic applications include EUS-based variceal hemodynamic assessment, EUS-guided shear wave elastography, EUS-guided porto-systemic pressure gradient measurement (EUS-PPGM), EU...",
-        "pmid": "42602295",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42602295/",
-        "doiUrl": "https://doi.org/10.1002/deo2.70404",
-        "url": "https://doi.org/10.1002/deo2.70404"
+        "authors": "Shelat VG",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：脾脏通常被视为血液、血管和免疫器官，但很少被视为脂质相关疾病。 临床提示：上游驱动因素包括代谢功能障碍相关的脂肪肝病、肥胖、严重高甘油三酯血症、溶酶体贮积症、药物诱导的磷脂沉积、淋巴脂质处理改变和脂肪肝",
+        "abstract": "The spleen is usually viewed as a hematologic, vascular and immune organ, but rarely within lipid-associated disease. This review proposes splenic steatopathy as a provisional clinical and experimental framework rather than an established diagnosis or a splenic equivalent of fatty liver disease. Evidence is organized into pre-splenic drivers, intra-splenic pathology and post-splenic consequences. Upstream drivers include metabolic dysfunction-associated steatotic liver disease, obesity, severe hypertriglyceridemia, lysosomal storage disorders, drug-induced phospholipidosis, altered lymphatic lipid handling and portal-hemodynamic stress. Spleen-level findings include altered volume, attenuati...",
+        "pmid": "42604178",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42604178/",
+        "doiUrl": "https://doi.org/10.2147/CEG.S628370",
+        "url": "https://doi.org/10.2147/CEG.S628370"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "救援人员搜寻印度尼西亚强烈地震的幸存者",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“救援人员搜寻印度尼西亚强烈地震的幸存者”。核心要点：官员们表示，正在对地震造成的影响进行快速评估，这场地震摧毁了数百座建筑物并造成 47 人死亡。",
+        "titleZh": "特朗普表示，在韩国退出伊朗战争后，美国将缩减与韩国的军事演习",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，在韩国退出伊朗战争后，美国将缩减与韩国的军事演习”。核心要点：特朗普决定缩小演习规模，称其与朝鲜领导人“关系非常好”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 21:49:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 00:06:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "报道称，摩洛哥拘留了数十名试图进入休达的移民",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“报道称，摩洛哥拘留了数十名试图进入休达的移民”。核心要点：由于社交媒体上建议周六进行第二次大规模穿越，安全措施得到加强。",
+        "titleZh": "特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划”。核心要点：这次罕见的会议是在以色列拒绝唐纳德·特朗普的加沙和平计划一周后举行的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 20:58:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 16 Aug 2026 19:58:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "当局称，以色列对黎巴嫩南部的袭击造成 11 人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“当局称，以色列对黎巴嫩南部的袭击造成 11 人死亡”。核心要点：以色列军方表示，它袭击了“真主党的恐怖基础设施”，以回应之前针对其士兵的行动。",
+        "titleZh": "俄罗斯称乌克兰 2026 年最大规模袭击事件至少造成 7 人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯称乌克兰 2026 年最大规模袭击事件至少造成 7 人死亡”。核心要点：莫斯科还连夜对乌克兰发动致命袭击，引发首都基辅大火。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 20:21:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 16 Aug 2026 19:03:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "列支敦士登改变继承规则允许女性登上王位",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“列支敦士登改变继承规则允许女性登上王位”。核心要点：该声明是在这个人口仅有 44,000 的中欧国家的国庆日发表的。",
+        "titleZh": "希腊岛屿发生两起火灾，造成两人死亡，数百人疏散",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“希腊岛屿发生两起火灾，造成两人死亡，数百人疏散”。核心要点：大约 200 名消防员努力阻止火势向萨拉米纳蔓延，其中一处火势现已得到控制。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 19:41:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 16 Aug 2026 19:50:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卡塔尔否认在击落战斗机后抓获三名伊朗飞行员",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卡塔尔否认在击落战斗机后抓获三名伊朗飞行员”。核心要点：伊朗声称，自从卡塔尔在美伊战争开始时击落两架战斗机以来，他们就一直被扣押。",
+        "titleZh": "意大利博物馆四幅“非凡”文艺复兴画作被盗",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“意大利博物馆四幅“非凡”文艺复兴画作被盗”。核心要点：这些作品是在没有触发警报的情况下连夜拍摄的，引发了对专业打击的怀疑。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 21:03:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 16 Aug 2026 13:34:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "迫于汽车制造商的压力，电动汽车销售目标可能会下调",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“迫于汽车制造商的压力，电动汽车销售目标可能会下调”。核心要点：政府表示，正在考虑到 2030 年将新电动汽车销量目标从 80% 削减至 50%。",
+        "titleZh": "法拉利首款电动汽车在拍卖会上以创纪录的 4000 万美元成交",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法拉利首款电动汽车在拍卖会上以创纪录的 4000 万美元成交”。核心要点：Luce 的推出引起了一些评论家的强烈反对，他们表示这打破了该品牌标志性的戏剧风格。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 15:58:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 02:22:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "如果 Meta 输掉这次审判，Instagram 和 Facebook 可能会永远改变",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“如果 Meta 输掉这次审判，Instagram 和 Facebook 可能会永远改变”。核心要点：美国三十个州起诉 Meta，强制其针对年轻用户的平台进行彻底改革。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 16 Aug 2026 23:27:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "新规定将酒吧改造成住宅变得更加困难",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“新规定将酒吧改造成住宅变得更加困难”。核心要点：这些规则将于周一与规划政策的其他变化一起生效。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 16 Aug 2026 15:04:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "我在一款热门新游戏中当了两年首相 - 然后我的内阁抛弃了我",
@@ -85,22 +101,6 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 15 Aug 2026 03:58:31 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "赛琳娜·戈麦斯因心理健康公司欺诈被起诉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“赛琳娜·戈麦斯因心理健康公司欺诈被起诉”。核心要点：投资者表示，这位演员兼歌手并没有按照承诺在公司中发挥“积极作用”。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 11:32:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "我获得了 89 英镑的退款 – 如何取消和避免不需要的订阅",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我获得了 89 英镑的退款 – 如何取消和避免不需要的订阅”。核心要点：在总理宣布打击订阅陷阱后，读者分享了他们如何进入和退出不受欢迎的计划。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 14 Aug 2026 07:45:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
