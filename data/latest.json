@@ -1,106 +1,92 @@
 {
-  "updatedAt": "2026-08-17T02:33:35.834Z",
+  "updatedAt": "2026-08-18T02:20:30.057Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Splenic Steatopathy: A Clinical and Experimental Framework for Lipid-Associated Splenic Pathology.",
-        "journal": "Clinical and experimental gastroenterology",
-        "pubDate": "2026",
-        "studyType": "Journal Article / Review",
-        "authors": "Shelat VG",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：脾脏通常被视为血液、血管和免疫器官，但很少被视为脂质相关疾病。 临床提示：上游驱动因素包括代谢功能障碍相关的脂肪肝病、肥胖、严重高甘油三酯血症、溶酶体贮积症、药物诱导的磷脂沉积、淋巴脂质处理改变和脂肪肝",
-        "abstract": "The spleen is usually viewed as a hematologic, vascular and immune organ, but rarely within lipid-associated disease. This review proposes splenic steatopathy as a provisional clinical and experimental framework rather than an established diagnosis or a splenic equivalent of fatty liver disease. Evidence is organized into pre-splenic drivers, intra-splenic pathology and post-splenic consequences. Upstream drivers include metabolic dysfunction-associated steatotic liver disease, obesity, severe hypertriglyceridemia, lysosomal storage disorders, drug-induced phospholipidosis, altered lymphatic lipid handling and portal-hemodynamic stress. Spleen-level findings include altered volume, attenuati...",
-        "pmid": "42604178",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42604178/",
-        "doiUrl": "https://doi.org/10.2147/CEG.S628370",
-        "url": "https://doi.org/10.2147/CEG.S628370"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普表示，在韩国退出伊朗战争后，美国将缩减与韩国的军事演习",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普表示，在韩国退出伊朗战争后，美国将缩减与韩国的军事演习”。核心要点：特朗普决定缩小演习规模，称其与朝鲜领导人“关系非常好”。",
+        "titleZh": "特朗普威胁称，如果美国盟友阿曼“妨碍”伊朗协议，将对其进行轰炸",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁称，如果美国盟友阿曼“妨碍”伊朗协议，将对其进行轰炸”。核心要点：特朗普对阿曼发出威胁之际，阿曼一直在与伊朗就重新开放霍尔木兹海峡举行会谈，而此时和平谈判的 60 天窗口即将到期。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 00:06:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 19:25:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划”。核心要点：这次罕见的会议是在以色列拒绝唐纳德·特朗普的加沙和平计划一周后举行的。",
+        "titleZh": "图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了””。核心要点：一名警官作证说，图帕克·沙库尔被多次枪击后，拒绝与警方合作，并告诉一名警官，“我们会处理这件事”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 16 Aug 2026 19:58:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 02:06:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯称乌克兰 2026 年最大规模袭击事件至少造成 7 人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯称乌克兰 2026 年最大规模袭击事件至少造成 7 人死亡”。核心要点：莫斯科还连夜对乌克兰发动致命袭击，引发首都基辅大火。",
+        "titleZh": "俄罗斯警告英国不要向乌克兰供应无人机",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯警告英国不要向乌克兰供应无人机”。核心要点：英国国防部发言人回应称，英国与乌克兰“肩并肩”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 16 Aug 2026 19:03:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 01:16:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "希腊岛屿发生两起火灾，造成两人死亡，数百人疏散",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“希腊岛屿发生两起火灾，造成两人死亡，数百人疏散”。核心要点：大约 200 名消防员努力阻止火势向萨拉米纳蔓延，其中一处火势现已得到控制。",
+        "titleZh": "BBC 详细分析了特朗普在朝鲜和韩国问题上的最新转变",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC 详细分析了特朗普在朝鲜和韩国问题上的最新转变”。核心要点：特朗普表示，美国将“大幅减少”与韩国的联合军演，并称他与金正恩的“关系非常好”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 16 Aug 2026 19:50:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 23:42:38 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "意大利博物馆四幅“非凡”文艺复兴画作被盗",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“意大利博物馆四幅“非凡”文艺复兴画作被盗”。核心要点：这些作品是在没有触发警报的情况下连夜拍摄的，引发了对专业打击的怀疑。",
+        "titleZh": "挪威国王入院并请病假",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“挪威国王入院并请病假”。核心要点：这位 89 岁的国王是欧洲在位时间最长的君主之一，他患有一种罕见的血液病。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 16 Aug 2026 13:34:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 21:34:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "法拉利首款电动汽车在拍卖会上以创纪录的 4000 万美元成交",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法拉利首款电动汽车在拍卖会上以创纪录的 4000 万美元成交”。核心要点：Luce 的推出引起了一些评论家的强烈反对，他们表示这打破了该品牌标志性的戏剧风格。",
+        "titleZh": "开玩笑还是不开玩笑？：如何写一篇好的外出信息",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“开玩笑还是不开玩笑？：如何写一篇好的外出信息”。核心要点：当假期高峰来临之际，BBC 探讨了撰写良好的外出信息的注意事项。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 02:22:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 23:00:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "如果 Meta 输掉这次审判，Instagram 和 Facebook 可能会永远改变",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“如果 Meta 输掉这次审判，Instagram 和 Facebook 可能会永远改变”。核心要点：美国三十个州起诉 Meta，强制其针对年轻用户的平台进行彻底改革。",
+        "titleZh": "随着新关税截止日期的临近，美加贸易谈判“激烈”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着新关税截止日期的临近，美加贸易谈判“激烈””。核心要点：随着谈判代表争相达成协议以避免特朗普最新的关税，马克·卡尼将需要向加拿大人推销对美国做出的任何让步。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 16 Aug 2026 23:27:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 00:02:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "新规定将酒吧改造成住宅变得更加困难",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“新规定将酒吧改造成住宅变得更加困难”。核心要点：这些规则将于周一与规划政策的其他变化一起生效。",
+        "titleZh": "维珍集团迈出了经营英吉利海峡隧道铁路服务的一步",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“维珍集团迈出了经营英吉利海峡隧道铁路服务的一步”。核心要点：公司希望每天运营多达 20 趟前往欧洲的航班，但还必须获得海外线路的额外批准。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 16 Aug 2026 15:04:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 12:46:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我在一款热门新游戏中当了两年首相 - 然后我的内阁抛弃了我",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我在一款热门新游戏中当了两年首相 - 然后我的内阁抛弃了我”。核心要点：手游第 10 名：Full Confidence 最近在英国 App Store 付费游戏排行榜上排名高于 Minecraft",
+        "titleZh": "国际足联官员因凡蒂诺计划遭到批评后被解雇",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“国际足联官员因凡蒂诺计划遭到批评后被解雇”。核心要点：国际足联高级人物凯文·拉穆尔在批评世界足球管理机构主席詹尼·因凡蒂诺三周后被解雇。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 23:45:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 20:46:08 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于军队部署帮助扑灭野火，暂时禁止使用一次性烧烤炉",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于军队部署帮助扑灭野火，暂时禁止使用一次性烧烤炉”。核心要点：政府警告说，在当前的干旱和热浪条件下，一次性烤架对公众构成“重大风险”。",
+        "titleZh": "电影委员会支持亚马逊米高梅扩建工作室",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“电影委员会支持亚马逊米高梅扩建工作室”。核心要点：伯克希尔电影制片厂以前是标志性恐怖片工作室 Hammer Films 的所在地。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 15 Aug 2026 03:58:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 17 Aug 2026 18:03:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
