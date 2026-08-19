@@ -1,92 +1,158 @@
 {
-  "updatedAt": "2026-08-18T02:20:30.057Z",
+  "updatedAt": "2026-08-19T02:31:15.910Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Liver-associated findings and outcomes in a telomere biology disorders clinic.",
+        "journal": "Hepatology communications",
+        "pubDate": "2026 Sep 1",
+        "studyType": "Journal Article",
+        "authors": "Nguyen KM, Ongie L, Xu P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：端粒是线性染色体末端的重复序列，用于保存遗传信息。 临床提示：患有端粒生物学疾病（TBD）的患者会出现多器官表现，其中包括肝脏。",
+        "abstract": "Telomeres are repetitive sequences at the end of linear chromosomes that preserve genetic information. Patients with telomere biology disorders (TBDs) are subject to multiorgan manifestations, which include the liver. However, due to the rare nature of the disorder, these manifestations are not fully characterized. Here, we describe the hepatic manifestations of patients with TBD at a large tertiary center within a specialized TBD clinic; 121 consecutive patients with TBD seen from 2017 to 2024 were included. The median age of the TBD diagnosis was 43 years old, with 60% male. The most common pathogenic/likely pathogenic variant was TERT (25%), followed by RTEL1 (10%) and TERC (7%). Evidence...",
+        "pmid": "42612102",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42612102/",
+        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001021",
+        "url": "https://doi.org/10.1097/HC9.0000000000001021"
+      },
+      {
+        "title": "International survey on the management of portal hypertension.",
+        "journal": "Hepatology communications",
+        "pubDate": "2026 Sep 1",
+        "studyType": "Journal Article",
+        "authors": "Bashiri K, Rabiee A, Northup P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：门静脉高压治疗国际调查。",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42612099",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42612099/",
+        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001035",
+        "url": "https://doi.org/10.1097/HC9.0000000000001035"
+      },
+      {
+        "title": "Left hepatectomy for chronic biopsy-induced intrahepatic arterioportal fistula with aneurysmal degeneration.",
+        "journal": "Annals of hepato-biliary-pancreatic surgery",
+        "pubDate": "2026 Aug 31",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Florou E, Pizanias M, Kane P",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：虽然大多数活检引起的分流是无症状的并且可以自行解决，但持续的高流量病变可能导致进行性血管重塑，从而带来重大的管理挑战。 临床提示：动脉门静脉瘘（APF）是经皮肝活检的罕见并发症。",
+        "abstract": "Arterioportal fistula (APF) is a rare complication of percutaneous liver biopsy. While most biopsy-induced shunts are asymptomatic and resolve on their own, persistent high-flow lesions can lead to progressive vascular remodeling, creating significant management challenges. A 49-year-old woman presented 17 years after undergoing a percutaneous liver biopsy, complaining of a pulsatile epigastric mass. Computed tomography revealed a large aneurysmal intrahepatic APF involving the middle hepatic artery and left portal vein. Due to the complexity of the anatomy and concerns about portal perfusion, endovascular embolization was not pursued. Instead, the patient underwent a formal left hepatectomy...",
+        "pmid": "42046234",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42046234/",
+        "doiUrl": "https://doi.org/10.14701/ahbps.26-061",
+        "url": "https://doi.org/10.14701/ahbps.26-061"
+      },
+      {
+        "title": "Clinical outcomes of minimally invasive liver resection in patients with cirrhosis: A systematic review and meta-analysis.",
+        "journal": "Annals of hepato-biliary-pancreatic surgery",
+        "pubDate": "2026 Aug 18",
+        "studyType": "Journal Article",
+        "authors": "Al Darwashi LM, Ghani A, Froneman E",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 892）。核心观点：肝硬化与较高的术中输血率（比值比 [OR] = 1.55；95% 置信区间 [CI] 1.17-2.05）、中转剖腹手术（OR = 1.24；95% CI 1.05-1.47）、90 天发病率（OR = 1.38；95% C... 临床提示：肝硬化对微创肝切除术（MILR）结果的影响仍然存在争议。",
+        "abstract": "The impact of cirrhosis on outcomes following minimally invasive liver resection (MILR) remains debated. This meta-analysis evaluates the effect of cirrhosis on perioperative outcomes in patients undergoing MILR. PubMed, Embase, CINAHL, Scopus, and Web of Science were searched from inception to September 17, 2025, following PRISMA guidelines (PROSPERO: CRD420251132827). Thirty-two studies, comprising 12,892 patients (5,658 with cirrhosis; 7,234 without), were included. Cirrhosis was associated with higher intraoperative transfusion rates (odds ratio [OR] = 1.55; 95% confidence interval [CI] 1.17-2.05), conversion to laparotomy (OR = 1.24; 95% CI 1.05-1.47), 90-day morbidity (OR = 1.38; 95% C...",
+        "pmid": "42608387",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608387/",
+        "doiUrl": "https://doi.org/10.14701/ahbps.26-117",
+        "url": "https://doi.org/10.14701/ahbps.26-117"
+      },
+      {
+        "title": "Review Article: Fibrosis Reversal in Metabolic Dysfunction-Associated Steatohepatitis-The Promise of Emerging Therapeutics.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "pubDate": "2026 Aug 17",
+        "studyType": "Journal Article / Review",
+        "authors": "Ayoub M, Tsutsumi T, Rinella ME",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：代谢功能障碍相关脂肪性肝炎 (MASH) 是肝移植的主要适应症，纤维化阶段最能预测临床结果。 临床提示：现在可以进行药物治疗，瑞美隆和索马鲁肽已获得有条件批准。",
+        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a leading indication for liver transplantation, and fibrosis stage most strongly predicts clinical outcomes. Pharmacologic treatment is now available with resmetirom and semaglutide holding conditional approval. To describe the therapeutic landscape for MASH with a focus on anti-fibrotic impact. Narrative review of Phase 2 and 3 trials, meta-analyses, epidemiological data, and trial registries. Historically, drugs targeting downstream fibrogenic or inflammatory pathways have had limited success in advanced development, whereas those improving metabolic dysfunction have had fared better. Fibrosis improvement by at least one stage was ...",
+        "pmid": "42608656",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608656/",
+        "doiUrl": "https://doi.org/10.1111/apt.70921",
+        "url": "https://doi.org/10.1111/apt.70921"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "特朗普威胁称，如果美国盟友阿曼“妨碍”伊朗协议，将对其进行轰炸",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁称，如果美国盟友阿曼“妨碍”伊朗协议，将对其进行轰炸”。核心要点：特朗普对阿曼发出威胁之际，阿曼一直在与伊朗就重新开放霍尔木兹海峡举行会谈，而此时和平谈判的 60 天窗口即将到期。",
+        "titleZh": "法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童”。核心要点：梅塔认为社交媒体成瘾并不存在，美国各州提起的一项重大诉讼的审判正在进行中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 19:25:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 22:11:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了””。核心要点：一名警官作证说，图帕克·沙库尔被多次枪击后，拒绝与警方合作，并告诉一名警官，“我们会处理这件事”。",
+        "titleZh": "被解雇的乌克兰国防部长呼吁举行总统选举",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“被解雇的乌克兰国防部长呼吁举行总统选举”。核心要点：乌克兰自 2022 年 2 月起实施戒严法，暂停选举。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 02:06:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 19 Aug 2026 01:31:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "俄罗斯警告英国不要向乌克兰供应无人机",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“俄罗斯警告英国不要向乌克兰供应无人机”。核心要点：英国国防部发言人回应称，英国与乌克兰“肩并肩”。",
+        "titleZh": "西班牙历史悠久的格拉纳达发生地震，造成三人受伤",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙历史悠久的格拉纳达发生地震，造成三人受伤”。核心要点：这座历史名城的多座建筑物和汽车遭到损坏，世界著名的阿罕布拉宫也已暂时关闭。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 01:16:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 17:15:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "BBC 详细分析了特朗普在朝鲜和韩国问题上的最新转变",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC 详细分析了特朗普在朝鲜和韩国问题上的最新转变”。核心要点：特朗普表示，美国将“大幅减少”与韩国的联合军演，并称他与金正恩的“关系非常好”。",
+        "titleZh": "巴西总统卢拉称赞亚马逊河附近发现石油",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“巴西总统卢拉称赞亚马逊河附近发现石油”。核心要点：环保人士严厉批评了在亚马逊河口海域进行的勘探钻探活动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 23:42:38 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 13:13:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "挪威国王入院并请病假",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“挪威国王入院并请病假”。核心要点：这位 89 岁的国王是欧洲在位时间最长的君主之一，他患有一种罕见的血液病。",
+        "titleZh": "婆婆作证，林赛·克兰西在孩子被杀前请求帮助",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“婆婆作证，林赛·克兰西在孩子被杀前请求帮助”。核心要点：林赛·克兰西承认杀害了她的女儿和两个儿子，但对谋杀罪不认罪，称她患有产后精神病。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 21:34:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 17:54:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "开玩笑还是不开玩笑？：如何写一篇好的外出信息",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“开玩笑还是不开玩笑？：如何写一篇好的外出信息”。核心要点：当假期高峰来临之际，BBC 探讨了撰写良好的外出信息的注意事项。",
+        "titleZh": "法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童”。核心要点：梅塔认为社交媒体成瘾并不存在，美国各州提起的一项重大诉讼的审判正在进行中。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 23:00:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 22:11:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着新关税截止日期的临近，美加贸易谈判“激烈”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着新关税截止日期的临近，美加贸易谈判“激烈””。核心要点：随着谈判代表争相达成协议以避免特朗普最新的关税，马克·卡尼将需要向加拿大人推销对美国做出的任何让步。",
+        "titleZh": "“因一双价值 2 英镑的凉鞋而被禁止”：为什么一些卖家抱怨 Vinted",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““因一双价值 2 英镑的凉鞋而被禁止”：为什么一些卖家抱怨 Vinted”。核心要点：数千名 Vinted 用户表示，他们被错误地暂停或永久禁止使用这款备受喜爱的应用程序。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 00:02:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 23:14:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "维珍集团迈出了经营英吉利海峡隧道铁路服务的一步",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“维珍集团迈出了经营英吉利海峡隧道铁路服务的一步”。核心要点：公司希望每天运营多达 20 趟前往欧洲的航班，但还必须获得海外线路的额外批准。",
+        "titleZh": "中国机器人巨头优树上市首日飙升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“中国机器人巨头优树上市首日飙升”。核心要点：全球最大的仿人机器人制造商的股票周三开始在上海科创板交易。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 12:46:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 19 Aug 2026 02:09:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "国际足联官员因凡蒂诺计划遭到批评后被解雇",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“国际足联官员因凡蒂诺计划遭到批评后被解雇”。核心要点：国际足联高级人物凯文·拉穆尔在批评世界足球管理机构主席詹尼·因凡蒂诺三周后被解雇。",
+        "titleZh": "移动支付增长但现金下降放缓",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“移动支付增长但现金下降放缓”。核心要点：新数据显示，十分之九的移动钱包用户将借记卡作为默认付款方式。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 20:46:08 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 23:04:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "电影委员会支持亚马逊米高梅扩建工作室",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“电影委员会支持亚马逊米高梅扩建工作室”。核心要点：伯克希尔电影制片厂以前是标志性恐怖片工作室 Hammer Films 的所在地。",
+        "titleZh": "受石油、人工智能和通胀影响，全球借贷成本再创新高",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“受石油、人工智能和通胀影响，全球借贷成本再创新高”。核心要点：美国、英国、德国和日本的长期政府债务利率飙升。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 17 Aug 2026 18:03:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 18 Aug 2026 18:20:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
