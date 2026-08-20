@@ -1,158 +1,158 @@
 {
-  "updatedAt": "2026-08-19T02:31:15.910Z",
+  "updatedAt": "2026-08-20T02:30:15.700Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Liver-associated findings and outcomes in a telomere biology disorders clinic.",
-        "journal": "Hepatology communications",
+        "title": "Hepatology: Emerging Paradigms in MASLD, Viral Hepatitis, Cholestatic Liver Disease, Portal Hypertension and Hepatocellular Carcinoma: Summary of the First Annual Paris International Liver Meeting 2026.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article / Review",
+        "authors": "Younossi ZM, Papatheodoridis G, Tsochatzis E",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：代谢功能障碍相关的脂肪性肝病（MASLD）及其进展形式代谢功能障碍相关的脂肪性肝炎（MASH）受到关注，标志着向批准的疾病修饰疗法时代的转变。 临床提示：巴黎国际肝脏会议（2026 年 1 月 19 日至 21 日）汇聚了领先的肝病专家，讨论慢性肝病管理的变革性进展。",
+        "abstract": "The Paris International Liver Meeting (January 19-21, 2026) brought together leading hepatology experts to discuss transformative advances in chronic liver disease management. The meeting highlighted pivotal developments reflecting the field's evolution from disease characterisation toward precision, mechanism-based therapeutics. Metabolic dysfunction-associated steatotic liver disease (MASLD) and its progressive form, metabolic dysfunction-associated steatohepatitis (MASH), were highlighted, marking the transition to an era of approved disease-modifying therapies. Resmetirom and semaglutide are now approved for MASH with F2-F3 fibrosis, with a robust pipeline generating anti-fibrotic signal...",
+        "pmid": "42613687",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42613687/",
+        "doiUrl": "https://doi.org/10.1111/liv.70806",
+        "url": "https://doi.org/10.1111/liv.70806"
+      },
+      {
+        "title": "Patients who underwent TIPS face increases in hernia incarceration rates compared to patients managed with paracentesis: An analysis of prevalence and risk factors.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
         "pubDate": "2026 Sep 1",
+        "studyType": "Journal Article / Comparative Study",
+        "authors": "Vissa A, Far AT, Lai JC",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们在大型单中心 TIPS 患者队列中检查了这种并发症，并将其与仅通过连续大容量腹腔穿刺术治疗的难治性腹水患者队列进行比较，以确定 TIPS 本身是否会增加监禁风险。 临床提示：TIPS 通常用于治疗门脉高压并发症。",
+        "abstract": "TIPS is commonly used to treat complications of portal hypertension. Hernia incarceration is a complication of the TIPS procedure that is poorly understood and not well documented. We examine this complication in a large, single-center cohort of TIPS patients and compared it to a cohort of patients with refractory ascites managed with serial large-volume paracentesis alone to determine whether TIPS itself increases incarceration risk. We identified 259 adults who underwent TIPS and 644 adults with refractory ascites managed with serial large-volume paracentesis at the University of California, San Francisco (UCSF) between 2015 and 2024. We extracted structured variables and unstructured docu...",
+        "pmid": "41452149",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41452149/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000799",
+        "url": "https://doi.org/10.1097/LVT.0000000000000799"
+      },
+      {
+        "title": "Diagnostic Performance of Serum-Ascites Albumin Gradient: A Systematic Review and Meta-Analysis.",
+        "journal": "Gut and liver",
+        "pubDate": "2026 Aug 19",
         "studyType": "Journal Article",
-        "authors": "Nguyen KM, Ongie L, Xu P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：端粒是线性染色体末端的重复序列，用于保存遗传信息。 临床提示：患有端粒生物学疾病（TBD）的患者会出现多器官表现，其中包括肝脏。",
-        "abstract": "Telomeres are repetitive sequences at the end of linear chromosomes that preserve genetic information. Patients with telomere biology disorders (TBDs) are subject to multiorgan manifestations, which include the liver. However, due to the rare nature of the disorder, these manifestations are not fully characterized. Here, we describe the hepatic manifestations of patients with TBD at a large tertiary center within a specialized TBD clinic; 121 consecutive patients with TBD seen from 2017 to 2024 were included. The median age of the TBD diagnosis was 43 years old, with 60% male. The most common pathogenic/likely pathogenic variant was TERT (25%), followed by RTEL1 (10%) and TERC (7%). Evidence...",
-        "pmid": "42612102",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42612102/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001021",
-        "url": "https://doi.org/10.1097/HC9.0000000000001021"
+        "authors": "Song JE, Ha Y, Chang Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 070）。核心观点：腹水是晚期肝病的常见并发症，准确的病因鉴别对于临床治疗仍然至关重要。 临床提示：血清腹水白蛋白梯度（SAAG）广泛用于区分门静脉高压性腹水和非门静脉高压性腹水；然而，其在不同临床背景下的诊断性能并不一致",
+        "abstract": "Ascites is a common complication of advanced liver disease, and accurate etiologic differentiation remains essential for clinical management. The serum-ascites albumin gradient (SAAG) is widely used to distinguish portal hypertensive from non-portal hypertensive ascites; however, its diagnostic performance across different clinical contexts has not been consistently established. We conducted a systematic review and meta-analysis of 47 studies involving 5,070 patients to evaluate the diagnostic accuracy of SAAG. Using a bivariate random-effects model, the pooled sensitivity and specificity were 0.889 (95% confidence interval [CI], 0.847 to 0.920) and 0.818 (95% CI, 0.752-0.870), respectively,...",
+        "pmid": "42615188",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42615188/",
+        "doiUrl": "https://doi.org/10.5009/gnl260180",
+        "url": "https://doi.org/10.5009/gnl260180"
       },
       {
-        "title": "International survey on the management of portal hypertension.",
-        "journal": "Hepatology communications",
-        "pubDate": "2026 Sep 1",
-        "studyType": "Journal Article",
-        "authors": "Bashiri K, Rabiee A, Northup P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：PubMed 没有可用的摘要。 临床提示：门静脉高压治疗国际调查。",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42612099",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42612099/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001035",
-        "url": "https://doi.org/10.1097/HC9.0000000000001035"
-      },
-      {
-        "title": "Left hepatectomy for chronic biopsy-induced intrahepatic arterioportal fistula with aneurysmal degeneration.",
-        "journal": "Annals of hepato-biliary-pancreatic surgery",
-        "pubDate": "2026 Aug 31",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Florou E, Pizanias M, Kane P",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：虽然大多数活检引起的分流是无症状的并且可以自行解决，但持续的高流量病变可能导致进行性血管重塑，从而带来重大的管理挑战。 临床提示：动脉门静脉瘘（APF）是经皮肝活检的罕见并发症。",
-        "abstract": "Arterioportal fistula (APF) is a rare complication of percutaneous liver biopsy. While most biopsy-induced shunts are asymptomatic and resolve on their own, persistent high-flow lesions can lead to progressive vascular remodeling, creating significant management challenges. A 49-year-old woman presented 17 years after undergoing a percutaneous liver biopsy, complaining of a pulsatile epigastric mass. Computed tomography revealed a large aneurysmal intrahepatic APF involving the middle hepatic artery and left portal vein. Due to the complexity of the anatomy and concerns about portal perfusion, endovascular embolization was not pursued. Instead, the patient underwent a formal left hepatectomy...",
-        "pmid": "42046234",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42046234/",
-        "doiUrl": "https://doi.org/10.14701/ahbps.26-061",
-        "url": "https://doi.org/10.14701/ahbps.26-061"
-      },
-      {
-        "title": "Clinical outcomes of minimally invasive liver resection in patients with cirrhosis: A systematic review and meta-analysis.",
-        "journal": "Annals of hepato-biliary-pancreatic surgery",
+        "title": "Multidisciplinary Team Approach to the Management of Early Esophageal Adenocarcinoma in a Patient with Liver Cirrhosis, Portal Hypertension, and Severe Thrombocytopenia.",
+        "journal": "Zeitschrift fur Gastroenterologie",
         "pubDate": "2026 Aug 18",
         "studyType": "Journal Article",
-        "authors": "Al Darwashi LM, Ghani A, Froneman E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 892）。核心观点：肝硬化与较高的术中输血率（比值比 [OR] = 1.55；95% 置信区间 [CI] 1.17-2.05）、中转剖腹手术（OR = 1.24；95% CI 1.05-1.47）、90 天发病率（OR = 1.38；95% C... 临床提示：肝硬化对微创肝切除术（MILR）结果的影响仍然存在争议。",
-        "abstract": "The impact of cirrhosis on outcomes following minimally invasive liver resection (MILR) remains debated. This meta-analysis evaluates the effect of cirrhosis on perioperative outcomes in patients undergoing MILR. PubMed, Embase, CINAHL, Scopus, and Web of Science were searched from inception to September 17, 2025, following PRISMA guidelines (PROSPERO: CRD420251132827). Thirty-two studies, comprising 12,892 patients (5,658 with cirrhosis; 7,234 without), were included. Cirrhosis was associated with higher intraoperative transfusion rates (odds ratio [OR] = 1.55; 95% confidence interval [CI] 1.17-2.05), conversion to laparotomy (OR = 1.24; 95% CI 1.05-1.47), 90-day morbidity (OR = 1.38; 95% C...",
-        "pmid": "42608387",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608387/",
-        "doiUrl": "https://doi.org/10.14701/ahbps.26-117",
-        "url": "https://doi.org/10.14701/ahbps.26-117"
+        "authors": "Haziri D, Ripoll C, Zipprich A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化和门脉高压患者的食管腺癌面临着巨大的治疗挑战。 临床提示：该病例强调了采用经颈静脉肝内门体分流术 (TIPS) 和内镜粘膜下剥离术 (ESD) 进行肿瘤切除的多学科方法。",
+        "abstract": "Esophageal adenocarcinoma in patients with liver cirrhosis and portal hypertension presents significant treatment challenges. This case highlights a multidisciplinary approach involving transjugular intrahepatic portosystemic shunt (TIPS) and endoscopic submucosal dissection (ESD) for tumor resection. A 60-year-old male with newly diagnosed liver cirrhosis was referred for routine esophagogastroduodenoscopy (EGD) to screen for esophageal varices. Endoscopy revealed an exophytic lesion in the distal esophagus (Paris 0-Ip) over a column of varices, and biopsy confirmed adenocarcinoma. Following a multidisciplinary tumor board discussion, the patient underwent TIPS to reduce portal hypertension...",
+        "pmid": "42612691",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42612691/",
+        "doiUrl": "https://doi.org/10.1055/a-2857-7509",
+        "url": "https://doi.org/10.1055/a-2857-7509"
       },
       {
-        "title": "Review Article: Fibrosis Reversal in Metabolic Dysfunction-Associated Steatohepatitis-The Promise of Emerging Therapeutics.",
-        "journal": "Alimentary pharmacology & therapeutics",
-        "pubDate": "2026 Aug 17",
-        "studyType": "Journal Article / Review",
-        "authors": "Ayoub M, Tsutsumi T, Rinella ME",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：代谢功能障碍相关脂肪性肝炎 (MASH) 是肝移植的主要适应症，纤维化阶段最能预测临床结果。 临床提示：现在可以进行药物治疗，瑞美隆和索马鲁肽已获得有条件批准。",
-        "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a leading indication for liver transplantation, and fibrosis stage most strongly predicts clinical outcomes. Pharmacologic treatment is now available with resmetirom and semaglutide holding conditional approval. To describe the therapeutic landscape for MASH with a focus on anti-fibrotic impact. Narrative review of Phase 2 and 3 trials, meta-analyses, epidemiological data, and trial registries. Historically, drugs targeting downstream fibrogenic or inflammatory pathways have had limited success in advanced development, whereas those improving metabolic dysfunction have had fared better. Fibrosis improvement by at least one stage was ...",
-        "pmid": "42608656",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42608656/",
-        "doiUrl": "https://doi.org/10.1111/apt.70921",
-        "url": "https://doi.org/10.1111/apt.70921"
+        "title": "Bleeding Stomal Varices and Vascular Interventional Radiology Management: A Case Report.",
+        "journal": "Clinical case reports",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Bolourinejad P, Tavallaeinejad P, Jafarpisheh MS",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：虽然使用多种方法来治疗这些静脉曲张，但临床医生经常面临重大的诊断和治疗挑战。 临床提示：造口静脉曲张是一种罕见但危及生命的门静脉高压并发症。",
+        "abstract": "Stomal varices are a rare but life-threatening complication of portal hypertension. While multiple approaches are used to treat these varices, clinicians often face significant diagnostic and therapeutic challenges. A 55-year-old woman with a history of cirrhosis and low rectal cancer presented with massive stomal variceal bleeding requiring transfusion support. Emergency bleeding control was achieved using percutaneous NBCA-lipiodol embolization of the dominant feeding vein. Approximately ten months after the initial procedure, the patient experienced another episode of stomal bleeding caused by small collateral varicose veins, requiring blood transfusion, which was effectively treated with...",
+        "pmid": "42614482",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42614482/",
+        "doiUrl": "https://doi.org/10.1002/ccr3.73349",
+        "url": "https://doi.org/10.1002/ccr3.73349"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童”。核心要点：梅塔认为社交媒体成瘾并不存在，美国各州提起的一项重大诉讼的审判正在进行中。",
+        "titleZh": "以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查”。核心要点：这名五岁的巴勒斯坦女孩最初在袭击中幸存下来，并恳求帮助，但她的尸体后来与六名亲戚的尸体一起被找到。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 22:11:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 19 Aug 2026 15:33:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "被解雇的乌克兰国防部长呼吁举行总统选举",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“被解雇的乌克兰国防部长呼吁举行总统选举”。核心要点：乌克兰自 2022 年 2 月起实施戒严法，暂停选举。",
+        "titleZh": "以色列决定不起诉加沙援助人员遇害事件，澳大利亚“愤怒”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列决定不起诉加沙援助人员遇害事件，澳大利亚“愤怒””。核心要点：澳大利亚外交部长表示，她将就“侮辱性”佐米·弗兰克康的决定传唤以色列大使。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 19 Aug 2026 01:31:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 20 Aug 2026 00:48:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "西班牙历史悠久的格拉纳达发生地震，造成三人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙历史悠久的格拉纳达发生地震，造成三人受伤”。核心要点：这座历史名城的多座建筑物和汽车遭到损坏，世界著名的阿罕布拉宫也已暂时关闭。",
+        "titleZh": "特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果””。核心要点：周一，60 天的停火期满，没有迹象表明冲突有外交或军事缓和的迹象。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 17:15:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 20 Aug 2026 02:16:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "巴西总统卢拉称赞亚马逊河附近发现石油",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“巴西总统卢拉称赞亚马逊河附近发现石油”。核心要点：环保人士严厉批评了在亚马逊河口海域进行的勘探钻探活动。",
+        "titleZh": "随着冰层消失，巨鲸进入格陵兰岛海域",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着冰层消失，巨鲸进入格陵兰岛海域”。核心要点：气候变化导致的海冰融化为巨鲸开辟了“疯狂捕食”的区域。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 13:13:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 20 Aug 2026 02:05:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "婆婆作证，林赛·克兰西在孩子被杀前请求帮助",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“婆婆作证，林赛·克兰西在孩子被杀前请求帮助”。核心要点：林赛·克兰西承认杀害了她的女儿和两个儿子，但对谋杀罪不认罪，称她患有产后精神病。",
+        "titleZh": "以色列对高度敏感的西岸定居点项目开放投标",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列对高度敏感的西岸定居点项目开放投标”。核心要点：英国外交大臣谴责此举是“不可接受的破坏性行为”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 17:54:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 20 Aug 2026 00:53:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“法庭获悉，Meta 在 Facebook 和 Instagram 上吸引了儿童”。核心要点：梅塔认为社交媒体成瘾并不存在，美国各州提起的一项重大诉讼的审判正在进行中。",
+        "titleZh": "特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果””。核心要点：周一，60 天的停火期满，没有迹象表明冲突有外交或军事缓和的迹象。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 22:11:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 20 Aug 2026 02:16:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“因一双价值 2 英镑的凉鞋而被禁止”：为什么一些卖家抱怨 Vinted",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““因一双价值 2 英镑的凉鞋而被禁止”：为什么一些卖家抱怨 Vinted”。核心要点：数千名 Vinted 用户表示，他们被错误地暂停或永久禁止使用这款备受喜爱的应用程序。",
+        "titleZh": "美国国债十年内翻倍突破40兆美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国国债十年内翻倍突破40兆美元”。核心要点：在此之前，30年期债券的利率达到近20年来的最高水平。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 23:14:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 20 Aug 2026 01:24:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "中国机器人巨头优树上市首日飙升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“中国机器人巨头优树上市首日飙升”。核心要点：全球最大的仿人机器人制造商的股票周三开始在上海科创板交易。",
+        "titleZh": "我辞去了价值 80,000 英镑的工作去制作冰淇淋 - 方法如下",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我辞去了价值 80,000 英镑的工作去制作冰淇淋 - 方法如下”。核心要点：Little Moons 的联合创始人向任何想自己创业的人分享了她的建议。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 19 Aug 2026 02:09:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 19 Aug 2026 23:08:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "移动支付增长但现金下降放缓",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“移动支付增长但现金下降放缓”。核心要点：新数据显示，十分之九的移动钱包用户将借记卡作为默认付款方式。",
+        "titleZh": "印度 Z 世代正在推动其美容市场的巨大繁荣",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“印度 Z 世代正在推动其美容市场的巨大繁荣”。核心要点：电子商务、不断提高的收入水平以及世界上最多的年轻人口正在推动印度的美容热潮。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 23:04:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 19 Aug 2026 23:31:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "受石油、人工智能和通胀影响，全球借贷成本再创新高",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“受石油、人工智能和通胀影响，全球借贷成本再创新高”。核心要点：美国、英国、德国和日本的长期政府债务利率飙升。",
+        "titleZh": "通货膨胀正在升温，但预计不会再次出现危机",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“通货膨胀正在升温，但预计不会再次出现危机”。核心要点：生活成本上升可能会给总理安迪·伯纳姆带来压力，但这取决于未来几个月会发生什么。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 18 Aug 2026 18:20:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 19 Aug 2026 11:27:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
