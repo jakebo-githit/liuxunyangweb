@@ -1,67 +1,112 @@
 {
-  "updatedAt": "2026-08-21T02:36:05.749Z",
+  "updatedAt": "2026-08-22T02:20:06.639Z",
   "topics": {
-    "htn_kidney": [
+    "htn_kidney": [],
+    "portal_hypertension": [
       {
-        "title": "Epidemiological Transition of Renal Mortality in Chiapas (2000-2024): Autonomy of CKDu and the Rise of Hypertensive Nephropathy-A Time-Series Ecological Study.",
-        "journal": "Nephrology (Carlton, Vic.)",
-        "pubDate": "2026 Sep",
+        "title": "Advanced liver disease in adults with Fontan circulation: a cross-sectional study from a tertiary center in Western Sweden.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "pubDate": "2026 Aug 21",
         "studyType": "Journal Article",
-        "authors": "Moguel FEA, Izaba BS",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 46）。核心观点：非传统病因慢性肾病（CKDu）已在世界各地的农业地区得到描述，但其对墨西哥肾脏死亡率的影响仍不清楚。 临床提示：本研究旨在描述恰帕斯州肾脏死亡率趋势的特征，并评估 CKDu 相对于代谢原因的自主性。",
-        "abstract": "Chronic kidney disease of non-traditional aetiology (CKDu) has been described in agricultural regions worldwide, yet its contribution to renal mortality in Mexico remains poorly characterised. This study aimed to characterise renal mortality trends in Chiapas and evaluate the autonomy of CKDu relative to metabolic causes. An ecological time-series study used DGIS mortality microdata for Chiapas, 2000-2024. Renal deaths (n = 46 301) were classified by ICD-10 into DKD, HN, CKDu, ReNe and OthR. Age strata were 0-14, 15-29, 30-44, 45-59 and ≥ 60 years. Age-standardised mortality rates were calculated, APC estimated using log-linear regression, and sociodemographic contrasts assessed using binomi...",
-        "pmid": "42622235",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42622235/",
-        "doiUrl": "https://doi.org/10.1111/nep.70269",
-        "url": "https://doi.org/10.1111/nep.70269"
+        "authors": "Hultgren E, Kullander A, Eriksson P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：具有单心室 Fontan 循环的个体有患 Fontan 相关肝病 (FALD) 的风险。 临床提示：本研究旨在确定瑞典西部患有 Fontan 循环的成人中 FALD 的患病率，并描述影像学上患有或不患有显着 FALD 的患者的临床和肝脏相关特征。",
+        "abstract": "Individuals with a univentricular Fontan circulation are at risk of developing Fontan-associated liver disease (FALD). This study aimed to determine its prevalence in adults with Fontan circulation in Western Sweden and to characterize the clinical and liver-related features of patients with and without significant FALD on imaging. In this retrospective cross-sectional study (2019-2023) at a tertiary referral center, adults with Fontan circulation were identified through ICD codes. Ninety-six of 99 eligible patients were included (59.4% male; median age 26.5 years [IQR 21.5-31.0]). Clinical history, imaging, laboratory, and cardiopulmonary data were extracted from medical records. Patients w...",
+        "pmid": "42627129",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42627129/",
+        "doiUrl": "https://doi.org/10.1080/00365521.2026.2715580",
+        "url": "https://doi.org/10.1080/00365521.2026.2715580"
+      },
+      {
+        "title": "Clinically Diagnosed Decompensated Chronic Liver Disease With Suspected Portal Hypertension in a One-Year-Old Infant: Diagnostic Challenges in a Resource-Limited Setting.",
+        "journal": "Clinical case reports",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Ibrahim KJ, Ali AMH, Omer NI",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：婴儿期慢性肝病并不常见，诊断要求高，并且在撒哈拉以南非洲地区很少有报道，那里很少能进行高级肝病学评估。 临床提示：我们描述了一名来自索马里兰农村的一岁男孩，他有两周进行性腹胀病史，随后出现黄疸、吐血和血性腹泻。",
+        "abstract": "Chronic liver disease in infancy is uncommon, diagnostically demanding, and rarely reported from sub-Saharan Africa, where advanced hepatologic evaluation is seldom accessible. We describe a one-year-old boy from rural Somaliland who presented with a two-week history of progressive abdominal distension, followed by jaundice, hematemesis and bloody diarrhea. Examination showed wasting, deep scleral icterus, tense ascites, caput medusae and splenomegaly. Investigations demonstrated severe anemia (hemoglobin 3.8 g/dL), thrombocytopenia (130 × 10 9 /L), conjugated hyperbilirubinemia (total 2.45 mg/dL, direct 1.69 mg/dL), severe hypoalbuminemia (albumin 1.8 g/dL) and marked coagulopathy (INR 3.0)...",
+        "pmid": "42626090",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42626090/",
+        "doiUrl": "https://doi.org/10.1002/ccr3.73343",
+        "url": "https://doi.org/10.1002/ccr3.73343"
       }
-    ],
-    "portal_hypertension": []
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "英国、法国、德国、意大利和加拿大谴责以色列西岸定居点项目",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“英国、法国、德国、意大利和加拿大谴责以色列西岸定居点项目”。核心要点：欧洲国家和加拿大对以色列在被占领西岸战略要地扩大定居点的计划施加压力。",
+        "titleZh": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做””。核心要点：美国和加拿大之间敲定协议的谈判即将在周五晚上的最后期限之前进入最后阶段。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 18:55:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普的“经济诺曼底登陆”会对伊朗造成多大伤害？",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普的“经济诺曼底登陆”会对伊朗造成多大伤害？”。核心要点：迄今为止，事实证明，伊朗善于寻找方法来摆脱多年来对其经济实施的惩罚性制裁。",
+        "titleZh": "TikTok 将向美国支付 4 亿美元，这是最大的儿童隐私和解协议之一",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“TikTok 将向美国支付 4 亿美元，这是最大的儿童隐私和解协议之一”。核心要点：该交易源于 2024 年的一起诉讼，指控 TikTok 及其母公司字节跳动收集了数百万 13 岁以下用户的“大量数据”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 23:16:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "基辅市长表示，俄罗斯在最近的袭击中“有目的地”袭击了关键基础设施",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“基辅市长表示，俄罗斯在最近的袭击中“有目的地”袭击了关键基础设施”。核心要点：乌克兰首都昨晚发生的“大规模袭击”造成至少 17 人死亡，市长维塔利·克里琴科警告称热水供应已中断。",
+        "titleZh": "以色列不顾国际社会日益强烈的抗议，重新建立封闭的约旦河西岸定居点",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列不顾国际社会日益强烈的抗议，重新建立封闭的约旦河西岸定居点”。核心要点：三十个“先锋家庭”在以色列政府推动的民族主义浪潮中来到这里，但迅速的变化让附近的巴勒斯坦居民感到恐惧。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 17:14:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普希望与金正恩成为朋友，但韩国可能会付出代价",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普希望与金正恩成为朋友，但韩国可能会付出代价”。核心要点：美国与韩国的军事演习于周五提前结束，此时朝鲜处于强势地位。",
+        "titleZh": "官员称俄罗斯无人机两次袭击乌克兰商场造成16人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称俄罗斯无人机两次袭击乌克兰商场造成16人死亡”。核心要点：据地区负责人称，购物中心遭到袭击时，至少有 130 人受伤，其中包括 23 名儿童。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 22:01:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 22 Aug 2026 01:47:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "尼日利亚西北部船只倾覆 数十人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“尼日利亚西北部船只倾覆 数十人死亡”。核心要点：这起事件发生在该国西北部的索科托州，许多受害者可能是儿童。",
+        "titleZh": "瑞典一所学校遭持剑袭击，一人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞典一所学校遭持剑袭击，一人死亡”。核心要点：官员称，另有三人受伤，一名 18 岁男性嫌疑人被枪杀并被捕。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 20:27:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 21 Aug 2026 21:03:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "皇家邮政再次未能实现投递目标，但对“令人鼓舞”的迹象表示欢迎",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“皇家邮政再次未能实现投递目标，但对“令人鼓舞”的迹象表示欢迎”。核心要点：这家陷入困境的公司表示，其业绩有所改善，但未能达到监管机构设定的交付目标。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 21 Aug 2026 11:20:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做””。核心要点：美国和加拿大之间敲定协议的谈判即将在周五晚上的最后期限之前进入最后阶段。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "由于放松利率的尝试被证明是短暂的，美国借贷成本上升",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于放松利率的尝试被证明是短暂的，美国借贷成本上升”。核心要点：经济学家表示，随着国债超过 40 万亿美元，人们对借贷水平持续存在担忧。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 21 Aug 2026 16:45:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "千禧一代发现很难买房——但事情可能正在出现转机",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“千禧一代发现很难买房——但事情可能正在出现转机”。核心要点：与前几代人相比，二十多岁的人拥有住房的可能性要小得多。但数据表明情况可能正在改善。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 21 Aug 2026 10:02:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "令人窒息的炎热和破损的厕所：TUI River Cruise 乘客讲述他们的假期地狱",
         "summaryZh": "这是一条金融市场新闻，重点围绕“令人窒息的炎热和破损的厕所：TUI River Cruise 乘客讲述他们的假期地狱”。核心要点：度假者告诉英国广播公司，他们支付了豪华假期的费用，但有故障的空调让他们陷入酷热之中。",
@@ -69,38 +114,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 20 Aug 2026 22:59:35 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "千禧一代正在努力买房——但这真的变得更容易了吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“千禧一代正在努力买房——但这真的变得更容易了吗？”。核心要点：与前几代人相比，二十多岁的人拥有住房的可能性要小得多。但数据表明事情可能正在出现转机。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 23:10:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "美国经济为何敲响警钟",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“美国经济为何敲响警钟”。核心要点：美国本周达到了债务里程碑，但我们应该对世界最大经济体感到多么担心呢？",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 23:15:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "特朗普的“经济诺曼底登陆”会对伊朗造成多大伤害？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普的“经济诺曼底登陆”会对伊朗造成多大伤害？”。核心要点：迄今为止，事实证明，伊朗善于寻找方法来摆脱多年来对其经济实施的惩罚性制裁。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 23:16:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "Travelodge酒店老板因酒店性侵犯后解决安全问题而辞职",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“Travelodge酒店老板因酒店性侵犯后解决安全问题而辞职”。核心要点：乔·博伊德尔因该公司处理安全问题的方式而受到批评。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 10:05:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
