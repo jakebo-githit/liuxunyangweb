@@ -1,115 +1,102 @@
 {
-  "updatedAt": "2026-08-22T02:20:06.639Z",
+  "updatedAt": "2026-08-23T02:39:20.804Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Advanced liver disease in adults with Fontan circulation: a cross-sectional study from a tertiary center in Western Sweden.",
-        "journal": "Scandinavian journal of gastroenterology",
-        "pubDate": "2026 Aug 21",
-        "studyType": "Journal Article",
-        "authors": "Hultgren E, Kullander A, Eriksson P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：具有单心室 Fontan 循环的个体有患 Fontan 相关肝病 (FALD) 的风险。 临床提示：本研究旨在确定瑞典西部患有 Fontan 循环的成人中 FALD 的患病率，并描述影像学上患有或不患有显着 FALD 的患者的临床和肝脏相关特征。",
-        "abstract": "Individuals with a univentricular Fontan circulation are at risk of developing Fontan-associated liver disease (FALD). This study aimed to determine its prevalence in adults with Fontan circulation in Western Sweden and to characterize the clinical and liver-related features of patients with and without significant FALD on imaging. In this retrospective cross-sectional study (2019-2023) at a tertiary referral center, adults with Fontan circulation were identified through ICD codes. Ninety-six of 99 eligible patients were included (59.4% male; median age 26.5 years [IQR 21.5-31.0]). Clinical history, imaging, laboratory, and cardiopulmonary data were extracted from medical records. Patients w...",
-        "pmid": "42627129",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42627129/",
-        "doiUrl": "https://doi.org/10.1080/00365521.2026.2715580",
-        "url": "https://doi.org/10.1080/00365521.2026.2715580"
-      },
-      {
-        "title": "Clinically Diagnosed Decompensated Chronic Liver Disease With Suspected Portal Hypertension in a One-Year-Old Infant: Diagnostic Challenges in a Resource-Limited Setting.",
-        "journal": "Clinical case reports",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article",
-        "authors": "Ibrahim KJ, Ali AMH, Omer NI",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：婴儿期慢性肝病并不常见，诊断要求高，并且在撒哈拉以南非洲地区很少有报道，那里很少能进行高级肝病学评估。 临床提示：我们描述了一名来自索马里兰农村的一岁男孩，他有两周进行性腹胀病史，随后出现黄疸、吐血和血性腹泻。",
-        "abstract": "Chronic liver disease in infancy is uncommon, diagnostically demanding, and rarely reported from sub-Saharan Africa, where advanced hepatologic evaluation is seldom accessible. We describe a one-year-old boy from rural Somaliland who presented with a two-week history of progressive abdominal distension, followed by jaundice, hematemesis and bloody diarrhea. Examination showed wasting, deep scleral icterus, tense ascites, caput medusae and splenomegaly. Investigations demonstrated severe anemia (hemoglobin 3.8 g/dL), thrombocytopenia (130 × 10 9 /L), conjugated hyperbilirubinemia (total 2.45 mg/dL, direct 1.69 mg/dL), severe hypoalbuminemia (albumin 1.8 g/dL) and marked coagulopathy (INR 3.0)...",
-        "pmid": "42626090",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42626090/",
-        "doiUrl": "https://doi.org/10.1002/ccr3.73343",
-        "url": "https://doi.org/10.1002/ccr3.73343"
+        "title": "International Expert Delphi Consensus on Endoscopic Ultrasound-Guided Portosystemic Pressure Gradient: Best Practices and Future Directions.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article / Consensus Statement",
+        "authors": "Wang TJ, Chang K, Rubin RA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Endoscopic ultrasound guided portosystemic pressure gradient (EUS-PPG) measureme... 临床提示：该英文报道关注最新动态：However, practice variability exists with this novel technique....",
+        "abstract": "Endoscopic ultrasound guided portosystemic pressure gradient (EUS-PPG) measurement is an increasingly utilized technique that allows for direct measurement of hepatic and portal venous pressures. However, practice variability exists with this novel technique. Using the modified Delphi process, we aimed to establish consensus among international experts regarding best practices and future research for EUS-PPG. A steering committee developed consensus statements covering 4 domains: indications, pre-procedural protocol, intra-procedural technique, and future research. Forty-seven experts (29 advanced endoscopists, 18 hepatologists) were invited to participate via an online survey platform. Cons...",
+        "pmid": "41412540",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41412540/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.12.007",
+        "url": "https://doi.org/10.1016/j.cgh.2025.12.007"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做””。核心要点：美国和加拿大之间敲定协议的谈判即将在周五晚上的最后期限之前进入最后阶段。",
+        "titleZh": "该英文报道关注最新动态：Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse...”。核心要点：该英文报道关注最新动态：Canada's prime minister said he was \"reluctantly\" announcing retalia...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 22 Aug 2026 20:10:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "TikTok 将向美国支付 4 亿美元，这是最大的儿童隐私和解协议之一",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“TikTok 将向美国支付 4 亿美元，这是最大的儿童隐私和解协议之一”。核心要点：该交易源于 2024 年的一起诉讼，指控 TikTok 及其母公司字节跳动收集了数百万 13 岁以下用户的“大量数据”。",
+        "titleZh": "该英文报道关注最新动态：Carney faces crucial test after walking away from Trump's deal...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Carney faces crucial test after walking away from Trump's deal...”。核心要点：该英文报道关注最新动态：The Canadian prime minister will have to sell his gamble that walkin...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 22 Aug 2026 20:02:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列不顾国际社会日益强烈的抗议，重新建立封闭的约旦河西岸定居点",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列不顾国际社会日益强烈的抗议，重新建立封闭的约旦河西岸定居点”。核心要点：三十个“先锋家庭”在以色列政府推动的民族主义浪潮中来到这里，但迅速的变化让附近的巴勒斯坦居民感到恐惧。",
+        "titleZh": "该英文报道关注最新动态：Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Rus...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Rus...”。核心要点：该英文报道关注最新动态：Four people are still missing after Friday's attack which killed 16 ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "官员称俄罗斯无人机两次袭击乌克兰商场造成16人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称俄罗斯无人机两次袭击乌克兰商场造成16人死亡”。核心要点：据地区负责人称，购物中心遭到袭击时，至少有 130 人受伤，其中包括 23 名儿童。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 01:47:54 GMT",
+        "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "瑞典一所学校遭持剑袭击，一人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“瑞典一所学校遭持剑袭击，一人死亡”。核心要点：官员称，另有三人受伤，一名 18 岁男性嫌疑人被枪杀并被捕。",
+        "titleZh": "该英文报道关注最新动态：Father leaves 7-year-old son alone on Mount Fuji to continue hike...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Father leaves 7-year-old son alone on Mount Fuji to continue hike...”。核心要点：该英文报道关注最新动态：The man had taken his two boys on the trip but is said to have left ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 21 Aug 2026 21:03:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 22 Aug 2026 14:35:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Syria says Israeli strike near Damascus violation of international law...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Syria says Israeli strike near Damascus violation of international law...”。核心要点：该英文报道关注最新动态：The latest incident comes days after reports emerged Israel had stru...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 22 Aug 2026 21:42:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "皇家邮政再次未能实现投递目标，但对“令人鼓舞”的迹象表示欢迎",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“皇家邮政再次未能实现投递目标，但对“令人鼓舞”的迹象表示欢迎”。核心要点：这家陷入困境的公司表示，其业绩有所改善，但未能达到监管机构设定的交付目标。",
+        "titleZh": "该英文报道关注最新动态：Royal Mail misses delivery targets again but hails 'encouraging' signs...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Royal Mail misses delivery targets again but hails 'encouraging' signs...”。核心要点：该英文报道关注最新动态：The struggling firm said it had improved its performance but missed ...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 21 Aug 2026 11:20:57 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做””。核心要点：美国和加拿大之间敲定协议的谈判即将在周五晚上的最后期限之前进入最后阶段。",
+        "titleZh": "该英文报道关注最新动态：'We have more work to do', says Canada negotiator as US trade deadline looms...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'We have more work to do', says Canada negotiator as US trade deadline looms...”。核心要点：该英文报道关注最新动态：Negotiations to finalise a deal between the US and Canada are going ...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT",
         "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于放松利率的尝试被证明是短暂的，美国借贷成本上升",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于放松利率的尝试被证明是短暂的，美国借贷成本上升”。核心要点：经济学家表示，随着国债超过 40 万亿美元，人们对借贷水平持续存在担忧。",
+        "titleZh": "该英文报道关注最新动态：US borrowing costs rise as attempts to ease rates prove short-lived...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US borrowing costs rise as attempts to ease rates prove short-lived...”。核心要点：该英文报道关注最新动态：Economists said there were ongoing concerns over the level of borrow...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 21 Aug 2026 16:45:09 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "千禧一代发现很难买房——但事情可能正在出现转机",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“千禧一代发现很难买房——但事情可能正在出现转机”。核心要点：与前几代人相比，二十多岁的人拥有住房的可能性要小得多。但数据表明情况可能正在改善。",
+        "titleZh": "该英文报道关注最新动态：Millennials have found it hard to buy homes – but things may be turning a corner...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Millennials have found it hard to buy homes – but things may be turning a corner...”。核心要点：该英文报道关注最新动态：Twenty-somethings are much less likely to own a home than previous g...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 21 Aug 2026 10:02:03 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "令人窒息的炎热和破损的厕所：TUI River Cruise 乘客讲述他们的假期地狱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“令人窒息的炎热和破损的厕所：TUI River Cruise 乘客讲述他们的假期地狱”。核心要点：度假者告诉英国广播公司，他们支付了豪华假期的费用，但有故障的空调让他们陷入酷热之中。",
+        "titleZh": "该英文报道关注最新动态：Stifling heat and broken toilets: TUI River Cruise passengers tell of their holi...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Stifling heat and broken toilets: TUI River Cruise passengers tell of their holi...”。核心要点：该英文报道关注最新动态：Holidaymakers tell the BBC they paid for luxury breaks but faulty ai...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Thu, 20 Aug 2026 22:59:35 GMT",
