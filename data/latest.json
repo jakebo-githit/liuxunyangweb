@@ -1,106 +1,132 @@
 {
-  "updatedAt": "2026-08-23T02:39:20.804Z",
+  "updatedAt": "2026-08-24T02:39:48.043Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "International Expert Delphi Consensus on Endoscopic Ultrasound-Guided Portosystemic Pressure Gradient: Best Practices and Future Directions.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "title": "Peripheral and Autonomic Diabetic Neuropathy and Their Additive Risk of Major Adverse Liver Outcomes in Type 2 Diabetes.",
+        "journal": "Advances in therapy",
         "pubDate": "2026 Sep",
-        "studyType": "Journal Article / Consensus Statement",
-        "authors": "Wang TJ, Chang K, Rubin RA",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Endoscopic ultrasound guided portosystemic pressure gradient (EUS-PPG) measureme... 临床提示：该英文报道关注最新动态：However, practice variability exists with this novel technique....",
-        "abstract": "Endoscopic ultrasound guided portosystemic pressure gradient (EUS-PPG) measurement is an increasingly utilized technique that allows for direct measurement of hepatic and portal venous pressures. However, practice variability exists with this novel technique. Using the modified Delphi process, we aimed to establish consensus among international experts regarding best practices and future research for EUS-PPG. A steering committee developed consensus statements covering 4 domains: indications, pre-procedural protocol, intra-procedural technique, and future research. Forty-seven experts (29 advanced endoscopists, 18 hepatologists) were invited to participate via an online survey platform. Cons...",
-        "pmid": "41412540",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41412540/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2025.12.007",
-        "url": "https://doi.org/10.1016/j.cgh.2025.12.007"
+        "studyType": "Journal Article",
+        "authors": "Henney AE, Isanejad M, Cuthbertson DJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Type 2 diabetes (T2D) is a risk factor for the progression of liver disease, par... 临床提示：该英文报道关注最新动态：Given that diabetic neuropathy reflects advanced metabolic and microvascular inj...",
+        "abstract": "Type 2 diabetes (T2D) is a risk factor for the progression of liver disease, particularly relating to metabolic dysfunction-associated steatotic liver disease (MASLD), and consequent major adverse liver outcomes (MALO). Given that diabetic neuropathy reflects advanced metabolic and microvascular injury, we investigated whether somatic and autonomic neuropathy in T2D is associated with MALO. In this retrospective cohort study using a large, federated health research network (TriNetX), adults with T2D were stratified into (i) diabetes alone, without coding of neuropathy, (ii) diabetes with peripheral neuropathy coding, (iii) diabetes with autonomic neuropathy coding, and (iv) diabetes with com...",
+        "pmid": "42334798",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42334798/",
+        "doiUrl": "https://doi.org/10.1007/s12325-026-03667-4",
+        "url": "https://doi.org/10.1007/s12325-026-03667-4"
+      },
+      {
+        "title": "Septic Pylephlebitis and Cavernous Transformation Presenting as Pyrexia of Unknown Origin: A Diagnostic Challenge.",
+        "journal": "Clinical case reports",
+        "pubDate": "2026 Aug",
+        "studyType": "Journal Article",
+        "authors": "Sarker A, Chowdhury P, Alam MR",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Acute cholangitis classically presents with fever, jaundice, and right upper qua... 临床提示：该英文报道关注最新动态：We report a 45-year-old man referred for weight loss, malaise, and suspected non...",
+        "abstract": "Acute cholangitis classically presents with fever, jaundice, and right upper quadrant pain, but atypical or subacute disease may present as pyrexia of unknown origin (PUO) and remain unrecognized until vascular complications develop. We report a 45-year-old man referred for weight loss, malaise, and suspected non-cirrhotic portal hypertension after upper gastrointestinal endoscopy showed esophageal varices despite a normal FibroScan. Detailed history revealed intermittent fever for 2 months. Laboratory evaluation demonstrated marked systemic inflammation, with leukocytosis, neutrophilia, ferritin 1095 ng/mL, and C-reactive protein > 200 mg/L, together with a cholestatic-hepatitic liver enzym...",
+        "pmid": "42633160",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42633160/",
+        "doiUrl": "https://doi.org/10.1002/ccr3.73382",
+        "url": "https://doi.org/10.1002/ccr3.73382"
+      },
+      {
+        "title": "Risk Prediction Models for Hepatic Encephalopathy Post-Transjugular Intrahepatic Portosystemic Shunt: a Systematic Review and Critical Appraisal.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Aug 22",
+        "studyType": "Journal Article",
+        "authors": "de Reus S, Wang W, Bramer WM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 100）。核心观点：该英文报道关注最新动态：Accurate HE-risk prediction is necessary for patient selection.... 临床提示：该英文报道关注最新动态：Hence, we aimed to provide an overview of prediction models for post-TIPS HE....",
+        "abstract": "Transjugular Intrahepatic Portosystemic Shunt (TIPS) is an established treatment for portal hypertension (PH) with expanding indications. Hepatic encephalopathy (HE) is the main complication, affecting up to 50% of patients. Accurate HE-risk prediction is necessary for patient selection. Hence, we aimed to provide an overview of prediction models for post-TIPS HE. We conducted a systematic review of studies developing or validating prediction models for post-TIPS HE, which included ≥ 100 patients. The search, conducted up to December 2025, covered databases such as Embase and Medline. Outcomes assessed included AUCs/C-indices and bias risk, evaluated using PROBAST. Twenty-seven studies were ...",
+        "pmid": "42632423",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42632423/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102006",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.102006"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse...”。核心要点：该英文报道关注最新动态：Canada's prime minister said he was \"reluctantly\" announcing retalia...",
+        "titleZh": "该英文报道关注最新动态：Zelensky should be asked what he knew about government corruption, sacked minist...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky should be asked what he knew about government corruption, sacked minist...”。核心要点：该英文报道关注最新动态：Mykhailo Fedorov has also called for wartime elections to be held in...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 20:10:00 GMT",
+        "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Trump says Canada wants 'benefits' of being US state after trade talks collapse...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says Canada wants 'benefits' of being US state after trade talks collapse...”。核心要点：该英文报道关注最新动态：Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Carney faces crucial test after walking away from Trump's deal...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Carney faces crucial test after walking away from Trump's deal...”。核心要点：该英文报道关注最新动态：The Canadian prime minister will have to sell his gamble that walkin...",
+        "titleZh": "该英文报道关注最新动态：Guinea rubbish landfill collapse kills 30...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Guinea rubbish landfill collapse kills 30...”。核心要点：该英文报道关注最新动态：A mound of rubbish at a major waste site buried several homes in the...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 20:02:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 18:17:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Rus...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Rus...”。核心要点：该英文报道关注最新动态：Four people are still missing after Friday's attack which killed 16 ...",
+        "titleZh": "该英文报道关注最新动态：DR Congo and M23 rebels agree roadmap for peace talks...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：DR Congo and M23 rebels agree roadmap for peace talks...”。核心要点：该英文报道关注最新动态：Representatives met in Switzerland to work out next steps to resolve...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Father leaves 7-year-old son alone on Mount Fuji to continue hike...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Father leaves 7-year-old son alone on Mount Fuji to continue hike...”。核心要点：该英文报道关注最新动态：The man had taken his two boys on the trip but is said to have left ...",
+        "titleZh": "该英文报道关注最新动态：France links sharp rise in drownings to heatwaves...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France links sharp rise in drownings to heatwaves...”。核心要点：该英文报道关注最新动态：A government minister says people have been taking risks by going in...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 14:35:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Syria says Israeli strike near Damascus violation of international law...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Syria says Israeli strike near Damascus violation of international law...”。核心要点：该英文报道关注最新动态：The latest incident comes days after reports emerged Israel had stru...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 21:42:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 17:39:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Royal Mail misses delivery targets again but hails 'encouraging' signs...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Royal Mail misses delivery targets again but hails 'encouraging' signs...”。核心要点：该英文报道关注最新动态：The struggling firm said it had improved its performance but missed ...",
+        "titleZh": "该英文报道关注最新动态：Review launched into how pub and hotel business rates calculated...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Review launched into how pub and hotel business rates calculated...”。核心要点：该英文报道关注最新动态：The review of how rates are calculated in England and Wales could le...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 21 Aug 2026 11:20:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 23:26:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'We have more work to do', says Canada negotiator as US trade deadline looms...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'We have more work to do', says Canada negotiator as US trade deadline looms...”。核心要点：该英文报道关注最新动态：Negotiations to finalise a deal between the US and Canada are going ...",
+        "titleZh": "该英文报道关注最新动态：Shein aims for almost $27bn valuation in stock market debut...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Shein aims for almost $27bn valuation in stock market debut...”。核心要点：该英文报道关注最新动态：The fast-fashion giant's shares are due to start trading in Hong Kon...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 24 Aug 2026 02:05:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US borrowing costs rise as attempts to ease rates prove short-lived...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US borrowing costs rise as attempts to ease rates prove short-lived...”。核心要点：该英文报道关注最新动态：Economists said there were ongoing concerns over the level of borrow...",
+        "titleZh": "该英文报道关注最新动态：Why students are being paid £2,000 to play computer games...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why students are being paid £2,000 to play computer games...”。核心要点：该英文报道关注最新动态：Roehampton University offers students £2,000 a year to play esports ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 21 Aug 2026 16:45:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 23:23:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Millennials have found it hard to buy homes – but things may be turning a corner...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Millennials have found it hard to buy homes – but things may be turning a corner...”。核心要点：该英文报道关注最新动态：Twenty-somethings are much less likely to own a home than previous g...",
+        "titleZh": "该英文报道关注最新动态：'I didn't speak the Queen's English': Why people worry about their accents...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I didn't speak the Queen's English': Why people worry about their accents...”。核心要点：该英文报道关注最新动态：A survey on attitudes towards accents suggests that so-called \"accen...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 21 Aug 2026 10:02:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 23:25:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Stifling heat and broken toilets: TUI River Cruise passengers tell of their holi...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Stifling heat and broken toilets: TUI River Cruise passengers tell of their holi...”。核心要点：该英文报道关注最新动态：Holidaymakers tell the BBC they paid for luxury breaks but faulty ai...",
+        "titleZh": "该英文报道关注最新动态：Struggling households need more help with bills, energy industry says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Struggling households need more help with bills, energy industry says...”。核心要点：该英文报道关注最新动态：Industry body Energy UK says the current support for households most...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 20 Aug 2026 22:59:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 23 Aug 2026 10:11:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
