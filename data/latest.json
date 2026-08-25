@@ -1,132 +1,106 @@
 {
-  "updatedAt": "2026-08-24T02:39:48.043Z",
+  "updatedAt": "2026-08-25T02:33:19.992Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Peripheral and Autonomic Diabetic Neuropathy and Their Additive Risk of Major Adverse Liver Outcomes in Type 2 Diabetes.",
-        "journal": "Advances in therapy",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article",
-        "authors": "Henney AE, Isanejad M, Cuthbertson DJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Type 2 diabetes (T2D) is a risk factor for the progression of liver disease, par... 临床提示：该英文报道关注最新动态：Given that diabetic neuropathy reflects advanced metabolic and microvascular inj...",
-        "abstract": "Type 2 diabetes (T2D) is a risk factor for the progression of liver disease, particularly relating to metabolic dysfunction-associated steatotic liver disease (MASLD), and consequent major adverse liver outcomes (MALO). Given that diabetic neuropathy reflects advanced metabolic and microvascular injury, we investigated whether somatic and autonomic neuropathy in T2D is associated with MALO. In this retrospective cohort study using a large, federated health research network (TriNetX), adults with T2D were stratified into (i) diabetes alone, without coding of neuropathy, (ii) diabetes with peripheral neuropathy coding, (iii) diabetes with autonomic neuropathy coding, and (iv) diabetes with com...",
-        "pmid": "42334798",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42334798/",
-        "doiUrl": "https://doi.org/10.1007/s12325-026-03667-4",
-        "url": "https://doi.org/10.1007/s12325-026-03667-4"
-      },
-      {
-        "title": "Septic Pylephlebitis and Cavernous Transformation Presenting as Pyrexia of Unknown Origin: A Diagnostic Challenge.",
-        "journal": "Clinical case reports",
-        "pubDate": "2026 Aug",
-        "studyType": "Journal Article",
-        "authors": "Sarker A, Chowdhury P, Alam MR",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Acute cholangitis classically presents with fever, jaundice, and right upper qua... 临床提示：该英文报道关注最新动态：We report a 45-year-old man referred for weight loss, malaise, and suspected non...",
-        "abstract": "Acute cholangitis classically presents with fever, jaundice, and right upper quadrant pain, but atypical or subacute disease may present as pyrexia of unknown origin (PUO) and remain unrecognized until vascular complications develop. We report a 45-year-old man referred for weight loss, malaise, and suspected non-cirrhotic portal hypertension after upper gastrointestinal endoscopy showed esophageal varices despite a normal FibroScan. Detailed history revealed intermittent fever for 2 months. Laboratory evaluation demonstrated marked systemic inflammation, with leukocytosis, neutrophilia, ferritin 1095 ng/mL, and C-reactive protein > 200 mg/L, together with a cholestatic-hepatitic liver enzym...",
-        "pmid": "42633160",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42633160/",
-        "doiUrl": "https://doi.org/10.1002/ccr3.73382",
-        "url": "https://doi.org/10.1002/ccr3.73382"
-      },
-      {
-        "title": "Risk Prediction Models for Hepatic Encephalopathy Post-Transjugular Intrahepatic Portosystemic Shunt: a Systematic Review and Critical Appraisal.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Aug 22",
-        "studyType": "Journal Article",
-        "authors": "de Reus S, Wang W, Bramer WM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 100）。核心观点：该英文报道关注最新动态：Accurate HE-risk prediction is necessary for patient selection.... 临床提示：该英文报道关注最新动态：Hence, we aimed to provide an overview of prediction models for post-TIPS HE....",
-        "abstract": "Transjugular Intrahepatic Portosystemic Shunt (TIPS) is an established treatment for portal hypertension (PH) with expanding indications. Hepatic encephalopathy (HE) is the main complication, affecting up to 50% of patients. Accurate HE-risk prediction is necessary for patient selection. Hence, we aimed to provide an overview of prediction models for post-TIPS HE. We conducted a systematic review of studies developing or validating prediction models for post-TIPS HE, which included ≥ 100 patients. The search, conducted up to December 2025, covered databases such as Embase and Medline. Outcomes assessed included AUCs/C-indices and bias risk, evaluated using PROBAST. Twenty-seven studies were ...",
-        "pmid": "42632423",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42632423/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102006",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.102006"
+        "title": "Current intervention strategies for collateral circulation formation and splenomegaly in portal hypertension due to cirrhosis.",
+        "journal": "Digestion",
+        "pubDate": "2026 Aug 24",
+        "studyType": "Journal Article / Review",
+        "authors": "Sun Y, Zhao Y, Zhao B",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Portal hypertension (PH) is a common clinical syndrome characterized by a pathol... 临床提示：该英文报道关注最新动态：In cirrhosis, PH occurs owing to extensive fibrosis within the liver parenchyma,...",
+        "abstract": "Portal hypertension (PH) is a common clinical syndrome characterized by a pathologic increase in portal venous pressure. In cirrhosis, PH occurs owing to extensive fibrosis within the liver parenchyma, causing increased vascular resistance. As PH develops, collateral vessel formation and arterial vasodilation progress, enhancing the blood flow to the portal circulation. Increased levels of circulatory vasodilators are believed to be caused by portosystemic shunting and bacterial translocation, leading to the redistribution of the blood volume with central hypovolemia. Esophagogastric varices and splenomegaly develop as a result of hyperdynamic circulatory syndrome. Cirrhosis-induced blood fl...",
+        "pmid": "42636178",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636178/",
+        "doiUrl": "https://doi.org/10.1159/dig/acmag008",
+        "url": "https://doi.org/10.1159/dig/acmag008"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Zelensky should be asked what he knew about government corruption, sacked minist...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky should be asked what he knew about government corruption, sacked minist...”。核心要点：该英文报道关注最新动态：Mykhailo Fedorov has also called for wartime elections to be held in...",
+        "titleZh": "该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...”。核心要点：该英文报道关注最新动态：Scott Bessent says the US will sever all economic ties with the coun...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 24 Aug 2026 23:48:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump says Canada wants 'benefits' of being US state after trade talks collapse...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says Canada wants 'benefits' of being US state after trade talks collapse...”。核心要点：该英文报道关注最新动态：Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs...",
+        "titleZh": "该英文报道关注最新动态：UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia...”。核心要点：该英文报道关注最新动态：It comes after Moscow warned of \"consequences\" over the reported use...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 01:48:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Guinea rubbish landfill collapse kills 30...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Guinea rubbish landfill collapse kills 30...”。核心要点：该英文报道关注最新动态：A mound of rubbish at a major waste site buried several homes in the...",
+        "titleZh": "该英文报道关注最新动态：US removes Syria from list of state sponsors of terrorism...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US removes Syria from list of state sponsors of terrorism...”。核心要点：该英文报道关注最新动态：The Trump administration has embraced Syria's new president, former ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 18:17:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 00:17:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：DR Congo and M23 rebels agree roadmap for peace talks...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：DR Congo and M23 rebels agree roadmap for peace talks...”。核心要点：该英文报道关注最新动态：Representatives met in Switzerland to work out next steps to resolve...",
+        "titleZh": "该英文报道关注最新动态：Moment tornado tears through southern France...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Moment tornado tears through southern France...”。核心要点：该英文报道关注最新动态：The tornado has injured more than 40 people and destroyed homes in v...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 00:16:35 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：France links sharp rise in drownings to heatwaves...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France links sharp rise in drownings to heatwaves...”。核心要点：该英文报道关注最新动态：A government minister says people have been taking risks by going in...",
+        "titleZh": "该英文报道关注最新动态：King of Norway's health has worsened, palace says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：King of Norway's health has worsened, palace says...”。核心要点：该英文报道关注最新动态：Norway's King Harald remains in hospital receiving antibiotics for a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 17:39:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 24 Aug 2026 08:31:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Review launched into how pub and hotel business rates calculated...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Review launched into how pub and hotel business rates calculated...”。核心要点：该英文报道关注最新动态：The review of how rates are calculated in England and Wales could le...",
+        "titleZh": "该英文报道关注最新动态：Burnham refuses to rule out tax rises in autumn Budget...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham refuses to rule out tax rises in autumn Budget...”。核心要点：该英文报道关注最新动态：Experts have warned that he and Chancellor John Healey will have lit...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 23:26:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 01:35:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Shein aims for almost $27bn valuation in stock market debut...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Shein aims for almost $27bn valuation in stock market debut...”。核心要点：该英文报道关注最新动态：The fast-fashion giant's shares are due to start trading in Hong Kon...",
+        "titleZh": "该英文报道关注最新动态：New 10p coin enters circulation - will you spot one?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：New 10p coin enters circulation - will you spot one?...”。核心要点：该英文报道关注最新动态：The coin has been designed to feature King Charles III and a Scottis...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 24 Aug 2026 02:05:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 24 Aug 2026 23:03:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Why students are being paid £2,000 to play computer games...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why students are being paid £2,000 to play computer games...”。核心要点：该英文报道关注最新动态：Roehampton University offers students £2,000 a year to play esports ...",
+        "titleZh": "该英文报道关注最新动态：How Canada could hit back to hurt the US economy - and Trump...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How Canada could hit back to hurt the US economy - and Trump...”。核心要点：该英文报道关注最新动态：What leverage does Canada, which sells about 70% of its goods to the...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 23:23:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 00:40:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'I didn't speak the Queen's English': Why people worry about their accents...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I didn't speak the Queen's English': Why people worry about their accents...”。核心要点：该英文报道关注最新动态：A survey on attitudes towards accents suggests that so-called \"accen...",
+        "titleZh": "该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...”。核心要点：该英文报道关注最新动态：Scott Bessent says the US will sever all economic ties with the coun...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 23:25:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 24 Aug 2026 23:48:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Struggling households need more help with bills, energy industry says...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Struggling households need more help with bills, energy industry says...”。核心要点：该英文报道关注最新动态：Industry body Energy UK says the current support for households most...",
+        "titleZh": "该英文报道关注最新动态：'What you see is what you pay' - why some US restaurants are banning tips...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'What you see is what you pay' - why some US restaurants are banning tips...”。核心要点：该英文报道关注最新动态：Tips are central to US dining culture but some eateries think that t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 23 Aug 2026 10:11:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 24 Aug 2026 23:04:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
