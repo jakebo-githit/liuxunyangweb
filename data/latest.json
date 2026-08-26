@@ -1,106 +1,145 @@
 {
-  "updatedAt": "2026-08-25T02:33:19.992Z",
+  "updatedAt": "2026-08-26T02:41:30.340Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Current intervention strategies for collateral circulation formation and splenomegaly in portal hypertension due to cirrhosis.",
-        "journal": "Digestion",
+        "title": "Transmesenteric Extrahepatic Portosystemic Shunt for Portal Vein Cavernous Transformation with Symptomatic Portal Hypertension.",
+        "journal": "Journal of vascular and interventional radiology : JVIR",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article",
+        "authors": "Li W, Li W, Zhang H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 70）。核心观点：该英文报道关注最新动态：To assess transmesenteric extrahepatic portosystemic shunt (TmEPS) insertion in ... 临床提示：该英文报道关注最新动态：In this single-center retrospective study, 70 patients with CTPV underwent TmEPS...",
+        "abstract": "To assess transmesenteric extrahepatic portosystemic shunt (TmEPS) insertion in treatment of portal hypertension in patients with cavernous transformation of the portal vein (CTPV). In this single-center retrospective study, 70 patients with CTPV underwent TmEPS between January 2021 and December 2024. The technical success, stent dysfunction, procedure-related adverse events, overall survival, and incidence of hepatic encephalopathy (HE) were analyzed. Follow-up continued until the most recent clinical assessment or death. Seventy patients underwent TmEPS consecutively (42 men, 60%; mean age, 55.6 years [SD ± 11.6]). The procedure achieved a 100% technical success rate without procedure-rela...",
+        "pmid": "42288251",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42288251/",
+        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.108912",
+        "url": "https://doi.org/10.1016/j.jvir.2026.108912"
+      },
+      {
+        "title": "Management of gastric varices with spontaneous portosystemic shunts in cirrhotic portal hypertension: Integrating vascular anatomy into clinical management strategies.",
+        "journal": "Chinese medical journal",
+        "pubDate": "2026 Aug 24",
+        "studyType": "Journal Article",
+        "authors": "Xu W, Liu X, Pan J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Management of gastric varices with spontaneous portosystemic shunts in cirrhotic...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42637682",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42637682/",
+        "doiUrl": "https://doi.org/10.1097/CM9.0000000000004299",
+        "url": "https://doi.org/10.1097/CM9.0000000000004299"
+      },
+      {
+        "title": "Recompensation After Etiologic Cure in U.S. Veterans with HCV-Related Decompensated Cirrhosis.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "pubDate": "2026 Aug 24",
+        "studyType": "Journal Article",
+        "authors": "Goyes D, Rabiee A, Chong-Lugon N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：We evaluated the frequency, predictors, and prognostic relevance of recompensati... 临床提示：该英文报道关注最新动态：We performed a retrospective cohort study using the Veterans Outcomes and Costs ...",
+        "abstract": "Recompensation after etiologic cure is increasingly recognized as an achievable state in decompensated cirrhosis, but U.S. data remain limited. We evaluated the frequency, predictors, and prognostic relevance of recompensation after HCV cure in U.S. Veterans with HCV-related decompensated cirrhosis. We performed a retrospective cohort study using the Veterans Outcomes and Costs Associated with Liver Disease cohort. Patients with HCV-related cirrhosis, imaging-documented ascites before direct-acting antiviral (DAA) therapy and sustained virological response (SVR) were included. The primary outcome was recompensation (per Baveno VII criteria) during follow-up. Fine-Gray regression was used for...",
+        "pmid": "42637171",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42637171/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.08.010",
+        "url": "https://doi.org/10.1016/j.cgh.2026.08.010"
+      },
+      {
+        "title": "EUS-Guided Liver Biopsy and Portal Pressure Measurement Compared With a Transjugular Approach: A Systematic Review and Random Effect Meta-analysis.",
+        "journal": "Gastrointestinal endoscopy",
         "pubDate": "2026 Aug 24",
         "studyType": "Journal Article / Review",
-        "authors": "Sun Y, Zhao Y, Zhao B",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Portal hypertension (PH) is a common clinical syndrome characterized by a pathol... 临床提示：该英文报道关注最新动态：In cirrhosis, PH occurs owing to extensive fibrosis within the liver parenchyma,...",
-        "abstract": "Portal hypertension (PH) is a common clinical syndrome characterized by a pathologic increase in portal venous pressure. In cirrhosis, PH occurs owing to extensive fibrosis within the liver parenchyma, causing increased vascular resistance. As PH develops, collateral vessel formation and arterial vasodilation progress, enhancing the blood flow to the portal circulation. Increased levels of circulatory vasodilators are believed to be caused by portosystemic shunting and bacterial translocation, leading to the redistribution of the blood volume with central hypovolemia. Esophagogastric varices and splenomegaly develop as a result of hyperdynamic circulatory syndrome. Cirrhosis-induced blood fl...",
-        "pmid": "42636178",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636178/",
-        "doiUrl": "https://doi.org/10.1159/dig/acmag008",
-        "url": "https://doi.org/10.1159/dig/acmag008"
+        "authors": "Ayinde B, Asifat O, Khan R",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：The transjugular (TJ) approach has traditionally been used to assess the severit... 临床提示：该英文报道关注最新动态：According to evidence, approximately 25-35% of TJ-LBs satisfy the adequacy quali...",
+        "abstract": "The transjugular (TJ) approach has traditionally been used to assess the severity of sinusoidal portal hypertension and obtain a liver biopsy (LB). According to evidence, approximately 25-35% of TJ-LBs satisfy the adequacy quality criteria set by the American Association for the Study of Liver Diseases (AASLD). Endoscopic ultrasound (EUS) is a novel technology that allows for simultaneous portal pressure, liver biopsy, and variceal screening assessment. This study aims to compare outcomes of EUS versus the TJ approach. A comprehensive search of PubMed, Cochrane, and Embase, with eight studies included in the final analysis. The primary outcome was correlation between hepatic venous pressure ...",
+        "pmid": "42636986",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42636986/",
+        "doiUrl": "https://doi.org/10.1016/j.gie.2026.08.024",
+        "url": "https://doi.org/10.1016/j.gie.2026.08.024"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...”。核心要点：该英文报道关注最新动态：Scott Bessent says the US will sever all economic ties with the coun...",
+        "titleZh": "该英文报道关注最新动态：Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%...”。核心要点：该英文报道关注最新动态：The latest escalation in an ongoing trade war between the US and Can...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 24 Aug 2026 23:48:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 19:50:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia...”。核心要点：该英文报道关注最新动态：It comes after Moscow warned of \"consequences\" over the reported use...",
+        "titleZh": "该英文报道关注最新动态：China hits out at 'illegal' new US sanctions on Iran and trading partners...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：China hits out at 'illegal' new US sanctions on Iran and trading partners...”。核心要点：该英文报道关注最新动态：The US has threatened to isolate nations that continue to do busines...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 25 Aug 2026 01:48:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 11:53:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US removes Syria from list of state sponsors of terrorism...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US removes Syria from list of state sponsors of terrorism...”。核心要点：该英文报道关注最新动态：The Trump administration has embraced Syria's new president, former ...",
+        "titleZh": "该英文报道关注最新动态：CIA chief travels to Moscow for unannounced talks, US media reports...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：CIA chief travels to Moscow for unannounced talks, US media reports...”。核心要点：该英文报道关注最新动态：Flight tracking data confirms an American military aircraft travelle...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 25 Aug 2026 00:17:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 19:48:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Moment tornado tears through southern France...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Moment tornado tears through southern France...”。核心要点：该英文报道关注最新动态：The tornado has injured more than 40 people and destroyed homes in v...",
+        "titleZh": "该英文报道关注最新动态：Mass arrests in global crackdown on West African cyber-crime networks...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mass arrests in global crackdown on West African cyber-crime networks...”。核心要点：该英文报道关注最新动态：The operation included the arrest of 39 people in South Africa for r...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 25 Aug 2026 00:16:35 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 19:30:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：King of Norway's health has worsened, palace says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：King of Norway's health has worsened, palace says...”。核心要点：该英文报道关注最新动态：Norway's King Harald remains in hospital receiving antibiotics for a...",
+        "titleZh": "该英文报道关注最新动态：Brain disease in dead NFL players 'higher than previously shown'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Brain disease in dead NFL players 'higher than previously shown'...”。核心要点：该英文报道关注最新动态：A new study says at least one in four ex-NFL players who died betwee...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 24 Aug 2026 08:31:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 11:54:40 GMT",
+        "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Burnham refuses to rule out tax rises in autumn Budget...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham refuses to rule out tax rises in autumn Budget...”。核心要点：该英文报道关注最新动态：Experts have warned that he and Chancellor John Healey will have lit...",
+        "titleZh": "该英文报道关注最新动态：Winter energy prices expected to rise to three-year high...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Winter energy prices expected to rise to three-year high...”。核心要点：该英文报道关注最新动态：Millions of households will be affected by an increase in the energy...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 25 Aug 2026 01:35:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 23:07:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：New 10p coin enters circulation - will you spot one?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：New 10p coin enters circulation - will you spot one?...”。核心要点：该英文报道关注最新动态：The coin has been designed to feature King Charles III and a Scottis...",
+        "titleZh": "该英文报道关注最新动态：Back to school: How to save on uniform costs...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Back to school: How to save on uniform costs...”。核心要点：该英文报道关注最新动态：From baby banks to supermarket deals, there are many ways parents ca...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 24 Aug 2026 23:03:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 25 Aug 2026 23:08:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How Canada could hit back to hurt the US economy - and Trump...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How Canada could hit back to hurt the US economy - and Trump...”。核心要点：该英文报道关注最新动态：What leverage does Canada, which sells about 70% of its goods to the...",
+        "titleZh": "该英文报道关注最新动态：Musk's rocket firm SpaceX to build $100bn launch facility...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Musk's rocket firm SpaceX to build $100bn launch facility...”。核心要点：该英文报道关注最新动态：It will be the firm's biggest site yet and aims to send rockets to s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 25 Aug 2026 00:40:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 26 Aug 2026 01:32:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Iran faces 'greatest financial offensive ever', says US treasury secretary...”。核心要点：该英文报道关注最新动态：Scott Bessent says the US will sever all economic ties with the coun...",
+        "titleZh": "该英文报道关注最新动态：AI gold rush draws crypto firms away from Bitcoin...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI gold rush draws crypto firms away from Bitcoin...”。核心要点：该英文报道关注最新动态：The price of Bitcoin has risen in August but is still far below its ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 24 Aug 2026 23:48:25 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 23:11:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Iran says it is 'fully prepared' to counter widened US economic sanctions...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Iran says it is 'fully prepared' to counter widened US economic sanctions...”。核心要点：该英文报道关注最新动态：The US calls its latest sanctions on Iran an \"economic D-Day\", but T...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 25 Aug 2026 08:08:26 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：'What you see is what you pay' - why some US restaurants are banning tips...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'What you see is what you pay' - why some US restaurants are banning tips...”。核心要点：该英文报道关注最新动态：Tips are central to US dining culture but some eateries think that t...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 24 Aug 2026 23:04:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
