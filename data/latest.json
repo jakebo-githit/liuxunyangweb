@@ -1,133 +1,92 @@
 {
-  "updatedAt": "2026-08-27T11:13:49.459Z",
+  "updatedAt": "2026-08-28T12:48:14.553Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Investigating Retinal Microvascular Changes Using OCT-Angiography: The Role of Oxidative Stress and Endothelial Dysfunction in Hypertensive Nephropathy.",
-        "journal": "Medicina (Kaunas, Lithuania)",
-        "pubDate": "2026 Aug 8",
-        "studyType": "Journal Article",
-        "authors": "Malvasi M, Salomone L, Azzara I",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Background and Objectives : Arterial hypertension is a major cause of systemic m... 临床提示：该英文报道关注最新动态：Because the retinal and renal microcirculations share common pathogenic mechanis...",
-        "abstract": "Background and Objectives : Arterial hypertension is a major cause of systemic microvascular damage involving target organs such as the kidneys and retina. Because the retinal and renal microcirculations share common pathogenic mechanisms, retinal imaging may provide non-invasive biomarkers of hypertensive microvascular injury. This study investigated the association between the renal resistive index (RRI), systemic oxidative stress biomarkers, and retinal abnormalities in patients with essential hypertension. Retinal structural and microvascular parameters were evaluated using optical coherence tomography (OCT) and optical coherence tomography angiography (OCTA). Materials and Methods : In ...",
-        "pmid": "42654423",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42654423/",
-        "doiUrl": "https://doi.org/10.3390/medicina62081526",
-        "url": "https://doi.org/10.3390/medicina62081526"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "Portal Vein Thrombosis Risk in Cirrhotic Patients With Portal Hypertension on Beta-Blockers: A Multi-Institutional Cohort Study.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Abosheaishaa H, Elfert K, Abusuliman M",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：该英文报道关注最新动态：Portal vein thrombosis (PVT) is a significant complication of cirrhosis.... 临床提示：该英文报道关注最新动态：Nonselective beta-blockers (NSBBs) are standard therapy for portal hypertension,...",
-        "abstract": "Portal vein thrombosis (PVT) is a significant complication of cirrhosis. Nonselective beta-blockers (NSBBs) are standard therapy for portal hypertension, but their effect on PVT risk remains uncertain. To assess whether NSBB use after variceal band ligation increases PVT risk and to compare outcomes among propranolol, carvedilol and no NSBB therapy. We conducted a retrospective cohort study using the TriNetX US Collaborative Network (> 110 million patients). Adults with cirrhosis and portal hypertension who underwent variceal band ligation (2010-2024) were included. Patients were stratified by NSBB exposure and matched 1:1 on 12 clinical variables. The primary outcome was incident PVT; secon...",
-        "pmid": "42642993",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642993/",
-        "doiUrl": "https://doi.org/10.1111/liv.70843",
-        "url": "https://doi.org/10.1111/liv.70843"
-      },
-      {
-        "title": "Serum growth differentiation factor 15: A novel biomarker for diagnostic and prognostic prediction in biliary atresia.",
-        "journal": "Journal of pediatric surgery",
-        "pubDate": "2026 Aug 26",
-        "studyType": "Journal Article",
-        "authors": "Hida M, Suda K, Fujimoto T",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Growth differentiation factor 15 (GDF15), a stress-responsive cytokine, is a dia... 临床提示：该英文报道关注最新动态：Given our previous finding that hepatocellular mitochondrial viability is crucia...",
-        "abstract": "Growth differentiation factor 15 (GDF15), a stress-responsive cytokine, is a diagnostic biomarker of mitochondrial diseases. Given our previous finding that hepatocellular mitochondrial viability is crucial for native liver survival (NLS) in patients with biliary atresia (BA), this study investigated whether GDF15 could function as a biomarker for liver injury, diagnosis, and prognosis in BA. Using immunofluorescence, the proportion of GDF15-positive hepatocytes were determined in liver specimens obtained at treatment initiation from BA, other infantile cholestatic diseases (IC), and choledochal cysts or hepatoblastoma having normal livers (NL). Its correlation with hepatic fibrosis severity...",
-        "pmid": "42648435",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42648435/",
-        "doiUrl": "https://doi.org/10.1016/j.jpedsurg.2026.163415",
-        "url": "https://doi.org/10.1016/j.jpedsurg.2026.163415"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say...”。核心要点：该英文报道关注最新动态：Preliminary investigations by scientists have pointed to a collapsed...",
+        "titleZh": "该英文报道关注最新动态：Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood...”。核心要点：该英文报道关注最新动态：Laura Bicker explains how a lake which formed after the recent lands...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 27 Aug 2026 09:50:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 10:35:06 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：What we know about deadly Nepal-Tibet floods...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What we know about deadly Nepal-Tibet floods...”。核心要点：该英文报道关注最新动态：Hundreds have died in flooding and landslides on the border of Nepal...",
+        "titleZh": "该英文报道关注最新动态：Who is Norway's new King Haakon VIII?...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Who is Norway's new King Haakon VIII?...”。核心要点：该英文报道关注最新动态：Haakon becomes the king at a turbulent time for Norway's monarchy......",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 27 Aug 2026 09:55:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 10:37:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Norway's royal family gathers at King Harald's bedside as his condition worsens...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Norway's royal family gathers at King Harald's bedside as his condition worsens...”。核心要点：该英文报道关注最新动态：The 89-year-old has been in hospital for over a week receiving treat...",
+        "titleZh": "该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...”。核心要点：该英文报道关注最新动态：As part of an $18bn settlement in a child-safety lawsuit, Meta annou...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 27 Aug 2026 10:20:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 09:32:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Heart, hope and a steely determination: Dolly Parton's musical legacy...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Heart, hope and a steely determination: Dolly Parton's musical legacy...”。核心要点：该英文报道关注最新动态：BBC music correspondent Mark Savage looks back on the legacy of the ...",
+        "titleZh": "该英文报道关注最新动态：Trump signs order to rename Lake Ontario as Lake America...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump signs order to rename Lake Ontario as Lake America...”。核心要点：该英文报道关注最新动态：Canada has rejected the new name of the lake, which straddles both c...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 26 Aug 2026 11:32:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 08:26:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say...”。核心要点：该英文报道关注最新动态：The hospital tells the BBC the ward door was not locked but manned w...",
+        "titleZh": "该英文报道关注最新动态：World's youngest reigning traditional monarch dies aged 34...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：World's youngest reigning traditional monarch dies aged 34...”。核心要点：该英文报道关注最新动态：King Oyo ascended to the throne of Uganda's Tooro kingdom when he wa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 26 Aug 2026 14:42:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 11:13:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Meta's $18bn settlement may hasten reckoning for social media on child safety...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Meta's $18bn settlement may hasten reckoning for social media on child safety...”。核心要点：该英文报道关注最新动态：Perhaps our days of doomscrolling are numbered, writes the BBC's tec...",
+        "titleZh": "该英文报道关注最新动态：Military veterans told they owe thousands of pounds over clerical error...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Military veterans told they owe thousands of pounds over clerical error...”。核心要点：该英文报道关注最新动态：Hundreds of former UK service personnel have had their pensions cut ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 26 Aug 2026 23:04:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 27 Aug 2026 23:06:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Plug-in solar panels are coming to a shop near you - here's what to know...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Plug-in solar panels are coming to a shop near you - here's what to know...”。核心要点：该英文报道关注最新动态：The UK government claimes panels could help homes \"significantly cut...",
+        "titleZh": "该英文报道关注最新动态：Trump administration illegally retaliated against Anthropic, judge rules...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump administration illegally retaliated against Anthropic, judge rules...”。核心要点：该英文报道关注最新动态：The AI startup has been at loggerheads with the Pentagon over the us...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 27 Aug 2026 09:41:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 03:41:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Can the right scent help make your rental feel like home?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Can the right scent help make your rental feel like home?...”。核心要点：该英文报道关注最新动态：Experts share tips on how to make a flat or house feel like your own...",
+        "titleZh": "该英文报道关注最新动态：'Cowboy builders' targeted in new government clampdown...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Cowboy builders' targeted in new government clampdown...”。核心要点：该英文报道关注最新动态：A database of trusted tradespeople and a system to protect customers...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 26 Aug 2026 23:08:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 10:49:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nvidia revenue doubles on continued AI demand...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia revenue doubles on continued AI demand...”。核心要点：该英文报道关注最新动态：Chipmaker's $96bn quarter beat forecasts as demand for AI hardware c...",
+        "titleZh": "该英文报道关注最新动态：Sports Direct founder attacks Burnham's 'populist' High Street plans...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Sports Direct founder attacks Burnham's 'populist' High Street plans...”。核心要点：该英文报道关注最新动态：In a letter, the entrepreneur accuses the prime minister of \"jumping...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 26 Aug 2026 21:49:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 07:40:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How Dolly Parton's business savvy helped her succeed far beyond the charts...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How Dolly Parton's business savvy helped her succeed far beyond the charts...”。核心要点：该英文报道关注最新动态：While country music and films brought her fame, her entrepreneurial ...",
+        "titleZh": "该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...”。核心要点：该英文报道关注最新动态：As part of an $18bn settlement in a child-safety lawsuit, Meta annou...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 26 Aug 2026 23:03:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 09:32:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
