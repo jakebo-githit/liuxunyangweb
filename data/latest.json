@@ -1,60 +1,112 @@
 {
-  "updatedAt": "2026-08-28T12:48:14.553Z",
+  "updatedAt": "2026-08-29T07:54:45.661Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": []
+    "htn_kidney": [
+      {
+        "title": "Forsythoside A Alleviates Hypertensive Nephropathy by Promoting Mitophagy and Inhibiting Ferroptosis via ASCL1-CCNB1/mTOR Pathway.",
+        "journal": "Journal of ethnopharmacology",
+        "pubDate": "2026 Aug 28",
+        "studyType": "Journal Article",
+        "authors": "Cui X, Yang D, Zhang Z",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Forsythiae Fructus, a classic heat-clearing and detoxifying herb in traditional ... 临床提示：该英文报道关注最新动态：Its primary bioactive component, Forsythoside A (FTA), exhibits potent anti-infl...",
+        "abstract": "Forsythiae Fructus, a classic heat-clearing and detoxifying herb in traditional Chinese medicine (TCM), is widely used for inflammatory conditions. Its primary bioactive component, Forsythoside A (FTA), exhibits potent anti-inflammatory and antioxidant activities. Given that hypertensive nephropathy is characterized by chronic inflammation, oxidative stress, and fibrosis-hallmarks that correspond to \"heat\" and \"toxin\" pathologies in TCM theory-Forsythiae Fructus represents a rational candidate for HN therapy. However, the precise mechanisms by which FTA inhibits HN progression remain incompletely elucidated. This study aims to investigate the protective effects of FTA against Ang II-induced ...",
+        "pmid": "42665168",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42665168/",
+        "doiUrl": "https://doi.org/10.1016/j.jep.2026.122346",
+        "url": "https://doi.org/10.1016/j.jep.2026.122346"
+      }
+    ],
+    "portal_hypertension": [
+      {
+        "title": "Genetic testing in liver diseases: Clinical applications.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article / Review",
+        "authors": "Keitel V, Mentzinger A, Dröge C",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Completion of the human genome sequence, together with major technological advan... 临床提示：该英文报道关注最新动态：Human genetics has long been a cornerstone to elucidate the molecular basis of d...",
+        "abstract": "Human genetics has long been a cornerstone to elucidate the molecular basis of disease. Completion of the human genome sequence, together with major technological advances, has dramatically reduced sequencing costs while increasing the scale, accuracy, and interpretability of genomic data. These developments have accelerated the clinical translation of genomic testing. Although genomic medicine has been most widely adopted in paediatrics, neurology, and oncology, its application in adult hepatology is expanding rapidly. This review synthesises the growing body of evidence supporting the use of genetic testing in the diagnosis and management of adults across a broad spectrum of liver diseases...",
+        "pmid": "42214790",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42214790/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.101902",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.101902"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood...”。核心要点：该英文报道关注最新动态：Laura Bicker explains how a lake which formed after the recent lands...",
+        "titleZh": "该英文报道关注最新动态：Footage of Tibet floods isn't being shown in China - and we know little about vi...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Footage of Tibet floods isn't being shown in China - and we know little about vi...”。核心要点：该英文报道关注最新动态：Some of the most dramatic footage from the deadly flash flooding is ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 10:35:06 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 29 Aug 2026 03:54:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Who is Norway's new King Haakon VIII?...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Who is Norway's new King Haakon VIII?...”。核心要点：该英文报道关注最新动态：Haakon becomes the king at a turbulent time for Norway's monarchy......",
+        "titleZh": "该英文报道关注最新动态：Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil...”。核心要点：该英文报道关注最新动态：Venezuelan interim president says the unusual agreement will help re...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 10:37:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 29 Aug 2026 02:42:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...”。核心要点：该英文报道关注最新动态：As part of an $18bn settlement in a child-safety lawsuit, Meta annou...",
+        "titleZh": "该英文报道关注最新动态：Landlady to 9/11 hijackers reveals their links to alleged Saudi spy...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Landlady to 9/11 hijackers reveals their links to alleged Saudi spy...”。核心要点：该英文报道关注最新动态：A woman who rented out homes to two al-Qaeda members speaks publicly...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 09:32:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 29 Aug 2026 00:32:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump signs order to rename Lake Ontario as Lake America...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump signs order to rename Lake Ontario as Lake America...”。核心要点：该英文报道关注最新动态：Canada has rejected the new name of the lake, which straddles both c...",
+        "titleZh": "该英文报道关注最新动态：Norway mourns King Harald as Haakon VIII ascends throne...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Norway mourns King Harald as Haakon VIII ascends throne...”。核心要点：该英文报道关注最新动态：Mourners gather outside the palace as royals, politicians and citize...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 08:26:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 28 Aug 2026 19:40:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：World's youngest reigning traditional monarch dies aged 34...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：World's youngest reigning traditional monarch dies aged 34...”。核心要点：该英文报道关注最新动态：King Oyo ascended to the throne of Uganda's Tooro kingdom when he wa...",
+        "titleZh": "该英文报道关注最新动态：Right-wing commentator Milo Yiannopoulos detained by ICE...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Right-wing commentator Milo Yiannopoulos detained by ICE...”。核心要点：该英文报道关注最新动态：The British citizen, who lives and works in the US, has supported Tr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 11:13:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 29 Aug 2026 00:46:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Military veterans told they owe thousands of pounds over clerical error...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Military veterans told they owe thousands of pounds over clerical error...”。核心要点：该英文报道关注最新动态：Hundreds of former UK service personnel have had their pensions cut ...",
+        "titleZh": "该英文报道关注最新动态：Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil...”。核心要点：该英文报道关注最新动态：Venezuelan interim president says the unusual agreement will help re...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 27 Aug 2026 23:06:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 29 Aug 2026 02:42:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Wife of man who died after turbulence sues airline...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Wife of man who died after turbulence sues airline...”。核心要点：该英文报道关注最新动态：Lawyers for Linda Kitchen say her husband was \"fatally injured\" afte...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 28 Aug 2026 17:47:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Fed has 'work to do' if price rises don't ease for Americans, Warsh says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Fed has 'work to do' if price rises don't ease for Americans, Warsh says...”。核心要点：该英文报道关注最新动态：Kevin Warsh remarks suggest interest rates could be increased if pol...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 28 Aug 2026 15:15:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：I was spending £700 a month: How I beat my late-night shopping addiction...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I was spending £700 a month: How I beat my late-night shopping addiction...”。核心要点：该英文报道关注最新动态：Younger generations are thought to be more susceptible to impulse sp...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 27 Aug 2026 23:04:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：Trump administration illegally retaliated against Anthropic, judge rules...",
@@ -63,30 +115,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 28 Aug 2026 03:41:59 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：'Cowboy builders' targeted in new government clampdown...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Cowboy builders' targeted in new government clampdown...”。核心要点：该英文报道关注最新动态：A database of trusted tradespeople and a system to protect customers...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 10:49:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Sports Direct founder attacks Burnham's 'populist' High Street plans...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Sports Direct founder attacks Burnham's 'populist' High Street plans...”。核心要点：该英文报道关注最新动态：In a letter, the entrepreneur accuses the prime minister of \"jumping...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 07:40:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Not far enough' - US parents and teens on Meta's new limits for young users...”。核心要点：该英文报道关注最新动态：As part of an $18bn settlement in a child-safety lawsuit, Meta annou...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 28 Aug 2026 09:32:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
