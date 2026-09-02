@@ -1,106 +1,119 @@
 {
-  "updatedAt": "2026-09-01T06:16:55.319Z",
+  "updatedAt": "2026-09-02T05:50:54.490Z",
   "topics": {
-    "htn_kidney": [
+    "htn_kidney": [],
+    "portal_hypertension": [
       {
-        "title": "Chronic Kidney Disease Care in Saudi Arabia: Challenges, and Future Directions Under Vision 2030 (A Systematic Review Study).",
-        "journal": "International journal of general medicine",
-        "pubDate": "2026",
-        "studyType": "Journal Article / Review",
-        "authors": "Albacker AB",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：该英文报道关注最新动态：The review examines Saudi Vision 2030 through its current epidemiological data a... 临床提示：该英文报道关注最新动态：The increasing healthcare burden from kidney disease which includes chronic kidn...",
-        "abstract": "The increasing healthcare burden from kidney disease which includes chronic kidney disease (CKD) and end-stage kidney disease (ESKD) demonstrates how diabetes and hypertension have become major health concerns for the Saudi Arabian population. The review examines Saudi Vision 2030 through its current epidemiological data and healthcare system assessment and existing obstacles to effective treatment and potential future developments. A literature search identified key studies on prevalence, risk factors, workforce, and innovations. The population screening results shows that CKD prevalence ranges from 4.76% to 13.8% with diabetic nephropathy and hypertensive nephropathy as the main causes. Al...",
-        "pmid": "42670335",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42670335/",
-        "doiUrl": "https://doi.org/10.2147/IJGM.S633007",
-        "url": "https://doi.org/10.2147/IJGM.S633007"
+        "title": "Spleen stiffness measurement rules out high-risk varices in patients with chronic portal vein thrombosis without cirrhosis.",
+        "journal": "Journal of hepatology",
+        "pubDate": "2026 Sep 1",
+        "studyType": "Journal Article",
+        "authors": "Moga L, Payancé A, Téllez L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 159）。核心观点：该英文报道关注最新动态：Screening endoscopy can be spared in patients with compensated cirrhosis when sp... 临床提示：该英文报道关注最新动态：Conversely, endoscopy is required in all patients with chronic portal vein throm...",
+        "abstract": "Screening endoscopy can be spared in patients with compensated cirrhosis when spleen stiffness measurement (SSM) by vibration-controlled transient elastography (VCTE) is ≤40 kPa, as they have a low probability of high-risk varices (HRV). Conversely, endoscopy is required in all patients with chronic portal vein thrombosis (PVT) without cirrhosis. The objective was to evaluate the performance of SSM-VCTE to exclude HRV in patients with chronic PVT. We retrospectively included patients with chronic PVT without cirrhosis, who underwent an upper endoscopy within 2 years before or after SSM-VCTE in 16 VALDIG centers, divided into a derivation and a validation cohort. 159 patients were included in...",
+        "pmid": "42679862",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679862/",
+        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.08.026",
+        "url": "https://doi.org/10.1016/j.jhep.2026.08.026"
+      },
+      {
+        "title": "Hemodynamic insights into TIPS intervention for portal hypertension management: a comprehensive computational study.",
+        "journal": "Computers in biology and medicine",
+        "pubDate": "2026 Sep 1",
+        "studyType": "Journal Article",
+        "authors": "Varsos P, Schäfer F, Ripoll C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The Transjugular Intrahepatic Portosystemic Shunt (TIPS) is a well-established t... 临床提示：该英文报道关注最新动态：However, excessive shunting, particularly with larger graft diameters, may incre...",
+        "abstract": "The Transjugular Intrahepatic Portosystemic Shunt (TIPS) is a well-established treatment for complications of portal hypertension in liver cirrhosis, effectively reducing the portal pressure gradient (PPG) and improving transplant-free survival. However, excessive shunting, particularly with larger graft diameters, may increase systemic ammonia levels, predisposing patients to hepatic encephalopathy, and may also precipitate cardiac complications. Computational modelling may therefore eventually serve as a predictive tool for patient selection and pre-procedural planning. In this study, patient-specific TIPS geometries were segmented from CT images and analyzed using computational fluid dyna...",
+        "pmid": "42679781",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679781/",
+        "doiUrl": "https://doi.org/10.1016/j.compbiomed.2026.111909",
+        "url": "https://doi.org/10.1016/j.compbiomed.2026.111909"
       }
-    ],
-    "portal_hypertension": []
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：What it was like inside court for Tupac Shakur’s murder trial verdict...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What it was like inside court for Tupac Shakur’s murder trial verdict...”。核心要点：该英文报道关注最新动态：BBC presenter Anoushka Mutanda-Dougherty describes what it was like ...",
+        "titleZh": "该英文报道关注最新动态：Iran attacks US bases in Middle East after reports US strike killed five at wedd...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran attacks US bases in Middle East after reports US strike killed five at wedd...”。核心要点：该英文报道关注最新动态：The Iranian Red Crescent says a child was among those killed when sh...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 02:30:45 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 05:12:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nepal rescuers blast hillside in search of hydropower workers as families wait a...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nepal rescuers blast hillside in search of hydropower workers as families wait a...”。核心要点：该英文报道关注最新动态：Rescuers have resorted to explosives as they struggle to reach trapp...",
+        "titleZh": "该英文报道关注最新动态：Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone ...”。核心要点：该英文报道关注最新动态：Chinese and Gulf state airlines are among those still using Russian ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 02:18:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 04:23:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US army secretary resigns after months of tension...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US army secretary resigns after months of tension...”。核心要点：该英文报道关注最新动态：Dan Driscoll, the youngest-ever army secretary, was about 18 months ...",
+        "titleZh": "该英文报道关注最新动态：Israel expanding presence in Lebanon, officials say, as BBC visits occupied area...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Israel expanding presence in Lebanon, officials say, as BBC visits occupied area...”。核心要点：该英文报道关注最新动态：A BBC team joined a humanitarian mission of the UN peacekeeping forc...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 01:01:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 05:03:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'I've never been to Afghanistan': Six million deportees forced to start over und...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'I've never been to Afghanistan': Six million deportees forced to start over und...”。核心要点：该英文报道关注最新动态：As of August, the number forced to return this year from Pakistan an...",
+        "titleZh": "该英文报道关注最新动态：Charlie Kirk murder suspect pleads not guilty as judge clears way for death pena...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Charlie Kirk murder suspect pleads not guilty as judge clears way for death pena...”。核心要点：该英文报道关注最新动态：The 23-year-old is charged with aggravated murder, a capital offence...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 05:00:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 01:59:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Shein shares fall in long-awaited stock market debut...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Shein shares fall in long-awaited stock market debut...”。核心要点：该英文报道关注最新动态：The firm's Hong Kong listing on Tuesday comes after a years-long que...",
+        "titleZh": "该英文报道关注最新动态：US aircraft carrier docks near Thai beach resort Pattaya after record 250 days a...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US aircraft carrier docks near Thai beach resort Pattaya after record 250 days a...”。核心要点：该英文报道关注最新动态：The USS Lincoln is docking close to Pattaya, known for its raucous n...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 04:15:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 02:42:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Shein shares fall in long-awaited stock market debut...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Shein shares fall in long-awaited stock market debut...”。核心要点：该英文报道关注最新动态：The firm's Hong Kong listing on Tuesday comes after a years-long que...",
+        "titleZh": "该英文报道关注最新动态：UK long-term borrowing costs highest since 1998 ahead of October Budget...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK long-term borrowing costs highest since 1998 ahead of October Budget...”。核心要点：该英文报道关注最新动态：Higher borrowing costs have piled fresh pressure on Andy Burnham ahe...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 04:15:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 01:23:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI could cause global economic downturn, Andrew Bailey warns G20...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI could cause global economic downturn, Andrew Bailey warns G20...”。核心要点：该英文报道关注最新动态：The governor of the Bank of England warned of AI's “volatility” caus...",
+        "titleZh": "该英文报道关注最新动态：Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group...”。核心要点：该英文报道关注最新动态：Booking.com said the \"limited test\" was \"not a true reflection of th...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 31 Aug 2026 16:49:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 01:27:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Amazon rigged billions in ad pricing, lawsuit from states and US watchdog allege...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Amazon rigged billions in ad pricing, lawsuit from states and US watchdog allege...”。核心要点：该英文报道关注最新动态：Amazon responded to the lawsuit, arguing the US Federal Trade Commis...",
+        "titleZh": "该英文报道关注最新动态：Soft launches and late sittings - six ways to get cheaper meals out...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Soft launches and late sittings - six ways to get cheaper meals out...”。核心要点：该英文报道关注最新动态：The cost of dining out is getting increasingly hard to swallow - but...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 31 Aug 2026 21:28:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 01 Sep 2026 23:26:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Japan Inc is betting big on India as China risks deepen...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Japan Inc is betting big on India as China risks deepen...”。核心要点：该英文报道关注最新动态：Japanese companies are doubling down on India amid a shrinking domes...",
+        "titleZh": "该英文报道关注最新动态：Range Rover launches first fully electric model...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Range Rover launches first fully electric model...”。核心要点：该英文报道关注最新动态：The vehicle is being built at JLR's manufacturing plant in Solihull,...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 31 Aug 2026 22:07:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 01 Sep 2026 23:43:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Victoria Beckham's company makes its first profit after 18 years...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Victoria Beckham's company makes its first profit after 18 years...”。核心要点：该英文报道关注最新动态：Beckham's fashion and beauty business makes a £7.3m operating profit...",
+        "titleZh": "该英文报道关注最新动态：Apple Maps renames Lake Ontario as Lake America after Trump order...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Apple Maps renames Lake Ontario as Lake America after Trump order...”。核心要点：该英文报道关注最新动态：The iPhone maker follows rival technology giant Google in relabellin...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 31 Aug 2026 17:28:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 01:32:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
