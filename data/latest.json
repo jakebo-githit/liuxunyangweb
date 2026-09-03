@@ -1,119 +1,145 @@
 {
-  "updatedAt": "2026-09-02T05:50:54.490Z",
+  "updatedAt": "2026-09-03T05:49:24.517Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Spleen stiffness measurement rules out high-risk varices in patients with chronic portal vein thrombosis without cirrhosis.",
-        "journal": "Journal of hepatology",
+        "title": "Proceedings of ESPGHAN monothematic conference 2024 (II): Management of portal hypertension in children and adolescents.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
         "pubDate": "2026 Sep 1",
         "studyType": "Journal Article",
-        "authors": "Moga L, Payancé A, Téllez L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 159）。核心观点：该英文报道关注最新动态：Screening endoscopy can be spared in patients with compensated cirrhosis when sp... 临床提示：该英文报道关注最新动态：Conversely, endoscopy is required in all patients with chronic portal vein throm...",
-        "abstract": "Screening endoscopy can be spared in patients with compensated cirrhosis when spleen stiffness measurement (SSM) by vibration-controlled transient elastography (VCTE) is ≤40 kPa, as they have a low probability of high-risk varices (HRV). Conversely, endoscopy is required in all patients with chronic portal vein thrombosis (PVT) without cirrhosis. The objective was to evaluate the performance of SSM-VCTE to exclude HRV in patients with chronic PVT. We retrospectively included patients with chronic PVT without cirrhosis, who underwent an upper endoscopy within 2 years before or after SSM-VCTE in 16 VALDIG centers, divided into a derivation and a validation cohort. 159 patients were included in...",
-        "pmid": "42679862",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679862/",
-        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.08.026",
-        "url": "https://doi.org/10.1016/j.jhep.2026.08.026"
+        "authors": "Mercadal-Hally M, Di Giorgio A, Chan CHK",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To summarise current evidence and expert perspectives on the management of paedi... 临床提示：该英文报道关注最新动态：To summarise current evidence and expert perspectives on the management of paedi...",
+        "abstract": "To summarise current evidence and expert perspectives on the management of paediatric portal hypertension, primarily focusing on portal hypertensive varices and gastrointestinal bleeding in children, as discussed during the European Society for Paediatric Gastroenterology, Hepatology, and Nutrition (ESPGHAN) monothematic conference meeting on portal hypertension. In 2024, an EPSGHAN 3-day monothematic conference on paediatric portal hypertension was held in Dublin (Ireland), gathering international experts in portal hypertension. The second part of the meeting focused on clinical algorithms for acute variceal bleeding, minimally invasive radiological treatments, surgical shunts, and indicati...",
+        "pmid": "42681558",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42681558/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70550",
+        "url": "https://doi.org/10.1002/jpn3.70550"
       },
       {
-        "title": "Hemodynamic insights into TIPS intervention for portal hypertension management: a comprehensive computational study.",
-        "journal": "Computers in biology and medicine",
+        "title": "Proceedings of ESPGHAN monothematic conference 2024 (I): Aetiology, diagnosis and complications of portal hypertension in children and adolescents.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
         "pubDate": "2026 Sep 1",
         "studyType": "Journal Article",
-        "authors": "Varsos P, Schäfer F, Ripoll C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The Transjugular Intrahepatic Portosystemic Shunt (TIPS) is a well-established t... 临床提示：该英文报道关注最新动态：However, excessive shunting, particularly with larger graft diameters, may incre...",
-        "abstract": "The Transjugular Intrahepatic Portosystemic Shunt (TIPS) is a well-established treatment for complications of portal hypertension in liver cirrhosis, effectively reducing the portal pressure gradient (PPG) and improving transplant-free survival. However, excessive shunting, particularly with larger graft diameters, may increase systemic ammonia levels, predisposing patients to hepatic encephalopathy, and may also precipitate cardiac complications. Computational modelling may therefore eventually serve as a predictive tool for patient selection and pre-procedural planning. In this study, patient-specific TIPS geometries were segmented from CT images and analyzed using computational fluid dyna...",
-        "pmid": "42679781",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42679781/",
-        "doiUrl": "https://doi.org/10.1016/j.compbiomed.2026.111909",
-        "url": "https://doi.org/10.1016/j.compbiomed.2026.111909"
+        "authors": "Di Giorgio A, Chan CHK, Mercadal-Hally M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The hepatology committee of the European Society for Paediatric Gastroenterology... 临床提示：该英文报道关注最新动态：Here we provide recent developments in the understanding, diagnosis and clinical...",
+        "abstract": "The hepatology committee of the European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) aims to provide education on key aspects of paediatric hepatology. Here we provide recent developments in the understanding, diagnosis and clinical consequences of portal hypertension (PHT) in children and young people, an area in which evidence remains scarce and fragmented. In 2024, an EPSGHAN 3-day monothematic conference on paediatric PHT, held in Dublin (Ireland), brought together international experts in PHT. The first sessions of the conference were dedicated to PHT classification, pathophysiology, epidemiology, diagnostic dilemmas and major complications. Lectures have...",
+        "pmid": "42681549",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42681549/",
+        "doiUrl": "https://doi.org/10.1002/jpn3.70551",
+        "url": "https://doi.org/10.1002/jpn3.70551"
+      },
+      {
+        "title": "Effects of laparoscopic splenectomy and azygoportal disconnection on immune remodeling in cirrhosis patients with portal hypertension bleeding: a 1-year prospective study.",
+        "journal": "Surgical endoscopy",
+        "pubDate": "2026 Sep 1",
+        "studyType": "Journal Article",
+        "authors": "Cai J, Wan B, Chen C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 49）。核心观点：该英文报道关注最新动态：Postoperative immune function was remodeled: the relative count of CD4⁺ T cells ... 临床提示：该英文报道关注最新动态：This study aimed to characterize immune remodeling following laparoscopic splene...",
+        "abstract": "This study aimed to characterize immune remodeling following laparoscopic splenectomy and azygoportal disconnection (LSD) in patients with cirrhotic portal hypertension. In this 1-year prospective study, a total of 49 patients with cirrhotic portal hypertension received LSD treatment. We analyzed the dynamic changes in immune function-related indices through serial assessments conducted preoperatively and at 1, 3, 6, and 12 months postoperatively (POM 1, 3, 6, 12), specifically focusing on CD4+ T cell, CD8+ T cell, and CD19+.CD20+ B cell. Postoperative immune function was remodeled: the relative count of CD4⁺ T cells decreased progressively from 59.13% (53.49%, 69.40%) preoperatively to 43.0...",
+        "pmid": "42680927",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42680927/",
+        "doiUrl": "https://doi.org/10.1007/s00464-026-13286-3",
+        "url": "https://doi.org/10.1007/s00464-026-13286-3"
+      },
+      {
+        "title": "Conventional Liver Retransplantation with Caval Replacement for Suprahepatic Inferior Vena Cava Stenosis Secondary to a Malpositioned TIPS: A Case Report.",
+        "journal": "Transplantation proceedings",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Santos Silva M, Waisberg DR, Rocha-Santos V",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Transjugular intrahepatic portosystemic shunt (TIPS) is a well-established bridg... 临床提示：该英文报道关注最新动态：However, the impact of long-standing malpositioned TIPS on liver transplantation...",
+        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) is a well-established bridging therapy for the management of severe complications of portal hypertension. However, the impact of long-standing malpositioned TIPS on liver transplantation remains scarcely reported CASE REPORT: A 64-year-old male with alcoholic cirrhosis and refractory hepatic hydrothorax underwent TIPS placement with sustained clinical benefit for nearly 8 years. He later developed refractory ascites and recurrent hepatic encephalopathy and was listed for liver transplantation. He subsequently underwent the procedure using the piggyback technique, requiring venoplasty of the lateral wall of the inferior vena cava due to ext...",
+        "pmid": "42532741",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42532741/",
+        "doiUrl": "https://doi.org/10.1016/j.transproceed.2026.07.004",
+        "url": "https://doi.org/10.1016/j.transproceed.2026.07.004"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Iran attacks US bases in Middle East after reports US strike killed five at wedd...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran attacks US bases in Middle East after reports US strike killed five at wedd...”。核心要点：该英文报道关注最新动态：The Iranian Red Crescent says a child was among those killed when sh...",
+        "titleZh": "该英文报道关注最新动态：Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat...”。核心要点：该英文报道关注最新动态：Once-rival criminal groups are being forced to work together because...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 05:12:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 03 Sep 2026 05:00:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone ...”。核心要点：该英文报道关注最新动态：Chinese and Gulf state airlines are among those still using Russian ...",
+        "titleZh": "该英文报道关注最新动态：Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says...”。核心要点：该英文报道关注最新动态：The kingdom condemns the targeting of Sidr, which was reportedly hit...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 04:23:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 17:33:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Israel expanding presence in Lebanon, officials say, as BBC visits occupied area...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Israel expanding presence in Lebanon, officials say, as BBC visits occupied area...”。核心要点：该英文报道关注最新动态：A BBC team joined a humanitarian mission of the UN peacekeeping forc...",
+        "titleZh": "该英文报道关注最新动态：Protests in Spain against government's handling of Ceuta migrant crisis...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Protests in Spain against government's handling of Ceuta migrant crisis...”。核心要点：该英文报道关注最新动态：Spanish opposition parties accuse Prime Minister Pedro Sánchez of ab...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 05:03:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 21:34:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Charlie Kirk murder suspect pleads not guilty as judge clears way for death pena...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Charlie Kirk murder suspect pleads not guilty as judge clears way for death pena...”。核心要点：该英文报道关注最新动态：The 23-year-old is charged with aggravated murder, a capital offence...",
+        "titleZh": "该英文报道关注最新动态：Will the Lindsay Clancy trial end in a mistrial? Here are the jury's options...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Will the Lindsay Clancy trial end in a mistrial? Here are the jury's options...”。核心要点：该英文报道关注最新动态：Jurors have five options before them as they decide the fate of the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 01:59:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 23:56:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US aircraft carrier docks near Thai beach resort Pattaya after record 250 days a...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US aircraft carrier docks near Thai beach resort Pattaya after record 250 days a...”。核心要点：该英文报道关注最新动态：The USS Lincoln is docking close to Pattaya, known for its raucous n...",
+        "titleZh": "该英文报道关注最新动态：Trump $1 coin makes him first living president on US currency in a century...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump $1 coin makes him first living president on US currency in a century...”。核心要点：该英文报道关注最新动态：The US Mint special edition is stamped with a portrait of Trump alon...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 02:42:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 03 Sep 2026 03:39:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：UK long-term borrowing costs highest since 1998 ahead of October Budget...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK long-term borrowing costs highest since 1998 ahead of October Budget...”。核心要点：该英文报道关注最新动态：Higher borrowing costs have piled fresh pressure on Andy Burnham ahe...",
+        "titleZh": "该英文报道关注最新动态：B&Q and Five Guys among firms that paid staff below minimum wage...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：B&Q and Five Guys among firms that paid staff below minimum wage...”。核心要点：该英文报道关注最新动态：More than 600 companies underpaid staff, with £4m returned to worker...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 01:23:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 23:08:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group...”。核心要点：该英文报道关注最新动态：Booking.com said the \"limited test\" was \"not a true reflection of th...",
+        "titleZh": "该英文报道关注最新动态：Almost half of households do not see benefits of economic growth, report says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Almost half of households do not see benefits of economic growth, report says...”。核心要点：该英文报道关注最新动态：Analysis has found a \"stark\" gap in the spending power of households...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 01:27:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 03 Sep 2026 05:47:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Soft launches and late sittings - six ways to get cheaper meals out...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Soft launches and late sittings - six ways to get cheaper meals out...”。核心要点：该英文报道关注最新动态：The cost of dining out is getting increasingly hard to swallow - but...",
+        "titleZh": "该英文报道关注最新动态：'I don't even like them': How much should you give to office gift collections?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I don't even like them': How much should you give to office gift collections?...”。核心要点：该英文报道关注最新动态：Office whip-rounds are a staple of working life but they can raise a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 23:26:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 23:25:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Range Rover launches first fully electric model...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Range Rover launches first fully electric model...”。核心要点：该英文报道关注最新动态：The vehicle is being built at JLR's manufacturing plant in Solihull,...",
+        "titleZh": "该英文报道关注最新动态：How Victoria Beckham turned her fashion firm around and made it profitable...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How Victoria Beckham turned her fashion firm around and made it profitable...”。核心要点：该英文报道关注最新动态：The pop star formerly known as Posh Spice has taken nearly two decad...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 01 Sep 2026 23:43:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 02 Sep 2026 23:24:06 GMT",
+        "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Apple Maps renames Lake Ontario as Lake America after Trump order...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Apple Maps renames Lake Ontario as Lake America after Trump order...”。核心要点：该英文报道关注最新动态：The iPhone maker follows rival technology giant Google in relabellin...",
+        "titleZh": "该英文报道关注最新动态：Trump $1 coin makes him first living president on US currency in a century...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump $1 coin makes him first living president on US currency in a century...”。核心要点：该英文报道关注最新动态：The US Mint special edition is stamped with a portrait of Trump alon...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 02 Sep 2026 01:32:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 03 Sep 2026 03:39:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
