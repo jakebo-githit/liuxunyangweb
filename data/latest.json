@@ -1,132 +1,145 @@
 {
-  "updatedAt": "2026-09-04T05:56:01.895Z",
+  "updatedAt": "2026-09-05T05:47:37.903Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Redefining the Role of TIPS in Decompensated Cirrhosis: From Portal Hypertension to Hepatic Recompensation.",
-        "journal": "Gastroenterologia y hepatologia",
-        "pubDate": "2026 Sep 3",
+        "title": "Endoscopic Injection Sclerotherapy With Pre-deflation Ligation for Prolonged Sclerosant Retention in Esophageal Varices: A Case Report.",
+        "journal": "DEN open",
+        "pubDate": "2027 Apr",
         "studyType": "Journal Article",
-        "authors": "Sánchez J, Poyatos P, González S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Redefining the Role of TIPS in Decompensated Cirrhosis: From Portal Hypertension...",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42692109",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42692109/",
-        "doiUrl": "https://doi.org/10.1016/j.gastrohep.2026.502849",
-        "url": "https://doi.org/10.1016/j.gastrohep.2026.502849"
+        "authors": "Sugawara N, Iwatsubo T, Kaizuka M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Effective variceal thrombosis requires sufficient intravariceal retention of the... 临床提示：该英文报道关注最新动态：In conventional EISL, endoscopic variceal ligation (EVL) is performed after ball...",
+        "abstract": "Esophageal varices are a common complication of portal hypertension, and prophylactic endoscopic injection sclerotherapy with ligation (EISL) is an established treatment option. Effective variceal thrombosis requires sufficient intravariceal retention of the sclerosant, because ethanolamine oleate exerts its thrombogenic effect through prolonged contact with the venous endothelium. In conventional EISL, endoscopic variceal ligation (EVL) is performed after balloon deflation, leaving a transient interval during which restored blood flow and an open puncture site may permit washout of the sclerosant and bleeding. We describe EIS with pre-deflation ligation (EISpdL), in which EVL of the punctur...",
+        "pmid": "42694965",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42694965/",
+        "doiUrl": "https://doi.org/10.1002/deo2.70410",
+        "url": "https://doi.org/10.1002/deo2.70410"
       },
       {
-        "title": "Ultrasound and point shear-wave elastography assessment for predicting esophageal varices in schistosomiasis-associated non-cirrhotic portal hypertension.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 Sep 3",
+        "title": "Splenic Elastography as a Predictor of Gastroesophageal Varices in Cirrhosis.",
+        "journal": "Clinical and translational gastroenterology",
+        "pubDate": "2026 Sep 4",
         "studyType": "Journal Article",
-        "authors": "Pereira CLD, Domingues ALC, Santos JC",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To evaluate the usefulness of ultrasonography and liver and spleen elastography ... 临床提示：该英文报道关注最新动态：To evaluate the usefulness of ultrasonography and liver and spleen elastography ...",
-        "abstract": "To evaluate the usefulness of ultrasonography and liver and spleen elastography (point shear-wave elastography) for predicting the presence of esophageal varices in patients with schistosomiasis-associated non-cirrhotic portal hypertension (NCPH), and to identify which non-invasive parameters best correlate with the presence of esophageal varices. A prospective and cross-sectional study involving patients with NCPH related to schistosomiasis, with and without upper gastrointestinal bleeding history, conducted at the Gastroenterology Division on a referall hospital in Pernambuco, Brazil. All patients underwent upper abdominal ultrasonography and hepatic and splenic stiffness by pSWE, both per...",
-        "pmid": "42690412",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42690412/",
-        "doiUrl": "https://doi.org/10.1007/s00261-026-05762-0",
-        "url": "https://doi.org/10.1007/s00261-026-05762-0"
+        "authors": "Pacheco Oliva J, Meléndez Rodríguez NI, Sánchez Orozco AA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 78）。核心观点：该英文报道关注最新动态：Gastroesophageal varices are a major complication of portal hypertension in cirr... 临床提示：该英文报道关注最新动态：Noninvasive predictors are needed to reduce reliance on endoscopy....",
+        "abstract": "Gastroesophageal varices are a major complication of portal hypertension in cirrhosis, associated with high morbidity and mortality. Noninvasive predictors are needed to reduce reliance on endoscopy. Splenic elastography has emerged as a potential tool to assess portal hypertension severity. We conducted prospective, descriptive cross-sectional study at Hospital Roosevelt, Guatemala, in 2024, including 78 patients with recent diagnosis of cirrhosis confirmed by ultrasonography. Patients with hepatocellular carcinoma, acute decompensation, or conditions interfering with splenic stiffness measurement were excluded. Splenic stiffness was measured using transient elastography with the M probe. E...",
+        "pmid": "42696653",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42696653/",
+        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001092",
+        "url": "https://doi.org/10.14309/ctg.0000000000001092"
       },
       {
-        "title": "Evaluating FIB-4 plus as a noninvasive tool for detecting esophageal varices in advanced hepatitis c fibrosis: a multicenter cohort study.",
-        "journal": "Panminerva medica",
+        "title": "Noninvasive test patterns across vascular and parenchymal liver diseases.",
+        "journal": "Wiener klinische Wochenschrift",
         "pubDate": "2026 Sep 3",
         "studyType": "Journal Article",
-        "authors": "Castillo-Barradas M, Carrillo-Rojas JI, Mendoza-Martínez VM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：In patients with advanced liver fibrosis, one of the most common complications a... 临床提示：该英文报道关注最新动态：However, there is no practical, simple tool to predict the development of esopha...",
-        "abstract": "In patients with advanced liver fibrosis, one of the most common complications after the development of clinically significant portal hypertension (CSPH) is the appearance of esophageal varices (EV), which require prophylaxis with nonselective beta-blockers (NSBB) to reduce the risk of bleeding. However, there is no practical, simple tool to predict the development of esophageal varices. The aim of the study was to validate the Fibrosis-4 (FIB-4) Plus score as a predictor of EV in a cohort of patients with advanced liver fibrosis due to hepatitis C virus infection (HCV). Retrospective cohort study in patients with advanced liver fibrosis secondary to chronic HCV infection. Endoscopy was cons...",
-        "pmid": "42687753",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42687753/",
-        "doiUrl": "https://doi.org/10.23736/S0031-0808.26.05424-8",
-        "url": "https://doi.org/10.23736/S0031-0808.26.05424-8"
+        "authors": "Balcar L, Simonis L, Jachs M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Vascular liver diseases such as porto-sinusoidal vascular disorder (PSVD), Budd-... 临床提示：该英文报道关注最新动态：Vascular liver diseases such as porto-sinusoidal vascular disorder (PSVD), Budd-...",
+        "abstract": "Vascular liver diseases such as porto-sinusoidal vascular disorder (PSVD), Budd-Chiari syndrome (BCS), and non-cirrhotic portal vein thrombosis (NCPVT) are rare causes of portal hypertension (PH) but share the same phenotype with parenchymal chronic liver disease (CLD). We assessed whether blood-based and elastography-based noninvasive tests (NITs) can: (i) differentiate vascular from parenchymal liver disease, (ii) detect specific signs of portal hypertension within etiologies and (iii) identify portal vein thrombosis. Consecutive patients with PSVD, NCPVT, BCS, or CLD treated at a tertiary referral center between January 2022 and December 2024 were included. Assessed NITs included platelet...",
+        "pmid": "42693274",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42693274/",
+        "doiUrl": "https://doi.org/10.1007/s00508-026-02808-7",
+        "url": "https://doi.org/10.1007/s00508-026-02808-7"
+      },
+      {
+        "title": "Pre-Emptive TIPS for Acute Variceal Bleeding: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+        "journal": "International journal of hepatology",
+        "pubDate": "2026",
+        "studyType": "Journal Article / Review",
+        "authors": "Ismail WMIBW, Chalamalasetti S, Iqbal F",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 424）。核心观点：该英文报道关注最新动态：This meta-analysis is aimed at evaluating the effectiveness of p-TIPS compared w... 临床提示：该英文报道关注最新动态：There is evolving evidence regarding whether pre-emptive transjugular intrahepat...",
+        "abstract": "There is evolving evidence regarding whether pre-emptive transjugular intrahepatic portosystemic shunt (p-TIPS) improves outcomes in patients with acute variceal bleeding. This meta-analysis is aimed at evaluating the effectiveness of p-TIPS compared with standard care in reducing mortality and rebleeding in high-risk patients with cirrhosis. We systematically searched CENTRAL, MEDLINE, Embase, and ClinicalTrials.gov to identify randomized controlled trials (RCTs) comparing p-TIPS placed within 72 h of admission with standard care. All statistical analyses were performed using RevMan Version 5.4. Six RCTs ( n = 424 participants) met inclusion criteria. p-TIPS significantly reduced all-cause ...",
+        "pmid": "42694533",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42694533/",
+        "doiUrl": "https://doi.org/10.1155/ijh/3244544",
+        "url": "https://doi.org/10.1155/ijh/3244544"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Nepal says it will need billions in funding to rebuild after flash floods...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nepal says it will need billions in funding to rebuild after flash floods...”。核心要点：该英文报道关注最新动态：BBC South Asia correspondent Azadeh Moshiri is in Nepal where author...",
+        "titleZh": "该英文报道关注最新动态：Mistrial declared in Lindsay Clancy murder case, after jury deadlocks...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mistrial declared in Lindsay Clancy murder case, after jury deadlocks...”。核心要点：该英文报道关注最新动态：The mistrial now puts the murder case - and Clancy's future - in lim...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 02:20:37 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Tensions flare as judge declines to remove juror in Lindsay Clancy trial...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Tensions flare as judge declines to remove juror in Lindsay Clancy trial...”。核心要点：该英文报道关注最新动态：The defence lawyer is upset after the judge decides not to remove a ...",
+        "titleZh": "该英文报道关注最新动态：Trump's peace envoys to visit Moscow and Kyiv over weekend...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump's peace envoys to visit Moscow and Kyiv over weekend...”。核心要点：该英文报道关注最新动态：Steve Witkoff and Jared Kushner have led President Donald Trump's ef...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 00:54:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 05 Sep 2026 04:28:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Argentine leader threatens to sanction oil firms working off Falklands...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Argentine leader threatens to sanction oil firms working off Falklands...”。核心要点：该英文报道关注最新动态：Javier Milei reiterates his country's claim on the British overseas ...",
+        "titleZh": "该英文报道关注最新动态：Europe targeted by spiralling campaign of sabotage - and Russia is the chief sus...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Europe targeted by spiralling campaign of sabotage - and Russia is the chief sus...”。核心要点：该英文报道关注最新动态：Germany has blamed Russia for an attack on Leipzig airport but there...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 05:01:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 04 Sep 2026 16:49:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US investigating if missile hit Iran wedding, Vance says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US investigating if missile hit Iran wedding, Vance says...”。核心要点：该英文报道关注最新动态：The Iranian Red Crescent Society (IRCS) said shrapnel from a missile...",
+        "titleZh": "该英文报道关注最新动态：UN votes to adopt new world map to reflect Africa's true size...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UN votes to adopt new world map to reflect Africa's true size...”。核心要点：该英文报道关注最新动态：The Togo-sponsored resolution was backed by 164 nations - with the U...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 03 Sep 2026 22:19:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 05 Sep 2026 00:53:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death...”。核心要点：该英文报道关注最新动态：The Australian icon was killed in 2006, after a stingray's barb pier...",
+        "titleZh": "该英文报道关注最新动态：At least two dead in blast at Bolivia military barracks...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：At least two dead in blast at Bolivia military barracks...”。核心要点：该英文报道关注最新动态：Authorities fear the death toll in Viacha will rise and warn people ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 04:06:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 05 Sep 2026 02:59:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "该英文报道关注最新动态：Stock up on food to prepare for extreme weather, minister says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Stock up on food to prepare for extreme weather, minister says...”。核心要点：该英文报道关注最新动态：Dame Angela Eagle warns the weather event could lead to extreme stor...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 04 Sep 2026 10:40:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Trump calls for interest rate cut after jobs figures raise hike bets...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump calls for interest rate cut after jobs figures raise hike bets...”。核心要点：该英文报道关注最新动态：The president's remarks came as stronger-than-expected jobs figures ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 04 Sep 2026 17:23:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "该英文报道关注最新动态：Controversial Jackdaw gas field set to be approved in weeks, sources say...",
         "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Controversial Jackdaw gas field set to be approved in weeks, sources say...”。核心要点：该英文报道关注最新动态：The government is set to give the go-ahead for the gas field off the...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 03 Sep 2026 23:00:15 GMT",
+        "publishedAt": "Fri, 04 Sep 2026 05:59:10 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Volkswagen board approves plan to cut another 50,000 jobs...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Volkswagen board approves plan to cut another 50,000 jobs...”。核心要点：该英文报道关注最新动态：The group - which includes Audi, Porsche, Skoda as well as the VW br...",
+        "titleZh": "该英文报道关注最新动态：Prosecco, cakes and beauty products - how to get birthday freebies and why there...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Prosecco, cakes and beauty products - how to get birthday freebies and why there...”。核心要点：该英文报道关注最新动态：Cake, coffee, make-up and burgers are just some of the free things y...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 05:33:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Argentine leader threatens to sanction oil firms working off Falklands...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Argentine leader threatens to sanction oil firms working off Falklands...”。核心要点：该英文报道关注最新动态：Javier Milei reiterates his country's claim on the British overseas ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 05:01:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：'I lost my savings after a job interview scam'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I lost my savings after a job interview scam'...”。核心要点：该英文报道关注最新动态：Jobseekers, especially Gen Z, are being targeted with fake, booby-tr...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 03 Sep 2026 23:41:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：From cake to pizza: How to get the best birthday freebies (and why there's a cat...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：From cake to pizza: How to get the best birthday freebies (and why there's a cat...”。核心要点：该英文报道关注最新动态：Cake, coffee, make-up and burgers are just some of the free things y...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 03 Sep 2026 23:25:45 GMT",
+        "publishedAt": "Fri, 04 Sep 2026 07:19:06 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：UK petrol prices hit highest level since Iran war began...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK petrol prices hit highest level since Iran war began...”。核心要点：该英文报道关注最新动态：The price of unleaded hits 163p a litre, according to motoring group...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 04 Sep 2026 13:05:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
