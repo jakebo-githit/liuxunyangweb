@@ -1,103 +1,77 @@
 {
-  "updatedAt": "2026-09-05T05:47:37.903Z",
+  "updatedAt": "2026-09-06T05:59:20.870Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Endoscopic Injection Sclerotherapy With Pre-deflation Ligation for Prolonged Sclerosant Retention in Esophageal Varices: A Case Report.",
-        "journal": "DEN open",
-        "pubDate": "2027 Apr",
-        "studyType": "Journal Article",
-        "authors": "Sugawara N, Iwatsubo T, Kaizuka M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Effective variceal thrombosis requires sufficient intravariceal retention of the... 临床提示：该英文报道关注最新动态：In conventional EISL, endoscopic variceal ligation (EVL) is performed after ball...",
-        "abstract": "Esophageal varices are a common complication of portal hypertension, and prophylactic endoscopic injection sclerotherapy with ligation (EISL) is an established treatment option. Effective variceal thrombosis requires sufficient intravariceal retention of the sclerosant, because ethanolamine oleate exerts its thrombogenic effect through prolonged contact with the venous endothelium. In conventional EISL, endoscopic variceal ligation (EVL) is performed after balloon deflation, leaving a transient interval during which restored blood flow and an open puncture site may permit washout of the sclerosant and bleeding. We describe EIS with pre-deflation ligation (EISpdL), in which EVL of the punctur...",
-        "pmid": "42694965",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42694965/",
-        "doiUrl": "https://doi.org/10.1002/deo2.70410",
-        "url": "https://doi.org/10.1002/deo2.70410"
+        "title": "Perioperative management of a child with X-linked erythropoietic protoporphyria undergoing dental surgery in preparation for liver transplantation.",
+        "journal": "BMJ case reports",
+        "pubDate": "2026 Sep 5",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "O'Loughlin C, Fitzgerald K, Fitzpatrick E",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：X-linked erythropoietic protoporphyria (XLEPP) is a rare non-acute porphyria ass... 临床提示：该英文报道关注最新动态：We describe the perioperative management of a middle-childhood-aged female with ...",
+        "abstract": "X-linked erythropoietic protoporphyria (XLEPP) is a rare non-acute porphyria associated with severe photosensitivity and, in some patients progressive hepatobiliary disease. We describe the perioperative management of a middle-childhood-aged female with XLEPP, end-stage liver disease, portal hypertension-related thrombocytopenia and coagulopathy who required urgent dental extractions to facilitate transplant preparation. Key anaesthetic considerations included avoidance of phototoxic light exposure, safe drug selection, altered pharmacology in liver disease and bleeding risk. Surgery was performed under propofol-remifentanil total intravenous anaesthesia using the hospital's iLED 7 (Baxter M...",
+        "pmid": "42700979",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42700979/",
+        "doiUrl": "https://doi.org/10.1136/bcr-2026-272843",
+        "url": "https://doi.org/10.1136/bcr-2026-272843"
       },
       {
-        "title": "Splenic Elastography as a Predictor of Gastroesophageal Varices in Cirrhosis.",
-        "journal": "Clinical and translational gastroenterology",
+        "title": "Umbilical vein recanalization with a diameter greater than 6.48mm may promote deterioration of liver reserve function: A retrospective cohort study.",
+        "journal": "Medicine",
         "pubDate": "2026 Sep 4",
         "studyType": "Journal Article",
-        "authors": "Pacheco Oliva J, Meléndez Rodríguez NI, Sánchez Orozco AA",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 78）。核心观点：该英文报道关注最新动态：Gastroesophageal varices are a major complication of portal hypertension in cirr... 临床提示：该英文报道关注最新动态：Noninvasive predictors are needed to reduce reliance on endoscopy....",
-        "abstract": "Gastroesophageal varices are a major complication of portal hypertension in cirrhosis, associated with high morbidity and mortality. Noninvasive predictors are needed to reduce reliance on endoscopy. Splenic elastography has emerged as a potential tool to assess portal hypertension severity. We conducted prospective, descriptive cross-sectional study at Hospital Roosevelt, Guatemala, in 2024, including 78 patients with recent diagnosis of cirrhosis confirmed by ultrasonography. Patients with hepatocellular carcinoma, acute decompensation, or conditions interfering with splenic stiffness measurement were excluded. Splenic stiffness was measured using transient elastography with the M probe. E...",
-        "pmid": "42696653",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42696653/",
-        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001092",
-        "url": "https://doi.org/10.14309/ctg.0000000000001092"
-      },
-      {
-        "title": "Noninvasive test patterns across vascular and parenchymal liver diseases.",
-        "journal": "Wiener klinische Wochenschrift",
-        "pubDate": "2026 Sep 3",
-        "studyType": "Journal Article",
-        "authors": "Balcar L, Simonis L, Jachs M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Vascular liver diseases such as porto-sinusoidal vascular disorder (PSVD), Budd-... 临床提示：该英文报道关注最新动态：Vascular liver diseases such as porto-sinusoidal vascular disorder (PSVD), Budd-...",
-        "abstract": "Vascular liver diseases such as porto-sinusoidal vascular disorder (PSVD), Budd-Chiari syndrome (BCS), and non-cirrhotic portal vein thrombosis (NCPVT) are rare causes of portal hypertension (PH) but share the same phenotype with parenchymal chronic liver disease (CLD). We assessed whether blood-based and elastography-based noninvasive tests (NITs) can: (i) differentiate vascular from parenchymal liver disease, (ii) detect specific signs of portal hypertension within etiologies and (iii) identify portal vein thrombosis. Consecutive patients with PSVD, NCPVT, BCS, or CLD treated at a tertiary referral center between January 2022 and December 2024 were included. Assessed NITs included platelet...",
-        "pmid": "42693274",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42693274/",
-        "doiUrl": "https://doi.org/10.1007/s00508-026-02808-7",
-        "url": "https://doi.org/10.1007/s00508-026-02808-7"
-      },
-      {
-        "title": "Pre-Emptive TIPS for Acute Variceal Bleeding: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-        "journal": "International journal of hepatology",
-        "pubDate": "2026",
-        "studyType": "Journal Article / Review",
-        "authors": "Ismail WMIBW, Chalamalasetti S, Iqbal F",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究（样本量约为 424）。核心观点：该英文报道关注最新动态：This meta-analysis is aimed at evaluating the effectiveness of p-TIPS compared w... 临床提示：该英文报道关注最新动态：There is evolving evidence regarding whether pre-emptive transjugular intrahepat...",
-        "abstract": "There is evolving evidence regarding whether pre-emptive transjugular intrahepatic portosystemic shunt (p-TIPS) improves outcomes in patients with acute variceal bleeding. This meta-analysis is aimed at evaluating the effectiveness of p-TIPS compared with standard care in reducing mortality and rebleeding in high-risk patients with cirrhosis. We systematically searched CENTRAL, MEDLINE, Embase, and ClinicalTrials.gov to identify randomized controlled trials (RCTs) comparing p-TIPS placed within 72 h of admission with standard care. All statistical analyses were performed using RevMan Version 5.4. Six RCTs ( n = 424 participants) met inclusion criteria. p-TIPS significantly reduced all-cause ...",
-        "pmid": "42694533",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42694533/",
-        "doiUrl": "https://doi.org/10.1155/ijh/3244544",
-        "url": "https://doi.org/10.1155/ijh/3244544"
+        "authors": "Ding F, Yang Y, Wang J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Compared with the non-UVR group, patients in the UVR group had significantly ...... 临床提示：该英文报道关注最新动态：This study aimed to investigate the clinical characteristics of cirrhotic patien...",
+        "abstract": "This study aimed to investigate the clinical characteristics of cirrhotic patients with umbilical vein recanalization (UVR) and explore the effects of UVR on portal hypertension and liver reserve function (LRF). A total of 122 cirrhotic patients were enrolled and stratified into UVR and non-UVR groups based on the presence or absence of UVR. Clinical and laboratory indices, including hepatic biochemical parameters, portal venous system diameters, portal vein thrombosis, portal pressure gradient (PPG), Child-Pugh classification, and Model for End-Stage Liver Disease (MELD) scores, were compared between the 2 groups. Compared with the non-UVR group, patients in the UVR group had significantly ...",
+        "pmid": "42700014",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42700014/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000050382",
+        "url": "https://doi.org/10.1097/MD.0000000000050382"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Mistrial declared in Lindsay Clancy murder case, after jury deadlocks...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mistrial declared in Lindsay Clancy murder case, after jury deadlocks...”。核心要点：该英文报道关注最新动态：The mistrial now puts the murder case - and Clancy's future - in lim...",
+        "titleZh": "该英文报道关注最新动态：US envoys set for Ukraine talks after meeting Putin in Russia...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US envoys set for Ukraine talks after meeting Putin in Russia...”。核心要点：该英文报道关注最新动态：Steve Witkoff and Jared Kushner left Moscow having \"discussed substa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 02:24:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump's peace envoys to visit Moscow and Kyiv over weekend...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump's peace envoys to visit Moscow and Kyiv over weekend...”。核心要点：该英文报道关注最新动态：Steve Witkoff and Jared Kushner have led President Donald Trump's ef...",
+        "titleZh": "该英文报道关注最新动态：US and Iran trade retaliatory attacks on ships as conflict flares...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US and Iran trade retaliatory attacks on ships as conflict flares...”。核心要点：该英文报道关注最新动态：The US says it hit three Iranian oil tankers, while Iran says it tar...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 05 Sep 2026 04:28:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Europe targeted by spiralling campaign of sabotage - and Russia is the chief sus...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Europe targeted by spiralling campaign of sabotage - and Russia is the chief sus...”。核心要点：该英文报道关注最新动态：Germany has blamed Russia for an attack on Leipzig airport but there...",
+        "titleZh": "该英文报道关注最新动态：TV presenter among 11 sentenced to death in Egypt drugs case...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：TV presenter among 11 sentenced to death in Egypt drugs case...”。核心要点：该英文报道关注最新动态：Sarah Khalifa is best known for her TV programme Mission Impossible ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 16:49:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 05:04:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：UN votes to adopt new world map to reflect Africa's true size...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UN votes to adopt new world map to reflect Africa's true size...”。核心要点：该英文报道关注最新动态：The Togo-sponsored resolution was backed by 164 nations - with the U...",
+        "titleZh": "该英文报道关注最新动态：Volcano eruption triggers flight suspensions at Indonesia's main airport...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Volcano eruption triggers flight suspensions at Indonesia's main airport...”。核心要点：该英文报道关注最新动态：More than 20,000 passengers are stranded after ash was detected in a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 05 Sep 2026 00:53:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 05:12:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：At least two dead in blast at Bolivia military barracks...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：At least two dead in blast at Bolivia military barracks...”。核心要点：该英文报道关注最新动态：Authorities fear the death toll in Viacha will rise and warn people ...",
+        "titleZh": "该英文报道关注最新动态：Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home...”。核心要点：该英文报道关注最新动态：Chandika Shrestha was airlifted to hospital after spending more than...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 05 Sep 2026 02:59:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 01:54:29 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
