@@ -1,119 +1,92 @@
 {
-  "updatedAt": "2026-09-06T05:59:20.870Z",
+  "updatedAt": "2026-09-07T06:07:59.376Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Perioperative management of a child with X-linked erythropoietic protoporphyria undergoing dental surgery in preparation for liver transplantation.",
-        "journal": "BMJ case reports",
-        "pubDate": "2026 Sep 5",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "O'Loughlin C, Fitzgerald K, Fitzpatrick E",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：X-linked erythropoietic protoporphyria (XLEPP) is a rare non-acute porphyria ass... 临床提示：该英文报道关注最新动态：We describe the perioperative management of a middle-childhood-aged female with ...",
-        "abstract": "X-linked erythropoietic protoporphyria (XLEPP) is a rare non-acute porphyria associated with severe photosensitivity and, in some patients progressive hepatobiliary disease. We describe the perioperative management of a middle-childhood-aged female with XLEPP, end-stage liver disease, portal hypertension-related thrombocytopenia and coagulopathy who required urgent dental extractions to facilitate transplant preparation. Key anaesthetic considerations included avoidance of phototoxic light exposure, safe drug selection, altered pharmacology in liver disease and bleeding risk. Surgery was performed under propofol-remifentanil total intravenous anaesthesia using the hospital's iLED 7 (Baxter M...",
-        "pmid": "42700979",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42700979/",
-        "doiUrl": "https://doi.org/10.1136/bcr-2026-272843",
-        "url": "https://doi.org/10.1136/bcr-2026-272843"
-      },
-      {
-        "title": "Umbilical vein recanalization with a diameter greater than 6.48mm may promote deterioration of liver reserve function: A retrospective cohort study.",
-        "journal": "Medicine",
-        "pubDate": "2026 Sep 4",
-        "studyType": "Journal Article",
-        "authors": "Ding F, Yang Y, Wang J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Compared with the non-UVR group, patients in the UVR group had significantly ...... 临床提示：该英文报道关注最新动态：This study aimed to investigate the clinical characteristics of cirrhotic patien...",
-        "abstract": "This study aimed to investigate the clinical characteristics of cirrhotic patients with umbilical vein recanalization (UVR) and explore the effects of UVR on portal hypertension and liver reserve function (LRF). A total of 122 cirrhotic patients were enrolled and stratified into UVR and non-UVR groups based on the presence or absence of UVR. Clinical and laboratory indices, including hepatic biochemical parameters, portal venous system diameters, portal vein thrombosis, portal pressure gradient (PPG), Child-Pugh classification, and Model for End-Stage Liver Disease (MELD) scores, were compared between the 2 groups. Compared with the non-UVR group, patients in the UVR group had significantly ...",
-        "pmid": "42700014",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42700014/",
-        "doiUrl": "https://doi.org/10.1097/MD.0000000000050382",
-        "url": "https://doi.org/10.1097/MD.0000000000050382"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US envoys set for Ukraine talks after meeting Putin in Russia...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US envoys set for Ukraine talks after meeting Putin in Russia...”。核心要点：该英文报道关注最新动态：Steve Witkoff and Jared Kushner left Moscow having \"discussed substa...",
+        "titleZh": "该英文报道关注最新动态：Germany's far-right AfD hails big victory in east, but falls short of majority...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Germany's far-right AfD hails big victory in east, but falls short of majority...”。核心要点：该英文报道关注最新动态：Alternative for Germany hails a \"historic\" success as preliminary re...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 06 Sep 2026 02:24:16 GMT",
+        "publishedAt": "Mon, 07 Sep 2026 04:48:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Europe wrestles with impact of historic regional gains for Germany's AfD...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Europe wrestles with impact of historic regional gains for Germany's AfD...”。核心要点：该英文报道关注最新动态：The BBC's Europe editor Katya Adler sees the far-right win in Saxony...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 07 Sep 2026 04:07:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Five dead after Amazon cargo plane crashes at Miami airport...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Five dead after Amazon cargo plane crashes at Miami airport...”。核心要点：该英文报道关注最新动态：Five people are dead and five seriously injured after a Boeing 767-3...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 07 Sep 2026 00:57:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Zelensky says he expects war to continue into winter after talks with US envoys...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky says he expects war to continue into winter after talks with US envoys...”。核心要点：该英文报道关注最新动态：There was no announcement of a major breakthrough, after Steve Witko...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 06 Sep 2026 20:41:58 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US and Iran trade retaliatory attacks on ships as conflict flares...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US and Iran trade retaliatory attacks on ships as conflict flares...”。核心要点：该英文报道关注最新动态：The US says it hit three Iranian oil tankers, while Iran says it tar...",
+        "titleZh": "该英文报道关注最新动态：Peace talks rich in symbolism but fundamental differences between Russia and Ukr...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Peace talks rich in symbolism but fundamental differences between Russia and Ukr...”。核心要点：该英文报道关注最新动态：Despite talks between US envoys and both Putin and Zelensky, the exp...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：TV presenter among 11 sentenced to death in Egypt drugs case...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：TV presenter among 11 sentenced to death in Egypt drugs case...”。核心要点：该英文报道关注最新动态：Sarah Khalifa is best known for her TV programme Mission Impossible ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 06 Sep 2026 05:04:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Volcano eruption triggers flight suspensions at Indonesia's main airport...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Volcano eruption triggers flight suspensions at Indonesia's main airport...”。核心要点：该英文报道关注最新动态：More than 20,000 passengers are stranded after ash was detected in a...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 06 Sep 2026 05:12:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home...”。核心要点：该英文报道关注最新动态：Chandika Shrestha was airlifted to hospital after spending more than...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 06 Sep 2026 01:54:29 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 20:52:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Stock up on food to prepare for extreme weather, minister says...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Stock up on food to prepare for extreme weather, minister says...”。核心要点：该英文报道关注最新动态：Dame Angela Eagle warns the weather event could lead to extreme stor...",
+        "titleZh": "该英文报道关注最新动态：Chancellor to say UK economy 'turning a corner' despite debt concerns...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Chancellor to say UK economy 'turning a corner' despite debt concerns...”。核心要点：该英文报道关注最新动态：John Healey will detail plans to spread growth more widely across th...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 10:40:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 07 Sep 2026 06:05:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump calls for interest rate cut after jobs figures raise hike bets...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump calls for interest rate cut after jobs figures raise hike bets...”。核心要点：该英文报道关注最新动态：The president's remarks came as stronger-than-expected jobs figures ...",
+        "titleZh": "该英文报道关注最新动态：Minister to meet Jaguar Land Rover boss as thousands of job cuts expected...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Minister to meet Jaguar Land Rover boss as thousands of job cuts expected...”。核心要点：该英文报道关注最新动态：Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 17:23:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 16:32:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Controversial Jackdaw gas field set to be approved in weeks, sources say...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Controversial Jackdaw gas field set to be approved in weeks, sources say...”。核心要点：该英文报道关注最新动态：The government is set to give the go-ahead for the gas field off the...",
+        "titleZh": "该英文报道关注最新动态：The £70 refund letter that isn't a scam...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The £70 refund letter that isn't a scam...”。核心要点：该英文报道关注最新动态：About one million people - mostly women - are owed pension tax relie...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 05:59:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 06 Sep 2026 23:16:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Prosecco, cakes and beauty products - how to get birthday freebies and why there...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Prosecco, cakes and beauty products - how to get birthday freebies and why there...”。核心要点：该英文报道关注最新动态：Cake, coffee, make-up and burgers are just some of the free things y...",
+        "titleZh": "该英文报道关注最新动态：Five dead after Amazon cargo plane crashes at Miami airport...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Five dead after Amazon cargo plane crashes at Miami airport...”。核心要点：该英文报道关注最新动态：Five people are dead and five seriously injured after a Boeing 767-3...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 07:19:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 07 Sep 2026 00:57:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：UK petrol prices hit highest level since Iran war began...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK petrol prices hit highest level since Iran war began...”。核心要点：该英文报道关注最新动态：The price of unleaded hits 163p a litre, according to motoring group...",
+        "titleZh": "该英文报道关注最新动态：China to pump $54bn into state banks and insurers to boost economy...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：China to pump $54bn into state banks and insurers to boost economy...”。核心要点：该英文报道关注最新动态：It comes as Beijing is aiming to reshape its economy in the face of ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 04 Sep 2026 13:05:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 07 Sep 2026 02:26:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
