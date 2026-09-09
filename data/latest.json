@@ -1,132 +1,106 @@
 {
-  "updatedAt": "2026-09-08T06:00:07.350Z",
+  "updatedAt": "2026-09-09T06:00:38.984Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Ductular Reaction Underlies Development of Portal Hypertension in Biliary Atresia.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Oct",
+        "title": "Beyond Hemorrhage: A Case of Acute Dengue Infection Presenting with Budd-Chiari Syndrome and Bilateral Sensory Polyneuropathy.",
+        "journal": "Annals of African medicine",
+        "pubDate": "2026 Sep 9",
         "studyType": "Journal Article",
-        "authors": "Luokkala P, Hukkinen M, Nyholm I",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：As better understanding of pathophysiology and reliable predictors for portal hy... 临床提示：该英文报道关注最新动态：60 BA patients treated between 1987 and 2024 at Helsinki University Hospital wer...",
-        "abstract": "As better understanding of pathophysiology and reliable predictors for portal hypertension (PH) are needed, we investigated how histological ductular reaction (DR) and liver fibrosis predict PH in biliary atresia (BA). 60 BA patients treated between 1987 and 2024 at Helsinki University Hospital were enrolled. Patients underwent liver biopsies at Kasai portoenterostomy and 1 year postoperatively. PH was defined as endoscopic detection of oesophageal varices or thrombocytopenia (< 150*109) and splenomegaly. A neural network model was used to quantify proportional DR (DR%) relative to entire liver tissue, composed of cytokeratin-7-positive portal biliary epithelium (BE%) and parenchymal interme...",
-        "pmid": "42703703",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42703703/",
-        "doiUrl": "https://doi.org/10.1111/liv.70863",
-        "url": "https://doi.org/10.1111/liv.70863"
-      },
-      {
-        "title": "Onyx-only superior rectal artery embolisation for bleeding internal haemorrhoids: initial single-centre experience.",
-        "journal": "CVIR endovascular",
-        "pubDate": "2026 Sep 7",
-        "studyType": "Journal Article",
-        "authors": "Loureiro L, Almeida P, Cardoso S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To report an initial single-centre experience with Onyx-18-only superior rectal ... 临床提示：该英文报道关注最新动态：Consecutive Onyx-only procedures performed between October 2023 and April 2026 i...",
-        "abstract": "To report an initial single-centre experience with Onyx-18-only superior rectal artery embolisation for bleeding internal haemorrhoids, focusing on technical feasibility, treatment laterality, and updated clinical outcomes. Consecutive Onyx-only procedures performed between October 2023 and April 2026 in patients with bleeding-predominant internal haemorrhoids were retrospectively reviewed. Patients with portal hypertension/cirrhosis were excluded because of the distinct pathophysiology of anorectal bleeding. Patient-level clinical outcomes and procedure-level technical variables were analysed separately. Updated telephone follow-up was obtained on 12 August 2026. Six patients underwent 9 pr...",
-        "pmid": "42704567",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42704567/",
-        "doiUrl": "https://doi.org/10.1186/s42155-026-00767-8",
-        "url": "https://doi.org/10.1186/s42155-026-00767-8"
-      },
-      {
-        "title": "Diffuse Caroli's disease with hepatolithiasis: a case report.",
-        "journal": "Journal of surgical case reports",
-        "pubDate": "2026 Sep",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Sah S, Parshaila R, Nalbo D",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Caroli disease is characterized by segmental, non-obstructive dilatation of the ... 临床提示：该英文报道关注最新动态：Caroli's disease, together with hepatic fibrosis, is termed Caroli's syndrome, w...",
-        "abstract": "Caroli disease is characterized by segmental, non-obstructive dilatation of the intrahepatic bile ducts, leading to bile stasis, recurrent cholangitis, hepatolithiasis, and an increased risk of cholangiocarcinoma. Caroli's disease, together with hepatic fibrosis, is termed Caroli's syndrome, which may lead to portal hypertension. Caroli's disease often requires treatment in symptomatic patients. Symptoms include recurrent cholangitis due to intrahepatic stones in dilated ducts or cirrhosis due to fibrosis. Liver transplantation remains the definitive treatment for diffuse disease. However, owing to organ shortages and long waiting lists, liver resection is an alternative for localized diseas...",
-        "pmid": "42703443",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42703443/",
-        "doiUrl": "https://doi.org/10.1093/jscr/rjag769",
-        "url": "https://doi.org/10.1093/jscr/rjag769"
+        "authors": "Dalvi KK, Khaire P, Shaik MH",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：While dengue fever is primarily associated with hemorrhagic complications, throm... 临床提示：该英文报道关注最新动态：Budd-Chiari syndrome (BCS) is a rare hepatic vascular disorder characterized by ...",
+        "abstract": "Budd-Chiari syndrome (BCS) is a rare hepatic vascular disorder characterized by hepatic venous outflow obstruction with an incidence of 1-2 per million population annually. While dengue fever is primarily associated with hemorrhagic complications, thrombotic events are rarely reported. To our knowledge, this represents the first documented case of BCS occurring in association with dengue fever. A 22-year-old male from a rural area presented with a 4-day history of abdominal pain, fever, vomiting, and loose stools. Physical examination revealed hepatomegaly, ascites, and mild dehydration. Laboratory investigations confirmed dengue IgM positivity with thrombocytopenia (104,000/mm3) and elevate...",
+        "pmid": "42709574",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42709574/",
+        "doiUrl": "https://doi.org/10.4103/aam.aam_503_26",
+        "url": "https://doi.org/10.4103/aam.aam_503_26"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Flight recorders recovered from Amazon cargo plane crash...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Flight recorders recovered from Amazon cargo plane crash...”。核心要点：该英文报道关注最新动态：Five people were killed and five others seriously injured when the B...",
+        "titleZh": "该英文报道关注最新动态：US strikes Iranian oil tankers as Tehran targets American base in Jordan...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US strikes Iranian oil tankers as Tehran targets American base in Jordan...”。核心要点：该英文报道关注最新动态：Oil prices edged closer to $100 a barrel after an escalation in the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 07 Sep 2026 22:23:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 04:26:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Palestinian parents fear for children's lives at school as settler attacks grow...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Palestinian parents fear for children's lives at school as settler attacks grow...”。核心要点：该英文报道关注最新动态：A headteacher in the occupied West Bank has installed new barbed wir...",
+        "titleZh": "该英文报道关注最新动态：UK announces sanctions on West Bank settlements prompting furious Israeli respon...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UK announces sanctions on West Bank settlements prompting furious Israeli respon...”。核心要点：该英文报道关注最新动态：Britain's foreign secretary accuses settlers of carrying out the \"et...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 07 Sep 2026 21:12:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 01:45:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Germany's far-right AfD says 'democracy demands' parties work with them after st...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Germany's far-right AfD says 'democracy demands' parties work with them after st...”。核心要点：该英文报道关注最新动态：The far-right party is trying to form a government in the state afte...",
+        "titleZh": "该英文报道关注最新动态：Paul Adams: British-Israeli relations at lowest ebb in decades...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Paul Adams: British-Israeli relations at lowest ebb in decades...”。核心要点：该英文报道关注最新动态：Israel's response to London's trade ban with Israeli settlements in ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 07 Sep 2026 14:04:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 08 Sep 2026 21:46:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Eiffel Tower shut by staff protest after female workers moved for religious visi...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Eiffel Tower shut by staff protest after female workers moved for religious visi...”。核心要点：该英文报道关注最新动态：The mayor of Paris said an investigation would be launched into the ...",
+        "titleZh": "该英文报道关注最新动态：US slaps import ban on Canadian alcohol, motorbikes and other goods...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US slaps import ban on Canadian alcohol, motorbikes and other goods...”。核心要点：该英文报道关注最新动态：It is the latest strike in a long trade war, and comes as Canadian c...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 07 Sep 2026 23:46:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 03:03:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ukraine's chief prosecutor resigns over call centre corruption scandal...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ukraine's chief prosecutor resigns over call centre corruption scandal...”。核心要点：该英文报道关注最新动态：In his resignation letter, Ruslan Kravchenko denied the allegations ...",
+        "titleZh": "该英文报道关注最新动态：'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on...”。核心要点：该英文报道关注最新动态：As the 25th anniversary approaches, the wait for the alleged masterm...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 08 Sep 2026 01:07:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 08 Sep 2026 23:11:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：'I performed on stage to get my first job' - the firms turning recruitment into ...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I performed on stage to get my first job' - the firms turning recruitment into ...”。核心要点：该英文报道关注最新动态：Applicants have to pitch their ideas on stage in front of a panel of...",
+        "titleZh": "该英文报道关注最新动态：US slaps import ban on Canadian alcohol, motorbikes and other goods...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US slaps import ban on Canadian alcohol, motorbikes and other goods...”。核心要点：该英文报道关注最新动态：It is the latest strike in a long trade war, and comes as Canadian c...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 07 Sep 2026 23:06:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 03:03:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Canada braces for prolonged trade war as counter-tariffs on US take effect...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Canada braces for prolonged trade war as counter-tariffs on US take effect...”。核心要点：该英文报道关注最新动态：The tariffs will apply to $20bn worth of American products, jeopardi...",
+        "titleZh": "该英文报道关注最新动态：I'm 27 and I've already written my will - here's why...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I'm 27 and I've already written my will - here's why...”。核心要点：该英文报道关注最新动态：For many young people making a will may not seem necessary, but here...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 08 Sep 2026 04:39:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 08 Sep 2026 23:04:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI cancer cures slowed by chip shortage, says UK's biggest tech boss...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI cancer cures slowed by chip shortage, says UK's biggest tech boss...”。核心要点：该英文报道关注最新动态：The head of chip designer Arm says modelling how a DNA marker is imp...",
+        "titleZh": "该英文报道关注最新动态：Cowboy builder tore my home apart and disappeared off the face of the earth with...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Cowboy builder tore my home apart and disappeared off the face of the earth with...”。核心要点：该英文报道关注最新动态：Victims of cowboy builders describe how they were exploited with one...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 07 Sep 2026 23:05:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 05:00:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'JLR job cuts a cause for uncertainty and worry'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'JLR job cuts a cause for uncertainty and worry'...”。核心要点：该英文报道关注最新动态：Experts say they worry it could limit the company's ability to innov...",
+        "titleZh": "该英文报道关注最新动态：More flight delays expected after hundreds cancelled by air traffic control glit...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：More flight delays expected after hundreds cancelled by air traffic control glit...”。核心要点：该英文报道关注最新动态：Departures from a number of airports are affected by a technical pro...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 08 Sep 2026 04:57:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 02:59:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump threatens to stop sale of Canadian Bombardier jets in US...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump threatens to stop sale of Canadian Bombardier jets in US...”。核心要点：该英文报道关注最新动态：The threat against one of Canada's largest companies comes amid an e...",
+        "titleZh": "该英文报道关注最新动态：Singaporean man pleads guilty in US to massive crypto heist...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Singaporean man pleads guilty in US to massive crypto heist...”。核心要点：该英文报道关注最新动态：Malone Lam and his associates used the proceeds of their crimes to f...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 08 Sep 2026 00:48:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 09 Sep 2026 05:49:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
