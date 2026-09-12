@@ -1,93 +1,165 @@
 {
-  "updatedAt": "2026-09-11T06:00:14.679Z",
+  "updatedAt": "2026-09-12T05:49:15.096Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "MiR-23b-3p exerts a protective effect in hypertensive nephropathy by inhibiting fibrosis and inflammation.",
+        "journal": "American journal of hypertension",
+        "pubDate": "2026 Sep 11",
+        "studyType": "Journal Article",
+        "authors": "Fan L, Xiong C, Qi X",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：This study intends to investigate the correlation between hypertensive nephropat... 临床提示：该英文报道关注最新动态：The serum expression levels of miR-23b-3p were compared between HN patients and ...",
+        "abstract": "This study intends to investigate the correlation between hypertensive nephropathy (HN) and microRNA-23b-3p (miR-23b-3p), and clarify the biological function of miR-23b-3p in renal injury. The serum expression levels of miR-23b-3p were compared between HN patients and healthy controls. A mouse model of HN was constructed via persistent Ang II infusion, after which the effects of miR-23b-3p on renal function (ACR/Scr/BUN) were examined. The mRNA levels of renal fibrosis markers (TGF-β1, COL1A1, Fibronectin, α-SMA) and pro-inflammatory cytokines (TNF-α, IL-1β and IL-6) in kidney tissues were quantified by RT-qPCR. For in vitro validation, NRK-52E cells were stimulated with Ang II. The interact...",
+        "pmid": "42726087",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42726087/",
+        "doiUrl": "https://doi.org/10.1093/ajh/hpag108",
+        "url": "https://doi.org/10.1093/ajh/hpag108"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Expert Practical Recommendations for Portal Hypertension in Cirrhosis.",
-        "journal": "Seminars in liver disease",
-        "pubDate": "2026 Sep 10",
-        "studyType": "Journal Article",
-        "authors": "Segna D, Ojeda A, Torres S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Building on recent advances in the understanding and management of portal hypert... 临床提示：该英文报道关注最新动态：The purpose of these expert practical recommendations is to provide an updated, ...",
-        "abstract": "The purpose of these expert practical recommendations is to provide an updated, clinically oriented overview of the screening, diagnosis, treatment, and surveillance of portal hypertension in cirrhosis. Building on recent advances in the understanding and management of portal hypertension, this review summarizes evidence-based strategies for the identification and management of clinically significant portal hypertension in patients with advanced chronic liver disease, in line with the recent Baveno VIII consensus recommendations. It presents practical clinical pathways for risk stratification, the prevention of first and further decompensation, and the longitudinal follow-up focusing on prom...",
-        "pmid": "42722353",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42722353/",
-        "doiUrl": "https://doi.org/10.1055/a-2956-4625",
-        "url": "https://doi.org/10.1055/a-2956-4625"
+        "title": "Pediatric hepatic sarcoidosis presenting as hypersplenism and portal hypertension.",
+        "journal": "BMJ case reports",
+        "pubDate": "2026 Sep 11",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Grotra R, Bhadani H, Yadav R",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Predominant hepatic involvement without pulmonary or systemic features is exceed... 临床提示：该英文报道关注最新动态：Paediatric sarcoidosis is a rare multisystem granulomatous disorder with highly ...",
+        "abstract": "Paediatric sarcoidosis is a rare multisystem granulomatous disorder with highly variable manifestations. Predominant hepatic involvement without pulmonary or systemic features is exceedingly uncommon in children and poses significant diagnostic challenges, particularly when liver enzymes are normal. We report a mid-childhood female presenting with massive splenomegaly, pancytopenia and portal hypertension without constitutional or respiratory symptoms. Extensive evaluation excluded infectious, autoimmune, metabolic and genetic causes. Liver biopsy revealed well-formed non-necrotising granulomas consistent with sarcoidosis, while gallium scintigraphy demonstrated isolated splenic uptake witho...",
+        "pmid": "42728066",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42728066/",
+        "doiUrl": "https://doi.org/10.1136/bcr-2026-273484",
+        "url": "https://doi.org/10.1136/bcr-2026-273484"
       },
       {
-        "title": "Artificial intelligence in advanced liver disease: From risk stratification to decision.",
-        "journal": "Journal of the Chinese Medical Association : JCMA",
-        "pubDate": "2026 Sep 10",
+        "title": "Clinico-radiological Differences between Porto-sinusoidal Vascular Disorder and Cirrhosis.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Sep 11",
         "studyType": "Journal Article",
-        "authors": "Liu CF, Chang CL, Chang CC",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：However, the development of artificial intelligence (AI) has allowed for the ana... 临床提示：该英文报道关注最新动态：The diagnosis and management of liver cirrhosis and portal hypertension have bee...",
-        "abstract": "The diagnosis and management of liver cirrhosis and portal hypertension have been challenging for hundreds of years, placing a tremendous burden on medical and social resources. In routine practice, clinicians usually depend on various documented scoring and stratification systems to establish the diagnosis and make decisions. These systems have traditionally been constructed through manual review of retrospective data, image interpretation, and statistical analyses. However, the development of artificial intelligence (AI) has allowed for the analysis of large and varied datasets, and consequently the ability to identify novel factors and test the predictive power of different combinations o...",
-        "pmid": "42717391",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717391/",
-        "doiUrl": "https://doi.org/10.1097/JCMA.0000000000001423",
-        "url": "https://doi.org/10.1097/JCMA.0000000000001423"
+        "authors": "Heo S, Ronot M, Rautou PE",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Porto-sinusoidal vascular disorder (PSVD) is an underrecognized cause of portal ... 临床提示：该英文报道关注最新动态：This study aims to compare CT-derived volumetric data and laboratory features be...",
+        "abstract": "Porto-sinusoidal vascular disorder (PSVD) is an underrecognized cause of portal hypertension often misdiagnosed as cirrhosis. This study aims to compare CT-derived volumetric data and laboratory features between PSVD and cirrhosis and to develop and validate a noninvasive model to facilitate the clinical suspicion of PSVD. This retrospective study included an Eastern cohort (Korea; 101 PSVD, 202 cirrhosis) and a Western cohort (France; 45 PSVD, 100 cirrhosis). All patients exhibited signs of portal hypertension and were matched for its severity. Spleen volumes were automatically quantified on CT and normalized to personalized reference volumes. Volumetric and laboratory features were compare...",
+        "pmid": "42727706",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42727706/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102034",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.102034"
       },
       {
-        "title": "Long-term cardiac remodeling after transjugular intrahepatic portosystemic shunt placement: a cardiac MRI study.",
-        "journal": "European radiology",
-        "pubDate": "2026 Sep 9",
+        "title": "Telomerase Reverse Transcriptase (TERT) Mutation at a Price: Telomere Biology Disorder Presenting With Pancytopenia and Cirrhosis Requiring Liver Transplantation.",
+        "journal": "Cureus",
+        "pubDate": "2026 Sep",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Fadlou Allah T, Kesselman MM, Amini SS",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：We describe a case of a 45-year-old man with a high body mass index (BMI), long-... 临床提示：该英文报道关注最新动态：Telomere biology disorders (TBDs) are inherited conditions that can present in a...",
+        "abstract": "Telomere biology disorders (TBDs) are inherited conditions that can present in adulthood with pancytopenia and liver disease. We describe a case of a 45-year-old man with a high body mass index (BMI), long-standing macrocytic pancytopenia, and biopsy-proven steatohepatitis who was found to have markedly short telomeres and a heterozygous telomerase reverse transcriptase (TERT)variant. The patient had a clear hematologic response to danazol but developed progressive cirrhosis with portal hypertension, ultimately requiring orthotopic liver transplantation with sleeve gastrectomy; after transplant, liver chemistries normalized, but cytopenias recurred under tacrolimus-based immunosuppression. T...",
+        "pmid": "42725010",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42725010/",
+        "doiUrl": "https://doi.org/10.7759/cureus.116042",
+        "url": "https://doi.org/10.7759/cureus.116042"
+      },
+      {
+        "title": "Arterial Hypertension is Associated with a Lower Portal Hypertensive Burden in Compensated Cirrhosis: A Retrospective Cohort Study.",
+        "journal": "Clinical and experimental gastroenterology",
+        "pubDate": "2026",
         "studyType": "Journal Article",
-        "authors": "Vollbrecht TM, Mesropyan N, Chang J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 17）。核心观点：该英文报道关注最新动态：To evaluate long-term cardiovascular effects following insertion of a transjugul... 临床提示：该英文报道关注最新动态：In this prospective intra-individual study from 11/2018 to 5/2022, patients unde...",
-        "abstract": "To evaluate long-term cardiovascular effects following insertion of a transjugular intrahepatic portosystemic shunt (TIPS) in patients with cirrhosis-induced portal hypertension. In this prospective intra-individual study from 11/2018 to 5/2022, patients underwent combined hepatic and cardiac MRI before and at 1 year after TIPS insertion. Cardiac MRI included volumetric and functional assessment, strain analysis, T1 mapping, T2 mapping, myocardial edema, and late gadolinium enhancement (LGE). Hepatic and splenic imaging included T1 mapping, T2 mapping, and MR elastography-based liver stiffness. Paired Student's t-tests and Wilcoxon tests were used for statistical analyses. 17 patients (mean ...",
-        "pmid": "42717030",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42717030/",
-        "doiUrl": "https://doi.org/10.1007/s00330-026-12861-5",
-        "url": "https://doi.org/10.1007/s00330-026-12861-5"
+        "authors": "Buono R, La Franca M, Girardi P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 189）。核心观点：该英文报道关注最新动态：While systemic arterial pressure typically declines with advancing cirrhosis, th... 临床提示：该英文报道关注最新动态：We aimed to investigate the association between AH and non-invasive markers of p...",
+        "abstract": "While systemic arterial pressure typically declines with advancing cirrhosis, the relationship between arterial hypertension (AH) and clinical outcomes in compensated cirrhosis is not defined. We aimed to investigate the association between AH and non-invasive markers of portal hypertension and liver-related complications. We conducted a retrospective cohort study including 189 patients with compensated liver cirrhosis, stratified according to history of AH. Clinical, laboratory, endoscopic, and outcome data, including cirrhosis decompensation, liver transplantation, and mortality, were collected. Median follow-up time was 5 years, IQR 3.2-5.0 years. Spleen diameter was assessed at baseline ...",
+        "pmid": "42725031",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42725031/",
+        "doiUrl": "https://doi.org/10.2147/CEG.S617296",
+        "url": "https://doi.org/10.2147/CEG.S617296"
+      },
+      {
+        "title": "Recurrent and De Novo Cirrhosis After Liver Transplantation.",
+        "journal": "Portal hypertension & cirrhosis",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article",
+        "authors": "Rao AK, Rockey DC",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Liver transplantation is often curative for patients with cirrhosis; however, so... 临床提示：该英文报道关注最新动态：Liver transplantation is often curative for patients with cirrhosis; however, so...",
+        "abstract": "Liver transplantation is often curative for patients with cirrhosis; however, some patients subsequently develop cirrhosis in the transplanted graft, either due to recurrence of the original cause of liver disease or development of a new type of liver disease (de novo). Here, we examined patients who developed recurrent or de novo cirrhosis after undergoing liver transplantation for cirrhosis. We examined consecutive adult liver transplant patients who underwent liver transplantation for cirrhosis and were followed between January 1, 1987, and December 31, 2023, at our institution. Patients transplanted for indications other than cirrhosis, including acute liver failure, were excluded. Patie...",
+        "pmid": "42725204",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42725204/",
+        "doiUrl": "https://doi.org/10.1002/poh2.70068",
+        "url": "https://doi.org/10.1002/poh2.70068"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Yemen's Houthis reportedly seize strategic Red Sea port of Mokha...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Yemen's Houthis reportedly seize strategic Red Sea port of Mokha...”。核心要点：该英文报道关注最新动态：Mokha's capture would bring the Iran-backed group closer to controll...",
+        "titleZh": "该英文报道关注最新动态：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq...”。核心要点：该英文报道关注最新动态：Iraq removes a military commander and opens investigations into the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 18:15:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 12 Sep 2026 04:43:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Five killed and 67 injured in Russian strike on shopping centre, Ukraine says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Five killed and 67 injured in Russian strike on shopping centre, Ukraine says...”。核心要点：该英文报道关注最新动态：The attack in Pavlohrad city centre was the third Russian strike on ...",
+        "titleZh": "该英文报道关注最新动态：Tragic death of woman who testified against father in notorious mafia murder of ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Tragic death of woman who testified against father in notorious mafia murder of ...”。核心要点：该英文报道关注最新动态：Denise Cosco testified against the powerful 'Ndrangheta clan and her...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 22:36:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 11 Sep 2026 20:34:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pilot warned Amazon cargo plane going too fast before deadly crash, data shows...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pilot warned Amazon cargo plane going too fast before deadly crash, data shows...”。核心要点：该英文报道关注最新动态：One pilot told the other about the aircraft's \"excessive speed\" but ...",
+        "titleZh": "该英文报道关注最新动态：Death toll from Philippines ferry fire climbs to 35, with dozens still missing...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Death toll from Philippines ferry fire climbs to 35, with dozens still missing...”。核心要点：该英文报道关注最新动态：Access to the burnt-out boat has been slowed by toxic fumes and ling...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 16:31:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 12 Sep 2026 03:02:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attac...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attac...”。核心要点：该英文报道关注最新动态：The paper said it stood by its reporting, after publishing extracts ...",
+        "titleZh": "该英文报道关注最新动态：Passenger train derails in France leaving at least 44 injured...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Passenger train derails in France leaving at least 44 injured...”。核心要点：该英文报道关注最新动态：France's transport minister says 180 passengers were on board the tr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 15:54:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 11 Sep 2026 21:25:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：More than 20 children killed in DR Congo school fire...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：More than 20 children killed in DR Congo school fire...”。核心要点：该英文报道关注最新动态：Officials say there was a stampede as they fled a fire that engulfed...",
+        "titleZh": "该英文报道关注最新动态：Arrest made over the death of black woman found hanged from tree in Mississippi...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Arrest made over the death of black woman found hanged from tree in Mississippi...”。核心要点：该英文报道关注最新动态：Tasia Fortune's body was found in the lot of an abandoned home in Mi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 19:16:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 12 Sep 2026 02:29:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "该英文报道关注最新动态：Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks...”。核心要点：该英文报道关注最新动态：O'Leary has said airline passengers \"can't afford to fly with the hi...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 11 Sep 2026 15:37:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...”。核心要点：该英文报道关注最新动态：Prices in the US rose 3.4% in the 12 months to August, according to ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 11 Sep 2026 14:22:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Interest rates could rise again across the world – here's why...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates could rise again across the world – here's why...”。核心要点：该英文报道关注最新动态：As countries grapple with energy costs pushing up inflation, this mo...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 11 Sep 2026 13:35:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：AI boom helps drive surprise UK growth in July...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI boom helps drive surprise UK growth in July...”。核心要点：该英文报道关注最新动态：The economy expanded by 0.4%, official figures show, whereas analyst...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 11 Sep 2026 10:17:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "该英文报道关注最新动态：I asked my husband to pay into my pension when we had a child - here's why...",
         "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I asked my husband to pay into my pension when we had a child - here's why...”。核心要点：该英文报道关注最新动态：Molly and Taylor Haylett explain the changes to how they managed the...",
@@ -95,38 +167,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 10 Sep 2026 23:04:30 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Are interest rates on the way up again?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Are interest rates on the way up again?...”。核心要点：该英文报道关注最新动态：As countries grapple with energy costs pushing up inflation, this mo...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 23:03:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Alstom to build new battery-electric train fleet...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Alstom to build new battery-electric train fleet...”。核心要点：该英文报道关注最新动态：The government says the work will support thousands of jobs across t...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 21:00:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Oil, gas and borrowing costs surge as fears over Middle East escalate...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Oil, gas and borrowing costs surge as fears over Middle East escalate...”。核心要点：该英文报道关注最新动态：The price of oil jumps to $105 a barrel amid signs the Iran war will...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 17:38:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'...”。核心要点：该英文报道关注最新动态：Flight disruption has ruined holidays and left passengers sleeping o...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 13:34:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
