@@ -1,133 +1,75 @@
 {
-  "updatedAt": "2026-09-12T05:49:15.096Z",
+  "updatedAt": "2026-09-13T06:10:00.603Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "MiR-23b-3p exerts a protective effect in hypertensive nephropathy by inhibiting fibrosis and inflammation.",
-        "journal": "American journal of hypertension",
-        "pubDate": "2026 Sep 11",
-        "studyType": "Journal Article",
-        "authors": "Fan L, Xiong C, Qi X",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：This study intends to investigate the correlation between hypertensive nephropat... 临床提示：该英文报道关注最新动态：The serum expression levels of miR-23b-3p were compared between HN patients and ...",
-        "abstract": "This study intends to investigate the correlation between hypertensive nephropathy (HN) and microRNA-23b-3p (miR-23b-3p), and clarify the biological function of miR-23b-3p in renal injury. The serum expression levels of miR-23b-3p were compared between HN patients and healthy controls. A mouse model of HN was constructed via persistent Ang II infusion, after which the effects of miR-23b-3p on renal function (ACR/Scr/BUN) were examined. The mRNA levels of renal fibrosis markers (TGF-β1, COL1A1, Fibronectin, α-SMA) and pro-inflammatory cytokines (TNF-α, IL-1β and IL-6) in kidney tissues were quantified by RT-qPCR. For in vitro validation, NRK-52E cells were stimulated with Ang II. The interact...",
-        "pmid": "42726087",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42726087/",
-        "doiUrl": "https://doi.org/10.1093/ajh/hpag108",
-        "url": "https://doi.org/10.1093/ajh/hpag108"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pediatric hepatic sarcoidosis presenting as hypersplenism and portal hypertension.",
-        "journal": "BMJ case reports",
-        "pubDate": "2026 Sep 11",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Grotra R, Bhadani H, Yadav R",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Predominant hepatic involvement without pulmonary or systemic features is exceed... 临床提示：该英文报道关注最新动态：Paediatric sarcoidosis is a rare multisystem granulomatous disorder with highly ...",
-        "abstract": "Paediatric sarcoidosis is a rare multisystem granulomatous disorder with highly variable manifestations. Predominant hepatic involvement without pulmonary or systemic features is exceedingly uncommon in children and poses significant diagnostic challenges, particularly when liver enzymes are normal. We report a mid-childhood female presenting with massive splenomegaly, pancytopenia and portal hypertension without constitutional or respiratory symptoms. Extensive evaluation excluded infectious, autoimmune, metabolic and genetic causes. Liver biopsy revealed well-formed non-necrotising granulomas consistent with sarcoidosis, while gallium scintigraphy demonstrated isolated splenic uptake witho...",
-        "pmid": "42728066",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42728066/",
-        "doiUrl": "https://doi.org/10.1136/bcr-2026-273484",
-        "url": "https://doi.org/10.1136/bcr-2026-273484"
-      },
-      {
-        "title": "Clinico-radiological Differences between Porto-sinusoidal Vascular Disorder and Cirrhosis.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Sep 11",
-        "studyType": "Journal Article",
-        "authors": "Heo S, Ronot M, Rautou PE",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Porto-sinusoidal vascular disorder (PSVD) is an underrecognized cause of portal ... 临床提示：该英文报道关注最新动态：This study aims to compare CT-derived volumetric data and laboratory features be...",
-        "abstract": "Porto-sinusoidal vascular disorder (PSVD) is an underrecognized cause of portal hypertension often misdiagnosed as cirrhosis. This study aims to compare CT-derived volumetric data and laboratory features between PSVD and cirrhosis and to develop and validate a noninvasive model to facilitate the clinical suspicion of PSVD. This retrospective study included an Eastern cohort (Korea; 101 PSVD, 202 cirrhosis) and a Western cohort (France; 45 PSVD, 100 cirrhosis). All patients exhibited signs of portal hypertension and were matched for its severity. Spleen volumes were automatically quantified on CT and normalized to personalized reference volumes. Volumetric and laboratory features were compare...",
-        "pmid": "42727706",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42727706/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102034",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.102034"
-      },
-      {
-        "title": "Telomerase Reverse Transcriptase (TERT) Mutation at a Price: Telomere Biology Disorder Presenting With Pancytopenia and Cirrhosis Requiring Liver Transplantation.",
-        "journal": "Cureus",
-        "pubDate": "2026 Sep",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Fadlou Allah T, Kesselman MM, Amini SS",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：We describe a case of a 45-year-old man with a high body mass index (BMI), long-... 临床提示：该英文报道关注最新动态：Telomere biology disorders (TBDs) are inherited conditions that can present in a...",
-        "abstract": "Telomere biology disorders (TBDs) are inherited conditions that can present in adulthood with pancytopenia and liver disease. We describe a case of a 45-year-old man with a high body mass index (BMI), long-standing macrocytic pancytopenia, and biopsy-proven steatohepatitis who was found to have markedly short telomeres and a heterozygous telomerase reverse transcriptase (TERT)variant. The patient had a clear hematologic response to danazol but developed progressive cirrhosis with portal hypertension, ultimately requiring orthotopic liver transplantation with sleeve gastrectomy; after transplant, liver chemistries normalized, but cytopenias recurred under tacrolimus-based immunosuppression. T...",
-        "pmid": "42725010",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42725010/",
-        "doiUrl": "https://doi.org/10.7759/cureus.116042",
-        "url": "https://doi.org/10.7759/cureus.116042"
-      },
-      {
-        "title": "Arterial Hypertension is Associated with a Lower Portal Hypertensive Burden in Compensated Cirrhosis: A Retrospective Cohort Study.",
-        "journal": "Clinical and experimental gastroenterology",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Buono R, La Franca M, Girardi P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 189）。核心观点：该英文报道关注最新动态：While systemic arterial pressure typically declines with advancing cirrhosis, th... 临床提示：该英文报道关注最新动态：We aimed to investigate the association between AH and non-invasive markers of p...",
-        "abstract": "While systemic arterial pressure typically declines with advancing cirrhosis, the relationship between arterial hypertension (AH) and clinical outcomes in compensated cirrhosis is not defined. We aimed to investigate the association between AH and non-invasive markers of portal hypertension and liver-related complications. We conducted a retrospective cohort study including 189 patients with compensated liver cirrhosis, stratified according to history of AH. Clinical, laboratory, endoscopic, and outcome data, including cirrhosis decompensation, liver transplantation, and mortality, were collected. Median follow-up time was 5 years, IQR 3.2-5.0 years. Spleen diameter was assessed at baseline ...",
-        "pmid": "42725031",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42725031/",
-        "doiUrl": "https://doi.org/10.2147/CEG.S617296",
-        "url": "https://doi.org/10.2147/CEG.S617296"
-      },
-      {
-        "title": "Recurrent and De Novo Cirrhosis After Liver Transplantation.",
-        "journal": "Portal hypertension & cirrhosis",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article",
-        "authors": "Rao AK, Rockey DC",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Liver transplantation is often curative for patients with cirrhosis; however, so... 临床提示：该英文报道关注最新动态：Liver transplantation is often curative for patients with cirrhosis; however, so...",
-        "abstract": "Liver transplantation is often curative for patients with cirrhosis; however, some patients subsequently develop cirrhosis in the transplanted graft, either due to recurrence of the original cause of liver disease or development of a new type of liver disease (de novo). Here, we examined patients who developed recurrent or de novo cirrhosis after undergoing liver transplantation for cirrhosis. We examined consecutive adult liver transplant patients who underwent liver transplantation for cirrhosis and were followed between January 1, 1987, and December 31, 2023, at our institution. Patients transplanted for indications other than cirrhosis, including acute liver failure, were excluded. Patie...",
-        "pmid": "42725204",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42725204/",
-        "doiUrl": "https://doi.org/10.1002/poh2.70068",
-        "url": "https://doi.org/10.1002/poh2.70068"
+        "title": "Interventional management of acute mesenteric venous thrombosis: a systematic review of current evidence, emerging techniques and future perspectives.",
+        "journal": "Abdominal radiology (New York)",
+        "pubDate": "2026 Sep 12",
+        "studyType": "Journal Article / Review",
+        "authors": "Köhler M, Maksoud Z, Nacul Mora G",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Acute mesenteric venous thrombosis (aMVT) is a rare but life-threatening form of... 临床提示：该英文报道关注最新动态：Over the past decade, advances in endovascular technology have transformed the t...",
+        "abstract": "Acute mesenteric venous thrombosis (aMVT) is a rare but life-threatening form of mesenteric ischemia associated with 30-day mortality of 17-76% without timely therapy. Over the past decade, advances in endovascular technology have transformed the therapeutic landscape. This review comprehensively appraises current evidence on innovative interventional techniques in the management of aMVT, including catheter-directed thrombolysis (CDT), percutaneous mechanical thrombectomy (PMT), large-bore aspiration, transjugular intrahepatic portosystemic shunt (TIPS)-guided approaches, and combined endovascular strategies compared with systemic anticoagulation with regard to recanalization rates and compl...",
+        "pmid": "42730775",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42730775/",
+        "doiUrl": "https://doi.org/10.1007/s00261-026-05786-6",
+        "url": "https://doi.org/10.1007/s00261-026-05786-6"
       }
     ]
   },
   "news": {
     "world": [
       {
+        "titleZh": "该英文报道关注最新动态：Anthropic boss Dario Amodei calls for AI development to slow down...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Anthropic boss Dario Amodei calls for AI development to slow down...”。核心要点：该英文报道关注最新动态：The call comes amid growing concerns that AI models may become able ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "titleZh": "该英文报道关注最新动态：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq...",
         "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq...”。核心要点：该英文报道关注最新动态：Iraq removes a military commander and opens investigations into the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 04:43:10 GMT",
+        "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Tragic death of woman who testified against father in notorious mafia murder of ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Tragic death of woman who testified against father in notorious mafia murder of ...”。核心要点：该英文报道关注最新动态：Denise Cosco testified against the powerful 'Ndrangheta clan and her...",
+        "titleZh": "该英文报道关注最新动态：They lost their jobs after posting about Charlie Kirk, but some have no regrets...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：They lost their jobs after posting about Charlie Kirk, but some have no regrets...”。核心要点：该英文报道关注最新动态：Some people fired in the wake of Kirk's assassination have won big s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 20:34:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 00:49:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Death toll from Philippines ferry fire climbs to 35, with dozens still missing...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Death toll from Philippines ferry fire climbs to 35, with dozens still missing...”。核心要点：该英文报道关注最新动态：Access to the burnt-out boat has been slowed by toxic fumes and ling...",
+        "titleZh": "该英文报道关注最新动态：Trump's comments on a united Ireland may have targeted audience across the Atlan...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump's comments on a united Ireland may have targeted audience across the Atlan...”。核心要点：该英文报道关注最新动态：Nobody could have predicted that today's main global headline would ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 03:02:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Passenger train derails in France leaving at least 44 injured...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Passenger train derails in France leaving at least 44 injured...”。核心要点：该英文报道关注最新动态：France's transport minister says 180 passengers were on board the tr...",
+        "titleZh": "该英文报道关注最新动态：Fire at nursing home in Chile kills 16 residents...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Fire at nursing home in Chile kills 16 residents...”。核心要点：该英文报道关注最新动态：Ten people were evacuated from the home in Araucanía region in centr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 21:25:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Arrest made over the death of black woman found hanged from tree in Mississippi...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Arrest made over the death of black woman found hanged from tree in Mississippi...”。核心要点：该英文报道关注最新动态：Tasia Fortune's body was found in the lot of an abandoned home in Mi...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 02:29:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 12 Sep 2026 19:36:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...”。核心要点：该英文报道关注最新动态：Prices in the US rose 3.4% in the 12 months to August, according to ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 11 Sep 2026 14:22:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "该英文报道关注最新动态：Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks...",
         "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks...”。核心要点：该英文报道关注最新动态：O'Leary has said airline passengers \"can't afford to fly with the hi...",
@@ -137,12 +79,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...”。核心要点：该英文报道关注最新动态：Prices in the US rose 3.4% in the 12 months to August, according to ...",
+        "titleZh": "该英文报道关注最新动态：'Skimpflation' warning as tinned mackerel alternative hits more supermarket shel...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Skimpflation' warning as tinned mackerel alternative hits more supermarket shel...”。核心要点：该英文报道关注最新动态：Consumer group Which? has called the sale of jack mackerel, a cheape...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 14:22:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 12 Sep 2026 20:37:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：Interest rates could rise again across the world – here's why...",
@@ -159,14 +101,6 @@
         "sourceLang": "English",
         "publishedAt": "Fri, 11 Sep 2026 10:17:28 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：I asked my husband to pay into my pension when we had a child - here's why...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I asked my husband to pay into my pension when we had a child - here's why...”。核心要点：该英文报道关注最新动态：Molly and Taylor Haylett explain the changes to how they managed the...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 10 Sep 2026 23:04:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
