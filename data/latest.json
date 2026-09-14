@@ -1,106 +1,145 @@
 {
-  "updatedAt": "2026-09-13T06:10:00.603Z",
+  "updatedAt": "2026-09-14T06:18:54.723Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Interventional management of acute mesenteric venous thrombosis: a systematic review of current evidence, emerging techniques and future perspectives.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 Sep 12",
-        "studyType": "Journal Article / Review",
-        "authors": "Köhler M, Maksoud Z, Nacul Mora G",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Acute mesenteric venous thrombosis (aMVT) is a rare but life-threatening form of... 临床提示：该英文报道关注最新动态：Over the past decade, advances in endovascular technology have transformed the t...",
-        "abstract": "Acute mesenteric venous thrombosis (aMVT) is a rare but life-threatening form of mesenteric ischemia associated with 30-day mortality of 17-76% without timely therapy. Over the past decade, advances in endovascular technology have transformed the therapeutic landscape. This review comprehensively appraises current evidence on innovative interventional techniques in the management of aMVT, including catheter-directed thrombolysis (CDT), percutaneous mechanical thrombectomy (PMT), large-bore aspiration, transjugular intrahepatic portosystemic shunt (TIPS)-guided approaches, and combined endovascular strategies compared with systemic anticoagulation with regard to recanalization rates and compl...",
-        "pmid": "42730775",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42730775/",
-        "doiUrl": "https://doi.org/10.1007/s00261-026-05786-6",
-        "url": "https://doi.org/10.1007/s00261-026-05786-6"
+        "title": "Transhepatic Gradients Reveal Selective Hepatic Processing Defects With Systemic Consequences in Cirrhosis.",
+        "journal": "Comprehensive physiology",
+        "pubDate": "2026 Oct",
+        "studyType": "Journal Article",
+        "authors": "Stockdale G, Fawaz A, Bashour M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 11）。核心观点：该英文报道关注最新动态：The cirrhotic liver's metabolic capacity remains incompletely characterized, par... 临床提示：该英文报道关注最新动态：Transjugular intrahepatic portosystemic shunt (TIPS) placement allows paired por...",
+        "abstract": "The cirrhotic liver's metabolic capacity remains incompletely characterized, particularly its role in shaping portal metabolite signals that reach the systemic circulation. Transjugular intrahepatic portosystemic shunt (TIPS) placement allows paired portal and right atrial sampling to estimate transhepatic gradients. We performed global metabolomic profiling on paired portal vein and right atrial samples from 11 patients with cirrhosis during TIPS placement, with right atrial sampling repeated immediately after shunt creation. Pre-TIPS right atrial profiles were compared with peripheral venous samples from 15 healthy controls. For each metabolite, we calculated a transhepatic gradient (porta...",
+        "pmid": "42732140",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732140/",
+        "doiUrl": "https://doi.org/10.1002/cph4.70255",
+        "url": "https://doi.org/10.1002/cph4.70255"
+      },
+      {
+        "title": "Characterization of an adjustable partial portal vein ligation model reveals flow-dependent intimal and medial remodeling of the extrahepatic portal vein.",
+        "journal": "Vascular pharmacology",
+        "pubDate": "2026 Sep 13",
+        "studyType": "Journal Article",
+        "authors": "Roy T, Nagy K, Horváth P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Altered portal venous hemodynamics are associated with the development of portos... 临床提示：该英文报道关注最新动态：Altered portal venous hemodynamics are associated with the development of portos...",
+        "abstract": "Altered portal venous hemodynamics are associated with the development of portosystemic collateralization and structural remodeling of the extrahepatic portal vasculature; however, the underlying cellular and molecular mechanisms remain incompletely understood. Existing partial portal vein ligation models rely on fixed-diameter spacers or needle-based ligation to achieve predefined, non-adjustable levels of portal venous flow restriction, thereby producing discrete levels of hepatic inflow. Consequently, they provide limited control over portal blood flow, intrahepatic perfusion, and the extent of extrahepatic portal vein (EPV) remodeling. Here, we developed a custom adjustable EPV ligation ...",
+        "pmid": "42732802",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732802/",
+        "doiUrl": "https://doi.org/10.1016/j.vph.2026.107706",
+        "url": "https://doi.org/10.1016/j.vph.2026.107706"
+      },
+      {
+        "title": "Clinical Heterogeneity of Refractory Ascites After Pediatric Liver Transplantation Modulates Allograft Rejection Risk.",
+        "journal": "MedComm",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article",
+        "authors": "Wang B, Gao Y, Song J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To systematically evaluate the prognostic impact, clinical risk factors, and imm... 临床提示：该英文报道关注最新动态：RA was associated with increased mortality and graft loss after pediatric LT....",
+        "abstract": "Refractory ascites (RA) is a severe complication that impedes long-term survival after pediatric liver transplantation (LT), but its etiology remains complex and heterogeneous. To systematically evaluate the prognostic impact, clinical risk factors, and immunological features of RA, we retrospectively analyzed 1455 pediatric recipients who received LT in Renji Hospital between October 2016 and December 2021. RA was associated with increased mortality and graft loss after pediatric LT. Univariate analysis identified 13 clinical factors associated with RA, whereas a preliminary multivariable model showed only moderate discrimination, suggesting substantial heterogeneity among RA patients. Base...",
+        "pmid": "42732228",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732228/",
+        "doiUrl": "https://doi.org/10.1002/mco2.71002",
+        "url": "https://doi.org/10.1002/mco2.71002"
+      },
+      {
+        "title": "Unusual Spinal Epidural and Paraspinal Venous Engorgement Secondary to Hepatosplenic Schistosomiasis: A Rare Cause of Severe Low Back Pain.",
+        "journal": "Clinical case reports",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article",
+        "authors": "Birara ED, Bejiga YD, Girmaye R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Severe low back pain from spinal epidural and paraspinal venous engorgement seco... 临床提示：该英文报道关注最新动态：MRI revealed dilated epidural veins and neural foraminal narrowing....",
+        "abstract": "Severe low back pain from spinal epidural and paraspinal venous engorgement secondary to hepatosplenic schistosomiasis is rare. MRI revealed dilated epidural veins and neural foraminal narrowing. The patient was managed conservatively with analgesia and carvedilol for portal hypertension and subsequently experienced complete resolution of back pain.",
+        "pmid": "42732128",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732128/",
+        "doiUrl": "https://doi.org/10.1002/ccr3.73509",
+        "url": "https://doi.org/10.1002/ccr3.73509"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Anthropic boss Dario Amodei calls for AI development to slow down...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Anthropic boss Dario Amodei calls for AI development to slow down...”。核心要点：该英文报道关注最新动态：The call comes amid growing concerns that AI models may become able ...",
+        "titleZh": "该英文报道关注最新动态：Russia hits Ukrainian train shortly after Boris Johnson and top European officia...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia hits Ukrainian train shortly after Boris Johnson and top European officia...”。核心要点：该英文报道关注最新动态：The former UK PM said: \"I don't know what warped logic drove Putin t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 03:38:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq...”。核心要点：该英文报道关注最新动态：Iraq removes a military commander and opens investigations into the ...",
+        "titleZh": "该英文报道关注最新动态：Trump downplays warnings of AI risks, citing rivalry with China...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump downplays warnings of AI risks, citing rivalry with China...”。核心要点：该英文报道关注最新动态：The US president said \"negative forces\" were airing concerns about \"...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 18:49:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：They lost their jobs after posting about Charlie Kirk, but some have no regrets...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：They lost their jobs after posting about Charlie Kirk, but some have no regrets...”。核心要点：该英文报道关注最新动态：Some people fired in the wake of Kirk's assassination have won big s...",
+        "titleZh": "该英文报道关注最新动态：Questions mount over what an AI 'slowdown' would look like...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Questions mount over what an AI 'slowdown' would look like...”。核心要点：该英文报道关注最新动态：While pacing AI development might sound like a quick fix, it is far ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 00:49:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 18:20:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump's comments on a united Ireland may have targeted audience across the Atlan...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump's comments on a united Ireland may have targeted audience across the Atlan...”。核心要点：该英文报道关注最新动态：Nobody could have predicted that today's main global headline would ...",
+        "titleZh": "该英文报道关注最新动态：Swedish left-wing bloc narrowly ahead with election too close to call...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Swedish left-wing bloc narrowly ahead with election too close to call...”。核心要点：该英文报道关注最新动态：A preliminary count by Sweden's election authority projected that le...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 01:58:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Fire at nursing home in Chile kills 16 residents...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Fire at nursing home in Chile kills 16 residents...”。核心要点：该英文报道关注最新动态：Ten people were evacuated from the home in Araucanía region in centr...",
+        "titleZh": "该英文报道关注最新动态：Six dead, 130 missing after Indonesian ferry capsizes in Java Sea...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Six dead, 130 missing after Indonesian ferry capsizes in Java Sea...”。核心要点：该英文报道关注最新动态：Ships and helicopters are searching for those missing from the Virgo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 19:36:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US prices remain high as fuel costs squeeze household budgets...”。核心要点：该英文报道关注最新动态：Prices in the US rose 3.4% in the 12 months to August, according to ...",
+        "titleZh": "该英文报道关注最新动态：Rent rises set to speed up in gloomy forecast for tenants...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Rent rises set to speed up in gloomy forecast for tenants...”。核心要点：该英文报道关注最新动态：The cost of renting is expected to rise by 4% or 5% a year by Decemb...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 14:22:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 23:05:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks...”。核心要点：该英文报道关注最新动态：O'Leary has said airline passengers \"can't afford to fly with the hi...",
+        "titleZh": "该英文报道关注最新动态：'Culture shift' needed in how UK does business, PM urges...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Culture shift' needed in how UK does business, PM urges...”。核心要点：该英文报道关注最新动态：Burnham has said those who take risks should be backed by government...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 15:37:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 21:30:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Skimpflation' warning as tinned mackerel alternative hits more supermarket shel...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Skimpflation' warning as tinned mackerel alternative hits more supermarket shel...”。核心要点：该英文报道关注最新动态：Consumer group Which? has called the sale of jack mackerel, a cheape...",
+        "titleZh": "该英文报道关注最新动态：How to protect your laptop, phone and bike from thieves at uni...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How to protect your laptop, phone and bike from thieves at uni...”。核心要点：该英文报道关注最新动态：What should new students consider to keep your belongings safe and c...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 12 Sep 2026 20:37:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 13 Sep 2026 23:39:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Interest rates could rise again across the world – here's why...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates could rise again across the world – here's why...”。核心要点：该英文报道关注最新动态：As countries grapple with energy costs pushing up inflation, this mo...",
+        "titleZh": "该英文报道关注最新动态：Amazon pauses work with cargo firm after fatal crash...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Amazon pauses work with cargo firm after fatal crash...”。核心要点：该英文报道关注最新动态：The 21 Air-operated jet overshot a runway at Miami International Air...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 13:35:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 02:40:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI boom helps drive surprise UK growth in July...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI boom helps drive surprise UK growth in July...”。核心要点：该英文报道关注最新动态：The economy expanded by 0.4%, official figures show, whereas analyst...",
+        "titleZh": "该英文报道关注最新动态：MPs and Lords call for new law to address AI threat to human rights...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：MPs and Lords call for new law to address AI threat to human rights...”。核心要点：该英文报道关注最新动态：Existing laws are not equipped to address the risks to human rights ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 11 Sep 2026 10:17:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 05:49:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
