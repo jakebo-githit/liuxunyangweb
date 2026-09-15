@@ -1,145 +1,92 @@
 {
-  "updatedAt": "2026-09-14T06:18:54.723Z",
+  "updatedAt": "2026-09-15T06:11:53.565Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Transhepatic Gradients Reveal Selective Hepatic Processing Defects With Systemic Consequences in Cirrhosis.",
-        "journal": "Comprehensive physiology",
-        "pubDate": "2026 Oct",
-        "studyType": "Journal Article",
-        "authors": "Stockdale G, Fawaz A, Bashour M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 11）。核心观点：该英文报道关注最新动态：The cirrhotic liver's metabolic capacity remains incompletely characterized, par... 临床提示：该英文报道关注最新动态：Transjugular intrahepatic portosystemic shunt (TIPS) placement allows paired por...",
-        "abstract": "The cirrhotic liver's metabolic capacity remains incompletely characterized, particularly its role in shaping portal metabolite signals that reach the systemic circulation. Transjugular intrahepatic portosystemic shunt (TIPS) placement allows paired portal and right atrial sampling to estimate transhepatic gradients. We performed global metabolomic profiling on paired portal vein and right atrial samples from 11 patients with cirrhosis during TIPS placement, with right atrial sampling repeated immediately after shunt creation. Pre-TIPS right atrial profiles were compared with peripheral venous samples from 15 healthy controls. For each metabolite, we calculated a transhepatic gradient (porta...",
-        "pmid": "42732140",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732140/",
-        "doiUrl": "https://doi.org/10.1002/cph4.70255",
-        "url": "https://doi.org/10.1002/cph4.70255"
-      },
-      {
-        "title": "Characterization of an adjustable partial portal vein ligation model reveals flow-dependent intimal and medial remodeling of the extrahepatic portal vein.",
-        "journal": "Vascular pharmacology",
-        "pubDate": "2026 Sep 13",
-        "studyType": "Journal Article",
-        "authors": "Roy T, Nagy K, Horváth P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Altered portal venous hemodynamics are associated with the development of portos... 临床提示：该英文报道关注最新动态：Altered portal venous hemodynamics are associated with the development of portos...",
-        "abstract": "Altered portal venous hemodynamics are associated with the development of portosystemic collateralization and structural remodeling of the extrahepatic portal vasculature; however, the underlying cellular and molecular mechanisms remain incompletely understood. Existing partial portal vein ligation models rely on fixed-diameter spacers or needle-based ligation to achieve predefined, non-adjustable levels of portal venous flow restriction, thereby producing discrete levels of hepatic inflow. Consequently, they provide limited control over portal blood flow, intrahepatic perfusion, and the extent of extrahepatic portal vein (EPV) remodeling. Here, we developed a custom adjustable EPV ligation ...",
-        "pmid": "42732802",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732802/",
-        "doiUrl": "https://doi.org/10.1016/j.vph.2026.107706",
-        "url": "https://doi.org/10.1016/j.vph.2026.107706"
-      },
-      {
-        "title": "Clinical Heterogeneity of Refractory Ascites After Pediatric Liver Transplantation Modulates Allograft Rejection Risk.",
-        "journal": "MedComm",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article",
-        "authors": "Wang B, Gao Y, Song J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To systematically evaluate the prognostic impact, clinical risk factors, and imm... 临床提示：该英文报道关注最新动态：RA was associated with increased mortality and graft loss after pediatric LT....",
-        "abstract": "Refractory ascites (RA) is a severe complication that impedes long-term survival after pediatric liver transplantation (LT), but its etiology remains complex and heterogeneous. To systematically evaluate the prognostic impact, clinical risk factors, and immunological features of RA, we retrospectively analyzed 1455 pediatric recipients who received LT in Renji Hospital between October 2016 and December 2021. RA was associated with increased mortality and graft loss after pediatric LT. Univariate analysis identified 13 clinical factors associated with RA, whereas a preliminary multivariable model showed only moderate discrimination, suggesting substantial heterogeneity among RA patients. Base...",
-        "pmid": "42732228",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732228/",
-        "doiUrl": "https://doi.org/10.1002/mco2.71002",
-        "url": "https://doi.org/10.1002/mco2.71002"
-      },
-      {
-        "title": "Unusual Spinal Epidural and Paraspinal Venous Engorgement Secondary to Hepatosplenic Schistosomiasis: A Rare Cause of Severe Low Back Pain.",
-        "journal": "Clinical case reports",
-        "pubDate": "2026 Sep",
-        "studyType": "Journal Article",
-        "authors": "Birara ED, Bejiga YD, Girmaye R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Severe low back pain from spinal epidural and paraspinal venous engorgement seco... 临床提示：该英文报道关注最新动态：MRI revealed dilated epidural veins and neural foraminal narrowing....",
-        "abstract": "Severe low back pain from spinal epidural and paraspinal venous engorgement secondary to hepatosplenic schistosomiasis is rare. MRI revealed dilated epidural veins and neural foraminal narrowing. The patient was managed conservatively with analgesia and carvedilol for portal hypertension and subsequently experienced complete resolution of back pain.",
-        "pmid": "42732128",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42732128/",
-        "doiUrl": "https://doi.org/10.1002/ccr3.73509",
-        "url": "https://doi.org/10.1002/ccr3.73509"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Russia hits Ukrainian train shortly after Boris Johnson and top European officia...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia hits Ukrainian train shortly after Boris Johnson and top European officia...”。核心要点：该英文报道关注最新动态：The former UK PM said: \"I don't know what warped logic drove Putin t...",
+        "titleZh": "该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...”。核心要点：该英文报道关注最新动态：The US president's comments come after Anthropic co-founder Jack Cla...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 03:38:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 03:47:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump downplays warnings of AI risks, citing rivalry with China...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump downplays warnings of AI risks, citing rivalry with China...”。核心要点：该英文报道关注最新动态：The US president said \"negative forces\" were airing concerns about \"...",
+        "titleZh": "该英文报道关注最新动态：Welsh actor Matthew Rhys makes Emmy Awards history with double win...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Welsh actor Matthew Rhys makes Emmy Awards history with double win...”。核心要点：该英文报道关注最新动态：He becomes the first person to win two lead acting prizes in one nig...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 18:49:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 03:50:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Questions mount over what an AI 'slowdown' would look like...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Questions mount over what an AI 'slowdown' would look like...”。核心要点：该英文报道关注最新动态：While pacing AI development might sound like a quick fix, it is far ...",
+        "titleZh": "该英文报道关注最新动态：Nato jets down drone that entered Lithuanian airspace...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nato jets down drone that entered Lithuanian airspace...”。核心要点：该英文报道关注最新动态：The origin of the drone is currently unknown, but authorities say it...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 18:20:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 02:22:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Swedish left-wing bloc narrowly ahead with election too close to call...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Swedish left-wing bloc narrowly ahead with election too close to call...”。核心要点：该英文报道关注最新动态：A preliminary count by Sweden's election authority projected that le...",
+        "titleZh": "该英文报道关注最新动态：US confirms for first time it has deployed space weapons...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US confirms for first time it has deployed space weapons...”。核心要点：该英文报道关注最新动态：The US Air Force Secretary says the weapons are necessary to defend ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 01:58:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 01:52:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Six dead, 130 missing after Indonesian ferry capsizes in Java Sea...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Six dead, 130 missing after Indonesian ferry capsizes in Java Sea...”。核心要点：该英文报道关注最新动态：Ships and helicopters are searching for those missing from the Virgo...",
+        "titleZh": "该英文报道关注最新动态：Wild dogs record 2,500-mile trek across Zambia in search of a mate...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Wild dogs record 2,500-mile trek across Zambia in search of a mate...”。核心要点：该英文报道关注最新动态：Scientists say the record-breaking journey by three brothers offers ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Rent rises set to speed up in gloomy forecast for tenants...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Rent rises set to speed up in gloomy forecast for tenants...”。核心要点：该英文报道关注最新动态：The cost of renting is expected to rise by 4% or 5% a year by Decemb...",
+        "titleZh": "该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...”。核心要点：该英文报道关注最新动态：The US president's comments come after Anthropic co-founder Jack Cla...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 23:05:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 03:47:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Culture shift' needed in how UK does business, PM urges...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Culture shift' needed in how UK does business, PM urges...”。核心要点：该英文报道关注最新动态：Burnham has said those who take risks should be backed by government...",
+        "titleZh": "该英文报道关注最新动态：I got paid $5,000 to move to a place I'd never heard of...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I got paid $5,000 to move to a place I'd never heard of...”。核心要点：该英文报道关注最新动态：Relocation schemes offer support for people who want to swap big cit...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 21:30:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 23:08:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How to protect your laptop, phone and bike from thieves at uni...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How to protect your laptop, phone and bike from thieves at uni...”。核心要点：该英文报道关注最新动态：What should new students consider to keep your belongings safe and c...",
+        "titleZh": "该英文报道关注最新动态：AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC...”。核心要点：该英文报道关注最新动态：US President Donald Trump dismisses calls to slow the development of...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 13 Sep 2026 23:39:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 00:32:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Amazon pauses work with cargo firm after fatal crash...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Amazon pauses work with cargo firm after fatal crash...”。核心要点：该英文报道关注最新动态：The 21 Air-operated jet overshot a runway at Miami International Air...",
+        "titleZh": "该英文报道关注最新动态：Pubs in England and Wales to allow digital ID apps to prove age...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pubs in England and Wales to allow digital ID apps to prove age...”。核心要点：该英文报道关注最新动态：New rules introduced on Tuesday mean establishments will be able to ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 02:40:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 14 Sep 2026 23:07:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：MPs and Lords call for new law to address AI threat to human rights...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：MPs and Lords call for new law to address AI threat to human rights...”。核心要点：该英文报道关注最新动态：Existing laws are not equipped to address the risks to human rights ...",
+        "titleZh": "该英文报道关注最新动态：AI regulation faces political deadlock as calls grow for Congress to act...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI regulation faces political deadlock as calls grow for Congress to act...”。核心要点：该英文报道关注最新动态：With Trump opposed and Congress divided, new safety legislation on A...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 05:49:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 02:50:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
