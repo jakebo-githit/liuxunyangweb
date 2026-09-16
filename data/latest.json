@@ -1,92 +1,145 @@
 {
-  "updatedAt": "2026-09-15T06:11:53.565Z",
+  "updatedAt": "2026-09-16T06:02:46.373Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Liver and Spleen Stiffness as Non-Invasive Tools Assessing Liver Congestion in Patients With Budd-Chiari Syndrome.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Oct",
+        "studyType": "Journal Article",
+        "authors": "Fodor A, Thompson MA, Nicoara-Farcau O",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：At each visit, patients were classified as having a controlled or uncontrolled c... 临床提示：该英文报道关注最新动态：Assessing liver congestion and portal hypertension (PHT) in Budd-Chiari syndrome...",
+        "abstract": "Assessing liver congestion and portal hypertension (PHT) in Budd-Chiari syndrome (BCS) remains challenging. We evaluated liver and spleen stiffness measurements (LSM, SSM) obtained by transient elastography as non-invasive tools for identifying clinically meaningful liver congestion in BCS. This retrospective study included consecutive patients with BCS followed at our unit. At each visit, patients were classified as having a controlled or uncontrolled clinical status based on clinical, biochemical, imaging and/or hemodynamic data, by absence or presence of clinically significant PHT. LSM and SSM were independently obtained at all visits and diagnostic performance for classifying clinical st...",
+        "pmid": "42740478",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42740478/",
+        "doiUrl": "https://doi.org/10.1111/liv.70870",
+        "url": "https://doi.org/10.1111/liv.70870"
+      },
+      {
+        "title": "Endoscopic ultrasound-guided left gastric vein embolization for esophageal and gastric varices in liver cirrhosis: A case report.",
+        "journal": "Medicine",
+        "pubDate": "2026 Sep 11",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Lu H, Yang X, Huang C",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Conventional endoscopic ultrasound (EUS)-guided therapy for upper gastrointestin... 临床提示：该英文报道关注最新动态：We report a case in which EUS-guided embolization of the left gastric vein, the ...",
+        "abstract": "Conventional endoscopic ultrasound (EUS)-guided therapy for upper gastrointestinal varices mainly fills the variceal lumen without interrupting the feeding vessels, and recurrence remains common. We report a case in which EUS-guided embolization of the left gastric vein, the varices feeding vessel, was performed for esophageal and gastric varices. A 47-year-old man with decompensated cirrhosis presented with hematemesis and melena. Contrast-enhanced abdominal computed tomography showed decompensated cirrhosis with portal hypertension. Upper gastrointestinal endoscopy revealed esophageal varices extending below the cardia, 1.5 to 2 cm in diameter and consistent with gastroesophageal varices t...",
+        "pmid": "42736825",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42736825/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000050710",
+        "url": "https://doi.org/10.1097/MD.0000000000050710"
+      },
+      {
+        "title": "Long-term outcome of percutaneous transhepatic venous embolization for ectopic peristomal variceal bleeding: A case report.",
+        "journal": "Medicine",
+        "pubDate": "2026 Sep 11",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Yuan J, Zhao T, Zeng H",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Bleeding from ectopic varices secondary to portal hypertension represents a sign... 临床提示：该英文报道关注最新动态：Hematuria secondary to ectopic peristomal varices of an ileal neobladder associa...",
+        "abstract": "Bleeding from ectopic varices secondary to portal hypertension represents a significant therapeutic challenge due to the absence of standardized management protocols. This case report details the long-term management and follow-up of a rare and challenging case of recurrent hematuria caused by bleeding from ectopic peristomal varices secondary to portal hypertension in a patient with an ileal neobladder. Hematuria secondary to ectopic peristomal varices of an ileal neobladder associated with portal hypertension. The patient underwent 2 sessions of percutaneous transhepatic obliteration (PTO) (in April 2018 and February 2022) for active variceal bleeding. After the initial PTO, hematuria reso...",
+        "pmid": "42736766",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42736766/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000050706",
+        "url": "https://doi.org/10.1097/MD.0000000000050706"
+      },
+      {
+        "title": "Overview of Non-Cirrhotic Portal Hypertension in Pediatric Patients.",
+        "journal": "Journal of clinical medicine",
+        "pubDate": "2026 Sep 6",
+        "studyType": "Journal Article / Review",
+        "authors": "Walecha A, Sankararaman S, Radhakrishnan K",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Non-cirrhotic portal hypertension (NCPHT) is defined as portal hypertension (PHT... 临床提示：该英文报道关注最新动态：Major etiological causes of NCPHT include immunological disorders, chronic infec...",
+        "abstract": "Non-cirrhotic portal hypertension (NCPHT) is defined as portal hypertension (PHT) occurring in the absence of cirrhosis. Major etiological causes of NCPHT include immunological disorders, chronic infections, exposure to medications or toxins, prothrombotic conditions, and several genetic syndromes, highlighting that NCPHT is not a single disease but a shared phenotype arising from diverse underlying pathways. NCPHT is frequently misdiagnosed, largely due to inconsistent nomenclature and limited scientific literature. The broader term non-cirrhotic portal fibrosis (NCPF) or porto-sinusoidal vascular disease (PSVD) includes patients in a preclinical stage who demonstrate histological features ...",
+        "pmid": "42739903",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42739903/",
+        "doiUrl": "https://doi.org/10.3390/jcm15176901",
+        "url": "https://doi.org/10.3390/jcm15176901"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...”。核心要点：该英文报道关注最新动态：The US president's comments come after Anthropic co-founder Jack Cla...",
+        "titleZh": "该英文报道关注最新动态：All support acts on Ed Sheeran's US tour quit after Macklemore dropped...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：All support acts on Ed Sheeran's US tour quit after Macklemore dropped...”。核心要点：该英文报道关注最新动态：The star said he was not responsible for Macklemore being dropped fr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 03:47:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 16 Sep 2026 01:29:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Welsh actor Matthew Rhys makes Emmy Awards history with double win...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Welsh actor Matthew Rhys makes Emmy Awards history with double win...”。核心要点：该英文报道关注最新动态：He becomes the first person to win two lead acting prizes in one nig...",
+        "titleZh": "该英文报道关注最新动态：Denmark says Russian warship fired flares at military helicopter...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Denmark says Russian warship fired flares at military helicopter...”。核心要点：该英文报道关注最新动态：The Danish prime minister has accused Russia of \"reckless\" behaviour...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 03:50:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 11:40:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nato jets down drone that entered Lithuanian airspace...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nato jets down drone that entered Lithuanian airspace...”。核心要点：该英文报道关注最新动态：The origin of the drone is currently unknown, but authorities say it...",
+        "titleZh": "该英文报道关注最新动态：What weapon could the US have put into space?...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What weapon could the US have put into space?...”。核心要点：该英文报道关注最新动态：The announcement by the US points to a developing field of modern wa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 02:22:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 14:23:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US confirms for first time it has deployed space weapons...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US confirms for first time it has deployed space weapons...”。核心要点：该英文报道关注最新动态：The US Air Force Secretary says the weapons are necessary to defend ...",
+        "titleZh": "该英文报道关注最新动态：South African president vows justice as more women's bodies found near Johannesb...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South African president vows justice as more women's bodies found near Johannesb...”。核心要点：该英文报道关注最新动态：Police have not linked the deaths to a serial killer but are investi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 01:52:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 18:01:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Wild dogs record 2,500-mile trek across Zambia in search of a mate...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Wild dogs record 2,500-mile trek across Zambia in search of a mate...”。核心要点：该英文报道关注最新动态：Scientists say the record-breaking journey by three brothers offers ...",
+        "titleZh": "该英文报道关注最新动态：Two sailors missing after tanker attacked in Strait of Hormuz, Oman says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two sailors missing after tanker attacked in Strait of Hormuz, Oman says...”。核心要点：该英文报道关注最新动态：Iran says El Gaia caught fire after hitting mines, but the US says t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 16:13:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards...”。核心要点：该英文报道关注最新动态：The US president's comments come after Anthropic co-founder Jack Cla...",
+        "titleZh": "该英文报道关注最新动态：OpenAI boss says world 'right to be afraid' but 'should trust' AI firms...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI boss says world 'right to be afraid' but 'should trust' AI firms...”。核心要点：该英文报道关注最新动态：Sam Altman and other tech CEOs say there are incentives to limit adv...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 03:47:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 16 Sep 2026 00:59:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：I got paid $5,000 to move to a place I'd never heard of...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I got paid $5,000 to move to a place I'd never heard of...”。核心要点：该英文报道关注最新动态：Relocation schemes offer support for people who want to swap big cit...",
+        "titleZh": "该英文报道关注最新动态：Complaints to watchdog about water firms jump 84%...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Complaints to watchdog about water firms jump 84%...”。核心要点：该英文报道关注最新动态：Many complaints were about affordability, after customers saw steep ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 23:08:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 23:14:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC...”。核心要点：该英文报道关注最新动态：US President Donald Trump dismisses calls to slow the development of...",
+        "titleZh": "该英文报道关注最新动态：How rising bond yields impact American consumers...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How rising bond yields impact American consumers...”。核心要点：该英文报道关注最新动态：The BBC’s Samira Hussain explains why some could see increased inter...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 00:32:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 16 Sep 2026 03:58:32 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pubs in England and Wales to allow digital ID apps to prove age...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pubs in England and Wales to allow digital ID apps to prove age...”。核心要点：该英文报道关注最新动态：New rules introduced on Tuesday mean establishments will be able to ...",
+        "titleZh": "该英文报道关注最新动态：Why doomsday warnings are not the only threat to the AI juggernaut...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why doomsday warnings are not the only threat to the AI juggernaut...”。核心要点：该英文报道关注最新动态：The global AI race is being hit by very localised political and envi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 14 Sep 2026 23:07:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 23:39:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI regulation faces political deadlock as calls grow for Congress to act...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI regulation faces political deadlock as calls grow for Congress to act...”。核心要点：该英文报道关注最新动态：With Trump opposed and Congress divided, new safety legislation on A...",
+        "titleZh": "该英文报道关注最新动态：The extreme engineering of aircraft windows...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The extreme engineering of aircraft windows...”。核心要点：该英文报道关注最新动态：Few companies have the technology to make aircraft windows which are...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 15 Sep 2026 02:50:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 15 Sep 2026 23:19:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
