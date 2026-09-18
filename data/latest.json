@@ -1,106 +1,159 @@
 {
-  "updatedAt": "2026-09-17T06:10:41.080Z",
+  "updatedAt": "2026-09-18T05:57:18.053Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Per- and polyfluoroalkyl substances and kidney disease: Genetic associations and computational prioritization of candidate toxicogenomic pathways.",
+        "journal": "PLoS computational biology",
+        "pubDate": "2026 Sep 17",
+        "studyType": "Journal Article",
+        "authors": "Zeng D, Wang Y, Wang Y",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：This study integrated Mendelian randomization and computational toxicology to ex... 临床提示：该英文报道关注最新动态：Genetically predicted higher PFOA levels were inversely associated with IgA neph...",
+        "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental pollutants with bioaccumulation potential, but their associations with kidney diseases remain incompletely understood. This study integrated Mendelian randomization and computational toxicology to examine associations between genetically predicted circulating PFAS levels and kidney disease outcomes and to prioritize candidate toxicogenomic pathway themes. Genetically predicted higher PFOA levels were inversely associated with IgA nephropathy (OR = 0.21, P = 0.004), but positively associated with hypertensive nephropathy (OR = 1.20, P < 0.001) and calculus of kidney (OR = 1.24, P = 0.016). Genetically predicted higher PFO...",
+        "pmid": "42752549",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42752549/",
+        "doiUrl": "https://doi.org/10.1371/journal.pcbi.1014665",
+        "url": "https://doi.org/10.1371/journal.pcbi.1014665"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Direct left gastroepiploic-renal vein communication: a novel variant of congenital extrahepatic portosystemic shunt.",
-        "journal": "Anatomy & cell biology",
+        "title": "Gastrointestinal bleeding in hepatocellular carcinoma under systemic therapy: Real-world incidence and clinical predictors.",
+        "journal": "Clinics (Sao Paulo, Brazil)",
+        "pubDate": "2026 Sep 17",
+        "studyType": "Journal Article",
+        "authors": "Da Fonseca LG, Ikeoka LT, Sampaio EK",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 439）。核心观点：该英文报道关注最新动态：Although systemic therapy has improved survival outcomes, real-world data regard... 临床提示：该英文报道关注最新动态：Gastrointestinal (GI) bleeding is a major complication in patients with advanced...",
+        "abstract": "Gastrointestinal (GI) bleeding is a major complication in patients with advanced Hepatocellular Carcinoma (HCC), particularly among those with underlying portal hypertension. Although systemic therapy has improved survival outcomes, real-world data regarding the incidence, predictors, and clinical impact of GI bleeding remain limited. This study aimed to evaluate the incidence, risk factors, and prognostic implications of GI bleeding in patients with advanced HCC receiving sorafenib. This retrospective cohort study included 439 patients with advanced HCC between 2009 and 2025. Time-to-event analyses were performed from treatment initiation. The cumulative incidence of GI bleeding and bleedin...",
+        "pmid": "42753353",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42753353/",
+        "doiUrl": "https://doi.org/10.1016/j.clinsp.2026.101155",
+        "url": "https://doi.org/10.1016/j.clinsp.2026.101155"
+      },
+      {
+        "title": "Carriage of the Laboratory of Genetics and Physiology Protein 2 Q425R Variant Reduces Liver Disease Severity in European Patients With Chronic Hepatitis Delta.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "pubDate": "2026 Sep 17",
+        "studyType": "Journal Article",
+        "authors": "Cmet S, Degasperi E, Cussigh A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 192）。核心观点：该英文报道关注最新动态：Laboratory of genetics and physiology protein 2 (LGP2) Q425R variant enhances in... 临床提示：该英文报道关注最新动态：This study aimed to evaluate the association between the LGP2 Q425R variant and ...",
+        "abstract": "Laboratory of genetics and physiology protein 2 (LGP2) Q425R variant enhances interferon-mediated antiviral responses in chronic hepatitis delta (CHD) in vitro. This study aimed to evaluate the association between the LGP2 Q425R variant and liver disease severity in untreated CHD patients. In total, 192 patients with CHD were studied. LGP2 rs2074158 T>C genotyping was performed to identify the LGP2 wild-type (WT, TT genotype) and Q425R (CC/CT genotypes) variants. Liver fibrosis was evaluated by histology or liver stiffness measurement (LSM). Cirrhosis was defined by LSM > 12 kPa, and portal hypertension by thrombocytopenia. Associations between LGP2 WT and Q425R variants and clinical paramet...",
+        "pmid": "42753128",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42753128/",
+        "doiUrl": "https://doi.org/10.1111/apt.70971",
+        "url": "https://doi.org/10.1111/apt.70971"
+      },
+      {
+        "title": "Noninvasive Prediction of Clinically Significant Portal Hypertension in Hepatocellular Carcinoma: A Tumor-Adjusted Model.",
+        "journal": "The American journal of gastroenterology",
+        "pubDate": "2026 Sep 17",
+        "studyType": "Journal Article",
+        "authors": "Demirtas CO, Mezzacappa C, Sartoris R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 452）。核心观点：该英文报道关注最新动态：Noninvasive assessment of clinically significant portal hypertension (CSPH) usin... 临床提示：该英文报道关注最新动态：We evaluated the relationship between LSM and hepatic venous pressure gradient (...",
+        "abstract": "Noninvasive assessment of clinically significant portal hypertension (CSPH) using liver stiffness measurement (LSM) and platelet count (per Baveno VII criteria) may be influenced by tumor-related factors in patients with hepatocellular carcinoma (HCC). We evaluated the relationship between LSM and hepatic venous pressure gradient (HVPG) and developed a tumor-adjusted model for CSPH prediction in HCC. In this multicenter study, 452 patients with compensated cirrhosis and HCC who underwent LSM and HVPG within three months were retrospectively analyzed. The correlation between LSM and HVPG was assessed, including stratification by tumor characteristics. A tumor-adjusted predictive model (Baveno...",
+        "pmid": "42750637",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42750637/",
+        "doiUrl": "https://doi.org/10.14309/ajg.0000000000004204",
+        "url": "https://doi.org/10.14309/ajg.0000000000004204"
+      },
+      {
+        "title": "Lactulose with or without TeleTai-Chi for the prevention of falls: A sequential multiple assignment randomized controlled trial (LiveSMART).",
+        "journal": "Hepatology (Baltimore, Md.)",
         "pubDate": "2026 Sep 16",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "McAteer J, Kaminski O, Siebert JR",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Congenital portosystemic shunts are rare developmental anomalies that permit por... 临床提示：该英文报道关注最新动态：We describe a novel gastrorenal shunt identified during routine cadaveric dissec...",
-        "abstract": "Congenital portosystemic shunts are rare developmental anomalies that permit portal blood to bypass hepatic filtration. We describe a novel gastrorenal shunt identified during routine cadaveric dissection. A large aberrant vein connecting the left renal vein directly to the left gastroepiploic vein, forming an unusual connection between the systemic and portal circulations. The portal venous system was otherwise intact, with no evidence of hepatic fibrosis or portal hypertension. This configuration does not conform to previously reported portosystemic shunt malformation patterns and is most consistent with a previously unreported variant of a Type II congenital extrahepatic portosystemic shu...",
-        "pmid": "42744778",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42744778/",
-        "doiUrl": "https://doi.org/10.5115/acb.26.155",
-        "url": "https://doi.org/10.5115/acb.26.155"
+        "studyType": "Journal Article",
+        "authors": "Tapper EB, Asrani S, Weinberg E",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Falls are common and morbid for patients with cirrhosis, and patients have ident... 临床提示：该英文报道关注最新动态：This is a 24-week two-stage Sequential, Multiple Assignment Randomized Trial (SM...",
+        "abstract": "Falls are common and morbid for patients with cirrhosis, and patients have identified reducing fall risk as an unmet need and care priority. This is a 24-week two-stage Sequential, Multiple Assignment Randomized Trial (SMART) at four centers in Michigan, Pennsylvania, and Texas enrolling 230 adults with cirrhosis and portal hypertension without prior overt hepatic encephalopathy (HE). There were two stages. In stage 1 (weeks 1-12), participants were randomized to lactulose or enhanced usual care (education on nutrition and fall prevention). In Stage 2 (weeks 13-24), participants were randomized to TeleTai-Chi or enhanced usual care (exercise education). We evaluated the effectiveness of lact...",
+        "pmid": "42752551",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42752551/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001869",
+        "url": "https://doi.org/10.1097/HEP.0000000000001869"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Assad regime planned US journalist's kidnap for weeks, BBC finds...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Assad regime planned US journalist's kidnap for weeks, BBC finds...”。核心要点：该英文报道关注最新动态：Austin Tice’s abduction was approved by Syria’s former leader Bashar...",
+        "titleZh": "该英文报道关注最新动态：Canada welcomes EU proposal to become 'associate member'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Canada welcomes EU proposal to become 'associate member'...”。核心要点：该英文报道关注最新动态：Canadian Prime Minister Mark Carney said a Canada-EU alliance would ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 17 Sep 2026 05:00:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 17 Sep 2026 12:27:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US interest rates raised for first time in three years...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US interest rates raised for first time in three years...”。核心要点：该英文报道关注最新动态：Rates were hiked in a unanimous decision despite fierce opposition f...",
+        "titleZh": "该英文报道关注最新动态：Ninth woman's body found as South African police investigate string of deaths...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ninth woman's body found as South African police investigate string of deaths...”。核心要点：该英文报道关注最新动态：South Africa police have cautioned against assuming that all the kil...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 17 Sep 2026 13:44:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Snapchat open to putting time limits on teens, boss tells BBC...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Snapchat open to putting time limits on teens, boss tells BBC...”。核心要点：该英文报道关注最新动态：Evan Spiegel says it would be \"an important step forward for the ind...",
+        "titleZh": "该英文报道关注最新动态：UN experts say grounds to believe US committed war crimes in Iran strikes...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UN experts say grounds to believe US committed war crimes in Iran strikes...”。核心要点：该英文报道关注最新动态：The US has not acknowledged carrying out February's deadly strikes o...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 16 Sep 2026 23:41:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 17 Sep 2026 20:34:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Rosenberg: Russia's elections will have few surprises, but for the Kremlin they ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rosenberg: Russia's elections will have few surprises, but for the Kremlin they ...”。核心要点：该英文报道关注最新动态：There is no doubt over the outcome of this vote, but for the Kremlin...",
+        "titleZh": "该英文报道关注最新动态：US to allow Iran delegation to attend UN meetings in New York as war passes half...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US to allow Iran delegation to attend UN meetings in New York as war passes half...”。核心要点：该英文报道关注最新动态：The BBC understands Iranian President Masoud Pezeshkian and Foreign ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 17 Sep 2026 05:00:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 17 Sep 2026 21:41:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Photos show widespread damage at US sites from Iranian attacks...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Photos show widespread damage at US sites from Iranian attacks...”。核心要点：该英文报道关注最新动态：A wrecked air force plane and destroyed buildings are among the imag...",
+        "titleZh": "该英文报道关注最新动态：Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting...”。核心要点：该英文报道关注最新动态：Sylvia Zin is among the family members of people imprisoned in China...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 16 Sep 2026 18:36:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 17 Sep 2026 17:08:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Interest rates hold expected but Bank of England facing tough choices...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates hold expected but Bank of England facing tough choices...”。核心要点：该英文报道关注最新动态：Forecasts of further rises in the inflation rate mean some analysts ...",
+        "titleZh": "该英文报道关注最新动态：Healey to ask EU finance ministers to let UK into industry scheme...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey to ask EU finance ministers to let UK into industry scheme...”。核心要点：该英文报道关注最新动态：The chancellor wants the Made in Europe programme to deepen ties wit...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 17 Sep 2026 06:06:49 GMT",
+        "publishedAt": "Thu, 17 Sep 2026 22:07:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Why we bought our first home with a 100% mortgage - despite the risks...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why we bought our first home with a 100% mortgage - despite the risks...”。核心要点：该英文报道关注最新动态：The share of UK mortgages with smaller deposits is the highest it's ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 17 Sep 2026 23:00:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Japan raises interest rate to new 31-year high to curb rising prices...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Japan raises interest rate to new 31-year high to curb rising prices...”。核心要点：该英文报道关注最新动态：Central banks around the world have hiked rates as high energy price...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 18 Sep 2026 02:56:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Early Bowie music available to stream for first time...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Early Bowie music available to stream for first time...”。核心要点：该英文报道关注最新动态：Previously unheard material from the start of the artist's career ha...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 17 Sep 2026 23:01:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Interest rates held but Bank signals rise if energy prices stay high...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates held but Bank signals rise if energy prices stay high...”。核心要点：该英文报道关注最新动态：Rates are held for the sixth time in a row but the Bank of England s...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 17 Sep 2026 14:05:38 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：OpenAI reveals six more safety issues and unveils plan to disclose incidents...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI reveals six more safety issues and unveils plan to disclose incidents...”。核心要点：该英文报道关注最新动态：The firm also announced a new system to track, investigate and discl...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 17 Sep 2026 03:09:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：US interest rates raised for first time in three years...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US interest rates raised for first time in three years...”。核心要点：该英文报道关注最新动态：Rates were hiked in a unanimous decision despite fierce opposition f...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Snapchat open to putting time limits on teens, boss tells BBC...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Snapchat open to putting time limits on teens, boss tells BBC...”。核心要点：该英文报道关注最新动态：Evan Spiegel says it would be \"an important step forward for the ind...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 16 Sep 2026 23:41:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：I sent 200 DMs to companies - it was awkward but I got a job...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I sent 200 DMs to companies - it was awkward but I got a job...”。核心要点：该英文报道关注最新动态：From coffee chats to LinkedIn messages, here's how to network your w...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 16 Sep 2026 23:15:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
