@@ -1,116 +1,103 @@
 {
-  "updatedAt": "2026-09-19T05:55:15.101Z",
+  "updatedAt": "2026-09-20T06:17:23.143Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "The Childhood Liver Disease Research Network's prospective characterization of pediatric primary sclerosing cholangitis.",
-        "journal": "Hepatology communications",
-        "pubDate": "2026 Oct 1",
-        "studyType": "Journal Article / Observational Study",
-        "authors": "Mack CL, Miethke AG, Hawthorne K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Primary sclerosing cholangitis (PSC) is a rare biliary fibrosing disease that le... 临床提示：该英文报道关注最新动态：The Childhood Liver Disease Research Network is conducting a prospective, observ...",
-        "abstract": "Primary sclerosing cholangitis (PSC) is a rare biliary fibrosing disease that leads to significant morbidity and the need for liver transplantation. The Childhood Liver Disease Research Network is conducting a prospective, observational longitudinal study to define the natural history of pediatric PSC. The aim of this report is to characterize the clinical phenotypes of the first 175 children enrolled in the PSC study and to determine correlations of specific phenotypes with clinical and laboratory characteristics. Data collected included a history of inflammatory bowel disease (IBD), autoimmune hepatitis (AIH), laboratories, autoantibodies, liver stiffness measurements (LSM), medications, a...",
-        "pmid": "42758866",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42758866/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001049",
-        "url": "https://doi.org/10.1097/HC9.0000000000001049"
+        "title": "Clinical Research Analysis and Application Value of the Laparoscopic Retroperitoneal Approach in In Situ Splenectomy.",
+        "journal": "Gastroenterology research and practice",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Huang DF, Xu JB, Du YM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 58）。核心观点：该英文报道关注最新动态：The purpose of this study was to compare the effects of the laparoscopic posteri... 临床提示：该英文报道关注最新动态：The primary indications for splenectomy in our cohort were splenomegaly and hype...",
+        "abstract": "The purpose of this study was to compare the effects of the laparoscopic posterior approach in in situ splenectomy with those of traditional splenectomy. The primary indications for splenectomy in our cohort were splenomegaly and hypersplenism secondary to liver cirrhosis and portal hypertension, which is a common clinical scenario in our hepatobiliary surgery-centred hospital. A retrospective analysis was conducted on 58 patients who underwent splenectomy in our hospital. These were divided into 28 cases of laparoscopic posterior approach in situ splenectomy (posterior approach group) and 30 cases of traditional open splenectomy (open splenectomy group). Surgical indicators and postoperativ...",
+        "pmid": "42761678",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42761678/",
+        "doiUrl": "https://doi.org/10.1155/grp/7113085",
+        "url": "https://doi.org/10.1155/grp/7113085"
       },
       {
-        "title": "Dogs with intrahepatic portal hypertension of congenital cause have distinct diagnostic findings compared to dogs with chronic hepatitis-related portal hypertension.",
-        "journal": "Journal of the American Veterinary Medical Association",
-        "pubDate": "2026 Oct 1",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Albers P, Ullal T, Shropshire S",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：该英文报道关注最新动态：To compare signalment, laboratory, and imaging findings in dogs with intrahepati... 临床提示：该英文报道关注最新动态：This was a multi-institutional retrospective study (January 1, 2013, to August 2...",
-        "abstract": "To compare signalment, laboratory, and imaging findings in dogs with intrahepatic portal hypertension (PH) secondary to congenital hepatic disorders or chronic hepatitis (idiopathic or copper associated). This was a multi-institutional retrospective study (January 1, 2013, to August 25, 2024). Dogs were included if they had clinical evidence of PH (multiple portosystemic shunts, peritoneal effusion, or both) and evidence of liver dysfunction. Dogs were classified as having congenital disease or chronic hepatitis causing PH based on blinded review of liver histopathology. Categorical variables were compared with the Fisher exact test. Continuous variables were compared via the Mann-Whitney U ...",
-        "pmid": "42361375",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42361375/",
-        "doiUrl": "https://doi.org/10.2460/javma.26.03.0218",
-        "url": "https://doi.org/10.2460/javma.26.03.0218"
+        "title": "Intractable hepatic hydrothorax eliminated by thoraco-peritoneal connection: A case report.",
+        "journal": "Medicine",
+        "pubDate": "2026 Sep 18",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Lang Q, Ben X, Wang C",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Hepatic hydrothorax occurs in patients with decompensated cirrhosis and has a si... 临床提示：该英文报道关注最新动态：However, several treatments, including indwelling pleural catheters, trans jugul...",
+        "abstract": "Hepatic hydrothorax occurs in patients with decompensated cirrhosis and has a significantly adverse prognosis. However, several treatments, including indwelling pleural catheters, trans jugular intrahepatic systemic shunts, and automatic low-flow ascites pumps (Alfa pumps), have been utilized to relieve pleural effusion, but these methods often cause severe complications. We report the first case of using thoraco-peritoneal connection to manage hepatic hydrothorax in a cirrhotic patient without an unfavorable outcome. A 55-year-old yellow-skinned female patient with alcoholic cirrhosis suffering from hepatic hydrothorax was admitted to the hospital. She presented with recurrent yellowish com...",
+        "pmid": "42760719",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42760719/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000050685",
+        "url": "https://doi.org/10.1097/MD.0000000000050685"
       },
       {
-        "title": "Intestinal barrier dysfunction assessed by confocal laser endomicroscopy correlates with cirrhosis severity and clinical outcome(☆).",
-        "journal": "JHEP reports : innovation in hepatology",
+        "title": "Baseline characteristics of a prospective, multi-center study on the natural history of compensated cirrhosis: the Liver Cirrhosis Network.",
+        "journal": "The American journal of gastroenterology",
         "pubDate": "2026 Sep 18",
         "studyType": "Journal Article",
-        "authors": "Simbrunner B, Sorribas M, Schaerer J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 16）。核心观点：该英文报道关注最新动态：Intestinal barrier dysfunction drives complications in advanced chronic liver di... 临床提示：该英文报道关注最新动态：Confocal laser endomicroscopy (CLE) enables direct visualization of transepithel...",
-        "abstract": "Intestinal barrier dysfunction drives complications in advanced chronic liver disease (ACLD). Confocal laser endomicroscopy (CLE) enables direct visualization of transepithelial fluorescein leakage during endoscopy. This study evaluated the link between CLE-assessed intestinal permeability and disease severity in ACLD. CLE was performed in two independent cohorts after intravenous fluorescein administration in the small intestine: (1) Bern cohort (n=4 healthy controls, n=16 ACLD) and (2) Vienna cohort (n=48 ACLD). Image analysis included established CLE scores, and novel quantitative assessments measuring fluorescence intensity in three compartments (\"3-compartment-method\"; lumen-epithelium-...",
-        "pmid": "42759696",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42759696/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102037",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.102037"
+        "authors": "Wegermann K, Smith AR, Dasarathy S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Baseline characteristics of a prospective, multi-center study on the natural his...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42754973",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42754973/",
+        "doiUrl": "https://doi.org/10.14309/ajg.0000000000004211",
+        "url": "https://doi.org/10.14309/ajg.0000000000004211"
       },
       {
-        "title": "Interpretable prediction model for short- and long-term hepatic encephalopathy and variceal rebleeding after TIPS: a real-world study.",
-        "journal": "Clinical and translational gastroenterology",
-        "pubDate": "2026 Sep 18",
-        "studyType": "Journal Article",
-        "authors": "Wan S, Zhang L, Li J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 636）。核心观点：该英文报道关注最新动态：Transjugular intrahepatic portosystemic shunt (TIPS) relieves portal hypertensio... 临床提示：该英文报道关注最新动态：We aimed to identify risk factors and develop an interpretable machine learning ...",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) relieves portal hypertension, but post-TIPS overt hepatic encephalopathy (OHE) and variceal rebleeding (VRB) remain outcomes that significantly impair survival. We aimed to identify risk factors and develop an interpretable machine learning model predicting 2- and 6-year OHE and VRB. In this multicenter retrospective study, 636 patients undergoing TIPS (2014-2023) with 2-6 years follow-up were analyzed. A detailed perioperative dataset was curated. LASSO selected key predictors for model training in an integrated machine learning voting ensemble (ML-VE) framework. Efficacy was assessed by AUC and compared with conventional clinical scores ...",
-        "pmid": "42759049",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42759049/",
-        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001096",
-        "url": "https://doi.org/10.14309/ctg.0000000000001096"
-      },
-      {
-        "title": "Artificial Intelligence in Endohepatology: Toward an Intelligent One-Stop Shop for Liver-Directed Endoscopy.",
+        "title": "EUS-Guided Cyanoacrylate Injection With Balloon-Compression Sclerotherapy Versus Band Ligation for Gastroesophageal Varices: A Randomized Trial.",
         "journal": "Journal of gastroenterology and hepatology",
-        "pubDate": "2026 Sep 18",
-        "studyType": "Journal Article / Review",
-        "authors": "Salman AA",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Concurrently, artificial intelligence (AI) has revolutionized luminal endoscopy ... 临床提示：该英文报道关注最新动态：Concurrently, artificial intelligence (AI) has revolutionized luminal endoscopy ...",
-        "abstract": "Endohepatology (the implementation of contemporary advanced endoscopy in hepatology) has reached a point where endoscopic ultrasound (EUS)-guided liver biopsy, portal pressure gradient measurement, parenchymal elastography, and variceal screening and therapy can be integrated into a single procedural session of liver-directed endoscopy. Concurrently, artificial intelligence (AI) has revolutionized luminal endoscopy and is advancing rapidly across hepatology imaging, digital pathology, and outcome prediction, yet its translation into the liver-targeted endoscopic workflow has never been synthesized into a coherent domain. This narrative review maps this evolving convergence of AI and endohepa...",
-        "pmid": "42758018",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42758018/",
-        "doiUrl": "https://doi.org/10.1111/jgh.70757",
-        "url": "https://doi.org/10.1111/jgh.70757"
+        "pubDate": "2026 Sep 17",
+        "studyType": "Journal Article",
+        "authors": "Yang X, Wang Z, Liao Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 62）。核心观点：该英文报道关注最新动态：Gastroesophageal varices (GOV) is a life-threatening complication of portal hype... 临床提示：该英文报道关注最新动态：Endoscopic ultrasound-guided cyanoacrylate injection (EUS-CYA) improves gastric ...",
+        "abstract": "Gastroesophageal varices (GOV) is a life-threatening complication of portal hypertension. Endoscopic ultrasound-guided cyanoacrylate injection (EUS-CYA) improves gastric variceal treatment, but the optimal strategy for concomitant esophageal varices (EV) remains unclear. We compared EUS-CYA combined with balloon-compression endoscopic injection sclerotherapy (bc-EIS) versus EUS-CYA combined with endoscopic variceal ligation (EVL). Single-center randomized controlled trial (July 2022-June 2025). Cirrhotic patients with GOV were assigned 1:1 to EUS-CYA + bc-EIS (n = 62) or EUS-CYA + EVL (n = 62). All received EUS-guided \"sandwich technique\" for gastric varices (GV). Then, bc-EIS (polidocanol u...",
+        "pmid": "42755133",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42755133/",
+        "doiUrl": "https://doi.org/10.1111/jgh.70715",
+        "url": "https://doi.org/10.1111/jgh.70715"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US and Denmark reach deal over Greenland after Trump annexation threats...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US and Denmark reach deal over Greenland after Trump annexation threats...”。核心要点：该英文报道关注最新动态：Trump says the agreement will give the US \"permanent control over se...",
+        "titleZh": "该英文报道关注最新动态：Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelp...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelp...”。核心要点：该英文报道关注最新动态：The mega-star spoke about Israel and Gaza at his first concert since...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 22:58:55 GMT",
+        "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia...”。核心要点：该英文报道关注最新动态：An oil refinery was also reportedly hit in Moscow, and flights were ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 20 Sep 2026 05:56:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Houthis say they targeted Saudi capital with ballistic missiles...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Houthis say they targeted Saudi capital with ballistic missiles...”。核心要点：该英文报道关注最新动态：A reported strike on a fuel depot at Riyadh airport caused delays on...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Nato welcomes Greenland deal as Trump says it will give US 'permanent security c...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nato welcomes Greenland deal as Trump says it will give US 'permanent security c...”。核心要点：该英文报道关注最新动态：Denmark and the US have reached an agreement after months of threats...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 19 Sep 2026 23:00:27 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump says he is banning CNN and Politico from White House...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says he is banning CNN and Politico from White House...”。核心要点：该英文报道关注最新动态：The US president has had a tense and fiery relationship with the US ...",
+        "titleZh": "该英文报道关注最新动态：Our head teacher was an abuser. We joined forces to get justice - now we're marr...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Our head teacher was an abuser. We joined forces to get justice - now we're marr...”。核心要点：该英文报道关注最新动态：Students spent years collecting evidence against their Indonesian pr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 19 Sep 2026 05:36:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Google's Gemini AI hacked three companies in security test...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Google's Gemini AI hacked three companies in security test...”。核心要点：该英文报道关注最新动态：The AI model accessed the internet and guessed credentials to three ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 19 Sep 2026 04:27:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Trump signs sweeping Russia sanctions bill...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump signs sweeping Russia sanctions bill...”。核心要点：该英文报道关注最新动态：The bill is named after the late Senator Lindsey Graham, a staunch a...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 22:05:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Russian hybrid attacks against Europe intensifying, says Macron...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian hybrid attacks against Europe intensifying, says Macron...”。核心要点：该英文报道关注最新动态：The French president says he has tasked the government with protecti...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 18:04:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 19 Sep 2026 23:01:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
