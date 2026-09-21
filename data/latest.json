@@ -1,145 +1,92 @@
 {
-  "updatedAt": "2026-09-20T06:17:23.143Z",
+  "updatedAt": "2026-09-21T06:21:29.121Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Clinical Research Analysis and Application Value of the Laparoscopic Retroperitoneal Approach in In Situ Splenectomy.",
-        "journal": "Gastroenterology research and practice",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Huang DF, Xu JB, Du YM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 58）。核心观点：该英文报道关注最新动态：The purpose of this study was to compare the effects of the laparoscopic posteri... 临床提示：该英文报道关注最新动态：The primary indications for splenectomy in our cohort were splenomegaly and hype...",
-        "abstract": "The purpose of this study was to compare the effects of the laparoscopic posterior approach in in situ splenectomy with those of traditional splenectomy. The primary indications for splenectomy in our cohort were splenomegaly and hypersplenism secondary to liver cirrhosis and portal hypertension, which is a common clinical scenario in our hepatobiliary surgery-centred hospital. A retrospective analysis was conducted on 58 patients who underwent splenectomy in our hospital. These were divided into 28 cases of laparoscopic posterior approach in situ splenectomy (posterior approach group) and 30 cases of traditional open splenectomy (open splenectomy group). Surgical indicators and postoperativ...",
-        "pmid": "42761678",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42761678/",
-        "doiUrl": "https://doi.org/10.1155/grp/7113085",
-        "url": "https://doi.org/10.1155/grp/7113085"
-      },
-      {
-        "title": "Intractable hepatic hydrothorax eliminated by thoraco-peritoneal connection: A case report.",
-        "journal": "Medicine",
-        "pubDate": "2026 Sep 18",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Lang Q, Ben X, Wang C",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Hepatic hydrothorax occurs in patients with decompensated cirrhosis and has a si... 临床提示：该英文报道关注最新动态：However, several treatments, including indwelling pleural catheters, trans jugul...",
-        "abstract": "Hepatic hydrothorax occurs in patients with decompensated cirrhosis and has a significantly adverse prognosis. However, several treatments, including indwelling pleural catheters, trans jugular intrahepatic systemic shunts, and automatic low-flow ascites pumps (Alfa pumps), have been utilized to relieve pleural effusion, but these methods often cause severe complications. We report the first case of using thoraco-peritoneal connection to manage hepatic hydrothorax in a cirrhotic patient without an unfavorable outcome. A 55-year-old yellow-skinned female patient with alcoholic cirrhosis suffering from hepatic hydrothorax was admitted to the hospital. She presented with recurrent yellowish com...",
-        "pmid": "42760719",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42760719/",
-        "doiUrl": "https://doi.org/10.1097/MD.0000000000050685",
-        "url": "https://doi.org/10.1097/MD.0000000000050685"
-      },
-      {
-        "title": "Baseline characteristics of a prospective, multi-center study on the natural history of compensated cirrhosis: the Liver Cirrhosis Network.",
-        "journal": "The American journal of gastroenterology",
-        "pubDate": "2026 Sep 18",
-        "studyType": "Journal Article",
-        "authors": "Wegermann K, Smith AR, Dasarathy S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Baseline characteristics of a prospective, multi-center study on the natural his...",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42754973",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42754973/",
-        "doiUrl": "https://doi.org/10.14309/ajg.0000000000004211",
-        "url": "https://doi.org/10.14309/ajg.0000000000004211"
-      },
-      {
-        "title": "EUS-Guided Cyanoacrylate Injection With Balloon-Compression Sclerotherapy Versus Band Ligation for Gastroesophageal Varices: A Randomized Trial.",
-        "journal": "Journal of gastroenterology and hepatology",
-        "pubDate": "2026 Sep 17",
-        "studyType": "Journal Article",
-        "authors": "Yang X, Wang Z, Liao Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 62）。核心观点：该英文报道关注最新动态：Gastroesophageal varices (GOV) is a life-threatening complication of portal hype... 临床提示：该英文报道关注最新动态：Endoscopic ultrasound-guided cyanoacrylate injection (EUS-CYA) improves gastric ...",
-        "abstract": "Gastroesophageal varices (GOV) is a life-threatening complication of portal hypertension. Endoscopic ultrasound-guided cyanoacrylate injection (EUS-CYA) improves gastric variceal treatment, but the optimal strategy for concomitant esophageal varices (EV) remains unclear. We compared EUS-CYA combined with balloon-compression endoscopic injection sclerotherapy (bc-EIS) versus EUS-CYA combined with endoscopic variceal ligation (EVL). Single-center randomized controlled trial (July 2022-June 2025). Cirrhotic patients with GOV were assigned 1:1 to EUS-CYA + bc-EIS (n = 62) or EUS-CYA + EVL (n = 62). All received EUS-guided \"sandwich technique\" for gastric varices (GV). Then, bc-EIS (polidocanol u...",
-        "pmid": "42755133",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42755133/",
-        "doiUrl": "https://doi.org/10.1111/jgh.70715",
-        "url": "https://doi.org/10.1111/jgh.70715"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelp...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelp...”。核心要点：该英文报道关注最新动态：The mega-star spoke about Israel and Gaza at his first concert since...",
+        "titleZh": "该英文报道关注最新动态：German Chancellor Merz calls state election a 'disaster' for his party but vows ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：German Chancellor Merz calls state election a 'disaster' for his party but vows ...”。核心要点：该英文报道关注最新动态：Exit polls show damaging losses for Merz's centre-right CDU party in...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 21 Sep 2026 03:22:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says...”。核心要点：该英文报道关注最新动态：Moscow's mayor says 450 drones were downed during the overnight barr...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Ed Sheeran admits 'mistakes' at first show since Macklemore controversy...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ed Sheeran admits 'mistakes' at first show since Macklemore controversy...”。核心要点：该英文报道关注最新动态：The singer spoke about Israel and Gaza after Macklemore was dropped ...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia...”。核心要点：该英文报道关注最新动态：An oil refinery was also reportedly hit in Moscow, and flights were ...",
+        "titleZh": "该英文报道关注最新动态：Trump says triumphal arch will be military complex with drones and snipers...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says triumphal arch will be military complex with drones and snipers...”。核心要点：该英文报道关注最新动态：Trump said the updated plans were at the request of the US military ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 05:56:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Houthis say they targeted Saudi capital with ballistic missiles...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Houthis say they targeted Saudi capital with ballistic missiles...”。核心要点：该英文报道关注最新动态：A reported strike on a fuel depot at Riyadh airport caused delays on...",
+        "titleZh": "该英文报道关注最新动态：Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece...”。核心要点：该英文报道关注最新动态：One eyewitness said the scene was so chaotic that screaming could be...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Nato welcomes Greenland deal as Trump says it will give US 'permanent security c...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nato welcomes Greenland deal as Trump says it will give US 'permanent security c...”。核心要点：该英文报道关注最新动态：Denmark and the US have reached an agreement after months of threats...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 19 Sep 2026 23:00:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Our head teacher was an abuser. We joined forces to get justice - now we're marr...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Our head teacher was an abuser. We joined forces to get justice - now we're marr...”。核心要点：该英文报道关注最新动态：Students spent years collecting evidence against their Indonesian pr...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 19 Sep 2026 23:01:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 20 Sep 2026 21:17:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trum...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trum...”。核心要点：该英文报道关注最新动态：The bank said it \"assumed\" there would be economic red lines, like o...",
+        "titleZh": "该英文报道关注最新动态：UK should 'team up' with Canada in new Europe alliance, Canadian minister tells ...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK should 'team up' with Canada in new Europe alliance, Canadian minister tells ...”。核心要点：该英文报道关注最新动态：It comes after European Commission President proposed \"opening the d...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 17:57:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 04:00:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Flight chaos caused by 'millisecond' software defect, report says...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Flight chaos caused by 'millisecond' software defect, report says...”。核心要点：该英文报道关注最新动态：The failure led to more than 2,000 flights being cancelled and hundr...",
+        "titleZh": "该英文报道关注最新动态：US and China discuss AI safety plan ahead of Trump-Xi summit...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US and China discuss AI safety plan ahead of Trump-Xi summit...”。核心要点：该英文报道关注最新动态：Top US and Chinese officials held talks in New York on Sunday ahead ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 15:48:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 05:50:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks...”。核心要点：该英文报道关注最新动态：O'Leary described his choice of language as \"careless\" and said \"it ...",
+        "titleZh": "该英文报道关注最新动态：Nvidia boss rejects AI extinction fears as 'doomsday narratives'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia boss rejects AI extinction fears as 'doomsday narratives'...”。核心要点：该英文报道关注最新动态：Jensen Huang's comments come after warnings from AI researchers that...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 17:10:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 00:34:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Warren Buffett steps down after six decades at Berkshire - 'Father Time always w...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Warren Buffett steps down after six decades at Berkshire - 'Father Time always w...”。核心要点：该英文报道关注最新动态：Since taking control in 1965, Buffett grew a struggling textile mill...",
+        "titleZh": "该英文报道关注最新动态：Will you get £13,000 a year when you stop working? Here's how to check...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Will you get £13,000 a year when you stop working? Here's how to check...”。核心要点：该英文报道关注最新动态：How to find out how much state pension you're likely to receive - an...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 17:15:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 20 Sep 2026 23:02:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：We bought our £242,000 home without a deposit - here's how...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：We bought our £242,000 home without a deposit - here's how...”。核心要点：该英文报道关注最新动态：The share of UK mortgages with smaller deposits is the highest it's ...",
+        "titleZh": "该英文报道关注最新动态：Billionaire Man United owner loses moral high ground after tax exile, Labour cha...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Billionaire Man United owner loses moral high ground after tax exile, Labour cha...”。核心要点：该英文报道关注最新动态：The billionaire businessman told the BBC he has lost confidence in t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 18 Sep 2026 10:43:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 20 Sep 2026 11:22:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
