@@ -1,92 +1,145 @@
 {
-  "updatedAt": "2026-09-21T06:21:29.121Z",
+  "updatedAt": "2026-09-22T06:15:28.704Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Effect of Blood Group on von Willebrand Factor Antigen Levels in Compensated Advanced Chronic Liver Disease and Utility of von Willebrand Factor-Platelet Ratio for Detecting Clinically Significant Portal Hypertension.",
+        "journal": "Journal of clinical and experimental hepatology",
+        "pubDate": "2026 Nov-Dec",
+        "studyType": "Journal Article",
+        "authors": "Sharma R, Ray D, De A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Furthermore, there are limited data comparing vWF with elastography for assessme... 临床提示：该英文报道关注最新动态：In the general population, von Willebrand Factor (vWF) antigen levels are 20-30%...",
+        "abstract": "In the general population, von Willebrand Factor (vWF) antigen levels are 20-30% lower in blood group O. However, the effect of blood group O on vWF antigen in compensated advanced chronic liver disease (cACLD) is unknown. Furthermore, there are limited data comparing vWF with elastography for assessment of clinically significant portal hypertension (CSPH). We assessed the effect of blood group O on vWF antigen levels, and the discriminative ability of vWF-platelet ratio (VITRO) for assessment of CSPH in comparison to liver stiffness measurement (LSM) on elastography in cACLD. One hundred patients with cACLD were prospectively included. Hemogram, blood biochemistry, plasma vWF antigen levels...",
+        "pmid": "42764927",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42764927/",
+        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103652",
+        "url": "https://doi.org/10.1016/j.jceh.2026.103652"
+      },
+      {
+        "title": "Translational Hepatology From Bedside to Global Policy: How Robust Clinical and Translational Research Reshapes Global Practice Guidelines and Patient Outcomes.",
+        "journal": "Journal of gastroenterology and hepatology",
+        "pubDate": "2026 Sep 21",
+        "studyType": "Journal Article / Review",
+        "authors": "Lau G",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：First, clinical trials established the biphasic model and risk predictors of imm... 临床提示：该英文报道关注最新动态：Over four decades, translational hepatology has evolved from empirical observati...",
+        "abstract": "Over four decades, translational hepatology has evolved from empirical observations into an evidence-driven discipline. This review synthesizes key bedside discoveries, mechanistic studies, prospective cohorts, cross-regional health-economic evaluations, and landmark randomized controlled trials (RCTs) by our team that have helped to reshape regulatory drug approvals, Boxed Warnings, and international practice guidelines across APASL, AASLD, and EASL. First, clinical trials established the biphasic model and risk predictors of immunosuppression-induced hepatitis B virus (HBV) reactivation, proving that pre-emptive nucleos(t)ide analogue (NUC) prophylaxis prevents liver failure and antineopla...",
+        "pmid": "42767650",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42767650/",
+        "doiUrl": "https://doi.org/10.1111/jgh.70742",
+        "url": "https://doi.org/10.1111/jgh.70742"
+      },
+      {
+        "title": "Magnitude of Portal Pressure Reduction and Clinical Outcomes in Randomized Trials.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Sep 21",
+        "studyType": "Journal Article",
+        "authors": "Tam M, Pascual I, Jie-Rae Tan J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Observational studies suggest that reductions in hepatic venous pressure gradien... 临床提示：该英文报道关注最新动态：The predictor was the between-group difference in HVPG change (treatment minus c...",
+        "abstract": "Portal hypertension is a major driver of complications of cirrhosis. Observational studies suggest that reductions in hepatic venous pressure gradient (HVPG) improve prognosis, but the magnitude of risk reduction per unit HVPG decrease has not been quantified across randomized controlled trials (RCTs). We performed a meta-regression of RCTs to quantify this relationship. We systematically searched for RCTs testing pharmacological interventions against placebo or no treatment in portal hypertension that reported both HVPG measurements and clinical outcomes. The predictor was the between-group difference in HVPG change (treatment minus control, in mmHg). Primary endpoints were all-cause mortal...",
+        "pmid": "42767613",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42767613/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102028",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.102028"
+      },
+      {
+        "title": "Portal vein thrombosis increases short-term mortality among hospitalized patients with cirrhosis in a global cohort.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
+        "pubDate": "2026 Sep 21",
+        "studyType": "Journal Article",
+        "authors": "Choudhury A, Silvey S, Wong F",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 721）。核心观点：该英文报道关注最新动态：Portal vein thrombosis (PVT) in cirrhosis is associated with adverse outcomes, b... 临床提示：该英文报道关注最新动态：The multinational CLEARED consortium prospectively enrolled adults with cirrhosi...",
+        "abstract": "Portal vein thrombosis (PVT) in cirrhosis is associated with adverse outcomes, but determinants of PVT and its impact on short-term outcomes in hospitalized patients across global regions remain unclear. The multinational CLEARED consortium prospectively enrolled adults with cirrhosis admitted non-electively after consent. Patients were followed during hospitalization and 30 days post-discharge. Radiologically diagnosed PVT was analyzed in relation to demography, etiology, clinical features, hospital course, and 30-day outcomes, including mortality. Among 7,721 patients, etiologies included alcohol related (41.3%), MASH/cryptogenic (24.4%), hepatitis B (19.4%), and hepatitis C (11.3%). PVT w...",
+        "pmid": "42766768",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42766768/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000000994",
+        "url": "https://doi.org/10.1097/LVT.0000000000000994"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：German Chancellor Merz calls state election a 'disaster' for his party but vows ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：German Chancellor Merz calls state election a 'disaster' for his party but vows ...”。核心要点：该英文报道关注最新动态：Exit polls show damaging losses for Merz's centre-right CDU party in...",
+        "titleZh": "该英文报道关注最新动态：Lithuania ready to 'fight back' but has evacuation plans in face of Russia threa...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Lithuania ready to 'fight back' but has evacuation plans in face of Russia threa...”。核心要点：该英文报道关注最新动态：Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threaten...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 21 Sep 2026 03:22:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 22 Sep 2026 01:04:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says...”。核心要点：该英文报道关注最新动态：Moscow's mayor says 450 drones were downed during the overnight barr...",
+        "titleZh": "该英文报道关注最新动态：Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war...”。核心要点：该英文报道关注最新动态：The BBC's Frank Gardner speaks to some of those who have fled the wa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ed Sheeran admits 'mistakes' at first show since Macklemore controversy...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ed Sheeran admits 'mistakes' at first show since Macklemore controversy...”。核心要点：该英文报道关注最新动态：The singer spoke about Israel and Gaza after Macklemore was dropped ...",
+        "titleZh": "该英文报道关注最新动态：Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly...”。核心要点：该英文报道关注最新动态：The G7 also condemns \"in the strongest terms\" Houthi attacks on Saud...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 04:49:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 22 Sep 2026 05:16:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump says triumphal arch will be military complex with drones and snipers...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says triumphal arch will be military complex with drones and snipers...”。核心要点：该英文报道关注最新动态：Trump said the updated plans were at the request of the US military ...",
+        "titleZh": "该英文报道关注最新动态：CNN, MS NOW and Politico file lawsuit against Trump's White House ban...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：CNN, MS NOW and Politico file lawsuit against Trump's White House ban...”。核心要点：该英文报道关注最新动态：Major US networks later suspended White House TV coverage of Trump a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 22 Sep 2026 00:16:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece...”。核心要点：该英文报道关注最新动态：One eyewitness said the scene was so chaotic that screaming could be...",
+        "titleZh": "该英文报道关注最新动态：Merz vows to keep coalition together for Germany's 'democratic future'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Merz vows to keep coalition together for Germany's 'democratic future'...”。核心要点：该英文报道关注最新动态：The chancellor has come under increasing pressure after resounding s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 21:17:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：UK should 'team up' with Canada in new Europe alliance, Canadian minister tells ...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK should 'team up' with Canada in new Europe alliance, Canadian minister tells ...”。核心要点：该英文报道关注最新动态：It comes after European Commission President proposed \"opening the d...",
+        "titleZh": "该英文报道关注最新动态：Vet prescription fees capped under rule changes...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Vet prescription fees capped under rule changes...”。核心要点：该英文报道关注最新动态：Vets must also tell clients if cheaper medicine is available online ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 21 Sep 2026 04:00:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 23:01:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US and China discuss AI safety plan ahead of Trump-Xi summit...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US and China discuss AI safety plan ahead of Trump-Xi summit...”。核心要点：该英文报道关注最新动态：Top US and Chinese officials held talks in New York on Sunday ahead ...",
+        "titleZh": "该英文报道关注最新动态：I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' in...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' in...”。核心要点：该英文报道关注最新动态：The phenomenon sees retirees spend all their money on enjoying life ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 21 Sep 2026 05:50:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 23:01:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nvidia boss rejects AI extinction fears as 'doomsday narratives'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia boss rejects AI extinction fears as 'doomsday narratives'...”。核心要点：该英文报道关注最新动态：Jensen Huang's comments come after warnings from AI researchers that...",
+        "titleZh": "该英文报道关注最新动态：Paramount settles lawsuit with US states, clearing way for $110bn merger with Wa...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Paramount settles lawsuit with US states, clearing way for $110bn merger with Wa...”。核心要点：该英文报道关注最新动态：The deal includes an agreement to produce 30 films a year, or Paramo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 21 Sep 2026 00:34:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 21:34:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Will you get £13,000 a year when you stop working? Here's how to check...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Will you get £13,000 a year when you stop working? Here's how to check...”。核心要点：该英文报道关注最新动态：How to find out how much state pension you're likely to receive - an...",
+        "titleZh": "该英文报道关注最新动态：Repeated air traffic control failures leave us in worrying territory...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Repeated air traffic control failures leave us in worrying territory...”。核心要点：该英文报道关注最新动态：The question is whether all of these incidents were isolated and una...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 23:02:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 21 Sep 2026 16:39:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Billionaire Man United owner loses moral high ground after tax exile, Labour cha...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Billionaire Man United owner loses moral high ground after tax exile, Labour cha...”。核心要点：该英文报道关注最新动态：The billionaire businessman told the BBC he has lost confidence in t...",
+        "titleZh": "该英文报道关注最新动态：Flights at major US airports delayed after cable cut by construction workers...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Flights at major US airports delayed after cable cut by construction workers...”。核心要点：该英文报道关注最新动态：The cable had been repaired and airports are resuming normal operati...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 20 Sep 2026 11:22:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 22 Sep 2026 01:36:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
