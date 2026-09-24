@@ -1,158 +1,119 @@
 {
-  "updatedAt": "2026-09-23T06:00:36.706Z",
+  "updatedAt": "2026-09-24T06:12:26.377Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Gastric varices: a contemporary review of vascular anatomy and therapeutic strategies.",
-        "journal": "BMJ open gastroenterology",
-        "pubDate": "2026 Sep 22",
+        "title": "Oncological and perioperative outcomes in minimally invasive hepatobiliary surgery: A review for the ESSO core curriculum.",
+        "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+        "pubDate": "2026 Oct",
         "studyType": "Journal Article / Review",
-        "authors": "Biswas S, Gupta S, Ranjan MK",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Gastric varices (GV) are found in 20% of patients with portal hypertension and b... 临床提示：该英文报道关注最新动态：The vascular anatomy of GV is characterised by different afferent and efferent p...",
-        "abstract": "Gastric varices (GV) are found in 20% of patients with portal hypertension and bleed infrequently, but are associated with greater blood loss, higher transfusion requirements and mortality than oesophageal varices. The vascular anatomy of GV is characterised by different afferent and efferent pathways, which vary depending on its anatomical location. Contemporary radiological classification systems complement traditional endoscopic systems and assist in selection of the optimal treatment modality in an individual patient. Endoscopic cyanoacrylate injection remains the standard therapy for acute GV bleeding and achieves high rates of primary haemostasis, but is limited by incomplete obliterat...",
-        "pmid": "42772942",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772942/",
-        "doiUrl": "https://doi.org/10.1136/bmjgast-2026-002476",
-        "url": "https://doi.org/10.1136/bmjgast-2026-002476"
+        "authors": "Diaz-Nieto R, Primavesi F, Sochorova D",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Minimally invasive surgery (MIS) is associated with reduced surgical trauma and ... 临床提示：该英文报道关注最新动态：Its adoption in hepatobiliary (HB) surgical oncology has been more gradual and l...",
+        "abstract": "Minimally invasive surgery (MIS) is associated with reduced surgical trauma and improved postoperative recovery. Its adoption in hepatobiliary (HB) surgical oncology has been more gradual and less extensive compared to other surgical subspecialities. This reflects the technical complexity of HB procedures, challenging anatomy, and frequent patient-related risk factors such as cirrhosis, portal hypertension, frailty, and malnutrition. In 2021, the European Society of Surgical Oncology (ESSO) updated its core curriculum to support standardized education of cancer surgeons. This review aligns with the ESSO curriculum and focuses on minimally invasive access in HB oncological surgery. A literatu...",
+        "pmid": "42520555",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42520555/",
+        "doiUrl": "https://doi.org/10.1016/j.ejso.2026.112022",
+        "url": "https://doi.org/10.1016/j.ejso.2026.112022"
       },
       {
-        "title": "Splenic variceal haemoperitoneum mimicking splenic trauma managed by transjugular intrahepatic portosystemic shunt.",
-        "journal": "BMJ case reports",
-        "pubDate": "2026 Sep 22",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Gondal F, Abasszade JH, Bhala N",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：CT imaging suggested haemoperitoneum with suspected splenic venous injury and re... 临床提示：该英文报道关注最新动态：A man in his 50s presented with abdominal pain and haemodynamic instability foll...",
-        "abstract": "A man in his 50s presented with abdominal pain and haemodynamic instability following a fall. CT imaging suggested haemoperitoneum with suspected splenic venous injury and revealed previously undiagnosed cirrhosis with portal hypertension. The patient was admitted and managed conservatively. However, he developed persistent anaemia and hypotension despite repeated blood transfusion. Diagnostic paracentesis performed to evaluate possible spontaneous bacterial peritonitis yielded frank blood. Repeat imaging demonstrated increasing haemoperitoneum within the left upper quadrant. The patient developed haemorrhagic shock and underwent laparotomy, revealing extensive haemoperitoneum and splenic va...",
-        "pmid": "42772925",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772925/",
-        "doiUrl": "https://doi.org/10.1136/bcr-2026-274156",
-        "url": "https://doi.org/10.1136/bcr-2026-274156"
-      },
-      {
-        "title": "Association Between Statins and Chronic Liver Disease Progression: A Retrospective Cohort Study.",
-        "journal": "Clinics and research in hepatology and gastroenterology",
-        "pubDate": "2026 Sep 22",
-        "studyType": "Journal Article",
-        "authors": "Smith NP, Schreiner AD, Zhang J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Statins improve portal hypertension and may reduce mortality in cirrhosis, thoug... 临床提示：该英文报道关注最新动态：We aimed to assess the association of statin use with severe liver disease (SLD)...",
-        "abstract": "Statins improve portal hypertension and may reduce mortality in cirrhosis, though their impact on chronic liver disease (CLD) progression before developing advanced fibrosis or cirrhosis remains unclear. We aimed to assess the association of statin use with severe liver disease (SLD) outcomes (cirrhosis or HCC) and fibrosis progression in CLD patients. We performed a retrospective cohort study of primary care electronic health record data from 2012-2021. Included were patients with CLD, lab inputs for a Fibrosis-4 (FIB-4) calculation and no prior SLD. Analysis 1 assessed the association of statin prescriptions with time to SLD in all patients. Analysis 2 evaluated the association of statin p...",
-        "pmid": "42772677",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772677/",
-        "doiUrl": "https://doi.org/10.1016/j.clinre.2026.102923",
-        "url": "https://doi.org/10.1016/j.clinre.2026.102923"
-      },
-      {
-        "title": "Validation of a machine learning model to non-invasively exclude spontaneous bacterial peritonitis.",
-        "journal": "Clinical and translational gastroenterology",
-        "pubDate": "2026 Sep 22",
-        "studyType": "Journal Article",
-        "authors": "Tsai SY, Silvey S, Aljabi A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：There remains a gap between guideline recommendations and real-world practice fo... 临床提示：该英文报道关注最新动态：A machine learning (ML) model to non-invasively exclude SBP using twenty routine...",
-        "abstract": "There remains a gap between guideline recommendations and real-world practice for the performance of timely paracentesis to diagnose spontaneous bacterial peritonitis (SBP). A machine learning (ML) model to non-invasively exclude SBP using twenty routinely collected clinical and laboratory values was previously developed and validated in a pre-COVID-19 era cohort. Because of the considerable health care delivery changes post-COVID-19 pandemic, we sought to validate this ML model in a contemporary cohort of admitted VA patients. We included patients in the Veterans Health Administration Corporate Data Warehouse (VHA-CDW) admitted between 2020 and 2023 with cirrhosis and ascites who underwent ...",
-        "pmid": "42772311",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42772311/",
-        "doiUrl": "https://doi.org/10.14309/ctg.0000000000001103",
-        "url": "https://doi.org/10.14309/ctg.0000000000001103"
-      },
-      {
-        "title": "Transjugular intrahepatic portosystemic shunt: patient characteristics and predictors of adverse outcomes from a quaternary referral centre.",
-        "journal": "Internal medicine journal",
-        "pubDate": "2026 Sep 22",
-        "studyType": "Journal Article",
-        "authors": "Nilsen O, Walia N, Cheung E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To describe the characteristics, indications and outcomes of patients undergoing... 临床提示：该英文报道关注最新动态：Multivariable Cox regression analysis was used to identify predictors of 90-day ...",
-        "abstract": "Transjugular intrahepatic portosystemic shunt (TIPS) placement remains a key intervention for managing complications of portal hypertension. Regular assessment of patient characteristics and outcomes is required to inform ongoing patient selection. To describe the characteristics, indications and outcomes of patients undergoing TIPS and to identify risk factors for post-TIPS hepatic encephalopathy (HE) and mortality. This was a retrospective study of patients who underwent TIPS between 2011 and 2024 at a quaternary liver transplant centre. Demographics, indications for TIPS and outcomes were collected. Multivariable Cox regression analysis was used to identify predictors of 90-day HE and mor...",
-        "pmid": "42769000",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42769000/",
-        "doiUrl": "https://doi.org/10.1111/imj.70628",
-        "url": "https://doi.org/10.1111/imj.70628"
+        "title": "Hepatic arterial infusion chemotherapy-based triplet conversion therapy for hepatocellular carcinoma with portal vein tumor thrombus: Evidence, patient selection, and surgical endpoints.",
+        "journal": "Bioscience trends",
+        "pubDate": "2026 Sep 19",
+        "studyType": "Journal Article / Review",
+        "authors": "Xia C, He Y, Hong R",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Portal vein tumor thrombus (PVTT) is a biologically aggressive and clinically he... 临床提示：该英文报道关注最新动态：Global guidelines generally classify macrovascular invasion as advanced disease ...",
+        "abstract": "Portal vein tumor thrombus (PVTT) is a biologically aggressive and clinically heterogeneous form of hepatocellular carcinoma (HCC). Global guidelines generally classify macrovascular invasion as advanced disease and prioritize systemic therapy, whereas selected East Asian practice pathways incorporate hepatic arterial infusion chemotherapy (HAIC), radiotherapy, or resection. This review critically evaluates HAIC combined with an antiangiogenic agent and immune checkpoint inhibitor as a conversion strategy for HCC with PVTT. Randomized trials substantiate the efficacy of HAIC-based treatment in contrast to controls from the days of sorafenib but do not establish the incremental benefit of the...",
+        "pmid": "42669488",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42669488/",
+        "doiUrl": "https://doi.org/10.5582/bst.2026.01217",
+        "url": "https://doi.org/10.5582/bst.2026.01217"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Trump threatens to 'annihilate' Iran in UN speech as officials from both countri...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump threatens to 'annihilate' Iran in UN speech as officials from both countri...”。核心要点：该英文报道关注最新动态：In his address, the US president pondered whether a peace deal would...",
+        "titleZh": "该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...”。核心要点：该英文报道关注最新动态：Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 02:57:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 03:22:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Burnham expects to find 'common ground' with Trump in first meeting...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Burnham expects to find 'common ground' with Trump in first meeting...”。核心要点：该英文报道关注最新动态：In New York, the prime minister will also deliver a speech to the UN...",
+        "titleZh": "该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...”。核心要点：该英文报道关注最新动态：The US and China are vying for AI supremacy while seeking to keep it...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 06:03:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US to build two military bases in Greenland under new deal with Denmark...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US to build two military bases in Greenland under new deal with Denmark...”。核心要点：该英文报道关注最新动态：The defence deal signed at the UN General Assembly also re-affirms D...",
+        "titleZh": "该英文报道关注最新动态：Iran's president tells Trump it will never 'bend the knee'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran's president tells Trump it will never 'bend the knee'...”。核心要点：该英文报道关注最新动态：Masoud Pezeshkian's defiant speech to the UN comes after the US pres...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 21:36:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 23 Sep 2026 18:15:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How Ceuta, football and Israel are shaping Morocco's election...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：How Ceuta, football and Israel are shaping Morocco's election...”。核心要点：该英文报道关注最新动态：Young voters are being courted with football slogans, promises of jo...",
+        "titleZh": "该英文报道关注最新动态：Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new w...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new w...”。核心要点：该英文报道关注最新动态：The local authorities reportedly seize Tigray's airports following r...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 20:59:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 04:37:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Sri Lanka court convicts 15 men over deadly Easter Sunday bombings...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Sri Lanka court convicts 15 men over deadly Easter Sunday bombings...”。核心要点：该英文报道关注最新动态：Three churches and three luxury hotels were targeted in the 2019 att...",
+        "titleZh": "该英文报道关注最新动态：Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction...”。核心要点：该英文报道关注最新动态：The figure was announced during a meeting of the group's board at th...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 19:47:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 23 Sep 2026 21:26:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Europe's car makers are in crisis. Will the threat of war rescue them?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Europe's car makers are in crisis. Will the threat of war rescue them?...”。核心要点：该英文报道关注最新动态：Auto executives across Europe hope rearmament can help them flex the...",
+        "titleZh": "该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...”。核心要点：该英文报道关注最新动态：Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 23:11:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 03:22:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Will Trump's AI rebrand to 'super intelligence' catch on?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Will Trump's AI rebrand to 'super intelligence' catch on?...”。核心要点：该英文报道关注最新动态：Some people close to the president have started to use the term but ...",
+        "titleZh": "该英文报道关注最新动态：'Proteinflation': Meet the people paying up to £100 for a bag of protein...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Proteinflation': Meet the people paying up to £100 for a bag of protein...”。核心要点：该英文报道关注最新动态：Consumers are feeling the squeeze from the rising price of protein.....",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 03:20:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 23 Sep 2026 23:12:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Rich nations must cut debt as global shocks push up borrowing costs, IMF chief t...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Rich nations must cut debt as global shocks push up borrowing costs, IMF chief t...”。核心要点：该英文报道关注最新动态：In an interview with the BBC, Kristalina Georgieva says economic sho...",
+        "titleZh": "该英文报道关注最新动态：They were labelled 'pervert glasses'. Will a camera-free version transform their...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：They were labelled 'pervert glasses'. Will a camera-free version transform their...”。核心要点：该英文报道关注最新动态：Meta has unveiled audio-only smart glasses, with some questioning wh...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 23:01:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 00:50:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'I don't have a buoyancy aid': Living without the Bank of Mum and Dad...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I don't have a buoyancy aid': Living without the Bank of Mum and Dad...”。核心要点：该英文报道关注最新动态：Three 20-somethings tell BBC News how they are navigating life witho...",
+        "titleZh": "该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...”。核心要点：该英文报道关注最新动态：The US and China are vying for AI supremacy while seeking to keep it...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 23:20:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump says he would back ban on diesel exports...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump says he would back ban on diesel exports...”。核心要点：该英文报道关注最新动态：Republicans lawmakers have put pressure on the president to curb exp...",
+        "titleZh": "该英文报道关注最新动态：US rejects pleas from OpenAI, Anthropic for global AI standards...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US rejects pleas from OpenAI, Anthropic for global AI standards...”。核心要点：该英文报道关注最新动态：OpenAI's Sam Altman has called for risk evaluation standards, as hav...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 22 Sep 2026 20:41:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 23 Sep 2026 22:35:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
