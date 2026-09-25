@@ -1,95 +1,138 @@
 {
-  "updatedAt": "2026-09-24T06:12:26.377Z",
+  "updatedAt": "2026-09-25T06:12:39.938Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Adhesion GPCRs in Kidney: New Insights into Development, Physiology and Disease.",
+        "journal": "Cells",
+        "pubDate": "2026 Sep 15",
+        "studyType": "Journal Article / Review",
+        "authors": "Myrzatayeva A, Singh AK, Engel FB",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：该英文报道关注最新动态：Recently, adhesion G-protein-coupled receptors (aGPCRs) gained recognition for t... 临床提示：该英文报道关注最新动态：However, for the majority of them, their exact functions and underlying signalin...",
+        "abstract": "Recently, adhesion G-protein-coupled receptors (aGPCRs) gained recognition for their essential roles in embryonic development. However, for the majority of them, their exact functions and underlying signaling mechanisms remain poorly understood. Here, we summarize the existing literature on aGPCRs in the context of kidney development, physiology, and disease. We compile available aGPCR expression profiles, discuss their validation statuses, and describe the knockout phenotypes. For instance, Celsr1 / Adgrc1 is expressed early in metanephric development, and its deletion results in aberrant oriented cell division and simplified ureteric trees. Furthermore, GPR116/ADGRF5 is important for the i...",
+        "pmid": "42782767",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42782767/",
+        "doiUrl": "https://doi.org/10.3390/cells15181669",
+        "url": "https://doi.org/10.3390/cells15181669"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Oncological and perioperative outcomes in minimally invasive hepatobiliary surgery: A review for the ESSO core curriculum.",
-        "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
-        "pubDate": "2026 Oct",
-        "studyType": "Journal Article / Review",
-        "authors": "Diaz-Nieto R, Primavesi F, Sochorova D",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Minimally invasive surgery (MIS) is associated with reduced surgical trauma and ... 临床提示：该英文报道关注最新动态：Its adoption in hepatobiliary (HB) surgical oncology has been more gradual and l...",
-        "abstract": "Minimally invasive surgery (MIS) is associated with reduced surgical trauma and improved postoperative recovery. Its adoption in hepatobiliary (HB) surgical oncology has been more gradual and less extensive compared to other surgical subspecialities. This reflects the technical complexity of HB procedures, challenging anatomy, and frequent patient-related risk factors such as cirrhosis, portal hypertension, frailty, and malnutrition. In 2021, the European Society of Surgical Oncology (ESSO) updated its core curriculum to support standardized education of cancer surgeons. This review aligns with the ESSO curriculum and focuses on minimally invasive access in HB oncological surgery. A literatu...",
-        "pmid": "42520555",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42520555/",
-        "doiUrl": "https://doi.org/10.1016/j.ejso.2026.112022",
-        "url": "https://doi.org/10.1016/j.ejso.2026.112022"
+        "title": "The hepatic sinusoid as a regulatory niche: From cellular specialization to precision hepatology.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 Sep 24",
+        "studyType": "Journal Article",
+        "authors": "Fernández-Iglesias A, Harris EN, Jalan-Sakrikar N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The hepatic sinusoid is increasingly recognized as a multicellular, spatially or... 临床提示：该英文报道关注最新动态：Liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, recru...",
+        "abstract": "The hepatic sinusoid is increasingly recognized as a multicellular, spatially organized and therapeutically actionable regulatory niche rather than merely a specialized microvascular bed. Liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, recruited leukocytes, lymphocytes, cholangiocytes, hepatocytes and extracellular matrix components form dynamic networks that coordinate vascular exchange, immune surveillance, metabolic zonation, tissue repair and systemic communication. Recent advances in single-cell and spatial omics, quantitative imaging, mechanobiology and human tissue models have revealed how endothelial dedifferentiation, macrophage and T-cell programming, ste...",
+        "pmid": "42782126",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42782126/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001870",
+        "url": "https://doi.org/10.1097/HEP.0000000000001870"
       },
       {
-        "title": "Hepatic arterial infusion chemotherapy-based triplet conversion therapy for hepatocellular carcinoma with portal vein tumor thrombus: Evidence, patient selection, and surgical endpoints.",
-        "journal": "Bioscience trends",
-        "pubDate": "2026 Sep 19",
+        "title": "Splanchnic Vein Thrombosis after Metabolic and Bariatric Surgery: Chilean Position Statement of Hepatology and Bariatric Surgery societies.",
+        "journal": "Obesity surgery",
+        "pubDate": "2026 Sep 23",
+        "studyType": "Journal Article",
+        "authors": "Castro L, Diaz LA, Parraga X",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Metabolic and bariatric surgery is one of the most effective interventions for l... 临床提示：该英文报道关注最新动态：Splanchnic Vein Thrombosis (SVT) is an uncommon but potentially severe complicat...",
+        "abstract": "Metabolic and bariatric surgery is one of the most effective interventions for long-term weight loss and metabolic improvement. Splanchnic Vein Thrombosis (SVT) is an uncommon but potentially severe complication with a complex and multidisciplinary management, yet no clinical practice guidelines currently exist in this setting. We aimed to provide practical recommendations to guide healthcare teams in the prevention, diagnosis, and management of SVT after metabolic and bariatric surgery. A modified Delphi process was conducted in two rounds among 17 experts (seven hepatologists, seven bariatric surgeons, and three interventional radiologists). Statements were generated based on a structured ...",
+        "pmid": "42778729",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42778729/",
+        "doiUrl": "https://doi.org/10.1007/s11695-026-08873-1",
+        "url": "https://doi.org/10.1007/s11695-026-08873-1"
+      },
+      {
+        "title": "Pathophysiological management of gastric varices: From hemodynamics to targeted therapies.",
+        "journal": "World journal of gastrointestinal pathophysiology",
+        "pubDate": "2026 Sep 22",
         "studyType": "Journal Article / Review",
-        "authors": "Xia C, He Y, Hong R",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Portal vein tumor thrombus (PVTT) is a biologically aggressive and clinically he... 临床提示：该英文报道关注最新动态：Global guidelines generally classify macrovascular invasion as advanced disease ...",
-        "abstract": "Portal vein tumor thrombus (PVTT) is a biologically aggressive and clinically heterogeneous form of hepatocellular carcinoma (HCC). Global guidelines generally classify macrovascular invasion as advanced disease and prioritize systemic therapy, whereas selected East Asian practice pathways incorporate hepatic arterial infusion chemotherapy (HAIC), radiotherapy, or resection. This review critically evaluates HAIC combined with an antiangiogenic agent and immune checkpoint inhibitor as a conversion strategy for HCC with PVTT. Randomized trials substantiate the efficacy of HAIC-based treatment in contrast to controls from the days of sorafenib but do not establish the incremental benefit of the...",
-        "pmid": "42669488",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42669488/",
-        "doiUrl": "https://doi.org/10.5582/bst.2026.01217",
-        "url": "https://doi.org/10.5582/bst.2026.01217"
+        "authors": "Giri S, Patel RK, Tripathy TP",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Gastric varices (GV) are a distinct and clinically challenging manifestation of ... 临床提示：该英文报道关注最新动态：Unlike esophageal varices (EV), GVs arise from interactions between afferent por...",
+        "abstract": "Gastric varices (GV) are a distinct and clinically challenging manifestation of portal hypertension characterized by complex vascular anatomy and unique hemodynamic behavior. Unlike esophageal varices (EV), GVs arise from interactions between afferent portal inflow, large variceal reservoirs, and spontaneous portosystemic shunts, resulting in a low-pressure, high-flow system that often responds poorly to conventional pressure-reducing therapies. Consequently, management strategies extrapolated from EV are frequently inadequate. Advances in endoscopic ultrasound (EUS), cross-sectional imaging, and interventional radiology have facilitated a paradigm shift toward a pathophysiology-driven appro...",
+        "pmid": "42781223",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42781223/",
+        "doiUrl": "https://doi.org/10.4291/wjgp.122115",
+        "url": "https://doi.org/10.4291/wjgp.122115"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...”。核心要点：该英文报道关注最新动态：Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, a...",
+        "titleZh": "该英文报道关注最新动态：Xi got Trump's red carpet welcome - but not everything he wanted...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Xi got Trump's red carpet welcome - but not everything he wanted...”。核心要点：该英文报道关注最新动态：China wanted progress on trade, technology and Taiwan - but hasn't g...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 03:22:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...”。核心要点：该英文报道关注最新动态：The US and China are vying for AI supremacy while seeking to keep it...",
+        "titleZh": "该英文报道关注最新动态：Netanyahu defends Israeli military action as delegates walk out before UN speech...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Netanyahu defends Israeli military action as delegates walk out before UN speech...”。核心要点：该英文报道关注最新动态：The Israeli leader labels those who left his speech at the UN Genera...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 00:44:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Iran's president tells Trump it will never 'bend the knee'...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran's president tells Trump it will never 'bend the knee'...”。核心要点：该英文报道关注最新动态：Masoud Pezeshkian's defiant speech to the UN comes after the US pres...",
+        "titleZh": "该英文报道关注最新动态：Media outlets banned by Trump denied access to White House dinner despite judge'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Media outlets banned by Trump denied access to White House dinner despite judge'...”。核心要点：该英文报道关注最新动态：CNN and MS NOW reporters say they were barred from covering a state ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 18:15:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 01:10:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new w...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new w...”。核心要点：该英文报道关注最新动态：The local authorities reportedly seize Tigray's airports following r...",
+        "titleZh": "该英文报道关注最新动态：Hundreds of thousands expected in Paris for Pope's visit...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Hundreds of thousands expected in Paris for Pope's visit...”。核心要点：该英文报道关注最新动态：The highpoint of his time in Paris will be a giant Mass attended by ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 04:37:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 23:17:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction...”。核心要点：该英文报道关注最新动态：The figure was announced during a meeting of the group's board at th...",
+        "titleZh": "该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...”。核心要点：该英文报道关注最新动态：Australia, which has strict social media restrictions and has propos...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 21:26:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI agent 'infiltrated' Australian government website, PM says...”。核心要点：该英文报道关注最新动态：Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, a...",
+        "titleZh": "该英文报道关注最新动态：Trump and Xi toast new chapter in friendship at White House state dinner...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump and Xi toast new chapter in friendship at White House state dinner...”。核心要点：该英文报道关注最新动态：The lavish state dinner included tech billionaires, red tablecloths,...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 03:22:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 05:42:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Proteinflation': Meet the people paying up to £100 for a bag of protein...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Proteinflation': Meet the people paying up to £100 for a bag of protein...”。核心要点：该英文报道关注最新动态：Consumers are feeling the squeeze from the rising price of protein.....",
+        "titleZh": "该英文报道关注最新动态：'We're all broke': Would you chase a friend for £5?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'We're all broke': Would you chase a friend for £5?...”。核心要点：该英文报道关注最新动态：What's the smallest amount of money you would ask a friend to pay yo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 23:12:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...”。核心要点：该英文报道关注最新动态：Australia, which has strict social media restrictions and has propos...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Reported assaults on Britain's rail services rise by more than a third...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Reported assaults on Britain's rail services rise by more than a third...”。核心要点：该英文报道关注最新动态：Recorded incidents of violence and harassment against passengers and...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 24 Sep 2026 15:38:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：They were labelled 'pervert glasses'. Will a camera-free version transform their...",
@@ -98,22 +141,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 24 Sep 2026 00:50:24 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI superpower ambitions take centre stage as Trump and Xi meet...”。核心要点：该英文报道关注最新动态：The US and China are vying for AI supremacy while seeking to keep it...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：US rejects pleas from OpenAI, Anthropic for global AI standards...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US rejects pleas from OpenAI, Anthropic for global AI standards...”。核心要点：该英文报道关注最新动态：OpenAI's Sam Altman has called for risk evaluation standards, as hav...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 23 Sep 2026 22:35:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
