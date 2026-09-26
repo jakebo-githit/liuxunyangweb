@@ -1,146 +1,119 @@
 {
-  "updatedAt": "2026-09-25T06:12:39.938Z",
+  "updatedAt": "2026-09-26T06:12:08.475Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Adhesion GPCRs in Kidney: New Insights into Development, Physiology and Disease.",
-        "journal": "Cells",
-        "pubDate": "2026 Sep 15",
-        "studyType": "Journal Article / Review",
-        "authors": "Myrzatayeva A, Singh AK, Engel FB",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：该英文报道关注最新动态：Recently, adhesion G-protein-coupled receptors (aGPCRs) gained recognition for t... 临床提示：该英文报道关注最新动态：However, for the majority of them, their exact functions and underlying signalin...",
-        "abstract": "Recently, adhesion G-protein-coupled receptors (aGPCRs) gained recognition for their essential roles in embryonic development. However, for the majority of them, their exact functions and underlying signaling mechanisms remain poorly understood. Here, we summarize the existing literature on aGPCRs in the context of kidney development, physiology, and disease. We compile available aGPCR expression profiles, discuss their validation statuses, and describe the knockout phenotypes. For instance, Celsr1 / Adgrc1 is expressed early in metanephric development, and its deletion results in aberrant oriented cell division and simplified ureteric trees. Furthermore, GPR116/ADGRF5 is important for the i...",
-        "pmid": "42782767",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42782767/",
-        "doiUrl": "https://doi.org/10.3390/cells15181669",
-        "url": "https://doi.org/10.3390/cells15181669"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "The hepatic sinusoid as a regulatory niche: From cellular specialization to precision hepatology.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Sep 24",
+        "title": "Management of patients with cardiopulmonary comorbidities awaiting liver transplantation.",
+        "journal": "Current opinion in organ transplantation",
+        "pubDate": "2026 Sep 28",
         "studyType": "Journal Article",
-        "authors": "Fernández-Iglesias A, Harris EN, Jalan-Sakrikar N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The hepatic sinusoid is increasingly recognized as a multicellular, spatially or... 临床提示：该英文报道关注最新动态：Liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, recru...",
-        "abstract": "The hepatic sinusoid is increasingly recognized as a multicellular, spatially organized and therapeutically actionable regulatory niche rather than merely a specialized microvascular bed. Liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, recruited leukocytes, lymphocytes, cholangiocytes, hepatocytes and extracellular matrix components form dynamic networks that coordinate vascular exchange, immune surveillance, metabolic zonation, tissue repair and systemic communication. Recent advances in single-cell and spatial omics, quantitative imaging, mechanobiology and human tissue models have revealed how endothelial dedifferentiation, macrophage and T-cell programming, ste...",
-        "pmid": "42782126",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42782126/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001870",
-        "url": "https://doi.org/10.1097/HEP.0000000000001870"
+        "authors": "Liu A, Izzy M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The need for liver transplant continues to rise especially among those with meta... 临床提示：该英文报道关注最新动态：Consequently, more transplant candidates have concurrent cardiopulmonary comorbi...",
+        "abstract": "The need for liver transplant continues to rise especially among those with metabolic dysfunction associated steatotic liver disease. Consequently, more transplant candidates have concurrent cardiopulmonary comorbidities. This review summarizes contemporary developments in cardiopulmonary care in liver transplant candidates. Recent guidelines recommend noninvasive anatomic cardiovascular assessment before invasive coronary angiography for evaluation of coronary artery disease. Post-PCI DAPT can be used for as short as 1 month before waitlist activation. Practice-based guidance recommends echocardiographic surveillance on the waitlist especially with the evolving data on the impact of Cirrhot...",
+        "pmid": "42788373",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42788373/",
+        "doiUrl": "https://doi.org/10.1097/MOT.0000000000001312",
+        "url": "https://doi.org/10.1097/MOT.0000000000001312"
       },
       {
-        "title": "Splanchnic Vein Thrombosis after Metabolic and Bariatric Surgery: Chilean Position Statement of Hepatology and Bariatric Surgery societies.",
-        "journal": "Obesity surgery",
-        "pubDate": "2026 Sep 23",
+        "title": "Circulating fibronectin levels are linked to liver function, matrix remodeling, and hemostatic complications in advanced chronic liver disease.",
+        "journal": "Hepatology international",
+        "pubDate": "2026 Sep 25",
         "studyType": "Journal Article",
-        "authors": "Castro L, Diaz LA, Parraga X",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Metabolic and bariatric surgery is one of the most effective interventions for l... 临床提示：该英文报道关注最新动态：Splanchnic Vein Thrombosis (SVT) is an uncommon but potentially severe complicat...",
-        "abstract": "Metabolic and bariatric surgery is one of the most effective interventions for long-term weight loss and metabolic improvement. Splanchnic Vein Thrombosis (SVT) is an uncommon but potentially severe complication with a complex and multidisciplinary management, yet no clinical practice guidelines currently exist in this setting. We aimed to provide practical recommendations to guide healthcare teams in the prevention, diagnosis, and management of SVT after metabolic and bariatric surgery. A modified Delphi process was conducted in two rounds among 17 experts (seven hepatologists, seven bariatric surgeons, and three interventional radiologists). Statements were generated based on a structured ...",
-        "pmid": "42778729",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42778729/",
-        "doiUrl": "https://doi.org/10.1007/s11695-026-08873-1",
-        "url": "https://doi.org/10.1007/s11695-026-08873-1"
-      },
-      {
-        "title": "Pathophysiological management of gastric varices: From hemodynamics to targeted therapies.",
-        "journal": "World journal of gastrointestinal pathophysiology",
-        "pubDate": "2026 Sep 22",
-        "studyType": "Journal Article / Review",
-        "authors": "Giri S, Patel RK, Tripathy TP",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Gastric varices (GV) are a distinct and clinically challenging manifestation of ... 临床提示：该英文报道关注最新动态：Unlike esophageal varices (EV), GVs arise from interactions between afferent por...",
-        "abstract": "Gastric varices (GV) are a distinct and clinically challenging manifestation of portal hypertension characterized by complex vascular anatomy and unique hemodynamic behavior. Unlike esophageal varices (EV), GVs arise from interactions between afferent portal inflow, large variceal reservoirs, and spontaneous portosystemic shunts, resulting in a low-pressure, high-flow system that often responds poorly to conventional pressure-reducing therapies. Consequently, management strategies extrapolated from EV are frequently inadequate. Advances in endoscopic ultrasound (EUS), cross-sectional imaging, and interventional radiology have facilitated a paradigm shift toward a pathophysiology-driven appro...",
-        "pmid": "42781223",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42781223/",
-        "doiUrl": "https://doi.org/10.4291/wjgp.122115",
-        "url": "https://doi.org/10.4291/wjgp.122115"
+        "authors": "Kramer G, Lie-Ungurean IA, Hofer BS",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：This study characterized circulating fibronectin across stages of advanced chron... 临床提示：该英文报道关注最新动态：Fibronectin is a multifunctional matrix glycoprotein involved in tissue remodeli...",
+        "abstract": "Fibronectin is a multifunctional matrix glycoprotein involved in tissue remodeling and hemostasis; however, its clinical relevance in cirrhosis remains unclear. This study characterized circulating fibronectin across stages of advanced chronic liver disease (ACLD) and assessed its correlation to pathophysiological biomarkers and predictive value for liver-related complications. Patients with ACLD undergoing hepatic venous pressure gradient (HVPG) measurement were prospectively enrolled with circulating fibronectin measured simultaneously. Associations were assessed using correlation analyses and systems modeling. Competing-risk regression was used to evaluate clinical outcomes. Among 298 pat...",
+        "pmid": "42789231",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42789231/",
+        "doiUrl": "https://doi.org/10.1007/s12072-026-11140-1",
+        "url": "https://doi.org/10.1007/s12072-026-11140-1"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Xi got Trump's red carpet welcome - but not everything he wanted...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Xi got Trump's red carpet welcome - but not everything he wanted...”。核心要点：该英文报道关注最新动态：China wanted progress on trade, technology and Taiwan - but hasn't g...",
+        "titleZh": "该英文报道关注最新动态：OpenAI bots meddled with multiple US government agency sites...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：OpenAI bots meddled with multiple US government agency sites...”。核心要点：该英文报道关注最新动态：OpenAI said its bots accessed public data from a range of institutio...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 26 Sep 2026 02:50:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Netanyahu defends Israeli military action as delegates walk out before UN speech...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Netanyahu defends Israeli military action as delegates walk out before UN speech...”。核心要点：该英文报道关注最新动态：The Israeli leader labels those who left his speech at the UN Genera...",
+        "titleZh": "该英文报道关注最新动态：Iran offers US deal to reopen Strait of Hormuz in seven days...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran offers US deal to reopen Strait of Hormuz in seven days...”。核心要点：该英文报道关注最新动态：Asked about the Iranian proposal, a US official told the BBC \"constr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 25 Sep 2026 00:44:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 26 Sep 2026 05:03:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Media outlets banned by Trump denied access to White House dinner despite judge'...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Media outlets banned by Trump denied access to White House dinner despite judge'...”。核心要点：该英文报道关注最新动态：CNN and MS NOW reporters say they were barred from covering a state ...",
+        "titleZh": "该英文报道关注最新动态：Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensk...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensk...”。核心要点：该英文报道关注最新动态：Such strikes aim to disrupt \"people's ability to stay connected, stu...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 25 Sep 2026 01:10:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 20:47:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Hundreds of thousands expected in Paris for Pope's visit...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Hundreds of thousands expected in Paris for Pope's visit...”。核心要点：该英文报道关注最新动态：The highpoint of his time in Paris will be a giant Mass attended by ...",
+        "titleZh": "该英文报道关注最新动态：South African white genocide does not exist, new ambassador to US tells BBC...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South African white genocide does not exist, new ambassador to US tells BBC...”。核心要点：该英文报道关注最新动态：Roelf Meyer tells the BBC that being a white Afrikaner gives him leg...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 23:17:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 23:20:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...”。核心要点：该英文报道关注最新动态：Australia, which has strict social media restrictions and has propos...",
+        "titleZh": "该英文报道关注最新动态：Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach...”。核心要点：该英文报道关注最新动态：Current and former agents speak to the BBC about the devastating imp...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 23:05:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Trump and Xi toast new chapter in friendship at White House state dinner...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump and Xi toast new chapter in friendship at White House state dinner...”。核心要点：该英文报道关注最新动态：The lavish state dinner included tech billionaires, red tablecloths,...",
+        "titleZh": "该英文报道关注最新动态：Sir David Beckham nets £38.5m after World Cup ad deals...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Sir David Beckham nets £38.5m after World Cup ad deals...”。核心要点：该英文报道关注最新动态：His stake in DRJB Holdings has entitled him to almost half of its £8...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 25 Sep 2026 05:42:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 16:00:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'We're all broke': Would you chase a friend for £5?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'We're all broke': Would you chase a friend for £5?...”。核心要点：该英文报道关注最新动态：What's the smallest amount of money you would ask a friend to pay yo...",
+        "titleZh": "该英文报道关注最新动态：Man City found guilty of breaking financial rules...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Man City found guilty of breaking financial rules...”。核心要点：该英文报道关注最新动态：Manchester City have been found guilty of breaking the majority of t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 20:11:12 GMT",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why Australia chose the world's biggest political stage to reveal OpenAI hack...”。核心要点：该英文报道关注最新动态：Australia, which has strict social media restrictions and has propos...",
+        "titleZh": "该英文报道关注最新动态：US backs Elon Musk's bid to overturn €120m EU fine against X...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US backs Elon Musk's bid to overturn €120m EU fine against X...”。核心要点：该英文报道关注最新动态：The EU had said X \"deceives users\" by selling blue ticks without \"me...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 09:48:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Reported assaults on Britain's rail services rise by more than a third...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Reported assaults on Britain's rail services rise by more than a third...”。核心要点：该英文报道关注最新动态：Recorded incidents of violence and harassment against passengers and...",
+        "titleZh": "该英文报道关注最新动态：UK diesel price close to all-time high...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK diesel price close to all-time high...”。核心要点：该英文报道关注最新动态：The average price of a litre of diesel at the pump stands at 198.32p...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 15:38:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 10:50:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：They were labelled 'pervert glasses'. Will a camera-free version transform their...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：They were labelled 'pervert glasses'. Will a camera-free version transform their...”。核心要点：该英文报道关注最新动态：Meta has unveiled audio-only smart glasses, with some questioning wh...",
+        "titleZh": "该英文报道关注最新动态：Special agents' blood and urine test results stolen in FBI hack...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Special agents' blood and urine test results stolen in FBI hack...”。核心要点：该英文报道关注最新动态：Experts say the hack could leave agents vulnerable to scams, blackma...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 00:50:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
