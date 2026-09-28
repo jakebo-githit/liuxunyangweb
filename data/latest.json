@@ -1,106 +1,42 @@
 {
-  "updatedAt": "2026-09-27T06:39:07.166Z",
+  "updatedAt": "2026-09-28T06:54:07.472Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Autophagy and Mitophagy in Hypertensive Chronic Kidney Disease: Evidence Grading, Cell-Type Divergence, and a Working Lysosomal Hypothesis.",
-        "journal": "Life (Basel, Switzerland)",
-        "pubDate": "2026 Sep 4",
-        "studyType": "Journal Article / Review",
-        "authors": "Han S, Chang YK, Jo J",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：该英文报道关注最新动态：Hypertension is a major attributed cause of chronic kidney disease (CKD) and kid... 临床提示：该英文报道关注最新动态：Interpretation is further complicated by the clinical heterogeneity and limited ...",
-        "abstract": "Hypertension is a major attributed cause of chronic kidney disease (CKD) and kidney failure, yet the cellular mechanisms linking chronic hemodynamic and neurohormonal stress to progressive nephron loss remain incompletely defined. Interpretation is further complicated by the clinical heterogeneity and limited pathological validation of hypertensive nephrosclerosis. Autophagy and mitophagy are important intracellular quality-control pathways and have been increasingly implicated in hypertensive kidney injury. In this review, we critically appraise the available evidence using a multidimensional ACGEM framework that evaluates autophagy/mitophagy measurement (A), cell-type resolution (C), genet...",
-        "pmid": "42795346",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42795346/",
-        "doiUrl": "https://doi.org/10.3390/life16091481",
-        "url": "https://doi.org/10.3390/life16091481"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "Patient characteristics to guide personalized treatment decisions and prognostication in hepatocellular carcinoma.",
-        "journal": "Hepatic oncology",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article / Review",
-        "authors": "Syed A, Akce M, Malla M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：With multiple first-line immunotherapy and anti-VEGF based regimens, real-world ... 临床提示：该英文报道关注最新动态：Hepatocellular carcinoma (HCC) remains a leading cause of cancer mortality and a...",
-        "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer mortality and arises predominantly in cirrhotic livers, making prognosis and treatment response highly dependent on hepatic reserve and comorbidity. With multiple first-line immunotherapy and anti-VEGF based regimens, real-world decision making requires individualized selection integrating multiple patient related factors including liver function, bleeding risk, cardiovascular disease, and treatment feasibility among others. We reviewed pivotal first-line systemic therapy trials, complemented by key real-world cohorts evaluating outcomes in underrepresented populations. A targeted literature search was undertaken using PubMed/M...",
-        "pmid": "42799607",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42799607/",
-        "doiUrl": "https://doi.org/10.1080/20450923.2026.2731868",
-        "url": "https://doi.org/10.1080/20450923.2026.2731868"
-      },
-      {
-        "title": "Junctional Rhythm as Reversible Driver of Fontan Failure: Recovery With Multimodal Therapy Including Atrial Pacing.",
-        "journal": "JACC. Case reports",
-        "pubDate": "2026 Sep 26",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Kozłowski M, Dąbrowski M, Koleśnik A",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：AV dyssynchrony as a driver of Fontan failure and Fontan-associated liver diseas... 临床提示：该英文报道关注最新动态：A 17-year-old boy with Fontan failure, Fontan-associated liver disease, portal h...",
-        "abstract": "In Fontan circulation, pulmonary blood flow depends on low atrial pressure and preserved atrioventricular (AV) synchrony. AV dyssynchrony as a driver of Fontan failure and Fontan-associated liver disease remains under-recognized. A 17-year-old boy with Fontan failure, Fontan-associated liver disease, portal hypertension, and effusions had elevated Fontan pressures despite subaortic obstruction relief and Fontan tunnel stenting. Invasive pressure tracings identified junctional rhythm with AV dyssynchrony. Epicardial atrial pacing, preserving AV conduction and avoiding ventricular pacing, normalized Fontan pressures with clinical improvement and a reduction in liver stiffness. In patients with...",
-        "pmid": "42799735",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42799735/",
-        "doiUrl": "https://doi.org/10.1016/j.jaccas.2026.110541",
-        "url": "https://doi.org/10.1016/j.jaccas.2026.110541"
-      },
-      {
-        "title": "Pancreatic arteriovenous malformations as a manifestation of hereditary haemorrhagic telangiectasia (Rendu-Osler-Weber disease): a systematic review.",
-        "journal": "BMJ open gastroenterology",
-        "pubDate": "2026 Sep 25",
-        "studyType": "Journal Article / Systematic Review",
-        "authors": "de Jager I, Asplund E, Kartalis N",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Limited data are available on pancreatic arteriovenous malformations (AVMs) in p... 临床提示：该英文报道关注最新动态：This systematic review aimed to identify all reported cases of pancreatic AVMs i...",
-        "abstract": "Limited data are available on pancreatic arteriovenous malformations (AVMs) in patients with hereditary haemorrhagic telangiectasia (HHT), also known as Rendu-Osler-Weber disease. This systematic review aimed to identify all reported cases of pancreatic AVMs in patients with HHT and summarise patient demographics, clinical presentation, diagnostic modalities, treatment strategies and follow-up. Systematic review in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Databases PubMed, Embase, Cochrane Library and Web of Science were systematically screened up to June 2025. All English-language, full-text studies reporting pancreatic AVMs...",
-        "pmid": "42800718",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42800718/",
-        "doiUrl": "https://doi.org/10.1136/bmjgast-2026-002491",
-        "url": "https://doi.org/10.1136/bmjgast-2026-002491"
-      },
-      {
-        "title": "Hepatorenal Syndrome: Paradigm Shifts in Pathophysiology, the Transplantation Paradox, and Future Precision Management.",
-        "journal": "Journal of visualized experiments : JoVE",
-        "pubDate": "2026 Sep 25",
-        "studyType": "Journal Article / Video-Audio Media / Review",
-        "authors": "Gao F, Feng X, He W",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Hepatorenal syndrome (HRS) is a severe kidney-dysfunction phenotype in patients ... 临床提示：该英文报道关注最新动态：Contemporary criteria use dynamic serum creatinine and urine-output changes, ass...",
-        "abstract": "Hepatorenal syndrome (HRS) is a severe kidney-dysfunction phenotype in patients with advanced cirrhosis and ascites. This review examines the historical and clinical evolution from type 1/type 2 HRS to explicit HRS-AKI, HRS-AKD, and HRS-CKD definitions. Contemporary criteria use dynamic serum creatinine and urine-output changes, assess response after adequate volume resuscitation when indicated, and recognize that structural kidney injury may coexist. The pathophysiological framework integrates portal hypertension, splanchnic vasodilation, systemic inflammation, bacterial translocation, and cardiac dysfunction. Terlipressin plus individualized albumin improves HRS reversal, but biochemical r...",
-        "pmid": "42799617",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42799617/",
-        "doiUrl": "https://doi.org/10.3791/73525",
-        "url": "https://doi.org/10.3791/73525"
-      },
-      {
-        "title": "Navigating TIPS in the era of ageing and metabolic comorbidity: a contemporary narrative review of risk, resilience, and outcomes.",
-        "journal": "Gastroenterology report",
-        "pubDate": "2026 Feb",
-        "studyType": "Journal Article / Review",
-        "authors": "Roccarina D, Saltini D, Mangini C",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：The ageing of the cirrhotic population, together with the epidemiological shift ... 临床提示：该英文报道关注最新动态：Although TIPS remains a cornerstone in the management of complications of portal...",
-        "abstract": "The ageing of the cirrhotic population, together with the epidemiological shift toward metabolic dysfunction-associated steatohepatitis, is redefining the profile of patients referred for transjugular intrahepatic portosystemic shunt (TIPS). Although TIPS remains a cornerstone in the management of complications of portal hypertension, its abrupt hemodynamic and metabolic effects challenge the physiological reserve of multiple organ systems. Age-related cardiovascular remodeling, cirrhotic cardiomyopathy, impaired renal function and autoregulation, and reduced neurocognitive reserve interact with the hyperdynamic circulatory state of cirrhosis increasing the susceptibility to heart failure, a...",
-        "pmid": "42798817",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42798817/",
-        "doiUrl": "https://doi.org/10.1093/gastro/goag103",
-        "url": "https://doi.org/10.1093/gastro/goag103"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Iran says it will wait for official US response after Trump rejects Strait of Ho...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Iran says it will wait for official US response after Trump rejects Strait of Ho...”。核心要点：该英文报道关注最新动态：The US president earlier said that Tehran only made the proposal to ...",
+        "titleZh": "该英文报道关注最新动态：Inside Yemen's front-line city as Houthis battle for control...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside Yemen's front-line city as Houthis battle for control...”。核心要点：该英文报道关注最新动态：In rare access to Yemen's conflict zone the BBC travels to the front...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 02:16:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 27 Sep 2026 21:16:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Christa Pike to be first woman executed in Tennessee in 200 years - but her defe...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Christa Pike to be first woman executed in Tennessee in 200 years - but her defe...”。核心要点：该英文报道关注最新动态：Lawyers for Pike, who killed a fellow student in 1995, say she shoul...",
+        "titleZh": "该英文报道关注最新动态：Embattled Serbian president resigns, paving way for early elections...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Embattled Serbian president resigns, paving way for early elections...”。核心要点：该英文报道关注最新动态：Aleksandar Vučić's administration has been dogged by prolonged prote...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 26 Sep 2026 23:04:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 27 Sep 2026 20:04:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Two bodies found after avalanche hits Himalayan climbing group...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two bodies found after avalanche hits Himalayan climbing group...”。核心要点：该英文报道关注最新动态：Rescuers are looking for at least 10 Nepalese people who were prepar...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 27 Sep 2026 17:05:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Two mass shootings in South Africa leave 28 dead...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two mass shootings in South Africa leave 28 dead...”。核心要点：该英文报道关注最新动态：The two attacks hours apart come as the country struggles to stop hi...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 28 Sep 2026 06:46:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：Four killed in helicopter crash near Montreal...",
@@ -109,64 +45,48 @@
         "sourceLang": "English",
         "publishedAt": "Sun, 27 Sep 2026 02:43:10 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Pope praises young people's 'energy and commitment' at huge open-air Mass in Par...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pope praises young people's 'energy and commitment' at huge open-air Mass in Par...”。核心要点：该英文报道关注最新动态：Around 700,000 people gathered in central Paris to hear the Catholic...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 26 Sep 2026 19:48:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：British national among six dead in building explosion close to Acropolis in Athe...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：British national among six dead in building explosion close to Acropolis in Athe...”。核心要点：该英文报道关注最新动态：Four Americans and a Greek national are among those killed in a susp...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 26 Sep 2026 12:47:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：OpenAI bots meddled with multiple US government agency sites...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI bots meddled with multiple US government agency sites...”。核心要点：该英文报道关注最新动态：OpenAI said its bots accessed public data from a range of institutio...",
+        "titleZh": "该英文报道关注最新动态：My hometown shows that high streets have to change or die...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：My hometown shows that high streets have to change or die...”。核心要点：该英文报道关注最新动态：Aberdeen is launching an ambitious bid to revive its struggling cent...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 26 Sep 2026 02:50:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 27 Sep 2026 23:05:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Could an iced coffee freeze you out of the job market?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Could an iced coffee freeze you out of the job market?...”。核心要点：该英文报道关注最新动态：Employees and recruiters weigh into the online debate around intervi...",
+        "titleZh": "该英文报道关注最新动态：Healey to promise 'new age of industrialisation' for UK in conference speech...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey to promise 'new age of industrialisation' for UK in conference speech...”。核心要点：该英文报道关注最新动态：The chancellor will unveil policies aimed at boosting British shipbu...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 26 Sep 2026 10:05:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 27 Sep 2026 23:01:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Clubs seek legal advice over Man City charges compensation...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Clubs seek legal advice over Man City charges compensation...”。核心要点：该英文报道关注最新动态：Premier League clubs are seeking legal advice as to whether they wou...",
+        "titleZh": "该英文报道关注最新动态：Tourism tax needs to be more flexible in Wales, warns expert...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Tourism tax needs to be more flexible in Wales, warns expert...”。核心要点：该英文报道关注最新动态：Anglesey, Conwy and Gwynedd councils have all put a pause on introdu...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 25 Sep 2026 20:13:53 GMT",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 28 Sep 2026 05:04:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'We're all broke': Would you chase a friend for £5?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'We're all broke': Would you chase a friend for £5?...”。核心要点：该英文报道关注最新动态：What's the smallest amount of money you would ask a friend to pay yo...",
+        "titleZh": "该英文报道关注最新动态：Avanti West Coast services to be nationalised from March...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Avanti West Coast services to be nationalised from March...”。核心要点：该英文报道关注最新动态：The move is part of a plan to improve rail infrastructure, cut train...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 24 Sep 2026 23:00:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 28 Sep 2026 03:05:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Sir David Beckham nets £38.5m after World Cup ad deals...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Sir David Beckham nets £38.5m after World Cup ad deals...”。核心要点：该英文报道关注最新动态：His stake in DRJB Holdings has entitled him to almost half of its £8...",
+        "titleZh": "该英文报道关注最新动态：You need £17,000 for a first home - here's how to do it...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：You need £17,000 for a first home - here's how to do it...”。核心要点：该英文报道关注最新动态：Here are four ways you can put money aside to save enough for a depo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 25 Sep 2026 16:00:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 27 Sep 2026 23:20:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
