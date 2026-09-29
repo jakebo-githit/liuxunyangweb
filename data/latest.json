@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-09-28T06:54:07.472Z",
+  "updatedAt": "2026-09-29T06:55:54.642Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Splenic fibrosis markers in rats with portal vein stenosis.",
+        "journal": "Folia histochemica et cytobiologica",
+        "pubDate": "2026 Sep 28",
+        "studyType": "Journal Article",
+        "authors": "Bo Z, Li J, Zhang H",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 20）。核心观点：该英文报道关注最新动态：Congestive splenomegaly (SM)secondary to portal hypertension refers to pathologi... 临床提示：该英文报道关注最新动态：AND: METHODS: This study established a portal vein stenosis-induced model of SM ...",
+        "abstract": "Congestive splenomegaly (SM)secondary to portal hypertension refers to pathologicalsplenic enlargementcaused byelevatedportal venous pressure; however, the molecular mechanisms underlying splenic fibrosis remain incompletely understood. AND: METHODS: This study established a portal vein stenosis-induced model of SM in Sprague-Dawley rats (SM group, n = 20), with a sham-operated control (SO) group (n = 20). Splenic tissue fibrosis was evaluated using special staining techniques, including Masson's trichrome, Elastica van Gieson, and ammoniacal silver staining. Matrix metallopeptidase 2 (MMP-2), MMP-9, tissue inhibitor of metalloproteinases 1 (TIMP-1), TIMP-2, transforming growth factor beta 1...",
+        "pmid": "42803012",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42803012/",
+        "doiUrl": "https://doi.org/10.5603/fhc.114318",
+        "url": "https://doi.org/10.5603/fhc.114318"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Inside Yemen's front-line city as Houthis battle for control...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside Yemen's front-line city as Houthis battle for control...”。核心要点：该英文报道关注最新动态：In rare access to Yemen's conflict zone the BBC travels to the front...",
+        "titleZh": "该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...”。核心要点：该英文报道关注最新动态：The firm also issued an update on incidents in which its models acce...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 21:16:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 04:30:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Embattled Serbian president resigns, paving way for early elections...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Embattled Serbian president resigns, paving way for early elections...”。核心要点：该英文报道关注最新动态：Aleksandar Vučić's administration has been dogged by prolonged prote...",
+        "titleZh": "该英文报道关注最新动态：Evicted Spanish pensioner can move back home, lawyer says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Evicted Spanish pensioner can move back home, lawyer says...”。核心要点：该英文报道关注最新动态：The eviction of Maricarmen Abascal, 87, prompted large-scale protest...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 20:04:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 01:28:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Two bodies found after avalanche hits Himalayan climbing group...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two bodies found after avalanche hits Himalayan climbing group...”。核心要点：该英文报道关注最新动态：Rescuers are looking for at least 10 Nepalese people who were prepar...",
+        "titleZh": "该英文报道关注最新动态：Argentina threatens legal action against UK over Falkland Islands oil exploratio...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Argentina threatens legal action against UK over Falkland Islands oil exploratio...”。核心要点：该英文报道关注最新动态：President Javier Milei set a two-week deadline for the Sea Lion oilf...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 17:05:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 03:50:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Two mass shootings in South Africa leave 28 dead...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Two mass shootings in South Africa leave 28 dead...”。核心要点：该英文报道关注最新动态：The two attacks hours apart come as the country struggles to stop hi...",
+        "titleZh": "该英文报道关注最新动态：New York Times executive fatally shot by elderly in-laws, police say...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：New York Times executive fatally shot by elderly in-laws, police say...”。核心要点：该英文报道关注最新动态：Jonathan McKinsey's in-laws, who are both 77 years old, face multipl...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 28 Sep 2026 06:46:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 04:06:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Four killed in helicopter crash near Montreal...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Four killed in helicopter crash near Montreal...”。核心要点：该英文报道关注最新动态：The victims of the crash have not yet been identified, Quebec provin...",
+        "titleZh": "该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...”。核心要点：该英文报道关注最新动态：It is the latest escalation in the Canada-US trade war after negotia...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 02:43:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 04:10:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：My hometown shows that high streets have to change or die...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：My hometown shows that high streets have to change or die...”。核心要点：该英文报道关注最新动态：Aberdeen is launching an ambitious bid to revive its struggling cent...",
+        "titleZh": "该英文报道关注最新动态：Burnham to unveil public body to invest in electricity grid...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham to unveil public body to invest in electricity grid...”。核心要点：该英文报道关注最新动态：The prime minister will say he wants to reduce energy costs in his f...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 23:05:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 06:54:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Healey to promise 'new age of industrialisation' for UK in conference speech...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey to promise 'new age of industrialisation' for UK in conference speech...”。核心要点：该英文报道关注最新动态：The chancellor will unveil policies aimed at boosting British shipbu...",
+        "titleZh": "该英文报道关注最新动态：Warning more homes will be uninsurable due to flood risk...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Warning more homes will be uninsurable due to flood risk...”。核心要点：该英文报道关注最新动态：Aviva boss Amanda Blanc said England was \"for sure\" building homes t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 23:01:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 28 Sep 2026 23:10:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Tourism tax needs to be more flexible in Wales, warns expert...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Tourism tax needs to be more flexible in Wales, warns expert...”。核心要点：该英文报道关注最新动态：Anglesey, Conwy and Gwynedd councils have all put a pause on introdu...",
+        "titleZh": "该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...”。核心要点：该英文报道关注最新动态：The firm also issued an update on incidents in which its models acce...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 28 Sep 2026 05:04:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 04:30:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Avanti West Coast services to be nationalised from March...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Avanti West Coast services to be nationalised from March...”。核心要点：该英文报道关注最新动态：The move is part of a plan to improve rail infrastructure, cut train...",
+        "titleZh": "该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...”。核心要点：该英文报道关注最新动态：It is the latest escalation in the Canada-US trade war after negotia...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 28 Sep 2026 03:05:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 04:10:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：You need £17,000 for a first home - here's how to do it...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：You need £17,000 for a first home - here's how to do it...”。核心要点：该英文报道关注最新动态：Here are four ways you can put money aside to save enough for a depo...",
+        "titleZh": "该英文报道关注最新动态：Unis are offering degrees in content creation for £30,000. But are they worth it...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Unis are offering degrees in content creation for £30,000. But are they worth it...”。核心要点：该英文报道关注最新动态：Content creation degrees aim to help people make money from their so...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 27 Sep 2026 23:20:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 28 Sep 2026 23:10:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
