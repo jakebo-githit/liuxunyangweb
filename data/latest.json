@@ -1,106 +1,120 @@
 {
-  "updatedAt": "2026-09-29T06:55:54.642Z",
+  "updatedAt": "2026-09-30T06:44:23.256Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": [
+    "htn_kidney": [
       {
-        "title": "Splenic fibrosis markers in rats with portal vein stenosis.",
-        "journal": "Folia histochemica et cytobiologica",
+        "title": "Study of the histology of nonneoplastic kidney diseases in nephrectomies and nephroureterectomies performed for tumors.",
+        "journal": "Indian journal of pathology & microbiology",
         "pubDate": "2026 Sep 28",
         "studyType": "Journal Article",
-        "authors": "Bo Z, Li J, Zhang H",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 20）。核心观点：该英文报道关注最新动态：Congestive splenomegaly (SM)secondary to portal hypertension refers to pathologi... 临床提示：该英文报道关注最新动态：AND: METHODS: This study established a portal vein stenosis-induced model of SM ...",
-        "abstract": "Congestive splenomegaly (SM)secondary to portal hypertension refers to pathologicalsplenic enlargementcaused byelevatedportal venous pressure; however, the molecular mechanisms underlying splenic fibrosis remain incompletely understood. AND: METHODS: This study established a portal vein stenosis-induced model of SM in Sprague-Dawley rats (SM group, n = 20), with a sham-operated control (SO) group (n = 20). Splenic tissue fibrosis was evaluated using special staining techniques, including Masson's trichrome, Elastica van Gieson, and ammoniacal silver staining. Matrix metallopeptidase 2 (MMP-2), MMP-9, tissue inhibitor of metalloproteinases 1 (TIMP-1), TIMP-2, transforming growth factor beta 1...",
-        "pmid": "42803012",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42803012/",
-        "doiUrl": "https://doi.org/10.5603/fhc.114318",
-        "url": "https://doi.org/10.5603/fhc.114318"
+        "authors": "Ahmed NM, Anuradha SVN, Gowrishankar S",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Nephrectomies performed for tumors may harbor nonneoplastic kidney diseases and ... 临床提示：该英文报道关注最新动态：Careful histological assessment of the uninvolved renal parenchyma using light m...",
+        "abstract": "Nephrectomies performed for tumors may harbor nonneoplastic kidney diseases and influence patient outcomes; hence, studying the uninvolved portion of the renal parenchyma at the time of histological tumor diagnosis is prudent. Careful histological assessment of the uninvolved renal parenchyma using light microscopy, special stains and immunofluorescence study gives valuable information regarding pre-existing renal damage. This cross-sectional observational study evaluated 151 partial and radical nephrectomies and nephroureterectomies performed for tumors. Global glomerulosclerosis, tubular atrophy, interstitial fibrosis, interstitial inflammation, and arteriosclerosis were evaluated in the n...",
+        "pmid": "42809729",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42809729/",
+        "doiUrl": "https://doi.org/10.4103/ijpm.ijpm_16_23",
+        "url": "https://doi.org/10.4103/ijpm.ijpm_16_23"
+      }
+    ],
+    "portal_hypertension": [
+      {
+        "title": "Characterizing the Benefits of Serial Ascitic Fluid Testing in Ambulatory Patients with Cirrhosis: A National Cohort Study.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "pubDate": "2026 Sep 29",
+        "studyType": "Journal Article",
+        "authors": "Mahmud N, McCullough AA, Zhang S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 467）。核心观点：该英文报道关注最新动态：Spontaneous bacterial peritonitis (SBP) is a life-threatening cirrhosis complica... 临床提示：该英文报道关注最新动态：We aimed to characterize variation in ascitic fluid testing practices during out...",
+        "abstract": "Spontaneous bacterial peritonitis (SBP) is a life-threatening cirrhosis complication, yet guidance for sending fluid studies from outpatient paracentesis remains limited with unclear clinical impact. We aimed to characterize variation in ascitic fluid testing practices during outpatient paracentesis in cirrhosis and evaluate its association with short-term hospitalization and mortality. We conducted a retrospective cohort study of 60,619 outpatient paracenteses among 4,467 patients with cirrhosis in the Veterans Health Administration from 2012-2023. Testing frequency was defined as the proportion of procedures in which diagnostic fluid studies for SBP were sent. Inverse probability treatment...",
+        "pmid": "42810420",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42810420/",
+        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.09.029",
+        "url": "https://doi.org/10.1016/j.cgh.2026.09.029"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...”。核心要点：该英文报道关注最新动态：The firm also issued an update on incidents in which its models acce...",
+        "titleZh": "该英文报道关注最新动态：Chinese AI tool told researchers how to make bioweapons...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Chinese AI tool told researchers how to make bioweapons...”。核心要点：该英文报道关注最新动态：Mindgard said it discovered in July that Kimi models K2.6 and K3 Swa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 04:30:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 23:15:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Evicted Spanish pensioner can move back home, lawyer says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Evicted Spanish pensioner can move back home, lawyer says...”。核心要点：该英文报道关注最新动态：The eviction of Maricarmen Abascal, 87, prompted large-scale protest...",
+        "titleZh": "该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...”。核心要点：该英文报道关注最新动态：The meeting at the White House came as some tech bosses and experts ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 01:28:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 30 Sep 2026 04:01:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Argentina threatens legal action against UK over Falkland Islands oil exploratio...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Argentina threatens legal action against UK over Falkland Islands oil exploratio...”。核心要点：该英文报道关注最新动态：President Javier Milei set a two-week deadline for the Sea Lion oilf...",
+        "titleZh": "该英文报道关注最新动态：Girl has multiple surgeries to control infections after strike in Gaza...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Girl has multiple surgeries to control infections after strike in Gaza...”。核心要点：该英文报道关注最新动态：Witnesses say Raseel's tent was hit by an Israeli helicopter strike....",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 03:50:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 30 Sep 2026 05:02:50 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：New York Times executive fatally shot by elderly in-laws, police say...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：New York Times executive fatally shot by elderly in-laws, police say...”。核心要点：该英文报道关注最新动态：Jonathan McKinsey's in-laws, who are both 77 years old, face multipl...",
+        "titleZh": "该英文报道关注最新动态：South Korea demands apology from Pyongyang for landmine blasts that injured thre...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South Korea demands apology from Pyongyang for landmine blasts that injured thre...”。核心要点：该英文报道关注最新动态：Blasts in the Demilitarised Zone (DMZ) injured three South Korean pe...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 04:06:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 30 Sep 2026 05:24:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...”。核心要点：该英文报道关注最新动态：It is the latest escalation in the Canada-US trade war after negotia...",
+        "titleZh": "该英文报道关注最新动态：South Africa to clean up high-risk areas after 12 women killed...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South Africa to clean up high-risk areas after 12 women killed...”。核心要点：该英文报道关注最新动态：The deaths sparked a national outcry about the scale of violence aga...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 04:10:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 22:33:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Burnham to unveil public body to invest in electricity grid...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham to unveil public body to invest in electricity grid...”。核心要点：该英文报道关注最新动态：The prime minister will say he wants to reduce energy costs in his f...",
+        "titleZh": "该英文报道关注最新动态：Household energy bills forecast to see biggest rise in four years...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Household energy bills forecast to see biggest rise in four years...”。核心要点：该英文报道关注最新动态：A typical household faces an annual gas and electricity bill of £1,9...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 06:54:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 30 Sep 2026 05:27:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Warning more homes will be uninsurable due to flood risk...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Warning more homes will be uninsurable due to flood risk...”。核心要点：该英文报道关注最新动态：Aviva boss Amanda Blanc said England was \"for sure\" building homes t...",
+        "titleZh": "该英文报道关注最新动态：Faisal Islam: Triple lock move is significant, but it's a gamble...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Faisal Islam: Triple lock move is significant, but it's a gamble...”。核心要点：该英文报道关注最新动态：I had expected him to try to forge a political consensus on this tho...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 28 Sep 2026 23:10:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 16:43:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI scraps rollout of new model over safety concerns...”。核心要点：该英文报道关注最新动态：The firm also issued an update on incidents in which its models acce...",
+        "titleZh": "该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...”。核心要点：该英文报道关注最新动态：The meeting at the White House came as some tech bosses and experts ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 04:30:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 30 Sep 2026 04:01:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US ban on Canadian alcohol and dairy comes into effect as trade war drags on...”。核心要点：该英文报道关注最新动态：It is the latest escalation in the Canada-US trade war after negotia...",
+        "titleZh": "该英文报道关注最新动态：'I like proving people wrong': The women taking up DIY and plumbing...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I like proving people wrong': The women taking up DIY and plumbing...”。核心要点：该英文报道关注最新动态：Female DIY experts and tradeswomen talk about their experiences of a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 04:10:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 23:06:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Unis are offering degrees in content creation for £30,000. But are they worth it...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Unis are offering degrees in content creation for £30,000. But are they worth it...”。核心要点：该英文报道关注最新动态：Content creation degrees aim to help people make money from their so...",
+        "titleZh": "该英文报道关注最新动态：Huel ad banned for suggesting its products could replace all conventional food...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Huel ad banned for suggesting its products could replace all conventional food...”。核心要点：该英文报道关注最新动态：The advertising watchdog said that viewers could assume from the ad ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 28 Sep 2026 23:10:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 29 Sep 2026 23:06:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
