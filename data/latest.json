@@ -1,120 +1,145 @@
 {
-  "updatedAt": "2026-09-30T06:44:23.256Z",
+  "updatedAt": "2026-10-01T07:13:24.748Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Study of the histology of nonneoplastic kidney diseases in nephrectomies and nephroureterectomies performed for tumors.",
-        "journal": "Indian journal of pathology & microbiology",
-        "pubDate": "2026 Sep 28",
-        "studyType": "Journal Article",
-        "authors": "Ahmed NM, Anuradha SVN, Gowrishankar S",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Nephrectomies performed for tumors may harbor nonneoplastic kidney diseases and ... 临床提示：该英文报道关注最新动态：Careful histological assessment of the uninvolved renal parenchyma using light m...",
-        "abstract": "Nephrectomies performed for tumors may harbor nonneoplastic kidney diseases and influence patient outcomes; hence, studying the uninvolved portion of the renal parenchyma at the time of histological tumor diagnosis is prudent. Careful histological assessment of the uninvolved renal parenchyma using light microscopy, special stains and immunofluorescence study gives valuable information regarding pre-existing renal damage. This cross-sectional observational study evaluated 151 partial and radical nephrectomies and nephroureterectomies performed for tumors. Global glomerulosclerosis, tubular atrophy, interstitial fibrosis, interstitial inflammation, and arteriosclerosis were evaluated in the n...",
-        "pmid": "42809729",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42809729/",
-        "doiUrl": "https://doi.org/10.4103/ijpm.ijpm_16_23",
-        "url": "https://doi.org/10.4103/ijpm.ijpm_16_23"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Characterizing the Benefits of Serial Ascitic Fluid Testing in Ambulatory Patients with Cirrhosis: A National Cohort Study.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
-        "pubDate": "2026 Sep 29",
+        "title": "Influence of Albumin Treatment Duration on Outcome of Terlipressin Therapy in Patients With HRS-AKI.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article / Multicenter Study",
+        "authors": "Schleicher EM, Labenz C, Uschner FE",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：该英文报道关注最新动态：The optimal duration of albumin administration is debated and requires balancing... 临床提示：该英文报道关注最新动态：Therefore, this study aimed to compare the impact of different albumin treatment...",
+        "abstract": "Volume expansion with albumin is recommended to establish a diagnosis of hepatorenal syndrome-acute kidney injury (HRS-AKI). The optimal duration of albumin administration is debated and requires balancing the risk of overtreatment with the need for timely diagnosis and treatment. Therefore, this study aimed to compare the impact of different albumin treatment durations on terlipressin response and the prognosis of patients with HRS-AKI treated with terlipressin and albumin. This multicenter, retrospective secondary analysis included patients with suspected HRS-AKI who were treated with terlipressin and albumin at 12 German centers. One hundred forty five patients were available for further ...",
+        "pmid": "42813964",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42813964/",
+        "doiUrl": "https://doi.org/10.1111/liv.70888",
+        "url": "https://doi.org/10.1111/liv.70888"
+      },
+      {
+        "title": "Massive Bleeding from Segmental Portal Hypertensive Enteropathy.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "pubDate": "2026 Oct 1",
         "studyType": "Journal Article",
-        "authors": "Mahmud N, McCullough AA, Zhang S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 467）。核心观点：该英文报道关注最新动态：Spontaneous bacterial peritonitis (SBP) is a life-threatening cirrhosis complica... 临床提示：该英文报道关注最新动态：We aimed to characterize variation in ascitic fluid testing practices during out...",
-        "abstract": "Spontaneous bacterial peritonitis (SBP) is a life-threatening cirrhosis complication, yet guidance for sending fluid studies from outpatient paracentesis remains limited with unclear clinical impact. We aimed to characterize variation in ascitic fluid testing practices during outpatient paracentesis in cirrhosis and evaluate its association with short-term hospitalization and mortality. We conducted a retrospective cohort study of 60,619 outpatient paracenteses among 4,467 patients with cirrhosis in the Veterans Health Administration from 2012-2023. Testing frequency was defined as the proportion of procedures in which diagnostic fluid studies for SBP were sent. Inverse probability treatment...",
-        "pmid": "42810420",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42810420/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.09.029",
-        "url": "https://doi.org/10.1016/j.cgh.2026.09.029"
+        "authors": "Kitagawa S, Murakoshi N, Shiga N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Massive Bleeding from Segmental Portal Hypertensive Enteropathy....",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "41672539",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41672539/",
+        "doiUrl": "https://doi.org/10.2169/internalmedicine.6885-25",
+        "url": "https://doi.org/10.2169/internalmedicine.6885-25"
+      },
+      {
+        "title": "Masked polycythaemia vera presenting with extensive splanchnic venous thrombosis and mesenteric ischaemia.",
+        "journal": "BMJ case reports",
+        "pubDate": "2026 Sep 30",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Amadore RA Jr, Anopol JA, Gauiran DTV",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Splanchnic venous thrombosis (SVT) is a potentially catastrophic manifestation o... 临床提示：该英文报道关注最新动态：We report a woman in her 60s with masked PV who had been managed for 5 years wit...",
+        "abstract": "Splanchnic venous thrombosis (SVT) is a potentially catastrophic manifestation of polycythaemia vera (PV). We report a woman in her 60s with masked PV who had been managed for 5 years with intermittent phlebotomy and aspirin without haematology referral, molecular testing or cytoreductive therapy. Chronic iron deficiency masked erythrocytosis, delaying diagnosis. She presented with extensive thrombosis involving the portal, splenic and superior mesenteric veins complicated by mesenteric ischaemia requiring exploratory laparotomy, jejunal resection and ileostomy. Bone marrow biopsy and JAK2 V617F testing confirmed PV. Therapeutic anticoagulation was initiated with enoxaparin and subsequently ...",
+        "pmid": "42816104",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42816104/",
+        "doiUrl": "https://doi.org/10.1136/bcr-2026-276448",
+        "url": "https://doi.org/10.1136/bcr-2026-276448"
+      },
+      {
+        "title": "Prognostic role of the Child-Turcotte-Pugh classification and ALBI grade in patients without cirrhosis and hepatocellular carcinoma.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Sep 30",
+        "studyType": "Journal Article",
+        "authors": "Balcar L, Brunetti L, Pomej K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：While the Child-Turcotte-Pugh (CTP) classification as well as the albumin-biliru... 临床提示：该英文报道关注最新动态：While the Child-Turcotte-Pugh (CTP) classification as well as the albumin-biliru...",
+        "abstract": "While the Child-Turcotte-Pugh (CTP) classification as well as the albumin-bilirubin (ALBI) grade represent important clinical tools for risk stratification in patients with cirrhosis and hepatocellular carcinoma (HCC), there is no data on the prognostic ability in patients without cirrhosis and HCC. Cohort 1 included unresectable patients with HCC and BCLC stage A-C from the Medical University of Vienna and the Sorbonne University, Paris. Cohort 2 included patients with unresectable HCC treated with atezolizumab/bevacizumab or durvalumab/tremelimumab from two large international databases (AB-Real and DT-Real studies). We evaluated the prognostic value of the CTP classification/ALBI grade fo...",
+        "pmid": "42815636",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42815636/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102053",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.102053"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Chinese AI tool told researchers how to make bioweapons...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Chinese AI tool told researchers how to make bioweapons...”。核心要点：该英文报道关注最新动态：Mindgard said it discovered in July that Kimi models K2.6 and K3 Swa...",
+        "titleZh": "该英文报道关注最新动态：US death row inmate survives execution attempt after two lethal injections...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US death row inmate survives execution attempt after two lethal injections...”。核心要点：该英文报道关注最新动态：Killer Christa Pike's lawyer says she is being given \"life-saving me...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 23:15:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 01 Oct 2026 07:01:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...”。核心要点：该英文报道关注最新动态：The meeting at the White House came as some tech bosses and experts ...",
+        "titleZh": "该英文报道关注最新动态：Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM sa...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM sa...”。核心要点：该英文报道关注最新动态：A pilot who stabbed another pilot on an Israel-bound plane is under ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 30 Sep 2026 04:01:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 01 Oct 2026 06:42:43 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Girl has multiple surgeries to control infections after strike in Gaza...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Girl has multiple surgeries to control infections after strike in Gaza...”。核心要点：该英文报道关注最新动态：Witnesses say Raseel's tent was hit by an Israeli helicopter strike....",
+        "titleZh": "该英文报道关注最新动态：What we know about stabbing on Flydubai flight to Israel...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What we know about stabbing on Flydubai flight to Israel...”。核心要点：该英文报道关注最新动态：A pilot has been arrested and is being questioned after another pilo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 30 Sep 2026 05:02:50 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 01 Oct 2026 02:31:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：South Korea demands apology from Pyongyang for landmine blasts that injured thre...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South Korea demands apology from Pyongyang for landmine blasts that injured thre...”。核心要点：该英文报道关注最新动态：Blasts in the Demilitarised Zone (DMZ) injured three South Korean pe...",
+        "titleZh": "该英文报道关注最新动态：Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukr...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukr...”。核心要点：该英文报道关注最新动态：A foreign policy speech by the Russian president will be keenly watc...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 30 Sep 2026 05:24:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 30 Sep 2026 23:10:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：South Africa to clean up high-risk areas after 12 women killed...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South Africa to clean up high-risk areas after 12 women killed...”。核心要点：该英文报道关注最新动态：The deaths sparked a national outcry about the scale of violence aga...",
+        "titleZh": "该英文报道关注最新动态：Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies...”。核心要点：该英文报道关注最新动态：Scientists say such rapid melting is no longer surprising given the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 22:33:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 01 Oct 2026 00:08:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
+      {
+        "titleZh": "该英文报道关注最新动态：AI boom could trigger market shocks, Bank of England boss warns...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI boom could trigger market shocks, Bank of England boss warns...”。核心要点：该英文报道关注最新动态：Andrew Bailey says the central bank is watching the waves of cash be...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 01 Oct 2026 04:03:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Vape prices to rise as new tax takes effect...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Vape prices to rise as new tax takes effect...”。核心要点：该英文报道关注最新动态：Vaping is about to becoming more expensive due to a new tax on produ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 30 Sep 2026 23:02:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Energy bills are rising by £60 a year - here's what you can do about it...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Energy bills are rising by £60 a year - here's what you can do about it...”。核心要点：该英文报道关注最新动态：Household energy bills have risen again but there are ways to keep a...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 01 Oct 2026 07:08:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Employers should teach primary-age children about work, says Milburn...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Employers should teach primary-age children about work, says Milburn...”。核心要点：该英文报道关注最新动态：The author of a major report into youth activity in the UK says chil...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 01 Oct 2026 07:07:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "titleZh": "该英文报道关注最新动态：Household energy bills forecast to see biggest rise in four years...",
         "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Household energy bills forecast to see biggest rise in four years...”。核心要点：该英文报道关注最新动态：A typical household faces an annual gas and electricity bill of £1,9...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 30 Sep 2026 05:27:23 GMT",
+        "publishedAt": "Wed, 30 Sep 2026 14:36:45 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Faisal Islam: Triple lock move is significant, but it's a gamble...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Faisal Islam: Triple lock move is significant, but it's a gamble...”。核心要点：该英文报道关注最新动态：I had expected him to try to forge a political consensus on this tho...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 16:43:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Three takeaways from Trump's 'Super Intelligence' summit...”。核心要点：该英文报道关注最新动态：The meeting at the White House came as some tech bosses and experts ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 30 Sep 2026 04:01:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：'I like proving people wrong': The women taking up DIY and plumbing...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I like proving people wrong': The women taking up DIY and plumbing...”。核心要点：该英文报道关注最新动态：Female DIY experts and tradeswomen talk about their experiences of a...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 23:06:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Huel ad banned for suggesting its products could replace all conventional food...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Huel ad banned for suggesting its products could replace all conventional food...”。核心要点：该英文报道关注最新动态：The advertising watchdog said that viewers could assume from the ad ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 29 Sep 2026 23:06:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
