@@ -1,60 +1,117 @@
 {
-  "updatedAt": "2026-10-02T07:02:03.788Z",
+  "updatedAt": "2026-10-03T06:33:56.039Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": []
+    "htn_kidney": [
+      {
+        "title": "Methodological and Statistical Considerations for Circulating miR-23b-3p in Hypertensive Nephropathy.",
+        "journal": "American journal of hypertension",
+        "pubDate": "2026 Oct 1",
+        "studyType": "Journal Article",
+        "authors": "Hıra S",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Methodological and Statistical Considerations for Circulating miR-23b-3p in Hype...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42826507",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826507/",
+        "doiUrl": "https://doi.org/10.1093/ajh/hpag120",
+        "url": "https://doi.org/10.1093/ajh/hpag120"
+      }
+    ],
+    "portal_hypertension": [
+      {
+        "title": "Ectopic Duodenal Varices Secondary to Portal Hypertension Caused by Primary Hepatic Neuroendocrine Tumor.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Oct",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Saddique MU, Ali AAA, Ghazouani SM",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：PHNET-associated portal hypertension is uncommon.... 临床提示：该英文报道关注最新动态：Primary hepatic neuroendocrine tumors (PHNETs) are rare, often presenting with a...",
+        "abstract": "Primary hepatic neuroendocrine tumors (PHNETs) are rare, often presenting with abdominal pain, carcinoid syndrome, or incidental imaging findings. PHNET-associated portal hypertension is uncommon. A 45-year-old man with known PHNET presented with massive upper gastrointestinal bleeding from a duodenal ectopic varix and hemorrhagic shock. Emergent esophagogastroduodenoscopy achieved hemostasis with hemoclips. He subsequently developed high-serum-ascites albumin gradient (1.4 g/dL); imaging showed a 23-cm hepatic mass, portal vein dilatation, and splenomegaly. Liver biopsy confirmed a well-differentiated neuroendocrine neoplasm without cirrhosis, supporting tumor-related, noncirrhotic portal h...",
+        "pmid": "42825253",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42825253/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002351",
+        "url": "https://doi.org/10.14309/crj.0000000000002351"
+      },
+      {
+        "title": "Clip-first emergency hemostasis for acute esophagogastric variceal bleeding: a retrospective comparative study.",
+        "journal": "Surgical endoscopy",
+        "pubDate": "2026 Oct 1",
+        "studyType": "Journal Article",
+        "authors": "Cui Y, Li J, Zhao B",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 42）。核心观点：该英文报道关注最新动态：Active esophagogastric variceal bleeding can obscure the endoscopic field and ma... 临床提示：该英文报道关注最新动态：We evaluated a clip-first strategy designed to obtain immediate mechanical contr...",
+        "abstract": "Active esophagogastric variceal bleeding can obscure the endoscopic field and make definitive therapy difficult during emergency gastroscopy. We evaluated a clip-first strategy designed to obtain immediate mechanical control before local cyanoacrylate reinforcement or staged secondary prophylaxis. We retrospectively analyzed 115 acute bleeding episodes among 102 adults treated at a single tertiary center. Episodes were assigned to a clip-first group (n = 42) or a conventional emergency endoscopic therapy group without clip-first control (n = 73). Variceal anatomy was reclassified as esophageal varices (EV) only or by the Sarin system for gastric varices. Primary outcomes were technical succe...",
+        "pmid": "42823548",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42823548/",
+        "doiUrl": "https://doi.org/10.1007/s00464-026-13406-z",
+        "url": "https://doi.org/10.1007/s00464-026-13406-z"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US pressures Europe over diesel reserves as Trump threatens export ban...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US pressures Europe over diesel reserves as Trump threatens export ban...”。核心要点：该英文报道关注最新动态：President Donald Trump has threatened to ban diesel exports in a bid...",
+        "titleZh": "该英文报道关注最新动态：Russia strikes second major bridge in Kyiv, mayor says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia strikes second major bridge in Kyiv, mayor says...”。核心要点：该英文报道关注最新动态：The attack on Northern Bridge comes after repeat attacks on another ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 05:26:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 03 Oct 2026 06:27:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Christa Pike in critical condition after surviving two lethal injections, lawyer...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Christa Pike in critical condition after surviving two lethal injections, lawyer...”。核心要点：该英文报道关注最新动态：Pike’s lawyers have asked for her death sentence to be commuted foll...",
+        "titleZh": "该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...”。核心要点：该英文报道关注最新动态：The co-ordinated release is aimed at heading off further price spike...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 01 Oct 2026 22:28:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：NY's governor appoints special prosecutor in Cornell frat rape investigation...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：NY's governor appoints special prosecutor in Cornell frat rape investigation...”。核心要点：该英文报道关注最新动态：The governor said she'd lost faith in prosecutors overseeing the cas...",
+        "titleZh": "该英文报道关注最新动态：US murderer Christa Pike unconscious and on ventilator after failed execution, l...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US murderer Christa Pike unconscious and on ventilator after failed execution, l...”。核心要点：该英文报道关注最新动态：As of Thursday night, Pike remained critically ill and is being trea...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 02:49:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 02 Oct 2026 20:32:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war ...”。核心要点：该英文报道关注最新动态：President Lee Jae Myung also accused Kyiv of \"attempting to provoke ...",
+        "titleZh": "该英文报道关注最新动态：Cornell frat house rape accuser 'under siege' online, says lawyer...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Cornell frat house rape accuser 'under siege' online, says lawyer...”。核心要点：该英文报道关注最新动态：A lawyer for Jane Doe says she is \"not doing well\" amid attempts to ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 03:09:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 03 Oct 2026 02:23:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'...”。核心要点：该英文报道关注最新动态：Israel's prime minister says the pilot who tried to take over the Fl...",
+        "titleZh": "该英文报道关注最新动态：Riot police clash with students as education protests rage in France...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Riot police clash with students as education protests rage in France...”。核心要点：该英文报道关注最新动态：About 735 schools have faced disruption as violent protests over sta...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 01 Oct 2026 19:59:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 02 Oct 2026 21:13:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：US pressures Europe over diesel reserves as Trump threatens export ban...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US pressures Europe over diesel reserves as Trump threatens export ban...”。核心要点：该英文报道关注最新动态：President Donald Trump has threatened to ban diesel exports in a bid...",
+        "titleZh": "该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...”。核心要点：该英文报道关注最新动态：The co-ordinated release is aimed at heading off further price spike...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 06:59:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：UK diesel prices top £2 a litre for first time, RAC says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK diesel prices top £2 a litre for first time, RAC says...”。核心要点：该英文报道关注最新动态：The rise in global oil prices has been pushing up the pump prices of...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 02 Oct 2026 15:50:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：US jobs market sees sharp slowdown ahead of midterm elections...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US jobs market sees sharp slowdown ahead of midterm elections...”。核心要点：该英文报道关注最新动态：Unemployment rose slightly as American employers paused hiring with ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 02 Oct 2026 14:30:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：'It could cost me £10k but I need the money now': Why Gen Z are opting out of pe...",
@@ -63,22 +120,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 01 Oct 2026 23:00:06 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：OpenAI fires workers for mishandling 'sensitive information'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI fires workers for mishandling 'sensitive information'...”。核心要点：该英文报道关注最新动态：The former employees were investigated for sharing data with an outs...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 01:34:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Crypto thieves attack man in home and threaten to kill pregnant wife's baby in '...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Crypto thieves attack man in home and threaten to kill pregnant wife's baby in '...”。核心要点：该英文报道关注最新动态：The man was beaten with hammers until he transferred hundreds of tho...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 01 Oct 2026 23:45:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：What's gone wrong at Nike? How the world's sportswear giant lost its mojo...",
