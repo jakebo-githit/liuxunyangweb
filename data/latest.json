@@ -1,91 +1,77 @@
 {
-  "updatedAt": "2026-10-03T06:33:56.039Z",
+  "updatedAt": "2026-10-04T06:52:08.469Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Methodological and Statistical Considerations for Circulating miR-23b-3p in Hypertensive Nephropathy.",
-        "journal": "American journal of hypertension",
-        "pubDate": "2026 Oct 1",
-        "studyType": "Journal Article",
-        "authors": "Hıra S",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Methodological and Statistical Considerations for Circulating miR-23b-3p in Hype...",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42826507",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42826507/",
-        "doiUrl": "https://doi.org/10.1093/ajh/hpag120",
-        "url": "https://doi.org/10.1093/ajh/hpag120"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Ectopic Duodenal Varices Secondary to Portal Hypertension Caused by Primary Hepatic Neuroendocrine Tumor.",
-        "journal": "ACG case reports journal",
-        "pubDate": "2026 Oct",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Saddique MU, Ali AAA, Ghazouani SM",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：PHNET-associated portal hypertension is uncommon.... 临床提示：该英文报道关注最新动态：Primary hepatic neuroendocrine tumors (PHNETs) are rare, often presenting with a...",
-        "abstract": "Primary hepatic neuroendocrine tumors (PHNETs) are rare, often presenting with abdominal pain, carcinoid syndrome, or incidental imaging findings. PHNET-associated portal hypertension is uncommon. A 45-year-old man with known PHNET presented with massive upper gastrointestinal bleeding from a duodenal ectopic varix and hemorrhagic shock. Emergent esophagogastroduodenoscopy achieved hemostasis with hemoclips. He subsequently developed high-serum-ascites albumin gradient (1.4 g/dL); imaging showed a 23-cm hepatic mass, portal vein dilatation, and splenomegaly. Liver biopsy confirmed a well-differentiated neuroendocrine neoplasm without cirrhosis, supporting tumor-related, noncirrhotic portal h...",
-        "pmid": "42825253",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42825253/",
-        "doiUrl": "https://doi.org/10.14309/crj.0000000000002351",
-        "url": "https://doi.org/10.14309/crj.0000000000002351"
+        "title": "A Twenty-Three-Year Single Center Experience with Elective Transcatheter Coil Embolization of Unruptured Splenic Artery Aneurysms.",
+        "journal": "Journal of vascular and interventional radiology : JVIR",
+        "pubDate": "2026 Oct 3",
+        "studyType": "Journal Article",
+        "authors": "Mills AC, Pesce R, Patel R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 130）。核心观点：该英文报道关注最新动态：Risk factors for major splenic infarct were assessed.... 临床提示：该英文报道关注最新动态：To determine the safety and efficacy of elective coil embolization for unrupture...",
+        "abstract": "To determine the safety and efficacy of elective coil embolization for unruptured splenic artery aneurysms (SAA). A retrospective review of unruptured SAA treated endovascularly from October 2002 to January 2026 was performed. When the inflow vessel was embolized, primary technical success required both cessation of antegrade flow in the inflow vessel and absence of opacification of the aneurysm sac. When the sac alone was embolized or excluded, primary technical success required absence of sac opacification alone. Risk factors for major splenic infarct were assessed. A total of 156 unique aneurysms were treated in 130 patients. Mean aneurysm size was 2.4 ± 1.1 cm. Primary technical success ...",
+        "pmid": "42829104",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42829104/",
+        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.109111",
+        "url": "https://doi.org/10.1016/j.jvir.2026.109111"
       },
       {
-        "title": "Clip-first emergency hemostasis for acute esophagogastric variceal bleeding: a retrospective comparative study.",
-        "journal": "Surgical endoscopy",
-        "pubDate": "2026 Oct 1",
+        "title": "Multicenter, Multivendor Development and Validation of Automated Liver Prescription.",
+        "journal": "Journal of magnetic resonance imaging : JMRI",
+        "pubDate": "2026 Oct 2",
         "studyType": "Journal Article",
-        "authors": "Cui Y, Li J, Zhao B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 42）。核心观点：该英文报道关注最新动态：Active esophagogastric variceal bleeding can obscure the endoscopic field and ma... 临床提示：该英文报道关注最新动态：We evaluated a clip-first strategy designed to obtain immediate mechanical contr...",
-        "abstract": "Active esophagogastric variceal bleeding can obscure the endoscopic field and make definitive therapy difficult during emergency gastroscopy. We evaluated a clip-first strategy designed to obtain immediate mechanical control before local cyanoacrylate reinforcement or staged secondary prophylaxis. We retrospectively analyzed 115 acute bleeding episodes among 102 adults treated at a single tertiary center. Episodes were assigned to a clip-first group (n = 42) or a conventional emergency endoscopic therapy group without clip-first control (n = 73). Variceal anatomy was reclassified as esophageal varices (EV) only or by the Sarin system for gastric varices. Primary outcomes were technical succe...",
-        "pmid": "42823548",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42823548/",
-        "doiUrl": "https://doi.org/10.1007/s00464-026-13406-z",
-        "url": "https://doi.org/10.1007/s00464-026-13406-z"
+        "authors": "Fullerton GC, Starekova J, Buelo CJ",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 012）。核心观点：该英文报道关注最新动态：Manual prescription of liver MRI volumes introduces inter-operator variability a... 临床提示：该英文报道关注最新动态：Artificial intelligence (AI)-based prescription has been demonstrated, but exist...",
+        "abstract": "Manual prescription of liver MRI volumes introduces inter-operator variability and prolongs exam duration. Artificial intelligence (AI)-based prescription has been demonstrated, but existing work has been limited to single-vendor settings. To develop and validate an AI model for automated liver MRI prescription using a large, consecutive, multicenter dataset encompassing multiple vendors, field strengths, localizer sequences, and liver pathologies. Retrospective. A total of 11,012 patients (5928 female) who underwent liver MRI exams across three vendors (GE HealthCare, Philips Healthcare, Siemens Healthineers) at three institutions, split into training/validation/test sets (70/10/20%). Liver...",
+        "pmid": "42827325",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42827325/",
+        "doiUrl": "https://doi.org/10.1002/jmri.70575",
+        "url": "https://doi.org/10.1002/jmri.70575"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Russia strikes second major bridge in Kyiv, mayor says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia strikes second major bridge in Kyiv, mayor says...”。核心要点：该英文报道关注最新动态：The attack on Northern Bridge comes after repeat attacks on another ...",
+        "titleZh": "该英文报道关注最新动态：Tennessee prison chief to resign after Christa Pike's failed execution...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Tennessee prison chief to resign after Christa Pike's failed execution...”。核心要点：该英文报道关注最新动态：Pike's lawyers said the failure \"goes far beyond any one person\". Pi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 03 Oct 2026 06:27:15 GMT",
+        "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Australia investigating Flydubai co-pilot's links to country...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australia investigating Flydubai co-pilot's links to country...”。核心要点：该英文报道关注最新动态：State police and the country's security agency are looking into the ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 04 Oct 2026 06:19:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Cornell president says university 'must do better' after frat house rape allegat...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Cornell president says university 'must do better' after frat house rape allegat...”。核心要点：该英文报道关注最新动态：Michael Kotlikoff described the allegations of a woman who says she ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 04 Oct 2026 00:11:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Russia hits second major bridge in Ukraine's capital Kyiv...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia hits second major bridge in Ukraine's capital Kyiv...”。核心要点：该英文报道关注最新动态：The strike on the Pivnichnyi (Northern) Bridge comes after repeat at...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...”。核心要点：该英文报道关注最新动态：The co-ordinated release is aimed at heading off further price spike...",
+        "titleZh": "该英文报道关注最新动态：'Anger in the streets': Tens of thousands protest in Spain over housing crisis...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Anger in the streets': Tens of thousands protest in Spain over housing crisis...”。核心要点：该英文报道关注最新动态：More than 50 protests took place on Saturday after the government fa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：US murderer Christa Pike unconscious and on ventilator after failed execution, l...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US murderer Christa Pike unconscious and on ventilator after failed execution, l...”。核心要点：该英文报道关注最新动态：As of Thursday night, Pike remained critically ill and is being trea...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 20:32:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Cornell frat house rape accuser 'under siege' online, says lawyer...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Cornell frat house rape accuser 'under siege' online, says lawyer...”。核心要点：该英文报道关注最新动态：A lawyer for Jane Doe says she is \"not doing well\" amid attempts to ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 03 Oct 2026 02:23:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Riot police clash with students as education protests rage in France...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Riot police clash with students as education protests rage in France...”。核心要点：该英文报道关注最新动态：About 735 schools have faced disruption as violent protests over sta...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 21:13:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 04 Oct 2026 03:42:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
@@ -96,6 +82,14 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
         "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Suppliers pile pressure on government over energy bills...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Suppliers pile pressure on government over energy bills...”。核心要点：该英文报道关注最新动态：Immediate action is needed to help households struggling with bills ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 03 Oct 2026 08:58:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：UK diesel prices top £2 a litre for first time, RAC says...",
@@ -120,14 +114,6 @@
         "sourceLang": "English",
         "publishedAt": "Thu, 01 Oct 2026 23:00:06 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：What's gone wrong at Nike? How the world's sportswear giant lost its mojo...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：What's gone wrong at Nike? How the world's sportswear giant lost its mojo...”。核心要点：该英文报道关注最新动态：Several self-inflicted mistakes have cost the biggest sportswear bra...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 01 Oct 2026 23:32:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
