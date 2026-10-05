@@ -1,87 +1,84 @@
 {
-  "updatedAt": "2026-10-04T06:52:08.469Z",
+  "updatedAt": "2026-10-05T07:03:53.832Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "A Twenty-Three-Year Single Center Experience with Elective Transcatheter Coil Embolization of Unruptured Splenic Artery Aneurysms.",
-        "journal": "Journal of vascular and interventional radiology : JVIR",
-        "pubDate": "2026 Oct 3",
-        "studyType": "Journal Article",
-        "authors": "Mills AC, Pesce R, Patel R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 130）。核心观点：该英文报道关注最新动态：Risk factors for major splenic infarct were assessed.... 临床提示：该英文报道关注最新动态：To determine the safety and efficacy of elective coil embolization for unrupture...",
-        "abstract": "To determine the safety and efficacy of elective coil embolization for unruptured splenic artery aneurysms (SAA). A retrospective review of unruptured SAA treated endovascularly from October 2002 to January 2026 was performed. When the inflow vessel was embolized, primary technical success required both cessation of antegrade flow in the inflow vessel and absence of opacification of the aneurysm sac. When the sac alone was embolized or excluded, primary technical success required absence of sac opacification alone. Risk factors for major splenic infarct were assessed. A total of 156 unique aneurysms were treated in 130 patients. Mean aneurysm size was 2.4 ± 1.1 cm. Primary technical success ...",
-        "pmid": "42829104",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42829104/",
-        "doiUrl": "https://doi.org/10.1016/j.jvir.2026.109111",
-        "url": "https://doi.org/10.1016/j.jvir.2026.109111"
-      },
-      {
-        "title": "Multicenter, Multivendor Development and Validation of Automated Liver Prescription.",
-        "journal": "Journal of magnetic resonance imaging : JMRI",
-        "pubDate": "2026 Oct 2",
-        "studyType": "Journal Article",
-        "authors": "Fullerton GC, Starekova J, Buelo CJ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 012）。核心观点：该英文报道关注最新动态：Manual prescription of liver MRI volumes introduces inter-operator variability a... 临床提示：该英文报道关注最新动态：Artificial intelligence (AI)-based prescription has been demonstrated, but exist...",
-        "abstract": "Manual prescription of liver MRI volumes introduces inter-operator variability and prolongs exam duration. Artificial intelligence (AI)-based prescription has been demonstrated, but existing work has been limited to single-vendor settings. To develop and validate an AI model for automated liver MRI prescription using a large, consecutive, multicenter dataset encompassing multiple vendors, field strengths, localizer sequences, and liver pathologies. Retrospective. A total of 11,012 patients (5928 female) who underwent liver MRI exams across three vendors (GE HealthCare, Philips Healthcare, Siemens Healthineers) at three institutions, split into training/validation/test sets (70/10/20%). Liver...",
-        "pmid": "42827325",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42827325/",
-        "doiUrl": "https://doi.org/10.1002/jmri.70575",
-        "url": "https://doi.org/10.1002/jmri.70575"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Tennessee prison chief to resign after Christa Pike's failed execution...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Tennessee prison chief to resign after Christa Pike's failed execution...”。核心要点：该英文报道关注最新动态：Pike's lawyers said the failure \"goes far beyond any one person\". Pi...",
+        "titleZh": "该英文报道关注最新动态：US air force removes all bombers from British military base RAF Fairford...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US air force removes all bombers from British military base RAF Fairford...”。核心要点：该英文报道关注最新动态：No reason has been given for the withdrawal, but it follows a major ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 05 Oct 2026 04:58:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Australia investigating Flydubai co-pilot's links to country...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australia investigating Flydubai co-pilot's links to country...”。核心要点：该英文报道关注最新动态：State police and the country's security agency are looking into the ...",
+        "titleZh": "该英文报道关注最新动态：Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round...”。核心要点：该英文报道关注最新动态：With neither candidate getting more than 50% of the vote, the electi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 04 Oct 2026 06:19:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 05 Oct 2026 03:16:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Cornell president says university 'must do better' after frat house rape allegat...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Cornell president says university 'must do better' after frat house rape allegat...”。核心要点：该英文报道关注最新动态：Michael Kotlikoff described the allegations of a woman who says she ...",
+        "titleZh": "该英文报道关注最新动态：Watch: How Brazil's dramatic election unfolded...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Watch: How Brazil's dramatic election unfolded...”。核心要点：该英文报道关注最新动态：Millions of Brazilians took to the polls on Sunday for the first rou...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 04 Oct 2026 00:11:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 05 Oct 2026 04:51:24 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Russia hits second major bridge in Ukraine's capital Kyiv...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia hits second major bridge in Ukraine's capital Kyiv...”。核心要点：该英文报道关注最新动态：The strike on the Pivnichnyi (Northern) Bridge comes after repeat at...",
+        "titleZh": "该英文报道关注最新动态：Trump unveils 'Super Intelligence Force' to oversee AI policy...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump unveils 'Super Intelligence Force' to oversee AI policy...”。核心要点：该英文报道关注最新动态：The president named his national intelligence chief as the taskforce...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 05 Oct 2026 06:15:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Anger in the streets': Tens of thousands protest in Spain over housing crisis...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Anger in the streets': Tens of thousands protest in Spain over housing crisis...”。核心要点：该英文报道关注最新动态：More than 50 protests took place on Saturday after the government fa...",
+        "titleZh": "该英文报道关注最新动态：France closes up to 500 schools Monday over student protests...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France closes up to 500 schools Monday over student protests...”。核心要点：该英文报道关注最新动态：Lessons will be \"totally or partly suspended\" in some high schools a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 04 Oct 2026 03:42:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 05 Oct 2026 04:49:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：G7 to release millions of barrels of oil and diesel after Trump threat...”。核心要点：该英文报道关注最新动态：The co-ordinated release is aimed at heading off further price spike...",
+        "titleZh": "该英文报道关注最新动态：BT agrees rescue deal to buy broadband operator TalkTalk...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：BT agrees rescue deal to buy broadband operator TalkTalk...”。核心要点：该英文报道关注最新动态：The takeover still needs to be approved by the regulator, but would ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 05 Oct 2026 06:52:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：The job interview question you don't have to answer...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The job interview question you don't have to answer...”。核心要点：该英文报道关注最新动态：Experts explain what you should do if you are asked for your current...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 04 Oct 2026 23:22:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Trump unveils 'Super Intelligence Force' to oversee AI policy...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump unveils 'Super Intelligence Force' to oversee AI policy...”。核心要点：该英文报道关注最新动态：The president named his national intelligence chief as the taskforce...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 05 Oct 2026 06:15:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：How India became dangerously addicted to Chinese imports...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How India became dangerously addicted to Chinese imports...”。核心要点：该英文报道关注最新动态：India’s toy shops provide an unlikely barometer by which to measure ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 05 Oct 2026 01:42:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss"
       },
       {
         "titleZh": "该英文报道关注最新动态：Suppliers pile pressure on government over energy bills...",
@@ -90,30 +87,6 @@
         "sourceLang": "English",
         "publishedAt": "Sat, 03 Oct 2026 08:58:44 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：UK diesel prices top £2 a litre for first time, RAC says...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK diesel prices top £2 a litre for first time, RAC says...”。核心要点：该英文报道关注最新动态：The rise in global oil prices has been pushing up the pump prices of...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 15:50:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：US jobs market sees sharp slowdown ahead of midterm elections...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US jobs market sees sharp slowdown ahead of midterm elections...”。核心要点：该英文报道关注最新动态：Unemployment rose slightly as American employers paused hiring with ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 02 Oct 2026 14:30:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：'It could cost me £10k but I need the money now': Why Gen Z are opting out of pe...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'It could cost me £10k but I need the money now': Why Gen Z are opting out of pe...”。核心要点：该英文报道关注最新动态：A growing number of people are opting out of these schemes due to co...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 01 Oct 2026 23:00:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
