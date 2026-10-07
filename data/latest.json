@@ -1,132 +1,119 @@
 {
-  "updatedAt": "2026-10-06T07:35:54.528Z",
+  "updatedAt": "2026-10-07T07:15:27.549Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Multisystem imaging findings as diagnostic red herrings in Wilson's disease.",
-        "journal": "BMJ case reports",
-        "pubDate": "2026 Oct 5",
-        "studyType": "Journal Article / Case Reports",
-        "authors": "Hassan L, Sleigh E, Giby A",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：A previously well man in his 20s presented with fever, cough, new-onset jaundice... 临床提示：该英文报道关注最新动态：Initial investigations demonstrated marked hepatic synthetic dysfunction....",
-        "abstract": "A previously well man in his 20s presented with fever, cough, new-onset jaundice and a right-sided pleural effusion. Initial investigations demonstrated marked hepatic synthetic dysfunction. Subsequent imaging demonstrated cirrhotic liver morphology with splenomegaly and ascites. Additional findings of gallbladder wall oedema and focal colonic wall thickening broadened the differentials but following specialist radiology review, these abnormalities were recognised as manifestations of portal hypertension rather than separate disease processes.Further investigations confirmed Wilson's disease including Kayser-Fleischer rings, low serum caeruloplasmin, MRI brain consistent with Wilson's diseas...",
-        "pmid": "42833840",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42833840/",
-        "doiUrl": "https://doi.org/10.1136/bcr-2026-274381",
-        "url": "https://doi.org/10.1136/bcr-2026-274381"
-      },
-      {
-        "title": "Mitochondria-associated endoplasmic reticulum membranes facilitate gastric epithelial injury in hypoxia-induced gastric mucosal lesions.",
-        "journal": "Journal of advanced research",
-        "pubDate": "2026 Oct 5",
+        "title": "Fatal rebleeding of a residual duodenal varix caused by portal hemodynamic redistribution after selective embolization.",
+        "journal": "Clinical journal of gastroenterology",
+        "pubDate": "2026 Oct 6",
         "studyType": "Journal Article",
-        "authors": "Tan S, Luo J, Ou X",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Hypoxia following mucosal congestion in clinical practice causes a wide range of... 临床提示：该英文报道关注最新动态：Hypoxia following mucosal congestion in clinical practice causes a wide range of...",
-        "abstract": "Hypoxia following mucosal congestion in clinical practice causes a wide range of gastrointestinal symptoms and induces profound structural and functional perturbations in mitochondria-associated ER membranes (MAMs), which are subcellular compartments whose integrity and stability are regulated by FUN14 domain-containing protein 1 (FUNDC1). To investigate the effect of hypoxia-induced MAMs formation on gastric mucosal lesions in patients with severe hepatic disorders. Liver cirrhosis (LC) and hepatic failure (HF) were selected as representative severe hepatic diseases, and gastric mucosal tissues were collected. We applied the gastrointestinal symptom rating scale (GSRS) and endoscopic images...",
-        "pmid": "42833600",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42833600/",
-        "doiUrl": "https://doi.org/10.1016/j.jare.2026.10.007",
-        "url": "https://doi.org/10.1016/j.jare.2026.10.007"
+        "authors": "Ehara M, Matsuura T, Shinmaru N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Duodenal varices are a rare form of ectopic varices that develop as a consequenc... 临床提示：该英文报道关注最新动态：Due to complex portosystemic collateral pathways, optimal treatment strategies h...",
+        "abstract": "Duodenal varices are a rare form of ectopic varices that develop as a consequence of portal hypertension and may cause life-threatening gastrointestinal bleeding. Due to complex portosystemic collateral pathways, optimal treatment strategies have yet to be established. We herein report a fatal case of ruptured duodenal varices in a man in his 50s with decompensated liver cirrhosis. The patient presented with hematochezia and hemorrhagic shock. Endoscopic hemostasis was unsuccessful, and emergency transileocolic venous obliteration (TIO) was performed. Contrast-enhanced computed tomography revealed three duodenal varices located in the horizontal portion of the duodenum, supplied by the super...",
+        "pmid": "42837087",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42837087/",
+        "doiUrl": "https://doi.org/10.1007/s12328-026-02453-7",
+        "url": "https://doi.org/10.1007/s12328-026-02453-7"
       },
       {
-        "title": "TREATMENT OF PERISTOMAL VARICEAL BLEEDING BY SELECTIVE EMBOLISATION WITHOUT TIPS VIA A TRANSHEPATIC APPROACH.",
-        "journal": "Gastroenterologia y hepatologia",
-        "pubDate": "2026 Oct 5",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Díaz RM, Zorita AP, Rodríguez MVC",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：TREATMENT OF PERISTOMAL VARICEAL BLEEDING BY SELECTIVE EMBOLISATION WITHOUT TIPS...",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42833399",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42833399/",
-        "doiUrl": "https://doi.org/10.1016/j.gastrohep.2026.502868",
-        "url": "https://doi.org/10.1016/j.gastrohep.2026.502868"
+        "title": "Atraumatic Spontaneous Splenic Rupture Complicating Decompensated Chronic Liver Disease With Portal Hypertension: A Case Report.",
+        "journal": "Case reports in radiology",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Ghimire P, Subedi S, Mishra A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Atraumatic spontaneous splenic rupture (ASR) is a rare, potentially fatal condit... 临床提示：该英文报道关注最新动态：We report a 63-year-old male with decompensated chronic liver disease and portal...",
+        "abstract": "Atraumatic spontaneous splenic rupture (ASR) is a rare, potentially fatal condition accounting for fewer than 0.5% of all splenic ruptures, with reported mortality of up to 20% when diagnosis is delayed. We report a 63-year-old male with decompensated chronic liver disease and portal hypertension who presented with acute epigastric pain, progressive abdominal distension, and absolute constipation without antecedent trauma. Abdominal ultrasonography identified splenomegaly with a 5 × 6 cm anechoic intraparenchymal collection with subcapsular and perisplenic extension and moderate hemoperitoneum. Noncontrast computed tomography confirmed parenchymal laceration classified as AAST Grade III/WSES...",
+        "pmid": "42836042",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42836042/",
+        "doiUrl": "https://doi.org/10.1155/crra/3772906",
+        "url": "https://doi.org/10.1155/crra/3772906"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Trump says 'threat' led US to pull bombers from RAF Fairford...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says 'threat' led US to pull bombers from RAF Fairford...”。核心要点：该英文报道关注最新动态：The Pentagon confirmed on Sunday it had removed the B1 bombers from ...",
+        "titleZh": "该英文报道关注最新动态：US death row inmate Christa Pike awake and speaking after failed execution, lawy...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US death row inmate Christa Pike awake and speaking after failed execution, lawy...”。核心要点：该英文报道关注最新动态：Experts and lawyers called the apparent recovery unprecedented, noti...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 07:02:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 07 Oct 2026 07:07:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：France braces for national day of school protests after injuries and mass arrest...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France braces for national day of school protests after injuries and mass arrest...”。核心要点：该英文报道关注最新动态：France prepares for a day of protests in support of students who’ve ...",
+        "titleZh": "该英文报道关注最新动态：Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how t...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how t...”。核心要点：该英文报道关注最新动态：Three years on from the attack on Nir Oz, in which 47 people were ki...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 05 Oct 2026 21:18:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 07 Oct 2026 05:02:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Saudi Arabia urged to spare man sentenced to death over Facebook post...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Saudi Arabia urged to spare man sentenced to death over Facebook post...”。核心要点：该英文报道关注最新动态：Anojan Sivarasa faces execution after he was found guilty of blasphe...",
+        "titleZh": "该英文报道关注最新动态：What is pneumonic plague and how does it spread?...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What is pneumonic plague and how does it spread?...”。核心要点：该英文报道关注最新动态：The death of a worker from a Russian lab that researches plague has ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 05 Oct 2026 22:28:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 15:35:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Separatist party projected to win Quebec election, adding new test to Canada's u...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Separatist party projected to win Quebec election, adding new test to Canada's u...”。核心要点：该英文报道关注最新动态：The Parti Québécois, which secured a minority, has vowed to hold an ...",
+        "titleZh": "该英文报道关注最新动态：Ex-US spy who stashed gold bars in his home admits to $200m scam...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ex-US spy who stashed gold bars in his home admits to $200m scam...”。核心要点：该英文报道关注最新动态：David Rush, who also confessed to providing secrets to a foreign gov...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 02:37:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 19:53:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nigeria mourns as 32 killed in military plane crash...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nigeria mourns as 32 killed in military plane crash...”。核心要点：该英文报道关注最新动态：President Bola Tinubu describes the crash as a \"painful moment\" for ...",
+        "titleZh": "该英文报道关注最新动态：A beautiful Himalayan bird is changing its voice due to human activity, research...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：A beautiful Himalayan bird is changing its voice due to human activity, research...”。核心要点：该英文报道关注最新动态：A sharp increase in human activity is affecting the way the Himalaya...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 06:33:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 23:07:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：We're saving £100 a month for our kids but they won't get it until they're 57...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：We're saving £100 a month for our kids but they won't get it until they're 57...”。核心要点：该英文报道关注最新动态：A growing number of parents are opening retirement funds for their c...",
+        "titleZh": "该英文报道关注最新动态：Incredible or catastrophic? Jaguar unveils its polarising electric car...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Incredible or catastrophic? Jaguar unveils its polarising electric car...”。核心要点：该英文报道关注最新动态：Two years after JLR relaunched Jaguar into a blizzard of controversy...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 06:59:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 07 Oct 2026 02:58:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Lego fraudster among last year's most high-profile insurance scammers...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Lego fraudster among last year's most high-profile insurance scammers...”。核心要点：该英文报道关注最新动态：The person was sentenced to 28 months in prison after an investigati...",
+        "titleZh": "该英文报道关注最新动态：Equinor says it may stop investing in UK if oil and gas fields do not get go-ahe...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Equinor says it may stop investing in UK if oil and gas fields do not get go-ahe...”。核心要点：该英文报道关注最新动态：The boss of the Norwegian state company says further investment in t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 07:03:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 23:01:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：OpenAI admits response to Australian government hacks 'not good enough'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI admits response to Australian government hacks 'not good enough'...”。核心要点：该英文报道关注最新动态：Top executive Jason Kwon tells hearing company has added \"more preca...",
+        "titleZh": "该英文报道关注最新动态：Froyo's made a comeback. But at £12 a tub will it last?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Froyo's made a comeback. But at £12 a tub will it last?...”。核心要点：该英文报道关注最新动态：Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has m...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 06:53:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 23:01:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Last call for the mall? How shopping centres are reinventing themselves...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Last call for the mall? How shopping centres are reinventing themselves...”。核心要点：该英文报道关注最新动态：In the internet age, medium-sized retail hubs are looking for new wa...",
+        "titleZh": "该英文报道关注最新动态：Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'...”。核心要点：该英文报道关注最新动态：Order of the Sinking Star is due out on Thursday and has roughly 1,5...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 05:28:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 23:01:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Wood Group offshore workers launch 48-hour strike in row over pay...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Wood Group offshore workers launch 48-hour strike in row over pay...”。核心要点：该英文报道关注最新动态：The Unite union said workers had faced the threat of fire and rehire...",
+        "titleZh": "该英文报道关注最新动态：What can I do to protect myself after 'Asos hacked' message?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：What can I do to protect myself after 'Asos hacked' message?...”。核心要点：该英文报道关注最新动态：Asos says people should not engage with the unauthorised notificatio...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 04:57:20 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 06 Oct 2026 19:17:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
