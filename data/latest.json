@@ -1,119 +1,145 @@
 {
-  "updatedAt": "2026-10-07T07:15:27.549Z",
+  "updatedAt": "2026-10-08T07:25:29.438Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Fatal rebleeding of a residual duodenal varix caused by portal hemodynamic redistribution after selective embolization.",
-        "journal": "Clinical journal of gastroenterology",
-        "pubDate": "2026 Oct 6",
+        "title": "An international multicenter analysis of the outcome of pediatric first variceal hemorrhage.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 Oct 7",
         "studyType": "Journal Article",
-        "authors": "Ehara M, Matsuura T, Shinmaru N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Duodenal varices are a rare form of ectopic varices that develop as a consequenc... 临床提示：该英文报道关注最新动态：Due to complex portosystemic collateral pathways, optimal treatment strategies h...",
-        "abstract": "Duodenal varices are a rare form of ectopic varices that develop as a consequence of portal hypertension and may cause life-threatening gastrointestinal bleeding. Due to complex portosystemic collateral pathways, optimal treatment strategies have yet to be established. We herein report a fatal case of ruptured duodenal varices in a man in his 50s with decompensated liver cirrhosis. The patient presented with hematochezia and hemorrhagic shock. Endoscopic hemostasis was unsuccessful, and emergency transileocolic venous obliteration (TIO) was performed. Contrast-enhanced computed tomography revealed three duodenal varices located in the horizontal portion of the duodenum, supplied by the super...",
-        "pmid": "42837087",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42837087/",
-        "doiUrl": "https://doi.org/10.1007/s12328-026-02453-7",
-        "url": "https://doi.org/10.1007/s12328-026-02453-7"
+        "authors": "Shneider BL, Gao X, Guo K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 21）。核心观点：该英文报道关注最新动态：Management of portal hypertension in children including primary prophylaxis of v... 临床提示：该英文报道关注最新动态：Factors associated with overall survival (OS) and ......",
+        "abstract": "Management of portal hypertension in children including primary prophylaxis of variceal bleeding is controversial due to limited understanding of mortality risk after first variceal hemorrhage (1VH). This international multicenter study was designed to advance understanding of outcomes after pediatric 1VH. Center-specific characteristics and approaches to portal hypertension were determined at 44 international sites. K-means clustered the centers based upon volume and complexity of approaches [cluster 1 high (n=5), cluster 2 low (n=21), cluster 3 intermediate (n=18]). Clinical features and outcomes after 1VH were available from 345 subjects. Factors associated with overall survival (OS) and ...",
+        "pmid": "42842335",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42842335/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001881",
+        "url": "https://doi.org/10.1097/HEP.0000000000001881"
       },
       {
-        "title": "Atraumatic Spontaneous Splenic Rupture Complicating Decompensated Chronic Liver Disease With Portal Hypertension: A Case Report.",
-        "journal": "Case reports in radiology",
-        "pubDate": "2026",
+        "title": "AASLD EXPO: Liver biopsy.",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "pubDate": "2026 Oct 7",
         "studyType": "Journal Article",
-        "authors": "Ghimire P, Subedi S, Mishra A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Atraumatic spontaneous splenic rupture (ASR) is a rare, potentially fatal condit... 临床提示：该英文报道关注最新动态：We report a 63-year-old male with decompensated chronic liver disease and portal...",
-        "abstract": "Atraumatic spontaneous splenic rupture (ASR) is a rare, potentially fatal condition accounting for fewer than 0.5% of all splenic ruptures, with reported mortality of up to 20% when diagnosis is delayed. We report a 63-year-old male with decompensated chronic liver disease and portal hypertension who presented with acute epigastric pain, progressive abdominal distension, and absolute constipation without antecedent trauma. Abdominal ultrasonography identified splenomegaly with a 5 × 6 cm anechoic intraparenchymal collection with subcapsular and perisplenic extension and moderate hemoperitoneum. Noncontrast computed tomography confirmed parenchymal laceration classified as AAST Grade III/WSES...",
-        "pmid": "42836042",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42836042/",
-        "doiUrl": "https://doi.org/10.1155/crra/3772906",
-        "url": "https://doi.org/10.1155/crra/3772906"
+        "authors": "Verna EC, Adler DG, Kappus MR",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Liver biopsy is a foundational tool in hepatology, providing direct histologic a... 临床提示：该英文报道关注最新动态：Although noninvasive approaches have substantially reduced the need for biopsy i...",
+        "abstract": "Liver biopsy is a foundational tool in hepatology, providing direct histologic assessment of hepatic parenchyma. Although noninvasive approaches have substantially reduced the need for biopsy in practice, it continues to play a critical role in diagnosis, staging, and therapeutic decision-making across a broad spectrum of liver disorders. This Expert Practice Opinion (EXPO) document was created by a writing group of subject matter experts appointed by the AASLD Practice Guidelines Committee. Writing group members performed a targeted literature review and created expert opinion statements that were unanimously agreed upon. Histopathologic evaluation of the liver is utilized for 3 major indic...",
+        "pmid": "42841770",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42841770/",
+        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001828",
+        "url": "https://doi.org/10.1097/HEP.0000000000001828"
+      },
+      {
+        "title": "How accurate is EUS-guided direct portal vein pressure measurement? A comparison with intraoperative measurements.",
+        "journal": "Gut",
+        "pubDate": "2026 Oct 7",
+        "studyType": "Journal Article",
+        "authors": "Singh AP, Nabi Z, Kulkarni A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：How accurate is EUS-guided direct portal vein pressure measurement? A comparison...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "40701791",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40701791/",
+        "doiUrl": "https://doi.org/10.1136/gutjnl-2025-335661",
+        "url": "https://doi.org/10.1136/gutjnl-2025-335661"
+      },
+      {
+        "title": "When Liver Disease Misleads the Diagnosis: Two Cases of TAFRO Syndrome With Porto-Sinusoidal Vascular Disease.",
+        "journal": "EJHaem",
+        "pubDate": "2026 Oct",
+        "studyType": "Journal Article",
+        "authors": "Dassy L, Poletti F, Hafraoui K",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：We report two women with TAFRO syndrome associated with portal-sinusoidal vascul... 临床提示：该英文报道关注最新动态：TAFRO syndrome is a rare inflammatory disorder whose hepatic manifestations may ...",
+        "abstract": "TAFRO syndrome is a rare inflammatory disorder whose hepatic manifestations may mimic decompensated cirrhosis. We report two women with TAFRO syndrome associated with portal-sinusoidal vascular disorder (PSVD), a rare cause of non-cirrhotic portal hypertension. In both cases, liver biopsy excluded cirrhosis and confirmed PSVD. Clinical outcomes were markedly different. One patient achieved sustained disease control with anti-IL-6 therapy and remained stable for more than 6 years, whereas the other developed rapidly progressive and fatal disease. PSVD may represent an underrecognized hepatic manifestation of TAFRO syndrome. Recognizing this association may facilitate earlier diagnosis, avoid ...",
+        "pmid": "42840275",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42840275/",
+        "doiUrl": "https://doi.org/10.1002/jha2.70414",
+        "url": "https://doi.org/10.1002/jha2.70414"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US death row inmate Christa Pike awake and speaking after failed execution, lawy...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US death row inmate Christa Pike awake and speaking after failed execution, lawy...”。核心要点：该英文报道关注最新动态：Experts and lawyers called the apparent recovery unprecedented, noti...",
+        "titleZh": "该英文报道关注最新动态：US and Lebanon protecting wanted Syrian general, BBC finds...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US and Lebanon protecting wanted Syrian general, BBC finds...”。核心要点：该英文报道关注最新动态：Bassam al-Hassan, linked to reporter Austin Tice's abduction, is bei...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 07 Oct 2026 07:07:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 05:00:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how t...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how t...”。核心要点：该英文报道关注最新动态：Three years on from the attack on Nir Oz, in which 47 people were ki...",
+        "titleZh": "该英文报道关注最新动态：Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband sa...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband sa...”。核心要点：该英文报道关注最新动态：Israel said in September it would act in response to UK sanctions on...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 07 Oct 2026 05:02:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 07:06:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：What is pneumonic plague and how does it spread?...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What is pneumonic plague and how does it spread?...”。核心要点：该英文报道关注最新动态：The death of a worker from a Russian lab that researches plague has ...",
+        "titleZh": "该英文报道关注最新动态：Texas carries out first US execution since Christa Pike's botched lethal injecti...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Texas carries out first US execution since Christa Pike's botched lethal injecti...”。核心要点：该英文报道关注最新动态：Lawyers for Jamaal Howard had asked a judge to pause the execution a...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 15:35:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 03:02:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ex-US spy who stashed gold bars in his home admits to $200m scam...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ex-US spy who stashed gold bars in his home admits to $200m scam...”。核心要点：该英文报道关注最新动态：David Rush, who also confessed to providing secrets to a foreign gov...",
+        "titleZh": "该英文报道关注最新动态：Spanish pensioner whose eviction sparked nationwide protests dies...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Spanish pensioner whose eviction sparked nationwide protests dies...”。核心要点：该英文报道关注最新动态：Maricarmen Abascal, 87, was forcibly removed on a stretcher from her...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 19:53:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 07:15:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：A beautiful Himalayan bird is changing its voice due to human activity, research...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：A beautiful Himalayan bird is changing its voice due to human activity, research...”。核心要点：该英文报道关注最新动态：A sharp increase in human activity is affecting the way the Himalaya...",
+        "titleZh": "该英文报道关注最新动态：Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90...”。核心要点：该英文报道关注最新动态：Pioneering computer scientist led the development of the software fo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 23:07:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 05:10:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Incredible or catastrophic? Jaguar unveils its polarising electric car...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Incredible or catastrophic? Jaguar unveils its polarising electric car...”。核心要点：该英文报道关注最新动态：Two years after JLR relaunched Jaguar into a blizzard of controversy...",
+        "titleZh": "该英文报道关注最新动态：'Come all the way' back to EU, French finance minister tells UK...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Come all the way' back to EU, French finance minister tells UK...”。核心要点：该英文报道关注最新动态：Roland Lescure tells the BBC that being in the bloc enables members ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 07 Oct 2026 02:58:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 04:02:26 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Equinor says it may stop investing in UK if oil and gas fields do not get go-ahe...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Equinor says it may stop investing in UK if oil and gas fields do not get go-ahe...”。核心要点：该英文报道关注最新动态：The boss of the Norwegian state company says further investment in t...",
+        "titleZh": "该英文报道关注最新动态：'Stop throwing shade' - the woman trying to stop firms leaving the UK...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Stop throwing shade' - the woman trying to stop firms leaving the UK...”。核心要点：该英文报道关注最新动态：British people need more incentives to invest in big firms listed in...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 23:01:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 07 Oct 2026 23:00:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Froyo's made a comeback. But at £12 a tub will it last?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Froyo's made a comeback. But at £12 a tub will it last?...”。核心要点：该英文报道关注最新动态：Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has m...",
+        "titleZh": "该英文报道关注最新动态：Hedgehog among four animals chosen to feature on new banknotes...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Hedgehog among four animals chosen to feature on new banknotes...”。核心要点：该英文报道关注最新动态：The decision comes after nearly half a million people voted on a sho...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 23:01:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 07 Oct 2026 23:01:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'...”。核心要点：该英文报道关注最新动态：Order of the Sinking Star is due out on Thursday and has roughly 1,5...",
+        "titleZh": "该英文报道关注最新动态：We spent thousands on a Tui river cruise but ended up on coach trips...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：We spent thousands on a Tui river cruise but ended up on coach trips...”。核心要点：该英文报道关注最新动态：Passengers have described their anger after their itineraries change...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 23:01:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 07:11:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：What can I do to protect myself after 'Asos hacked' message?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：What can I do to protect myself after 'Asos hacked' message?...”。核心要点：该英文报道关注最新动态：Asos says people should not engage with the unauthorised notificatio...",
+        "titleZh": "该英文报道关注最新动态：AI chip boom pushes Samsung profits to record $80bn...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI chip boom pushes Samsung profits to record $80bn...”。核心要点：该英文报道关注最新动态：The tech giant is also expected to get a boost from its latest foldi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 06 Oct 2026 19:17:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 01:59:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
