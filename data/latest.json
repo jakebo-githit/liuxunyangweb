@@ -1,145 +1,145 @@
 {
-  "updatedAt": "2026-10-08T07:25:29.438Z",
+  "updatedAt": "2026-10-09T07:25:53.404Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "An international multicenter analysis of the outcome of pediatric first variceal hemorrhage.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Oct 7",
-        "studyType": "Journal Article",
-        "authors": "Shneider BL, Gao X, Guo K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 21）。核心观点：该英文报道关注最新动态：Management of portal hypertension in children including primary prophylaxis of v... 临床提示：该英文报道关注最新动态：Factors associated with overall survival (OS) and ......",
-        "abstract": "Management of portal hypertension in children including primary prophylaxis of variceal bleeding is controversial due to limited understanding of mortality risk after first variceal hemorrhage (1VH). This international multicenter study was designed to advance understanding of outcomes after pediatric 1VH. Center-specific characteristics and approaches to portal hypertension were determined at 44 international sites. K-means clustered the centers based upon volume and complexity of approaches [cluster 1 high (n=5), cluster 2 low (n=21), cluster 3 intermediate (n=18]). Clinical features and outcomes after 1VH were available from 345 subjects. Factors associated with overall survival (OS) and ...",
-        "pmid": "42842335",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42842335/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001881",
-        "url": "https://doi.org/10.1097/HEP.0000000000001881"
+        "title": "Portopulmonary hypertension: an integrated approach to diagnosis, risk stratification, and management.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 Oct 8",
+        "studyType": "Journal Article / Review",
+        "authors": "Donate J, Del Prado S, Tenes A",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Despite advances in hemodynamic definitions and targeted therapies, PoPH remains... 临床提示：该英文报道关注最新动态：Despite advances in hemodynamic definitions and targeted therapies, PoPH remains...",
+        "abstract": "Portopulmonary hypertension (PoPH) is a complex and underrecognized form of pulmonary arterial hypertension arising in the setting of portal hypertension, in which outcomes are driven by the interplay between pulmonary vascular disease and liver dysfunction. Despite advances in hemodynamic definitions and targeted therapies, PoPH remains associated with significant morbidity and mortality, largely due to delayed diagnosis, challenges in risk stratification, and the absence of disease-specific management strategies. Recent insights support a paradigm shift from a purely hemodynamic view toward an integrated model encompassing pulmonary vascular load, right ventricular adaptation and hepatic r...",
+        "pmid": "42849848",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849848/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102466",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102466"
       },
       {
-        "title": "AASLD EXPO: Liver biopsy.",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Oct 7",
-        "studyType": "Journal Article",
-        "authors": "Verna EC, Adler DG, Kappus MR",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Liver biopsy is a foundational tool in hepatology, providing direct histologic a... 临床提示：该英文报道关注最新动态：Although noninvasive approaches have substantially reduced the need for biopsy i...",
-        "abstract": "Liver biopsy is a foundational tool in hepatology, providing direct histologic assessment of hepatic parenchyma. Although noninvasive approaches have substantially reduced the need for biopsy in practice, it continues to play a critical role in diagnosis, staging, and therapeutic decision-making across a broad spectrum of liver disorders. This Expert Practice Opinion (EXPO) document was created by a writing group of subject matter experts appointed by the AASLD Practice Guidelines Committee. Writing group members performed a targeted literature review and created expert opinion statements that were unanimously agreed upon. Histopathologic evaluation of the liver is utilized for 3 major indic...",
-        "pmid": "42841770",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42841770/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001828",
-        "url": "https://doi.org/10.1097/HEP.0000000000001828"
+        "title": "Mapping the preclinical therapeutic landscape of cirrhotic portal hypertension: a systematic evidence map.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 Oct 8",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Guixé-Muntet S, Fernández-Iglesias A, Arreaza-Gil V",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Portal hypertension has a limited pharmacological armamentarium despite decades ... 临床提示：该英文报道关注最新动态：We mapped the experimental architecture of this literature, independently of rep...",
+        "abstract": "Portal hypertension has a limited pharmacological armamentarium despite decades of preclinical therapeutic research. We mapped the experimental architecture of this literature, independently of reported treatment efficacy. PubMed/MEDLINE was searched from inception to March 31, 2026. Two independent title-and-abstract screening procedures identified 833 records retained by at least one screen; 540 formed a concordant core retained by both. Records were classified using a prespecified taxonomy of therapeutic strategy, intervention modality, animal model, species, sex, treatment schedule and reporting features. Global counts included all records; variable-specific distributions used available-...",
+        "pmid": "42849845",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849845/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102463",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102463"
       },
       {
-        "title": "How accurate is EUS-guided direct portal vein pressure measurement? A comparison with intraoperative measurements.",
-        "journal": "Gut",
-        "pubDate": "2026 Oct 7",
+        "title": "Endoscopy timing in managing acute esophagogastric variceal bleeding: a multicenter retrospective study.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 Oct 8",
         "studyType": "Journal Article",
-        "authors": "Singh AP, Nabi Z, Kulkarni A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：How accurate is EUS-guided direct portal vein pressure measurement? A comparison...",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "40701791",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/40701791/",
-        "doiUrl": "https://doi.org/10.1136/gutjnl-2025-335661",
-        "url": "https://doi.org/10.1136/gutjnl-2025-335661"
+        "authors": "Li X, Wang C, Li Q",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Patients suffering from acute esophagogastric variceal bleeding (AEGVB) frequent... 临床提示：该英文报道关注最新动态：Although endoscopy is the preferred intervention for AEGVB, the optimal timing f...",
+        "abstract": "Patients suffering from acute esophagogastric variceal bleeding (AEGVB) frequently face unfavorable prognoses. Although endoscopy is the preferred intervention for AEGVB, the optimal timing for its administration to enhance patient outcomes remains a subject of ongoing debate. This study encompassed patients with cirrhosis who presented with AEGVB and received endoscopic treatment at three major tertiary hospitals in Shandong Province, China, from January 2017 to July 2024. Participants were stratified based on the time interval from hospital admission to endoscopic intervention (<12 hours vs. ≥12 hours; <24 hours vs. ≥24 hours; <48 hours vs. ≥48 hours; <72 hours vs. ≥72 hours). Propensity s...",
+        "pmid": "42849843",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849843/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102459",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102459"
       },
       {
-        "title": "When Liver Disease Misleads the Diagnosis: Two Cases of TAFRO Syndrome With Porto-Sinusoidal Vascular Disease.",
-        "journal": "EJHaem",
-        "pubDate": "2026 Oct",
+        "title": "Incidence and Risk Factors for Development of Portal Hypertension and Sinusoidal Liver Injury Associated with T-DM1 in HER2-Positive Breast Cancer.",
+        "journal": "Cancer research and treatment",
+        "pubDate": "2026 Oct 6",
         "studyType": "Journal Article",
-        "authors": "Dassy L, Poletti F, Hafraoui K",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：We report two women with TAFRO syndrome associated with portal-sinusoidal vascul... 临床提示：该英文报道关注最新动态：TAFRO syndrome is a rare inflammatory disorder whose hepatic manifestations may ...",
-        "abstract": "TAFRO syndrome is a rare inflammatory disorder whose hepatic manifestations may mimic decompensated cirrhosis. We report two women with TAFRO syndrome associated with portal-sinusoidal vascular disorder (PSVD), a rare cause of non-cirrhotic portal hypertension. In both cases, liver biopsy excluded cirrhosis and confirmed PSVD. Clinical outcomes were markedly different. One patient achieved sustained disease control with anti-IL-6 therapy and remained stable for more than 6 years, whereas the other developed rapidly progressive and fatal disease. PSVD may represent an underrecognized hepatic manifestation of TAFRO syndrome. Recognizing this association may facilitate earlier diagnosis, avoid ...",
-        "pmid": "42840275",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42840275/",
-        "doiUrl": "https://doi.org/10.1002/jha2.70414",
-        "url": "https://doi.org/10.1002/jha2.70414"
+        "authors": "Park HW, Jang SY, Choi JY",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：While an association between trastuzumab emtansine (T-DM1) and development of po... 临床提示：该英文报道关注最新动态：HER2-positive breast cancer patients treated with T-DM1 as adjuvant or palliativ...",
+        "abstract": "While an association between trastuzumab emtansine (T-DM1) and development of portal hypertension has been suggested, clinical studies on the incidence and risk factors remain limited. HER2-positive breast cancer patients treated with T-DM1 as adjuvant or palliative therapy were retrospectively enrolled. The composite endpoint of portal hypertension and sinusoidal liver injury was defined as development of splenomegaly and at least one among gastroesophageal varices, spontaneous portosystemic shunt, or portal hypertensive ascites; or biopsy-confirmed sinusoidal obstruction syndrome. Splenomegaly was defined as ≥50% increase in spleen volume, measured from CT images using a deep learning algo...",
+        "pmid": "42845032",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42845032/",
+        "doiUrl": "https://doi.org/10.4143/crt.2025.1385",
+        "url": "https://doi.org/10.4143/crt.2025.1385"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US and Lebanon protecting wanted Syrian general, BBC finds...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US and Lebanon protecting wanted Syrian general, BBC finds...”。核心要点：该英文报道关注最新动态：Bassam al-Hassan, linked to reporter Austin Tice's abduction, is bei...",
+        "titleZh": "该英文报道关注最新动态：Firing squad execution to be livestreamed, Pentagon says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Firing squad execution to be livestreamed, Pentagon says...”。核心要点：该英文报道关注最新动态：Pete Hegseth says the execution will be public, but a legal expert s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 05:00:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 07:05:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband sa...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband sa...”。核心要点：该英文报道关注最新动态：Israel said in September it would act in response to UK sanctions on...",
+        "titleZh": "该英文报道关注最新动态：Suspect linked to Monaco bomb attack on millionaire speaks to BBC...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspect linked to Monaco bomb attack on millionaire speaks to BBC...”。核心要点：该英文报道关注最新动态：Vitalii Zhykovych gives his own account of the attempted assassinati...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 07:06:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 23:11:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Texas carries out first US execution since Christa Pike's botched lethal injecti...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Texas carries out first US execution since Christa Pike's botched lethal injecti...”。核心要点：该英文报道关注最新动态：Lawyers for Jamaal Howard had asked a judge to pause the execution a...",
+        "titleZh": "该英文报道关注最新动态：ICE agent shoots man in New York City...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：ICE agent shoots man in New York City...”。核心要点：该英文报道关注最新动态：The mayor of New York expressed outrage at the shooting which the De...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 03:02:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 04:26:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Spanish pensioner whose eviction sparked nationwide protests dies...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Spanish pensioner whose eviction sparked nationwide protests dies...”。核心要点：该英文报道关注最新动态：Maricarmen Abascal, 87, was forcibly removed on a stretcher from her...",
+        "titleZh": "该英文报道关注最新动态：Russian strike on buses kills at least 30, say officials, as deadly attacks on U...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian strike on buses kills at least 30, say officials, as deadly attacks on U...”。核心要点：该英文报道关注最新动态：Ukraine accused Russia of targeting two crowded vehicles in the fron...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 07:15:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 16:31:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90...”。核心要点：该英文报道关注最新动态：Pioneering computer scientist led the development of the software fo...",
+        "titleZh": "该英文报道关注最新动态：Protesters blame 'vulture funds' for Spain's housing crisis...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Protesters blame 'vulture funds' for Spain's housing crisis...”。核心要点：该英文报道关注最新动态：Hundreds have pitched their tents in central Madrid, while the Spani...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 05:10:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 19:10:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：'Come all the way' back to EU, French finance minister tells UK...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Come all the way' back to EU, French finance minister tells UK...”。核心要点：该英文报道关注最新动态：Roland Lescure tells the BBC that being in the bloc enables members ...",
+        "titleZh": "该英文报道关注最新动态：Trump wants to reduce the cost of fuel as the midterms loom - will it work?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump wants to reduce the cost of fuel as the midterms loom - will it work?...”。核心要点：该英文报道关注最新动态：The price of fuel has soared as the cost of living emerges as a key ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 04:02:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 04:55:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Stop throwing shade' - the woman trying to stop firms leaving the UK...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Stop throwing shade' - the woman trying to stop firms leaving the UK...”。核心要点：该英文报道关注最新动态：British people need more incentives to invest in big firms listed in...",
+        "titleZh": "该英文报道关注最新动态：'Add me to WhatsApp' scam calls to be investigated...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Add me to WhatsApp' scam calls to be investigated...”。核心要点：该英文报道关注最新动态：The UK's data watchdog is investigating a spike in complaints about ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 07 Oct 2026 23:00:55 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 23:05:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Hedgehog among four animals chosen to feature on new banknotes...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Hedgehog among four animals chosen to feature on new banknotes...”。核心要点：该英文报道关注最新动态：The decision comes after nearly half a million people voted on a sho...",
+        "titleZh": "该英文报道关注最新动态：'I don't know what my partner earns': How soon into dating should you reveal you...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I don't know what my partner earns': How soon into dating should you reveal you...”。核心要点：该英文报道关注最新动态：Talking about salary, spending habits and debt can be some of dating...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 07 Oct 2026 23:01:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 23:01:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：We spent thousands on a Tui river cruise but ended up on coach trips...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：We spent thousands on a Tui river cruise but ended up on coach trips...”。核心要点：该英文报道关注最新动态：Passengers have described their anger after their itineraries change...",
+        "titleZh": "该英文报道关注最新动态：Mark Zuckerberg has an image problem - so why is Meta's business booming?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Mark Zuckerberg has an image problem - so why is Meta's business booming?...”。核心要点：该英文报道关注最新动态：A new film paints the Meta founder as a villain. But the tech firm s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 07:11:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 08 Oct 2026 23:14:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：AI chip boom pushes Samsung profits to record $80bn...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI chip boom pushes Samsung profits to record $80bn...”。核心要点：该英文报道关注最新动态：The tech giant is also expected to get a boost from its latest foldi...",
+        "titleZh": "该英文报道关注最新动态：Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen...”。核心要点：该英文报道关注最新动态：Firmus said it had made the decision due to \"recent market volatilit...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 01:59:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 07:14:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
