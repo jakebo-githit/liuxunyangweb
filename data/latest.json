@@ -1,145 +1,159 @@
 {
-  "updatedAt": "2026-10-09T07:25:53.404Z",
+  "updatedAt": "2026-10-10T07:07:50.751Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Rosmarinic acid alleviates renal tubular injury in obesity-related hypertension by inhibiting the IL-18R1/MYD88/IRAK4 pathway.",
+        "journal": "European journal of pharmacology",
+        "pubDate": "2026 Oct 9",
+        "studyType": "Journal Article",
+        "authors": "Wang J, Zhou Y, Wang L",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：In this study, the results showed that in OBH rats, RA significantly decreased b... 临床提示：该英文报道关注最新动态：Renal tubular injury induced by pro-inflammatory cytokines is the key pathologic...",
+        "abstract": "Renal tubular injury induced by pro-inflammatory cytokines is the key pathological basis for the progression of obesity-related hypertensive (OBH) nephropathy. Rosmarinic acid (RA) is an important active ingredient in many traditional Chinese medicines and exhibits a variety of pharmacological properties in the treatment of kidney diseases. Further work is needed to understand the underlying molecular mechanisms. In this study, the results showed that in OBH rats, RA significantly decreased blood pressure and Lee index, and improved pathological injury of the renal tubulointerstitial region. Luminex liquid chip assay revealed high levels of IL-18 in the circulation of OBH rats, and that RA h...",
+        "pmid": "42854813",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42854813/",
+        "doiUrl": "https://doi.org/10.1016/j.ejphar.2026.179404",
+        "url": "https://doi.org/10.1016/j.ejphar.2026.179404"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Portopulmonary hypertension: an integrated approach to diagnosis, risk stratification, and management.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Oct 8",
-        "studyType": "Journal Article / Review",
-        "authors": "Donate J, Del Prado S, Tenes A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Despite advances in hemodynamic definitions and targeted therapies, PoPH remains... 临床提示：该英文报道关注最新动态：Despite advances in hemodynamic definitions and targeted therapies, PoPH remains...",
-        "abstract": "Portopulmonary hypertension (PoPH) is a complex and underrecognized form of pulmonary arterial hypertension arising in the setting of portal hypertension, in which outcomes are driven by the interplay between pulmonary vascular disease and liver dysfunction. Despite advances in hemodynamic definitions and targeted therapies, PoPH remains associated with significant morbidity and mortality, largely due to delayed diagnosis, challenges in risk stratification, and the absence of disease-specific management strategies. Recent insights support a paradigm shift from a purely hemodynamic view toward an integrated model encompassing pulmonary vascular load, right ventricular adaptation and hepatic r...",
-        "pmid": "42849848",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849848/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102466",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102466"
+        "title": "Lean Metabolic Dysfunction-Associated Steatotic Liver Disease: A Comparative Analysis of Hepatic and Oncological Outcomes.",
+        "journal": "Journal of clinical gastroenterology",
+        "pubDate": "2026 Nov-Dec 01",
+        "studyType": "Journal Article / Comparative Study",
+        "authors": "Desai C, Lohani S, Sharma AR",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To compare outcomes of MASLD in obese and nonobese populations.... 临床提示：该英文报道关注最新动态：MASLD is emerging as one of the leading causes of liver failure and liver-relate...",
+        "abstract": "To compare outcomes of MASLD in obese and nonobese populations. MASLD is emerging as one of the leading causes of liver failure and liver-related morbidity and mortality, with an increasing prevalence in the nonobese or lean population. The purpose of this study is to compare hepatic and oncological outcomes between MASLD patients with lean BMI and nonlean BMI. The National Inpatient Sample (NIS) was queried from 2016 to 2020 for adult hospitalizations with MASLD. Exclusion criteria included concurrent diagnoses of viral hepatitis, alcoholic hepatitis, primary biliary cholangitis, hereditary hemochromatosis, autoimmune hepatitis, or Wilson disease. Outcomes of MASLD and its complications wer...",
+        "pmid": "39998985",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/39998985/",
+        "doiUrl": "https://doi.org/10.1097/MCG.0000000000002153",
+        "url": "https://doi.org/10.1097/MCG.0000000000002153"
       },
       {
-        "title": "Mapping the preclinical therapeutic landscape of cirrhotic portal hypertension: a systematic evidence map.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Oct 8",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Guixé-Muntet S, Fernández-Iglesias A, Arreaza-Gil V",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Portal hypertension has a limited pharmacological armamentarium despite decades ... 临床提示：该英文报道关注最新动态：We mapped the experimental architecture of this literature, independently of rep...",
-        "abstract": "Portal hypertension has a limited pharmacological armamentarium despite decades of preclinical therapeutic research. We mapped the experimental architecture of this literature, independently of reported treatment efficacy. PubMed/MEDLINE was searched from inception to March 31, 2026. Two independent title-and-abstract screening procedures identified 833 records retained by at least one screen; 540 formed a concordant core retained by both. Records were classified using a prespecified taxonomy of therapeutic strategy, intervention modality, animal model, species, sex, treatment schedule and reporting features. Global counts included all records; variable-specific distributions used available-...",
-        "pmid": "42849845",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849845/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102463",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102463"
-      },
-      {
-        "title": "Endoscopy timing in managing acute esophagogastric variceal bleeding: a multicenter retrospective study.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Oct 8",
+        "title": "Evaluating periportal fibrosis in schistosomiasis mansoni using the ELF [Enhanced Liver Fibrosis] score: A pilot study.",
+        "journal": "PLoS neglected tropical diseases",
+        "pubDate": "2026 Oct 9",
         "studyType": "Journal Article",
-        "authors": "Li X, Wang C, Li Q",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Patients suffering from acute esophagogastric variceal bleeding (AEGVB) frequent... 临床提示：该英文报道关注最新动态：Although endoscopy is the preferred intervention for AEGVB, the optimal timing f...",
-        "abstract": "Patients suffering from acute esophagogastric variceal bleeding (AEGVB) frequently face unfavorable prognoses. Although endoscopy is the preferred intervention for AEGVB, the optimal timing for its administration to enhance patient outcomes remains a subject of ongoing debate. This study encompassed patients with cirrhosis who presented with AEGVB and received endoscopic treatment at three major tertiary hospitals in Shandong Province, China, from January 2017 to July 2024. Participants were stratified based on the time interval from hospital admission to endoscopic intervention (<12 hours vs. ≥12 hours; <24 hours vs. ≥24 hours; <48 hours vs. ≥48 hours; <72 hours vs. ≥72 hours). Propensity s...",
-        "pmid": "42849843",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42849843/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102459",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102459"
+        "authors": "Thorp RD, Batista AD, Mariz CA",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Measuring the periportal fibrosis pattern (PPF) in schistosomiasis mansoni (SM) ... 临床提示：该英文报道关注最新动态：The Enhanced Liver Fibrosis (ELF) test can be used to quantify liver fibrosis, h...",
+        "abstract": "Measuring the periportal fibrosis pattern (PPF) in schistosomiasis mansoni (SM) is essential for diagnosing portal hypertension. The Enhanced Liver Fibrosis (ELF) test can be used to quantify liver fibrosis, however, few studies have been done in SM. This study evaluated serum ELF value according to the PPF pattern established by the Niamey ultrasound classification (US) and history of upper gastrointestinal bleeding (UGIB) in patients with SM. A cross-sectional, bidirectional analytical study was carried out with patients from an endemic area and from a reference outpatient clinic for SM. A structured questionnaire was applied to collect sociodemographic and clinical data, and blood samples...",
+        "pmid": "42853889",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42853889/",
+        "doiUrl": "https://doi.org/10.1371/journal.pntd.0014775",
+        "url": "https://doi.org/10.1371/journal.pntd.0014775"
       },
       {
-        "title": "Incidence and Risk Factors for Development of Portal Hypertension and Sinusoidal Liver Injury Associated with T-DM1 in HER2-Positive Breast Cancer.",
-        "journal": "Cancer research and treatment",
-        "pubDate": "2026 Oct 6",
+        "title": "Safety and efficacy of robotic repeat hepatectomy compared to laparoscopic and open repeat hepatectomy: a retrospective comparative study.",
+        "journal": "Updates in surgery",
+        "pubDate": "2026 Oct 9",
         "studyType": "Journal Article",
-        "authors": "Park HW, Jang SY, Choi JY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：While an association between trastuzumab emtansine (T-DM1) and development of po... 临床提示：该英文报道关注最新动态：HER2-positive breast cancer patients treated with T-DM1 as adjuvant or palliativ...",
-        "abstract": "While an association between trastuzumab emtansine (T-DM1) and development of portal hypertension has been suggested, clinical studies on the incidence and risk factors remain limited. HER2-positive breast cancer patients treated with T-DM1 as adjuvant or palliative therapy were retrospectively enrolled. The composite endpoint of portal hypertension and sinusoidal liver injury was defined as development of splenomegaly and at least one among gastroesophageal varices, spontaneous portosystemic shunt, or portal hypertensive ascites; or biopsy-confirmed sinusoidal obstruction syndrome. Splenomegaly was defined as ≥50% increase in spleen volume, measured from CT images using a deep learning algo...",
-        "pmid": "42845032",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42845032/",
-        "doiUrl": "https://doi.org/10.4143/crt.2025.1385",
-        "url": "https://doi.org/10.4143/crt.2025.1385"
+        "authors": "Garosi E, Bernardi L, Roesel R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Repeat hepatectomies are challenging due to adhesions and altered anatomy.... 临床提示：该英文报道关注最新动态：Robotic surgery, with enhanced dexterity and visualization, may expand the role ...",
+        "abstract": "Repeat hepatectomies are challenging due to adhesions and altered anatomy. Robotic surgery, with enhanced dexterity and visualization, may expand the role of minimally invasive liver surgery (MILS) in this setting. The aim of this study was to explore the safety and efficacy of robotic repeat hepatectomy. We conducted a retrospective cohort study comparing repeat robotic (R-RLR), laparoscopic (L-RLR), and open liver resections (O-RLR) performed between January 2019 and December 2024. The primary outcome was postoperative morbidity. Secondary outcomes included conversion to laparotomy, use of Pringle maneuver, blood loss, hospital stay and postoperative mortality. For oncologic efficacy, rate...",
+        "pmid": "42853542",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42853542/",
+        "doiUrl": "https://doi.org/10.1007/s13304-026-02878-2",
+        "url": "https://doi.org/10.1007/s13304-026-02878-2"
+      },
+      {
+        "title": "A Giant Intra-Abdominal Plasmablastic Neoplasm Favoring Lymphoma Mimicking an Exacerbation of Severe Fistulizing Crohn's Disease: A Case Report.",
+        "journal": "The American journal of case reports",
+        "pubDate": "2026 Oct 9",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Znamirowski P, Głowacka K, Nawacki Ł",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：BACKGROUND Plasmablastic lymphoma (PBL) is a rare, aggressive large B-cell lymph... 临床提示：该英文报道关注最新动态：In Crohn's disease, it can mimic disease exacerbation or infection....",
+        "abstract": "BACKGROUND Plasmablastic lymphoma (PBL) is a rare, aggressive large B-cell lymphoma associated with immunosuppression. In Crohn's disease, it can mimic disease exacerbation or infection. We describe a rapidly enlarging intra-abdominal plasmablastic neoplasm in a medically complex patient, emphasizing diagnostic vigilance without inferring a causal association with biological therapy. CASE REPORT A 44-year-old woman with severe fistulizing Crohn's disease treated sequentially with adalimumab, infliximab, and ustekinumab developed progressive systemic deterioration despite partial intestinal stabilization. Her course included portal hypertension secondary to portal vein thrombosis, refractory ...",
+        "pmid": "42850874",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42850874/",
+        "doiUrl": "https://doi.org/10.12659/AJCR.954003",
+        "url": "https://doi.org/10.12659/AJCR.954003"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Firing squad execution to be livestreamed, Pentagon says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Firing squad execution to be livestreamed, Pentagon says...”。核心要点：该英文报道关注最新动态：Pete Hegseth says the execution will be public, but a legal expert s...",
+        "titleZh": "该英文报道关注最新动态：Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin...”。核心要点：该英文报道关注最新动态：Ukraine's president sharply criticised the move, calling it an \"inve...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 09 Oct 2026 07:05:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 10 Oct 2026 04:38:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Suspect linked to Monaco bomb attack on millionaire speaks to BBC...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspect linked to Monaco bomb attack on millionaire speaks to BBC...”。核心要点：该英文报道关注最新动态：Vitalii Zhykovych gives his own account of the attempted assassinati...",
+        "titleZh": "该英文报道关注最新动态：Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr...”。核心要点：该英文报道关注最新动态：The US president hopes to ease his party's pain before next month's ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 23:11:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 22:30:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：ICE agent shoots man in New York City...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：ICE agent shoots man in New York City...”。核心要点：该英文报道关注最新动态：The mayor of New York expressed outrage at the shooting which the De...",
+        "titleZh": "该英文报道关注最新动态：Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, ...”。核心要点：该英文报道关注最新动态：The United Arab Emirates' attorney-general also alleges the co-pilot...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 09 Oct 2026 04:26:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 10 Oct 2026 04:34:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Russian strike on buses kills at least 30, say officials, as deadly attacks on U...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian strike on buses kills at least 30, say officials, as deadly attacks on U...”。核心要点：该英文报道关注最新动态：Ukraine accused Russia of targeting two crowded vehicles in the fron...",
+        "titleZh": "该英文报道关注最新动态：Three men found guilty of murdering Australian brothers and US friend in Mexico...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Three men found guilty of murdering Australian brothers and US friend in Mexico...”。核心要点：该英文报道关注最新动态：Jake and Callum Robinson and their friend Carter Rhoad were on a sur...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 16:31:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 21:55:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Protesters blame 'vulture funds' for Spain's housing crisis...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Protesters blame 'vulture funds' for Spain's housing crisis...”。核心要点：该英文报道关注最新动态：Hundreds have pitched their tents in central Madrid, while the Spani...",
+        "titleZh": "该英文报道关注最新动态：Hurricane Isaias downgraded after making landfall in Florida...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Hurricane Isaias downgraded after making landfall in Florida...”。核心要点：该英文报道关注最新动态：Isaias is continuing across the Southeastern US after being downgrad...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 19:10:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 10 Oct 2026 06:54:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Trump wants to reduce the cost of fuel as the midterms loom - will it work?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump wants to reduce the cost of fuel as the midterms loom - will it work?...”。核心要点：该英文报道关注最新动态：The price of fuel has soared as the cost of living emerges as a key ...",
+        "titleZh": "该英文报道关注最新动态：Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin...”。核心要点：该英文报道关注最新动态：Ukraine's president sharply criticised the move, calling it an \"inve...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 09 Oct 2026 04:55:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 10 Oct 2026 04:38:20 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Add me to WhatsApp' scam calls to be investigated...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'Add me to WhatsApp' scam calls to be investigated...”。核心要点：该英文报道关注最新动态：The UK's data watchdog is investigating a spike in complaints about ...",
+        "titleZh": "该英文报道关注最新动态：Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel pr...”。核心要点：该英文报道关注最新动态：The US president hopes to ease his party's pain before next month's ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 23:05:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 22:30:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'I don't know what my partner earns': How soon into dating should you reveal you...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I don't know what my partner earns': How soon into dating should you reveal you...”。核心要点：该英文报道关注最新动态：Talking about salary, spending habits and debt can be some of dating...",
+        "titleZh": "该英文报道关注最新动态：Boots has a new owner: Three ways it could affect you...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Boots has a new owner: Three ways it could affect you...”。核心要点：该英文报道关注最新动态：The stalwart of Britain's High Street has been sold to a Canadian bi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 23:01:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 23:01:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Mark Zuckerberg has an image problem - so why is Meta's business booming?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Mark Zuckerberg has an image problem - so why is Meta's business booming?...”。核心要点：该英文报道关注最新动态：A new film paints the Meta founder as a villain. But the tech firm s...",
+        "titleZh": "该英文报道关注最新动态：Burnham promises to curb non-compete rules in job contracts...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham promises to curb non-compete rules in job contracts...”。核心要点：该英文报道关注最新动态：The prime minister says restrictions on what workers can do after le...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 08 Oct 2026 23:14:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 16:15:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen...”。核心要点：该英文报道关注最新动态：Firmus said it had made the decision due to \"recent market volatilit...",
+        "titleZh": "该英文报道关注最新动态：Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned...”。核心要点：该英文报道关注最新动态：The Court of Appeal quashes the conviction of Christian Bittar, a fo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 09 Oct 2026 07:14:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 09 Oct 2026 14:36:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
