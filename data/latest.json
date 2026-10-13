@@ -1,158 +1,132 @@
 {
-  "updatedAt": "2026-10-12T07:20:10.525Z",
+  "updatedAt": "2026-10-13T07:44:11.373Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Large esophageal varices predict hepatocellular carcinoma in newly diagnosed cirrhosis: insights from machine learning and propensity score analysis.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Oct 11",
-        "studyType": "Journal Article",
-        "authors": "Villa E, Guido D, Critelli RM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 545）。核心观点：肝细胞癌（HCC）是慢性肝病（CLD）的主要并发症，需要改进风险分层。 临床提示：食管静脉曲张（EV）作为严重门静脉高压的表现，可能通过血管重塑和缺氧相关途径促进肝癌的发展。",
-        "abstract": "Hepatocellular carcinoma (HCC) is a major complication of chronic liver disease (CLD) requiring improved risk stratification. Esophageal varices (EVs), as manifestations of severe portal hypertension, may promote HCC development through vascular remodeling and hypoxia-related pathways. We aimed to evaluate whether variceal size independently predicts HCC risk and whether specific biomarker profiles can be identified. In this 12-year prospective cohort study, 545 patients with newly diagnosed compensated advanced chronic liver disease (cACLD) were enrolled at a tertiary hepatology center and followed for a median of 81 months. Baseline evaluations included endoscopy, elastography, hepatic ven...",
-        "pmid": "42860211",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42860211/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102460",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102460"
-      },
-      {
-        "title": "Anticoagulation in cirrhosis: Indications, drug selection, and disease-modifying potential.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Oct 11",
+        "title": "Cardiovascular Complications of Chronic Liver Disease.",
+        "journal": "Circulation",
+        "pubDate": "2026 Oct 13",
         "studyType": "Journal Article / Review",
-        "authors": "Téllez L, Guerrero A, Donate J",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：除了防止血栓扩展和促进门静脉再通之外，越来越多的实验和临床证据表明，抗凝剂可能通过减弱肝内凝血、肝纤维化、窦性病变来发挥疾病缓解作用。 临床提示：除了防止血栓扩展和促进门静脉再通之外，越来越多的实验和临床证据表明，抗凝剂可能通过减弱肝内血栓来发挥疾病缓解作用。",
-        "abstract": "Anticoagulation in cirrhosis has evolved from a perceived contraindication to an integral component of modern liver disease management. Recognition of the fragile rebalanced hemostatic state has challenged the traditional concept of cirrhosis as an exclusively hemorrhagic disorder and provided the biological rationale for anticoagulation in selected patients. Beyond preventing thrombus extension and promoting portal vein recanalization, accumulating experimental and clinical evidence suggests that anticoagulants may exert disease-modifying effects by attenuating intrahepatic coagulation, hepatic fibrogenesis, sinusoidal dysfunction, and portal hypertension. The therapeutic landscape has also...",
-        "pmid": "42860209",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42860209/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102468",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102468"
+        "authors": "Park S, Gupta DK, Izzy M",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Despite the growing recognition of the intersectionality between hepatology and ... 临床提示：该英文报道关注最新动态：Chronic liver disease is an increasingly prevalent and heterogeneous syndrome wi...",
+        "abstract": "Chronic liver disease is an increasingly prevalent and heterogeneous syndrome with important consequences for cardiovascular function. As the global burdens of chronic liver disease and cirrhosis continue to rise, cardiovascular disease has emerged as a major driver of overall morbidity and mortality in affected patients. Despite the growing recognition of the intersectionality between hepatology and cardiology care clinically, cardiovascular disease risk among patients with liver disease is underrecognized. This state-of-the-art review summarizes the current understanding of the bidirectional interactions between the liver and the cardiovascular system. Shared mechanisms-including inflammat...",
+        "pmid": "42862908",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42862908/",
+        "doiUrl": "https://doi.org/10.1161/CIRCULATIONAHA.126.079443",
+        "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.079443"
       },
       {
-        "title": "Effect of vasopressin and its analogues on microcirculatory perfusion: a systematic review.",
-        "journal": "Intensive care medicine experimental",
-        "pubDate": "2026 Oct 10",
-        "studyType": "Journal Article / Review",
-        "authors": "van Zwol J, Kruijsse JG, Vidal Itriago AA",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：虽然它可以恢复动脉压，但其对微循环的影响仍然不确定，可能会减少局部灌注和组织氧合。 临床提示：精氨酸加压素 (AVP) 是一种非肾上腺素血管加压药，越来越多地用于休克治疗。",
-        "abstract": "Arginine vasopressin (AVP) is a non-adrenergic vasopressor increasingly used in the management of shock. While it restores arterial pressure, its effects on the microcirculation remain uncertain, with potential for reduced regional perfusion and tissue oxygenation. The aim of this systematic review is to evaluate the effects of intravenous AVP and its analogues on microcirculatory perfusion across different haemodynamic conditions and vascular beds. A systematic search of MEDLINE, EMBASE, and Web of Science was conducted. Animal and human publications evaluating the effects of intravenous AVP or analogues on microcirculatory perfusion assessed with in vivo microcirculatory imaging or flowmet...",
-        "pmid": "42859281",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42859281/",
-        "doiUrl": "https://doi.org/10.1186/s40635-026-00983-5",
-        "url": "https://doi.org/10.1186/s40635-026-00983-5"
-      },
-      {
-        "title": "From Resection to Transplantation: Rethinking Training and Certification for the Modern HPB Surgeon.",
-        "journal": "The American surgeon",
-        "pubDate": "2026 Oct 10",
+        "title": "Validation of Baveno VII Criteria using Liver and Splenic Elastography for Predicting Esophageal Varices Severity in Chronic Liver Disease: A Multiparametric, Observational Study.",
+        "journal": "Annals of African medicine",
+        "pubDate": "2026 Oct 13",
         "studyType": "Journal Article",
-        "authors": "Moris D, Ziogas IA, Giorgakis E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝胰胆（HPB）手术的发展已经超越了传统肝脏和胰腺切除术的范围。 临床提示：当代实践越来越多地涵盖先进的血管重建、受损肝脏的扩大肝切除术、恶性肿瘤移植以及多学科治疗后的复杂手术。",
-        "abstract": "Hepatopancreatobiliary (HPB) surgery has evolved beyond the confines of traditional liver and pancreatic resection. Contemporary practice increasingly encompasses advanced vascular reconstruction, extended hepatectomy in compromised livers, transplantation for malignancy, and complex operations following multimodality therapy. These developments have fundamentally altered the technical and cognitive demands placed upon HPB surgeons, raising an important question: which training pathway best prepares surgeons for the future of the specialty? Dedicated HPB, surgical oncology, and integrated transplant-HPB fellowships each provide valuable but distinct expertise. Surgical oncology emphasizes tu...",
-        "pmid": "42857918",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42857918/",
-        "doiUrl": "https://doi.org/10.1177/00031348261496615",
-        "url": "https://doi.org/10.1177/00031348261496615"
+        "authors": "Kumar M, Kumar V, Singh P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 100）。核心观点：该英文报道关注最新动态：Baveno VII criteria prioritize Liver Stiffness Measurement (LSM) for portal hype... 临床提示：该英文报道关注最新动态：We aimed to evaluate two-dimensional-shear wave elastography (2D-SWE) cutoffs, a...",
+        "abstract": "Baveno VII criteria prioritize Liver Stiffness Measurement (LSM) for portal hypertension risk stratification, primarily using transient elastography. We aimed to evaluate two-dimensional-shear wave elastography (2D-SWE) cutoffs, assess the etiology-dependent utility of spleen stiffness (SSM), and introduce a novel Combined Hepato-splenic Stiffness Index (CHSSI). This ambispective, observational study enrolled 100 chronic liver disease patients. Participants underwent 2D-SWE for LSM and SSM, alongside endoscopy as the reference standard. A novel multiparametric index, CHSSI, was formulated. Diagnostic accuracy for Varices Needing Treatment (VNT; Grade >= II) was assessed using area under the ...",
+        "pmid": "42860927",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42860927/",
+        "doiUrl": "https://doi.org/10.4103/aam.aam_695_26",
+        "url": "https://doi.org/10.4103/aam.aam_695_26"
       },
       {
-        "title": "Native Spleen T1 Mapping for the Assessment of Hepatic Congestion in Children With Congenital Heart Disease.",
-        "journal": "Circulation reports",
-        "pubDate": "2026 Oct 9",
+        "title": "Early-Onset Gastric Varices After Fontan Completion Associated with a Pre-Existing Gastro-Renal Shunt.",
+        "journal": "Pediatric cardiology",
+        "pubDate": "2026 Oct 12",
         "studyType": "Journal Article",
-        "authors": "Tao K, Yamamura K, Sato M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 120）。核心观点：据报道，肝脏天然 T1 弛豫时间 (LT1) 与 CHD 中中心静脉压升高和肝损伤有关。 临床提示：先天性心脏病（CHD）中的充血性肝病可导致门静脉高压。",
-        "abstract": "Congestive hepatopathy in congenital heart disease (CHD) can lead to portal hypertension. Liver native T1 relaxation time (LT1) was reported to be associated with elevated central venous pressure and liver injury in CHD. This study investigated the utility of spleen native T1 relaxation time (ST1) in children with CHD, particularly those with Fontan circulation, and its association with hemodynamic parameters and biomarkers of liver injury. This study included 120 patients with CHD (biventricular repair, 39; bidirectional Glenn shunt, 31; and Fontan circulation, 50) who underwent blood tests, cardiac catheterization, and cardiac magnetic resonance imaging performed within 48 h. Age-corrected...",
-        "pmid": "42856961",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42856961/",
-        "doiUrl": "https://doi.org/10.1253/circrep.CR-25-0343",
-        "url": "https://doi.org/10.1253/circrep.CR-25-0343"
+        "authors": "Takenaka S, Shinohara T, Yasuda M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Gastroesophageal varices are recognized complications of Fontan-associated liver... 临床提示：该英文报道关注最新动态：The mechanisms of early variceal formation remain unclear....",
+        "abstract": "Gastroesophageal varices are recognized complications of Fontan-associated liver disease, but clinically significant varices have generally been reported more than 10 years after Fontan completion. The mechanisms of early variceal formation remain unclear. We report a child with tricuspid atresia who developed isolated gastric varices approximately 7 years after extracardiac Fontan completion in the presence of a pre-existing gastro-renal shunt (GRS). The patient underwent bidirectional Glenn palliation at 9 months of age. Contrast-enhanced computed tomography (CT) performed before Fontan completion incidentally demonstrated a GRS, which progressively dilated after Fontan completion. At 8 ye...",
+        "pmid": "42862300",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42862300/",
+        "doiUrl": "https://doi.org/10.1007/s00246-026-04508-5",
+        "url": "https://doi.org/10.1007/s00246-026-04508-5"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "泽伦斯基支持特朗普的“能源停火”，但表示俄罗斯继续袭击发电厂",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“泽伦斯基支持特朗普的“能源停火”，但表示俄罗斯继续袭击发电厂”。核心要点：乌克兰领导人最初对唐纳德·特朗普的声明表示惊讶，但表示如果莫斯科愿意，他将支持停战。",
+        "titleZh": "该英文报道关注最新动态：Russia's offensive ability is broken, Kyiv's former top general tells BBC...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia's offensive ability is broken, Kyiv's former top general tells BBC...”。核心要点：该英文报道关注最新动态：In his first interview since being forced from his post, Gen Syrskyi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 21:36:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 05:02:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普因从俄罗斯进口柴油的计划而面临越来越多的反对",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“特朗普因从俄罗斯进口柴油的计划而面临越来越多的反对”。核心要点：共和党和民主党议员都批评了这项在美国中期选举前几周宣布的协议。",
+        "titleZh": "该英文报道关注最新动态：Breaking Bad actor RJ Mitte dies aged 34...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Breaking Bad actor RJ Mitte dies aged 34...”。核心要点：该英文报道关注最新动态：Mitte, who lived with cerebral palsy, starred as Walter White Jr in ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 23:18:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 06:26:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "胡塞武装两天内第二次袭击利雅得机场，造成1人死亡、11人受伤",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“胡塞武装两天内第二次袭击利雅得机场，造成1人死亡、11人受伤”。核心要点：周末，沙特首都遭到伊朗支持的也门组织的多次袭击。",
+        "titleZh": "该英文报道关注最新动态：Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelens...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelens...”。核心要点：该英文报道关注最新动态：Despite the US president announcing energy infrastructure would not ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 22:45:58 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "BBC发现阿布拉莫维奇的财富被伪造以逃税",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“BBC发现阿布拉莫维奇的财富被伪造以逃税”。核心要点：调查发现，倒日期的文件还导致俄罗斯寡头的游艇和豪宅从账户中消失。",
+        "titleZh": "该英文报道关注最新动态：One dead and several hurt after rollercoaster incident at Six Flags...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：One dead and several hurt after rollercoaster incident at Six Flags...”。核心要点：该英文报道关注最新动态：Aerial footage at the park after the incident shows a stuck rollerco...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 05:00:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 02:26:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "波兰拘留涉嫌策划暗杀图斯克总理的男子",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“波兰拘留涉嫌策划暗杀图斯克总理的男子”。核心要点：警方收到了有关唐纳德·图斯克及其国防部长可能遭受袭击的可靠信息。",
+        "titleZh": "该英文报道关注最新动态：India 'cockroach' leaders detained after entering barricaded protest site...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：India 'cockroach' leaders detained after entering barricaded protest site...”。核心要点：该英文报道关注最新动态：Protesters climbed over barricades in central Delhi to demand the el...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 17:27:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 07:31:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "智库称，希利面临 350 亿英镑预算挑战以兑现支出承诺",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“智库称，希利面临 350 亿英镑预算挑战以兑现支出承诺”。核心要点：财政研究所表示，伊朗战争的影响给政府的支出计划带来了重大风险。",
+        "titleZh": "该英文报道关注最新动态：UK growth forecast upgraded but energy prices and rates to hit in 2027...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK growth forecast upgraded but energy prices and rates to hit in 2027...”。核心要点：该英文报道关注最新动态：The prediction from the IMF comes as final preparations are being ma...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 07:15:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 07:33:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "BBC发现阿布拉莫维奇的财富被伪造以逃税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“BBC发现阿布拉莫维奇的财富被伪造以逃税”。核心要点：调查发现，倒日期的文件还导致俄罗斯寡头的游艇和豪宅从账户中消失。",
+        "titleZh": "该英文报道关注最新动态：I earn £120,000 a year making social media videos go viral...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I earn £120,000 a year making social media videos go viral...”。核心要点：该英文报道关注最新动态：Social media \"clippers\" make short, vertical videos that appear on t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 05:00:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 12 Oct 2026 23:01:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "特朗普因从俄罗斯进口柴油的计划而面临越来越多的反对",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“特朗普因从俄罗斯进口柴油的计划而面临越来越多的反对”。核心要点：共和党和民主党议员都批评了这项在美国中期选举前几周宣布的协议。",
+        "titleZh": "该英文报道关注最新动态：Heating oil customers face tough winter despite shake-up promise...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Heating oil customers face tough winter despite shake-up promise...”。核心要点：该英文报道关注最新动态：Heating oil customers facing soaring bills are promised better regul...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 23:18:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 12 Oct 2026 23:02:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "债务建议可能会让您欠更多的钱",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“债务建议可能会让您欠更多的钱”。核心要点：人们越来越拖欠信用卡还款，因此这是获得债务建议的最佳方法。",
+        "titleZh": "该英文报道关注最新动态：Bumble shares soar after report dating firm in $1bn takeover talks...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Bumble shares soar after report dating firm in $1bn takeover talks...”。核心要点：该英文报道关注最新动态：The jump pushed Bumble's stock market valuation to more than $580m b...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 23:19:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 01:50:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "屋顶骗子骗走了房主数千英镑",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“屋顶骗子骗走了房主数千英镑”。核心要点：向公民咨询中心报告的诈骗案中，十分之一涉及诈骗者对未完成或做得不好的工作收费的情况。",
+        "titleZh": "该英文报道关注最新动态：Publicly owned rail is popular. But is it making the trains run on time?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Publicly owned rail is popular. But is it making the trains run on time?...”。核心要点：该英文报道关注最新动态：Meeting travellers' expectations could be challenging, experts warn....",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 11 Oct 2026 23:19:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 12 Oct 2026 23:37:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
