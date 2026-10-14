@@ -1,132 +1,119 @@
 {
-  "updatedAt": "2026-10-13T07:44:11.373Z",
+  "updatedAt": "2026-10-14T06:10:03.256Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Cardiovascular Complications of Chronic Liver Disease.",
-        "journal": "Circulation",
-        "pubDate": "2026 Oct 13",
-        "studyType": "Journal Article / Review",
-        "authors": "Park S, Gupta DK, Izzy M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Despite the growing recognition of the intersectionality between hepatology and ... 临床提示：该英文报道关注最新动态：Chronic liver disease is an increasingly prevalent and heterogeneous syndrome wi...",
-        "abstract": "Chronic liver disease is an increasingly prevalent and heterogeneous syndrome with important consequences for cardiovascular function. As the global burdens of chronic liver disease and cirrhosis continue to rise, cardiovascular disease has emerged as a major driver of overall morbidity and mortality in affected patients. Despite the growing recognition of the intersectionality between hepatology and cardiology care clinically, cardiovascular disease risk among patients with liver disease is underrecognized. This state-of-the-art review summarizes the current understanding of the bidirectional interactions between the liver and the cardiovascular system. Shared mechanisms-including inflammat...",
-        "pmid": "42862908",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42862908/",
-        "doiUrl": "https://doi.org/10.1161/CIRCULATIONAHA.126.079443",
-        "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.079443"
+        "title": "Multimodal investigation of the association between bevacizumab and pulmonary arterial hypertension.",
+        "journal": "ERJ open research",
+        "pubDate": "2026 Sep",
+        "studyType": "Journal Article",
+        "authors": "Valentin S, Hlavaty A, Brossat C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Pulmonary arterial hypertension (PAH) is a rare and severe condition that may be... 临床提示：该英文报道关注最新动态：Bevacizumab, a monoclonal antibody targeting vascular endothelial growth factor,...",
+        "abstract": "Pulmonary arterial hypertension (PAH) is a rare and severe condition that may be associated with exposure to certain drugs. Bevacizumab, a monoclonal antibody targeting vascular endothelial growth factor, has been classified as having a possible association with PAH, but data remain scarce. This study aimed to assess the potential link between bevacizumab exposure and PAH through complementary clinical, medico-administrative and pharmacovigilance databases. We performed a multimodal investigation combining: 1) case identification from the French Pulmonary Hypertension (PH) Registry, 2) a population-based cohort analysis using the French National Health Data System (Système National des Donné...",
+        "pmid": "42865918",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42865918/",
+        "doiUrl": "https://doi.org/10.1183/23120541.00209-2026",
+        "url": "https://doi.org/10.1183/23120541.00209-2026"
       },
       {
-        "title": "Validation of Baveno VII Criteria using Liver and Splenic Elastography for Predicting Esophageal Varices Severity in Chronic Liver Disease: A Multiparametric, Observational Study.",
-        "journal": "Annals of African medicine",
-        "pubDate": "2026 Oct 13",
-        "studyType": "Journal Article",
-        "authors": "Kumar M, Kumar V, Singh P",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 100）。核心观点：该英文报道关注最新动态：Baveno VII criteria prioritize Liver Stiffness Measurement (LSM) for portal hype... 临床提示：该英文报道关注最新动态：We aimed to evaluate two-dimensional-shear wave elastography (2D-SWE) cutoffs, a...",
-        "abstract": "Baveno VII criteria prioritize Liver Stiffness Measurement (LSM) for portal hypertension risk stratification, primarily using transient elastography. We aimed to evaluate two-dimensional-shear wave elastography (2D-SWE) cutoffs, assess the etiology-dependent utility of spleen stiffness (SSM), and introduce a novel Combined Hepato-splenic Stiffness Index (CHSSI). This ambispective, observational study enrolled 100 chronic liver disease patients. Participants underwent 2D-SWE for LSM and SSM, alongside endoscopy as the reference standard. A novel multiparametric index, CHSSI, was formulated. Diagnostic accuracy for Varices Needing Treatment (VNT; Grade >= II) was assessed using area under the ...",
-        "pmid": "42860927",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42860927/",
-        "doiUrl": "https://doi.org/10.4103/aam.aam_695_26",
-        "url": "https://doi.org/10.4103/aam.aam_695_26"
-      },
-      {
-        "title": "Early-Onset Gastric Varices After Fontan Completion Associated with a Pre-Existing Gastro-Renal Shunt.",
-        "journal": "Pediatric cardiology",
-        "pubDate": "2026 Oct 12",
-        "studyType": "Journal Article",
-        "authors": "Takenaka S, Shinohara T, Yasuda M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Gastroesophageal varices are recognized complications of Fontan-associated liver... 临床提示：该英文报道关注最新动态：The mechanisms of early variceal formation remain unclear....",
-        "abstract": "Gastroesophageal varices are recognized complications of Fontan-associated liver disease, but clinically significant varices have generally been reported more than 10 years after Fontan completion. The mechanisms of early variceal formation remain unclear. We report a child with tricuspid atresia who developed isolated gastric varices approximately 7 years after extracardiac Fontan completion in the presence of a pre-existing gastro-renal shunt (GRS). The patient underwent bidirectional Glenn palliation at 9 months of age. Contrast-enhanced computed tomography (CT) performed before Fontan completion incidentally demonstrated a GRS, which progressively dilated after Fontan completion. At 8 ye...",
-        "pmid": "42862300",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42862300/",
-        "doiUrl": "https://doi.org/10.1007/s00246-026-04508-5",
-        "url": "https://doi.org/10.1007/s00246-026-04508-5"
+        "title": "Surgical Management of Hepatocellular Carcinoma Complicated by Severe Portal Hypertension Secondary to an Arterioportal Shunt: A Case Report.",
+        "journal": "Journal of hepatocellular carcinoma",
+        "pubDate": "2026",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Shintani H, Wakama S, Ueda S",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Arterioportal (AP) shunts are a recognized vascular complication of hepatocellul... 临床提示：该英文报道关注最新动态：Severe AP shunts can cause portal hypertension, which can lead to complications ...",
+        "abstract": "Arterioportal (AP) shunts are a recognized vascular complication of hepatocellular carcinoma (HCC). Severe AP shunts can cause portal hypertension, which can lead to complications such as variceal bleeding and refractory ascites. However, optimal management of HCC complicated by severe AP shunts remains challenging, particularly in patients with advanced disease. A 73-year-old woman presented with melena and massive hematemesis due to esophageal varices. Contrast-enhanced computed tomography revealed multifocal HCC confined to the right hepatic lobe, Vp3 portal vein tumor thrombosis, and a high-flow AP shunt with hepatofugal portal flow. Despite treatment with diuretics, progressive portal h...",
+        "pmid": "42866558",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42866558/",
+        "doiUrl": "https://doi.org/10.2147/JHC.S642701",
+        "url": "https://doi.org/10.2147/JHC.S642701"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Russia's offensive ability is broken, Kyiv's former top general tells BBC...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia's offensive ability is broken, Kyiv's former top general tells BBC...”。核心要点：该英文报道关注最新动态：In his first interview since being forced from his post, Gen Syrskyi...",
+        "titleZh": "该英文报道关注最新动态：Pope diagnosed with lung cancer but had successful surgery, Vatican says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pope diagnosed with lung cancer but had successful surgery, Vatican says...”。核心要点：该英文报道关注最新动态：Pope Leo had successful surgery to remove a lower lobe of his right ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 13 Oct 2026 05:02:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 14 Oct 2026 00:17:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Breaking Bad actor RJ Mitte dies aged 34...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Breaking Bad actor RJ Mitte dies aged 34...”。核心要点：该英文报道关注最新动态：Mitte, who lived with cerebral palsy, starred as Walter White Jr in ...",
+        "titleZh": "该英文报道关注最新动态：Saudi man charged with planting 'sophisticated' recording device in OpenAI offic...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Saudi man charged with planting 'sophisticated' recording device in OpenAI offic...”。核心要点：该英文报道关注最新动态：Prosecutors say the device, wrapped in toilet paper, was found inser...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 13 Oct 2026 06:26:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 21:42:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelens...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelens...”。核心要点：该英文报道关注最新动态：Despite the US president announcing energy infrastructure would not ...",
+        "titleZh": "该英文报道关注最新动态：Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines...”。核心要点：该英文报道关注最新动态：Four years after the attacks, Serhii K will appear in court accused ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 21:20:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 23:42:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：One dead and several hurt after rollercoaster incident at Six Flags...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：One dead and several hurt after rollercoaster incident at Six Flags...”。核心要点：该英文报道关注最新动态：Aerial footage at the park after the incident shows a stuck rollerco...",
+        "titleZh": "该英文报道关注最新动态：MI5 chief warns of threats to UK from Russia, Iran and AI...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：MI5 chief warns of threats to UK from Russia, Iran and AI...”。核心要点：该英文报道关注最新动态：Sir Ken McCallum says operations to tackle terrorism and state threa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 13 Oct 2026 02:26:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 15:52:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：India 'cockroach' leaders detained after entering barricaded protest site...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：India 'cockroach' leaders detained after entering barricaded protest site...”。核心要点：该英文报道关注最新动态：Protesters climbed over barricades in central Delhi to demand the el...",
+        "titleZh": "该英文报道关注最新动态：Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot...”。核心要点：该英文报道关注最新动态：The Saudi-led coalition fighting in Yemen struck a fuel depot near t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 13 Oct 2026 07:31:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 14 Oct 2026 04:20:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：UK growth forecast upgraded but energy prices and rates to hit in 2027...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK growth forecast upgraded but energy prices and rates to hit in 2027...”。核心要点：该英文报道关注最新动态：The prediction from the IMF comes as final preparations are being ma...",
+        "titleZh": "该英文报道关注最新动态：Not building third runway would be 'huge missed opportunity', warns Heathrow bos...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Not building third runway would be 'huge missed opportunity', warns Heathrow bos...”。核心要点：该英文报道关注最新动态：Thomas Woldbye tells the Today progamme it would be \"good to know\" t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 13 Oct 2026 07:33:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 14 Oct 2026 04:59:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：I earn £120,000 a year making social media videos go viral...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I earn £120,000 a year making social media videos go viral...”。核心要点：该英文报道关注最新动态：Social media \"clippers\" make short, vertical videos that appear on t...",
+        "titleZh": "该英文报道关注最新动态：Royal Mail losing 400 postal workers a week, says union...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Royal Mail losing 400 postal workers a week, says union...”。核心要点：该英文报道关注最新动态：The CWU says more posties are leaving since a new delivery system wa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 23:01:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 23:03:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Heating oil customers face tough winter despite shake-up promise...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Heating oil customers face tough winter despite shake-up promise...”。核心要点：该英文报道关注最新动态：Heating oil customers facing soaring bills are promised better regul...",
+        "titleZh": "该英文报道关注最新动态：Is it OK for jobseekers or employers to use AI?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Is it OK for jobseekers or employers to use AI?...”。核心要点：该英文报道关注最新动态：Graduates are increasingly using AI to misrepresent themselves in jo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 23:02:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 13 Oct 2026 23:04:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Bumble shares soar after report dating firm in $1bn takeover talks...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Bumble shares soar after report dating firm in $1bn takeover talks...”。核心要点：该英文报道关注最新动态：The jump pushed Bumble's stock market valuation to more than $580m b...",
+        "titleZh": "该英文报道关注最新动态：Bank of America hit with $1.2bn fine for money laundering failings...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Bank of America hit with $1.2bn fine for money laundering failings...”。核心要点：该英文报道关注最新动态：The bank inadequately flagged transactions linked to potential Chine...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 13 Oct 2026 01:50:47 GMT",
+        "publishedAt": "Wed, 14 Oct 2026 02:05:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Bumble bought for $1.3bn in 'bet on the future of humanity'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Bumble bought for $1.3bn in 'bet on the future of humanity'...”。核心要点：该英文报道关注最新动态：The dating app which recently ditched its \"women-first\" chat rule ha...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 13 Oct 2026 15:59:07 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Publicly owned rail is popular. But is it making the trains run on time?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Publicly owned rail is popular. But is it making the trains run on time?...”。核心要点：该英文报道关注最新动态：Meeting travellers' expectations could be challenging, experts warn....",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 12 Oct 2026 23:37:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
