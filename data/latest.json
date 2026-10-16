@@ -1,145 +1,158 @@
 {
-  "updatedAt": "2026-10-15T05:55:12.924Z",
+  "updatedAt": "2026-10-16T05:53:22.211Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Transnasal endoscopy as a complementary tool for ambulatory detection of clinically significant portal hypertension.",
-        "journal": "Revista de gastroenterologia de Mexico (English)",
-        "pubDate": "2026 Oct 14",
+        "title": "Lower circulating angiotensinogen levels across ACLD stages are associated with hepatic dysfunction and mortality.",
+        "journal": "Hepatology communications",
+        "pubDate": "2026 Nov 1",
         "studyType": "Journal Article",
-        "authors": "Cortez-Hernández CA, González-Torres LA, Jiménez-Castillo RA",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评估了经鼻内窥镜检查的有效性、安全性和耐受性，作为一种补充工具，用于检测与代偿性晚期慢性肝病成人门静脉高压一致的内镜症状。 临床提示：24 名患者在局部麻醉下接受了经鼻上消化道内窥镜检查，并通过弹性成像和血小板计数对肝纤维化进行无创评估。",
-        "abstract": "The efficacy, safety, and tolerability of transnasal endoscopy were evaluated as a complementary tool for detecting endoscopic signs consistent with portal hypertension in adults with compensated advanced chronic liver disease. Twenty-four patients underwent transnasal upper gastrointestinal endoscopy under local anesthesia and noninvasive assessment of liver fibrosis through elastography and platelet count. Procedure-related pain intensity and anxiety, adverse events, and impact on therapeutic decision-making were analyzed. The procedure was well tolerated, with no adverse events, and periprocedural discomfort and anxiety were minimal-to-mild. Transnasal endoscopy modified therapeutic decis...",
-        "pmid": "42875338",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42875338/",
-        "doiUrl": "https://doi.org/10.1016/j.rgmxen.2026.10.002",
-        "url": "https://doi.org/10.1016/j.rgmxen.2026.10.002"
+        "authors": "Hintersteininger M, Hofer BS, Renhardt C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The liver produces angiotensinogen (AGT), the key upstream precursor of the reni... 临床提示：该英文报道关注最新动态：We included clinically stable ACLD outpatients undergoing hepatic venous pressur...",
+        "abstract": "The liver produces angiotensinogen (AGT), the key upstream precursor of the renin-angiotensin system (RAS). We measured AGT levels in patients across distinct advanced chronic liver disease (ACLD) stages and investigated the impact of AGT levels on clinical outcomes. We included clinically stable ACLD outpatients undergoing hepatic venous pressure gradient (HVPG) measurement between May 2018 and October 2023, as well as healthy controls (HCs) recruited in the prospective Vienna Cirrhosis Study (VICIS; NCT03267615). AGT was assessed by converting it to angiotensin I (Ang I) through incubation with excess recombinant human renin. RAS parameters were measured by liquid chromatography-tandem mas...",
+        "pmid": "42878585",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42878585/",
+        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001062",
+        "url": "https://doi.org/10.1097/HC9.0000000000001062"
       },
       {
-        "title": "Spleen stiffness to rule out high-risk varices in advanced chronic liver disease: an individual patient data meta-analysis.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Oct 14",
-        "studyType": "Journal Article",
-        "authors": "Dajti E, Qi X, Chen J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：我们进行了个体患者数据（IPD）荟萃分析，以（i）使用振动控制瞬态弹性成像（VCTE）研究基于脾硬度测量（SSM）的算法的性能，以排除高风险静脉曲张（HRV）； (ii) 制定一个 临床提示：食管静脉曲张（EV）的治疗对于代偿性晚期慢性肝病至关重要。",
-        "abstract": "Management of esophageal varices (EV) is of critical importance in compensated advanced chronic liver disease. We conducted an individual patient data (IPD) meta-analysis to (i) investigate the performance of spleen stiffness measurement (SSM)-based algorithms using vibration-controlled transient elastography (VCTE) to rule out high-risk varices (HRV); (ii) develop a new model for diagnosing any grade EV. We systematically searched databases for studies reporting endoscopy and SSM-VCTE data in adult patients, collecting their IPD. The main outcome was ruling out HRV. The tested algorithms were: i) Baveno-VI criteria, liver stiffness measurement (LSM) <20 kPa and platelet count (PLT) >150x10 ...",
-        "pmid": "42874711",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42874711/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102066",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.102066"
+        "title": "Baveno VIII - Advancing consensus in portal hypertension.",
+        "journal": "Journal of hepatology",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article / Consensus Statement / Review",
+        "authors": "Baveno VIII Faculty",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Since the first Baveno Consensus Conference in 1990, successive conferences held... 临床提示：该英文报道关注最新动态：Since the first Baveno Consensus Conference in 1990, successive conferences held...",
+        "abstract": "Since the first Baveno Consensus Conference in 1990, successive conferences held every 5 years have transformed the field of cirrhosis and portal hypertension, evolving from a focus on variceal bleeding to a pathophysiology-based framework centred on risk stratification, clinically significant portal hypertension (CSPH), and the prevention of decompensation. Building on this progress, the Baveno Cooperation, in collaboration with the Vascular Liver Disease Interest Group (VALDIG), convened an expert faculty to review the evidence published since Baveno VII and update clinical guidance for patients with advanced chronic liver disease (ACLD), portal hypertension, and vascular liver diseases. T...",
+        "pmid": "42624290",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42624290/",
+        "doiUrl": "https://doi.org/10.1016/j.jhep.2026.07.030",
+        "url": "https://doi.org/10.1016/j.jhep.2026.07.030"
       },
       {
-        "title": "A real-world multicenter study of statins in compensated advanced chronic liver disease on hepatic decompensation and mortality outcomes.",
-        "journal": "Hepatology international",
-        "pubDate": "2026 Oct 14",
+        "title": "Endoscopic ultrasound-guided selective inflow vessel devascularization and multi-point venous occlusion for gastric varices due to left-sided portal hypertension.",
+        "journal": "Endoscopy",
+        "pubDate": "2026 Oct 15",
         "studyType": "Journal Article",
-        "authors": "Ng CH, Sasikumar NA, Teng MLP",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：他汀类药物具有多效作用，包括抗炎、内皮和抗纤维化作用，可能会减缓肝硬化的进展。 临床提示：然而，由于担心潜在的肝毒性，它们在代偿性晚期慢性肝病 (cACLD) 患者中的使用仍然有限，并且针对该人群的数据仍然很少。",
-        "abstract": "Statins exert pleiotropic effects, including antiinflammatory, endothelial, and antifibrotic actions, which may slow the progression of cirrhosis. However, their use in patients with compensated advanced chronic liver disease (cACLD) remains limited due to concerns regarding potential hepatotoxicity, and data specific to this population remains sparse. We conducted a retrospective, multinational cohort study of adult cACLD (LSM >10 kPa) patients using data from the Cirrhosis Outcome and Research Endeavor (CORE) consortium, across 13 centers in 8 countries. Baseline statin use was the exposure of interest. Associations with first and second hepatic decompensation, composite liver-related even...",
-        "pmid": "42873450",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42873450/",
-        "doiUrl": "https://doi.org/10.1007/s12072-026-11164-7",
-        "url": "https://doi.org/10.1007/s12072-026-11164-7"
+        "authors": "Huang J, Ruan X, Liu S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Endoscopic ultrasound-guided selective inflow vessel devascularization and multi...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42880263",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42880263/",
+        "doiUrl": "https://doi.org/10.1055/a-2971-5252",
+        "url": "https://doi.org/10.1055/a-2971-5252"
       },
       {
-        "title": "Nonselective beta-blockers and hepatic encephalopathy in liver cirrhosis:A meta-analysis of randomized controlled trials.",
-        "journal": "Journal of the Chinese Medical Association : JCMA",
+        "title": "fiLiver and spleen elastography-based prediction models for clinically significant portal hypertension and high-risk esophageal varices: a systematic review of conventional and machine-learning approaches.",
+        "journal": "Journal of ultrasound",
+        "pubDate": "2026 Oct 15",
+        "studyType": "Journal Article / Review",
+        "authors": "Ahmed N, Deepika PSVM, Saini R",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：The presence of clinically significant portal hypertension (CSPH) and high-risk ... 临床提示：该英文报道关注最新动态：Liver and spleen elastography are validated noninvasive markers of portal pressu...",
+        "abstract": "The presence of clinically significant portal hypertension (CSPH) and high-risk esophageal varices (HREV) are major predictors of decompensation and mortality in chronic liver disease. Liver and spleen elastography are validated noninvasive markers of portal pressure, and increasing numbers of studies have integrated elastography measurements with conventional statistical and machine-learning (ML) models to predict these outcomes. This systematic review identified, critically appraised and synthesized studies developing or validating prediction models incorporating liver and/or spleen elastography for predicting CSPH and/or HREV. A structured literature search identified studies developing o...",
+        "pmid": "42879106",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42879106/",
+        "doiUrl": "https://doi.org/10.1007/s40477-026-01239-4",
+        "url": "https://doi.org/10.1007/s40477-026-01239-4"
+      },
+      {
+        "title": "Long-term graft and patient survival of patients with portal vein stenosis after pediatric liver transplantation; results from the multicenter multinational PORTAL registry.",
+        "journal": "Liver transplantation : official publication of the American Association for the Study of Liver Diseases and the International Liver Transplantation Society",
         "pubDate": "2026 Oct 14",
         "studyType": "Journal Article",
-        "authors": "Kuo TH, Chen YJ, Lee PC",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：肝硬化会导致门脉高压和相关并发症，包括腹水、食管静脉曲张和肝性脑病（HE）。 临床提示：因此，我们在涉及肝硬化患者的随机对照试验 (RCT) 中研究了 NSBB 治疗与 HE 之间的关联。",
-        "abstract": "Liver cirrhosis leads to portal hypertension and related complications, including ascites, esophageal varices, and hepatic encephalopathy (HE). Non-selective beta blockers (NSBBs) decrease portal pressure, but it is not yet clear whether they contribute to HE development. Therefore, we examined the association between NSBB therapy and HE in randomized controlled trials (RCTs) involving patients with cirrhosis. We systematically searched PubMed, Web of Science, ScienceDirect, and the Cochrane Library (from inception to December 31, 2024) for RCTs comparing NSBBs with a placebo, endoscopic band ligation, or injection sclerotherapy for variceal bleeding prevention in relation to HE. The risk ra...",
-        "pmid": "42870342",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42870342/",
-        "doiUrl": "https://doi.org/10.1097/JCMA.0000000000001435",
-        "url": "https://doi.org/10.1097/JCMA.0000000000001435"
+        "authors": "Alfares BA, Sieben L, Kaliciński P",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 239）。核心观点：该英文报道关注最新动态：Pediatric liver transplantation (pLT) has become a standard treatment, but it is... 临床提示：该英文报道关注最新动态：PVS can result in compromised graft function and portal hypertension if left unt...",
+        "abstract": "Pediatric liver transplantation (pLT) has become a standard treatment, but it is still burdened by complications such as portal vein stenosis (PVS). PVS can result in compromised graft function and portal hypertension if left untreated. We aimed to assess long-term patient and graft survival after PVS diagnosis after pLT. Our study analyzed data from the Portal vein Obstruction Revascularisation Therapy After Liver transplantation (PORTAL) registry, which contains retrospective data from 21 centers, across 18 countries, over a 20-year period. Graft- and patient survival rates were determined after PVS diagnosis. This study included 239 patients (53% female; median age at pLT 1.1 years) diagn...",
+        "pmid": "42879377",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42879377/",
+        "doiUrl": "https://doi.org/10.1097/LVT.0000000000001018",
+        "url": "https://doi.org/10.1097/LVT.0000000000001018"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "马斯克称美国政府可能是乌克兰无人机速度放缓的幕后黑手",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“马斯克称美国政府可能是乌克兰无人机速度放缓的幕后黑手”。核心要点：乌克兰表示，星链接入已经有所改善，但仍面临速度限制，这扰乱了其战场“任务”。",
+        "titleZh": "该英文报道关注最新动态：Three children and teacher killed in US primary school shooting...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Three children and teacher killed in US primary school shooting...”。核心要点：该英文报道关注最新动态：The suspect was shot dead by a community member who followed him int...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 15 Oct 2026 04:30:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 16 Oct 2026 03:45:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "学生抗议者袭击阿尔巴尼亚政府大楼",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“学生抗议者袭击阿尔巴尼亚政府大楼”。核心要点：数千名希望获得更好的大学条件和就业前景的学生举行示威活动第二天，建筑物被点燃。",
+        "titleZh": "该英文报道关注最新动态：'It's really hard to believe' - How Oregon primary school shooting unfolded...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'It's really hard to believe' - How Oregon primary school shooting unfolded...”。核心要点：该英文报道关注最新动态：Three children aged 5, 8 and 11 and a teacher were killed after a 16...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 14 Oct 2026 20:29:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 16 Oct 2026 01:36:45 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "美国退役将军呼吁五角大楼取消“野蛮”处决直播",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“美国退役将军呼吁五角大楼取消“野蛮”处决直播”。核心要点：72 名前军官在一封信中表示，直播尼达尔·哈桑的处决“将玷污使用它的军队以及允许这样做的国家的荣誉”。",
+        "titleZh": "该英文报道关注最新动态：Ship attack reports near Hormuz reach record high as oil exports slow...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ship attack reports near Hormuz reach record high as oil exports slow...”。核心要点：该英文报道关注最新动态：BBC Verify analysis of data from a UK maritime agency shows 12 vesse...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 15 Oct 2026 02:26:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 16 Oct 2026 05:00:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "白宫在新任新闻秘书的法律资格受到质疑时为她辩护",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“白宫在新任新闻秘书的法律资格受到质疑时为她辩护”。核心要点：凯蒂·扎卡里亚 (Katie Zacharia) 似乎没有在她居住过的任何州的律师协会注册。",
+        "titleZh": "该英文报道关注最新动态：Trump calls off livestream of Fort Hood attacker's execution by firing squad...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump calls off livestream of Fort Hood attacker's execution by firing squad...”。核心要点：该英文报道关注最新动态：Trump said some would \"rather not watch\" the killing of Nidal Hasan,...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 15 Oct 2026 03:03:16 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 15 Oct 2026 17:47:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“无处可逃”——印度尼西亚人分享橙色雾霾笼罩城镇的镜头",
-        "summaryZh": "这是一条世界时事新闻，重点围绕““无处可逃”——印度尼西亚人分享橙色雾霾笼罩城镇的镜头”。核心要点：浓浓的橙色烟雾降临在印度尼西亚城市帕朗卡拉亚，附近野火继续肆虐。",
+        "titleZh": "该英文报道关注最新动态：Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to ...”。核心要点：该英文报道关注最新动态：Ukraine's president says a pause on striking energy sites is over fo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 15 Oct 2026 03:26:36 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 15 Oct 2026 16:50:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Drop-off charges at UK airports to be reviewed after sharp increase...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Drop-off charges at UK airports to be reviewed after sharp increase...”。核心要点：该英文报道关注最新动态：Confirming the review, the government said it was \"vital to ensure t...",
+        "titleZh": "该英文报道关注最新动态：Banks say Healey is planning Budget tax raid on their profits...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Banks say Healey is planning Budget tax raid on their profits...”。核心要点：该英文报道关注最新动态：Senior banking executives have told the BBC they expect to be \"on th...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 14 Oct 2026 17:46:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 15 Oct 2026 17:14:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Anthropic flags revenue surge to investors ahead of stock market debut...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic flags revenue surge to investors ahead of stock market debut...”。核心要点：该英文报道关注最新动态：It comes as some investors have become concerned about the amount of...",
+        "titleZh": "该英文报道关注最新动态：I find it quite demoralising in store - why I do all my shopping online...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I find it quite demoralising in store - why I do all my shopping online...”。核心要点：该英文报道关注最新动态：After Primark announced plans for home delivery, we hear from women ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 15 Oct 2026 04:19:17 GMT",
+        "publishedAt": "Thu, 15 Oct 2026 23:16:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm...”。核心要点：该英文报道关注最新动态：The culture secretary says the deal could affect free expression in ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 15 Oct 2026 14:55:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：AI giant Anthropic woos potential investors ahead of stock market debut...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：AI giant Anthropic woos potential investors ahead of stock market debut...”。核心要点：该英文报道关注最新动态：It comes as some investors have become concerned about the amount of...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 15 Oct 2026 11:34:55 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Netflix to shed 1,000 jobs in steepest cuts since 2022...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Netflix to shed 1,000 jobs in steepest cuts since 2022...”。核心要点：该英文报道关注最新动态：The cuts equate to around 6% of the streaming giant's total workforc...",
+        "titleZh": "该英文报道关注最新动态：'I paid thousands to a company for jobs that never came'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I paid thousands to a company for jobs that never came'...”。核心要点：该英文报道关注最新动态：Apurv Patel is one of several people who say they were promised job ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 14 Oct 2026 16:47:32 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：How backlash against data centres could shape the US midterm elections...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How backlash against data centres could shape the US midterm elections...”。核心要点：该英文报道关注最新动态：Democrats and Republicans alike are coming out against data centre d...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 14 Oct 2026 23:02:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Toilet paper and secret recorders: What we know about the arrest of the Saudi Op...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Toilet paper and secret recorders: What we know about the arrest of the Saudi Op...”。核心要点：该英文报道关注最新动态：Abdulrahman Alfozan had worked for the AI giant for more than a year...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 14 Oct 2026 15:54:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 15 Oct 2026 17:19:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
