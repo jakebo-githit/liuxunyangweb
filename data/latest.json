@@ -1,141 +1,128 @@
 {
-  "updatedAt": "2026-10-17T05:36:28.912Z",
+  "updatedAt": "2026-10-18T05:55:07.644Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Liver transplantation for adult presentations of MDR3 deficiency.",
-        "journal": "Clinics and research in hepatology and gastroenterology",
+        "title": "Biopsy-Proven Hepatic Extramedullary Hematopoiesis With Chronic Portal Vein Thrombosis in JAK2 V617F-Positive Prefibrotic Myelofibrosis: Contributors to Noncirrhotic Portal Hypertension.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Oct",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Bandaranaike R, Rutland B, Rutland T",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Noncirrhotic portal hypertension warrants evaluation for vascular and infiltrati... 临床提示：该英文报道关注最新动态：We describe a 48-year-old man with JAK2 V617F-positive prefibrotic primary myelo...",
+        "abstract": "Noncirrhotic portal hypertension warrants evaluation for vascular and infiltrative etiologies when hepatic fibrosis is absent. We describe a 48-year-old man with JAK2 V617F-positive prefibrotic primary myelofibrosis who developed chronic portal vein thrombosis with cavernous transformation and gastroesophageal varices despite preserved liver stiffness (4.2 kPa). Endoscopic ultrasound-guided liver biopsy demonstrated grade 2 hepatic extramedullary hematopoiesis (4 foci across 10 high-power fields) without fibrosis. Chronic portal vein thrombosis was the principal driver of portal hypertension. This case demonstrates that appreciable hepatic extramedullary hematopoiesis can occur in prefibroti...",
+        "pmid": "42890906",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42890906/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002354",
+        "url": "https://doi.org/10.14309/crj.0000000000002354"
+      },
+      {
+        "title": "Acute colonic variceal bleeding treated with coil-assisted retrograde transvenous obliteration following atezolizumab-bevacizumab therapy for advanced hepatocellular carcinoma: A case report.",
+        "journal": "Medicine",
+        "pubDate": "2026 Oct 16",
+        "studyType": "Journal Article / Case Reports",
+        "authors": "Park SE, Kwon HU, Jo SH",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Bevacizumab therapy is associated with an increased risk of variceal bleeding, b... 临床提示：该英文报道关注最新动态：Colonic variceal bleeding is a rare but potentially life-threatening manifestati...",
+        "abstract": "Colonic variceal bleeding is a rare but potentially life-threatening manifestation of portal hypertension. Bevacizumab therapy is associated with an increased risk of variceal bleeding, but bleeding from ectopic varices is less well recognized. A 66-year-old man with alcohol-related cirrhosis and advanced hepatocellular carcinoma developed hematochezia on the day following the initiation of atezolizumab plus bevacizumab therapy. Acute ascending colonic variceal bleeding in the setting of portal hypertension and portal vein thrombosis. Coil-assisted retrograde transvenous obliteration (CARTO) was performed via the right common femoral vein. The portocolonic shunt was embolized using detachabl...",
+        "pmid": "42888536",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42888536/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000051084",
+        "url": "https://doi.org/10.1097/MD.0000000000051084"
+      },
+      {
+        "title": "Impact of portal hypertension on clinical outcomes in critically Ill adult patients: A retrospective study: Outcomes in critically Ill patients with portal hypertension.",
+        "journal": "Medicine",
         "pubDate": "2026 Oct 16",
         "studyType": "Journal Article",
-        "authors": "Nayagam JS, Campbell SM, Chung Y",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：MDR3 缺乏症与终末期肝病相关，包括肝功能衰竭、门静脉高压和原发性肝癌，并且越来越多地认识到成人表现。 临床提示：我们报告了针对成人 MDR3 缺乏症的单中心肝移植 (LT) 经验。",
-        "abstract": "MDR3 deficiency is associated with end-stage liver disease including liver failure, portal hypertension and primary liver cancer, with increasing recognition of adult presentations. We report our single centre experience of liver transplantation (LT) for adult presentations of MDR3 deficiency. A single centre retrospective study of patients who underwent LT for MDR3 deficiency from 2013-2024 and were first diagnosed above the age of 16 years. We identified demographic and clinical data from the electronic patient records. There were 7 patients with genetically confirmed MDR3 deficiency who underwent LT, including 3 (43%) females, and median age at LT was 31.9 years (range, 25-37). Severity o...",
-        "pmid": "42887767",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42887767/",
-        "doiUrl": "https://doi.org/10.1016/j.clinre.2026.102944",
-        "url": "https://doi.org/10.1016/j.clinre.2026.102944"
-      },
-      {
-        "title": "Clinically Significant Portal Hypertension in Hepatocellular Carcinoma: Non-Invasive Assessment Across the Continuum.",
-        "journal": "Current oncology reports",
-        "pubDate": "2026 Oct 15",
-        "studyType": "Journal Article / Review",
-        "authors": "Ji P, Luo W, Cheng L",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：具有临床意义的门脉高压 (CSPH) 是肝细胞癌 (HCC) 手术候选资格、局部治疗安全性和全身治疗结果的关键决定因素，但其非侵入性评估仍然具有挑战性，因为 Baveno 临床提示：具有临床意义的门脉高压 (CSPH) 是肝细胞癌 (HCC) 手术候选资格、局部治疗安全性和全身治疗结果的关键决定因素，但其非侵入性评估",
-        "abstract": "Clinically significant portal hypertension (CSPH) is a key determinant of surgical candidacy, locoregional therapy safety, and systemic treatment outcomes in hepatocellular carcinoma (HCC), yet its non-invasive assessment remains challenging because the Baveno criteria were derived in HCC-free cirrhosis. This review synthesises current evidence on non-invasive tests (NITs) for CSPH across the HCC care continuum, organised around three clinical scenarios: pre-operative assessment, on-treatment monitoring, and pre-immunotherapy evaluation. Liver stiffness-based Baveno rule-out retains value in early HCC but can miss haemodynamically confirmed CSPH in up to 23% of patients with favourable crite...",
-        "pmid": "42881321",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42881321/",
-        "doiUrl": "https://doi.org/10.1007/s11912-026-01843-x",
-        "url": "https://doi.org/10.1007/s11912-026-01843-x"
-      },
-      {
-        "title": "Severe constipation-associated postprandial abdominal pain in a pregnant native-liver biliary atresia survivor after Kasai portoenterostomy: A case report.",
-        "journal": "JPGN reports",
-        "pubDate": "2026 Oct 14",
-        "studyType": "Journal Article",
-        "authors": "Alnounou A, Katwala A, Alabbas M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评估显示肝脏合成功能得以保留，并且没有表现出临床上显着的门静脉高压。 临床提示：一名 18 岁女性，在 Kasai 门肠造口术后患有先天性胆道闭锁，并通过磁共振成像报告，在妊娠 32 周时出现慢性肝病，餐后 6 周病情恶化",
-        "abstract": "An 18-year-old woman with congenital biliary atresia status post Kasai portoenterostomy and magnetic resonance imaging-reported chronic liver disease presented at 32 weeks' gestation with 6 weeks of worsening postprandial epigastric/right upper quadrant pain, nausea, and poor oral intake. Evaluation showed preserved hepatic synthetic function and no demonstrated clinically significant portal hypertension. Endoscopy excluded esophageal and gastric varices, computed tomography showed no imaging evidence of pancreatitis, biliary obstruction, or other acute intra-abdominal pathology, computed tomography angiography excluded mesenteric ischemia, and gastric emptying scintigraphy excluded gastropa...",
-        "pmid": "42877649",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42877649/",
-        "doiUrl": "https://doi.org/10.1002/jpr3.70253",
-        "url": "https://doi.org/10.1002/jpr3.70253"
-      },
-      {
-        "title": "A Machine Learning Model Based on Ultrasound and Serological Markers for Predicting Postoperative Stenosis of Rex Shunt Procedure in Children With Extrahepatic Portal Venous Obstruction.",
-        "journal": "Journal of clinical ultrasound : JCU",
-        "pubDate": "2026 Oct 14",
-        "studyType": "Journal Article",
-        "authors": "Zhang X, Wang H, Yang B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：评估超声参数与血清学标志物相结合对预测肝外门静脉梗阻（EHPVO）儿童术后 Rex 分流狭窄的价值。 临床提示：开发了五种机器学习模型来预测不同随访期 Rex 分流手术后的术后狭窄，并使用接收器操作特征下的面积评估性能",
-        "abstract": "To evaluate the value of combining ultrasound parameters with serological markers for predicting postoperative Rex shunt stenosis in children with extrahepatic portal venous obstruction (EHPVO). The training cohort and temporal validation cohort consisted of 114 and 38 children with EHPVO after Rex shunt procedure, respectively. The study variables included clinical characteristics, ultrasound parameters, and serological markers. Five machine learning models were developed to predict postoperative stenosis after the Rex shunt procedure at different follow-up periods, with performance evaluated using the area under the receiver operating characteristic curve (AUROC). In the temporal validatio...",
-        "pmid": "42875930",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42875930/",
-        "doiUrl": "https://doi.org/10.1002/jcu.70440",
-        "url": "https://doi.org/10.1002/jcu.70440"
+        "authors": "Shen XK, Chen JL, Ding Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Liver dysfunction is a common complication in critically ill patients, and porta... 临床提示：该英文报道关注最新动态：This study aims to investigate the impact of PHT on clinical outcomes in critica...",
+        "abstract": "Liver dysfunction is a common complication in critically ill patients, and portal hypertension (PHT) represents a severe hepatic pathological condition closely associated with adverse patient outcomes. This study aims to investigate the impact of PHT on clinical outcomes in critically ill adult patients. Data were extracted from the Medical Information Market for Intensive Care IV database. All critically ill patients admitted to the hospital were included in this study. Logistic regression analysis was used to assess the correlation between PHT and hospital mortality, length of stay in the intensive care unit (LOS-ICU), and length of stay in hospital in critically ill patients, and multiple...",
+        "pmid": "42888530",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42888530/",
+        "doiUrl": "https://doi.org/10.1097/MD.0000000000051129",
+        "url": "https://doi.org/10.1097/MD.0000000000051129"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Brazil sees record fall in Amazon deforestation as key election looms...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Brazil sees record fall in Amazon deforestation as key election looms...”。核心要点：该英文报道关注最新动态：The Amazon rainforest is a crucial buffer against climate change - b...",
+        "titleZh": "该英文报道关注最新动态：Violent clashes, looting and buildings ablaze in France as over 1,000 arrested a...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Violent clashes, looting and buildings ablaze in France as over 1,000 arrested a...”。核心要点：该英文报道关注最新动态：Disorder broke out in cities across the country on a day in which mo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 17 Oct 2026 02:33:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 17 Oct 2026 20:52:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump waives several Russia sanctions as new US law takes effect...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump waives several Russia sanctions as new US law takes effect...”。核心要点：该英文报道关注最新动态：Trump says parts of a new law that aims to punish Moscow for its war...",
+        "titleZh": "该英文报道关注最新动态：A wave of homemade, synthetic drugs sweeps US and deepens crisis...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：A wave of homemade, synthetic drugs sweeps US and deepens crisis...”。核心要点：该英文报道关注最新动态：BBC News hears from users, dealers, prison and recovery workers as t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 17 Oct 2026 05:02:50 GMT",
+        "publishedAt": "Sun, 18 Oct 2026 05:04:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：European diplomats attacked by Israeli settlers in West Bank...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：European diplomats attacked by Israeli settlers in West Bank...”。核心要点：该英文报道关注最新动态：The Israeli military condemns the violence but the prime minister's ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 17 Oct 2026 23:52:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Deaths confirmed in major fire at Canada military base...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Deaths confirmed in major fire at Canada military base...”。核心要点：该英文报道关注最新动态：Number of casualties unknown in \"very, very active and delicate\" sit...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 18 Oct 2026 04:00:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Trump waives several Russia sanctions as row with Zelensky intensifies...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump waives several Russia sanctions as row with Zelensky intensifies...”。核心要点：该英文报道关注最新动态：The US president temporarily ends many restrictions on Moscow recent...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 18 Oct 2026 01:10:25 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Oregon teacher fought school attacker before armed dad shot suspect 'multiple ti...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Oregon teacher fought school attacker before armed dad shot suspect 'multiple ti...”。核心要点：该英文报道关注最新动态：The 16-year-old suspect previously attended the primary school and h...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 17 Oct 2026 01:19:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Three men jailed for 158 years each for murdering Australian and US surfers in M...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Three men jailed for 158 years each for murdering Australian and US surfers in M...”。核心要点：该英文报道关注最新动态：Brothers Jake and Callum Robinson and their friend Carter Rhoad were...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 17 Oct 2026 03:11:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Inside Ukrainian offensive pushing Russia back - with Starlink playing a key rol...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside Ukrainian offensive pushing Russia back - with Starlink playing a key rol...”。核心要点：该英文报道关注最新动态：The BBC joins Ukraine's Operation Vivaldi as it regains crucial terr...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 16 Oct 2026 16:00:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "银行预计预算中将受到更高税收的打击",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“银行预计预算中将受到更高税收的打击”。核心要点：银行业高级管理人员告诉英国广播公司，他们预计将在本月晚些时候出现在财政大臣的预算税中“菜单上”。",
+        "titleZh": "该英文报道关注最新动态：Banks expect to be hit with higher taxes in Budget...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Banks expect to be hit with higher taxes in Budget...”。核心要点：该英文报道关注最新动态：Senior banking executives have told the BBC they expect to be \"on th...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 16 Oct 2026 10:16:27 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "观看：特斯拉真的刚刚推出了飞行汽车吗？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“观看：特斯拉真的刚刚推出了飞行汽车吗？”。核心要点：特斯拉首席执行官埃隆·马斯克在他的 SpaceX 公司拥有的工厂展示了这款汽车，该公司帮助开发了该模型。",
+        "titleZh": "该英文报道关注最新动态：Watch: Did Tesla really just unveil a flying car?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Watch: Did Tesla really just unveil a flying car?...”。核心要点：该英文报道关注最新动态：Tesla CEO Elon Musk showcased the vehicle at a facility owned by his...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 16 Oct 2026 12:32:31 GMT",
         "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我发现在商店里非常令人沮丧——为什么我所有的购物都在网上进行",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我发现在商店里非常令人沮丧——为什么我所有的购物都在网上进行”。核心要点：Primark 宣布送货上门计划后，我们听到了从未去过服装店的女性的来信。",
+        "titleZh": "该英文报道关注最新动态：I find it quite demoralising in store - why I do all my shopping online...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I find it quite demoralising in store - why I do all my shopping online...”。核心要点：该英文报道关注最新动态：After Primark announced plans for home delivery, we hear from women ...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Thu, 15 Oct 2026 23:16:12 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于石油出口放缓，霍尔木兹附近的船只袭击报告创历史新高",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于石油出口放缓，霍尔木兹附近的船只袭击报告创历史新高”。核心要点：BBC verify 对英国海事机构数据的分析显示，一周内有 12 艘船只遭到袭击。",
+        "titleZh": "该英文报道关注最新动态：Ship attack reports near Hormuz reach record high as oil exports slow...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ship attack reports near Hormuz reach record high as oil exports slow...”。核心要点：该英文报道关注最新动态：BBC Verify analysis of data from a UK maritime agency shows 12 vesse...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 16 Oct 2026 05:00:17 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "南迪“有意干预”天空电视台以 16 亿英镑收购 ITV 娱乐部门",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“南迪“有意干预”天空电视台以 16 亿英镑收购 ITV 娱乐部门”。核心要点：文化大臣表示，这项协议可能会影响媒体的自由表达和英国新闻格局的多样性。",
+        "titleZh": "该英文报道关注最新动态：Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm...”。核心要点：该英文报道关注最新动态：The culture secretary says the deal could affect free expression in ...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Thu, 15 Oct 2026 14:55:21 GMT",
