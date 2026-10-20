@@ -1,159 +1,119 @@
 {
-  "updatedAt": "2026-10-19T06:14:17.823Z",
+  "updatedAt": "2026-10-20T06:02:17.751Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Zyxin protects against hypertensive nephropathy by restraining FAK/Skp2-CDK8/YAP signaling in tubular epithelial cells.",
-        "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
-        "pubDate": "2026 Oct 17",
-        "studyType": "Journal Article",
-        "authors": "Huang W, Chen YY, Wang YM",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Intrarenal zyxin was overexpressed using adeno-associated virus.... 临床提示：该英文报道关注最新动态：Tubulointerstitial fibrosis and inflammation are hallmark pathological features ...",
-        "abstract": "Tubulointerstitial fibrosis and inflammation are hallmark pathological features of hypertensive nephropathy (HN), yet the underlying molecular mechanisms remain elusive. Zyxin, a focal adhesion protein, has been implicated in hypertension-related pathologies, but its specific role in HN-induced tubulointerstitial injury remains undefined. An HN murine model was established via a multi‑hit DOCA/Ang II + uninephrectomy + high salt approach. Intrarenal zyxin was overexpressed using adeno-associated virus. In vitro, HK-2 cells were stimulated with Ang II, and zyxin levels were modulated via lentiviral transduction. Renal function, inflammation, and fibrosis were evaluated through biochemical ass...",
-        "pmid": "42892642",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42892642/",
-        "doiUrl": "https://doi.org/10.1007/s00011-026-02373-9",
-        "url": "https://doi.org/10.1007/s00011-026-02373-9"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "A Survey on Terminology and Diagnostic Features of a Subgroup of Non-cirrhotic Portal Hypertension Patients: A Report from Asia-Pacific Experts.",
-        "journal": "Journal of clinical and experimental hepatology",
-        "pubDate": "2027 Jan-Feb",
+        "title": "Heart Transplantation in Adult Fontan Patients: New Insights from Fontan-Associated Liver Disease Beyond Traditional Predictors.",
+        "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+        "pubDate": "2026 Oct 19",
         "studyType": "Journal Article",
-        "authors": "Shukla A, Qi X, Ormeci N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 242）。核心观点：该英文报道关注最新动态：Background : There have been recent proposals to replace non-cirrhotic portal fi... 临床提示：该英文报道关注最新动态：with an all-encompassing term \"porto-sinusoidal vascular disorder.\" However, the...",
-        "abstract": "Background : There have been recent proposals to replace non-cirrhotic portal fibrosis (NCPF), idiopathic portal hypertension (IPH), idiopathic non-cirrhotic portal hypertension, nodular regenerative hyperplasia, etc. with an all-encompassing term \"porto-sinusoidal vascular disorder.\" However, the Asia-Pacific Association for Study of the Liver recommended continued use of the term NCPF/IPH. Methods : We sent this questionnaire-based online survey to capture the clinical perspectives of 300 specialized experts in the Asia-Pacific region with complete anonymisation. Results : The survey ( n = 242 respondents) revealed overwhelming support for the continued use of the NCPF/IPH nomenclature, wi...",
-        "pmid": "42893017",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42893017/",
-        "doiUrl": "https://doi.org/10.1016/j.jceh.2026.103671",
-        "url": "https://doi.org/10.1016/j.jceh.2026.103671"
+        "authors": "Rybicka J, Coats L, Crossland D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Fontan patients are considered high risk for heart transplantation (HT) owing to... 临床提示：该英文报道关注最新动态：We sought to identify factors associated with 90-day mortality after isolated HT...",
+        "abstract": "Fontan patients are considered high risk for heart transplantation (HT) owing to their complex anatomy, multiple prior chest entries, and universal Fontan-associated liver disease (FALD). The impact of FALD and other preoperative factors remains, however, uncertain. We sought to identify factors associated with 90-day mortality after isolated HT in adults with Fontan circulation, with particular focus on the relationship between liver-related parameters and post-transplant outcomes. A retrospective cohort study of all adult Fontan patients undergoing isolated HT was conducted. Factors associated with 90-day mortality were assessed using appropriate univariate analyses and penalized multivari...",
+        "pmid": "42896765",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42896765/",
+        "doiUrl": "https://doi.org/10.1016/j.healun.2026.10.010",
+        "url": "https://doi.org/10.1016/j.healun.2026.10.010"
       },
       {
-        "title": "Altered T cell immune profile and its prognostic implications in children with portal hypertension: A pilot study.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "title": "Asymptomatic Portomesenteric Venous Thrombosis After Colorectal Cancer Surgery: Incidence, Natural History, and Implications for Management.",
+        "journal": "World journal of surgery",
         "pubDate": "2026 Oct 18",
         "studyType": "Journal Article",
-        "authors": "Si T, Yu H, Tucker B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：PHT was associated with reduced ...... 临床提示：该英文报道关注最新动态：Immune dysregulation in paediatric portal hypertension (PHT) is poorly understoo...",
-        "abstract": "Immune dysregulation in paediatric portal hypertension (PHT) is poorly understood. We aimed to characterise T cell phenotype and function and circulating immune mediators in children with PHT according to disease aetiology. Forty-four children with PHT (27 chronic liver disease [CLD]-related and 17 portal vein thrombosis [PVT]-related) and 15 healthy controls were prospectively enrolled. Peripheral and portal blood samples were analysed using multiparameter flow cytometry and ELISA to assess T cell subsets, chemokine receptors, cytokines and soluble immune markers. Analyses examined group differences and correlations with liver stiffness and bleeding history. PHT was associated with reduced ...",
-        "pmid": "42893940",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42893940/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70613",
-        "url": "https://doi.org/10.1002/jpn3.70613"
-      },
-      {
-        "title": "Biomarkers of native liver survival and portal hypertension in biliary atresia.",
-        "journal": "Journal of pediatric gastroenterology and nutrition",
-        "pubDate": "2026 Oct 18",
-        "studyType": "Journal Article",
-        "authors": "Jordão KSLU, da Costa LBE, Bellomo-Brandão MÂ",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To evaluate the prognostic value of noninvasive markers Aspartate Aminotransfera... 临床提示：该英文报道关注最新动态：To evaluate the prognostic value of noninvasive markers Aspartate Aminotransfera...",
-        "abstract": "To evaluate the prognostic value of noninvasive markers Aspartate Aminotransferase to Platelet Ratio Index (APRi) and Infantile Biliary Atresia Liver Fibrosis score (iBALF), as well as the histological Ishak fibrosis score, as predictors of native liver survival (NLS) and portal hypertension (PH) in children with biliary atresia BA undergoing Kasai portoenterostomy (KPE). A single-center, retrospective observational study was conducted on children diagnosed with BA who underwent KPE. APRi and iBALF were calculated using laboratory data collected at hospital discharge after KPE. The degree of hepatic fibrosis was assessed and reviewed using the Ishak fibrosis score in liver biopsy specimens c...",
-        "pmid": "42893939",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42893939/",
-        "doiUrl": "https://doi.org/10.1002/jpn3.70618",
-        "url": "https://doi.org/10.1002/jpn3.70618"
-      },
-      {
-        "title": "Coil Embolization and Open Splenectomy for a Massive Splenic Vein Aneurysm: A Case Report.",
-        "journal": "Case reports in vascular medicine",
-        "pubDate": "2026",
-        "studyType": "Journal Article",
-        "authors": "Vu K, Brown L, Durrence B",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Splenic vein aneurysms (SVAs) are a rare vascular anomaly of the portal system t... 临床提示：该英文报道关注最新动态：Intervention is reserved for aneurysms that are enlarging, thrombosed, symptomat...",
-        "abstract": "Splenic vein aneurysms (SVAs) are a rare vascular anomaly of the portal system that are often asymptomatic and found incidentally on imaging. Intervention is reserved for aneurysms that are enlarging, thrombosed, symptomatic, or ruptured to avoid catastrophic complications. This can range from endovascular to open, complex procedures. Here, we present the case of a massive, symptomatic, partially thrombosed SVA that required a hybrid approach involving both minimally invasive and open surgery. A 56-year-old woman presented to the emergency department for an infected right foot wound and was admitted for intravenous antibiotics and surgical debridement. While hospitalized, she had a worsening...",
-        "pmid": "42893180",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42893180/",
-        "doiUrl": "https://doi.org/10.1155/crvm/6210301",
-        "url": "https://doi.org/10.1155/crvm/6210301"
+        "authors": "Kim CH, Kim D, Park JH",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Using a cohort with routine postoperative imaging, we characterized the incidenc... 临床提示：该英文报道关注最新动态：Portomesenteric venous thrombosis (PMVT) after colorectal cancer (CRC) surgery i...",
+        "abstract": "Portomesenteric venous thrombosis (PMVT) after colorectal cancer (CRC) surgery is most often reported in symptomatic patients, leaving its frequency and natural history across the asymptomatic spectrum poorly defined. When encountered incidentally, it frequently prompts anticoagulation, hypercoagulability evaluation, or delays in oncologic treatment, despite limited evidence that intervention alters its course. Using a cohort with routine postoperative imaging, we characterized the incidence, anatomic distribution, risk factors, and clinical course of asymptomatic PMVT. We retrospectively studied 799 consecutive patients who underwent CRC surgery between April 2019 and June 2025. All patient...",
+        "pmid": "42894429",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42894429/",
+        "doiUrl": "https://doi.org/10.1002/wjs.70633",
+        "url": "https://doi.org/10.1002/wjs.70633"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：France's government under pressure after weekend of widespread violence...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France's government under pressure after weekend of widespread violence...”。核心要点：该英文报道关注最新动态：Political tension grips France after rioting marred protests over th...",
+        "titleZh": "该英文报道关注最新动态：Curfew imposed in parts of central Paris and other cities after rioting across F...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Curfew imposed in parts of central Paris and other cities after rioting across F...”。核心要点：该英文报道关注最新动态：The country's interior minister admits that police \"lost control\" in...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 04:16:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 19 Oct 2026 21:14:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Funding shortages force World Food Programme to cut aid to Gaza...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Funding shortages force World Food Programme to cut aid to Gaza...”。核心要点：该英文报道关注最新动态：The number of people helped by the UN agency in the Palestinian terr...",
+        "titleZh": "该英文报道关注最新动态：Ukrainians dying because US restricting intelligence sharing, Zelensky adviser t...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ukrainians dying because US restricting intelligence sharing, Zelensky adviser t...”。核心要点：该英文报道关注最新动态：Serhii Beskrestnov says there has not been enough time to warn peopl...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 06:00:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 19 Oct 2026 20:49:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Major fire at Canada military base leaves four dead, dozens injured...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Major fire at Canada military base leaves four dead, dozens injured...”。核心要点：该英文报道关注最新动态：Prime Minister Carney said military and emergency crews fought the f...",
+        "titleZh": "该英文报道关注最新动态：Seventh day of violent clashes between Albanian protesters and police...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Seventh day of violent clashes between Albanian protesters and police...”。核心要点：该英文报道关注最新动态：Almost 300 people have been injured, more than half of them police, ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 18 Oct 2026 23:06:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 02:45:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Inside the shadowy world of anti-Putin sabotage from within Russia...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside the shadowy world of anti-Putin sabotage from within Russia...”。核心要点：该英文报道关注最新动态：Two men tell of the work they say they have been doing to support Uk...",
+        "titleZh": "该英文报道关注最新动态：Canadian tourist found guilty of animal cruelty after stealing Las Vegas flaming...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Canadian tourist found guilty of animal cruelty after stealing Las Vegas flaming...”。核心要点：该英文报道关注最新动态：The man testified that he snatched Peachy from its enclosure at the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 00:06:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 03:10:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump says suspension of Russia sanctions is to keep peace negotiations going...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says suspension of Russia sanctions is to keep peace negotiations going...”。核心要点：该英文报道关注最新动态：The US president blocked numerous sanctions on Russia two days befor...",
+        "titleZh": "该英文报道关注最新动态：Mission blasts off for Mars to grab a piece of its moon...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mission blasts off for Mars to grab a piece of its moon...”。核心要点：该英文报道关注最新动态：A spacecraft is set to launch on an ambitious mission to bring 10g o...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 18 Oct 2026 23:20:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 19 Oct 2026 19:45:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Home sellers cut asking prices on 3,000 properties a day...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Home sellers cut asking prices on 3,000 properties a day...”。核心要点：该英文报道关注最新动态：More property asking prices are being cut than at any time in 15 yea...",
+        "titleZh": "该英文报道关注最新动态：Chancellor rejects calls to raise Capital Gains Tax in Budget...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Chancellor rejects calls to raise Capital Gains Tax in Budget...”。核心要点：该英文报道关注最新动态：Influential Labour figures had been pushing for equalising CGT and i...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 18 Oct 2026 23:00:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 01:31:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Don't fall for this - how to protect yourself from AI scams...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Don't fall for this - how to protect yourself from AI scams...”。核心要点：该英文报道关注最新动态：Trading standards officers say AI is \"super-charging\" existing scams...",
+        "titleZh": "该英文报道关注最新动态：Burnham vows end to 'rip-off parking charges' under new rules...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham vows end to 'rip-off parking charges' under new rules...”。核心要点：该英文报道关注最新动态：Penalties are seen as too harsh on motorists who are penalised for p...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 18 Oct 2026 23:24:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 19 Oct 2026 21:30:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Microsoft pulls out of UK's largest AI data centre...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Microsoft pulls out of UK's largest AI data centre...”。核心要点：该英文报道关注最新动态：Tech firm Nscale says it is still committed to building the site in ...",
+        "titleZh": "该英文报道关注最新动态：'I'm fed up of swiping': Why singles now want to meet IRL...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I'm fed up of swiping': Why singles now want to meet IRL...”。核心要点：该英文报道关注最新动态：The BBC hears from people who think dating events are better value f...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 18 Oct 2026 16:46:42 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 19 Oct 2026 23:00:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：China's growth accelerates as AI boom helps boost exports...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：China's growth accelerates as AI boom helps boost exports...”。核心要点：该英文报道关注最新动态：Exports have helped offset weak spending at home, but trade tensions...",
+        "titleZh": "该英文报道关注最新动态：How is the US economy really doing under President Trump?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How is the US economy really doing under President Trump?...”。核心要点：该英文报道关注最新动态：Ahead of the midterms Trump has boasted about the performance of the...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 06:08:02 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 05:00:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：People playing loud music on buses could face £100 fine...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：People playing loud music on buses could face £100 fine...”。核心要点：该英文报道关注最新动态：Antisocial behaviour on buses in England could lead to fines while a...",
+        "titleZh": "该英文报道关注最新动态：US bans DeepSeek AI from government use as tech tension with China continues...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US bans DeepSeek AI from government use as tech tension with China continues...”。核心要点：该英文报道关注最新动态：DeepSeek is a powerful, popular and relatively inexpensive artificia...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 00:22:20 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 19 Oct 2026 18:21:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
