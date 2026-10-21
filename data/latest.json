@@ -1,119 +1,119 @@
 {
-  "updatedAt": "2026-10-20T06:02:17.751Z",
+  "updatedAt": "2026-10-21T06:03:31.503Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Heart Transplantation in Adult Fontan Patients: New Insights from Fontan-Associated Liver Disease Beyond Traditional Predictors.",
-        "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
-        "pubDate": "2026 Oct 19",
-        "studyType": "Journal Article",
-        "authors": "Rybicka J, Coats L, Crossland D",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Fontan patients are considered high risk for heart transplantation (HT) owing to... 临床提示：该英文报道关注最新动态：We sought to identify factors associated with 90-day mortality after isolated HT...",
-        "abstract": "Fontan patients are considered high risk for heart transplantation (HT) owing to their complex anatomy, multiple prior chest entries, and universal Fontan-associated liver disease (FALD). The impact of FALD and other preoperative factors remains, however, uncertain. We sought to identify factors associated with 90-day mortality after isolated HT in adults with Fontan circulation, with particular focus on the relationship between liver-related parameters and post-transplant outcomes. A retrospective cohort study of all adult Fontan patients undergoing isolated HT was conducted. Factors associated with 90-day mortality were assessed using appropriate univariate analyses and penalized multivari...",
-        "pmid": "42896765",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42896765/",
-        "doiUrl": "https://doi.org/10.1016/j.healun.2026.10.010",
-        "url": "https://doi.org/10.1016/j.healun.2026.10.010"
+        "title": "Effects of Aerobic Exercise on Autonomic and Endothelial Function and Splanchnic Hemodynamics in Compensated Cirrhosis: RCT Study.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article / Randomized Controlled Trial",
+        "authors": "Kittiprachakul S, Rangkla S, Kulaputana O",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 25）。核心观点：该英文报道关注最新动态：Patients with cirrhosis often develop autonomic dysfunction (AD) and endothelial... 临床提示：该英文报道关注最新动态：Aerobic exercise (AE) is a potential intervention, yet its effects on the autono...",
+        "abstract": "Patients with cirrhosis often develop autonomic dysfunction (AD) and endothelial dysfunction (ED), which correlate with higher mortality. Aerobic exercise (AE) is a potential intervention, yet its effects on the autonomic nervous system (ANS) and hemodynamics remain underinvestigated in cirrhosis. We conducted a parallel-group randomized controlled trial including 50 sedentary patients with compensated cirrhosis. Participants were randomized to a 16-week moderate-intensity AE plus nutritional consultation (AE group; n = 25) or nutritional consultation alone (control group, CG; n = 25). Outcomes included heart rate variability (HRV), flow-mediated dilation (FMD) for peripheral circulation, me...",
+        "pmid": "42897943",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42897943/",
+        "doiUrl": "https://doi.org/10.1111/liv.70920",
+        "url": "https://doi.org/10.1111/liv.70920"
       },
       {
-        "title": "Asymptomatic Portomesenteric Venous Thrombosis After Colorectal Cancer Surgery: Incidence, Natural History, and Implications for Management.",
-        "journal": "World journal of surgery",
-        "pubDate": "2026 Oct 18",
+        "title": "Paroxysmal Nocturnal Hemoglobinuria with a Common Variable Immunodeficiency Phenotype: Noncirrhotic Portal Hypertension Without Demonstrable Splanchnic Thrombosis.",
+        "journal": "Turkish journal of haematology : official journal of Turkish Society of Haematology",
+        "pubDate": "2026 Oct 20",
         "studyType": "Journal Article",
-        "authors": "Kim CH, Kim D, Park JH",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Using a cohort with routine postoperative imaging, we characterized the incidenc... 临床提示：该英文报道关注最新动态：Portomesenteric venous thrombosis (PMVT) after colorectal cancer (CRC) surgery i...",
-        "abstract": "Portomesenteric venous thrombosis (PMVT) after colorectal cancer (CRC) surgery is most often reported in symptomatic patients, leaving its frequency and natural history across the asymptomatic spectrum poorly defined. When encountered incidentally, it frequently prompts anticoagulation, hypercoagulability evaluation, or delays in oncologic treatment, despite limited evidence that intervention alters its course. Using a cohort with routine postoperative imaging, we characterized the incidence, anatomic distribution, risk factors, and clinical course of asymptomatic PMVT. We retrospectively studied 799 consecutive patients who underwent CRC surgery between April 2019 and June 2025. All patient...",
-        "pmid": "42894429",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42894429/",
-        "doiUrl": "https://doi.org/10.1002/wjs.70633",
-        "url": "https://doi.org/10.1002/wjs.70633"
+        "authors": "Kural RF, Kavlak G, Abdullayeva N",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Paroxysmal Nocturnal Hemoglobinuria with a Common Variable Immunodeficiency Phen...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42898559",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42898559/",
+        "doiUrl": "https://doi.org/10.4274/tjh.galenos.2026.10336",
+        "url": "https://doi.org/10.4274/tjh.galenos.2026.10336"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Curfew imposed in parts of central Paris and other cities after rioting across F...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Curfew imposed in parts of central Paris and other cities after rioting across F...”。核心要点：该英文报道关注最新动态：The country's interior minister admits that police \"lost control\" in...",
+        "titleZh": "该英文报道关注最新动态：US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works no...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works no...”。核心要点：该英文报道关注最新动态：Ukraine had accused the US of withholding key intelligence - a claim...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 21:14:53 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 03:59:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ukrainians dying because US restricting intelligence sharing, Zelensky adviser t...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ukrainians dying because US restricting intelligence sharing, Zelensky adviser t...”。核心要点：该英文报道关注最新动态：Serhii Beskrestnov says there has not been enough time to warn peopl...",
+        "titleZh": "该英文报道关注最新动态：France is divided over who to blame for weekend riots and what to learn from the...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France is divided over who to blame for weekend riots and what to learn from the...”。核心要点：该英文报道关注最新动态：In France and beyond there is widespread disagreement over what led ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 20:49:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 01:22:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Seventh day of violent clashes between Albanian protesters and police...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Seventh day of violent clashes between Albanian protesters and police...”。核心要点：该英文报道关注最新动态：Almost 300 people have been injured, more than half of them police, ...",
+        "titleZh": "该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...”。核心要点：该英文报道关注最新动态：Musk says special committees within both companies have been formed ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 02:45:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 05:48:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Canadian tourist found guilty of animal cruelty after stealing Las Vegas flaming...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Canadian tourist found guilty of animal cruelty after stealing Las Vegas flaming...”。核心要点：该英文报道关注最新动态：The man testified that he snatched Peachy from its enclosure at the ...",
+        "titleZh": "该英文报道关注最新动态：Pakistan arrests man hunted by US over $126m postage fraud case...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pakistan arrests man hunted by US over $126m postage fraud case...”。核心要点：该英文报道关注最新动态：Faheem Akram allegedly sold more than 5 million fake postage labels ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 03:10:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 05:46:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Mission blasts off for Mars to grab a piece of its moon...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mission blasts off for Mars to grab a piece of its moon...”。核心要点：该英文报道关注最新动态：A spacecraft is set to launch on an ambitious mission to bring 10g o...",
+        "titleZh": "该英文报道关注最新动态：Trump and Zelensky appear at loggerheads despite Oslo optimism...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump and Zelensky appear at loggerheads despite Oslo optimism...”。核心要点：该英文报道关注最新动态：The Ukrainian leader's hug with Steve Witkoff in the Norwegian capit...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 19:45:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 20:00:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Chancellor rejects calls to raise Capital Gains Tax in Budget...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Chancellor rejects calls to raise Capital Gains Tax in Budget...”。核心要点：该英文报道关注最新动态：Influential Labour figures had been pushing for equalising CGT and i...",
+        "titleZh": "该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...”。核心要点：该英文报道关注最新动态：Musk says special committees within both companies have been formed ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 01:31:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 05:48:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Burnham vows end to 'rip-off parking charges' under new rules...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham vows end to 'rip-off parking charges' under new rules...”。核心要点：该英文报道关注最新动态：Penalties are seen as too harsh on motorists who are penalised for p...",
+        "titleZh": "该英文报道关注最新动态：Why does Elon Musk want to merge Tesla and SpaceX?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why does Elon Musk want to merge Tesla and SpaceX?...”。核心要点：该英文报道关注最新动态：Musk, who is CEO of both companies, says there is \"a lot to be gaine...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 21:30:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 04:13:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'I'm fed up of swiping': Why singles now want to meet IRL...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I'm fed up of swiping': Why singles now want to meet IRL...”。核心要点：该英文报道关注最新动态：The BBC hears from people who think dating events are better value f...",
+        "titleZh": "该英文报道关注最新动态：Google resolves cloud outage affecting UK banks and websites...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Google resolves cloud outage affecting UK banks and websites...”。核心要点：该英文报道关注最新动态：Revolut was one of the hardest hit, with banking services going down...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 23:00:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 18:03:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How is the US economy really doing under President Trump?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How is the US economy really doing under President Trump?...”。核心要点：该英文报道关注最新动态：Ahead of the midterms Trump has boasted about the performance of the...",
+        "titleZh": "该英文报道关注最新动态：Trump sued over Canadian tariffs in latest legal challenge...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump sued over Canadian tariffs in latest legal challenge...”。核心要点：该英文报道关注最新动态：The lawsuit argues the White House exceeded its authority in imposin...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 05:00:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 19:30:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US bans DeepSeek AI from government use as tech tension with China continues...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US bans DeepSeek AI from government use as tech tension with China continues...”。核心要点：该英文报道关注最新动态：DeepSeek is a powerful, popular and relatively inexpensive artificia...",
+        "titleZh": "该英文报道关注最新动态：The tech helping crack decades-old cold cases...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The tech helping crack decades-old cold cases...”。核心要点：该英文报道关注最新动态：Investigative genetic genealogy can help hunt down criminals but rai...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 19 Oct 2026 18:21:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 20 Oct 2026 23:13:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
