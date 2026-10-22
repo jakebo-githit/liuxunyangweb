@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-10-21T06:03:31.503Z",
+  "updatedAt": "2026-10-22T06:08:39.327Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Effects of Aerobic Exercise on Autonomic and Endothelial Function and Splanchnic Hemodynamics in Compensated Cirrhosis: RCT Study.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
-        "pubDate": "2026 Nov",
-        "studyType": "Journal Article / Randomized Controlled Trial",
-        "authors": "Kittiprachakul S, Rangkla S, Kulaputana O",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 25）。核心观点：该英文报道关注最新动态：Patients with cirrhosis often develop autonomic dysfunction (AD) and endothelial... 临床提示：该英文报道关注最新动态：Aerobic exercise (AE) is a potential intervention, yet its effects on the autono...",
-        "abstract": "Patients with cirrhosis often develop autonomic dysfunction (AD) and endothelial dysfunction (ED), which correlate with higher mortality. Aerobic exercise (AE) is a potential intervention, yet its effects on the autonomic nervous system (ANS) and hemodynamics remain underinvestigated in cirrhosis. We conducted a parallel-group randomized controlled trial including 50 sedentary patients with compensated cirrhosis. Participants were randomized to a 16-week moderate-intensity AE plus nutritional consultation (AE group; n = 25) or nutritional consultation alone (control group, CG; n = 25). Outcomes included heart rate variability (HRV), flow-mediated dilation (FMD) for peripheral circulation, me...",
-        "pmid": "42897943",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42897943/",
-        "doiUrl": "https://doi.org/10.1111/liv.70920",
-        "url": "https://doi.org/10.1111/liv.70920"
-      },
-      {
-        "title": "Paroxysmal Nocturnal Hemoglobinuria with a Common Variable Immunodeficiency Phenotype: Noncirrhotic Portal Hypertension Without Demonstrable Splanchnic Thrombosis.",
-        "journal": "Turkish journal of haematology : official journal of Turkish Society of Haematology",
+        "title": "Study protocol of a prospective, non-interventional cohort study evaluating the benefits of transjugular intrahepatic portosystemic shunt in patients with hepatocellular carcinoma receiving first-line atezolizumab plus bevacizumab (NISTIPS TRITICC-4, IKF092).",
+        "journal": "Future oncology (London, England)",
         "pubDate": "2026 Oct 20",
         "studyType": "Journal Article",
-        "authors": "Kural RF, Kavlak G, Abdullayeva N",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Paroxysmal Nocturnal Hemoglobinuria with a Common Variable Immunodeficiency Phen...",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "42898559",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42898559/",
-        "doiUrl": "https://doi.org/10.4274/tjh.galenos.2026.10336",
-        "url": "https://doi.org/10.4274/tjh.galenos.2026.10336"
+        "authors": "Angendohr C, Weigel C, Kunstein A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Atezolizumab plus bevacizumab is a current standard first-line therapy; however,... 临床提示：该英文报道关注最新动态：Complications such as ascites and variceal bleeding may limit treatment continua...",
+        "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with most patients diagnosed at an advanced stage. Atezolizumab plus bevacizumab is a current standard first-line therapy; however, outcomes are strongly influenced by underlying cirrhosis and clinically significant portal hypertension (CSPH). Complications such as ascites and variceal bleeding may limit treatment continuation, particularly as bevacizumab increases bleeding risk. Transjugular intrahepatic portosystemic shunt (TIPS) reduces portal pressure and may improve outcomes, but its role in patients receiving immunoncology-based systemic therapy remains unclear. NISTIPS TRITICC-4 is a prospective, multicentr...",
+        "pmid": "42902603",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42902603/",
+        "doiUrl": "https://doi.org/10.1080/14796694.2026.2748246",
+        "url": "https://doi.org/10.1080/14796694.2026.2748246"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works no...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works no...”。核心要点：该英文报道关注最新动态：Ukraine had accused the US of withholding key intelligence - a claim...",
+        "titleZh": "该英文报道关注最新动态：How Arab parties could hold critical balance of power in Israeli election...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：How Arab parties could hold critical balance of power in Israeli election...”。核心要点：该英文报道关注最新动态：Disaffection has often driven down turnout among Arab Israelis, but ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 03:59:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 05:30:22 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：France is divided over who to blame for weekend riots and what to learn from the...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France is divided over who to blame for weekend riots and what to learn from the...”。核心要点：该英文报道关注最新动态：In France and beyond there is widespread disagreement over what led ...",
+        "titleZh": "该英文报道关注最新动态：Governments working to identify exposure after global cyber-security warning...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Governments working to identify exposure after global cyber-security warning...”。核心要点：该英文报道关注最新动态：Governments and companies are scrambling to protect their websites, ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 01:22:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 06:05:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...”。核心要点：该英文报道关注最新动态：Musk says special committees within both companies have been formed ...",
+        "titleZh": "该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...”。核心要点：该英文报道关注最新动态：AI uncovered long-hidden programming flaws, triggering a rare global...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 05:48:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 03:48:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pakistan arrests man hunted by US over $126m postage fraud case...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pakistan arrests man hunted by US over $126m postage fraud case...”。核心要点：该英文报道关注最新动态：Faheem Akram allegedly sold more than 5 million fake postage labels ...",
+        "titleZh": "该英文报道关注最新动态：Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks...”。核心要点：该英文报道关注最新动态：Moscow says it is \"ready in principle\" to resume peace talks and US ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 05:46:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 21:27:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump and Zelensky appear at loggerheads despite Oslo optimism...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump and Zelensky appear at loggerheads despite Oslo optimism...”。核心要点：该英文报道关注最新动态：The Ukrainian leader's hug with Steve Witkoff in the Norwegian capit...",
+        "titleZh": "该英文报道关注最新动态：Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace...”。核心要点：该英文报道关注最新动态：President Vladimir Putin does not feel under pressure right now to e...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 20:00:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 19:58:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Elon Musk considering Tesla-SpaceX merger...”。核心要点：该英文报道关注最新动态：Musk says special committees within both companies have been formed ...",
+        "titleZh": "该英文报道关注最新动态：The 'trillion pound' oil fund the government believes Britain could have built...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The 'trillion pound' oil fund the government believes Britain could have built...”。核心要点：该英文报道关注最新动态：For the first time, the Treasury calculates how much the UK could ha...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 05:48:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 23:27:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Why does Elon Musk want to merge Tesla and SpaceX?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why does Elon Musk want to merge Tesla and SpaceX?...”。核心要点：该英文报道关注最新动态：Musk, who is CEO of both companies, says there is \"a lot to be gaine...",
+        "titleZh": "该英文报道关注最新动态：Websites taken down worldwide as critical cyber-security update issued...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Websites taken down worldwide as critical cyber-security update issued...”。核心要点：该英文报道关注最新动态：The vulnerabilities with PHP, a programming language widely used acr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 04:13:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 19:54:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Google resolves cloud outage affecting UK banks and websites...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Google resolves cloud outage affecting UK banks and websites...”。核心要点：该英文报道关注最新动态：Revolut was one of the hardest hit, with banking services going down...",
+        "titleZh": "该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...”。核心要点：该英文报道关注最新动态：AI uncovered long-hidden programming flaws, triggering a rare global...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 18:03:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 03:48:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump sued over Canadian tariffs in latest legal challenge...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump sued over Canadian tariffs in latest legal challenge...”。核心要点：该英文报道关注最新动态：The lawsuit argues the White House exceeded its authority in imposin...",
+        "titleZh": "该英文报道关注最新动态：No order, no seat: Starbucks China rolls out new store policy...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：No order, no seat: Starbucks China rolls out new store policy...”。核心要点：该英文报道关注最新动态：Starbucks says it is improving customers' in-store experience as it ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 19:30:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 04:02:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：The tech helping crack decades-old cold cases...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The tech helping crack decades-old cold cases...”。核心要点：该英文报道关注最新动态：Investigative genetic genealogy can help hunt down criminals but rai...",
+        "titleZh": "该英文报道关注最新动态：Meta fined $25bn for 'lies' over user data privacy...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Meta fined $25bn for 'lies' over user data privacy...”。核心要点：该英文报道关注最新动态：The fine is the largest to date against Facebook's owner, larger tha...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 20 Oct 2026 23:13:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 21 Oct 2026 21:49:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
