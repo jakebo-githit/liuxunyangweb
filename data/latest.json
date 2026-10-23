@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-10-22T06:08:39.327Z",
+  "updatedAt": "2026-10-23T06:04:07.116Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": [
+    "htn_kidney": [
       {
-        "title": "Study protocol of a prospective, non-interventional cohort study evaluating the benefits of transjugular intrahepatic portosystemic shunt in patients with hepatocellular carcinoma receiving first-line atezolizumab plus bevacizumab (NISTIPS TRITICC-4, IKF092).",
-        "journal": "Future oncology (London, England)",
-        "pubDate": "2026 Oct 20",
+        "title": "Risks of Major Adverse Kidney Events in Non-Hispanic Black Patients with Diabetes or Hypertension: A Real-World Cohort Study.",
+        "journal": "American journal of nephrology",
+        "pubDate": "2026 Aug 28",
         "studyType": "Journal Article",
-        "authors": "Angendohr C, Weigel C, Kunstein A",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Atezolizumab plus bevacizumab is a current standard first-line therapy; however,... 临床提示：该英文报道关注最新动态：Complications such as ascites and variceal bleeding may limit treatment continua...",
-        "abstract": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality, with most patients diagnosed at an advanced stage. Atezolizumab plus bevacizumab is a current standard first-line therapy; however, outcomes are strongly influenced by underlying cirrhosis and clinically significant portal hypertension (CSPH). Complications such as ascites and variceal bleeding may limit treatment continuation, particularly as bevacizumab increases bleeding risk. Transjugular intrahepatic portosystemic shunt (TIPS) reduces portal pressure and may improve outcomes, but its role in patients receiving immunoncology-based systemic therapy remains unclear. NISTIPS TRITICC-4 is a prospective, multicentr...",
-        "pmid": "42902603",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42902603/",
-        "doiUrl": "https://doi.org/10.1080/14796694.2026.2748246",
-        "url": "https://doi.org/10.1080/14796694.2026.2748246"
+        "authors": "Mayhand KN, Zemke A, Alicic RZ",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 375）。核心观点：该英文报道关注最新动态：Chronic kidney disease (CKD) disproportionately burdens non-Hispanic Black (NHB)... 临床提示：该英文报道关注最新动态：Diabetes and hypertension are the leading causes of CKD, yet the influence of ra...",
+        "abstract": "Chronic kidney disease (CKD) disproportionately burdens non-Hispanic Black (NHB) patients who experience a three- to four-fold higher risk of kidney failure than non-Hispanic White (NHW) individuals. Diabetes and hypertension are the leading causes of CKD, yet the influence of race, social context, and clinical factors on major adverse kidney events (MAKEs) remains inadequately understood. This study examined relationships between race, social factors, and MAKE among patients with diabetes or hypertension. Electronic health record data from the CURE-CKD Registry (2013-2022) were used to assemble two mutually exclusive cohorts of NHB and NHW (reference) adults with (1) diabetes (N = 375,605) ...",
+        "pmid": "42664178",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42664178/",
+        "doiUrl": "https://doi.org/10.1159/ajn/ablag006",
+        "url": "https://doi.org/10.1159/ajn/ablag006"
       }
-    ]
+    ],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：How Arab parties could hold critical balance of power in Israeli election...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：How Arab parties could hold critical balance of power in Israeli election...”。核心要点：该英文报道关注最新动态：Disaffection has often driven down turnout among Arab Israelis, but ...",
+        "titleZh": "该英文报道关注最新动态：Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds...”。核心要点：该英文报道关注最新动态：The UN human rights chief Volker Türk says the multiple attacks may ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 22 Oct 2026 05:30:22 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 23:16:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Governments working to identify exposure after global cyber-security warning...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Governments working to identify exposure after global cyber-security warning...”。核心要点：该英文报道关注最新动态：Governments and companies are scrambling to protect their websites, ...",
+        "titleZh": "该英文报道关注最新动态：Powerful earthquake hits Tibet killing 16 people, reports say...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Powerful earthquake hits Tibet killing 16 people, reports say...”。核心要点：该英文报道关注最新动态：The quake hit a mountainous, sparsely-populated area in what China c...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 22 Oct 2026 06:05:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 23 Oct 2026 05:16:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...”。核心要点：该英文报道关注最新动态：AI uncovered long-hidden programming flaws, triggering a rare global...",
+        "titleZh": "该英文报道关注最新动态：Trump says Musk has restored access to Ukraine's Starlink network...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump says Musk has restored access to Ukraine's Starlink network...”。核心要点：该英文报道关注最新动态：Ukraine relies on Starlink for a range of military uses - its owner ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 22 Oct 2026 03:48:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 21:42:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks...”。核心要点：该英文报道关注最新动态：Moscow says it is \"ready in principle\" to resume peace talks and US ...",
+        "titleZh": "该英文报道关注最新动态：L'Oreal says weight loss drugs are impacting beauty and skincare sales...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：L'Oreal says weight loss drugs are impacting beauty and skincare sales...”。核心要点：该英文报道关注最新动态：The beauty giant's CEO says the use of GLP-1s is \"a very important p...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 21:27:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 22:27:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace...”。核心要点：该英文报道关注最新动态：President Vladimir Putin does not feel under pressure right now to e...",
+        "titleZh": "该英文报道关注最新动态：Trump ordered to answer questions under oath in BBC lawsuit...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump ordered to answer questions under oath in BBC lawsuit...”。核心要点：该英文报道关注最新动态：Trump is suing the BBC over an episode of Panorama that edited toget...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 19:58:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 23 Oct 2026 01:38:44 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：The 'trillion pound' oil fund the government believes Britain could have built...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The 'trillion pound' oil fund the government believes Britain could have built...”。核心要点：该英文报道关注最新动态：For the first time, the Treasury calculates how much the UK could ha...",
+        "titleZh": "该英文报道关注最新动态：Grid operator says lights will stay on this winter after concerns...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Grid operator says lights will stay on this winter after concerns...”。核心要点：该英文报道关注最新动态：The assurance from the National Energy System Operator comes amid co...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 23:27:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 23:04:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Websites taken down worldwide as critical cyber-security update issued...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Websites taken down worldwide as critical cyber-security update issued...”。核心要点：该英文报道关注最新动态：The vulnerabilities with PHP, a programming language widely used acr...",
+        "titleZh": "该英文报道关注最新动态：Zuckerberg wins Meta deal to help him foot bill for possible California billiona...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Zuckerberg wins Meta deal to help him foot bill for possible California billiona...”。核心要点：该英文报道关注最新动态：The Meta boss had said he would exit the state over a wealth tax tha...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 19:54:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 18:26:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：What is PHP and why did it spark a global cyber-security scramble?...”。核心要点：该英文报道关注最新动态：AI uncovered long-hidden programming flaws, triggering a rare global...",
+        "titleZh": "该英文报道关注最新动态：L'Oreal says weight loss drugs are impacting beauty and skincare sales...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：L'Oreal says weight loss drugs are impacting beauty and skincare sales...”。核心要点：该英文报道关注最新动态：The beauty giant's CEO says the use of GLP-1s is \"a very important p...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 22 Oct 2026 03:48:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 22:27:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：No order, no seat: Starbucks China rolls out new store policy...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：No order, no seat: Starbucks China rolls out new store policy...”。核心要点：该英文报道关注最新动态：Starbucks says it is improving customers' in-store experience as it ...",
+        "titleZh": "该英文报道关注最新动态：'I wasn't thinking straight' says five jobs civil servant...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I wasn't thinking straight' says five jobs civil servant...”。核心要点：该英文报道关注最新动态：Kashim Chowdhury is accused of fraudulently juggling multiple public...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 22 Oct 2026 04:02:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 15:05:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Meta fined $25bn for 'lies' over user data privacy...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Meta fined $25bn for 'lies' over user data privacy...”。核心要点：该英文报道关注最新动态：The fine is the largest to date against Facebook's owner, larger tha...",
+        "titleZh": "该英文报道关注最新动态：Barclays cutting 5,000 jobs as it increases reliance on AI...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Barclays cutting 5,000 jobs as it increases reliance on AI...”。核心要点：该英文报道关注最新动态：The bank says it is using more AI leading to a 5% reduction in its w...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 21 Oct 2026 21:49:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 22 Oct 2026 14:28:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
