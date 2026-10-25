@@ -1,158 +1,106 @@
 {
-  "updatedAt": "2026-10-24T05:53:31.377Z",
+  "updatedAt": "2026-10-25T06:05:53.209Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pharmacotherapy for MASLD: current evidence and challenges in clinical practice.",
-        "journal": "Annals of hepatology",
-        "pubDate": "2026 Oct 23",
+        "title": "Assessment and Reversibility of Hepatic Abnormalities in Heart Failure: Liver in Heart Failure.",
+        "journal": "JACC. Heart failure",
+        "pubDate": "2026 Oct 21",
         "studyType": "Journal Article / Review",
-        "authors": "Pages L, Rojo D, Jimenez-Masip A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterize... 临床提示：该英文报道关注最新动态：Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterize...",
-        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by a complex pathophysiology driven by intertwined metabolic and hepatic pathways, enabling the identification of multiple therapeutic targets and a rapidly expanding drug development pipeline. This review summarizes the current and emerging therapeutic landscape for MASLD and discusses key challenges for clinical implementation. The imminent availability of several new therapies is expected to pose important clinical challenges, particularly in accurately identifying patients most likely to benefit. Currently, resmetirom and semaglutide are the only two drugs conditionally approved for patients with fibrosis s...",
-        "pmid": "42918456",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42918456/",
-        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102477",
-        "url": "https://doi.org/10.1016/j.aohep.2026.102477"
-      },
-      {
-        "title": "Endoscopic ultrasound in hepatology: A European Society of Gastrointestinal Endoscopy (ESGE) Technical and Technology Review.",
-        "journal": "Endoscopy",
-        "pubDate": "2026 Oct 22",
-        "studyType": "Journal Article",
-        "authors": "Fabbri C, Binda C, Iglesias Garcia J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Endoscopic ultrasound (EUS)-guided techniques are increasingly applied in hepato... 临床提示：该英文报道关注最新动态：However, adoption remains heterogeneous because of variability in technical appr...",
-        "abstract": "Endoscopic ultrasound (EUS)-guided techniques are increasingly applied in hepatology, including for tissue acquisition, vascular access, pressure measurement, and selected therapeutic interventions. However, adoption remains heterogeneous because of variability in technical approaches, devices, outcome definitions, operator expertise, and the quality of available evidence. This European Society of Gastrointestinal Endoscopy (ESGE) Technical and Technology Review summarizes the current evidence on selected EUS-guided techniques in liver disease and portal hypertension, including liver stiffness assessment, focal liver lesion characterization and sampling, EUS-guided liver biopsy, EUS-guided p...",
-        "pmid": "42913703",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42913703/",
-        "doiUrl": "https://doi.org/10.1055/a-2964-7886",
-        "url": "https://doi.org/10.1055/a-2964-7886"
-      },
-      {
-        "title": "Baveno VI criteria validation and development of a new non-invasive strategy for varices rule-out in patients with HCC (SAPHE-R: Stiffness, ALBI, Platelets, HEpatocellular carcinoma Rule).",
-        "journal": "Hepatology (Baltimore, Md.)",
-        "pubDate": "2026 Oct 22",
-        "studyType": "Journal Article",
-        "authors": "Argiento L, Canova L, Alimenti E",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：We evaluated Baveno VI criteria performance in this population and developed an ... 临床提示：该英文报道关注最新动态：Accuracy of Baveno criteria for avoiding endoscopy in patients with hepatocellul...",
-        "abstract": "Accuracy of Baveno criteria for avoiding endoscopy in patients with hepatocellular carcinoma (HCC) is uncertain, and systematic upper gastrointestinal endoscopy (UGE) may not be necessary. We evaluated Baveno VI criteria performance in this population and developed an alternative non-invasive rule to exclude esophagogastric varices of any grade, rather than high-risk varices (HRV). Patients with BCLC 0-C HCC and compensated advanced chronic liver disease (cACLD) from Italian Liver Cancer (ITA.LI.CA) database, with available liver stiffness measurement (LSM), UGE, and blood tests within six months of diagnosis, were included. Independent predictors of varices identified by logistic regression...",
-        "pmid": "42911124",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42911124/",
-        "doiUrl": "https://doi.org/10.1097/HEP.0000000000001893",
-        "url": "https://doi.org/10.1097/HEP.0000000000001893"
-      },
-      {
-        "title": "Changes in the apoptotic index, along with gene and protein expression levels, in splenomegaly due to portal vein stenosis in rats.",
-        "journal": "Histology and histopathology",
-        "pubDate": "2026 Oct 22",
-        "studyType": "Journal Article",
-        "authors": "Zhang H, Lu J, Li J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Compared with the SO group, the SM group had a significantly higher proportion o... 临床提示：该英文报道关注最新动态：The spleen is an important peripheral immune organ, and splenomegaly (SM) is a c...",
-        "abstract": "The spleen is an important peripheral immune organ, and splenomegaly (SM) is a common complication of portal hypertension. However, the regulatory mechanisms underlying splenic apoptosis remain poorly understood. A portal vein stenosis-induced SM model was established in Sprague-Dawley rats, using a sham-operated (SO) group as the control. Apoptotic changes in splenic tissue cells were evaluated using the terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) assay, immunohistochemistry staining, quantitative real-time polymerase chain reaction (qRT-PCR) analysis, and western blot analysis. Compared with the SO group, the SM group had a significantly higher proportion of apopto...",
-        "pmid": "42908407",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42908407/",
-        "doiUrl": "https://doi.org/10.14670/HH-25-159",
-        "url": "https://doi.org/10.14670/HH-25-159"
-      },
-      {
-        "title": "Prognostic performance of endoscopic ultrasound-guided portal pressure gradient: preliminary results from the EVADIPP study.",
-        "journal": "Endoscopy",
-        "pubDate": "2026 Oct 22",
-        "studyType": "Clinical Trial / Journal Article",
-        "authors": "Santopaolo F, Giuli L, Annicchiarico BE",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床试验。核心观点：该英文报道关注最新动态：Clinically significant portal hypertension (CSPH) is the main driver of hepatic ... 临床提示：该英文报道关注最新动态：The hepatic venous pressure gradient (HVPG) is the current gold standard for ass...",
-        "abstract": "Clinically significant portal hypertension (CSPH) is the main driver of hepatic decompensation, and its early identification allows timely initiation of preventive therapies. The hepatic venous pressure gradient (HVPG) is the current gold standard for assessing portal hypertension, but it may underestimate portal hypertension in conditions with a presinusoidal component. Endoscopic ultrasound-guided portal pressure gradient (EUS-PPG) measurement enables direct measurement of portal pressure and may overcome these limitations. We evaluated the prognostic performance of the EUS-PPG compared with HVPG for predicting hepatic decompensation in patients with suspected CSPH. This preliminary explor...",
-        "pmid": "42674000",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42674000/",
-        "doiUrl": "https://doi.org/10.1055/a-2948-9632",
-        "url": "https://doi.org/10.1055/a-2948-9632"
+        "authors": "Sack JS, Khan MS, Te HS",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：非 Fontan 心力衰竭的肝脏异常是由充血性肝病和低灌注相关的缺血性损伤引起的，再加上神经激素激活和全身炎症。 临床提示：肝病严重程度的评估具有挑战性，因为标准肝脏生化、血清纤维化标志物、严重程度评分模型、弹性成像和成像方式在充血性肝病中的诊断准确性有限。",
+        "abstract": "Hepatic abnormalities in non-Fontan heart failure result from congestive hepatopathy and hypoperfusion-related ischemic injury, compounded by neurohormonal activation and systemic inflammation. Assessment of liver disease severity is challenging because standard liver biochemistries, serum fibrosis markers, severity score models, elastography, and imaging modalities have limited diagnostic accuracy in congestive hepatopathy, and hepatic fibrosis is often heterogeneous on histology in this population. Management focuses on optimization of cardiac function through medical therapy or mechanical circulatory support. Although liver biochemical abnormalities frequently improve with restoration of ...",
+        "pmid": "42909430",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42909430/",
+        "doiUrl": "https://doi.org/10.1016/j.jchf.2026.103433",
+        "url": "https://doi.org/10.1016/j.jchf.2026.103433"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：France prepares for day of protest a week after nationwide riots...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France prepares for day of protest a week after nationwide riots...”。核心要点：该英文报道关注最新动态：More than 70,000 police officers are to be deployed over fears prote...",
+        "titleZh": "法国各地大规模抗议活动又发生一天，冲突导致近千人被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“法国各地大规模抗议活动又发生一天，冲突导致近千人被捕”。核心要点：法国有数十万人参加示威活动，其他欧洲国家也发生了抗议活动。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 04:03:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 25 Oct 2026 04:16:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Woman, 65, becomes second patient to die of Ebola in Kenya...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Woman, 65, becomes second patient to die of Ebola in Kenya...”。核心要点：该英文报道关注最新动态：She was a close family member of the first victim, a man who had tra...",
+        "titleZh": "乌克兰称星链连接在网络限制后“现已稳定”",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰称星链连接在网络限制后“现已稳定””。核心要点：星链连接速度减慢已经影响了乌克兰的军事和无人机行动一周。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 00:05:43 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 24 Oct 2026 12:12:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Arrest made after fire at Hitler's Eagle's Nest retreat...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Arrest made after fire at Hitler's Eagle's Nest retreat...”。核心要点：该英文报道关注最新动态：Around 200 emergency personnel are deployed to fight the blaze at th...",
+        "titleZh": "以色列军队拆除希伯伦房屋，巴勒斯坦家庭流离失所",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列军队拆除希伯伦房屋，巴勒斯坦家庭流离失所”。核心要点：此次镇压行动是在周五两名巴勒斯坦枪手杀害两名以色列士兵之后进行的，距离以色列大选仅几天。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 03:51:25 GMT",
+        "publishedAt": "Sat, 24 Oct 2026 23:02:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "希特勒山顶鹰巢寓所发生火灾后男子被捕",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“希特勒山顶鹰巢寓所发生火灾后男子被捕”。核心要点：大约 200 名急救人员被部署到纳粹独裁者位于德国阿尔卑斯山的住所灭火。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 24 Oct 2026 15:21:44 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Student movement takes Serbia's Vučić to the wire in neck-and-neck election...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Student movement takes Serbia's Vučić to the wire in neck-and-neck election...”。核心要点：该英文报道关注最新动态：The Student List has emerged from almost two years of anti-corruptio...",
+        "titleZh": "杀害俄勒冈州学校枪手的父亲描述了他无法拯救孩子的痛苦",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“杀害俄勒冈州学校枪手的父亲描述了他无法拯救孩子的痛苦”。核心要点：凯鲁布·贾曼科 (Kaylub Giamanco) 因射杀一名青少年而被誉为英雄，这名青少年枪杀了三名儿童和一名教师。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 23 Oct 2026 23:08:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Trump administration sues to block certification of upcoming Alaska election...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump administration sues to block certification of upcoming Alaska election...”。核心要点：该英文报道关注最新动态：The justice department has filed a lawsuit arguing that the inclusio...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 23 Oct 2026 18:49:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 23 Oct 2026 22:47:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：How does the UK state pension compare with other countries?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How does the UK state pension compare with other countries?...”。核心要点：该英文报道关注最新动态：Do British pensioners have it better or worse than those in other co...",
+        "titleZh": "工党可以通过四种方式在预算中筹集资金而不提高所得税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“工党可以通过四种方式在预算中筹集资金而不提高所得税”。核心要点：英国财政大臣约翰·希利可能需要筹集资金来增加财政空间 - BBC verify 正在研究可能出现的选项。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 25 Oct 2026 06:00:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "预算将包括 10 亿英镑用于社会保障房和经济适用房",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“预算将包括 10 亿英镑用于社会保障房和经济适用房”。核心要点：此举将使该 10 年计划的资金超过 400 亿英镑。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 25 Oct 2026 02:57:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "罗斯班克：处于政治风暴中心的油田生活",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“罗斯班克：处于政治风暴中心的油田生活”。核心要点：苏格兰编辑詹姆斯·库克了解了一艘在未开发油田等待命运的船上的生活。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sat, 24 Oct 2026 23:15:18 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "英国国家养老金与其他国家相比如何？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国国家养老金与其他国家相比如何？”。核心要点：英国养老金领取者的情况比其他国家的领取者好还是差？",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Sat, 24 Oct 2026 00:09:12 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：UK to invest £100m in 'world first' AI Biosecurity Lab...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK to invest £100m in 'world first' AI Biosecurity Lab...”。核心要点：该英文报道关注最新动态：The chancellor will unveil AI spending aimed at shoring up the UK's ...",
+        "titleZh": "英国将投资 1 亿英镑建设“世界首个”人工智能生物安全实验室",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国将投资 1 亿英镑建设“世界首个”人工智能生物安全实验室”。核心要点：英国财政大臣将在周三的预算中公布旨在加强英国国防的人工智能支出。",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Sat, 24 Oct 2026 00:05:45 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Civil servant who juggled five jobs says he was 'surprised' to be charged with f...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Civil servant who juggled five jobs says he was 'surprised' to be charged with f...”。核心要点：该英文报道关注最新动态：Kashim Chowdhury denied being dishonest when not telling employers h...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 23 Oct 2026 15:15:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：White House lifts tariffs on some Canadian goods as midterm elections loom...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：White House lifts tariffs on some Canadian goods as midterm elections loom...”。核心要点：该英文报道关注最新动态：From 30 October, tariffs will be eased on some products, including c...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 00:36:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Earnings limit of up to £140K for first-time buyers loan scheme...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Earnings limit of up to £140K for first-time buyers loan scheme...”。核心要点：该英文报道关注最新动态：The Your First Home scheme will offer government-backed loans for th...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 23 Oct 2026 11:48:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
