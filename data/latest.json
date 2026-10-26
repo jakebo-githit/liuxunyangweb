@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-10-25T06:05:53.209Z",
+  "updatedAt": "2026-10-26T06:13:24.372Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Assessment and Reversibility of Hepatic Abnormalities in Heart Failure: Liver in Heart Failure.",
-        "journal": "JACC. Heart failure",
-        "pubDate": "2026 Oct 21",
-        "studyType": "Journal Article / Review",
-        "authors": "Sack JS, Khan MS, Te HS",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：非 Fontan 心力衰竭的肝脏异常是由充血性肝病和低灌注相关的缺血性损伤引起的，再加上神经激素激活和全身炎症。 临床提示：肝病严重程度的评估具有挑战性，因为标准肝脏生化、血清纤维化标志物、严重程度评分模型、弹性成像和成像方式在充血性肝病中的诊断准确性有限。",
-        "abstract": "Hepatic abnormalities in non-Fontan heart failure result from congestive hepatopathy and hypoperfusion-related ischemic injury, compounded by neurohormonal activation and systemic inflammation. Assessment of liver disease severity is challenging because standard liver biochemistries, serum fibrosis markers, severity score models, elastography, and imaging modalities have limited diagnostic accuracy in congestive hepatopathy, and hepatic fibrosis is often heterogeneous on histology in this population. Management focuses on optimization of cardiac function through medical therapy or mechanical circulatory support. Although liver biochemical abnormalities frequently improve with restoration of ...",
-        "pmid": "42909430",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42909430/",
-        "doiUrl": "https://doi.org/10.1016/j.jchf.2026.103433",
-        "url": "https://doi.org/10.1016/j.jchf.2026.103433"
+        "title": "Recanalization of the Paraumbilical Vein Mimicking an Umbilical Hernia: A Case Report.",
+        "journal": "Cureus",
+        "pubDate": "2026 Oct",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Cavalcanti GA, Ferreira BA, Pereira ASF",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Portal hypertension associated with chronic liver disease may lead to recanaliza... 临床提示：该英文报道关注最新动态：Although this finding is uncommon in contemporary clinical practice, dilated par...",
+        "abstract": "Portal hypertension associated with chronic liver disease may lead to recanalization of the paraumbilical vein and the development of portosystemic collateral vessels, classically manifesting as caput medusae. Although this finding is uncommon in contemporary clinical practice, dilated paraumbilical collaterals may present as an umbilical protrusion and mimic an umbilical hernia. Recognition of this condition is crucial because inadvertent surgical injury to these vessels may result in severe, potentially life-threatening hemorrhage. We report a case of a 77-year-old male with compensated hepatitis C virus-related cirrhosis (Child-Pugh class A; Model for End-Stage Liver Disease (MELD) score ...",
+        "pmid": "42921382",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42921382/",
+        "doiUrl": "https://doi.org/10.7759/cureus.118472",
+        "url": "https://doi.org/10.7759/cureus.118472"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "法国各地大规模抗议活动又发生一天，冲突导致近千人被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“法国各地大规模抗议活动又发生一天，冲突导致近千人被捕”。核心要点：法国有数十万人参加示威活动，其他欧洲国家也发生了抗议活动。",
+        "titleZh": "该英文报道关注最新动态：Celebrations in Serbia after veteran ruler Vučić loses election to student-led p...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Celebrations in Serbia after veteran ruler Vučić loses election to student-led p...”。核心要点：该英文报道关注最新动态：The populist right-wing leader of 12 years says it is \"clear\" his pa...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 04:16:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 01:07:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "乌克兰称星链连接在网络限制后“现已稳定”",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“乌克兰称星链连接在网络限制后“现已稳定””。核心要点：星链连接速度减慢已经影响了乌克兰的军事和无人机行动一周。",
+        "titleZh": "该英文报道关注最新动态：Venezuelan opposition leader María Machado returns after months in exile...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Venezuelan opposition leader María Machado returns after months in exile...”。核心要点：该英文报道关注最新动态：Machado had left the country just a month before the US government s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 12:12:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 05:20:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列军队拆除希伯伦房屋，巴勒斯坦家庭流离失所",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列军队拆除希伯伦房屋，巴勒斯坦家庭流离失所”。核心要点：此次镇压行动是在周五两名巴勒斯坦枪手杀害两名以色列士兵之后进行的，距离以色列大选仅几天。",
+        "titleZh": "该英文报道关注最新动态：Deeply divided Israel braces for pivotal election...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Deeply divided Israel braces for pivotal election...”。核心要点：该英文报道关注最新动态：After three years of regional war, this is a battle Israel always kn...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 23:02:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 25 Oct 2026 22:11:13 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "希特勒山顶鹰巢寓所发生火灾后男子被捕",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“希特勒山顶鹰巢寓所发生火灾后男子被捕”。核心要点：大约 200 名急救人员被部署到纳粹独裁者位于德国阿尔卑斯山的住所灭火。",
+        "titleZh": "该英文报道关注最新动态：Australian murderer loses bid to eat Vegemite in prison...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australian murderer loses bid to eat Vegemite in prison...”。核心要点：该英文报道关注最新动态：Andre McKechnie, who murdered a property developer, argued it was hi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 15:21:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 04:05:28 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "杀害俄勒冈州学校枪手的父亲描述了他无法拯救孩子的痛苦",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“杀害俄勒冈州学校枪手的父亲描述了他无法拯救孩子的痛苦”。核心要点：凯鲁布·贾曼科 (Kaylub Giamanco) 因射杀一名青少年而被誉为英雄，这名青少年枪杀了三名儿童和一名教师。",
+        "titleZh": "该英文报道关注最新动态：Suspect in deadly Paris suburb shooting sent for psychiatric observation...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspect in deadly Paris suburb shooting sent for psychiatric observation...”。核心要点：该英文报道关注最新动态：He will be observed to evaluate whether his \"psychiatric health is c...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 23 Oct 2026 22:47:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 25 Oct 2026 15:32:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "工党可以通过四种方式在预算中筹集资金而不提高所得税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“工党可以通过四种方式在预算中筹集资金而不提高所得税”。核心要点：英国财政大臣约翰·希利可能需要筹集资金来增加财政空间 - BBC verify 正在研究可能出现的选项。",
+        "titleZh": "该英文报道关注最新动态：Healey's Budget needs to sustain the stronger economy through gathering clouds...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey's Budget needs to sustain the stronger economy through gathering clouds...”。核心要点：该英文报道关注最新动态：The economic is positive now but come January things could become tr...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 06:00:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 00:26:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "预算将包括 10 亿英镑用于社会保障房和经济适用房",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“预算将包括 10 亿英镑用于社会保障房和经济适用房”。核心要点：此举将使该 10 年计划的资金超过 400 亿英镑。",
+        "titleZh": "该英文报道关注最新动态：Data centre debate heats up ahead of US midterms - here's what you need to know...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Data centre debate heats up ahead of US midterms - here's what you need to know...”。核心要点：该英文报道关注最新动态：Data centres are the lifeblood of our digital world, but there are g...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 02:57:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 25 Oct 2026 23:44:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "罗斯班克：处于政治风暴中心的油田生活",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“罗斯班克：处于政治风暴中心的油田生活”。核心要点：苏格兰编辑詹姆斯·库克了解了一艘在未开发油田等待命运的船上的生活。",
+        "titleZh": "该英文报道关注最新动态：Will a new code end 'rip-off parking charges'?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Will a new code end 'rip-off parking charges'?...”。核心要点：该英文报道关注最新动态：The prime minister says a new code will end \"rip-off parking charges...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 23:15:18 GMT",
+        "publishedAt": "Sun, 25 Oct 2026 07:05:30 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Rosebank: Life on the oil field at the centre of a political storm...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Rosebank: Life on the oil field at the centre of a political storm...”。核心要点：该英文报道关注最新动态：Scotland editor James Cook finds out what life is like on board a sh...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 25 Oct 2026 07:15:38 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "英国国家养老金与其他国家相比如何？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国国家养老金与其他国家相比如何？”。核心要点：英国养老金领取者的情况比其他国家的领取者好还是差？",
+        "titleZh": "该英文报道关注最新动态：Are California voters about to impose 'world's first' tax on billionaires?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Are California voters about to impose 'world's first' tax on billionaires?...”。核心要点：该英文报道关注最新动态：Voters are about to decide if the mega-rich among them should hand o...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 00:09:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "英国将投资 1 亿英镑建设“世界首个”人工智能生物安全实验室",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国将投资 1 亿英镑建设“世界首个”人工智能生物安全实验室”。核心要点：英国财政大臣将在周三的预算中公布旨在加强英国国防的人工智能支出。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sat, 24 Oct 2026 00:05:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 23 Oct 2026 23:11:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
