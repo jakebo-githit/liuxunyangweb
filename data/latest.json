@@ -1,106 +1,132 @@
 {
-  "updatedAt": "2026-10-26T06:13:24.372Z",
+  "updatedAt": "2026-10-27T06:17:48.410Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Recanalization of the Paraumbilical Vein Mimicking an Umbilical Hernia: A Case Report.",
-        "journal": "Cureus",
-        "pubDate": "2026 Oct",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Cavalcanti GA, Ferreira BA, Pereira ASF",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Portal hypertension associated with chronic liver disease may lead to recanaliza... 临床提示：该英文报道关注最新动态：Although this finding is uncommon in contemporary clinical practice, dilated par...",
-        "abstract": "Portal hypertension associated with chronic liver disease may lead to recanalization of the paraumbilical vein and the development of portosystemic collateral vessels, classically manifesting as caput medusae. Although this finding is uncommon in contemporary clinical practice, dilated paraumbilical collaterals may present as an umbilical protrusion and mimic an umbilical hernia. Recognition of this condition is crucial because inadvertent surgical injury to these vessels may result in severe, potentially life-threatening hemorrhage. We report a case of a 77-year-old male with compensated hepatitis C virus-related cirrhosis (Child-Pugh class A; Model for End-Stage Liver Disease (MELD) score ...",
-        "pmid": "42921382",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42921382/",
-        "doiUrl": "https://doi.org/10.7759/cureus.118472",
-        "url": "https://doi.org/10.7759/cureus.118472"
+        "title": "Endohepatology in the Management of Portal Hypertension in Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article / Review",
+        "authors": "Praktiknjo M, Wiest R, Cardenas A",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Portal hypertension is the principal driver of decompensation in advanced chroni... 临床提示：该英文报道关注最新动态：Growing evidence points to a mixed sinusoidal-presinusoidal phenotype in which t...",
+        "abstract": "Portal hypertension is the principal driver of decompensation in advanced chronic liver disease, yet in metabolic dysfunction-associated steatotic liver disease (MASLD) it deviates from the classical sinusoidal paradigm. Growing evidence points to a mixed sinusoidal-presinusoidal phenotype in which the hepatic venous pressure gradient (HVPG) may underestimate true portal pressure, and in which decompensation and varices can occur at lower HVPG values than in viral cirrhosis. This biology is compounded by a diagnostic gap: non-invasive tests such as liver stiffness by vibration-controlled transient elastography, FIB-4, ANTICIPATE-NASH, spleen stiffness and the NICER model, are degraded by obe...",
+        "pmid": "42928974",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42928974/",
+        "doiUrl": "https://doi.org/10.1111/liv.70953",
+        "url": "https://doi.org/10.1111/liv.70953"
+      },
+      {
+        "title": "Blood- and Liver Stiffness-Based Non-Invasive Tests for Clinically Significant Portal Hypertension in Patients With cACLD and HCC.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article",
+        "authors": "Balcar L, Haunold TJ, Jachs M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 283）。核心观点：该英文报道关注最新动态：The applicability of non-invasive tests (NITs) for clinically significant portal... 临床提示：该英文报道关注最新动态：We performed a head-to-head comparison of various NITs for CSPH and evaluated ru...",
+        "abstract": "The applicability of non-invasive tests (NITs) for clinically significant portal hypertension (CSPH) in patients with hepatocellular carcinoma (HCC) is controversial. We performed a head-to-head comparison of various NITs for CSPH and evaluated rule-in/-out criteria. We conducted a retrospective study including 283 patients with HCC undergoing hepatic venous pressure gradient (HVPG) measurement at the Vienna Hepatic Haemodynamic Lab with available, same-day data on NITs (i.e., liver stiffness measurement [LSM], platelet count [PLT], von Willebrand factor antigen [VWF:Ag], and the ratio of VWF:Ag and PLT [VITRO]). For the subsequent analysis, we focused on patients with compensated advanced c...",
+        "pmid": "42928966",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42928966/",
+        "doiUrl": "https://doi.org/10.1111/liv.70947",
+        "url": "https://doi.org/10.1111/liv.70947"
+      },
+      {
+        "title": "From Baveno VII to Baveno VIII: key innovations in risk stratification and personalized care for portal hypertension.",
+        "journal": "Revista espanola de enfermedades digestivas",
+        "pubDate": "2026 Oct 26",
+        "studyType": "Journal Article",
+        "authors": "Téllez L, Donate Ortega J, Fortea JI",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The Baveno consensus has progressively moved its focus from the treatment of est... 临床提示：该英文报道关注最新动态：Portal hypertension is a major determinant of disease progression and clinical o...",
+        "abstract": "Portal hypertension is a major determinant of disease progression and clinical outcomes in cirrhosis. The Baveno consensus has progressively moved its focus from the treatment of established complications towards earlier risk stratification, prevention of decompensation and modification of the natural history of the disease. Baveno VIII consolidates and extends this approach across the different stages of advanced chronic liver disease. Non-invasive assessment of clinically significant portal hypertension is refined through the incorporation of spleen stiffness measurement and probabilistic models, while longitudinal assessment emphasizes the importance of updating risk according to the most...",
+        "pmid": "42929255",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42929255/",
+        "doiUrl": "https://doi.org/10.17235/reed.2026.12213/2026",
+        "url": "https://doi.org/10.17235/reed.2026.12213/2026"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Celebrations in Serbia after veteran ruler Vučić loses election to student-led p...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Celebrations in Serbia after veteran ruler Vučić loses election to student-led p...”。核心要点：该英文报道关注最新动态：The populist right-wing leader of 12 years says it is \"clear\" his pa...",
+        "titleZh": "该英文报道关注最新动态：Lula wins fourth term in dramatic Brazil election comeback...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Lula wins fourth term in dramatic Brazil election comeback...”。核心要点：该英文报道关注最新动态：The left-wing incumbent president had lost the first round to right-...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 01:07:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 21:02:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Venezuelan opposition leader María Machado returns after months in exile...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Venezuelan opposition leader María Machado returns after months in exile...”。核心要点：该英文报道关注最新动态：Machado had left the country just a month before the US government s...",
+        "titleZh": "该英文报道关注最新动态：Ex-FBI chief James Comey faces federal charges for third time...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ex-FBI chief James Comey faces federal charges for third time...”。核心要点：该英文报道关注最新动态：Comey's lawyers say the case stems from alleged disclosure of classi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 05:20:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 02:01:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Deeply divided Israel braces for pivotal election...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Deeply divided Israel braces for pivotal election...”。核心要点：该英文报道关注最新动态：After three years of regional war, this is a battle Israel always kn...",
+        "titleZh": "该英文报道关注最新动态：Jordan carries out deadly strike in Syria in retaliation for church attack...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Jordan carries out deadly strike in Syria in retaliation for church attack...”。核心要点：该英文报道关注最新动态：The attack on a village in Syria killed five people, including women...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 22:11:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 02:40:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Australian murderer loses bid to eat Vegemite in prison...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australian murderer loses bid to eat Vegemite in prison...”。核心要点：该英文报道关注最新动态：Andre McKechnie, who murdered a property developer, argued it was hi...",
+        "titleZh": "该英文报道关注最新动态：Meghan to co-host Junior MasterChef Australia...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Meghan to co-host Junior MasterChef Australia...”。核心要点：该英文报道关注最新动态：The Duchess of Sussex says she \"can't wait\" to take part in the prog...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 04:05:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 04:43:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Suspect in deadly Paris suburb shooting sent for psychiatric observation...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspect in deadly Paris suburb shooting sent for psychiatric observation...”。核心要点：该英文报道关注最新动态：He will be observed to evaluate whether his \"psychiatric health is c...",
+        "titleZh": "该英文报道关注最新动态：Jay-Z to perform at Super Bowl half-time show...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Jay-Z to perform at Super Bowl half-time show...”。核心要点：该英文报道关注最新动态：The rapper has been involved with the show for years but has never b...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 15:32:51 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 05:05:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Healey's Budget needs to sustain the stronger economy through gathering clouds...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey's Budget needs to sustain the stronger economy through gathering clouds...”。核心要点：该英文报道关注最新动态：The economic is positive now but come January things could become tr...",
+        "titleZh": "该英文报道关注最新动态：'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want ...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want ...”。核心要点：该英文报道关注最新动态：People earning from £380 a month to £150,000 a year tell the BBC wha...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 00:26:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 00:01:00 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Data centre debate heats up ahead of US midterms - here's what you need to know...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Data centre debate heats up ahead of US midterms - here's what you need to know...”。核心要点：该英文报道关注最新动态：Data centres are the lifeblood of our digital world, but there are g...",
+        "titleZh": "该英文报道关注最新动态：Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday...”。核心要点：该英文报道关注最新动态：The chancellor will axe tariffs on some staples as part of plans to ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 23:44:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 01:57:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Will a new code end 'rip-off parking charges'?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Will a new code end 'rip-off parking charges'?...”。核心要点：该英文报道关注最新动态：The prime minister says a new code will end \"rip-off parking charges...",
+        "titleZh": "该英文报道关注最新动态：Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l...”。核心要点：该英文报道关注最新动态：The company will be the first true artificial intelligence company t...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 07:05:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Rosebank: Life on the oil field at the centre of a political storm...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Rosebank: Life on the oil field at the centre of a political storm...”。核心要点：该英文报道关注最新动态：Scotland editor James Cook finds out what life is like on board a sh...",
+        "titleZh": "该英文报道关注最新动态：Apple says it will replace iPhone Duo handsets with screen problems...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Apple says it will replace iPhone Duo handsets with screen problems...”。核心要点：该英文报道关注最新动态：Photos shared online showed faults appearing on the screens of Apple...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 25 Oct 2026 07:15:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 01:48:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Are California voters about to impose 'world's first' tax on billionaires?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Are California voters about to impose 'world's first' tax on billionaires?...”。核心要点：该英文报道关注最新动态：Voters are about to decide if the mega-rich among them should hand o...",
+        "titleZh": "该英文报道关注最新动态：Anthropic's blockbuster share listing - 5 surprising things we now know...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic's blockbuster share listing - 5 surprising things we now know...”。核心要点：该英文报道关注最新动态：Anthropic’s IPO prospectus is 355 pages and full of never before dis...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 23 Oct 2026 23:11:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 26 Oct 2026 19:57:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
