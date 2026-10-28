@@ -1,132 +1,146 @@
 {
-  "updatedAt": "2026-10-27T06:17:48.410Z",
+  "updatedAt": "2026-10-28T06:51:06.485Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "The Role and Mechanism of SGLT2 Inhibitors in Chronic Kidney Disease.",
+        "journal": "Drug design, development and therapy",
+        "pubDate": "2026",
+        "studyType": "Journal Article / Review",
+        "authors": "Xie J, Liu Y, Zhao Y",
+        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：该英文报道关注最新动态：As a new class of antidiabetic drugs, sodium-glucose cotransporter 2 inhibitors ... 临床提示：该英文报道关注最新动态：Chronic kidney disease (CKD) refers to structural or functional abnormalities of...",
+        "abstract": "Chronic kidney disease (CKD) refers to structural or functional abnormalities of the kidneys caused by various factors lasting ≥3 months, or a decline in glomerular filtration rate (GFR) of <60 mL/min of unknown cause lasting ≥3 months. Its primary causes include diabetic kidney disease, hypertensive nephropathy, IgA nephropathy, membranous nephropathy, and lupus nephritis, among others. As a new class of antidiabetic drugs, sodium-glucose cotransporter 2 inhibitors (SGLT2i) have been shown in numerous clinical studies and animal experiments to be effective in treating CKD of various etiologies. The renoprotective effects of SGLT2 inhibitors are independent of their glucose-lowering effects....",
+        "pmid": "42935670",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42935670/",
+        "doiUrl": "https://doi.org/10.2147/DDDT.S648280",
+        "url": "https://doi.org/10.2147/DDDT.S648280"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Endohepatology in the Management of Portal Hypertension in Metabolic Dysfunction-Associated Steatotic Liver Disease.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "title": "Giant focal nodular hyperplasia with atypical imaging due to absent central scar: A case report.",
+        "journal": "Radiology case reports",
+        "pubDate": "2026 Dec",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "El Bqaq I, Ehirchiou Z, Izi Z",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Focal nodular hyperplasia (FNH) is widely recognized as one of the leading benig... 临床提示：该英文报道关注最新动态：Although generally asymptomatic, FNH may occasionally present with acute abdomin...",
+        "abstract": "Focal nodular hyperplasia (FNH) is widely recognized as one of the leading benign hepatic neoplasms encountered in clinical practice, disproportionately affecting women during their third through fifth decades of life. Although generally asymptomatic, FNH may occasionally present with acute abdominal pain, as illustrated in our case of a young woman with symptomatic giant FNH. Ultrasound, computed tomography, and MRI constitute the main imaging modalities used in the diagnostic evaluation of FNH, each contributing complementary information; however, distinguishing it from malignant hepatic tumors may remain challenging, particularly in atypical presentations. Histopathological examination ma...",
+        "pmid": "42935812",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42935812/",
+        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.09.028",
+        "url": "https://doi.org/10.1016/j.radcr.2026.09.028"
+      },
+      {
+        "title": "Cystic Fibrosis-Associated Hepatobiliary Involvement.",
+        "journal": "Clinics in liver disease",
         "pubDate": "2026 Nov",
         "studyType": "Journal Article / Review",
-        "authors": "Praktiknjo M, Wiest R, Cardenas A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Portal hypertension is the principal driver of decompensation in advanced chroni... 临床提示：该英文报道关注最新动态：Growing evidence points to a mixed sinusoidal-presinusoidal phenotype in which t...",
-        "abstract": "Portal hypertension is the principal driver of decompensation in advanced chronic liver disease, yet in metabolic dysfunction-associated steatotic liver disease (MASLD) it deviates from the classical sinusoidal paradigm. Growing evidence points to a mixed sinusoidal-presinusoidal phenotype in which the hepatic venous pressure gradient (HVPG) may underestimate true portal pressure, and in which decompensation and varices can occur at lower HVPG values than in viral cirrhosis. This biology is compounded by a diagnostic gap: non-invasive tests such as liver stiffness by vibration-controlled transient elastography, FIB-4, ANTICIPATE-NASH, spleen stiffness and the NICER model, are degraded by obe...",
-        "pmid": "42928974",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42928974/",
-        "doiUrl": "https://doi.org/10.1111/liv.70953",
-        "url": "https://doi.org/10.1111/liv.70953"
+        "authors": "Green N, Leung DH",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Cystic Fibrosis-associated Hepatobiliary involvement (CFHBI) refers to a wide ra... 临床提示：该英文报道关注最新动态：Advanced cystic fibrosis liver disease (aCFLD) describes individuals with advanc...",
+        "abstract": "Cystic Fibrosis-associated Hepatobiliary involvement (CFHBI) refers to a wide range of liver and biliary-related clinical and/or biochemical abnormalities that impact people with cystic fibrosis. Advanced cystic fibrosis liver disease (aCFLD) describes individuals with advanced fibrosis or cirrhosis and/or portal hypertension. The current review discusses both CFHBI and aCFLD in terms of pathogenesis; clinical, imaging and biochemical manifestations; screening, monitoring, and management recommendations; and the impact of cystic fibrosis transmembrane conductance regulator (CFTR) modulator therapy.",
+        "pmid": "42946521",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42946521/",
+        "doiUrl": "https://doi.org/10.1016/j.cld.2026.07.008",
+        "url": "https://doi.org/10.1016/j.cld.2026.07.008"
       },
       {
-        "title": "Blood- and Liver Stiffness-Based Non-Invasive Tests for Clinically Significant Portal Hypertension in Patients With cACLD and HCC.",
-        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "title": "Three decades of Rex shunt for pediatric extrahepatic portal vein obstruction: A narrative review of advances from surgical evolution to holistic management.",
+        "journal": "Journal of pediatric surgery",
         "pubDate": "2026 Nov",
-        "studyType": "Journal Article",
-        "authors": "Balcar L, Haunold TJ, Jachs M",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 283）。核心观点：该英文报道关注最新动态：The applicability of non-invasive tests (NITs) for clinically significant portal... 临床提示：该英文报道关注最新动态：We performed a head-to-head comparison of various NITs for CSPH and evaluated ru...",
-        "abstract": "The applicability of non-invasive tests (NITs) for clinically significant portal hypertension (CSPH) in patients with hepatocellular carcinoma (HCC) is controversial. We performed a head-to-head comparison of various NITs for CSPH and evaluated rule-in/-out criteria. We conducted a retrospective study including 283 patients with HCC undergoing hepatic venous pressure gradient (HVPG) measurement at the Vienna Hepatic Haemodynamic Lab with available, same-day data on NITs (i.e., liver stiffness measurement [LSM], platelet count [PLT], von Willebrand factor antigen [VWF:Ag], and the ratio of VWF:Ag and PLT [VITRO]). For the subsequent analysis, we focused on patients with compensated advanced c...",
-        "pmid": "42928966",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42928966/",
-        "doiUrl": "https://doi.org/10.1111/liv.70947",
-        "url": "https://doi.org/10.1111/liv.70947"
-      },
-      {
-        "title": "From Baveno VII to Baveno VIII: key innovations in risk stratification and personalized care for portal hypertension.",
-        "journal": "Revista espanola de enfermedades digestivas",
-        "pubDate": "2026 Oct 26",
-        "studyType": "Journal Article",
-        "authors": "Téllez L, Donate Ortega J, Fortea JI",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：The Baveno consensus has progressively moved its focus from the treatment of est... 临床提示：该英文报道关注最新动态：Portal hypertension is a major determinant of disease progression and clinical o...",
-        "abstract": "Portal hypertension is a major determinant of disease progression and clinical outcomes in cirrhosis. The Baveno consensus has progressively moved its focus from the treatment of established complications towards earlier risk stratification, prevention of decompensation and modification of the natural history of the disease. Baveno VIII consolidates and extends this approach across the different stages of advanced chronic liver disease. Non-invasive assessment of clinically significant portal hypertension is refined through the incorporation of spleen stiffness measurement and probabilistic models, while longitudinal assessment emphasizes the importance of updating risk according to the most...",
-        "pmid": "42929255",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42929255/",
-        "doiUrl": "https://doi.org/10.17235/reed.2026.12213/2026",
-        "url": "https://doi.org/10.17235/reed.2026.12213/2026"
+        "studyType": "Journal Article / Review",
+        "authors": "Wang J, Chang X, You F",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Since its introduction in 1992, the Rex shunt (also called Meso-Rex bypass, MRB)... 临床提示：该英文报道关注最新动态：However, a comprehensive synthesis of the accumulating evidence and evolving pra...",
+        "abstract": "Since its introduction in 1992, the Rex shunt (also called Meso-Rex bypass, MRB) has substantially advanced the management of pediatric extrahepatic portal vein obstruction (EHPVO) by restoring physiological hepatopetal portal flow. However, a comprehensive synthesis of the accumulating evidence and evolving practices is notably lacking, especially given that the latest Baveno VI consensus was published nine years ago in 2016. This review aims to synthesize three decades of advances in Rex shunt evolution, from a novel technique to a widely adopted first-line surgical option. We conducted a narrative review, synthesizing evidence from key studies, large case series, and expert consensus stat...",
+        "pmid": "42641916",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42641916/",
+        "doiUrl": "https://doi.org/10.1016/j.jpedsurg.2026.163413",
+        "url": "https://doi.org/10.1016/j.jpedsurg.2026.163413"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Lula wins fourth term in dramatic Brazil election comeback...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Lula wins fourth term in dramatic Brazil election comeback...”。核心要点：该英文报道关注最新动态：The left-wing incumbent president had lost the first round to right-...",
+        "titleZh": "挪威和芬兰领导人与普京罕见通话",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“挪威和芬兰领导人与普京罕见通话”。核心要点：芬兰总统亚历山大·斯塔布表示，乌克兰冲突的结束“不会通过沉默来实现”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 21:02:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ex-FBI chief James Comey faces federal charges for third time...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ex-FBI chief James Comey faces federal charges for third time...”。核心要点：该英文报道关注最新动态：Comey's lawyers say the case stems from alleged disclosure of classi...",
+        "titleZh": "官员称停火范围扩大至乌克兰赫尔松地区",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称停火范围扩大至乌克兰赫尔松地区”。核心要点：休战最初是为奥列什基的滞留居民计划的，俄罗斯和乌克兰表示尚未收到违反协议的报道。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 02:01:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Jordan carries out deadly strike in Syria in retaliation for church attack...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Jordan carries out deadly strike in Syria in retaliation for church attack...”。核心要点：该英文报道关注最新动态：The attack on a village in Syria killed five people, including women...",
+        "titleZh": "姆巴佩对毛泽东言论在中国遭到强烈反对表示歉意",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“姆巴佩对毛泽东言论在中国遭到强烈反对表示歉意”。核心要点：这位法国明星在接受模因采访时将这位中国前领导人称为“独裁者”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 02:40:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Meghan to co-host Junior MasterChef Australia...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Meghan to co-host Junior MasterChef Australia...”。核心要点：该英文报道关注最新动态：The Duchess of Sussex says she \"can't wait\" to take part in the prog...",
+        "titleZh": "卢拉在巴西复出削弱了特朗普对拉丁美洲的野心",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“卢拉在巴西复出削弱了特朗普对拉丁美洲的野心”。核心要点：特朗普与卢拉的关系可能已经解冻，但有几个问题可能会重新引发两位领导人之间的紧张关系。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 04:43:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 01:46:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Jay-Z to perform at Super Bowl half-time show...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Jay-Z to perform at Super Bowl half-time show...”。核心要点：该英文报道关注最新动态：The rapper has been involved with the show for years but has never b...",
+        "titleZh": "荷兰动物园管理员被豹子咬伤身亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“荷兰动物园管理员被豹子咬伤身亡”。核心要点：这位女士 17 岁时在公园开始了她的职业生涯，断断续续地在那里工作了四十年。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 05:05:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 27 Oct 2026 19:30:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want ...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want ...”。核心要点：该英文报道关注最新动态：People earning from £380 a month to £150,000 a year tell the BBC wha...",
+        "titleZh": "我每年拿到 4,062 英镑，并且正在尽我所能 - 这就是我想要从预算中得到的",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我每年拿到 4,062 英镑，并且正在尽我所能 - 这就是我想要从预算中得到的”。核心要点：年收入在 4,062 英镑到 150,000 英镑之间的人们告诉 BBC 他们希望在今年的预算中看到什么。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 00:01:00 GMT",
+        "publishedAt": "Wed, 28 Oct 2026 00:03:05 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday...”。核心要点：该英文报道关注最新动态：The chancellor will axe tariffs on some staples as part of plans to ...",
+        "titleZh": "银行税、能源法案帮助和最低工资上涨——预算中可能包含哪些内容？",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“银行税、能源法案帮助和最低工资上涨——预算中可能包含哪些内容？”。核心要点：英国财政大臣约翰·希利 (John Healey) 将于 10 月 28 日公布他的英国税收计划。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 01:57:48 GMT",
+        "publishedAt": "Wed, 28 Oct 2026 00:03:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "最低工资将上涨但18-20岁的人不会获得更大的涨幅",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“最低工资将上涨但18-20岁的人不会获得更大的涨幅”。核心要点：财政大臣约翰·希利将在预算中公布新的工资标准，并宣布帮助家庭支付生活费用的措施。",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 27 Oct 2026 15:01:27 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share l...”。核心要点：该英文报道关注最新动态：The company will be the first true artificial intelligence company t...",
+        "titleZh": "由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨”。核心要点：Villa Vie Odyssey 号暂停航行，并正在与乘客进行“临时生活安排”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 16:27:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 03:43:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Apple says it will replace iPhone Duo handsets with screen problems...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Apple says it will replace iPhone Duo handsets with screen problems...”。核心要点：该英文报道关注最新动态：Photos shared online showed faults appearing on the screens of Apple...",
+        "titleZh": "“烦人的嗡嗡声”：寻找更隐形的无人机",
+        "summaryZh": "这是一条金融市场新闻，重点围绕““烦人的嗡嗡声”：寻找更隐形的无人机”。核心要点：随着无人机送货变得越来越普遍，它们的制造商正在寻找让无人机变得更安静的方法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 01:48:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Anthropic's blockbuster share listing - 5 surprising things we now know...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic's blockbuster share listing - 5 surprising things we now know...”。核心要点：该英文报道关注最新动态：Anthropic’s IPO prospectus is 355 pages and full of never before dis...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 26 Oct 2026 19:57:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 00:01:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
