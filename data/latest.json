@@ -1,146 +1,132 @@
 {
-  "updatedAt": "2026-10-28T06:51:06.485Z",
+  "updatedAt": "2026-10-29T07:02:41.078Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "The Role and Mechanism of SGLT2 Inhibitors in Chronic Kidney Disease.",
-        "journal": "Drug design, development and therapy",
-        "pubDate": "2026",
-        "studyType": "Journal Article / Review",
-        "authors": "Xie J, Liu Y, Zhao Y",
-        "zhSummary": "该文聚焦高血压肾病，属于综述研究。核心观点：该英文报道关注最新动态：As a new class of antidiabetic drugs, sodium-glucose cotransporter 2 inhibitors ... 临床提示：该英文报道关注最新动态：Chronic kidney disease (CKD) refers to structural or functional abnormalities of...",
-        "abstract": "Chronic kidney disease (CKD) refers to structural or functional abnormalities of the kidneys caused by various factors lasting ≥3 months, or a decline in glomerular filtration rate (GFR) of <60 mL/min of unknown cause lasting ≥3 months. Its primary causes include diabetic kidney disease, hypertensive nephropathy, IgA nephropathy, membranous nephropathy, and lupus nephritis, among others. As a new class of antidiabetic drugs, sodium-glucose cotransporter 2 inhibitors (SGLT2i) have been shown in numerous clinical studies and animal experiments to be effective in treating CKD of various etiologies. The renoprotective effects of SGLT2 inhibitors are independent of their glucose-lowering effects....",
-        "pmid": "42935670",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42935670/",
-        "doiUrl": "https://doi.org/10.2147/DDDT.S648280",
-        "url": "https://doi.org/10.2147/DDDT.S648280"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Giant focal nodular hyperplasia with atypical imaging due to absent central scar: A case report.",
-        "journal": "Radiology case reports",
+        "title": "Associations of reticulocyte hemoglobin equivalent with erythrocyte indices and serum ferritin in anemic patients with hepatocellular carcinoma: A retrospective study.",
+        "journal": "Experimental and therapeutic medicine",
         "pubDate": "2026 Dec",
+        "studyType": "Journal Article",
+        "authors": "Liu Z, Liu D",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：癌性贫血常见于肝细胞癌（HCC）患者，由于慢性肝病、门脉高压、脾功能亢进、炎症、营养障碍及肿瘤相关因素并存，其发病机制复杂。 临床提示：本回顾性研究对 96 名患有 HCC 的贫血患者在开始首次抗肿瘤治疗前的贫血形态进行了表征，并检查了网织红细胞血红蛋白当量 (RET-",
+        "abstract": "Cancer-related anemia is common in patients with hepatocellular carcinoma (HCC), and its pathogenesis is complex due to the coexistence of chronic liver disease, portal hypertension, hypersplenism, inflammation, nutritional disorders and tumor-related factors. The present retrospective study characterized anemia morphology in 96 anemic patients with HCC before initiation of their first antitumor therapy, and examined the associations of reticulocyte hemoglobin equivalent (RET-He) with erythrocyte indices and serum ferritin (SF), with a focus on whether RET-He and SF displayed distinct patterns of association with hematological parameters. The data collected included sex, age, Barcelona Clini...",
+        "pmid": "42948365",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42948365/",
+        "doiUrl": "https://doi.org/10.3892/etm.2026.13335",
+        "url": "https://doi.org/10.3892/etm.2026.13335"
+      },
+      {
+        "title": "An 8-year-old boy with recurrent jaundice.",
+        "journal": "Paediatrics & child health",
+        "pubDate": "2026 Nov",
         "studyType": "Case Reports / Journal Article",
-        "authors": "El Bqaq I, Ehirchiou Z, Izi Z",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Focal nodular hyperplasia (FNH) is widely recognized as one of the leading benig... 临床提示：该英文报道关注最新动态：Although generally asymptomatic, FNH may occasionally present with acute abdomin...",
-        "abstract": "Focal nodular hyperplasia (FNH) is widely recognized as one of the leading benign hepatic neoplasms encountered in clinical practice, disproportionately affecting women during their third through fifth decades of life. Although generally asymptomatic, FNH may occasionally present with acute abdominal pain, as illustrated in our case of a young woman with symptomatic giant FNH. Ultrasound, computed tomography, and MRI constitute the main imaging modalities used in the diagnostic evaluation of FNH, each contributing complementary information; however, distinguishing it from malignant hepatic tumors may remain challenging, particularly in atypical presentations. Histopathological examination ma...",
-        "pmid": "42935812",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42935812/",
-        "doiUrl": "https://doi.org/10.1016/j.radcr.2026.09.028",
-        "url": "https://doi.org/10.1016/j.radcr.2026.09.028"
+        "authors": "Venkatesh V, Golla MK",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：一名8岁男孩自婴儿期起就出现反复黄疸。 临床提示：他生长发育正常，没有慢性肝病的临床特征。",
+        "abstract": "An 8-year-old boy presented with recurrent jaundice since early infancy. He had normal growth and development and no clinical features of chronic liver disease. Investigations repeatedly demonstrated predominantly conjugated hyperbilirubinaemia, with normal liver enzymes and preserved synthetic function. Haemolytic evaluation was negative, and abdominal ultrasonography showed mild hepatomegaly with normal echotexture, without biliary dilatation, gallstones, chronic liver disease, or portal hypertension. Whole-exome sequencing confirmed the diagnosis of Dubin-Johnson syndrome, a benign disorder due to defective bilirubin transport. The child remains clinically well, with stable biochemical pa...",
+        "pmid": "42947950",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42947950/",
+        "doiUrl": "https://doi.org/10.1093/pch/pxag095",
+        "url": "https://doi.org/10.1093/pch/pxag095"
       },
       {
-        "title": "Cystic Fibrosis-Associated Hepatobiliary Involvement.",
-        "journal": "Clinics in liver disease",
+        "title": "Laparoscopic liver resection versus radiofrequency ablation for solitary small hepatocellular carcinoma in elderly patients: A multicenter propensity score-matched study.",
+        "journal": "Surgery",
         "pubDate": "2026 Nov",
-        "studyType": "Journal Article / Review",
-        "authors": "Green N, Leung DH",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Cystic Fibrosis-associated Hepatobiliary involvement (CFHBI) refers to a wide ra... 临床提示：该英文报道关注最新动态：Advanced cystic fibrosis liver disease (aCFLD) describes individuals with advanc...",
-        "abstract": "Cystic Fibrosis-associated Hepatobiliary involvement (CFHBI) refers to a wide range of liver and biliary-related clinical and/or biochemical abnormalities that impact people with cystic fibrosis. Advanced cystic fibrosis liver disease (aCFLD) describes individuals with advanced fibrosis or cirrhosis and/or portal hypertension. The current review discusses both CFHBI and aCFLD in terms of pathogenesis; clinical, imaging and biochemical manifestations; screening, monitoring, and management recommendations; and the impact of cystic fibrosis transmembrane conductance regulator (CFTR) modulator therapy.",
-        "pmid": "42946521",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42946521/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.07.008",
-        "url": "https://doi.org/10.1016/j.cld.2026.07.008"
-      },
-      {
-        "title": "Three decades of Rex shunt for pediatric extrahepatic portal vein obstruction: A narrative review of advances from surgical evolution to holistic management.",
-        "journal": "Journal of pediatric surgery",
-        "pubDate": "2026 Nov",
-        "studyType": "Journal Article / Review",
-        "authors": "Wang J, Chang X, You F",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Since its introduction in 1992, the Rex shunt (also called Meso-Rex bypass, MRB)... 临床提示：该英文报道关注最新动态：However, a comprehensive synthesis of the accumulating evidence and evolving pra...",
-        "abstract": "Since its introduction in 1992, the Rex shunt (also called Meso-Rex bypass, MRB) has substantially advanced the management of pediatric extrahepatic portal vein obstruction (EHPVO) by restoring physiological hepatopetal portal flow. However, a comprehensive synthesis of the accumulating evidence and evolving practices is notably lacking, especially given that the latest Baveno VI consensus was published nine years ago in 2016. This review aims to synthesize three decades of advances in Rex shunt evolution, from a novel technique to a widely adopted first-line surgical option. We conducted a narrative review, synthesizing evidence from key studies, large case series, and expert consensus stat...",
-        "pmid": "42641916",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42641916/",
-        "doiUrl": "https://doi.org/10.1016/j.jpedsurg.2026.163413",
-        "url": "https://doi.org/10.1016/j.jpedsurg.2026.163413"
+        "studyType": "Journal Article / Multicenter Study / Comparative Study",
+        "authors": "Yang S, Feng J, Zou M",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：老年孤立性小肝细胞癌的最佳局部治疗仍不清楚。 临床提示：这项多中心倾向评分匹配研究比较了该人群中腹腔镜肝切除术和射频消融术的围手术期和长期结果。",
+        "abstract": "The optimal local treatment for solitary small hepatocellular carcinoma in elderly patients remains unclear. This multicenter propensity score-matched study compared perioperative and long-term outcomes between laparoscopic liver resection and radiofrequency ablation in this population. Elderly patients (defined as age ≥70 years) with solitary hepatocellular carcinoma ≤3 cm who underwent laparoscopic liver resection or radiofrequency ablation at 8 tertiary centers were included. Propensity score matching (1:1) balanced baseline characteristics. Perioperative outcomes, overall survival, and disease-free survival were compared. Independent prognostic factors were identified by Cox regression. ...",
+        "pmid": "42686461",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42686461/",
+        "doiUrl": "https://doi.org/10.1016/j.surg.2026.110481",
+        "url": "https://doi.org/10.1016/j.surg.2026.110481"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "挪威和芬兰领导人与普京罕见通话",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“挪威和芬兰领导人与普京罕见通话”。核心要点：芬兰总统亚历山大·斯塔布表示，乌克兰冲突的结束“不会通过沉默来实现”。",
+        "titleZh": "西班牙高铁相撞事故造成至少68人死亡",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙高铁相撞事故造成至少68人死亡”。核心要点：交通部长表示，一列行驶中的火车与另一列停在轨道上的火车之间的相撞事故是由“莫名其妙”的错误造成的。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 21:38:54 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "官员称停火范围扩大至乌克兰赫尔松地区",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“官员称停火范围扩大至乌克兰赫尔松地区”。核心要点：休战最初是为奥列什基的滞留居民计划的，俄罗斯和乌克兰表示尚未收到违反协议的报道。",
+        "titleZh": "血迹斑斑、茫然又愤怒——西班牙乘客的铁路旅程如何变成灾难",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“血迹斑斑、茫然又愤怒——西班牙乘客的铁路旅程如何变成灾难”。核心要点：西班牙火车相撞事故的幸存者表达了他们对周三托莱多省发生的事故的震惊、恐慌和愤怒。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 21:24:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "姆巴佩对毛泽东言论在中国遭到强烈反对表示歉意",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“姆巴佩对毛泽东言论在中国遭到强烈反对表示歉意”。核心要点：这位法国明星在接受模因采访时将这位中国前领导人称为“独裁者”。",
+        "titleZh": "弗拉维奥·博尔索纳罗否认在迈阿密登陆后逃离巴西",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“弗拉维奥·博尔索纳罗否认在迈阿密登陆后逃离巴西”。核心要点：落败的巴西候选人声称自己是政变和政治迫害的受害者，反复提出未经证实的“选举舞弊”指控。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 29 Oct 2026 01:14:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "卢拉在巴西复出削弱了特朗普对拉丁美洲的野心",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“卢拉在巴西复出削弱了特朗普对拉丁美洲的野心”。核心要点：特朗普与卢拉的关系可能已经解冻，但有几个问题可能会重新引发两位领导人之间的紧张关系。",
+        "titleZh": "部分结果显示，内塔尼亚胡集团领先以色列选举，但未获得多数席位",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“部分结果显示，内塔尼亚胡集团领先以色列选举，但未获得多数席位”。核心要点：85%的选票已清点完毕，内塔尼亚胡领导的利库德集团及其盟友将在议会120个席位中赢得53个席位。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 01:46:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "荷兰动物园管理员被豹子咬伤身亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“荷兰动物园管理员被豹子咬伤身亡”。核心要点：这位女士 17 岁时在公园开始了她的职业生涯，断断续续地在那里工作了四十年。",
+        "titleZh": "以色列如何打破选举僵局？这里有四种情况",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列如何打破选举僵局？这里有四种情况”。核心要点：85% 的选票已清点完毕，所有迹象都表明陷入僵局。最有可能的结果可能是新的选举。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 19:30:37 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "我每年拿到 4,062 英镑，并且正在尽我所能 - 这就是我想要从预算中得到的",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我每年拿到 4,062 英镑，并且正在尽我所能 - 这就是我想要从预算中得到的”。核心要点：年收入在 4,062 英镑到 150,000 英镑之间的人们告诉 BBC 他们希望在今年的预算中看到什么。",
+        "titleZh": "我赚了 30,000 英镑。我很生气预算中没有削减燃油税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我赚了 30,000 英镑。我很生气预算中没有削减燃油税”。核心要点：年收入在 4,062 英镑到 150,000 英镑之间的人们向 BBC 讲述了他们对今年预算的看法。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 00:03:05 GMT",
+        "publishedAt": "Thu, 29 Oct 2026 00:00:25 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "银行税、能源法案帮助和最低工资上涨——预算中可能包含哪些内容？",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“银行税、能源法案帮助和最低工资上涨——预算中可能包含哪些内容？”。核心要点：英国财政大臣约翰·希利 (John Healey) 将于 10 月 28 日公布他的英国税收计划。",
+        "titleZh": "我们现在通过四张图表了解英国经济",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“我们现在通过四张图表了解英国经济”。核心要点：预算责任办公室表示，能源价格上涨将影响从价格、生活水平到经济增长的方方面面。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 00:03:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 20:08:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "最低工资将上涨但18-20岁的人不会获得更大的涨幅",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“最低工资将上涨但18-20岁的人不会获得更大的涨幅”。核心要点：财政大臣约翰·希利将在预算中公布新的工资标准，并宣布帮助家庭支付生活费用的措施。",
+        "titleZh": "预算案为 25 岁以下人群提供了什么以及遗漏了什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“预算案为 25 岁以下人群提供了什么以及遗漏了什么”。核心要点：财政大臣宣布了一系列措施，这些措施将影响 25 岁以下的人，从住房到最低工资。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 27 Oct 2026 15:01:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 20:02:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“由于燃油成本飙升，豪华游轮乘客滞留在柬埔寨”。核心要点：Villa Vie Odyssey 号暂停航行，并正在与乘客进行“临时生活安排”。",
+        "titleZh": "您的工资、能源账单和储蓄：预算如何影响您",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“您的工资、能源账单和储蓄：预算如何影响您”。核心要点：约翰·希利财政大臣在他的第一份预算中宣布的变化将直接影响您的财务状况。方法如下。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 03:43:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 16:43:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "“烦人的嗡嗡声”：寻找更隐形的无人机",
-        "summaryZh": "这是一条金融市场新闻，重点围绕““烦人的嗡嗡声”：寻找更隐形的无人机”。核心要点：随着无人机送货变得越来越普遍，它们的制造商正在寻找让无人机变得更安静的方法。",
+        "titleZh": "希利在第一份预算中公布了 100 英镑的能源费用和银行税",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“希利在第一份预算中公布了 100 英镑的能源费用和银行税”。核心要点：德国总理在全球经济动荡的情况下瞄准了生活成本，但反对党表示他不够大胆。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 00:01:10 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 28 Oct 2026 18:45:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
