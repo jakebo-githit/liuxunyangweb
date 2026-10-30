@@ -1,132 +1,92 @@
 {
-  "updatedAt": "2026-10-29T07:02:41.078Z",
+  "updatedAt": "2026-10-30T07:04:28.273Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Associations of reticulocyte hemoglobin equivalent with erythrocyte indices and serum ferritin in anemic patients with hepatocellular carcinoma: A retrospective study.",
-        "journal": "Experimental and therapeutic medicine",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article",
-        "authors": "Liu Z, Liu D",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：癌性贫血常见于肝细胞癌（HCC）患者，由于慢性肝病、门脉高压、脾功能亢进、炎症、营养障碍及肿瘤相关因素并存，其发病机制复杂。 临床提示：本回顾性研究对 96 名患有 HCC 的贫血患者在开始首次抗肿瘤治疗前的贫血形态进行了表征，并检查了网织红细胞血红蛋白当量 (RET-",
-        "abstract": "Cancer-related anemia is common in patients with hepatocellular carcinoma (HCC), and its pathogenesis is complex due to the coexistence of chronic liver disease, portal hypertension, hypersplenism, inflammation, nutritional disorders and tumor-related factors. The present retrospective study characterized anemia morphology in 96 anemic patients with HCC before initiation of their first antitumor therapy, and examined the associations of reticulocyte hemoglobin equivalent (RET-He) with erythrocyte indices and serum ferritin (SF), with a focus on whether RET-He and SF displayed distinct patterns of association with hematological parameters. The data collected included sex, age, Barcelona Clini...",
-        "pmid": "42948365",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42948365/",
-        "doiUrl": "https://doi.org/10.3892/etm.2026.13335",
-        "url": "https://doi.org/10.3892/etm.2026.13335"
-      },
-      {
-        "title": "An 8-year-old boy with recurrent jaundice.",
-        "journal": "Paediatrics & child health",
-        "pubDate": "2026 Nov",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Venkatesh V, Golla MK",
-        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：一名8岁男孩自婴儿期起就出现反复黄疸。 临床提示：他生长发育正常，没有慢性肝病的临床特征。",
-        "abstract": "An 8-year-old boy presented with recurrent jaundice since early infancy. He had normal growth and development and no clinical features of chronic liver disease. Investigations repeatedly demonstrated predominantly conjugated hyperbilirubinaemia, with normal liver enzymes and preserved synthetic function. Haemolytic evaluation was negative, and abdominal ultrasonography showed mild hepatomegaly with normal echotexture, without biliary dilatation, gallstones, chronic liver disease, or portal hypertension. Whole-exome sequencing confirmed the diagnosis of Dubin-Johnson syndrome, a benign disorder due to defective bilirubin transport. The child remains clinically well, with stable biochemical pa...",
-        "pmid": "42947950",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42947950/",
-        "doiUrl": "https://doi.org/10.1093/pch/pxag095",
-        "url": "https://doi.org/10.1093/pch/pxag095"
-      },
-      {
-        "title": "Laparoscopic liver resection versus radiofrequency ablation for solitary small hepatocellular carcinoma in elderly patients: A multicenter propensity score-matched study.",
-        "journal": "Surgery",
-        "pubDate": "2026 Nov",
-        "studyType": "Journal Article / Multicenter Study / Comparative Study",
-        "authors": "Yang S, Feng J, Zou M",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究。核心观点：老年孤立性小肝细胞癌的最佳局部治疗仍不清楚。 临床提示：这项多中心倾向评分匹配研究比较了该人群中腹腔镜肝切除术和射频消融术的围手术期和长期结果。",
-        "abstract": "The optimal local treatment for solitary small hepatocellular carcinoma in elderly patients remains unclear. This multicenter propensity score-matched study compared perioperative and long-term outcomes between laparoscopic liver resection and radiofrequency ablation in this population. Elderly patients (defined as age ≥70 years) with solitary hepatocellular carcinoma ≤3 cm who underwent laparoscopic liver resection or radiofrequency ablation at 8 tertiary centers were included. Propensity score matching (1:1) balanced baseline characteristics. Perioperative outcomes, overall survival, and disease-free survival were compared. Independent prognostic factors were identified by Cox regression. ...",
-        "pmid": "42686461",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42686461/",
-        "doiUrl": "https://doi.org/10.1016/j.surg.2026.110481",
-        "url": "https://doi.org/10.1016/j.surg.2026.110481"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "西班牙高铁相撞事故造成至少68人死亡",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“西班牙高铁相撞事故造成至少68人死亡”。核心要点：交通部长表示，一列行驶中的火车与另一列停在轨道上的火车之间的相撞事故是由“莫名其妙”的错误造成的。",
+        "titleZh": "加密货币巨头币安遭受 63 亿美元的黑客攻击，疑似史上规模最大的黑客攻击",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“加密货币巨头币安遭受 63 亿美元的黑客攻击，疑似史上规模最大的黑客攻击”。核心要点：两家分析公司将这一事件归咎于朝鲜一个名为 TraderTraitor 的黑客组织。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 21:38:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 30 Oct 2026 05:15:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "血迹斑斑、茫然又愤怒——西班牙乘客的铁路旅程如何变成灾难",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“血迹斑斑、茫然又愤怒——西班牙乘客的铁路旅程如何变成灾难”。核心要点：西班牙火车相撞事故的幸存者表达了他们对周三托莱多省发生的事故的震惊、恐慌和愤怒。",
+        "titleZh": "蘑菇凶手在澳大利亚法庭挑战中未能推翻定罪",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“蘑菇凶手在澳大利亚法庭挑战中未能推翻定罪”。核心要点：艾琳·帕特森因七个理由辩称她的审判不公平，但三名上诉法官全部驳回。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 21:24:41 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 30 Oct 2026 01:35:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "弗拉维奥·博尔索纳罗否认在迈阿密登陆后逃离巴西",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“弗拉维奥·博尔索纳罗否认在迈阿密登陆后逃离巴西”。核心要点：落败的巴西候选人声称自己是政变和政治迫害的受害者，反复提出未经证实的“选举舞弊”指控。",
+        "titleZh": "习近平在中国政治集会上强调“党纪”，清洗人数创历史新高",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“习近平在中国政治集会上强调“党纪”，清洗人数创历史新高”。核心要点：观察人士称，习近平的反腐败运动已成为“巩固和维护权威的努力”。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 29 Oct 2026 01:14:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 30 Oct 2026 03:24:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "部分结果显示，内塔尼亚胡集团领先以色列选举，但未获得多数席位",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“部分结果显示，内塔尼亚胡集团领先以色列选举，但未获得多数席位”。核心要点：85%的选票已清点完毕，内塔尼亚胡领导的利库德集团及其盟友将在议会120个席位中赢得53个席位。",
+        "titleZh": "由于危机挑战阿萨德后的复苏，叙利亚人在物价飞涨中挣扎",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“由于危机挑战阿萨德后的复苏，叙利亚人在物价飞涨中挣扎”。核心要点：补贴的终止和价格上涨引发了不满，考验着艾哈迈德·沙拉政府的支持度。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "以色列如何打破选举僵局？这里有四种情况",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“以色列如何打破选举僵局？这里有四种情况”。核心要点：85% 的选票已清点完毕，所有迹象都表明陷入僵局。最有可能的结果可能是新的选举。",
+        "titleZh": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元”。核心要点：谷歌披露其人工智能搜索摘要正在影响广告收入后，令投资者感到非常震惊，以至于其股价跌至六个月低点。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 29 Oct 2026 22:17:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "我赚了 30,000 英镑。我很生气预算中没有削减燃油税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我赚了 30,000 英镑。我很生气预算中没有削减燃油税”。核心要点：年收入在 4,062 英镑到 150,000 英镑之间的人们向 BBC 讲述了他们对今年预算的看法。",
+        "titleZh": "加密货币巨头币安遭受 63 亿美元的黑客攻击，疑似史上规模最大的黑客攻击",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“加密货币巨头币安遭受 63 亿美元的黑客攻击，疑似史上规模最大的黑客攻击”。核心要点：两家分析公司将这一事件归咎于朝鲜一个名为 TraderTraitor 的黑客组织。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 29 Oct 2026 00:00:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 30 Oct 2026 05:15:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "我们现在通过四张图表了解英国经济",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“我们现在通过四张图表了解英国经济”。核心要点：预算责任办公室表示，能源价格上涨将影响从价格、生活水平到经济增长的方方面面。",
+        "titleZh": "从工作坊到时装秀——为什么修补衣服正在成为主流",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“从工作坊到时装秀——为什么修补衣服正在成为主流”。核心要点：新一代正在拥抱引人注目的修补和可见的修补。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 20:08:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 30 Oct 2026 00:00:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "预算案为 25 岁以下人群提供了什么以及遗漏了什么",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“预算案为 25 岁以下人群提供了什么以及遗漏了什么”。核心要点：财政大臣宣布了一系列措施，这些措施将影响 25 岁以下的人，从住房到最低工资。",
+        "titleZh": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元”。核心要点：谷歌披露其人工智能搜索摘要正在影响广告收入后，令投资者感到非常震惊，以至于其股价跌至六个月低点。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 20:02:38 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 29 Oct 2026 22:17:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "您的工资、能源账单和储蓄：预算如何影响您",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“您的工资、能源账单和储蓄：预算如何影响您”。核心要点：约翰·希利财政大臣在他的第一份预算中宣布的变化将直接影响您的财务状况。方法如下。",
+        "titleZh": "零售商面临倒闭之际，伯纳姆“准备好支持”Poundland 员工",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“零售商面临倒闭之际，伯纳姆“准备好支持”Poundland 员工”。核心要点：Poundland 的老板们正在提交一份意向通知，任命公司管理人员。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 16:43:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 29 Oct 2026 19:11:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "希利在第一份预算中公布了 100 英镑的能源费用和银行税",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“希利在第一份预算中公布了 100 英镑的能源费用和银行税”。核心要点：德国总理在全球经济动荡的情况下瞄准了生活成本，但反对党表示他不够大胆。",
+        "titleZh": "美国利率保持稳定且经济增长 - 这对您意味着什么",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“美国利率保持稳定且经济增长 - 这对您意味着什么”。核心要点：美联储的利率决定影响从抵押贷款到汽车贷款的一切",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 28 Oct 2026 18:45:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 29 Oct 2026 17:15:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
