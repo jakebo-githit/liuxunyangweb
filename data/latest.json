@@ -1,92 +1,119 @@
 {
-  "updatedAt": "2026-11-02T07:42:35.154Z",
+  "updatedAt": "2026-11-03T07:55:23.587Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Tract embolization using absorbable gelatin sponge torpedoes following transsplenic or transhepatic access in pediatric patients.",
+        "journal": "Diagnostic and interventional radiology (Ankara, Turkey)",
+        "pubDate": "2026 Nov 2",
+        "studyType": "Journal Article",
+        "authors": "Bayramoğlu M, Şentürk YE, Cantürk EM",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To evaluate the feasibility and early postprocedural hemorrhage outcomes of abso... 临床提示：该英文报道关注最新动态：To evaluate the feasibility and early postprocedural hemorrhage outcomes of abso...",
+        "abstract": "To evaluate the feasibility and early postprocedural hemorrhage outcomes of absorbable gelatin sponge (AGS) torpedo tract closure and to briefly describe the tract-closure method used following portal vein recanalization in pediatric native-liver extrahepatic portal vein obstruction. We retrospectively reviewed the cases of 18 consecutive children [11 boys, 7 girls; median age, 7 years (range, 5-12)] treated between 2020 and 2025 who underwent transsplenic and/or trans-hepatic portal vein recanalization with planned tract embolization using AGS torpedoes. The access sheath sizes were 5F and 6F, and unfractionated heparin was administered intraprocedurally in all cases. Procedures with inadve...",
+        "pmid": "41636081",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41636081/",
+        "doiUrl": "https://doi.org/10.4274/dir.2026.263679",
+        "url": "https://doi.org/10.4274/dir.2026.263679"
+      },
+      {
+        "title": "EUS-PPG Measured Distal to the Thrombus: A Reliable Way to Detect the Pressure Gradient in Patients With Cirrhosis and Portal Vein Thrombosis.",
+        "journal": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article",
+        "authors": "Wei W, Chen L, Ying R",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：In patients with portal vein thrombosis (PVT), hepatic venous pressure gradient ... 临床提示：该英文报道关注最新动态：This study aimed to evaluate the application of endoscopic ultrasound (EUS)-guid...",
+        "abstract": "In patients with portal vein thrombosis (PVT), hepatic venous pressure gradient (HVPG) does not accurately reflect portal pressure. This study aimed to evaluate the application of endoscopic ultrasound (EUS)-guided portal pressure gradient (PPG) in cirrhotic patients with PVT. In patients with cirrhosis who had gastroesophageal varices (GEV) and PVT were included. The PPG proximal to the PVT (Pro-PVT PPG), PPG distal to the PVT (Dis-PVT PPG), and gastric variceal pressure gradient (GVPG) were measured by puncturing the target vessels under the guidance of EUS. The pressure gradients measured using different methods were compared and correlated with clinical characteristics. A total of 51 pat...",
+        "pmid": "42968412",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42968412/",
+        "doiUrl": "https://doi.org/10.1111/den.70325",
+        "url": "https://doi.org/10.1111/den.70325"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：How a Democrat in Michigan rocked the party days before the US midterms...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：How a Democrat in Michigan rocked the party days before the US midterms...”。核心要点：该英文报道关注最新动态：BBC's Nada Tawfik visited Detroit, Michigan where the party spat unf...",
+        "titleZh": "该英文报道关注最新动态：US strikes Iran ahead of midterm elections...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US strikes Iran ahead of midterm elections...”。核心要点：该英文报道关注最新动态：US officials described the attacks on Qeshm Island as limited and de...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 04:40:00 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 03:39:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump makes fevered campaign push in final weekend before election...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump makes fevered campaign push in final weekend before election...”。核心要点：该英文报道关注最新动态：The US president rallied in states that Republicans previously won -...",
+        "titleZh": "该英文报道关注最新动态：Supreme Court rejects Trump's request to stop California counting disputed votes...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Supreme Court rejects Trump's request to stop California counting disputed votes...”。核心要点：该英文报道关注最新动态：The ruling, which comes on the eve of the midterm elections, essenti...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 04:04:28 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 03:32:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nine killed as small jet crashes on Florida street...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nine killed as small jet crashes on Florida street...”。核心要点：该英文报道关注最新动态：Transportation Secretary Sean Duffy described the crash, which happe...",
+        "titleZh": "该英文报道关注最新动态：Russian bombing kills 29 people at Ukraine aid centre, Kyiv says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian bombing kills 29 people at Ukraine aid centre, Kyiv says...”。核心要点：该英文报道关注最新动态：Officials say at least nine 3,000kg aerial bombs hit a southern Ukra...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 07:33:17 GMT",
+        "publishedAt": "Tue, 03 Nov 2026 07:24:12 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Thousands of European troops to rehearse Ukraine deployment in event of peace...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Thousands of European troops to rehearse Ukraine deployment in event of peace...”。核心要点：该英文报道关注最新动态：Western officials stress that any force sent to Ukraine would not ta...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 03 Nov 2026 00:07:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Plane may have broken apart ahead of deadly Florida jet crash, say investigators...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Plane may have broken apart ahead of deadly Florida jet crash, say investigators...”。核心要点：该英文报道关注最新动态：The National Transportation Safety Board also believes weather could...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 03 Nov 2026 00:08:14 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Binance users withdraw $3.6bn after largest-ever crypto hack...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Binance users withdraw $3.6bn after largest-ever crypto hack...”。核心要点：该英文报道关注最新动态：The exchange froze transactions following the incident which has bee...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 03:32:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：France launches attempted murder investigation after petrol bomb thrown at polic...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：France launches attempted murder investigation after petrol bomb thrown at polic...”。核心要点：该英文报道关注最新动态：There were hundreds of arrests as protesters took to the streets in ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 00:15:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Binance users withdraw $3.6bn after largest-ever crypto hack...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Binance users withdraw $3.6bn after largest-ever crypto hack...”。核心要点：该英文报道关注最新动态：The exchange froze transactions following the incident which has bee...",
+        "titleZh": "英国和欧盟同意废除脱欧食品出口繁文缛节的协议草案",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国和欧盟同意废除脱欧食品出口繁文缛节的协议草案”。核心要点：在本月晚些时候举行的英国-欧盟峰会之前达成的食品协议是迄今为止商定的所谓“脱欧重置”中最重要的部分。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 03:32:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 07:53:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Don't get caught out by new Buy Now Pay Later rules...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Don't get caught out by new Buy Now Pay Later rules...”。核心要点：该英文报道关注最新动态：New affordability checks mean you could be blocked from using Buy No...",
+        "titleZh": "七个欧洲国家的商店冰柜遭受网络攻击",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“七个欧洲国家的商店冰柜遭受网络攻击”。核心要点：据报道，欧洲多家商店的冰柜温度高达 50 摄氏度。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Nov 2026 23:34:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Virgin Media O2 set to cut thousands of jobs to reduce costs...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Virgin Media O2 set to cut thousands of jobs to reduce costs...”。核心要点：该英文报道关注最新动态：The broadband firm has not finalised numbers but it is likely be a s...",
+        "titleZh": "朝鲜否认是创纪录的 63 亿美元币安黑客攻击的幕后黑手",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“朝鲜否认是创纪录的 63 亿美元币安黑客攻击的幕后黑手”。核心要点：美国政府机构和网络分析人士指责平壤制造了这起破纪录的抢劫案。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Nov 2026 16:57:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 06:22:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：No more washing up: How Airbnb's new house rules have divided hosts and guests...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：No more washing up: How Airbnb's new house rules have divided hosts and guests...”。核心要点：该英文报道关注最新动态：Airbnb hosts must stop asking guests to wash-up or take out bins und...",
+        "titleZh": "苹果不确定何时会推出更多可折叠iPhone",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果不确定何时会推出更多可折叠iPhone”。核心要点：苹果的可折叠 iPhone Duo 受到了愿意花 2,000 美元购买新手机的人们的欢迎。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 01 Nov 2026 00:17:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 07:03:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：US tech stocks see sharp falls as AI spending nears $1tn...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：US tech stocks see sharp falls as AI spending nears $1tn...”。核心要点：该英文报道关注最新动态：Shares in Intel continue to fall while the tech-heavy Nasdaq opens a...",
+        "titleZh": "英国皇家邮政推出 2026 年圣诞节邮票",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“英国皇家邮政推出 2026 年圣诞节邮票”。核心要点：一年一度的圣诞系列五张邮票以耶稣诞生的场景为主题。",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 30 Oct 2026 20:34:46 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 02:27:50 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
