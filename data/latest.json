@@ -1,119 +1,106 @@
 {
-  "updatedAt": "2026-11-03T07:55:23.587Z",
+  "updatedAt": "2026-11-04T07:31:38.234Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Tract embolization using absorbable gelatin sponge torpedoes following transsplenic or transhepatic access in pediatric patients.",
-        "journal": "Diagnostic and interventional radiology (Ankara, Turkey)",
-        "pubDate": "2026 Nov 2",
+        "title": "Porto-sinusoidal vascular disorder-type lesions in patients with early fibrotic stages of metabolic dysfunction-associated steatotic liver disease.",
+        "journal": "JHEP reports : innovation in hepatology",
+        "pubDate": "2026 Nov 3",
         "studyType": "Journal Article",
-        "authors": "Bayramoğlu M, Şentürk YE, Cantürk EM",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To evaluate the feasibility and early postprocedural hemorrhage outcomes of abso... 临床提示：该英文报道关注最新动态：To evaluate the feasibility and early postprocedural hemorrhage outcomes of abso...",
-        "abstract": "To evaluate the feasibility and early postprocedural hemorrhage outcomes of absorbable gelatin sponge (AGS) torpedo tract closure and to briefly describe the tract-closure method used following portal vein recanalization in pediatric native-liver extrahepatic portal vein obstruction. We retrospectively reviewed the cases of 18 consecutive children [11 boys, 7 girls; median age, 7 years (range, 5-12)] treated between 2020 and 2025 who underwent transsplenic and/or trans-hepatic portal vein recanalization with planned tract embolization using AGS torpedoes. The access sheath sizes were 5F and 6F, and unfractionated heparin was administered intraprocedurally in all cases. Procedures with inadve...",
-        "pmid": "41636081",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41636081/",
-        "doiUrl": "https://doi.org/10.4274/dir.2026.263679",
-        "url": "https://doi.org/10.4274/dir.2026.263679"
-      },
-      {
-        "title": "EUS-PPG Measured Distal to the Thrombus: A Reliable Way to Detect the Pressure Gradient in Patients With Cirrhosis and Portal Vein Thrombosis.",
-        "journal": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
-        "pubDate": "2026 Nov",
-        "studyType": "Journal Article",
-        "authors": "Wei W, Chen L, Ying R",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：In patients with portal vein thrombosis (PVT), hepatic venous pressure gradient ... 临床提示：该英文报道关注最新动态：This study aimed to evaluate the application of endoscopic ultrasound (EUS)-guid...",
-        "abstract": "In patients with portal vein thrombosis (PVT), hepatic venous pressure gradient (HVPG) does not accurately reflect portal pressure. This study aimed to evaluate the application of endoscopic ultrasound (EUS)-guided portal pressure gradient (PPG) in cirrhotic patients with PVT. In patients with cirrhosis who had gastroesophageal varices (GEV) and PVT were included. The PPG proximal to the PVT (Pro-PVT PPG), PPG distal to the PVT (Dis-PVT PPG), and gastric variceal pressure gradient (GVPG) were measured by puncturing the target vessels under the guidance of EUS. The pressure gradients measured using different methods were compared and correlated with clinical characteristics. A total of 51 pat...",
-        "pmid": "42968412",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42968412/",
-        "doiUrl": "https://doi.org/10.1111/den.70325",
-        "url": "https://doi.org/10.1111/den.70325"
+        "authors": "van Doorn DJ, Schoenmakers L, de Jager S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Metabolic dysfunction-associated steatotic liver disease (MASLD) is a rising cau... 临床提示：该英文报道关注最新动态：Moreover, portal hypertension may develop early in MASLD in the absence of cirrh...",
+        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a rising cause of chronic liver disease. Liver stiffness measurement (LSM) to assess disease stage is gaining popularity but can demonstrate heterogeneous results in clinical practice. Moreover, portal hypertension may develop early in MASLD in the absence of cirrhosis. These observations may be partially explained by features not assessed in the current NASH-CRN liver biopsy staging, including features of porto-sinusoidal vascular disorder (PSVD). We conducted a retrospective cohort study in patients with MASLD who underwent biopsy between 2015 and 2022. All biopsies with NASH-CRN F0-F2 were screened for eligibility and rev...",
+        "pmid": "42977218",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977218/",
+        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102089",
+        "url": "https://doi.org/10.1016/j.jhepr.2026.102089"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US strikes Iran ahead of midterm elections...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US strikes Iran ahead of midterm elections...”。核心要点：该英文报道关注最新动态：US officials described the attacks on Qeshm Island as limited and de...",
+        "titleZh": "该英文报道关注最新动态：South Carolina elects Democratic senator for first time in almost three decades...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South Carolina elects Democratic senator for first time in almost three decades...”。核心要点：该英文报道关注最新动态：Annie Andrews is projected to defeat Darline Graham, who was handpic...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 03:39:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 03:24:34 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Supreme Court rejects Trump's request to stop California counting disputed votes...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Supreme Court rejects Trump's request to stop California counting disputed votes...”。核心要点：该英文报道关注最新动态：The ruling, which comes on the eve of the midterm elections, essenti...",
+        "titleZh": "该英文报道关注最新动态：James Talarico becomes first Democrat to win Texas Senate seat since 1988...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：James Talarico becomes first Democrat to win Texas Senate seat since 1988...”。核心要点：该英文报道关注最新动态：\"This wasn't just a tsunami, not just a referendum, but this was a b...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 03:32:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 05:39:36 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Russian bombing kills 29 people at Ukraine aid centre, Kyiv says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian bombing kills 29 people at Ukraine aid centre, Kyiv says...”。核心要点：该英文报道关注最新动态：Officials say at least nine 3,000kg aerial bombs hit a southern Ukra...",
+        "titleZh": "该英文报道关注最新动态：Florida Republicans fend off Democrats as state elects first black governor...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Florida Republicans fend off Democrats as state elects first black governor...”。核心要点：该英文报道关注最新动态：Republican Byron Donalds, who was backed by President Donald Trump, ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 07:24:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 07:12:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Thousands of European troops to rehearse Ukraine deployment in event of peace...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Thousands of European troops to rehearse Ukraine deployment in event of peace...”。核心要点：该英文报道关注最新动态：Western officials stress that any force sent to Ukraine would not ta...",
+        "titleZh": "该英文报道关注最新动态：Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says...”。核心要点：该英文报道关注最新动态：Iran's Islamic Revolutionary Guard Corps says the vessels had hit se...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 00:07:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 07:17:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Plane may have broken apart ahead of deadly Florida jet crash, say investigators...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Plane may have broken apart ahead of deadly Florida jet crash, say investigators...”。核心要点：该英文报道关注最新动态：The National Transportation Safety Board also believes weather could...",
+        "titleZh": "该英文报道关注最新动态：Delhi air quality worsens ahead of Diwali as firework restrictions enter force...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Delhi air quality worsens ahead of Diwali as firework restrictions enter force...”。核心要点：该英文报道关注最新动态：On Wednesday morning, Delhi's air quality index reading stood at 377...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 00:08:14 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 06:50:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "英国和欧盟同意废除脱欧食品出口繁文缛节的协议草案",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国和欧盟同意废除脱欧食品出口繁文缛节的协议草案”。核心要点：在本月晚些时候举行的英国-欧盟峰会之前达成的食品协议是迄今为止商定的所谓“脱欧重置”中最重要的部分。",
+        "titleZh": "该英文报道关注最新动态：Poundland supplier 'will lose millions' if retailer collapses...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Poundland supplier 'will lose millions' if retailer collapses...”。核心要点：该英文报道关注最新动态：One of Poundland's suppliers will lose millions if it collapses, whi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 07:53:03 GMT",
+        "publishedAt": "Wed, 04 Nov 2026 00:03:17 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：UK and EU agree draft deal to scrap Brexit red tape over food exports...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK and EU agree draft deal to scrap Brexit red tape over food exports...”。核心要点：该英文报道关注最新动态：The food deal, ahead of a UK-EU summit later this month, is the most...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 03 Nov 2026 20:53:03 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "七个欧洲国家的商店冰柜遭受网络攻击",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“七个欧洲国家的商店冰柜遭受网络攻击”。核心要点：据报道，欧洲多家商店的冰柜温度高达 50 摄氏度。",
+        "titleZh": "该英文报道关注最新动态：No more rice grains in Kellogg's Rice Krispies due to changing weather...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：No more rice grains in Kellogg's Rice Krispies due to changing weather...”。核心要点：该英文报道关注最新动态：The new recipes mean cereal packaging will now include a 'contains w...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 02 Nov 2026 17:38:11 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 01:36:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "朝鲜否认是创纪录的 63 亿美元币安黑客攻击的幕后黑手",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“朝鲜否认是创纪录的 63 亿美元币安黑客攻击的幕后黑手”。核心要点：美国政府机构和网络分析人士指责平壤制造了这起破纪录的抢劫案。",
+        "titleZh": "该英文报道关注最新动态：Binance says fake job interviews used as part of $6.3bn crypto hack...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Binance says fake job interviews used as part of $6.3bn crypto hack...”。核心要点：该英文报道关注最新动态：An engineer was contacted through a legitimate job-hunting platform ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 06:22:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 03 Nov 2026 16:19:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "苹果不确定何时会推出更多可折叠iPhone",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“苹果不确定何时会推出更多可折叠iPhone”。核心要点：苹果的可折叠 iPhone Duo 受到了愿意花 2,000 美元购买新手机的人们的欢迎。",
+        "titleZh": "该英文报道关注最新动态：Canva announces major job cuts after 'our hardest year yet'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Canva announces major job cuts after 'our hardest year yet'...”。核心要点：该英文报道关注最新动态：CEO Melanie Perkins says more than 1,000 staff will either lose thei...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 07:03:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "英国皇家邮政推出 2026 年圣诞节邮票",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“英国皇家邮政推出 2026 年圣诞节邮票”。核心要点：一年一度的圣诞系列五张邮票以耶稣诞生的场景为主题。",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 02:27:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 00:09:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
