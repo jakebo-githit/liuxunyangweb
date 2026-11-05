@@ -1,106 +1,92 @@
 {
-  "updatedAt": "2026-11-04T07:31:38.234Z",
+  "updatedAt": "2026-11-05T07:56:43.120Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": [
-      {
-        "title": "Porto-sinusoidal vascular disorder-type lesions in patients with early fibrotic stages of metabolic dysfunction-associated steatotic liver disease.",
-        "journal": "JHEP reports : innovation in hepatology",
-        "pubDate": "2026 Nov 3",
-        "studyType": "Journal Article",
-        "authors": "van Doorn DJ, Schoenmakers L, de Jager S",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Metabolic dysfunction-associated steatotic liver disease (MASLD) is a rising cau... 临床提示：该英文报道关注最新动态：Moreover, portal hypertension may develop early in MASLD in the absence of cirrh...",
-        "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a rising cause of chronic liver disease. Liver stiffness measurement (LSM) to assess disease stage is gaining popularity but can demonstrate heterogeneous results in clinical practice. Moreover, portal hypertension may develop early in MASLD in the absence of cirrhosis. These observations may be partially explained by features not assessed in the current NASH-CRN liver biopsy staging, including features of porto-sinusoidal vascular disorder (PSVD). We conducted a retrospective cohort study in patients with MASLD who underwent biopsy between 2015 and 2022. All biopsies with NASH-CRN F0-F2 were screened for eligibility and rev...",
-        "pmid": "42977218",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977218/",
-        "doiUrl": "https://doi.org/10.1016/j.jhepr.2026.102089",
-        "url": "https://doi.org/10.1016/j.jhepr.2026.102089"
-      }
-    ]
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：South Carolina elects Democratic senator for first time in almost three decades...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：South Carolina elects Democratic senator for first time in almost three decades...”。核心要点：该英文报道关注最新动态：Annie Andrews is projected to defeat Darline Graham, who was handpic...",
+        "titleZh": "该英文报道关注最新动态：Vance walks Trump tightrope with scathing election critique blaming Iran war...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Vance walks Trump tightrope with scathing election critique blaming Iran war...”。核心要点：该英文报道关注最新动态：The vice-president's blunt assessment of Republican election defeat ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 03:24:34 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Nov 2026 03:47:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：James Talarico becomes first Democrat to win Texas Senate seat since 1988...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：James Talarico becomes first Democrat to win Texas Senate seat since 1988...”。核心要点：该英文报道关注最新动态：\"This wasn't just a tsunami, not just a referendum, but this was a b...",
+        "titleZh": "该英文报道关注最新动态：What Democrats can and can't do with their new power after taking Congress...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What Democrats can and can't do with their new power after taking Congress...”。核心要点：该英文报道关注最新动态：Democrats can vote legislation through. But Trump still has veto pow...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 05:39:36 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 18:01:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Florida Republicans fend off Democrats as state elects first black governor...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Florida Republicans fend off Democrats as state elects first black governor...”。核心要点：该英文报道关注最新动态：Republican Byron Donalds, who was backed by President Donald Trump, ...",
+        "titleZh": "该英文报道关注最新动态：Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years...”。核心要点：该英文报道关注最新动态：Wong, 30, is among hundreds of Hongkongers detained under the contro...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 07:12:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Nov 2026 06:35:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says...”。核心要点：该英文报道关注最新动态：Iran's Islamic Revolutionary Guard Corps says the vessels had hit se...",
+        "titleZh": "该英文报道关注最新动态：French blood storage impacted by freezer hacks as theories swirl about culprits...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：French blood storage impacted by freezer hacks as theories swirl about culprits...”。核心要点：该英文报道关注最新动态：The French Blood Establishment (EFS) said cold rooms storing blood w...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 07:17:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 16:26:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Delhi air quality worsens ahead of Diwali as firework restrictions enter force...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Delhi air quality worsens ahead of Diwali as firework restrictions enter force...”。核心要点：该英文报道关注最新动态：On Wednesday morning, Delhi's air quality index reading stood at 377...",
+        "titleZh": "该英文报道关注最新动态：Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'...”。核心要点：该英文报道关注最新动态：Even for countries where typhoons are a way of life, the last few mo...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 06:50:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 04 Nov 2026 23:12:47 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Poundland supplier 'will lose millions' if retailer collapses...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Poundland supplier 'will lose millions' if retailer collapses...”。核心要点：该英文报道关注最新动态：One of Poundland's suppliers will lose millions if it collapses, whi...",
+        "titleZh": "该英文报道关注最新动态：Interest rates expected to rise for first time in over three years...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates expected to rise for first time in over three years...”。核心要点：该英文报道关注最新动态：Most analysts are predicting an increase from 3.75% to 4%, the first...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 00:03:17 GMT",
+        "publishedAt": "Thu, 05 Nov 2026 00:00:09 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Pound rises to its highest level since the Brexit referendum...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pound rises to its highest level since the Brexit referendum...”。核心要点：该英文报道关注最新动态：Pound reaches highest level against a basket of currencies since the...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 05 Nov 2026 04:21:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Democrats won on affordability. Can they deliver it?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Democrats won on affordability. Can they deliver it?...”。核心要点：该英文报道关注最新动态：Democrats will hold Congress but President Donald Trump still has th...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 05 Nov 2026 06:01:05 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Elon Musk's millions failed to deliver Republican wins in fierce midterms...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Elon Musk's millions failed to deliver Republican wins in fierce midterms...”。核心要点：该英文报道关注最新动态：Musk spent nearly $500m in the 2026 US midterm elections, an individ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Wed, 04 Nov 2026 21:41:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Poundland owner in crunch talks as retailer's collapse looms...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Poundland owner in crunch talks as retailer's collapse looms...”。核心要点：该英文报道关注最新动态：Gordon Brothers will meet Jonathan Reynolds on Wednesday as the inve...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 05 Nov 2026 06:58:03 GMT",
         "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：UK and EU agree draft deal to scrap Brexit red tape over food exports...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK and EU agree draft deal to scrap Brexit red tape over food exports...”。核心要点：该英文报道关注最新动态：The food deal, ahead of a UK-EU summit later this month, is the most...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 20:53:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：No more rice grains in Kellogg's Rice Krispies due to changing weather...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：No more rice grains in Kellogg's Rice Krispies due to changing weather...”。核心要点：该英文报道关注最新动态：The new recipes mean cereal packaging will now include a 'contains w...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 01:36:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Binance says fake job interviews used as part of $6.3bn crypto hack...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Binance says fake job interviews used as part of $6.3bn crypto hack...”。核心要点：该英文报道关注最新动态：An engineer was contacted through a legitimate job-hunting platform ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Tue, 03 Nov 2026 16:19:29 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Canva announces major job cuts after 'our hardest year yet'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Canva announces major job cuts after 'our hardest year yet'...”。核心要点：该英文报道关注最新动态：CEO Melanie Perkins says more than 1,000 staff will either lose thei...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 00:09:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
