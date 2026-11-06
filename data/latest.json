@@ -1,92 +1,158 @@
 {
-  "updatedAt": "2026-11-05T07:56:43.120Z",
+  "updatedAt": "2026-11-06T07:57:44.296Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Body Adiposity as a Risk Factor for Portal Vein Thrombosis in Patients With Cirrhosis.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article",
+        "authors": "Campos-Varela I, Cespedes C, Quiroga S",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 245）。核心观点：该英文报道关注最新动态：Adipose tissue alterations are linked to adverse outcomes in patients with cirrh... 临床提示：该英文报道关注最新动态：We aimed to evaluate the association between body composition and PVT....",
+        "abstract": "Adipose tissue alterations are linked to adverse outcomes in patients with cirrhosis, but their role in portal vein thrombosis (PVT) is unclear. We aimed to evaluate the association between body composition and PVT. Cross-sectional study including patients with cirrhosis. Body adiposity was assessed by computed tomography (CT) at the third lumbar vertebra including visceral (VATI), subcutaneous (SATI) and total adipose (TATI) tissue indexes, bioimpedance analysis (BIA) including visceral fat area (VFA), total body fat (TBF) and total body fat percentage (TBF%), and anthropometry. In total, 245 patients with cirrhosis (median age 62 years, 74% male) were included, 17% with PVT. Adiposity was ...",
+        "pmid": "42979768",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42979768/",
+        "doiUrl": "https://doi.org/10.1111/liv.70941",
+        "url": "https://doi.org/10.1111/liv.70941"
+      },
+      {
+        "title": "Clinically significant portal hypertension rather than ALBI grade predicts prognosis in advanced hepatocellular carcinoma.",
+        "journal": "Annals of hepatology",
+        "pubDate": "2026 Nov 5",
+        "studyType": "Journal Article",
+        "authors": "da Fonseca LG, Mendizabal M, Anders M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 242）。核心观点：该英文报道关注最新动态：Clinical trials in advanced hepatocellular carcinoma (HCC) typically include pat... 临床提示：该英文报道关注最新动态：We aimed to compare prognostic models in Child-Pugh A patients....",
+        "abstract": "Clinical trials in advanced hepatocellular carcinoma (HCC) typically include patients with preserved liver function (Child-Pugh A), without adequately considering cirrhosis or clinically significant portal hypertension (CSPH). We aimed to compare prognostic models in Child-Pugh A patients. This prospective multicenter cohort study included patients with advanced HCC treated with systemic therapy (2018-2024) in Latin America. Survival was analyzed using Kaplan-Meier and Cox proportional multivariate hazards models and competing risk analysis for cause-specific mortality and hepatic decompensation. From 306 patients receiving systemic therapy, 79.1% (n=242) were Child-Pugh A (sorafenib 60.3%, ...",
+        "pmid": "42988266",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42988266/",
+        "doiUrl": "https://doi.org/10.1016/j.aohep.2026.102480",
+        "url": "https://doi.org/10.1016/j.aohep.2026.102480"
+      },
+      {
+        "title": "Long-Term Follow-up of Azathioprine-Induced Portosinusoidal Vascular Disease in a Patient With Crohn's Disease.",
+        "journal": "ACG case reports journal",
+        "pubDate": "2026 Nov",
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Azizi F, Ouldgougam R, Aouameur Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Azathioprine is widely used to treat inflammatory bowel disease, organ transplan... 临床提示：该英文报道关注最新动态：Hepatotoxicity is a rare but serious complication....",
+        "abstract": "Azathioprine is widely used to treat inflammatory bowel disease, organ transplantation, and autoimmune disorders. Hepatotoxicity is a rare but serious complication. We report a 48-year-old man with ileocolonic Crohn's disease who developed azathioprine-induced portosinusoidal vascular disease (PSVD) after 15 years of treatment. Diagnosis was suspected due to persistent cytopenia (leukopenia and thrombocytopenia) and when transabdominal ultrasonography and upper gastrointestinal endoscopy showed signs of portal hypertension. There was also an extensive portal thrombosis in the right portal vein, portal bifurcation, and origin of the left portal vein. Liver biopsy confirmed PSVD, showing nodul...",
+        "pmid": "42985708",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42985708/",
+        "doiUrl": "https://doi.org/10.14309/crj.0000000000002387",
+        "url": "https://doi.org/10.14309/crj.0000000000002387"
+      },
+      {
+        "title": "Bedside endoscopy for significant acute upper gastrointestinal bleed.",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "pubDate": "2026 Nov 4",
+        "studyType": "Journal Article",
+        "authors": "Thomas A, Simon EG, Patel L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：We undertook a study to assess the etiology and important clinical outcomes in p... 临床提示：该英文报道关注最新动态：Acute upper gastrointestinal bleeding (AUGIB) is a frequent life-threatening sce...",
+        "abstract": "Acute upper gastrointestinal bleeding (AUGIB) is a frequent life-threatening scenario in everyday clinical practice. We undertook a study to assess the etiology and important clinical outcomes in patients with significant AUGIB unstable for transfer to an endoscopy suite. This is a prospective observational study conducted between December 2019 and December 2022, including patients above the age of 16 years with a history of clinically significant AUGIB undergoing bedside endoscopy in an intensive care (ICU)/high dependency unit (HDU) setting. Seventy patients with a mean age (SD) of 51.27 (13.45) years were included. The initial mean (SD) hemoglobin, APACHE score, SOFA score and GCS of thes...",
+        "pmid": "42983154",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42983154/",
+        "doiUrl": "https://doi.org/10.1007/s12664-026-02085-2",
+        "url": "https://doi.org/10.1007/s12664-026-02085-2"
+      },
+      {
+        "title": "Contemporary clinical course of compensated advanced chronic liver disease in a multistate framework.",
+        "journal": "Hepatology international",
+        "pubDate": "2026 Nov 3",
+        "studyType": "Journal Article",
+        "authors": "Balcar L, Wunderbaldinger A, Simonis L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Compensated advanced chronic liver disease (cACLD) encompasses patients with adv... 临床提示：该英文报道关注最新动态：The natural history of cACLD has been extrapolated from compensated cirrhosis an...",
+        "abstract": "Compensated advanced chronic liver disease (cACLD) encompasses patients with advanced fibrosis/cirrhosis at risk for liver-related complications. The natural history of cACLD has been extrapolated from compensated cirrhosis and historic cohorts, although major advances in diagnosis and management have impacted the clinical course and understanding of disease trajectories. From 2015 to 2022, 1140 consecutive patients with cACLD (first-time liver stiffness measurement [LSM] ≥10 kPa) at the Vienna General Hospital were followed for first and further decompensation, and death. Baseline data (age, sex, etiological cure, LSM, MELD, platelet count, and albumin) were incorporated into a multistate m...",
+        "pmid": "42977875",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42977875/",
+        "doiUrl": "https://doi.org/10.1007/s12072-026-11168-3",
+        "url": "https://doi.org/10.1007/s12072-026-11168-3"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Vance walks Trump tightrope with scathing election critique blaming Iran war...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Vance walks Trump tightrope with scathing election critique blaming Iran war...”。核心要点：该英文报道关注最新动态：The vice-president's blunt assessment of Republican election defeat ...",
+        "titleZh": "该英文报道关注最新动态：White House denies Hegseth and Rubio to leave jobs after Republican election los...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：White House denies Hegseth and Rubio to leave jobs after Republican election los...”。核心要点：该英文报道关注最新动态：US media reports there are calls to replace Pete Hegseth, who also f...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Nov 2026 03:47:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Nov 2026 02:08:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：What Democrats can and can't do with their new power after taking Congress...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What Democrats can and can't do with their new power after taking Congress...”。核心要点：该英文报道关注最新动态：Democrats can vote legislation through. But Trump still has veto pow...",
+        "titleZh": "该英文报道关注最新动态：Pope begins lengthy trip to Latin America weeks after lung cancer surgery...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pope begins lengthy trip to Latin America weeks after lung cancer surgery...”。核心要点：该英文报道关注最新动态：Pope Leo, who had part of a lung removed last month, will visit Urug...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 18:01:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Nov 2026 00:02:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years...”。核心要点：该英文报道关注最新动态：Wong, 30, is among hundreds of Hongkongers detained under the contro...",
+        "titleZh": "该英文报道关注最新动态：Trump signs order to preserve Oval Office as national monument...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump signs order to preserve Oval Office as national monument...”。核心要点：该英文报道关注最新动态：The order comes after Trump made a series of big changes to the deco...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Nov 2026 06:35:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Nov 2026 04:29:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：French blood storage impacted by freezer hacks as theories swirl about culprits...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：French blood storage impacted by freezer hacks as theories swirl about culprits...”。核心要点：该英文报道关注最新动态：The French Blood Establishment (EFS) said cold rooms storing blood w...",
+        "titleZh": "该英文报道关注最新动态：Major construction ongoing near Iran missile bases, satellite images suggest...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Major construction ongoing near Iran missile bases, satellite images suggest...”。核心要点：该英文报道关注最新动态：Evidence of digging and new buildings are visible in satellite image...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 16:26:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Nov 2026 07:33:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'...”。核心要点：该英文报道关注最新动态：Even for countries where typhoons are a way of life, the last few mo...",
+        "titleZh": "该英文报道关注最新动态：California governor commutes sentences for state's 548 death row inmates...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：California governor commutes sentences for state's 548 death row inmates...”。核心要点：该英文报道关注最新动态：California has historically had the largest population of people on ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 23:12:47 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Nov 2026 23:09:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Interest rates expected to rise for first time in over three years...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates expected to rise for first time in over three years...”。核心要点：该英文报道关注最新动态：Most analysts are predicting an increase from 3.75% to 4%, the first...",
+        "titleZh": "该英文报道关注最新动态：Firms told to publish salaries in job adverts ahead of new law...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Firms told to publish salaries in job adverts ahead of new law...”。核心要点：该英文报道关注最新动态：The government argues the change will help jobseekers and could help...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Nov 2026 00:00:09 GMT",
+        "publishedAt": "Fri, 06 Nov 2026 07:36:41 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：'I was asked if I was a crier': Your worst job interviews revealed...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：'I was asked if I was a crier': Your worst job interviews revealed...”。核心要点：该英文报道关注最新动态：Bad job interviews can be horrible to experience in the moment, but ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 06 Nov 2026 00:02:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Interest rates hiked to 4% in first increase in over three years...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Interest rates hiked to 4% in first increase in over three years...”。核心要点：该英文报道关注最新动态：Most analysts expected the increase from 3.75% to 4%....",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Thu, 05 Nov 2026 17:09:55 GMT",
         "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pound rises to its highest level since the Brexit referendum...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pound rises to its highest level since the Brexit referendum...”。核心要点：该英文报道关注最新动态：Pound reaches highest level against a basket of currencies since the...",
+        "titleZh": "该英文报道关注最新动态：Faisal Islam: How high will interest rates go?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Faisal Islam: How high will interest rates go?...”。核心要点：该英文报道关注最新动态：The BBC's economics editor views one more interest rate as likely, b...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Nov 2026 04:21:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 05 Nov 2026 13:17:10 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Democrats won on affordability. Can they deliver it?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Democrats won on affordability. Can they deliver it?...”。核心要点：该英文报道关注最新动态：Democrats will hold Congress but President Donald Trump still has th...",
+        "titleZh": "该英文报道关注最新动态：The engine parts that 'fight the laws of the universe'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The engine parts that 'fight the laws of the universe'...”。核心要点：该英文报道关注最新动态：Investment has surged into the making of jet turbine blades - an ext...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 05 Nov 2026 06:01:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Elon Musk's millions failed to deliver Republican wins in fierce midterms...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Elon Musk's millions failed to deliver Republican wins in fierce midterms...”。核心要点：该英文报道关注最新动态：Musk spent nearly $500m in the 2026 US midterm elections, an individ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Wed, 04 Nov 2026 21:41:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Poundland owner in crunch talks as retailer's collapse looms...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Poundland owner in crunch talks as retailer's collapse looms...”。核心要点：该英文报道关注最新动态：Gordon Brothers will meet Jonathan Reynolds on Wednesday as the inve...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Thu, 05 Nov 2026 06:58:03 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 06 Nov 2026 00:06:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
