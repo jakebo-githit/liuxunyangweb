@@ -1,158 +1,159 @@
 {
-  "updatedAt": "2026-11-12T08:21:06.525Z",
+  "updatedAt": "2026-11-13T07:58:07.783Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Temporal trends and geographic variation in mortality from hypertensive diseases with co-existing aplastic and other anemias in the United States (U.S.) - a CDC WONDER analysis from 1999 to 2023.",
+        "journal": "Annals of medicine and surgery (2012)",
+        "pubDate": "2026 Nov",
+        "studyType": "Journal Article",
+        "authors": "Baig MMA, Amjad A, Usman A",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Hypertensive diseases are a leading cause of mortality in the U.S.... 临床提示：该英文报道关注最新动态：Hypertension and anemia are linked in both directions....",
+        "abstract": "Hypertensive diseases are a leading cause of mortality in the U.S. Hypertension and anemia are linked in both directions. Hypertensive nephropathy, endothelial injury, and chronic inflammation reduce erythropoietin secretion and suppress erythropoiesis, while anemia lowers oxygen delivery and raises cardiac workload, which worsens hypertensive end-organ damage. National mortality patterns for deaths in which both conditions are recorded remain poorly defined. We analyzed deaths among adults aged ≥25 years in the CDC WONDER Multiple Cause of Death database from 1999 to 2023. Deaths were included when hypertensive diseases (ICD-10: I10-I15) and aplastic or other anemias (ICD-10: D60-D64) were ...",
+        "pmid": "43017628",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43017628/",
+        "doiUrl": "https://doi.org/10.1097/MS9.0000000000005682",
+        "url": "https://doi.org/10.1097/MS9.0000000000005682"
+      }
+    ],
     "portal_hypertension": [
       {
-        "title": "Variability in non-invasive tests: Challenges and implications for monitoring liver disease.",
-        "journal": "Hepatology communications",
-        "pubDate": "2026 Dec 1",
+        "title": "Gender and Racial Disparities in Patients with Portopulmonary Hypertension: A Three-Year National Inpatient Sample Analysis.",
+        "journal": "Respiratory medicine",
+        "pubDate": "2026 Nov 12",
         "studyType": "Journal Article",
-        "authors": "Semmler G, Lindvig KP, Simonis L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：We retrospectively assessed variability of blood-based NITs and liver stiffness ... 临床提示：该英文报道关注最新动态：We retrospectively assessed variability of blood-based NITs and liver stiffness ...",
-        "abstract": "Diagnostic and prognostic non-invasive fibrosis tests (NITs) are increasingly repurposed to monitor liver disease. However, their reproducibility and the minimal detectable change (MDC, ie, the smallest change that exceeds expected measurement variability) are poorly characterized. We retrospectively assessed variability of blood-based NITs and liver stiffness measurement (LSM) by vibration-controlled transient elastography on the same day (repeatability) and across use-cases when metabolic dysfunction-associated steatotic liver disease, fibrosis, or portal hypertension is suspected. Measurements were done within 90 days. Agreement and variability were quantified using intraclass correlation...",
-        "pmid": "43013739",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43013739/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001077",
-        "url": "https://doi.org/10.1097/HC9.0000000000001077"
+        "authors": "Abdullah KM, Feghali EJ, Sanchez-Ato L",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Prior registry data suggested that POPH occurred more frequently in Hispanic pat... 临床提示：该英文报道关注最新动态：We examined whether gender and race were associated with inpatient outcomes in P...",
+        "abstract": "Portopulmonary hypertension (POPH) carries a poor prognosis, yet the influence of gender and race on inpatient outcomes is not well defined. Prior registry data suggested that POPH occurred more frequently in Hispanic patients and was associated with higher all-cause mortality. We examined whether gender and race were associated with inpatient outcomes in POPH hospitalizations. We analyzed the 2017-2019 National Inpatient Sample. Adult hospitalizations carrying concurrent Group 1 pulmonary arterial hypertension and portal hypertension codes were identified using the International Classification of Diseases, Tenth Revision. Multivariable logistic and linear regression models estimated the ind...",
+        "pmid": "43020232",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43020232/",
+        "doiUrl": "https://doi.org/10.1016/j.rmed.2026.109277",
+        "url": "https://doi.org/10.1016/j.rmed.2026.109277"
       },
       {
-        "title": "Ascites fluid PMN counts below the SBP threshold predict 30-day mortality in a national hospitalized cirrhosis cohort.",
-        "journal": "Hepatology communications",
-        "pubDate": "2026 Dec 1",
-        "studyType": "Journal Article",
-        "authors": "Silvey S, Patel N, O'Leary JG",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Complications in patients with cirrhosis often result from bacterial and bacteri... 临床提示：该英文报道关注最新动态：This translocation can occur because of portal hypertension, alterations in the ...",
-        "abstract": "Complications in patients with cirrhosis often result from bacterial and bacterial product translocation. This translocation can occur because of portal hypertension, alterations in the gut microbiome, and immune dysregulation. We aimed to re-evaluate admission ascites PMN/mm3 count as a biomarker of 30-day mortality. We identified veterans with cirrhosis using validated ICD-9/10 codes who had a paracentesis ≤24 hours of their index hospitalization in the Veterans Affairs Corporate Data Warehouse from 2009 to 2024. In multivariable analysis, we determined the prognostic significance of ascites PMN/mm3 <100, 100-249, and ≥250. The 4111 veterans who met the inclusion criteria were mostly older...",
-        "pmid": "43013737",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43013737/",
-        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001071",
-        "url": "https://doi.org/10.1097/HC9.0000000000001071"
-      },
-      {
-        "title": "Clinical features and associated factors for porto-sinusoidal vascular disease in primary Sjögren's disease: a retrospective cohort study.",
-        "journal": "Clinical rheumatology",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article",
-        "authors": "Xu YT, Zhang GH, Shen L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To characterize primary Sjögren's disease (pSjD) patients with porto-sinusoidal ... 临床提示：该英文报道关注最新动态：Univariate logistic regression was performed to identify factors associated with...",
-        "abstract": "To characterize primary Sjögren's disease (pSjD) patients with porto-sinusoidal vascular disease (PSVD) and identify associated clinical factors. This retrospective study included 7 biopsy-proven pSjD-PSVD patients and 28 age and sex-matched pSjD controls. Demographic, clinical, laboratory, and portal hypertension-related data were collected and compared between the two groups. Univariate logistic regression was performed to identify factors associated with PSVD. The pSjD-PSVD group had significantly longer disease duration than controls [59 (36, 180) vs. 15 (12, 69) months, p = 0.031]. All PSVD patients presented with splenomegaly, thrombocytopenia [(88 ± 44.01) vs. (176.21 ± 66.37) × 10⁹/L...",
-        "pmid": "42955590",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42955590/",
-        "doiUrl": "https://doi.org/10.1007/s10067-026-08477-1",
-        "url": "https://doi.org/10.1007/s10067-026-08477-1"
-      },
-      {
-        "title": "Recent recommendations for the diagnosis and management of liver cirrhosis and its complications.",
-        "journal": "Expert review of gastroenterology & hepatology",
+        "title": "Peritoneal Dialysis for Refractory Ascites in Fontan-Associated Liver Disease.",
+        "journal": "JACC. Case reports",
         "pubDate": "2026 Nov 11",
-        "studyType": "Journal Article / Review",
-        "authors": "Hähner JM, Peiffer KH, Praktiknjo M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Progression of liver cirrhosis is a dynamic transition toward decompensation dri... 临床提示：该英文报道关注最新动态：The recent publication of the Baveno VIII consensus and of harmonized organ fail...",
-        "abstract": "Progression of liver cirrhosis is a dynamic transition toward decompensation driven by portal hypertension (PH), while systemic inflammation (SI) mediates organ dysfunction and failure, acute-on-chronic liver failure (ACLF), and short-term mortality. The recent publication of the Baveno VIII consensus and of harmonized organ failure definitions calls for a reassessment of current concepts and recommendations. PubMed/MEDLINE and Web of Science were searched from April 2026 to September 2026 for consensus documents, randomized trials, and large cohort studies on cirrhosis and its complications. Earlier landmark studies were included when they underpinned current recommendations, without any cl...",
-        "pmid": "43014802",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014802/",
-        "doiUrl": "https://doi.org/10.1080/17474124.2026.2763519",
-        "url": "https://doi.org/10.1080/17474124.2026.2763519"
+        "studyType": "Case Reports / Journal Article",
+        "authors": "Durán JH, Camargo Castro JS, Guerrero Chalela CE",
+        "zhSummary": "该文聚焦门静脉高压症，属于病例研究。核心观点：该英文报道关注最新动态：Fontan-associated liver disease and refractory ascites represent advanced system... 临床提示：该英文报道关注最新动态：A 38-year-old woman with tricuspid atresia, after a Fontan procedure, developed ...",
+        "abstract": "Fontan-associated liver disease and refractory ascites represent advanced systemic failure in patients with Fontan circulation, with limited therapeutic options. A 38-year-old woman with tricuspid atresia, after a Fontan procedure, developed progressive Fontan-associated liver disease and recurrent refractory ascites. Imaging showed portal hypertension and cirrhosis, and liver biopsy confirmed advanced congestive hepatopathy with stage V fibrosis. She was not a candidate for transplant or further intervention, so a tunneled peritoneal catheter was placed for palliative drainage. Refractory ascites reflects Fontan failure and a worse prognosis. Conventional therapy is insufficient, and diuret...",
+        "pmid": "43018195",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43018195/",
+        "doiUrl": "https://doi.org/10.1016/j.jaccas.2026.110614",
+        "url": "https://doi.org/10.1016/j.jaccas.2026.110614"
       },
       {
-        "title": "TIPS for refractory hepatic hydrothorax in patients with cirrhosis: impact of clinical response on survival.",
-        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "title": "From pressure to prognosis: establishing a common language for portal hypertension in advanced chronic liver disease.",
+        "journal": "Gut",
         "pubDate": "2026 Nov 11",
         "studyType": "Journal Article",
-        "authors": "Tizzani M, Caviglia GP, Téllez L",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Refractory hydrothorax (RH) significantly impairs quality of life and clinical o... 临床提示：该英文报道关注最新动态：Transjugular intrahepatic portosystemic shunt (TIPS) has been suggested as a pot...",
-        "abstract": "Refractory hydrothorax (RH) significantly impairs quality of life and clinical outcomes in patients with cirrhosis. Transjugular intrahepatic portosystemic shunt (TIPS) has been suggested as a potential treatment, but evidence is limited. We assessed TIPS effectiveness and impact on survival in patients with RH. Consecutive patients with cirrhosis undergoing TIPS for RH over a 16-year period across 18 European centers were included. Clinical response was assessed up to 12 months after TIPS and was classified as complete (CR: disappearance of symptoms and no further thoracenteses), partial (PR: decrease of symptoms and ≥50% reduction of thoracenteses) or no response (NR: minor or no relief in...",
-        "pmid": "43014596",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43014596/",
-        "doiUrl": "https://doi.org/10.1016/j.cgh.2026.10.034",
-        "url": "https://doi.org/10.1016/j.cgh.2026.10.034"
+        "authors": "Jeffrey AW, Tsochatzis EA, Genescà J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：From pressure to prognosis: establishing a common language for portal hypertensi...",
+        "abstract": "No abstract available from PubMed.",
+        "pmid": "42642217",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42642217/",
+        "doiUrl": "https://doi.org/10.1136/gutjnl-2026-339845",
+        "url": "https://doi.org/10.1136/gutjnl-2026-339845"
+      },
+      {
+        "title": "Elevated circulating activin A is associated with disease severity in advanced steatotic liver disease (SLD).",
+        "journal": "BMC gastroenterology",
+        "pubDate": "2026 Nov 10",
+        "studyType": "Journal Article",
+        "authors": "Hedin K, Nasr P, Iredahl F",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 309）。核心观点：该英文报道关注最新动态：Steatotic liver disease (SLD) is a major contributor to the global burden of chr... 临床提示：该英文报道关注最新动态：Emerging evidence implicates activin A in this process, but its role remains unc...",
+        "abstract": "Steatotic liver disease (SLD) is a major contributor to the global burden of chronic liver disease and is linked to liver fibrosis. Emerging evidence implicates activin A in this process, but its role remains unclear due to conflicting findings. This cross-sectional study examines circulating levels of activin A and its endogenous inhibitor follistatin in individuals with metabolic dysfunction and evaluates their associations with clinical indicators of steatosis and fibrosis. Plasma activin A and follistatin were measured with ELISA in 309 participants with type 2 diabetes (T2D) with or without SLD and in 97 participants with SLD-related cirrhosis. Hepatic fat was assessed using 1 H-MRS-PDF...",
+        "pmid": "43009799",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43009799/",
+        "doiUrl": "https://doi.org/10.1186/s12876-026-05550-6",
+        "url": "https://doi.org/10.1186/s12876-026-05550-6"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Ukraine's power supply close to critical as Russian strikes bring darkness and c...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ukraine's power supply close to critical as Russian strikes bring darkness and c...”。核心要点：该英文报道关注最新动态：For parents in parts of Ukraine, trying to lead a normal family life...",
+        "titleZh": "该英文报道关注最新动态：Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with...”。核心要点：该英文报道关注最新动态：Huang abruptly quit on Thursday as head of one of the world's most v...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 07:59:33 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 03:57:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Democrat Scott Colom seals historic win in Mississippi Senate race...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Democrat Scott Colom seals historic win in Mississippi Senate race...”。核心要点：该英文报道关注最新动态：Colom is the first black person from the southern state elected to t...",
+        "titleZh": "该英文报道关注最新动态：Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks...”。核心要点：该英文报道关注最新动态：The Ukrainian president says it makes sense for European leaders to ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 04:00:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 02:01:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Israeli strike on hospital kills at least five Palestinians, Gaza civil defence ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Israeli strike on hospital kills at least five Palestinians, Gaza civil defence ...”。核心要点：该英文报道关注最新动态：The strike hit the surgery department of Nasser Hospital, injuring a...",
+        "titleZh": "该英文报道关注最新动态：North Korean hackers used fake video calls in $400m crypto hack, says FBI...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：North Korean hackers used fake video calls in $400m crypto hack, says FBI...”。核心要点：该英文报道关注最新动态：More than 900 victims are thought to have fallen prey to the FaceSte...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 06:12:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 02:48:29 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：New York building collapse kills at least two, officials say...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：New York building collapse kills at least two, officials say...”。核心要点：该英文报道关注最新动态：A dangerous search for survivors continues after a three-storey buil...",
+        "titleZh": "该英文报道关注最新动态：Russian warship hit by Ukrainian drone in Gulf of Finland...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian warship hit by Ukrainian drone in Gulf of Finland...”。核心要点：该英文报道关注最新动态：The attack is thought to be the first time Ukrainian drones have att...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 05:12:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 12 Nov 2026 20:09:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Ugandan police investigate deaths of four pupils in suspected school poisoning...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ugandan police investigate deaths of four pupils in suspected school poisoning...”。核心要点：该英文报道关注最新动态：The head teacher of the school has been arrested to assist police in...",
+        "titleZh": "该英文报道关注最新动态：Suspected bomb hoax threats force fresh evacuations of Italian schools...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspected bomb hoax threats force fresh evacuations of Italian schools...”。核心要点：该英文报道关注最新动态：Schools across Italy have received bomb threats for the second day i...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 07:45:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 12 Nov 2026 19:23:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：UK economy grows at fastest rate for more than two years...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK economy grows at fastest rate for more than two years...”。核心要点：该英文报道关注最新动态：The UK economy grew by 0.7% in the three months to September, accord...",
+        "titleZh": "该英文报道关注最新动态：What we know about the global Microsoft outage...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：What we know about the global Microsoft outage...”。核心要点：该英文报道关注最新动态：Microsoft has said the outage was not caused by a cyber-security inc...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 08:11:44 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 07:37:38 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Some under-25s should get fewer benefits, Milburn review to say...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Some under-25s should get fewer benefits, Milburn review to say...”。核心要点：该英文报道关注最新动态：The proposed radical overhaul of the welfare system would move under...",
+        "titleZh": "该英文报道关注最新动态：Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with...”。核心要点：该英文报道关注最新动态：Huang abruptly quit on Thursday as head of one of the world's most v...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 08:14:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 03:57:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Poundland set for more time to secure a rescue deal as emergency talks continue...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Poundland set for more time to secure a rescue deal as emergency talks continue...”。核心要点：该英文报道关注最新动态：The BBC understands the discount chain, which has been edging toward...",
+        "titleZh": "该英文报道关注最新动态：The rise of 'housefishing' - when does using AI go from enhancing to misleading?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The rise of 'housefishing' - when does using AI go from enhancing to misleading?...”。核心要点：该英文报道关注最新动态：Experts warn that using AI to enhance property images can go too far...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 00:49:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 00:13:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Christmas toy rush being driven by squishies and building sets...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Christmas toy rush being driven by squishies and building sets...”。核心要点：该英文报道关注最新动态：A bumper year so far for toy sales comes as debate intensifies over ...",
+        "titleZh": "该英文报道关注最新动态：Burnham says 'win-win' deal can be agreed between UK and EU...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Burnham says 'win-win' deal can be agreed between UK and EU...”。核心要点：该英文报道关注最新动态：The prime minister says the deal could be \"more like the Brexit peop...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 11 Nov 2026 07:52:05 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 13 Nov 2026 01:17:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：From Paris to DC - why offices are being turned into apartments...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：From Paris to DC - why offices are being turned into apartments...”。核心要点：该英文报道关注最新动态：Office buildings with low occupancy rates are being transformed into...",
+        "titleZh": "该英文报道关注最新动态：Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?...”。核心要点：该英文报道关注最新动态：Chief financial officer Colette Kress in in charge of Nvidia for now...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 12 Nov 2026 00:05:40 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 12 Nov 2026 15:10:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
