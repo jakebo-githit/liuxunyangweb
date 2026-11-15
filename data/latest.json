@@ -1,110 +1,72 @@
 {
-  "updatedAt": "2026-11-14T07:38:35.462Z",
+  "updatedAt": "2026-11-15T07:52:09.386Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Targeting hypertensive nephropathy by microRNAs.",
-        "journal": "American journal of hypertension",
-        "pubDate": "2026 Nov 13",
-        "studyType": "Journal Article",
-        "authors": "Beltowski J",
-        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：No abstract available from PubMed.... 临床提示：该英文报道关注最新动态：Targeting hypertensive nephropathy by microRNAs....",
-        "abstract": "No abstract available from PubMed.",
-        "pmid": "43021647",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43021647/",
-        "doiUrl": "https://doi.org/10.1093/ajh/hpag130",
-        "url": "https://doi.org/10.1093/ajh/hpag130"
-      }
-    ],
-    "portal_hypertension": [
-      {
-        "title": "nnU-Net-based CT segmentation of perigastric varices in sinistral portal hypertension: a multicenter study.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article / Multicenter Study",
-        "authors": "Wei W, Wu C, Wang L",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 99）。核心观点：该英文报道关注最新动态：To develop a deep learning model based on nnU-Net for automated segmentation of ... 临床提示：该英文报道关注最新动态：Retrospectively including contrast-enhanced computed tomography (CT) portal veno...",
-        "abstract": "To develop a deep learning model based on nnU-Net for automated segmentation of all perigastric veins on contrast-enhanced CT images in patients with sinistral portal hypertension (SPH). Retrospectively including contrast-enhanced computed tomography (CT) portal venous phase images from 172 pancreatic cancer patients with SPH across three hospitals in Nantong. The patients were divided into the training dataset (n = 99), model optimization dataset (n = 22), internal testing dataset (n = 22), and external testing dataset (n = 29). The self-configuring nnU-Net model was trained on the manually segmented training dataset. Evaluation metrics on the testing datasets included Dice similarity coeff...",
-        "pmid": "42301285",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42301285/",
-        "doiUrl": "https://doi.org/10.1007/s00261-026-05545-7",
-        "url": "https://doi.org/10.1007/s00261-026-05545-7"
-      },
-      {
-        "title": "Dysregulated apoptosis in the spleen from patients with splenomegaly due to cirrhosis.",
-        "journal": "Folia histochemica et cytobiologica",
-        "pubDate": "2026 Nov 13",
-        "studyType": "Journal Article",
-        "authors": "Zhao B, Liu L, Lu J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 15）。核心观点：该英文报道关注最新动态：Splenomegaly (SM) secondary to portal hypertension is characterized by the patho... 临床提示：该英文报道关注最新动态：However, the molecular mechanisms underlying its pathogenesis remain largely unc...",
-        "abstract": "Splenomegaly (SM) secondary to portal hypertension is characterized by the pathological enlargement of the spleen due to chronically elevated portal venous pressure. However, the molecular mechanisms underlying its pathogenesis remain largely unclear. AND M: ETHODS: Sixteen patients with hepatitis B-related liver cirrhosis and SM who underwent subtotal splenectomy with omental plasty and retroperitoneal fixation were enrolled in the SM group, whereas 15 patients who underwent splenectomy for traumatic splenic rupture (without SM) served as the traumatic splenic rupture control (TSRC) group. Splenic tissue samples were collected for hematoxylin and eosin (H&E) staining, terminal deoxynucleoti...",
-        "pmid": "43023530",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43023530/",
-        "doiUrl": "https://doi.org/10.5603/fhc.115178",
-        "url": "https://doi.org/10.5603/fhc.115178"
-      },
-      {
-        "title": "Portal Vein Recanalization in Children with Extrahepatic Portal Vein Obstruction: A Systematic Review and Meta-analysis.",
-        "journal": "Cardiovascular and interventional radiology",
-        "pubDate": "2026 Nov 12",
-        "studyType": "Journal Article / Review",
-        "authors": "Miotto DADSM, Riaño AS, Grunewald STF",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Random-effects meta-analyses estimated pooled proportions with 95% confidence in... 临床提示：该英文报道关注最新动态：PubMed/MEDLINE, Embase, the Cochrane Library, and Web of Science were searched f...",
-        "abstract": "To synthesize the technical success, safety, durability, and clinical efficacy of percutaneous portal vein recanalization in children with non-cirrhotic extrahepatic portal vein obstruction without underlying liver disease. PubMed/MEDLINE, Embase, the Cochrane Library, and Web of Science were searched from inception to May 2026 for pediatric patients with non-cirrhotic extrahepatic portal vein obstruction who underwent percutaneous portal vein recanalization. Random-effects meta-analyses estimated pooled proportions with 95% confidence intervals and prediction intervals. Five retrospective single-center cohorts (73 children; variceal bleeding, hypersplenism, or both) were included. Pooled de...",
-        "pmid": "43020914",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43020914/",
-        "doiUrl": "https://doi.org/10.1007/s00270-026-04691-1",
-        "url": "https://doi.org/10.1007/s00270-026-04691-1"
-      }
-    ]
+    "htn_kidney": [],
+    "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：What we know about the longest ground stop since 9/11...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What we know about the longest ground stop since 9/11...”。核心要点：该英文报道关注最新动态：US officials say the disruption was caused by old equipment overload...",
+        "titleZh": "该英文报道关注最新动态：US has floated Ukraine ceding Donbas for Nato membership, Zelensky says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US has floated Ukraine ceding Donbas for Nato membership, Zelensky says...”。核心要点：该英文报道关注最新动态：The US has not confirmed the Ukrainian president's comments - a US o...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 03:45:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Nov 2026 22:37:25 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship ...”。核心要点：该英文报道关注最新动态：The collision leaves 32 people in hospital with non-critical injurie...",
+        "titleZh": "该英文报道关注最新动态：Copper wire upgrade behind US flight suspension, transport secretary says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Copper wire upgrade behind US flight suspension, transport secretary says...”。核心要点：该英文报道关注最新动态：The US government is trying to find out whether the chaos was caused...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Nov 2026 23:40:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Nov 2026 07:10:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Trump, Putin and Xi plan historic joint meeting in China next week, White House ...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump, Putin and Xi plan historic joint meeting in China next week, White House ...”。核心要点：该英文报道关注最新动态：Trump will discuss the \"reduction of nuclear weapons\" during the unp...",
+        "titleZh": "该英文报道关注最新动态：Pope Leo speaks of community 'suffering' on visit to remote Andes town...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pope Leo speaks of community 'suffering' on visit to remote Andes town...”。核心要点：该英文报道关注最新动态：Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 05:52:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Nov 2026 02:49:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Microsoft says services fully restored after for day-long global outage...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Microsoft says services fully restored after for day-long global outage...”。核心要点：该英文报道关注最新动态：Efforts to address the underlying problem with Outlook, Teams and Co...",
+        "titleZh": "该英文报道关注最新动态：Judge temporarily blocks Trump from closing Washington DC golf course for renova...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Judge temporarily blocks Trump from closing Washington DC golf course for renova...”。核心要点：该英文报道关注最新动态：It is the latest development in a months-long challenge to the presi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Nov 2026 03:21:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Setback for SpaceX Starship rocket's double-catch test...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Setback for SpaceX Starship rocket's double-catch test...”。核心要点：该英文报道关注最新动态：Elon Musk’s company aborted an attempted catch of the rocket’s boost...",
+        "titleZh": "该英文报道关注最新动态：Italy fines Meta €805m over accessing users' photos...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Italy fines Meta €805m over accessing users' photos...”。核心要点：该英文报道关注最新动态：The social media giant is accused of not informing 20 million users ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 00:01:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 14 Nov 2026 18:28:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Microsoft says services fully restored after for day-long global outage...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Microsoft says services fully restored after for day-long global outage...”。核心要点：该英文报道关注最新动态：Efforts to address the underlying problem with Outlook, Teams and Co...",
+        "titleZh": "该英文报道关注最新动态：Beauty advent calendars can cost hundreds - but are they value for money?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Beauty advent calendars can cost hundreds - but are they value for money?...”。核心要点：该英文报道关注最新动态：Beauty calendars have become a Christmas staple and have become part...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Sun, 15 Nov 2026 00:01:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：How the Jensen Huang scandal created a headache for business-friendly Singapore...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How the Jensen Huang scandal created a headache for business-friendly Singapore...”。核心要点：该英文报道关注最新动态：The scandal has cast a spotlight on Singapore's success as a chip hu...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Fri, 13 Nov 2026 23:00:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Microsoft says services fully restored after day-long global outage...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Microsoft says services fully restored after day-long global outage...”。核心要点：该英文报道关注最新动态：Efforts to address the underlying problem with Outlook, Teams and Co...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT",
@@ -119,28 +81,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How a sex scandal at Nvidia is putting pressure on the White House...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How a sex scandal at Nvidia is putting pressure on the White House...”。核心要点：该英文报道关注最新动态：Jensen Huang's personal life may have triggered the crisis, but the ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 13 Nov 2026 12:22:30 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "titleZh": "该英文报道关注最新动态：Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan...",
         "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan...”。核心要点：该英文报道关注最新动态：Scott Bessent told CNBC that several government agencies \"were in fa...",
         "source": "BBC",
         "sourceLang": "English",
         "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：The rise of 'housefishing' - when does using AI go from enhancing to misleading?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The rise of 'housefishing' - when does using AI go from enhancing to misleading?...”。核心要点：该英文报道关注最新动态：Experts warn that using AI to enhance property images can go too far...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Fri, 13 Nov 2026 00:13:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
