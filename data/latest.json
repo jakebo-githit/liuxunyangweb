@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-11-15T07:52:09.386Z",
+  "updatedAt": "2026-11-16T08:00:22.995Z",
   "topics": {
     "htn_kidney": [],
-    "portal_hypertension": []
+    "portal_hypertension": [
+      {
+        "title": "Three-dimensional automated muscle and adipose analysis to predict hepatic encephalopathy after transjugular intrahepatic portosystemic shunt.",
+        "journal": "European radiology",
+        "pubDate": "2026 Nov 15",
+        "studyType": "Journal Article",
+        "authors": "Zhao Y, Huang M, Huang J",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 593）。核心观点：该英文报道关注最新动态：We aimed to determine whether automated three-dimensional (3D) body composition ... 临床提示：该英文报道关注最新动态：Overt hepatic encephalopathy (HE) limits the use of transjugular intrahepatic po...",
+        "abstract": "Overt hepatic encephalopathy (HE) limits the use of transjugular intrahepatic portosystemic shunt (TIPS) in portal hypertension. We aimed to determine whether automated three-dimensional (3D) body composition analysis could improve pre-TIPS prediction of overt HE compared with conventional two-dimensional (2D) manual assessment. This multicenter study included 593 eligible patients from seven institutions (training cohort: n = 308; external validation 1 cohort: n = 151; and external validation 2 cohort: n = 134). After evaluating L3-based 2D measurements, we developed a fully automated 3D muscle and adipose assessment incorporating morphologic and radiomic features. We combined the 3D assess...",
+        "pmid": "43034938",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43034938/",
+        "doiUrl": "https://doi.org/10.1007/s00330-026-13063-9",
+        "url": "https://doi.org/10.1007/s00330-026-13063-9"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：US has floated Ukraine ceding Donbas for Nato membership, Zelensky says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：US has floated Ukraine ceding Donbas for Nato membership, Zelensky says...”。核心要点：该英文报道关注最新动态：The US has not confirmed the Ukrainian president's comments - a US o...",
+        "titleZh": "该英文报道关注最新动态：Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea...”。核心要点：该英文报道关注最新动态：Saudi-backed forces say they are moving troops from the Bab al-Manda...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 22:37:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 07:23:23 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Copper wire upgrade behind US flight suspension, transport secretary says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Copper wire upgrade behind US flight suspension, transport secretary says...”。核心要点：该英文报道关注最新动态：The US government is trying to find out whether the chaos was caused...",
+        "titleZh": "该英文报道关注最新动态：Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side o...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side o...”。核心要点：该英文报道关注最新动态：The Ukrainian president says the slowed-down internet is making it d...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 07:10:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Nov 2026 19:32:39 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pope Leo speaks of community 'suffering' on visit to remote Andes town...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Pope Leo speaks of community 'suffering' on visit to remote Andes town...”。核心要点：该英文报道关注最新动态：Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where ...",
+        "titleZh": "该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...”。核心要点：该英文报道关注最新动态：The Nvidia scandal has raised questions over whether advanced AI chi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 02:49:45 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 01:47:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Judge temporarily blocks Trump from closing Washington DC golf course for renova...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Judge temporarily blocks Trump from closing Washington DC golf course for renova...”。核心要点：该英文报道关注最新动态：It is the latest development in a months-long challenge to the presi...",
+        "titleZh": "该英文报道关注最新动态：Australian MP 'full of gratitude' upon leaving hospital after alleged car attack...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australian MP 'full of gratitude' upon leaving hospital after alleged car attack...”。核心要点：该英文报道关注最新动态：The MP lost both of her legs after the alleged attack outside her el...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 03:21:04 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 03:09:49 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Italy fines Meta €805m over accessing users' photos...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Italy fines Meta €805m over accessing users' photos...”。核心要点：该英文报道关注最新动态：The social media giant is accused of not informing 20 million users ...",
+        "titleZh": "该英文报道关注最新动态：Mexican drug lord Miguel Ángel Félix Gallardo dies age 80...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mexican drug lord Miguel Ángel Félix Gallardo dies age 80...”。核心要点：该英文报道关注最新动态：Known as the 'Boss of Bosses', he was the head of all-powerful Guada...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 18:28:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 03:21:56 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Beauty advent calendars can cost hundreds - but are they value for money?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Beauty advent calendars can cost hundreds - but are they value for money?...”。核心要点：该英文报道关注最新动态：Beauty calendars have become a Christmas staple and have become part...",
+        "titleZh": "该英文报道关注最新动态：Cut National Insurance for under-25s to create jobs, Milburn report to say...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Cut National Insurance for under-25s to create jobs, Milburn report to say...”。核心要点：该英文报道关注最新动态：The report being launched this week will suggest gradually reducing ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 00:01:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Nov 2026 22:30:03 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How the Jensen Huang scandal created a headache for business-friendly Singapore...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How the Jensen Huang scandal created a headache for business-friendly Singapore...”。核心要点：该英文报道关注最新动态：The scandal has cast a spotlight on Singapore's success as a chip hu...",
+        "titleZh": "该英文报道关注最新动态：UK will have 'voice' but no vote on EU food rules in Brexit reset...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK will have 'voice' but no vote on EU food rules in Brexit reset...”。核心要点：该英文报道关注最新动态：EU minister Hamish Falconer insists Britain would have some influenc...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Nov 2026 23:00:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sun, 15 Nov 2026 22:00:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Microsoft says services fully restored after day-long global outage...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Microsoft says services fully restored after day-long global outage...”。核心要点：该英文报道关注最新动态：Efforts to address the underlying problem with Outlook, Teams and Co...",
+        "titleZh": "该英文报道关注最新动态：Gas starts flowing from Jackdaw after government green light...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Gas starts flowing from Jackdaw after government green light...”。核心要点：该英文报道关注最新动态：Ministers last month announced the Jackdaw gas field, which lies 150...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sat, 14 Nov 2026 06:42:27 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 06:24:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Why is Microsoft's outage lasting so long and will emails be lost?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why is Microsoft's outage lasting so long and will emails be lost?...”。核心要点：该英文报道关注最新动态：Microsoft says it is continuing to restore services including Outloo...",
+        "titleZh": "该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...”。核心要点：该英文报道关注最新动态：The Nvidia scandal has raised questions over whether advanced AI chi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 01:47:57 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scan...”。核心要点：该英文报道关注最新动态：Scott Bessent told CNBC that several government agencies \"were in fa...",
+        "titleZh": "该英文报道关注最新动态：Investors sue chip giant Intel after 29% stock plunge...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Investors sue chip giant Intel after 29% stock plunge...”。核心要点：该英文报道关注最新动态：A proposed class action says Intel hid the impact of slowing sales, ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 03:04:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
