@@ -1,106 +1,119 @@
 {
-  "updatedAt": "2026-11-16T08:00:22.995Z",
+  "updatedAt": "2026-11-17T09:14:09.586Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Three-dimensional automated muscle and adipose analysis to predict hepatic encephalopathy after transjugular intrahepatic portosystemic shunt.",
-        "journal": "European radiology",
-        "pubDate": "2026 Nov 15",
+        "title": "Development and internal validation of VA-BLED for 1-year esophageal variceal bleeding risk in cirrhosis.",
+        "journal": "PloS one",
+        "pubDate": "2026",
+        "studyType": "Journal Article / Validation Study",
+        "authors": "Denk D, Schröder S, Friedrich-Rust M",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 108）。核心观点：该英文报道关注最新动态：Esophageal variceal bleeding is a life-threatening complication of cirrhosis, ye... 临床提示：该英文报道关注最新动态：We evaluated whether a simple score built from routinely available variables cou...",
+        "abstract": "Esophageal variceal bleeding is a life-threatening complication of cirrhosis, yet current risk stratification targets portal hypertension stage and endoscopic stigmata instead of short-term bleeding probability. We evaluated whether a simple score built from routinely available variables could stratify 1-year esophageal variceal bleeding risk. We developed and internally validated two multivariable logistic models in a retrospective outcome-balanced cohort of 108 patients with esophageal varices (54 variceal bleeding, 54 no bleeding). VA-BLED BASE incorporated Child-Pugh score, normalized alanine aminotransferase, and current alcohol use. VA-BLED HISTORY additionally incorporated previous bl...",
+        "pmid": "43038304",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43038304/",
+        "doiUrl": "https://doi.org/10.1371/journal.pone.0362884",
+        "url": "https://doi.org/10.1371/journal.pone.0362884"
+      },
+      {
+        "title": "Initial Experience with the 6-10 mm TIPS Endoprosthesis: Technical Feasibility and Early Clinical Outcomes.",
+        "journal": "Cardiovascular and interventional radiology",
+        "pubDate": "2026 Nov 16",
         "studyType": "Journal Article",
-        "authors": "Zhao Y, Huang M, Huang J",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 593）。核心观点：该英文报道关注最新动态：We aimed to determine whether automated three-dimensional (3D) body composition ... 临床提示：该英文报道关注最新动态：Overt hepatic encephalopathy (HE) limits the use of transjugular intrahepatic po...",
-        "abstract": "Overt hepatic encephalopathy (HE) limits the use of transjugular intrahepatic portosystemic shunt (TIPS) in portal hypertension. We aimed to determine whether automated three-dimensional (3D) body composition analysis could improve pre-TIPS prediction of overt HE compared with conventional two-dimensional (2D) manual assessment. This multicenter study included 593 eligible patients from seven institutions (training cohort: n = 308; external validation 1 cohort: n = 151; and external validation 2 cohort: n = 134). After evaluating L3-based 2D measurements, we developed a fully automated 3D muscle and adipose assessment incorporating morphologic and radiomic features. We combined the 3D assess...",
-        "pmid": "43034938",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43034938/",
-        "doiUrl": "https://doi.org/10.1007/s00330-026-13063-9",
-        "url": "https://doi.org/10.1007/s00330-026-13063-9"
+        "authors": "Cyphers ED, Chau SS, Chick JFB",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：To evaluate the technical feasibility, hemodynamic effects, and early clinical o... 临床提示：该英文报道关注最新动态：This single-center retrospective study included consecutive patients who underwe...",
+        "abstract": "To evaluate the technical feasibility, hemodynamic effects, and early clinical outcomes of the 6-10 mm GORE VIATORR TIPS Endoprosthesis with Controlled Expansion, which extends the prior 8 mm deployment floor to 6 mm. This single-center retrospective study included consecutive patients who underwent de novo transjugular intrahepatic portosystemic shunt (TIPS) creation with the 6-10 mm device between April and July 2026. Technical success was defined as portosystemic pressure gradient (PSPG) below 12 mmHg or ≥ 50% reduction from baseline. Twelve patients (8 females, 4 males; mean age 57.1 ± 15.7 years; range 32-83 years) were included. Indications for TIPS creation were variceal hemorrhage (5...",
+        "pmid": "43037657",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43037657/",
+        "doiUrl": "https://doi.org/10.1007/s00270-026-04690-2",
+        "url": "https://doi.org/10.1007/s00270-026-04690-2"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea...”。核心要点：该英文报道关注最新动态：Saudi-backed forces say they are moving troops from the Bab al-Manda...",
+        "titleZh": "该英文报道关注最新动态：Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossing...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossing...”。核心要点：该英文报道关注最新动态：The bridge linking Crimea and Russia has reportedly sustained major ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 07:23:23 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Nov 2026 08:06:32 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side o...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side o...”。核心要点：该英文报道关注最新动态：The Ukrainian president says the slowed-down internet is making it d...",
+        "titleZh": "该英文报道关注最新动态：Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike k...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike k...”。核心要点：该英文报道关注最新动态：Efforts to recover bodies after a “double-tap” attack in southern Uk...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 19:32:39 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Nov 2026 05:59:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...”。核心要点：该英文报道关注最新动态：The Nvidia scandal has raised questions over whether advanced AI chi...",
+        "titleZh": "该英文报道关注最新动态：Imran Khan seeks urgent medical care fearing he 'may not return alive'...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Imran Khan seeks urgent medical care fearing he 'may not return alive'...”。核心要点：该英文报道关注最新动态：Pakistan's ex-prime minister, who has been in prison since August 20...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 01:47:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Nov 2026 01:26:01 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Australian MP 'full of gratitude' upon leaving hospital after alleged car attack...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australian MP 'full of gratitude' upon leaving hospital after alleged car attack...”。核心要点：该英文报道关注最新动态：The MP lost both of her legs after the alleged attack outside her el...",
+        "titleZh": "该英文报道关注最新动态：Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate...”。核心要点：该英文报道关注最新动态：A number of tech figures have backed an effort asking the AI chip gi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 03:09:49 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Mexican drug lord Miguel Ángel Félix Gallardo dies age 80...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Mexican drug lord Miguel Ángel Félix Gallardo dies age 80...”。核心要点：该英文报道关注最新动态：Known as the 'Boss of Bosses', he was the head of all-powerful Guada...",
+        "titleZh": "该英文报道关注最新动态：OpenAI sued by California over Hugging Face attack...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：OpenAI sued by California over Hugging Face attack...”。核心要点：该英文报道关注最新动态：Attorney General Rob Bonta alleges that the artificial intelligence ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 03:21:56 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 16 Nov 2026 23:12:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Cut National Insurance for under-25s to create jobs, Milburn report to say...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Cut National Insurance for under-25s to create jobs, Milburn report to say...”。核心要点：该英文报道关注最新动态：The report being launched this week will suggest gradually reducing ...",
+        "titleZh": "该英文报道关注最新动态：Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out...”。核心要点：该英文报道关注最新动态：How many jobs are there where you live and in which sectors are you ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 22:30:03 GMT",
+        "publishedAt": "Tue, 17 Nov 2026 07:21:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：OpenAI sued by California over Hugging Face attack...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：OpenAI sued by California over Hugging Face attack...”。核心要点：该英文报道关注最新动态：Attorney General Rob Bonta alleges that the artificial intelligence ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 16 Nov 2026 23:12:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：We couldn't afford a house alone, so we bought one with strangers...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：We couldn't afford a house alone, so we bought one with strangers...”。核心要点：该英文报道关注最新动态：People who can't afford to get on the housing ladder are buying home...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 17 Nov 2026 00:00:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate...”。核心要点：该英文报道关注最新动态：A number of tech figures have backed an effort asking the AI chip gi...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "titleZh": "该英文报道关注最新动态：Create more jobs for under-25s by cutting National Insurance, key report urges...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Create more jobs for under-25s by cutting National Insurance, key report urges...”。核心要点：该英文报道关注最新动态：Some parents are so desperate for their children to find a job that ...",
+        "source": "BBC",
+        "sourceLang": "English",
+        "publishedAt": "Mon, 16 Nov 2026 13:19:33 GMT",
         "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：UK will have 'voice' but no vote on EU food rules in Brexit reset...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：UK will have 'voice' but no vote on EU food rules in Brexit reset...”。核心要点：该英文报道关注最新动态：EU minister Hamish Falconer insists Britain would have some influenc...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Sun, 15 Nov 2026 22:00:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Gas starts flowing from Jackdaw after government green light...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Gas starts flowing from Jackdaw after government green light...”。核心要点：该英文报道关注最新动态：Ministers last month announced the Jackdaw gas field, which lies 150...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 06:24:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says...”。核心要点：该英文报道关注最新动态：The Nvidia scandal has raised questions over whether advanced AI chi...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 01:47:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "titleZh": "该英文报道关注最新动态：Investors sue chip giant Intel after 29% stock plunge...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Investors sue chip giant Intel after 29% stock plunge...”。核心要点：该英文报道关注最新动态：A proposed class action says Intel hid the impact of slowing sales, ...",
-        "source": "BBC",
-        "sourceLang": "English",
-        "publishedAt": "Mon, 16 Nov 2026 03:04:01 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
