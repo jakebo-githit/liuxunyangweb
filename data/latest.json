@@ -1,172 +1,158 @@
 {
-  "updatedAt": "2026-11-18T08:34:21.048Z",
+  "updatedAt": "2026-11-19T08:49:08.942Z",
   "topics": {
-    "htn_kidney": [
-      {
-        "title": "Spontaneous Renal Rupture Requiring Nephrectomy in a Patient With IgA Nephropathy.",
-        "journal": "Nephrology (Carlton, Vic.)",
-        "pubDate": "2026 Nov",
-        "studyType": "Case Reports / Journal Article",
-        "authors": "Ogasa T, Muto M, Koshida T",
-        "zhSummary": "该文聚焦高血压肾病，属于病例研究。核心观点：该英文报道关注最新动态：Approximately 5% of patients who develop renal rupture lack an identifiable unde... 临床提示：该英文报道关注最新动态：In this case report, we detail a case with a left renal rupture of a 29-year-old...",
-        "abstract": "Approximately 5% of patients who develop renal rupture lack an identifiable underlying lesion, such as tumours, hydronephrosis, or vascular malformations. In this case report, we detail a case with a left renal rupture of a 29-year-old male diagnosed with IgA nephropathy (IgAN) and hypertensive nephropathy by renal biopsy. The patient was hospitalized with hypertension accompanied by renal dysfunction and heart failure. Before the onset of renal rupture, he had been initiated on corticosteroids for IgAN, and anticoagulant for persistent atrial fibrillation. The patient presented with sudden-onset left lower flank pain and haemorrhagic shock. Abdominal computed tomography revealed a left rena...",
-        "pmid": "43045632",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045632/",
-        "doiUrl": "https://doi.org/10.1111/nep.70323",
-        "url": "https://doi.org/10.1111/nep.70323"
-      }
-    ],
+    "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Pulmonary Complications of Cirrhosis.",
+        "title": "Detection of Liver Fibrosis and Portal Hypertension.",
         "journal": "Clinics in liver disease",
         "pubDate": "2027 Feb",
         "studyType": "Journal Article / Review",
-        "authors": "Nguyen C, Krok KL",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：There are 3 main pulmonary complications of cirrhosis-hepatic hydrothorax, hepat... 临床提示：该英文报道关注最新动态：The presence of any of these complications should result in a referral to a live...",
-        "abstract": "There are 3 main pulmonary complications of cirrhosis-hepatic hydrothorax, hepatopulmonary syndrome, and portopulmonary hypertension-which are a result of portal hypertension. The presence of any of these complications should result in a referral to a liver transplant center as they portend an increase in mortality. In the United States, there are standard OPTN Model for End-Stage Liver Disease exception point guidelines and policies for these 3 pulmonary complications of cirrhosis that can assist in expediting transplant for these patient populations.",
-        "pmid": "43045312",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045312/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.016",
-        "url": "https://doi.org/10.1016/j.cld.2026.08.016"
+        "authors": "Selvan B, Price JC",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Identifying patients with advanced fibrosis and portal hypertension is a crucial... 临床提示：该英文报道关注最新动态：The reference standard is liver biopsy for detection of fibrosis and cirrhosis a...",
+        "abstract": "Identifying patients with advanced fibrosis and portal hypertension is a crucial component of risk stratifying patients with liver disease. The reference standard is liver biopsy for detection of fibrosis and cirrhosis and measurement of hepatic venous pressure gradient for detection of portal hypertension. However, many noninvasive blood-based and imaging-based assessments have been developed and studied over the years. We review the most commonly available and accessible ones in the ultrasound. We also review 2 simplified algorithms that integrate blood-based and imaging-based tools in detecting advanced fibrosis and clinically significant portal hypertension.",
+        "pmid": "43045302",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045302/",
+        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.006",
+        "url": "https://doi.org/10.1016/j.cld.2026.08.006"
       },
       {
-        "title": "Renal Function and Hepatorenal Syndrome in Cirrhosis.",
-        "journal": "Clinics in liver disease",
-        "pubDate": "2027 Feb",
-        "studyType": "Journal Article / Review",
-        "authors": "Alsaleh T, Almujarkesh MK, Koteish A",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Hepatorenal syndrome (HRS) is a high-risk, often reversible cause of kidney fail... 临床提示：该英文报道关注最新动态：This review summarizes current concepts in epidemiology, pathophysiology, clinic...",
-        "abstract": "Hepatorenal syndrome (HRS) is a high-risk, often reversible cause of kidney failure in advanced cirrhosis. This review summarizes current concepts in epidemiology, pathophysiology, clinical presentation, practical diagnosis of HRS, and management principles. We highlight the hemodynamic cascade of portal hypertension, splanchnic vasodilation, and neurohormonal activation, and the amplifying role of systemic inflammation. We provide a stepwise approach to evaluation, including albumin-guided volume assessment, accurate glomerular filtration rate estimation, and utilization of cystatin C and urinary biomarkers. Treatment priorities, various pharmacotherapeutic options, and transplant planning ...",
-        "pmid": "43045311",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045311/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.012",
-        "url": "https://doi.org/10.1016/j.cld.2026.08.012"
+        "title": "Individualised Versus Conventional Balloon Dilation for TIPS: Hepatic Encephalopathy in a Propensity-Matched Before-After Study.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article / Comparative Study",
+        "authors": "Ji PC, Huang GP, Huang JY",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 408）。核心观点：该英文报道关注最新动态：Stent under-dilation reduces HE, but a fixed diameter cannot be individualised t... 临床提示：该英文报道关注最新动态：Hepatic encephalopathy (HE) is a major complication of transjugular intrahepatic...",
+        "abstract": "Hepatic encephalopathy (HE) is a major complication of transjugular intrahepatic portosystemic shunt (TIPS). Stent under-dilation reduces HE, but a fixed diameter cannot be individualised to patient risk. An individualised scoring system tailoring balloon diameter to patient characteristics, without compromising efficacy or increasing variceal re-bleeding or stent dysfunction, is needed. In this retrospective study, 717 patients with cirrhosis underwent TIPS with 8-mm covered stents between December 2015 and December 2023. Patients received conventional 8-mm full dilation (n = 408; before December 1, 2020) or individualised dilation (n = 309; from December 1, 2020 onward), with the balloon d...",
+        "pmid": "43046346",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43046346/",
+        "doiUrl": "https://doi.org/10.1111/liv.70992",
+        "url": "https://doi.org/10.1111/liv.70992"
       },
       {
-        "title": "Ascites and Hyponatremia.",
-        "journal": "Clinics in liver disease",
-        "pubDate": "2027 Feb",
-        "studyType": "Journal Article / Review",
-        "authors": "Kleb C, Abdul Majeed N, Jakhete N",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Ascites and hyponatremia in cirrhosis both arise from portal hypertension-induce... 临床提示：该英文报道关注最新动态：Ascites represents the most common decompensating event in cirrhosis and is asso...",
-        "abstract": "Ascites and hyponatremia in cirrhosis both arise from portal hypertension-induced splanchnic vasodilation, leading to reduced effective arterial blood volume and neurohormonal activation. Ascites represents the most common decompensating event in cirrhosis and is associated with significant morbidity and mortality, while hyponatremia independently predicts poor prognosis and transplant outcomes. This article outlines evidence-based diagnostic strategies and stepwise management, including dietary modification, diuretics, paracentesis, transjugular intrahepatic portosystemic shunt and transplant referral, as well as emerging therapies. These two conditions are interrelated, and multidisciplina...",
-        "pmid": "43045310",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045310/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.011",
-        "url": "https://doi.org/10.1016/j.cld.2026.08.011"
+        "title": "Propensity score-matched analysis and mixed-effects logistic regression analysis comparing robotic versus laparoscopic liver resections in patients with cirrhosis complicated by portal hypertension: An international multicenter study.",
+        "journal": "Surgery",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article / Multicenter Study / Comparative Study",
+        "authors": "Di Benedetto F, Magistri P, Yeow M",
+        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 328）。核心观点：该英文报道关注最新动态：Minimally invasive liver resection is increasingly performed, even in patients w... 临床提示：该英文报道关注最新动态：However, the benefits of robotic liver resection over laparoscopic liver resecti...",
+        "abstract": "Minimally invasive liver resection is increasingly performed, even in patients with cirrhosis and clinically significant portal hypertension. However, the benefits of robotic liver resection over laparoscopic liver resection in patients with cirrhosis and clinically significant portal hypertension remain unclear. We conducted a post hoc international, multicenter study including 2,328 patients with cirrhosis and clinically significant portal hypertension who underwent minimally invasive liver resection (2,004 laparoscopic liver resection and 324 robotic liver resection). Propensity score matching was performed in 1:1 and 2:1 ratios to compare perioperative outcomes between the 2 approaches. ...",
+        "pmid": "42790397",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42790397/",
+        "doiUrl": "https://doi.org/10.1016/j.surg.2026.110544",
+        "url": "https://doi.org/10.1016/j.surg.2026.110544"
       },
       {
-        "title": "Treatment and Prevention of Variceal Bleeding.",
-        "journal": "Clinics in liver disease",
-        "pubDate": "2027 Feb",
+        "title": "Recompensation in autoimmune hepatitis.",
+        "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+        "pubDate": "2026 Nov 18",
         "studyType": "Journal Article / Review",
-        "authors": "Deeb M, Ma M",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Variceal bleeding is a life-threatening complication of portal hypertension, tho... 临床提示：该英文报道关注最新动态：Endovascular techniques such as transjugular intrahepatic portosystemic shunt an...",
-        "abstract": "Variceal bleeding is a life-threatening complication of portal hypertension, though mortality has been dramatically reduced by advances in acute management and prophylaxis. Management of acute variceal bleeding includes vasoactive drugs, antibiotics, restrictive transfusion, and endoscopic therapy within 12 hours. Endovascular techniques such as transjugular intrahepatic portosystemic shunt and retrograde transvenous obliteration may be required in select or refractory cases. Prevention of variceal bleeding entails identifying at-risk patients with clinically significant portal hypertension and decreasing portal pressure with nonselective beta blockers (preferably carvedilol). Less severe fo...",
-        "pmid": "43045308",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045308/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.007",
-        "url": "https://doi.org/10.1016/j.cld.2026.08.007"
+        "authors": "Lai JC, Wong YJ, Yip TC",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Effective immunosuppression may halt hepatic inflammation, thereby inducing bioc... 临床提示：该英文报道关注最新动态：Studies indicate that approximately 19-54% of immunosuppressed patients achieve ...",
+        "abstract": "Autoimmune hepatitis (AIH) is an immune-mediated liver disease in which persistent necroinflammation drives progressive fibrosis, cirrhosis, and ultimately portal hypertension-related decompensation. Effective immunosuppression may halt hepatic inflammation, thereby inducing biochemical (and histological) remission, facilitating regeneration of hepatic function, clinical recompensation, and fibrosis regression. Studies indicate that approximately 19-54% of immunosuppressed patients achieve recompensation. Lower Child-Pugh score, lower immunoglobulin G levels, and a complete biochemical response are associated with higher recompensation rates, whereas advanced-grade hepatic encephalopathy and...",
+        "pmid": "43052146",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43052146/",
+        "doiUrl": "https://doi.org/10.1016/j.dld.2026.11.005",
+        "url": "https://doi.org/10.1016/j.dld.2026.11.005"
       },
       {
-        "title": "Invasive Procedures and Surgery in Patients with Cirrhosis.",
-        "journal": "Clinics in liver disease",
-        "pubDate": "2027 Feb",
-        "studyType": "Journal Article / Review",
-        "authors": "Gips JR, Woreta TA",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Patients with cirrhosis are at increased risk of perioperative complications due... 临床提示：该英文报道关注最新动态：Careful preoperative evaluation is therefore essential and requires identificati...",
-        "abstract": "Patients with cirrhosis are at increased risk of perioperative complications due to the systemic consequences of portal hypertension, altered hemostasis, ascites, malnutrition, sarcopenia, and immune dysfunction. These abnormalities predispose patients to bleeding, infection, impaired wound healing, and postoperative hepatic decompensation, even after otherwise routine surgical procedures. Active hepatic decompensations or even the presence of clinically significant portal hypertension alone substantially increase operative risk. Careful preoperative evaluation is therefore essential and requires identification and management of decompensations, assessment of portal hypertension, and an unde...",
-        "pmid": "43045304",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045304/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.014",
-        "url": "https://doi.org/10.1016/j.cld.2026.08.014"
+        "title": "Integrated radiomics-deep learning modeling of hepatic vasculature for enhanced noninvasive prediction of portal hypertension and high-risk gastroesophageal varices.",
+        "journal": "Abdominal radiology (New York)",
+        "pubDate": "2026 Nov 18",
+        "studyType": "Journal Article",
+        "authors": "Qiu Q, Zheng R, Wang C",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 454）。核心观点：该英文报道关注最新动态：To evaluate whether CT-derived radiomics and deep learning features can improve ... 临床提示：该英文报道关注最新动态：This retrospective study included 454 cirrhotic patients from center A and 77 fr...",
+        "abstract": "To evaluate whether CT-derived radiomics and deep learning features can improve non-invasive risk stratification of clinically significant portal hypertension (CSPH) and high-risk gastroesophageal varices (HRVs) in cirrhotic patients. This retrospective study included 454 cirrhotic patients from center A and 77 from center B. CSPH labels were available only for patients from center A. Patients in both centers with available endoscopic findings were classified as HRVs or non-HRVs. A dual-path modeling framework integrating radiomics and deep learning-derived features extracted from multiple major hepatic vessels was developed, and was compared with single-path (radiomics-only and deep learnin...",
+        "pmid": "43049892",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43049892/",
+        "doiUrl": "https://doi.org/10.1007/s00261-026-05880-9",
+        "url": "https://doi.org/10.1007/s00261-026-05880-9"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia sp...”。核心要点：该英文报道关注最新动态：China worries the scandal could ramp up pressure on the US to furthe...",
+        "titleZh": "该英文报道关注最新动态：This is a remarkable diplomatic moment for China's Xi - but it comes with pitfal...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：This is a remarkable diplomatic moment for China's Xi - but it comes with pitfal...”。核心要点：该英文报道关注最新动态：The meeting comes with challenges as there are things Xi does not ap...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Nov 2026 23:02:12 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 04:42:52 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nvidia says it won't reinstate Huang as it reports soaring sales...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nvidia says it won't reinstate Huang as it reports soaring sales...”。核心要点：该英文报道关注最新动态：The AI chip giant reported strong quarterly earnings on Tuesday afte...",
+        "titleZh": "该英文报道关注最新动态：Inside the old gas pipeline where Ukraine is fighting an underground war with Ru...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside the old gas pipeline where Ukraine is fighting an underground war with Ru...”。核心要点：该英文报道关注最新动态：Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the ba...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 01:18:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Nov 2026 17:00:40 GMT",
+        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Rubio says US not 'under systemic attack' after series of tech outages...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Rubio says US not 'under systemic attack' after series of tech outages...”。核心要点：该英文报道关注最新动态：Secretary of State Marco Rubio said there was \"zero evidence\" suppor...",
+        "titleZh": "该英文报道关注最新动态：Myanmar faces historic genocide verdict at UN court over Rohingya massacres...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Myanmar faces historic genocide verdict at UN court over Rohingya massacres...”。核心要点：该英文报道关注最新动态：No state has ever been found guilty by an international court of com...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 04:57:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Nov 2026 23:04:06 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Democrats win Alaska Senate race two weeks after midterms counting began...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Democrats win Alaska Senate race two weeks after midterms counting began...”。核心要点：该英文报道关注最新动态：Confirmation of Mary Peltola's victory caps of the party's rout of t...",
+        "titleZh": "该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...”。核心要点：该英文报道关注最新动态：The company behind the Claude chatbot will become one of the most va...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 07:00:25 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 02:20:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack...”。核心要点：该英文报道关注最新动态：Ukraine says the missile and drone attack on the strategic bridge in...",
+        "titleZh": "该英文报道关注最新动态：Van Gogh painting sells for record $190.4m after row over its Nazi history...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Van Gogh painting sells for record $190.4m after row over its Nazi history...”。核心要点：该英文报道关注最新动态：Châtaigniers en fleurs was painted in 1890 in the final two months o...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Tue, 17 Nov 2026 21:24:35 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 00:49:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Higher petrol and diesel prices push UK inflation to 3.6%...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Higher petrol and diesel prices push UK inflation to 3.6%...”。核心要点：该英文报道关注最新动态：There are also signs inflation is impacting the wider economy, with ...",
+        "titleZh": "该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...”。核心要点：该英文报道关注最新动态：The company behind the Claude chatbot will become one of the most va...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 08:19:09 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 02:20:15 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Nvidia says it won't reinstate Huang as it reports soaring sales...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Nvidia says it won't reinstate Huang as it reports soaring sales...”。核心要点：该英文报道关注最新动态：The AI chip giant reported strong quarterly earnings on Tuesday afte...",
+        "titleZh": "该英文报道关注最新动态：McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'...”。核心要点：该英文报道关注最新动态：A former McDonald's worker calls on the firm to “change the way they...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 01:18:18 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 00:00:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：How important are Nvidia and Jensen Huang to the US economy?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：How important are Nvidia and Jensen Huang to the US economy?...”。核心要点：该英文报道关注最新动态：The former Nvidia chief executive has been at the centre of the arti...",
+        "titleZh": "该英文报道关注最新动态：Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?...”。核心要点：该英文报道关注最新动态：Anthropic's hotly anticipated IPO is expected to put it in the top 1...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 06:04:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Nov 2026 21:28:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007...”。核心要点：该英文报道关注最新动态：The Amazon CEO said he was originally \"biased against\" Pattinson \"be...",
+        "titleZh": "该英文报道关注最新动态：The seven Anthropic founders who are about to become multi-billionaires...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The seven Anthropic founders who are about to become multi-billionaires...”。核心要点：该英文报道关注最新动态：The AI company behind Claude is about to sell its shares on the US s...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 04:00:54 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Wed, 18 Nov 2026 23:42:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Europe plans to catch the next computer chip wave...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Europe plans to catch the next computer chip wave...”。核心要点：该英文报道关注最新动态：Europe hopes to be a leader in a new generation of computer chips wh...",
+        "titleZh": "该英文报道关注最新动态：Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators...”。核心要点：该英文报道关注最新动态：The vessel sank off the coast of northern Sicily, killing seven peop...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 00:00:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 00:05:31 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
