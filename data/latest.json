@@ -1,158 +1,119 @@
 {
-  "updatedAt": "2026-11-19T08:49:08.942Z",
+  "updatedAt": "2026-11-20T08:33:48.731Z",
   "topics": {
     "htn_kidney": [],
     "portal_hypertension": [
       {
-        "title": "Detection of Liver Fibrosis and Portal Hypertension.",
-        "journal": "Clinics in liver disease",
-        "pubDate": "2027 Feb",
-        "studyType": "Journal Article / Review",
-        "authors": "Selvan B, Price JC",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Identifying patients with advanced fibrosis and portal hypertension is a crucial... 临床提示：该英文报道关注最新动态：The reference standard is liver biopsy for detection of fibrosis and cirrhosis a...",
-        "abstract": "Identifying patients with advanced fibrosis and portal hypertension is a crucial component of risk stratifying patients with liver disease. The reference standard is liver biopsy for detection of fibrosis and cirrhosis and measurement of hepatic venous pressure gradient for detection of portal hypertension. However, many noninvasive blood-based and imaging-based assessments have been developed and studied over the years. We review the most commonly available and accessible ones in the ultrasound. We also review 2 simplified algorithms that integrate blood-based and imaging-based tools in detecting advanced fibrosis and clinically significant portal hypertension.",
-        "pmid": "43045302",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43045302/",
-        "doiUrl": "https://doi.org/10.1016/j.cld.2026.08.006",
-        "url": "https://doi.org/10.1016/j.cld.2026.08.006"
+        "title": "Apixaban reduces hepatic decompensation in patients with cirrhosis (ApiHep): A randomized controlled trial.",
+        "journal": "Hepatology communications",
+        "pubDate": "2026 Dec 1",
+        "studyType": "Journal Article / Randomized Controlled Trial",
+        "authors": "Agarwal A, Biswas S, Aggarwal A",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Evolving data suggest that anticoagulation is safe in cirrhosis and may improve ... 临床提示：该英文报道关注最新动态：This study aimed to assess the efficacy and safety of the direct oral anticoagul...",
+        "abstract": "Evolving data suggest that anticoagulation is safe in cirrhosis and may improve decompensation-free survival in select patients. This study aimed to assess the efficacy and safety of the direct oral anticoagulant apixaban in patients with cirrhosis. In this open-label randomized controlled trial with blinded endpoint assessment, adult patients (18-60y) with cirrhosis (Child-Pugh B7-C10) without splenoportal axis thrombosis were randomized (1:1) to receive apixaban (2.5 mg twice daily) along with standard medical therapy (SMT) or SMT alone for 12 months. The primary outcome was the comparison of the proportion of patients with hepatic decompensation at 1 year. Secondary outcomes included freq...",
+        "pmid": "43056610",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43056610/",
+        "doiUrl": "https://doi.org/10.1097/HC9.0000000000001088",
+        "url": "https://doi.org/10.1097/HC9.0000000000001088"
       },
       {
-        "title": "Individualised Versus Conventional Balloon Dilation for TIPS: Hepatic Encephalopathy in a Propensity-Matched Before-After Study.",
+        "title": "Prediction Beyond Established Models in Steatotic Liver Disease: Which New Predictors Add Value?",
         "journal": "Liver international : official journal of the International Association for the Study of the Liver",
         "pubDate": "2026 Dec",
-        "studyType": "Journal Article / Comparative Study",
-        "authors": "Ji PC, Huang GP, Huang JY",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 408）。核心观点：该英文报道关注最新动态：Stent under-dilation reduces HE, but a fixed diameter cannot be individualised t... 临床提示：该英文报道关注最新动态：Hepatic encephalopathy (HE) is a major complication of transjugular intrahepatic...",
-        "abstract": "Hepatic encephalopathy (HE) is a major complication of transjugular intrahepatic portosystemic shunt (TIPS). Stent under-dilation reduces HE, but a fixed diameter cannot be individualised to patient risk. An individualised scoring system tailoring balloon diameter to patient characteristics, without compromising efficacy or increasing variceal re-bleeding or stent dysfunction, is needed. In this retrospective study, 717 patients with cirrhosis underwent TIPS with 8-mm covered stents between December 2015 and December 2023. Patients received conventional 8-mm full dilation (n = 408; before December 1, 2020) or individualised dilation (n = 309; from December 1, 2020 onward), with the balloon d...",
-        "pmid": "43046346",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43046346/",
-        "doiUrl": "https://doi.org/10.1111/liv.70992",
-        "url": "https://doi.org/10.1111/liv.70992"
-      },
-      {
-        "title": "Propensity score-matched analysis and mixed-effects logistic regression analysis comparing robotic versus laparoscopic liver resections in patients with cirrhosis complicated by portal hypertension: An international multicenter study.",
-        "journal": "Surgery",
-        "pubDate": "2026 Dec",
-        "studyType": "Journal Article / Multicenter Study / Comparative Study",
-        "authors": "Di Benedetto F, Magistri P, Yeow M",
-        "zhSummary": "该文聚焦门静脉高压症，属于多中心临床研究（样本量约为 328）。核心观点：该英文报道关注最新动态：Minimally invasive liver resection is increasingly performed, even in patients w... 临床提示：该英文报道关注最新动态：However, the benefits of robotic liver resection over laparoscopic liver resecti...",
-        "abstract": "Minimally invasive liver resection is increasingly performed, even in patients with cirrhosis and clinically significant portal hypertension. However, the benefits of robotic liver resection over laparoscopic liver resection in patients with cirrhosis and clinically significant portal hypertension remain unclear. We conducted a post hoc international, multicenter study including 2,328 patients with cirrhosis and clinically significant portal hypertension who underwent minimally invasive liver resection (2,004 laparoscopic liver resection and 324 robotic liver resection). Propensity score matching was performed in 1:1 and 2:1 ratios to compare perioperative outcomes between the 2 approaches. ...",
-        "pmid": "42790397",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42790397/",
-        "doiUrl": "https://doi.org/10.1016/j.surg.2026.110544",
-        "url": "https://doi.org/10.1016/j.surg.2026.110544"
-      },
-      {
-        "title": "Recompensation in autoimmune hepatitis.",
-        "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
-        "pubDate": "2026 Nov 18",
         "studyType": "Journal Article / Review",
-        "authors": "Lai JC, Wong YJ, Yip TC",
-        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Effective immunosuppression may halt hepatic inflammation, thereby inducing bioc... 临床提示：该英文报道关注最新动态：Studies indicate that approximately 19-54% of immunosuppressed patients achieve ...",
-        "abstract": "Autoimmune hepatitis (AIH) is an immune-mediated liver disease in which persistent necroinflammation drives progressive fibrosis, cirrhosis, and ultimately portal hypertension-related decompensation. Effective immunosuppression may halt hepatic inflammation, thereby inducing biochemical (and histological) remission, facilitating regeneration of hepatic function, clinical recompensation, and fibrosis regression. Studies indicate that approximately 19-54% of immunosuppressed patients achieve recompensation. Lower Child-Pugh score, lower immunoglobulin G levels, and a complete biochemical response are associated with higher recompensation rates, whereas advanced-grade hepatic encephalopathy and...",
-        "pmid": "43052146",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43052146/",
-        "doiUrl": "https://doi.org/10.1016/j.dld.2026.11.005",
-        "url": "https://doi.org/10.1016/j.dld.2026.11.005"
-      },
-      {
-        "title": "Integrated radiomics-deep learning modeling of hepatic vasculature for enhanced noninvasive prediction of portal hypertension and high-risk gastroesophageal varices.",
-        "journal": "Abdominal radiology (New York)",
-        "pubDate": "2026 Nov 18",
-        "studyType": "Journal Article",
-        "authors": "Qiu Q, Zheng R, Wang C",
-        "zhSummary": "该文聚焦门静脉高压症，属于临床研究（样本量约为 454）。核心观点：该英文报道关注最新动态：To evaluate whether CT-derived radiomics and deep learning features can improve ... 临床提示：该英文报道关注最新动态：This retrospective study included 454 cirrhotic patients from center A and 77 fr...",
-        "abstract": "To evaluate whether CT-derived radiomics and deep learning features can improve non-invasive risk stratification of clinically significant portal hypertension (CSPH) and high-risk gastroesophageal varices (HRVs) in cirrhotic patients. This retrospective study included 454 cirrhotic patients from center A and 77 from center B. CSPH labels were available only for patients from center A. Patients in both centers with available endoscopic findings were classified as HRVs or non-HRVs. A dual-path modeling framework integrating radiomics and deep learning-derived features extracted from multiple major hepatic vessels was developed, and was compared with single-path (radiomics-only and deep learnin...",
-        "pmid": "43049892",
-        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43049892/",
-        "doiUrl": "https://doi.org/10.1007/s00261-026-05880-9",
-        "url": "https://doi.org/10.1007/s00261-026-05880-9"
+        "authors": "Zifan A, Liatsis P",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：Biomarkers, non-invasive tests (NITs), imaging, genetics and machine learning ar... 临床提示：该英文报道关注最新动态：Biomarkers, non-invasive tests (NITs), imaging, genetics and machine learning ar...",
+        "abstract": "Biomarkers, non-invasive tests (NITs), imaging, genetics and machine learning are increasingly used for risk stratification in metabolic dysfunction-associated steatotic liver disease (MASLD) and related liver disease, yet their incremental predictive value beyond established models remains unclear. We developed an evidence map to characterise incremental predictive value beyond established clinical models. We searched PubMed using four search families, supplemented by ClinicalTrials.gov and seed-literature/backward-citation searching. Searches covered January 2000 through August 26, 2026 without a language restriction. Records were normalised, deduplicated and processed through deterministi...",
+        "pmid": "43053474",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43053474/",
+        "doiUrl": "https://doi.org/10.1111/liv.70952",
+        "url": "https://doi.org/10.1111/liv.70952"
       }
     ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：This is a remarkable diplomatic moment for China's Xi - but it comes with pitfal...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：This is a remarkable diplomatic moment for China's Xi - but it comes with pitfal...”。核心要点：该英文报道关注最新动态：The meeting comes with challenges as there are things Xi does not ap...",
+        "titleZh": "该英文报道关注最新动态：UK and EU to agree youth mobility scheme, BBC understands...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：UK and EU to agree youth mobility scheme, BBC understands...”。核心要点：该英文报道关注最新动态：The scheme is expected to be approved at Friday's UK-EU summit, with...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Nov 2026 04:42:52 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 07:14:46 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Inside the old gas pipeline where Ukraine is fighting an underground war with Ru...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Inside the old gas pipeline where Ukraine is fighting an underground war with Ru...”。核心要点：该英文报道关注最新动态：Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the ba...",
+        "titleZh": "该英文报道关注最新动态：Anthropic becomes one of world's most valuable public companies in stock market ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Anthropic becomes one of world's most valuable public companies in stock market ...”。核心要点：该英文报道关注最新动态：Anthropic is the first purely AI company to be publicly listed, crea...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 17:00:40 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 23:33:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Myanmar faces historic genocide verdict at UN court over Rohingya massacres...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Myanmar faces historic genocide verdict at UN court over Rohingya massacres...”。核心要点：该英文报道关注最新动态：No state has ever been found guilty by an international court of com...",
+        "titleZh": "该英文报道关注最新动态：'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis...”。核心要点：该英文报道关注最新动态：Orla Guerin speaks to seven people trapped in the key city of Taiz, ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 23:04:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 00:13:21 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...”。核心要点：该英文报道关注最新动态：The company behind the Claude chatbot will become one of the most va...",
+        "titleZh": "该英文报道关注最新动态：Myanmar committed genocide against Rohingya minority, top UN court rules...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Myanmar committed genocide against Rohingya minority, top UN court rules...”。核心要点：该英文报道关注最新动态：The unprecedented International Court of Justice verdict concerns a ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Nov 2026 02:20:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Van Gogh painting sells for record $190.4m after row over its Nazi history...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Van Gogh painting sells for record $190.4m after row over its Nazi history...”。核心要点：该英文报道关注最新动态：Châtaigniers en fleurs was painted in 1890 in the final two months o...",
+        "titleZh": "该英文报道关注最新动态：Europe ready for talks with Russia on ending war in Ukraine, leaders say...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Europe ready for talks with Russia on ending war in Ukraine, leaders say...”。核心要点：该英文报道关注最新动态：European allies of Ukraine say they have a \"united\" negotiating posi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Nov 2026 00:49:19 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 00:50:24 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut...”。核心要点：该英文报道关注最新动态：The company behind the Claude chatbot will become one of the most va...",
+        "titleZh": "该英文报道关注最新动态：Tinned food and long-life milk boost retail sales after 'Be Ready' campaign laun...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Tinned food and long-life milk boost retail sales after 'Be Ready' campaign laun...”。核心要点：该英文报道关注最新动态：People stocking up on long-life food drove retail sales higher Octob...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Nov 2026 02:20:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 08:09:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'...”。核心要点：该英文报道关注最新动态：A former McDonald's worker calls on the firm to “change the way they...",
+        "titleZh": "该英文报道关注最新动态：Anthropic becomes one of world's most valuable public companies in stock market ...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Anthropic becomes one of world's most valuable public companies in stock market ...”。核心要点：该英文报道关注最新动态：Anthropic is the first purely AI company to be publicly listed, crea...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Nov 2026 00:00:59 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Thu, 19 Nov 2026 23:33:51 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?...”。核心要点：该英文报道关注最新动态：Anthropic's hotly anticipated IPO is expected to put it in the top 1...",
+        "titleZh": "该英文报道关注最新动态：Mouldy, infested housing for vulnerable people sold as ethical investments abroa...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Mouldy, infested housing for vulnerable people sold as ethical investments abroa...”。核心要点：该英文报道关注最新动态：The properties are marketed at premium prices with claims of “govern...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 21:28:08 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 06:00:33 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：The seven Anthropic founders who are about to become multi-billionaires...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：The seven Anthropic founders who are about to become multi-billionaires...”。核心要点：该英文报道关注最新动态：The AI company behind Claude is about to sell its shares on the US s...",
+        "titleZh": "该英文报道关注最新动态：GTA 6 breaks records as estimated sales top $2.3bn...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：GTA 6 breaks records as estimated sales top $2.3bn...”。核心要点：该英文报道关注最新动态：Rockstar Games ended a 13-year wait with what is expected to be the ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Wed, 18 Nov 2026 23:42:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 02:54:40 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators...”。核心要点：该英文报道关注最新动态：The vessel sank off the coast of northern Sicily, killing seven peop...",
+        "titleZh": "该英文报道关注最新动态：Should AI be judging our credit worthiness?...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Should AI be judging our credit worthiness?...”。核心要点：该英文报道关注最新动态：Would AI be a good judge of whether you should get a mortgage, car l...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 19 Nov 2026 00:05:31 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 20 Nov 2026 07:32:19 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
