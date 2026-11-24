@@ -1,92 +1,146 @@
 {
-  "updatedAt": "2026-11-23T09:02:14.571Z",
+  "updatedAt": "2026-11-24T10:56:55.678Z",
   "topics": {
-    "htn_kidney": [],
-    "portal_hypertension": []
+    "htn_kidney": [
+      {
+        "title": "Higher eGFRdiff is associated with increased risk of rapid kidney function decline in hypertensive individuals.",
+        "journal": "BMC nephrology",
+        "pubDate": "2026 Aug 28",
+        "studyType": "Journal Article",
+        "authors": "Zhang L, Wang QQ, Shen CF",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究。核心观点：该英文报道关注最新动态：Multivariable logistic regression and restrictive cubic spline analysis were use... 临床提示：该英文报道关注最新动态：The area under the curve (AUC) of receiver operating characteristic (ROC) was ca...",
+        "abstract": "Hypertensive nephropathy is the second contributing factor to end-stage renal disease, while the relationship between the difference between estimated glomerular filtration rates (eGFRdiff) and rapid kidney function decline (RKFD) in hypertensive patients remains unclear. This study included 2,230 hypertensive patients from the China Health and Retirement Longitudinal Study (CHARLS, 2011-2015). Multivariable logistic regression and restrictive cubic spline analysis were used to evaluate the association between eGFRdiff and the risk of RKFD. The area under the curve (AUC) of receiver operating characteristic (ROC) was calculated to assess the predictive ability of eGFRdiff. In both the crude ...",
+        "pmid": "43069108",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43069108/",
+        "doiUrl": "https://doi.org/10.1186/s12882-026-05248-7",
+        "url": "https://doi.org/10.1186/s12882-026-05248-7"
+      }
+    ],
+    "portal_hypertension": [
+      {
+        "title": "HIV Co-Infection and Hepatic Outcomes in Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article",
+        "authors": "Hafez Y, Shaik NA, Kilani Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Patients were 1:1 propensity-matched on demographics, BMI, smoking, cardiometabo... 临床提示：该英文报道关注最新动态：MASLD affects roughly one-third of people with HIV (PWH), yet data on advanced h...",
+        "abstract": "MASLD affects roughly one-third of people with HIV (PWH), yet data on advanced hepatic outcomes are limited. We examined the association of HIV co-infection with hepatic outcomes in propensity score-matched adults with MASLD. Using the TriNetX US Collaborative Network (~114.6 million patients), we identified adults with MASLD stratified by HIV status, excluding viral hepatitis, alcohol-related and other chronic liver diseases. Patients were 1:1 propensity-matched on demographics, BMI, smoking, cardiometabolic comorbidities, laboratory values and medications, then followed for 5 years (Kaplan-Meier, Cox, competing-risk analyses). Primary outcomes were all-cause mortality and a composite hepat...",
+        "pmid": "43070130",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43070130/",
+        "doiUrl": "https://doi.org/10.1111/liv.70995",
+        "url": "https://doi.org/10.1111/liv.70995"
+      },
+      {
+        "title": "Massive ascites with preserved serum albumin in adult anorexia nervosa: Impact on eating behavior and weight-based treatment assessment.",
+        "journal": "PCN reports : psychiatry and clinical neurosciences",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article",
+        "authors": "Mashimoto M, Kora T, Sakamoto Y",
+        "zhSummary": "该文聚焦门静脉高压症，属于临床研究。核心观点：该英文报道关注最新动态：Ascites is a rare complication of anorexia nervosa (AN) and is typically associa... 临床提示：该英文报道关注最新动态：Its influence on eating behavior and on the evaluation of treatment response rem...",
+        "abstract": "Ascites is a rare complication of anorexia nervosa (AN) and is typically associated with hypoalbuminemia. Its influence on eating behavior and on the evaluation of treatment response remains poorly characterized. A 30-year-old woman with AN presented with massive ascites despite a preserved serum albumin level, a presentation not previously reported in adults. Imaging, ascitic fluid analysis, and serological testing excluded cirrhosis, malignancy, infection, and autoimmune serositis. The fluid showed a high serum-ascites albumin gradient (SAAG, 2.1 g/dL) with preserved protein (3.1 g/dL) and normal lactate dehydrogenase. Although the SAAG was high, there was no evidence of portal hypertensio...",
+        "pmid": "43069811",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43069811/",
+        "doiUrl": "https://doi.org/10.1002/pcn5.70442",
+        "url": "https://doi.org/10.1002/pcn5.70442"
+      },
+      {
+        "title": "Haemostasis in Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "pubDate": "2026 Dec",
+        "studyType": "Journal Article / Review",
+        "authors": "Ferdinande K, Senzolo M, Campello E",
+        "zhSummary": "该文聚焦门静脉高压症，属于综述研究。核心观点：该英文报道关注最新动态：MASLD is the most prevalent chronic liver disease and a significant cause of liv... 临床提示：该英文报道关注最新动态：Portal hypertension may develop before advanced fibrosis, driven by vascular and...",
+        "abstract": "MASLD is the most prevalent chronic liver disease and a significant cause of liver-related morbidity and mortality. Portal hypertension may develop before advanced fibrosis, driven by vascular and metabolic alterations that concurrently affect systemic haemostasis and promote intrahepatic interactions between endothelial dysfunction, inflammation, and haemostatic pathways. Once cirrhosis is established, the rebalanced haemostatic state is largely independent of aetiology, with impaired fibrinolysis representing the principal MASLD-associated difference. In non-cirrhotic MASLD, increasing in vivo platelet activation, a progressive procoagulant imbalance between factor VIII and protein C, and ...",
+        "pmid": "43069680",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43069680/",
+        "doiUrl": "https://doi.org/10.1111/liv.70976",
+        "url": "https://doi.org/10.1111/liv.70976"
+      }
+    ]
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Longest-ever UN climate talks end with no deal as deep divisions exposed...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Longest-ever UN climate talks end with no deal as deep divisions exposed...”。核心要点：该英文报道关注最新动态：The prime minister of Australia, which co-hosted COP31, attributed t...",
+        "titleZh": "该英文报道关注最新动态：Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen ...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen ...”。核心要点：该英文报道关注最新动态：Nvidia had come under pressure from President Trump to reappoint Hua...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 05:15:06 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 10:53:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Five takeaways from the failed climate talks COP31...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Five takeaways from the failed climate talks COP31...”。核心要点：该英文报道关注最新动态：The COP31 summit in Antalya was the longest-running climate talks in...",
+        "titleZh": "该英文报道关注最新动态：What Jensen Huang's return teaches China's Xi about Trump...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What Jensen Huang's return teaches China's Xi about Trump...”。核心要点：该英文报道关注最新动态：Huang being back at the helm of Nvidia is no guarantee of relief for...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 06:33:50 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 07:26:27 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers...”。核心要点：该英文报道关注最新动态：Eleven people are dead in the attack on Dymer, with rescue efforts o...",
+        "titleZh": "该英文报道关注最新动态：Nato chief vows defence against space threat after Russian nuclear satellite rep...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Nato chief vows defence against space threat after Russian nuclear satellite rep...”。核心要点：该英文报道关注最新动态：German media said Russia planned to launch a satellite with a nuclea...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 05:33:17 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 02:15:59 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Russian ships hit by Ukrainian drones off Libya coast, Zelensky says...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Russian ships hit by Ukrainian drones off Libya coast, Zelensky says...”。核心要点：该英文报道关注最新动态：Libya's eastern government says a sunken warship had stopped for fue...",
+        "titleZh": "该英文报道关注最新动态：India's 'cockroach' party leader says he was stopped from flying to UK...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：India's 'cockroach' party leader says he was stopped from flying to UK...”。核心要点：该英文报道关注最新动态：Saurav Das said that immigration authorities at Delhi airport told h...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 08:36:57 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 05:33:07 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：San Francisco is enjoying an AI boom, but worries about a crash are growing...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：San Francisco is enjoying an AI boom, but worries about a crash are growing...”。核心要点：该英文报道关注最新动态：AI employees in the industry's epicentre - San Francisco - worry tha...",
+        "titleZh": "该英文报道关注最新动态：What strike on Russian ship in Libya says about spread of Ukraine war...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：What strike on Russian ship in Libya says about spread of Ukraine war...”。核心要点：该英文报道关注最新动态：Ukraine's sinking of a Russian battleship at a port in Libya raises ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 00:08:00 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Nov 2026 20:48:35 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
       {
-        "titleZh": "该英文报道关注最新动态：Energy bills will soar - here's how you can ease the pain...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Energy bills will soar - here's how you can ease the pain...”。核心要点：该英文报道关注最新动态：Household energy bills are about to increase but there are ways to k...",
+        "titleZh": "该英文报道关注最新动态：Why the rise of the corporate landlord could lead to a two-tier rental market...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Why the rise of the corporate landlord could lead to a two-tier rental market...”。核心要点：该英文报道关注最新动态：Companies building flats that they then rent out could usher in big ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 01:05:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 00:28:48 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Poundland is facing collapse - what's gone wrong?...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Poundland is facing collapse - what's gone wrong?...”。核心要点：该英文报道关注最新动态：Poundland has a matter of days to find a buyer or face collapsing in...",
+        "titleZh": "该英文报道关注最新动态：BBC secret filming shows dog breeder selling sick puppies for £2k each...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：BBC secret filming shows dog breeder selling sick puppies for £2k each...”。核心要点：该英文报道关注最新动态：The breeder's rating was downgraded but he continued to advertise as...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 08:00:20 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 00:11:08 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Pip assessments need 'fundamental overhaul', report to say...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Pip assessments need 'fundamental overhaul', report to say...”。核心要点：该英文报道关注最新动态：Disability Minister Sir Stephen Timms says he will recommend major r...",
+        "titleZh": "该英文报道关注最新动态：Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen ...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen ...”。核心要点：该英文报道关注最新动态：Nvidia had come under pressure from President Trump to reappoint Hua...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Mon, 23 Nov 2026 08:19:13 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 10:53:37 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Centrica boss says he is 'hugely concerned' over impact of soaring energy bills...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Centrica boss says he is 'hugely concerned' over impact of soaring energy bills...”。核心要点：该英文报道关注最新动态：Chris O'Shea says the number of people unable or unwilling to pay th...",
+        "titleZh": "该英文报道关注最新动态：Faisal Islam: Why Jensen Huang proved too big to fire...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Faisal Islam: Why Jensen Huang proved too big to fire...”。核心要点：该英文报道关注最新动态：Huang's role at the centre of his company's journey to lynchpin of A...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Nov 2026 13:50:21 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Mon, 23 Nov 2026 17:11:58 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Employers are being asked to give interview feedback - here's what applicants wa...",
-        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：Employers are being asked to give interview feedback - here's what applicants wa...”。核心要点：该英文报道关注最新动态：People say they often hear nothing back after applying for jobs. But...",
+        "titleZh": "该英文报道关注最新动态：I pay £250 a month for someone else to do my life admin - it's worth it...",
+        "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：I pay £250 a month for someone else to do my life admin - it's worth it...”。核心要点：该英文报道关注最新动态：Busy mothers on both sides of the Atlantic are paying companies to h...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Sun, 22 Nov 2026 00:04:07 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Tue, 24 Nov 2026 00:01:04 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
