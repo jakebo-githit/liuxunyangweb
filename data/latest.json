@@ -1,50 +1,64 @@
 {
-  "updatedAt": "2026-11-27T09:42:08.067Z",
+  "updatedAt": "2026-11-28T08:56:20.519Z",
   "topics": {
-    "htn_kidney": [],
+    "htn_kidney": [
+      {
+        "title": "Nephrinuria as a marker of podocyte dysfunction in hypertensive nephropathy: relationship with renal functional reserve and changes during renin-angiotensin system blockade.",
+        "journal": "Frontiers in nephrology",
+        "pubDate": "2026",
+        "studyType": "Journal Article",
+        "authors": "Zokirov V, Tillakobilov I, Isroilov I",
+        "zhSummary": "该文聚焦高血压肾病，属于临床研究（样本量约为 17）。核心观点：该英文报道关注最新动态：Hypertensive kidney injury is often detected late by conventional markers.... 临床提示：该英文报道关注最新动态：Urinary nephrin excretion (nephrinuria) reflects podocyte injury and may help id...",
+        "abstract": "Hypertensive kidney injury is often detected late by conventional markers. Urinary nephrin excretion (nephrinuria) reflects podocyte injury and may help identify renal involvement in essential hypertension. In this prospective, single-centre study, 60 adults with essential hypertension (20 per 2018 ESC/ESH stage, I-III; 20 men, 40 women) were assessed at baseline and after 6 months of antihypertensive treatment based on renin-angiotensin system (RAS) blockade (enalapril, n = 17; azilsartan, n = 43; add-on eplerenone, n = 21). Urinary nephrin, serum TGF-β1, VEGF-A and aldosterone, cystatin C-based eGFR, renal functional reserve (RFR; protein-loading test), 24-h albuminuria, echocardiography a...",
+        "pmid": "43100632",
+        "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/43100632/",
+        "doiUrl": "https://doi.org/10.3389/fneph.2026.1928627",
+        "url": "https://doi.org/10.3389/fneph.2026.1928627"
+      }
+    ],
     "portal_hypertension": []
   },
   "news": {
     "world": [
       {
-        "titleZh": "该英文报道关注最新动态：Zelensky criticises 'strange' Trump-Putin friendship in BBC interview...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Zelensky criticises 'strange' Trump-Putin friendship in BBC interview...”。核心要点：该英文报道关注最新动态：Ukraine's president voices frustration with US and says it is not pu...",
+        "titleZh": "该英文报道关注最新动态：Spanish PM and rivals rally supporters in final pitch for votes...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Spanish PM and rivals rally supporters in final pitch for votes...”。核心要点：该英文报道关注最新动态：Prime Minister Pedro Sánchez wants to defy the polls, and his main r...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Nov 2026 09:07:48 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Fri, 27 Nov 2026 21:55:53 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Major Thanksgiving storm brings flooding, flight delays across US...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Major Thanksgiving storm brings flooding, flight delays across US...”。核心要点：该英文报道关注最新动态：Almost one million customers in the US had no power on Thursday even...",
+        "titleZh": "该英文报道关注最新动态：Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC...”。核心要点：该英文报道关注最新动态：The headquarters of Halk TV were raided last month, the latest in a ...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Nov 2026 05:15:26 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Nov 2026 04:13:45 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：Watch: Roofs torn off and streets under water as severe weather hits US...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Watch: Roofs torn off and streets under water as severe weather hits US...”。核心要点：该英文报道关注最新动态：Hundreds of thousands have been affected by storms in the country as...",
+        "titleZh": "该英文报道关注最新动态：Eight killed in Peruvian military helicopter crash...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Eight killed in Peruvian military helicopter crash...”。核心要点：该英文报道关注最新动态：The pilot was the sole survivor of the crash during a rescue mission...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Nov 2026 19:26:16 GMT",
-        "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Nov 2026 04:19:16 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：New Zealand's ruling coalition falls short of parliamentary majority by one seat...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：New Zealand's ruling coalition falls short of parliamentary majority by one seat...”。核心要点：该英文报道关注最新动态：The right-leaning ruling bloc led by the National Party has fallen s...",
+        "titleZh": "该英文报道关注最新动态：'Poison seller' Kenneth Law apologises in court to the families of his victims...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：'Poison seller' Kenneth Law apologises in court to the families of his victims...”。核心要点：该英文报道关注最新动态：The Canadian man, who pleaded guilty to 14 counts of aiding and abet...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Nov 2026 03:28:15 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Nov 2026 00:56:55 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "titleZh": "该英文报道关注最新动态：German boat dealer suspected of supplying Channel smuggling gangs, BBC finds...",
-        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：German boat dealer suspected of supplying Channel smuggling gangs, BBC finds...”。核心要点：该英文报道关注最新动态：Nearly a third of crossings in early 2026 allegedly involved boats o...",
+        "titleZh": "该英文报道关注最新动态：Australian wrestler Bronson Reed dies aged 38, WWE says...",
+        "summaryZh": "这是一条世界时事新闻，重点围绕“该英文报道关注最新动态：Australian wrestler Bronson Reed dies aged 38, WWE says...”。核心要点：该英文报道关注最新动态：Tributes have flooded in for the 38-year-old Australian who is survi...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Thu, 26 Nov 2026 05:00:24 GMT",
-        "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+        "publishedAt": "Sat, 28 Nov 2026 07:31:14 GMT",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "finance": [
@@ -85,7 +99,7 @@
         "summaryZh": "这是一条金融市场新闻，重点围绕“该英文报道关注最新动态：My self-care ritual is a meal at a fancy restaurant - on my own...”。核心要点：该英文报道关注最新动态：Solo-dining is being embraced as a self-care trend and it's reshapin...",
         "source": "BBC",
         "sourceLang": "English",
-        "publishedAt": "Fri, 27 Nov 2026 09:21:05 GMT",
+        "publishedAt": "Fri, 27 Nov 2026 10:10:36 GMT",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
       }
     ]
